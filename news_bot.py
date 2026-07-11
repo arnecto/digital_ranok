@@ -59,7 +59,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")  # optional
 
 CHANNEL_NAME = "Цифровий Ранок"
 MAX_ITEMS_PER_CATEGORY = 5
-HOURS_WINDOW = 24
+HOURS_WINDOW = 3  # small buffer for hourly runs; dedup via posted_links.json prevents repeats anyway
 GEMINI_MODEL = "gemini-flash-lite-latest"  # alias, always points to current fast/cheap free-tier model
 
 POSTED_FILE = "posted_links.json"
@@ -215,29 +215,38 @@ def main():
 
     today = datetime.now().strftime("%d.%m.%Y")
     now_time = datetime.now().strftime("%H:%M")
-    send_to_telegram(f"🌅 <b>{CHANNEL_NAME}</b> — дайджест за {today}")
+
+    # First pass: figure out what's actually new before sending anything
+    to_publish = {}
+    for category, entries in data.items():
+        selected = rank_and_summarize(category, entries)
+        if selected:
+            to_publish[category] = selected
+        else:
+            print(f"[SKIP] No new news for '{category}' in last {HOURS_WINDOW}h")
+
+    if not to_publish:
+        print(f"[INFO] Nothing new this run ({now_time}), channel and admin report skipped.")
+        return
+
+    send_to_telegram(f"🌅 <b>{CHANNEL_NAME}</b> — новини за {today} {now_time}")
     time.sleep(1)
 
     report_lines = [f"🗂 <b>Звіт про публікацію</b> — {today} {now_time}\n"]
 
-    for category, entries in data.items():
-        selected = rank_and_summarize(category, entries)
+    for category, selected in to_publish.items():
         message = format_message(category, selected)
-        if message:
-            # Telegram message limit is ~4096 chars, split if needed
-            for chunk_start in range(0, len(message), 4000):
-                send_to_telegram(message[chunk_start:chunk_start + 4000])
-                time.sleep(1)
-            print(f"[OK] Posted {len(selected)} items for '{category}'")
+        # Telegram message limit is ~4096 chars, split if needed
+        for chunk_start in range(0, len(message), 4000):
+            send_to_telegram(message[chunk_start:chunk_start + 4000])
+            time.sleep(1)
+        print(f"[OK] Posted {len(selected)} items for '{category}'")
 
-            report_lines.append(f"<b>{category}</b> — опубліковано {len(selected)}:")
-            for item in selected:
-                report_lines.append(f"• {item['title']}")
-                posted[item["link"]] = datetime.now(timezone.utc).isoformat()
-            report_lines.append("")
-        else:
-            print(f"[SKIP] No news for '{category}' in last {HOURS_WINDOW}h")
-            report_lines.append(f"<b>{category}</b> — новин за останні {HOURS_WINDOW}г не знайдено\n")
+        report_lines.append(f"<b>{category}</b> — опубліковано {len(selected)}:")
+        for item in selected:
+            report_lines.append(f"• {item['title']}")
+            posted[item["link"]] = datetime.now(timezone.utc).isoformat()
+        report_lines.append("")
 
     save_posted(posted)
 
