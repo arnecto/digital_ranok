@@ -53,6 +53,7 @@ FEEDS = {
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]  # bot: @digital_ranok_bot (token from BotFather, not the username)
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "@digital_ranok")
+TELEGRAM_ADMIN_CHAT_ID = os.environ.get("TELEGRAM_ADMIN_CHAT_ID")  # your personal chat id, for the report
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")  # optional
 
 CHANNEL_NAME = "Цифровий Ранок"
@@ -162,10 +163,11 @@ def format_message(category, items):
     return "\n".join(lines)
 
 
-def send_to_telegram(text):
+def send_to_telegram(text, chat_id=None):
+    chat_id = chat_id or TELEGRAM_CHAT_ID
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     resp = requests.post(url, data={
-        "chat_id": TELEGRAM_CHAT_ID,
+        "chat_id": chat_id,
         "text": text,
         "parse_mode": "HTML",
         "disable_web_page_preview": False,
@@ -177,8 +179,11 @@ def main():
     data = fetch_recent_entries()
 
     today = datetime.now().strftime("%d.%m.%Y")
+    now_time = datetime.now().strftime("%H:%M")
     send_to_telegram(f"🌅 <b>{CHANNEL_NAME}</b> — дайджест за {today}")
     time.sleep(1)
+
+    report_lines = [f"🗂 <b>Звіт про публікацію</b> — {today} {now_time}\n"]
 
     for category, entries in data.items():
         selected = rank_and_summarize(category, entries)
@@ -189,8 +194,20 @@ def main():
                 send_to_telegram(message[chunk_start:chunk_start + 4000])
                 time.sleep(1)
             print(f"[OK] Posted {len(selected)} items for '{category}'")
+
+            report_lines.append(f"<b>{category}</b> — опубліковано {len(selected)}:")
+            for item in selected:
+                report_lines.append(f"• {item['title']}")
+            report_lines.append("")
         else:
             print(f"[SKIP] No news for '{category}' in last {HOURS_WINDOW}h")
+            report_lines.append(f"<b>{category}</b> — новин за останні {HOURS_WINDOW}г не знайдено\n")
+
+    if TELEGRAM_ADMIN_CHAT_ID:
+        report_text = "\n".join(report_lines)
+        for chunk_start in range(0, len(report_text), 4000):
+            send_to_telegram(report_text[chunk_start:chunk_start + 4000], chat_id=TELEGRAM_ADMIN_CHAT_ID)
+            time.sleep(1)
 
 
 if __name__ == "__main__":
