@@ -51,10 +51,11 @@ FEEDS = {
     ],
 }
 
-TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
-TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
+TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]  # bot: @digital_ranok_bot (token from BotFather, not the username)
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "@digital_ranok")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")  # optional
 
+CHANNEL_NAME = "Цифровий Ранок"
 MAX_ITEMS_PER_CATEGORY = 5
 HOURS_WINDOW = 24
 GEMINI_MODEL = "gemini-2.5-flash-lite"  # free tier: 1000 requests/day, 15 RPM
@@ -173,6 +174,11 @@ def send_to_telegram(text):
 
 def main():
     data = fetch_recent_entries()
+
+    today = datetime.now().strftime("%d.%m.%Y")
+    send_to_telegram(f"🌅 <b>{CHANNEL_NAME}</b> — дайджест за {today}")
+    time.sleep(1)
+
     for category, entries in data.items():
         selected = rank_and_summarize(category, entries)
         message = format_message(category, selected)
