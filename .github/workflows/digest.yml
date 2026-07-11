@@ -1,7 +1,7 @@
 name: News Digest
 on:
   schedule:
-    - cron: '0 9,21 * * *'
+    - cron: '0 * * * *'  # every hour, 24/7
   workflow_dispatch:
 
 permissions:
