@@ -3,7 +3,8 @@
 News digest bot.
 
 Fetches RSS news from IT/AI, Business/Startups and Crypto sources,
-filters items published in the last 24 hours, asks Claude to pick the
+filters items published in the last 24 hours, skips items already
+posted before (tracked in posted_links.json), asks Gemini to pick the
 most important ones and write short summaries, then posts the digest
 to a Telegram channel.
 
@@ -60,6 +61,9 @@ CHANNEL_NAME = "Цифровий Ранок"
 MAX_ITEMS_PER_CATEGORY = 5
 HOURS_WINDOW = 24
 GEMINI_MODEL = "gemini-flash-lite-latest"  # alias, always points to current fast/cheap free-tier model
+
+POSTED_FILE = "posted_links.json"
+POSTED_RETENTION_HOURS = 72  # remember posted links for 3 days (window is 24h, keep a safety buffer)
 
 
 def fetch_recent_entries():
@@ -175,8 +179,39 @@ def send_to_telegram(text, chat_id=None):
     resp.raise_for_status()
 
 
+def load_posted():
+    """Load {link: iso_timestamp} of previously posted articles, pruning old entries."""
+    if not os.path.exists(POSTED_FILE):
+        return {}
+    try:
+        with open(POSTED_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=POSTED_RETENTION_HOURS)
+    pruned = {}
+    for link, ts in data.items():
+        try:
+            if datetime.fromisoformat(ts) >= cutoff:
+                pruned[link] = ts
+        except ValueError:
+            continue
+    return pruned
+
+
+def save_posted(posted):
+    with open(POSTED_FILE, "w", encoding="utf-8") as f:
+        json.dump(posted, f, ensure_ascii=False, indent=2)
+
+
 def main():
+    posted = load_posted()
     data = fetch_recent_entries()
+
+    # Drop items that were already posted in a previous run
+    for category, entries in data.items():
+        data[category] = [e for e in entries if e["link"] not in posted]
 
     today = datetime.now().strftime("%d.%m.%Y")
     now_time = datetime.now().strftime("%H:%M")
@@ -198,10 +233,13 @@ def main():
             report_lines.append(f"<b>{category}</b> — опубліковано {len(selected)}:")
             for item in selected:
                 report_lines.append(f"• {item['title']}")
+                posted[item["link"]] = datetime.now(timezone.utc).isoformat()
             report_lines.append("")
         else:
             print(f"[SKIP] No news for '{category}' in last {HOURS_WINDOW}h")
             report_lines.append(f"<b>{category}</b> — новин за останні {HOURS_WINDOW}г не знайдено\n")
+
+    save_posted(posted)
 
     if TELEGRAM_ADMIN_CHAT_ID:
         report_text = "\n".join(report_lines)
