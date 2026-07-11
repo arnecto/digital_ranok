@@ -58,7 +58,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")  # optional
 CHANNEL_NAME = "Цифровий Ранок"
 MAX_ITEMS_PER_CATEGORY = 5
 HOURS_WINDOW = 24
-GEMINI_MODEL = "gemini-2.5-flash-lite"  # free tier: 1000 requests/day, 15 RPM
+GEMINI_MODEL = "gemini-flash-lite-latest"  # alias, always points to current fast/cheap free-tier model
 
 
 def fetch_recent_entries():
@@ -112,20 +112,21 @@ def rank_and_summarize(category, entries):
         f"https://generativelanguage.googleapis.com/v1beta/models/"
         f"{GEMINI_MODEL}:generateContent"
     )
-    resp = requests.post(
-        url,
-        headers={
-            "x-goog-api-key": GEMINI_API_KEY,
-            "Content-Type": "application/json",
-        },
-        json={"contents": [{"parts": [{"text": prompt}]}]},
-        timeout=60,
-    )
-    resp.raise_for_status()
-    data = resp.json()
     try:
+        resp = requests.post(
+            url,
+            headers={
+                "x-goog-api-key": GEMINI_API_KEY,
+                "Content-Type": "application/json",
+            },
+            json={"contents": [{"parts": [{"text": prompt}]}]},
+            timeout=60,
+        )
+        resp.raise_for_status()
+        data = resp.json()
         text = data["candidates"][0]["content"]["parts"][0]["text"]
-    except (KeyError, IndexError):
+    except (requests.exceptions.RequestException, KeyError, IndexError) as e:
+        print(f"[WARN] Gemini call failed for '{category}': {e}. Falling back to raw items.")
         return entries[:MAX_ITEMS_PER_CATEGORY]
 
     text = text.strip()
