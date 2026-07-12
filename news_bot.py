@@ -55,7 +55,7 @@ from zoneinfo import ZoneInfo
 
 FEEDS = {
     "IT / AI": [
-        "https://habr.com/ru/rss/all/all/",
+        "https://en.ain.ua/feed/",
         "https://hnrss.org/frontpage",
         "https://www.theverge.com/rss/index.xml",
     ],
@@ -144,9 +144,14 @@ def rank_and_summarize(category, entries, max_items):
     prompt = (
         f'Ось список новин за категорією "{category}".\n'
         f"Обери не більше {max_items} найважливіших і найцікавіших новин.\n"
-        "Для кожної напиши коротке summary (2-3 речення) українською.\n"
+        "Для кожної:\n"
+        "1. Переклади/адаптуй заголовок українською (стисло, як заголовок новини, "
+        "не дослівний переклад, а природний український заголовок).\n"
+        "2. Напиши коротке summary (2-3 речення) українською.\n"
+        "Незалежно від мови оригіналу (англійська, українська чи будь-яка інша) — "
+        "і заголовок, і summary мають бути ЛИШЕ українською.\n"
         'Поверни ЛИШЕ JSON-масив об\'єктів формату:\n'
-        '[{"index": <номер з дужок>, "summary": "<текст>"}]\n'
+        '[{"index": <номер з дужок>, "title": "<укр. заголовок>", "summary": "<укр. текст>"}]\n'
         "Без жодного іншого тексту, без markdown-обгортки.\n\n"
         f"Новини:\n{items_text}"
     )
@@ -191,6 +196,7 @@ def rank_and_summarize(category, entries, max_items):
             continue
         item = entries[idx].copy()
         item["ai_summary"] = p.get("summary", item["summary"])
+        item["ai_title"] = p.get("title", item["title"])
         selected.append(item)
     return selected
 
@@ -204,8 +210,9 @@ def summarize_single(category, item):
 
 
 def format_single_message(category, item):
+    title = item.get("ai_title", item["title"])
     summary = item.get("ai_summary", item["summary"])
-    return f"📰 <b>{category}</b>\n\n<b>{item['title']}</b>\n{summary}\n{item['link']}"
+    return f"📰 <b>{category}</b>\n\n<b>{title}</b>\n{summary}\n{item['link']}"
 
 
 def send_to_telegram(text, chat_id=None):
@@ -463,13 +470,14 @@ def main():
         return
 
     item = summarize_single(category, item)
+    display_title = item.get("ai_title", item["title"])
     send_to_telegram(f"🌅 <b>{CHANNEL_NAME}</b>")
     time.sleep(1)
     send_to_telegram(format_single_message(category, item))
-    print(f"[OK] Posted 1 item from '{category}': {item['title']}")
+    print(f"[OK] Posted 1 item from '{category}': {display_title}")
 
     posted[item["link"]] = {
-        "title": item["title"],
+        "title": display_title,
         "category": category,
         "posted_at": datetime.now(KYIV_TZ).isoformat(),
     }
