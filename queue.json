@@ -167,18 +167,50 @@
       "published": "2026-07-12T12:08:07+00:00",
       "source": "Hacker News: Front Page",
       "ai_summary": "Огляд мови програмування Odin, яка стає популярною завдяки своїй продуктивності та зручності для системного програмування. Автор пояснює ключові особливості синтаксису та філософію цієї мови."
+    },
+    {
+      "title": "7 шагов, 6 запретов и один валидатор: разбираю /dataviz в Claude Code",
+      "link": "https://habr.com/ru/articles/1058312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058312",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/94d/68d/8cc/94d68d8cc74a557d60ab6d709fe1e9bb.png\" /><p>Скормил новому встроенному скиллу Claude Code датасет на 76 лет — только ранги, без чисел. Модель сама выбрала перевёрнутую лог-ось, проверила палитру математикой и починила наезжающие подписи. Разбираю, как /dataviz устроен изнутри и почему из всех решений кодом проверяется только цв",
+      "published": "2026-07-12T15:05:54+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Автор розбирає функціонал /dataviz у Claude Code, який дозволяє моделі автоматично аналізувати датасети та створювати візуалізації. Досліджується, як ШІ самостійно обирає налаштування графіків та коригує помилки в оформленні."
+    },
+    {
+      "title": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+      "link": "https://github.com/Roee-Tsur/mcp-spec-check",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Roee-Tsur/mcp-spec-check\">https://github.com/Roee-Tsur/mcp-spec-check</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881009\">https://news.ycombinator.com/item?id=48881009</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+      "published": "2026-07-12T13:21:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналіз показує критичну проблему сумісності: лише 1 з понад 4000 існуючих серверів MCP готовий до специфікації 2026-07-28. Це підкреслює складнощі стандартизації інструментів для ШІ-агентів."
+    },
+    {
+      "title": "Локализация уже скомпилированных React компонентов в node_modules",
+      "link": "https://habr.com/ru/articles/1058286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058286",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/b98/677/230/b986772308d0debb14f95f750e5904c3.png\" /><p>🇧🇷 🇨🇳 🇮🇳 <strong>Локализуем React не трогая код компонентов</strong></p><p>React-компоненты из <code>node_modules</code> уже скомпилированы, поэтому внедрить <code>react-i18next</code> в них обычно невозможно без форка библиотеки. В статье показываю, как перехватить все вызовы <code>j",
+      "published": "2026-07-12T13:06:39+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Стаття пропонує спосіб локалізації вже скомпілованих React-компонентів із node_modules без потреби у форках чи зміні вихідного коду бібліотек. Рішення базується на перехопленні викликів для впровадження інтернаціоналізації."
+    },
+    {
+      "title": "Товароучёт + Честный Знак: как написать свое ПО для работы с маркировкой настольных игр",
+      "link": "https://habr.com/ru/articles/1058282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058282",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/693/676/0d8/6936760d8c1d61397ca1c6a971c152c6.png\" /><p> «Честный Знак» накрывает всех: как не платить по несколько тысяч рублей в месяц за готовые облачные решения, если у вас небольшие тиражи. Рассказываю, как я написал (а точнее навайбкодил) собственное веб-приложение на Python/Flask для учета товаров и автоматизации работы с КМ (кодами",
+      "published": "2026-07-12T12:51:36+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Розробник ділиться досвідом створення власного веб-додатку на Python/Flask для автоматизації обліку товарів та роботи з системою «Честный Знак». Це допомагає малому бізнесу уникнути витрат на дорогі хмарні сервіси."
+    },
+    {
+      "title": "Как включить кипятильник Ардуиной?",
+      "link": "https://habr.com/ru/articles/1058278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058278",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/a08/cda/b18/a08cdab187c9335c52c2bc47ab4b21b8.png\" /><p>Вот всем хороши микроконтроллеры - маленькие, программируемые, \"умные\" - одно плохо: нельзя вот так просто так взять и включить, скажем, двигатель откатных ворот или группу прожекторов на объекте.<br />Двигателю нужно 220В, а то и 380, а микроконтроллер питается от 3.3.  </p><p>Для эт",
+      "published": "2026-07-12T12:40:32+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Практичне керівництво з інтеграції мікроконтролерів (Arduino) для керування потужним обладнанням, таким як двигуни або нагрівачі. Автор пояснює, як безпечно комутувати високу напругу, маючи справу з низьковольтною логікою."
     }
   ],
   "Бізнес / Стартапи": [],
   "Крипта": [
-    {
-      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-      "link": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-ordinals.jpg\" /></p><p>The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years.</p>",
-      "published": "2026-07-12T04:24:36+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Відомі прихильники біткоїна Майкл Сейлор та Адам Бек виступили з різкою критикою пропозиції BIP-110, яка стосується протоколу Ordinals. Суперечка виникла на тлі тривалого зниження активності транзакцій в екосистемі Ordinals за останні два роки."
-    },
     {
       "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
       "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
