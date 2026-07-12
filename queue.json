@@ -477,18 +477,55 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Офіційна документація JAX тепер детально описує роботу з новими типами даних через механізм hijax. Це оновлення дозволяє розробникам ефективніше будувати кастомні архітектури в рамках бібліотеки.",
       "ai_title": "Розширення можливостей JAX за допомогою нових типів даних"
+    },
+    {
+      "title": "I trained a 113M-parameter earthquake LLM from absolute scratch",
+      "link": "https://github.com/jiazhe868/nanogpt-seis",
+      "summary": "<p>Article URL: <a href=\"https://github.com/jiazhe868/nanogpt-seis\">https://github.com/jiazhe868/nanogpt-seis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885236\">https://news.ycombinator.com/item?id=48885236</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T21:58:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник успішно навчив компактну мовну модель зі 113 мільйонами параметрів спеціально для сейсмологічних завдань. Проєкт демонструє можливості навчання вузькоспеціалізованих моделей ШІ з нуля на власних даних.",
+      "ai_title": "Створення власної LLM для прогнозування землетрусів"
+    },
+    {
+      "title": "Show HN: Codebase Posters – turn any Git repo into generative poster art",
+      "link": "https://github.com/unable12/codebase-posters",
+      "summary": "<p>npx codebase-posters inside any git repo opens a local exhibition: 18 pieces painted live from your commit history.<p>everything renders from git log, nothing leaves your machine.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885500\">https://news.ycombinator.com/item?id=48885500</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T22:26:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий інструмент Codebase Posters дозволяє перетворити історію комітів проєкту на унікальні цифрові постери. Програма генерує візуалізації локально, гарантуючи конфіденційність вашого коду.",
+      "ai_title": "Генеративне мистецтво з історії вашого Git-репозиторію"
+    },
+    {
+      "title": "A Speed Limit for Computers",
+      "link": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+      "summary": "<p>Article URL: <a href=\"https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm\">https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885525\">https://news.ycombinator.com/item?id=48885525</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T22:29:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує фізичні та програмні обмеження, що впливають на продуктивність обчислювальних систем. Стаття розглядає межі ефективності, з якими стикається сучасне залізо та архітектура ПЗ.",
+      "ai_title": "Чи існує «ліміт швидкості» для сучасних комп'ютерів?"
+    },
+    {
+      "title": "Designing and assembling my first PCB",
+      "link": "https://vilkeliskis.com/b/2026/0711.html",
+      "summary": "<p>Article URL: <a href=\"https://vilkeliskis.com/b/2026/0711.html\">https://vilkeliskis.com/b/2026/0711.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885728\">https://news.ycombinator.com/item?id=48885728</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T22:56:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор ділиться практичним досвідом проектування та збирання власної друкованої плати (PCB). Це корисний кейс для розробників-початківців, які хочуть опанувати апаратне забезпечення.",
+      "ai_title": "Досвід створення першої друкованої плати"
+    },
+    {
+      "title": "Architecture Description Languages [pdf]",
+      "link": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+      "summary": "<p>Article URL: <a href=\"https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf\">https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885708\">https://news.ycombinator.com/item?id=48885708</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T22:54:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Оглядовий матеріал присвячений мовам опису архітектури (ADL), які використовуються для формалізації структури складних систем. Документ аналізує еволюцію цих мов та їхню роль у проєктуванні програмного забезпечення.",
+      "ai_title": "Вивчення мов опису архітектури програмного забезпечення"
     }
   ],
   "Бізнес / Стартапи": [],
   "Крипта": [
-    {
-      "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
-      "link": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cambridge study puts Ethereum near the lower end of PoS energy intensity\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-germanys-blockchain-solution-hopes-to-remedy-energy-sector-limitations.jpg\" /></p><p>Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowes",
-      "published": "2026-07-12T09:18:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Дослідження Кембриджського університету показало, що Ethereum має один із найнижчих показників енергоспоживання серед мереж на алгоритмі Proof-of-Stake. Річне споживання енергії мережею оцінюється у 7,87 ГВт-год, що підтверджує високу енергоефективність блокчейну після переходу на новий механізм консенсусу."
-    },
     {
       "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
       "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
