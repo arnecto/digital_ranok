@@ -319,18 +319,50 @@
       "published": "2026-07-12T15:44:13+00:00",
       "source": "Hacker News: Front Page",
       "ai_summary": "Утиліта Croc, що дозволяє безпечно та швидко передавати файли або цілі папки між двома комп'ютерами. Це зручне рішення для розробників, яким потрібен захищений обмін даними без зайвих складнощів."
+    },
+    {
+      "title": "Структурная власть на скорости машин",
+      "link": "https://habr.com/ru/articles/1058354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058354",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/c4f/9b7/c38/c4f9b7c381dcc9c484eb79be7864a8ce.jpg\" /><p><em>Сильнейшие экономики мира вкладывают в ИИ триллионы не ради ещё одного способа зачитать чужой сетевой флоу. Гонка идёт за право задавать условия, в которых государства и компании видят мир и принимают решения.</em></p><p><em>ИИ-стек связывает безопасность, производство, финансы и ",
+      "published": "2026-07-12T19:13:59+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Глобальні економіки інвестують трильйони в ШІ не лише заради технологічного прогресу, а для здобуття структурної влади. Це перетворює ШІ-стек на інструмент контролю над тим, як держави та корпорації сприймають світ і приймають стратегічні рішення."
+    },
+    {
+      "title": "[Pet project] 90% людей забывают, о чём договорились на созвоне. Я же экономлю часы каждую неделю",
+      "link": "https://habr.com/ru/articles/1049970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049970",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/030/4ed/615/0304ed6154932df8426e440352ff6701.jpg\" /><p>Мы привыкли думать, что после хорошего созвона все участники понимают одно и то же: что решили, кто что делает и какие следующие шаги. На практике это почти никогда не так.  В одном из исследований памяти разговоров участники через неделю после беседы смогли совпасть в воспоминаниях д",
+      "published": "2026-07-12T18:46:14+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Розробник створив інструмент для автоматизації протоколів нарад, щоб вирішити проблему забування домовленостей. Рішення допомагає чітко фіксувати завдання та наступні кроки, заощаджуючи час команди щотижня."
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "summary": "<p>This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code",
+      "published": "2026-07-12T18:25:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження порівняло споживання токенів інструментами Claude Code та OpenCode під час розробки. Виявилося, що Claude Code витрачає значно більше ресурсів на підготовчі запити, що робить його менш економним у довгостроковій перспективі."
+    },
+    {
+      "title": "Can We Understand How Large Language Models Reason?",
+      "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/\">https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883090\">https://news.ycombinator.com/item?id=48883090</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
+      "published": "2026-07-12T18:04:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття досліджує актуальну проблему прозорості ШІ — чи можемо ми насправді зрозуміти механізми міркувань великих мовних моделей. Це питання критично важливе для довіри до систем, що стають все більш автономними."
+    },
+    {
+      "title": "I love LLMs, I hate hype",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "summary": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html\">https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883343\">https://news.ycombinator.com/item?id=48883343</a></p>\n<p>Points: 54</p>\n<p># Comments: 16</p>",
+      "published": "2026-07-12T18:31:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор висловлює любов до самих великих мовних моделей, але різко критикує поточний рівень хайпу навколо них. Допис закликає до більш тверезого та прагматичного погляду на розвиток цієї технології."
     }
   ],
   "Бізнес / Стартапи": [],
   "Крипта": [
-    {
-      "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
-      "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
-      "summary": "",
-      "published": "2026-07-12T06:18:15+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курси Bitcoin та Ethereum залишаються стабільними, попри загострення геополітичної напруженості через нові удари США по цілях в Ірані. Криптовалютний ринок демонструє стійкість до зовнішніх політичних шоків, не показуючи значних коливань вартості."
-    },
     {
       "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
       "link": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
