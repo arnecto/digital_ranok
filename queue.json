@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Пять мини-ПК июля 2026 года: Wildcat Lake, Panther Lake и новинки для геймеров",
-      "link": "https://habr.com/ru/companies/selectel/articles/1056316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056316",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/b4f/35a/db2/b4f35adb2e236c8c429d1fb049fa3f62.jpg\" /><p>Привет, Хабр! В этой подборке — сразу несколько новинок на процессорах Intel Wildcat Lake и Panther Lake, компактная игровая система с GeForce<sup>®</sup> RTX 5080, мини-ПК с поддержкой внешней видеокарты через PCIe 5.0 и другие системы, которые заметно отличаются от привычных «офисны",
-      "published": "2026-07-12T08:00:26+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Огляд нових міні-ПК 2026 року на базі архітектур Intel Wildcat Lake та Panther Lake. До добірки увійшли потужні компактні системи з підтримкою GeForce RTX 5080 та інтерфейсом PCIe 5.0 для зовнішніх відеокарт."
-    },
-    {
       "title": "Геометрическая динамика: пространство ускорений как решение задачи трех тел",
       "link": "https://habr.com/ru/articles/1058236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058236",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/be7/5fd/468/be75fd468bae983b28c4be68aaffd8be.jpg\" /><p>Мы привыкли, что задача трех тел — это символ хаоса, проклятие небесной механики, над которой Пуанкаре махнул рукой в 1890-м. Ньютон не решил, Лагранж только частные случаи нашел, а мы решили — и никаких суперкомпьютеров NASA нам не понадобилось. Как? Мы перестали искать формулу и пос",
@@ -404,6 +396,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Автор ділиться особистим досвідом подолання інформаційного перевантаження та звички до споживання контенту в швидкому цифровому форматі. У статті йдеться про методи повернення до глибокого та вдумливого читання в епоху постійних відволікань.",
       "ai_title": "Як я знову навчився читати"
+    },
+    {
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013\">https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884322\">https://news.ycombinator.com/item?id=48884322</a></p>\n<p>Points",
+      "published": "2026-07-12T20:16:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Рівень енергоспоживання центрів обробки даних в Ірландії досяг критичної позначки у 23%. Це ставить перед країною серйозні виклики щодо енергетичної інфраструктури та екологічної стійкості на тлі стрімкого розвитку IT-сектору.",
+      "ai_title": "Дата-центри Ірландії споживають майже чверть електроенергії країни"
+    },
+    {
+      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "link": "https://nanduruganesh.github.io/flash-msa/",
+      "summary": "<p>Article URL: <a href=\"https://nanduruganesh.github.io/flash-msa/\">https://nanduruganesh.github.io/flash-msa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884618\">https://news.ycombinator.com/item?id=48884618</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T20:46:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технологія Flash-MSA використовує розріджені ядра уваги (sparse attention kernels) для суттєвого пришвидшення навчання великих мовних моделей. Це дозволяє ефективніше опрацьовувати наддовгі послідовності даних, що було технічно складно раніше.",
+      "ai_title": "Flash-MSA: новий метод навчання нейромереж з контекстом у мільйон токенів"
+    },
+    {
+      "title": "Tiny Emulators",
+      "link": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "summary": "<p>Article URL: <a href=\"https://floooh.github.io/tiny8bit-preview/index.html\">https://floooh.github.io/tiny8bit-preview/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884395\">https://news.ycombinator.com/item?id=48884395</a></p>\n<p>Points: 52</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T20:23:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт представляє колекцію надкомпактних емуляторів для 8-бітних архітектур, що працюють безпосередньо у браузері. Це цікаве технічне рішення для збереження спадщини ретро-обчислень у сучасному вебі.",
+      "ai_title": "Tiny Emulators: добірка мініатюрних емуляторів класичних систем"
+    },
+    {
+      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "summary": "<p>Article URL: <a href=\"https://scrapfly.dev/posts/browser-math-os-fingerprint/\">https://scrapfly.dev/posts/browser-math-os-fingerprint/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884853\">https://news.ycombinator.com/item?id=48884853</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-12T21:12:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Виявлено вразливість у браузері Chromium, де специфічне обчислення Math.tanh дозволяє ідентифікувати операційну систему користувача через відмінності у вихідних даних. Це створює нові ризики для цифрового відбитку (fingerprinting) та анонімності в мережі.",
+      "ai_title": "Функція Math.tanh у Chrome тепер може видати вашу операційну систему"
+    },
+    {
+      "title": "The State of MCP Security [pdf]",
+      "link": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf\">https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884647\">https://news.ycombinator.com/item?id=48884647</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T20:49:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітичний звіт розглядає сучасні загрози безпеці протоколу Model Context Protocol (MCP). Документ підкреслює важливість захисту інтеграцій між ШІ-агентами та зовнішніми системами для запобігання несанкціонованому доступу.",
+      "ai_title": "Стан безпеки протоколу MCP: головні ризики та виклики"
     }
   ],
   "Бізнес / Стартапи": [],
