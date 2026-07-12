@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Четыре истории внедрения ИИ в бизнесе: агент для заявок, RAG по документам и проверка сметы нейросетями",
-      "link": "https://habr.com/ru/articles/1058224/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058224",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/219/56b/42f/21956b42feb224b7ca4de1ac8b907740.jpg\" /><p>«Внедрить ИИ» — формулировка, за которой на практике скрываются совершенно разные по масштабу работы. Одной компании нужен агент, который годами живёт на сервере и разбирает входящие заявки. Другой — разовый прогон одного документа через связку нейросетей перед подписанием акта. Треть",
-      "published": "2026-07-12T06:22:23+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Аналіз чотирьох реальних кейсів впровадження ШІ в бізнес-процеси. Розглядається використання інтелектуальних агентів для обробки заявок, систем RAG для роботи з документацією та автоматизована перевірка кошторисів нейромережами."
-    },
-    {
       "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
       "link": "https://github.com/cosmtrek/mindwalk",
       "summary": "<p>Article URL: <a href=\"https://github.com/cosmtrek/mindwalk\">https://github.com/cosmtrek/mindwalk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878682\">https://news.ycombinator.com/item?id=48878682</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
@@ -135,6 +127,46 @@
       "published": "2026-07-12T12:00:00+00:00",
       "source": "The Verge",
       "ai_summary": "Активізується громадський та регуляторний спротив будівництву нових енергоємних дата-центрів для потреб штучного інтелекту. Це протистояння стає ключовою темою через зростаючий тиск на локальні енергетичні мережі та екологічні ризики."
+    },
+    {
+      "title": "Выбираем лучшую нейросеть для видео 2026",
+      "link": "https://habr.com/ru/companies/bothub/articles/1058144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058144",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/c70/4fc/e98/c704fce983c9232b2874a107f77a4460.jpg\" /><p><strong>Привет Хабр!</strong></p><p>В прошлых годах видео от нейросети было заметна по характерным огрехам. По плывущим лицам, лишним пальцам и кривому движению. Как дела обстоят в середине 2026-го?&nbsp;</p><p>Мы взяли пять топовых генераторов видео —&nbsp;<strong>Veo 3.1, Kling v3 O",
+      "published": "2026-07-12T13:50:22+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Огляд сучасних нейромереж для генерації відео станом на середину 2026 року. Автори порівнюють топові моделі, такі як Veo 3.1 та Kling v3, оцінюючи якість анімації та усунення поширених візуальних артефактів."
+    },
+    {
+      "title": "Экс-гендиректор Google: «Если вы хотите работать в ИТ и побеждать, придется вернуться в офис». Это конец удаленки?",
+      "link": "https://habr.com/ru/companies/beeline_cloud/articles/1058116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058116",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/b3a/cd0/ef6/b3acd0ef67135539a64855e5eef00b50.jpg\" /><p>Еще недавно руководители компаний видели в удаленке большие перспективы, но сегодня сотрудников все чаще приглашают вернуться в офисы. Мы в <a href=\"https://cloud.beeline.ru/?utm_source=owned_media&amp;utm_medium=habr&amp;utm_campaign=beeline_cloud&amp;utm_term=hybrid\">Beeline Cloud</",
+      "published": "2026-07-12T13:29:52+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Дискусія про майбутнє віддаленої роботи в ІТ на фоні закликів керівників повертатися до офісів. Стаття аналізує, чи стає завершення ери повністю віддаленої роботи загальносвітовим трендом."
+    },
+    {
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-science-research-flattens-discovery\">https://spectrum.ieee.org/ai-science-research-flattens-discovery</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881043\">https://news.ycombinator.com/item?id=48881043</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T13:26:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітичний матеріал про вплив ШІ на наукові дослідження. Дослідники зазначають, що хоча технології допомагають прискорити кар'єрний ріст, вони одночасно можуть обмежувати глибину та новизну наукових відкриттів."
+    },
+    {
+      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
+      "link": "https://mrbruh.com/motorola/",
+      "summary": "<p>Article URL: <a href=\"https://mrbruh.com/motorola/\">https://mrbruh.com/motorola/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880406\">https://news.ycombinator.com/item?id=48880406</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-12T11:52:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Звіт про виявлену вразливість RCE без автентифікації у роутерах Motorola MR2600. Це критична загроза безпеці, що дозволяє зловмисникам виконувати довільний код на пристрої."
+    },
+    {
+      "title": "Understanding the Odin Programming Language",
+      "link": "https://odinbook.com/",
+      "summary": "<p>Article URL: <a href=\"https://odinbook.com/\">https://odinbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880499\">https://news.ycombinator.com/item?id=48880499</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-12T12:08:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Огляд мови програмування Odin, яка стає популярною завдяки своїй продуктивності та зручності для системного програмування. Автор пояснює ключові особливості синтаксису та філософію цієї мови."
     }
   ],
   "Бізнес / Стартапи": [],
@@ -170,6 +202,22 @@
       "published": "2026-07-12T11:30:00+00:00",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Біткоїн наближається до лінії підтримки, заснованої на теорії степеневого закону, яку компанія Fidelity відстежує з 2015 року. Цей показник часто використовується аналітиками для оцінки довгострокового цінового тренду головної криптовалюти."
+    },
+    {
+      "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+      "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
+      "summary": "",
+      "published": "2026-07-12T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Ринкова капіталізація стейблкоїнів скоротилася на 10 мільярдів доларів з травня. Попри це, аналітики зберігають спокій і не бачать приводів для паніки серед інвесторів."
+    },
+    {
+      "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
+      "link": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pakistan crypto chief seeks dialogue after scholar rules against crypto payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrency-in-islamic-banking-and-finance.jpg\" /></p><p>Pakistan’s virtual-assets regulator called for continued dialogue on the treatment of digi",
+      "published": "2026-07-12T12:26:09+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Регулятор віртуальних активів Пакистану ініціює діалог після того, як ісламський вчений виступив проти використання криптовалют для платежів. Влада намагається знайти компроміс у питанні правового статусу цифрових активів в ісламській фінансовій системі."
     }
   ]
 }
