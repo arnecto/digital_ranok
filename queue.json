@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "link": "https://github.com/cosmtrek/mindwalk",
-      "summary": "<p>Article URL: <a href=\"https://github.com/cosmtrek/mindwalk\">https://github.com/cosmtrek/mindwalk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48878682\">https://news.ycombinator.com/item?id=48878682</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-12T05:51:32+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено інструмент Mindwalk для візуалізації роботи AI-агентів у кодовій базі. Проєкт дозволяє відтворювати сесії програмування у форматі 3D-карти, допомагаючи краще зрозуміти логіку змін та дії штучного інтелекту."
-    },
-    {
       "title": "Пять мини-ПК июля 2026 года: Wildcat Lake, Panther Lake и новинки для геймеров",
       "link": "https://habr.com/ru/companies/selectel/articles/1056316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1056316",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/b4f/35a/db2/b4f35adb2e236c8c429d1fb049fa3f62.jpg\" /><p>Привет, Хабр! В этой подборке — сразу несколько новинок на процессорах Intel Wildcat Lake и Panther Lake, компактная игровая система с GeForce<sup>®</sup> RTX 5080, мини-ПК с поддержкой внешней видеокарты через PCIe 5.0 и другие системы, которые заметно отличаются от привычных «офисны",
@@ -247,6 +239,46 @@
       "published": "2026-07-12T14:23:14+00:00",
       "source": "Все публикации подряд на Хабре",
       "ai_summary": "Огляд складної історії Fable 5, яка знову стала доступною після тривалого глобального відключення. Стаття охоплює період від розробки до закулісних політичних ігор та міжнародних наслідків інциденту."
+    },
+    {
+      "title": "Невидимый слой PDF с инструкциями для ботов",
+      "link": "https://habr.com/ru/companies/globalsign/articles/1058328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058328",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/5da/c9b/873/5dac9b873c51318875ba967b9e8ee879.png\" /><p>Невидимый текстовый слой PDF можно редактировать и экспортировать в Markdown, JSON и TXT. Такие документы называются <a href=\"https://github.com/iminoaru/adaptivepdf\">адаптивными PDF</a>, они созданы для чтения и людьми, и роботами. Люди видят обычный PDF, а роботы — отдельный слой <c",
+      "published": "2026-07-12T17:01:24+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Адаптивні PDF-документи використовують прихований текстовий шар, який дозволяє ботам легко зчитувати та експортувати дані у форматах Markdown або JSON. Це інноваційне рішення дозволяє зберігати документ візуально звичним для людей, одночасно роблячи його структурованим для автоматизованої обробки."
+    },
+    {
+      "title": "ИИ-грамотность, доверие и цена доменной экспертизы",
+      "link": "https://habr.com/ru/articles/1058326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058326",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/0e8/3ca/e1c/0e83cae1c8917b81f3cdc66cba9b73f7.jpg\" /><p>Внедрение ИИ в реальные бизнес-процессы компаний зависит не только от качества моделей и стоимости токенов, но и от уровня доверия к технологии в целом. Такое доверие формируется на основе понимания общих принципов работы LLM, технических навыков работы с ИИ-помощниками, знаний об инф",
+      "published": "2026-07-12T16:47:08+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Впровадження штучного інтелекту в бізнес залежить не лише від технічних параметрів моделей, а й від рівня довіри персоналу до технології. Автор наголошує, що успіх інтеграції зумовлюється навчанням користувачів та розумінням принципів роботи LLM."
+    },
+    {
+      "title": "Autoresearch, Claude and Constrained Optimization",
+      "link": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+      "summary": "<p>Article URL: <a href=\"https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/\">https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881498\">https://news.ycombinator.com/item?id=48881498</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-12T14:32:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття досліджує можливості використання Claude для автоматизації досліджень та вирішення задач за допомогою оптимізації з обмеженнями. Це демонструє прогрес у здатності великих мовних моделей виконувати складні аналітичні завдання з високою точністю."
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]",
+      "published": "2026-07-12T16:27:06+00:00",
+      "source": "The Verge",
+      "ai_summary": "Хоча проект безпілотного автомобіля Apple був закритий, він став фундаментом для створення надпотужних чипів компанії, оптимізованих під AI. Завдяки розробкам для автономного керування Apple змогла випередити конкурентів у сфері обробки штучного інтелекту безпосередньо на пристроях."
+    },
+    {
+      "title": "The power of collaboration: How we can reduce traffic congestion",
+      "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+      "summary": "<p>Article URL: <a href=\"https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/\">https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881967\">https://news.ycombinator.com/item?id=48881967</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+      "published": "2026-07-12T15:35:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники Google аналізують, як спільна робота та нові алгоритми можуть допомогти оптимізувати трафік у містах. Використання даних та ШІ дозволяє ефективно зменшувати затори, покращуючи міську мобільність."
     }
   ],
   "Бізнес / Стартапи": [
