@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """
-News digest bot with on-demand admin commands.
+News digest bot with a throttled queue and on-demand admin commands.
 
 Fetches RSS news from IT/AI, Business/Startups and Crypto sources,
-filters items published recently, skips items already posted before
-(tracked in posted_links.json), asks Gemini to pick the most important
-ones and write short summaries, then posts the digest to a Telegram
-channel — but only when there's something actually new.
+filters items published recently, and queues new ones (deduplicated by
+link) into queue.json. Every run checks whether an hour has passed
+since the last publish — if so, it pops ONE item from the queue
+(round-robin across categories) and posts it to the Telegram channel.
+This guarantees roughly 1 post per hour, no bursts, even if many new
+articles appear at once.
 
 It also polls for admin commands (sent by you, in a private chat with
-the bot) once per run and replies. Because this script only runs on a
-schedule (no server running 24/7), command replies arrive on the NEXT
-scheduled run, not instantly — usually within an hour.
+the bot) on every run and replies. With the schedule set to every
+5 minutes, replies arrive within a few minutes, not instantly.
 
 Setup:
     pip install feedparser requests
@@ -22,20 +23,21 @@ Environment variables required:
     TELEGRAM_ADMIN_CHAT_ID - your personal chat id; required for commands
     GEMINI_API_KEY          - optional, enables AI filtering/summaries via
                                Google Gemini (free tier).
-                               Without it, the script just posts the first
-                               N raw items per category.
+                               Without it, the script just queues the first
+                               N raw items per category, no summaries.
 
 Run manually:
     python news_bot.py
 
-Schedule it (cron example, runs every hour):
-    0 * * * * cd /path/to/script && /usr/bin/python3 news_bot.py >> bot.log 2>&1
+Schedule it (cron example, runs every 5 minutes):
+    */5 * * * * cd /path/to/script && /usr/bin/python3 news_bot.py >> bot.log 2>&1
 
 Admin commands (send these to the bot in a private chat):
     /stats or /today  - short report: how many posts today, and which
     /week             - same, for the last 7 days
+    /queue            - how many articles are waiting in the queue
     /sources          - list of active RSS sources
-    /pause            - stop publishing to the channel (bot keeps running,
+    /pause            - stop publishing to the channel (bot keeps queuing,
                         just won't post)
     /resume           - resume publishing
     /help             - list of commands
@@ -66,6 +68,7 @@ FEEDS = {
         "https://cointelegraph.com/rss",
     ],
 }
+CATEGORY_ORDER = list(FEEDS.keys())  # fixed order for round-robin
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]  # bot: @digital_ranok_bot (token from BotFather, not the username)
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "@digital_ranok")
@@ -73,13 +76,17 @@ TELEGRAM_ADMIN_CHAT_ID = os.environ.get("TELEGRAM_ADMIN_CHAT_ID")  # your person
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")  # optional
 
 CHANNEL_NAME = "Цифровий Ранок"
-MAX_ITEMS_PER_CATEGORY = 5
-HOURS_WINDOW = 3  # small buffer for hourly runs; dedup via posted_links.json prevents repeats anyway
+MAX_NEW_PER_CATEGORY_PER_RUN = 5  # cap on how many new items get queued from a single fetch
+HOURS_WINDOW = 3  # small buffer so nothing is missed between runs; queue.json prevents repeats
 GEMINI_MODEL = "gemini-flash-lite-latest"  # alias, always points to current fast/cheap free-tier model
+
+PUBLISH_INTERVAL = timedelta(hours=1)  # exactly one post per hour
+QUEUE_MAX_AGE_HOURS = 48  # drop queued items older than this — stale news isn't worth posting late
 
 POSTED_FILE = "posted_links.json"
 POSTED_RETENTION_HOURS = 24 * 8  # keep 8 days of history so /week has data to show
 
+QUEUE_FILE = "queue.json"
 BOT_STATE_FILE = "bot_state.json"
 
 KYIV_TZ = ZoneInfo("Europe/Kyiv")
@@ -88,11 +95,12 @@ HELP_TEXT = (
     "🤖 <b>Команди:</b>\n"
     "/stats або /today — короткий звіт за сьогодні\n"
     "/week — звіт за останні 7 днів\n"
+    "/queue — скільки новин чекає в черзі\n"
     "/sources — список RSS-джерел\n"
     "/pause — призупинити публікацію в канал\n"
     "/resume — відновити публікацію\n"
     "/help — цей список\n\n"
-    "⏱ Бот перевіряє команди раз на годину (по розкладу), тож відповідь приходить не миттєво."
+    "⏱ Публікується рівно 1 новина на годину. Команди перевіряються кожні кілька хвилин."
 )
 
 
@@ -121,12 +129,12 @@ def fetch_recent_entries():
     return results
 
 
-def rank_and_summarize(category, entries):
+def rank_and_summarize(category, entries, max_items):
     """Ask Gemini to pick the most interesting items and summarize them in Ukrainian."""
     if not entries:
         return []
     if not GEMINI_API_KEY:
-        return entries[:MAX_ITEMS_PER_CATEGORY]
+        return entries[:max_items]
 
     items_text = "\n\n".join(
         f"[{i}] {e['title']}\nДжерело: {e['source']}\n{e['summary']}"
@@ -134,8 +142,8 @@ def rank_and_summarize(category, entries):
     )
 
     prompt = (
-        f'Ось список новин за категорією "{category}" за останні {HOURS_WINDOW} години.\n'
-        f"Обери не більше {MAX_ITEMS_PER_CATEGORY} найважливіших і найцікавіших новин.\n"
+        f'Ось список новин за категорією "{category}".\n'
+        f"Обери не більше {max_items} найважливіших і найцікавіших новин.\n"
         "Для кожної напиши коротке summary (2-3 речення) українською.\n"
         'Поверни ЛИШЕ JSON-масив об\'єктів формату:\n'
         '[{"index": <номер з дужок>, "summary": "<текст>"}]\n'
@@ -162,7 +170,7 @@ def rank_and_summarize(category, entries):
         text = data["candidates"][0]["content"]["parts"][0]["text"]
     except (requests.exceptions.RequestException, KeyError, IndexError) as e:
         print(f"[WARN] Gemini call failed for '{category}': {e}. Falling back to raw items.")
-        return entries[:MAX_ITEMS_PER_CATEGORY]
+        return entries[:max_items]
 
     text = text.strip()
     if text.startswith("```"):
@@ -174,7 +182,7 @@ def rank_and_summarize(category, entries):
     try:
         picks = json.loads(text)
     except json.JSONDecodeError:
-        return entries[:MAX_ITEMS_PER_CATEGORY]
+        return entries[:max_items]
 
     selected = []
     for p in picks:
@@ -187,14 +195,17 @@ def rank_and_summarize(category, entries):
     return selected
 
 
-def format_message(category, items):
-    if not items:
-        return None
-    lines = [f"📰 <b>{category}</b>\n"]
-    for item in items:
-        summary = item.get("ai_summary", item["summary"])
-        lines.append(f"• <b>{item['title']}</b>\n{summary}\n{item['link']}\n")
-    return "\n".join(lines)
+def summarize_single(category, item):
+    """Get (or reuse) a nice Ukrainian summary for exactly one item, right before publishing."""
+    if item.get("ai_summary"):
+        return item
+    result = rank_and_summarize(category, [item], max_items=1)
+    return result[0] if result else item
+
+
+def format_single_message(category, item):
+    summary = item.get("ai_summary", item["summary"])
+    return f"📰 <b>{category}</b>\n\n<b>{item['title']}</b>\n{summary}\n{item['link']}"
 
 
 def send_to_telegram(text, chat_id=None):
@@ -218,16 +229,24 @@ def get_updates(offset):
 
 # ---------- persistent state ----------
 
+def load_json(path, default):
+    if not os.path.exists(path):
+        return default
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return default
+
+
+def save_json(path, data):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
 def load_posted():
     """Load {link: {title, category, posted_at}} of previously posted articles, pruning old entries."""
-    if not os.path.exists(POSTED_FILE):
-        return {}
-    try:
-        with open(POSTED_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    except (json.JSONDecodeError, OSError):
-        return {}
-
+    data = load_json(POSTED_FILE, {})
     cutoff = datetime.now(timezone.utc) - timedelta(hours=POSTED_RETENTION_HOURS)
     pruned = {}
     for link, info in data.items():
@@ -241,23 +260,37 @@ def load_posted():
 
 
 def save_posted(posted):
-    with open(POSTED_FILE, "w", encoding="utf-8") as f:
-        json.dump(posted, f, ensure_ascii=False, indent=2)
+    save_json(POSTED_FILE, posted)
+
+
+def load_queue():
+    """{category: [items]}, pruning items older than QUEUE_MAX_AGE_HOURS."""
+    data = load_json(QUEUE_FILE, {})
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=QUEUE_MAX_AGE_HOURS)
+    cleaned = {}
+    for category in CATEGORY_ORDER:
+        items = data.get(category, [])
+        fresh = []
+        for it in items:
+            try:
+                if datetime.fromisoformat(it["published"]) >= cutoff:
+                    fresh.append(it)
+            except (ValueError, KeyError):
+                continue
+        cleaned[category] = fresh
+    return cleaned
+
+
+def save_queue(queue):
+    save_json(QUEUE_FILE, queue)
 
 
 def load_bot_state():
-    if not os.path.exists(BOT_STATE_FILE):
-        return {"last_update_id": 0, "paused": False}
-    try:
-        with open(BOT_STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except (json.JSONDecodeError, OSError):
-        return {"last_update_id": 0, "paused": False}
+    return load_json(BOT_STATE_FILE, {"last_update_id": 0, "paused": False, "last_publish_at": None, "rr_index": 0})
 
 
 def save_bot_state(state):
-    with open(BOT_STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
+    save_json(BOT_STATE_FILE, state)
 
 
 # ---------- admin commands ----------
@@ -290,6 +323,20 @@ def build_stats_message(posted, scope="today"):
     return "\n".join(lines)
 
 
+def build_queue_message(queue):
+    total = sum(len(v) for v in queue.values())
+    if total == 0:
+        return "📭 Черга порожня — все актуальне вже опубліковано."
+    lines = [f"📥 <b>В черзі: {total}</b>\n"]
+    for cat in CATEGORY_ORDER:
+        n = len(queue.get(cat, []))
+        if n:
+            lines.append(f"<b>{cat}</b> — {n}")
+    hours_to_drain = total  # ~1 per hour
+    lines.append(f"\nПри темпі 1/годину — черга спорожніє приблизно за {hours_to_drain} год.")
+    return "\n".join(lines)
+
+
 def build_sources_message():
     lines = ["📡 <b>Активні джерела:</b>\n"]
     for cat, urls in FEEDS.items():
@@ -300,7 +347,7 @@ def build_sources_message():
     return "\n".join(lines)
 
 
-def handle_admin_commands(posted, state):
+def handle_admin_commands(posted, queue, state):
     if not TELEGRAM_ADMIN_CHAT_ID:
         return state
 
@@ -328,11 +375,13 @@ def handle_admin_commands(posted, state):
             send_to_telegram(build_stats_message(posted, scope="today"), chat_id=TELEGRAM_ADMIN_CHAT_ID)
         elif command == "/week":
             send_to_telegram(build_stats_message(posted, scope="week"), chat_id=TELEGRAM_ADMIN_CHAT_ID)
+        elif command == "/queue":
+            send_to_telegram(build_queue_message(queue), chat_id=TELEGRAM_ADMIN_CHAT_ID)
         elif command == "/sources":
             send_to_telegram(build_sources_message(), chat_id=TELEGRAM_ADMIN_CHAT_ID)
         elif command == "/pause":
             state["paused"] = True
-            send_to_telegram("⏸ Публікацію в канал призупинено. /resume — щоб увімкнути назад.", chat_id=TELEGRAM_ADMIN_CHAT_ID)
+            send_to_telegram("⏸ Публікацію в канал призупинено (черга далі наповнюється). /resume — щоб увімкнути назад.", chat_id=TELEGRAM_ADMIN_CHAT_ID)
         elif command == "/resume":
             state["paused"] = False
             send_to_telegram("▶️ Публікацію відновлено.", chat_id=TELEGRAM_ADMIN_CHAT_ID)
@@ -345,58 +394,90 @@ def handle_admin_commands(posted, state):
     return state
 
 
+# ---------- main ----------
+
+def enqueue_new_entries(queue, posted):
+    """Fetch fresh RSS entries and add genuinely new ones to the queue."""
+    data = fetch_recent_entries()
+    queued_links = {it["link"] for items in queue.values() for it in items}
+
+    for category, entries in data.items():
+        new_entries = [e for e in entries if e["link"] not in posted and e["link"] not in queued_links]
+        if not new_entries:
+            continue
+        selected = rank_and_summarize(category, new_entries, max_items=MAX_NEW_PER_CATEGORY_PER_RUN)
+        if selected:
+            queue.setdefault(category, []).extend(selected)
+            print(f"[QUEUE] Added {len(selected)} new item(s) to '{category}'")
+    return queue
+
+
+def pop_next_from_queue(queue, state):
+    """Round-robin across categories, FIFO within a category. Returns (category, item) or (None, None)."""
+    n = len(CATEGORY_ORDER)
+    start = state.get("rr_index", 0) % n
+    for offset in range(n):
+        idx = (start + offset) % n
+        category = CATEGORY_ORDER[idx]
+        items = queue.get(category, [])
+        if items:
+            item = items.pop(0)
+            state["rr_index"] = (idx + 1) % n
+            return category, item
+    return None, None
+
+
 def main():
     state = load_bot_state()
     posted = load_posted()
+    queue = load_queue()
 
-    state = handle_admin_commands(posted, state)
-    save_bot_state(state)
+    state = handle_admin_commands(posted, queue, state)
+
+    queue = enqueue_new_entries(queue, posted)
+    save_queue(queue)
 
     if state.get("paused"):
-        print("[INFO] Publishing is paused (via /pause). Skipping fetch/publish this run.")
+        print("[INFO] Publishing is paused (via /pause). Queue updated, nothing posted.")
+        save_bot_state(state)
         return
 
-    data = fetch_recent_entries()
+    last_publish_at = state.get("last_publish_at")
+    now_utc = datetime.now(timezone.utc)
+    due = True
+    if last_publish_at:
+        try:
+            due = (now_utc - datetime.fromisoformat(last_publish_at)) >= PUBLISH_INTERVAL
+        except ValueError:
+            due = True
 
-    # Drop items that were already posted in a previous run
-    for category, entries in data.items():
-        data[category] = [e for e in entries if e["link"] not in posted]
-
-    # First pass: figure out what's actually new before sending anything
-    to_publish = {}
-    for category, entries in data.items():
-        selected = rank_and_summarize(category, entries)
-        if selected:
-            to_publish[category] = selected
-        else:
-            print(f"[SKIP] No new news for '{category}' in last {HOURS_WINDOW}h")
-
-    if not to_publish:
-        print("[INFO] Nothing new this run, channel not touched.")
+    if not due:
+        print("[INFO] Not due yet (1 post/hour throttle). Queue updated, nothing posted.")
+        save_bot_state(state)
         return
 
-    today = datetime.now(KYIV_TZ).strftime("%d.%m.%Y")
-    now_time = datetime.now(KYIV_TZ).strftime("%H:%M")
+    category, item = pop_next_from_queue(queue, state)
+    if not category:
+        print("[INFO] Queue is empty, nothing to publish this run.")
+        save_bot_state(state)
+        return
 
-    send_to_telegram(f"🌅 <b>{CHANNEL_NAME}</b> — новини за {today} {now_time}")
+    item = summarize_single(category, item)
+    send_to_telegram(f"🌅 <b>{CHANNEL_NAME}</b>")
     time.sleep(1)
+    send_to_telegram(format_single_message(category, item))
+    print(f"[OK] Posted 1 item from '{category}': {item['title']}")
 
-    for category, selected in to_publish.items():
-        message = format_message(category, selected)
-        # Telegram message limit is ~4096 chars, split if needed
-        for chunk_start in range(0, len(message), 4000):
-            send_to_telegram(message[chunk_start:chunk_start + 4000])
-            time.sleep(1)
-        print(f"[OK] Posted {len(selected)} items for '{category}'")
-
-        for item in selected:
-            posted[item["link"]] = {
-                "title": item["title"],
-                "category": category,
-                "posted_at": datetime.now(KYIV_TZ).isoformat(),
-            }
+    posted[item["link"]] = {
+        "title": item["title"],
+        "category": category,
+        "posted_at": datetime.now(KYIV_TZ).isoformat(),
+    }
+    state["last_publish_at"] = now_utc.isoformat()
 
     save_posted(posted)
+    save_queue(queue)
+    save_bot_state(state)
 
 
 if __name__ == "__main__":
