@@ -279,18 +279,49 @@
       "published": "2026-07-12T15:35:36+00:00",
       "source": "Hacker News: Front Page",
       "ai_summary": "Дослідники Google аналізують, як спільна робота та нові алгоритми можуть допомогти оптимізувати трафік у містах. Використання даних та ШІ дозволяє ефективно зменшувати затори, покращуючи міську мобільність."
-    }
-  ],
-  "Бізнес / Стартапи": [
+    },
     {
-      "title": "TechCrunch Mobility: A robotaxi ultimatum",
-      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "published": "2026-07-12T16:07:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Матеріал аналізує сучасний стан індустрії роботизованих таксі та виклики, з якими стикаються розробники безпілотного транспорту. Особлива увага приділяється інтеграції штучного інтелекту як ключового фактора подальшого розвитку сфери мобільності."
+      "title": "Профилировщик CMS-движков для вебстудий",
+      "link": "https://habr.com/ru/articles/1058322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058322",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/ddc/efd/3bc/ddcefd3bc2bcae51f1aea30a170e4efb.jpg\" /><p>Кто хотя бы раз работал в вебстудии над создаваемыми сайтами, знает, что используемые там универсальные движки очень даже норовистые. Чуть не уследил за правильной кастомизацией кода под требования клиента - на получи тормоза при открытии его страниц.</p><p>И ведь не сразу найдёшь, гд",
+      "published": "2026-07-12T16:15:31+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Стаття про розробку профілювальника для CMS-движків, який допомагає вебстудіям виявляти причини низької продуктивності сайтів. Це інструмент для оптимізації коду, що виникає через складні кастомізації під вимоги клієнтів."
+    },
+    {
+      "title": "Claude Code May–July 2026 weekly limits promotion",
+      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+      "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion\">https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883064\">https://news.ycombinator.com/item?id=48883064</a></p>\n<p>Points: 34</p>\n<p># Comments: 34</p>",
+      "published": "2026-07-12T18:01:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія анонсувала акційну програму з розширеними тижневими лімітами для використання Claude Code у період з травня по липень 2026 року. Це важлива новина для розробників, які активно використовують ШІ-інструменти в робочому процесі."
+    },
+    {
+      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "link": "https://github.com/hasenj/go-shirei/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/hasenj/go-shirei/\">https://github.com/hasenj/go-shirei/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882562\">https://news.ycombinator.com/item?id=48882562</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>",
+      "published": "2026-07-12T16:55:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено Shirei — новий кросплатформовий GUI-фреймворк, написаний на мові Go. Він пропонує розробникам нативний спосіб створення графічних інтерфейсів для різних операційних систем."
+    },
+    {
+      "title": "Automation Without Understanding",
+      "link": "https://arxiv.org/abs/2607.06377",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.06377\">https://arxiv.org/abs/2607.06377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882554\">https://news.ycombinator.com/item?id=48882554</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+      "published": "2026-07-12T16:54:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Наукова публікація, що аналізує феномен автоматизації без належного розуміння внутрішніх процесів. Стаття порушує питання ризиків, які виникають при надмірній довірі до автоматизованих ШІ-систем."
+    },
+    {
+      "title": "Croc: Securely transfer files and folders between two computers",
+      "link": "https://github.com/schollz/croc/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/schollz/croc/\">https://github.com/schollz/croc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882034\">https://news.ycombinator.com/item?id=48882034</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-12T15:44:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Утиліта Croc, що дозволяє безпечно та швидко передавати файли або цілі папки між двома комп'ютерами. Це зручне рішення для розробників, яким потрібен захищений обмін даними без зайвих складнощів."
     }
   ],
+  "Бізнес / Стартапи": [],
   "Крипта": [
     {
       "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
@@ -331,6 +362,22 @@
       "published": "2026-07-12T12:26:09+00:00",
       "source": "Cointelegraph.com News",
       "ai_summary": "Регулятор віртуальних активів Пакистану ініціює діалог після того, як ісламський вчений виступив проти використання криптовалют для платежів. Влада намагається знайти компроміс у питанні правового статусу цифрових активів в ісламській фінансовій системі."
+    },
+    {
+      "title": "Signs of life?: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+      "summary": "",
+      "published": "2026-07-12T18:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітичний звіт CoinDesk аналізує поточний стан криптовалютного ринку та шукає ознаки його відновлення. Автори розглядають ключові індикатори, що можуть свідчити про початок нового циклу активності."
+    },
+    {
+      "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+      "link": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price.png\" /></p><p>Standard Chartered sees communication challenges facing the biggest digit",
+      "published": "2026-07-12T18:16:45+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики Standard Chartered вважають, що Майклу Сейлору потрібно чіткіше пояснювати стратегію MicroStrategy щодо біткоїна. Це необхідно для того, щоб переконати інвесторів у доцільності подальших інвестицій та уникнути непорозумінь щодо зміни курсу компанії."
     }
   ]
 }
