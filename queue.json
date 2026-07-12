@@ -207,9 +207,58 @@
       "published": "2026-07-12T12:40:32+00:00",
       "source": "Все публикации подряд на Хабре",
       "ai_summary": "Практичне керівництво з інтеграції мікроконтролерів (Arduino) для керування потужним обладнанням, таким як двигуни або нагрівачі. Автор пояснює, як безпечно комутувати високу напругу, маючи справу з низьковольтною логікою."
+    },
+    {
+      "title": "[Перевод] Как использовать GPT-5.6 Sol в Codex и не сжечь лимит",
+      "link": "https://habr.com/ru/articles/1058320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058320",
+      "summary": "<p>Какую модель выбрать из новой тройки GPT 5.6? </p><p>А какой ризонинг? </p><p>Стоит ли всегда использовать Ultra?</p><p>Ответы на эти и другие вопросы ждут вас под катом от автора, который успел уже сжечь $200 000 на новой модели GPT 5.6 Sol</p> <a href=\"https://habr.com/ru/articles/1058320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1058320#habracut\">Читать далее</a>",
+      "published": "2026-07-12T16:05:42+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Автор ділиться досвідом роботи з новою моделлю GPT-5.6 Sol, на яку вже було витрачено 200 000 доларів. Стаття допомагає розібратися у виборі між різними версіями моделі та оптимізувати витрати лімітів."
+    },
+    {
+      "title": "Есть ли у ИИ клиническое мышление — или он просто удачно угадывает",
+      "link": "https://habr.com/ru/companies/ru_mts/articles/1057370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057370",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/766/956/41a/76695641aac8b2fefc9a153545937713.png\" /><p>Если вы обратитесь к врачу, например, с болью в груди, он не сможет прямо с порога назвать ваш диагноз. Сначала выслушает, задаст вопросы, составит список возможных вариантов и назначит анализы, чтобы поэтапно их проверить. Нейросетям же на ответ нужно несколько секунд, они звучат убе",
+      "published": "2026-07-12T15:52:57+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Аналіз того, чи володіє штучний інтелект справжнім клінічним мисленням у медицині. Автор порівнює покроковий підхід лікарів до діагностики з миттєвими відповідями нейромереж, ставлячи питання про природу їхніх рішень."
+    },
+    {
+      "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+      "link": "https://github.com/sshwarts/skillscript",
+      "summary": "<p>Hi HN — I'm Scott. Skillscript is a small language I built to write what I want my local agent to actually do, in a form I can read and version, instead of hoping the model gets it right each time.<p>The itch started with something small. I wanted my NanoClaw agent to run my morning brief the same way every day. Check overnight tickets, summarize the deploy pipeline, flag anything urgent. Every",
+      "published": "2026-07-12T13:34:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив Skillscript — декларативну мову для керування локальними AI-агентами. Інструмент дозволяє користувачам чітко задавати сценарії роботи агента, щоб уникнути помилок, притаманних випадковим відповідям моделей."
+    },
+    {
+      "title": "Основы биологии для инженеров (Часть 2. Управление)",
+      "link": "https://habr.com/ru/articles/1058304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058304",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/460/24b/feb/46024bfeb01f324d646eddb7baddddea.png\" /><p>В новой части «Основ биологии для инженеров» попробуем разобраться, зачем мы вообще изучаем живые системы и в какой момент знание превращается в управление.</p><p>Поговорим о том, как человечество десятилетиями собирало карты метаболических путей, почему ИИ не заменяет науку, но резко",
+      "published": "2026-07-12T14:37:19+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Друга частина циклу про біологію для інженерів присвячена механізмам керування в живих системах. Обговорюється, чому знання про метаболічні шляхи є критично важливим і чому ІИ не замінює науковий підхід, а лише доповнює його."
+    },
+    {
+      "title": "Fable 5 вернулась, но административный рубильник остался",
+      "link": "https://habr.com/ru/articles/1058292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058292",
+      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/8ea/c15/2b1/8eac152b1e7b62459e960bdcac13a122.jpg\" /><p><em>Вся история — от закрытой Mythos Preview и проекта обязательной проверки, который Трамп отклонил, до глобального отключения, закулисных переговоров, возвращения Fable и первых международных последствий.</em></p><p>Fable 5 снова доступна после почти трёх недель глобального отключен",
+      "published": "2026-07-12T14:23:14+00:00",
+      "source": "Все публикации подряд на Хабре",
+      "ai_summary": "Огляд складної історії Fable 5, яка знову стала доступною після тривалого глобального відключення. Стаття охоплює період від розробки до закулісних політичних ігор та міжнародних наслідків інциденту."
     }
   ],
-  "Бізнес / Стартапи": [],
+  "Бізнес / Стартапи": [
+    {
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "published": "2026-07-12T16:07:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Матеріал аналізує сучасний стан індустрії роботизованих таксі та виклики, з якими стикаються розробники безпілотного транспорту. Особлива увага приділяється інтеграції штучного інтелекту як ключового фактора подальшого розвитку сфери мобільності."
+    }
+  ],
   "Крипта": [
     {
       "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
