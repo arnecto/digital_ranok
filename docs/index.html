@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Цифровий Ранок</title>
+<meta name="description" content="Автоматизований новинний дайджест: AI, стартапи та крипта — щогодини, українською.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --night-1: #140f30;
+    --night-2: #1a1442;
+    --night-3: #3b1f6b;
+    --night-4: #5c2a7a;
+    --sun-1: #ffd166;
+    --sun-2: #ff8a3d;
+    --sun-3: #ff4d6d;
+    --teal: #7ef9e0;
+    --ink: #eae6f7;
+    --ink-dim: #b8aed6;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--night-1);
+    color: var(--ink);
+    font-family: 'Space Grotesk', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: inherit; }
+
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 6vh 6vw;
+    overflow: hidden;
+    background: radial-gradient(ellipse 120% 80% at 50% 100%, var(--night-4) 0%, var(--night-3) 45%, var(--night-2) 75%, var(--night-1) 100%);
+  }
+
+  .sun {
+    position: absolute;
+    bottom: -22vh;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(70vw, 620px);
+    height: min(70vw, 620px);
+    border-radius: 50%;
+    background: linear-gradient(180deg, var(--sun-1) 0%, var(--sun-2) 55%, var(--sun-3) 100%);
+    filter: blur(0.5px);
+    opacity: 0.9;
+  }
+
+  .horizon {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 18vh;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--teal), transparent);
+    opacity: 0.55;
+  }
+
+  .rays {
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(90deg, transparent 49.7%, rgba(126,249,224,0.05) 50%, transparent 50.3%);
+    background-size: 7% 100%;
+    mix-blend-mode: screen;
+    pointer-events: none;
+  }
+
+  .eyebrow {
+    position: relative;
+    z-index: 2;
+    font-size: 0.8rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--teal);
+    margin-bottom: 1.6rem;
+    opacity: 0.85;
+  }
+
+  h1 {
+    position: relative;
+    z-index: 2;
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: clamp(2.6rem, 8vw, 5.5rem);
+    line-height: 1.02;
+    margin: 0 0 1.2rem;
+    letter-spacing: -0.01em;
+  }
+
+  .tagline {
+    position: relative;
+    z-index: 2;
+    font-size: clamp(1rem, 2vw, 1.25rem);
+    color: var(--ink-dim);
+    max-width: 34em;
+    line-height: 1.6;
+    margin: 0 0 3rem;
+  }
+
+  .badges {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 3.5rem;
+  }
+
+  .badge {
+    font-size: 0.85rem;
+    padding: 0.4rem 0.9rem;
+    border: 1px solid rgba(126,249,224,0.35);
+    border-radius: 999px;
+    color: var(--teal);
+    background: rgba(126,249,224,0.06);
+  }
+
+  .links {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 1.5rem;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: transform 0.15s ease, opacity 0.15s ease;
+  }
+
+  .btn:hover { transform: translateY(-2px); }
+
+  .btn-primary {
+    background: linear-gradient(135deg, var(--sun-1), var(--sun-3));
+    color: var(--night-1);
+  }
+
+  .btn-ghost {
+    border: 1px solid rgba(234,230,247,0.25);
+    color: var(--ink);
+  }
+
+  footer {
+    position: relative;
+    z-index: 2;
+    margin-top: 4rem;
+    font-size: 0.8rem;
+    color: var(--ink-dim);
+    opacity: 0.7;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .sun { animation: rise 3s ease-out; }
+  }
+  @keyframes rise {
+    from { transform: translateX(-50%) translateY(6vh); opacity: 0; }
+    to { transform: translateX(-50%) translateY(0); opacity: 0.9; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="rays"></div>
+  <div class="horizon"></div>
+  <div class="sun"></div>
+
+  <div class="eyebrow">Новинний дайджест</div>
+  <h1>Цифровий<br>Ранок</h1>
+  <p class="tagline">
+    Автоматизований бот, що відбирає найважливіші новини AI, бізнесу і крипти
+    та публікує їх українською — щогодини, без ручної роботи.
+  </p>
+
+  <div class="badges">
+    <span class="badge">AI / IT</span>
+    <span class="badge">Бізнес і стартапи</span>
+    <span class="badge">Крипта</span>
+  </div>
+
+  <div class="links">
+    <a class="btn btn-primary" href="https://t.me/digital_ranok" target="_blank" rel="noopener">Telegram-канал</a>
+    <a class="btn btn-ghost" href="privacy.html">Privacy Policy</a>
+  </div>
+
+  <footer>Цифровий Ранок · автоматизований дайджест новин</footer>
+</div>
+
+</body>
+</html>
