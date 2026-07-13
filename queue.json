@@ -832,18 +832,54 @@
       "source": "The Verge",
       "ai_summary": "З оновленням watchOS 27 та впровадженням нових можливостей ШІ, Siri перестає бути лише помічником для таймерів. Розумніший штучний інтелект значно розширює функціональність годинника, роблячи його повноцінним автономним пристроєм для роботи з інформацією.",
       "ai_title": "AI-функції Siri перетворюють Apple Watch на справжній «комп'ютер на зап'ясті»"
+    },
+    {
+      "title": "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
+      "link": "https://1shotchallenge.ai",
+      "summary": "<p>Article URL: <a href=\"https://1shotchallenge.ai\">https://1shotchallenge.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48899620\">https://news.ycombinator.com/item?id=48899620</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-13T22:14:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили нову платформу, що дозволяє брати участь у хакатонах, використовуючи лише один промпт. Участь у змаганнях є безкоштовною, а переможці отримують спонсорські призи.",
+      "ai_title": "Запущено платформу для однопромптових хакатонів"
+    },
+    {
+      "title": "Claude is just Mr. Meeseeks",
+      "link": "https://github.com/thephw/claude-meseeks",
+      "summary": "<p>Article URL: <a href=\"https://github.com/thephw/claude-meseeks\">https://github.com/thephw/claude-meseeks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48899529\">https://news.ycombinator.com/item?id=48899529</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-13T22:03:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт на GitHub демонструє цікаву імплементацію ШІ-асистента Claude, натхненну персонажем із серіалу «Рік та Морті». Це рішення спрямоване на підвищення ефективності виконання завдань за допомогою ШІ.",
+      "ai_title": "Claude як «Містер Мізікс»: новий підхід до автоматизації"
+    },
+    {
+      "title": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
+      "link": "https://github.com/yeet-src/sigwire",
+      "summary": "<p>Hey everyone, I wrote this tool for inspecting linux signals across proceses</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48898071\">https://news.ycombinator.com/item?id=48898071</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
+      "published": "2026-07-13T20:07:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Це консольний інструмент із графічним інтерфейсом, призначений для відстеження сигналів між процесами в Linux у реальному часі. Розробка полегшує діагностику та контроль взаємодії процесів у системі.",
+      "ai_title": "Sigwire: новий TUI-інструмент для моніторингу сигналів у Linux"
+    },
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [&#8230;]",
+      "published": "2026-07-13T20:43:20+00:00",
+      "source": "The Verge",
+      "ai_summary": "Перша публічна бета-версія нової iOS демонструє значні зміни в роботі Siri завдяки інтеграції штучного інтелекту. Оновлення суттєво змінює звички користувачів у повсякденній взаємодії зі смартфоном.",
+      "ai_title": "Як ШІ в Siri трансформує досвід користування iPhone"
+    },
+    {
+      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+      "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+      "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little excited for macOS 27 (particularly if you're on Tahoe and disliking all the transparency). [&#8230;]",
+      "published": "2026-07-13T20:43:15+00:00",
+      "source": "The Verge",
+      "ai_summary": "Користувачі Mac із процесорами M-серії отримали доступ до публічної бета-версії macOS 27. Основною особливістю оновлення стали естетичні покращення дизайну Liquid Glass, що зробили візуальні елементи інтерфейсу більш стриманими.",
+      "ai_title": "Публічна бета macOS 27: головні оновлення інтерфейсу Liquid Glass"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-      "published": "2026-07-13T15:34:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Розробник ШІ-моделей Anthropic починає впроваджувати підписки в індійських рупіях. Це стратегічний крок для компанії, оскільки Індія є її другим за величиною ринком після США.",
-      "ai_title": "Anthropic адаптує ціни на Claude для ринку Індії"
-    },
     {
       "title": "SpaceX cleared to fly Starship again after booster failure in May",
       "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
