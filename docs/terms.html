@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Service — Цифровий Ранок</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --night-1: #140f30;
+    --night-2: #1a1442;
+    --night-3: #3b1f6b;
+    --sun-1: #ffd166;
+    --sun-3: #ff4d6d;
+    --teal: #7ef9e0;
+    --ink: #eae6f7;
+    --ink-dim: #b8aed6;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--night-1);
+    color: var(--ink);
+    font-family: 'Space Grotesk', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .band {
+    background: linear-gradient(160deg, var(--night-3), var(--night-2));
+    padding: 4rem 6vw 3rem;
+    border-bottom: 1px solid rgba(126,249,224,0.15);
+  }
+
+  .eyebrow {
+    font-size: 0.78rem;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+    color: var(--teal);
+    margin-bottom: 0.8rem;
+  }
+
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
+    margin: 0;
+  }
+
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 3rem 6vw 6rem;
+    line-height: 1.7;
+  }
+
+  h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin: 2.4rem 0 0.8rem;
+    color: var(--sun-1);
+  }
+
+  p, li { color: var(--ink-dim); font-size: 0.98rem; }
+  ul { padding-left: 1.2rem; }
+  strong { color: var(--ink); }
+
+  a { color: var(--teal); }
+
+  .updated {
+    font-size: 0.85rem;
+    color: var(--ink-dim);
+    opacity: 0.7;
+    margin-top: 3rem;
+  }
+
+  .back {
+    display: inline-block;
+    margin-top: 2.5rem;
+    font-size: 0.9rem;
+    color: var(--teal);
+    text-decoration: none;
+  }
+</style>
+</head>
+<body>
+
+<div class="band">
+  <div class="eyebrow">Цифровий Ранок</div>
+  <h1>Terms of Service</h1>
+</div>
+
+<main>
+  <p>Ці умови використання стосуються проєкту «Цифровий Ранок» — Telegram-каналу
+  <a href="https://t.me/digital_ranok" target="_blank" rel="noopener">@digital_ranok</a>,
+  пов'язаного Telegram-бота та інтеграції з TikTok Content Posting API.</p>
+
+  <h2>Опис сервісу</h2>
+  <p>«Цифровий Ранок» — некомерційний автоматизований проєкт одного розробника. Сервіс
+  збирає публічні новини (RSS) про технології, бізнес і криптовалюти, стисло переказує їх
+  українською за допомогою AI та публікує в Telegram-канал і, за допомогою TikTok Content
+  Posting API, у вигляді коротких відео на TikTok-акаунт власника проєкту.</p>
+
+  <h2>Використання TikTok-інтеграції</h2>
+  <ul>
+    <li>Застосунок публікує відео виключно на TikTok-акаунт власника проєкту, який особисто
+    пройшов OAuth-авторизацію.</li>
+    <li>Застосунок не публікує та не змінює контент від імені будь-яких інших користувачів TikTok.</li>
+    <li>Власник проєкту може в будь-який момент відкликати доступ застосунку через налаштування
+    свого TikTok-акаунта — це негайно припинить будь-яку публікацію.</li>
+    <li>Увесь контент, що публікується, генерується автоматично на основі публічних новинних джерел
+    і позначається як автоматизований дайджест.</li>
+  </ul>
+
+  <h2>Відповідальність за контент</h2>
+  <p>Джерела новин — публічні RSS-стрічки. Автоматичний переказ і монтаж може містити неточності;
+  сервіс не гарантує повноту чи бездоганну точність кожної новини. Для оригінального джерела
+  завжди додається посилання.</p>
+
+  <h2>Обмеження</h2>
+  <p>Сервіс надається «як є», без будь-яких гарантій. Розробник не несе відповідальності за
+  збої в роботі TikTok, Telegram чи джерел новин, що можуть вплинути на роботу сервісу.</p>
+
+  <h2>Зміни</h2>
+  <p>Ці умови можуть оновлюватися. Актуальна версія завжди доступна на цій сторінці.</p>
+
+  <h2>Контакт</h2>
+  <p>Питання щодо цих умов — через Telegram-канал
+  <a href="https://t.me/digital_ranok" target="_blank" rel="noopener">@digital_ranok</a>.</p>
+
+  <p class="updated">Востаннє оновлено: липень 2026.</p>
+
+  <a class="back" href="index.html">← На головну</a>
+</main>
+
+</body>
+</html>
