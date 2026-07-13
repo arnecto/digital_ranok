@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Как я сделал оповещения о БПЛА через Яндекс.Станцию",
-      "link": "https://habr.com/ru/articles/1058250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058250",
-      "summary": "<p>Задача звучала как на полчаса: пусть Яндекс.Станция сама произносит вслух сообщения из Telegram-канала, без обращения к Алисе. По факту — несколько вечеров, потому что Яндекс не даёт из коробки простой возможности “скажи произвольный текст по внешнему событию”. Прошёл два тупика (виртуальные устройства и локальный TTS) и собрал рабочий пайплайн на Home Assistant + webhook. Рассказываю весь путь",
-      "published": "2026-07-12T09:22:22+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Розробник створив систему сповіщень про БПЛА через Яндекс.Станцію, інтегрувавши Telegram-канал з Home Assistant. Рішення дозволяє колонці озвучувати повідомлення автоматично, оминаючи обмеження стандартних функцій пристрою."
-    },
-    {
       "title": "[Перевод] Басня о полусыром продукте",
       "link": "https://habr.com/ru/companies/ruvds/articles/1057710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057710",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/d67/762/f73/d67762f73201b80a5b6de6be2993a92d.png\" /><p>Представьте себе, что некий предприимчивый человек решил учредить свой первый бизнес. Он не умеет печь торты или замешивать тесто, но зато прекрасно знает рынок кухонного оборудования. Проанализировав все предприятия этой индустрии в Испании, он пришёл к выводу: если продавать новые п",
@@ -795,6 +787,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Популярний домен t.me, який використовується для швидкого доступу до каналів та чатів у месенджері Telegram, раптово припинив роботу. Наразі офіційні причини призупинення домену з боку реєстратора не розголошуються.",
       "ai_title": "Домен t.me, що належить Telegram, було призупинено"
+    },
+    {
+      "title": "Samsung will delete your health data if you don't let them use it to train AI",
+      "link": "https://neow.in/cWsyMTV3",
+      "summary": "<p>Article URL: <a href=\"https://neow.in/cWsyMTV3\">https://neow.in/cWsyMTV3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897991\">https://news.ycombinator.com/item?id=48897991</a></p>\n<p>Points: 132</p>\n<p># Comments: 32</p>",
+      "published": "2026-07-13T20:01:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Samsung поставила ультиматум власникам пристроїв: якщо користувачі не погодяться на використання їхніх медичних даних для навчання штучного інтелекту, їхня історія здоров'я буде видалена. Ця політика викликала значне занепокоєння щодо конфіденційності та етичних методів збору даних для AI-тренувань.",
+      "ai_title": "Samsung погрожує видалити дані про здоров'я користувачів"
+    },
+    {
+      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+      "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Poseidon-fan/linux-0.11-rs\">https://github.com/Poseidon-fan/linux-0.11-rs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48898134\">https://news.ycombinator.com/item?id=48898134</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-13T20:11:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти успішно переписали класичне ядро Linux версії 0.11 мовою програмування Rust. Оновлена версія повністю функціональна та здатна завантажуватися в емуляторі QEMU, демонструючи потенціал Rust у низькорівневому системному програмуванні.",
+      "ai_title": "Linux 0.11 переписали на мові Rust"
+    },
+    {
+      "title": "Microsoft tests Windows Search without all the ads and fluff",
+      "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+      "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with users and fix Windows. [&#8230;]",
+      "published": "2026-07-13T21:53:20+00:00",
+      "source": "The Verge",
+      "ai_summary": "Microsoft почала тестування оновленого інтерфейсу пошуку в Windows 11, з якого прибрали рекламні блоки та нав'язливий контент. Компанія намагається покращити користувацький досвід та відновити довіру аудиторії, зробивши ОС менш захаращеною.",
+      "ai_title": "Microsoft тестує «чистий» пошук у Windows без реклами"
+    },
+    {
+      "title": "Climate.gov was destroyed. Open data saved it",
+      "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+      "summary": "<p>Article URL: <a href=\"https://werd.io/climate-gov-was-destroyed-open-data-saved-it/\">https://werd.io/climate-gov-was-destroyed-open-data-saved-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897945\">https://news.ycombinator.com/item?id=48897945</a></p>\n<p>Points: 251</p>\n<p># Comments: 106</p>",
+      "published": "2026-07-13T19:57:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Після знищення офіційного сайту Climate.gov спільнота активістів змогла повністю відновити його роботу завдяки принципам відкритості даних. Цей випадок підкреслює важливість незалежного архівування та доступу до наукової інформації в епоху цифрових загроз.",
+      "ai_title": "Як відкриті дані врятували кліматичний портал США"
+    },
+    {
+      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+      "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+      "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get [&#8230;]",
+      "published": "2026-07-13T20:44:20+00:00",
+      "source": "The Verge",
+      "ai_summary": "З оновленням watchOS 27 та впровадженням нових можливостей ШІ, Siri перестає бути лише помічником для таймерів. Розумніший штучний інтелект значно розширює функціональність годинника, роблячи його повноцінним автономним пристроєм для роботи з інформацією.",
+      "ai_title": "AI-функції Siri перетворюють Apple Watch на справжній «комп'ютер на зап'ясті»"
     }
   ],
   "Бізнес / Стартапи": [
@@ -887,6 +924,15 @@
       "source": "TechCrunch",
       "ai_summary": "Колишній співробітник Apple скористався вразливістю у системі безпеки, щоб завантажити конфіденційні файли компанії вже після свого звільнення. Цей інцидент стався на тлі переходу спеціаліста до конкурента — OpenAI.",
       "ai_title": "Експрацівник Apple використав баг для крадіжки конфіденційних даних після переходу в OpenAI"
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "published": "2026-07-13T20:59:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Голова Microsoft висловив занепокоєння щодо того, що великі AI-лабораторії можуть використовувати свої пропрієтарні моделі як інструменти прихованого контролю. Це попередження викликало хвилю дискусій у Кремнієвій долині про безпеку та довіру до сторонніх рішень у сфері штучного інтелекту.",
+      "ai_title": "Сатья Наделла попередив про ризики використання закритих AI-моделей"
     }
   ],
   "Крипта": [
@@ -1157,6 +1203,15 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Інвестиційний директор криптовалютного підрозділу Franklin Templeton вважає, що поточна вартість цифрових активів не відповідає їхнім фундаментальним характеристикам. На думку експерта, ринок зараз демонструє ознаки значного відхилення від реальних економічних показників.",
       "ai_title": "Franklin Templeton: ціни на крипторинку відірвалися від фундаментальних показників"
+    },
+    {
+      "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
+      "link": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation2.jpg\" /></p><p>Reed Smith’s Aquarius platform automates regulatory filings and legal workflows as demand f",
+      "published": "2026-07-13T21:40:32+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Платформа Aquarius допомагає криптовалютним компаніям автоматизувати подання регуляторної звітності та робочі процеси в межах ЄС. Це рішення покликане спростити дотримання нових жорстких правил ринку криптоактивів.",
+      "ai_title": "Юридична фірма Reed Smith представила інструмент для відповідності регламенту MiCA"
     }
   ]
 }
