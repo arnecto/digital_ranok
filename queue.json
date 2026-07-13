@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Переиспользуем Python-функции между проектами — без переписывания и передеплоя",
-      "link": "https://habr.com/ru/articles/1058256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058256",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/895/9c0/e0d/8959c0e0df3d503a7242c5127074b7f6.png\" /><p>У меня есть функция. Крошечная - десяток строк, которые приводят суммы из платёжек к нормальному виду: <code>\"1 234,50 ₽\"</code> превращают в <code>1234.5</code>. Ничего гениального. Но я писал её, кажется, раз пять. В парсере банковских выписок, в импортёре заказов, в отчёте для бухг",
-      "published": "2026-07-12T09:51:15+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Автор ділиться практичним підходом до повторного використання Python-функцій між різними проєктами. Це дозволяє уникнути дублювання коду та спрощує підтримку дрібних утиліт без необхідності їх постійного передеплою."
-    },
-    {
       "title": "Как я сделал оповещения о БПЛА через Яндекс.Станцию",
       "link": "https://habr.com/ru/articles/1058250/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058250",
       "summary": "<p>Задача звучала как на полчаса: пусть Яндекс.Станция сама произносит вслух сообщения из Telegram-канала, без обращения к Алисе. По факту — несколько вечеров, потому что Яндекс не даёт из коробки простой возможности “скажи произвольный текст по внешнему событию”. Прошёл два тупика (виртуальные устройства и локальный TTS) и собрал рабочий пайплайн на Home Assistant + webhook. Рассказываю весь путь",
@@ -668,6 +660,51 @@
       "source": "The Verge",
       "ai_summary": "Керівник автомобільного підрозділу Nvidia визнав, що компанії доводиться конкурувати за власні графічні процесори через величезний попит з боку індустрії штучного інтелекту. Це демонструє, наскільки гострою залишається проблема нестачі чипів навіть для внутрішніх підрозділів виробника.",
       "ai_title": "Дефіцит потужностей: навіть топменеджери Nvidia змагаються за GPU"
+    },
+    {
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "summary": "<p>Article URL: <a href=\"https://get-inscribe.com/blog/apple-speech-api-benchmark.html\">https://get-inscribe.com/blog/apple-speech-api-benchmark.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48894752\">https://news.ycombinator.com/item?id=48894752</a></p>\n<p>Points: 145</p>\n<p># Comments: 73</p>",
+      "published": "2026-07-13T16:06:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітики протестували новий API розпізнавання мовлення від Apple, порівнявши його продуктивність із популярною моделлю Whisper. Дослідження демонструє ефективність технології Apple та її можливості порівняно з попередніми версіями.",
+      "ai_title": "Apple SpeechAnalyzer проти Whisper: порівняльний аналіз"
+    },
+    {
+      "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
+      "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report\">https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48894671\">https://news.ycombinator.com/item?id=48894671</a></p>\n<p>Points: 38</p>\n<p># Comments: 22</p>",
+      "published": "2026-07-13T15:59:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Вікіпедія тимчасово уникла статусу сервісу категорії 1 згідно з британським законом про онлайн-безпеку (Online Safety Act). Це рішення дозволяє енциклопедії працювати без виконання суворих вимог, які накладаються на великі соціальні платформи.",
+      "ai_title": "Wikipedia уникла жорсткого регулювання згідно з британським законом"
+    },
+    {
+      "title": "Go-Flavored Concurrency in C",
+      "link": "https://antonz.org/concurrency-in-c/",
+      "summary": "<p>Article URL: <a href=\"https://antonz.org/concurrency-in-c/\">https://antonz.org/concurrency-in-c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48894637\">https://news.ycombinator.com/item?id=48894637</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+      "published": "2026-07-13T15:56:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор статті пропонує методи впровадження паралельних обчислень та механізмів конкурентності, натхненних мовою Go, у середовище програмування на C. Це цікаве технічне рішення для оптимізації багатопотокових завдань у низькорівневому коді.",
+      "ai_title": "Реалізація конкурентності в стилі Go для мови C"
+    },
+    {
+      "title": "The EV market is on the road to recovery thanks to high gas prices",
+      "link": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
+      "summary": "As the US war on Iran sent gas prices soaring, American car buyers flocked to electric vehicles - and in particular hybrids. After a sluggish winter and fall, EV sales rebounded in the second quarter of 2026, with automakers posting some of their best numbers since the elimination of the federal EV tax credit last [&#8230;]",
+      "published": "2026-07-13T18:03:20+00:00",
+      "source": "The Verge",
+      "ai_summary": "Різке підвищення вартості бензину стимулювало американських споживачів частіше купувати електромобілі та гібриди. Після періоду спаду продажі авто на альтернативній енергії знову демонструють значне зростання.",
+      "ai_title": "Ринок електромобілів відновлюється через зростання цін на пальне"
+    },
+    {
+      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
+      "published": "2026-07-13T17:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Apple звинувачує OpenAI у шпигунстві за апаратними розробками та привласненні конфіденційної інформації через співробітників, які перейшли до стартапу. У позові стверджується, що компанія вимагала від кандидатів приносити із собою прототипи неанонсованих продуктів.",
+      "ai_title": "Гучні звинувачення в позові Apple проти OpenAI"
     }
   ],
   "Бізнес / Стартапи": [
@@ -715,6 +752,42 @@
       "source": "VentureBeat",
       "ai_summary": "Відкритий фреймворк ACRouter динамічно обирає найефективнішу модель штучного інтелекту для кожного конкретного запиту. Це дозволяє компаніям у 2,6 раза знизити витрати порівняно з використанням виключно потужних моделей на кшталт Opus.",
       "ai_title": "Новий фреймворк ACRouter оптимізує витрати на ШІ-моделі"
+    },
+    {
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+      "published": "2026-07-13T17:28:37+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Конфлікт між лідерами техіндустрії загострився: Альтман різко відповів на критику Маска щодо проєктів у сфері космічних дата-центрів. Він натякнув, що саме бізнес-моделі Маска базуються на сумнівних обіцянках для інвесторів.",
+      "ai_title": "Сем Альтман відповів на звинувачення Ілона Маска у шахрайстві"
+    },
+    {
+      "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company",
+      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
+      "summary": "General Fusion started trading on the Nasdaq following a reverse merger that saw high redemptions.",
+      "published": "2026-07-13T17:03:11+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія General Fusion стала першим публічним гравцем на ринку термоядерної енергетики після успішного злиття. Попри високий рівень викупу акцій під час процедури, інвестори забезпечили стрімке зростання вартості компанії на старті торгів.",
+      "ai_title": "General Fusion дебютувала на біржі Nasdaq"
+    },
+    {
+      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
+      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
+      "summary": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "published": "2026-07-13T17:00:14+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Група штатів подала позов проти мегаугоди, стверджуючи, що вона монополізує ринок і зашкодить інтересам кінотеатрів та дистриб'юторів контенту. Позивачі переконані, що об'єднання компаній негативно вплине на глядачів та конкуренцію в індустрії.",
+      "ai_title": "У США 12 штатів блокують злиття Paramount та Warner Bros. вартістю $110 млрд"
+    },
+    {
+      "title": "Should AI help you get away with killing your spouse?",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "summary": "What does a world of total user-aligned AI actually look like?",
+      "published": "2026-07-13T16:31:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "У статті порушується питання про те, якими будуть наслідки створення ШІ, що повністю підпорядковується бажанням користувача. Автор аналізує ризики того, що персоналізований інтелект може стати інструментом для неправомірних дій або уникнення відповідальності.",
+      "ai_title": "Етичні межі ШІ: чи може технологія сприяти злочинам?"
     }
   ],
   "Крипта": [
@@ -921,6 +994,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Венчурний підрозділ Coinbase став найактивнішим інвестором у криптосекторі за вказаний період. Попри загальне уповільнення фінансування, компанія продовжує активно підтримувати блокчейн-стартапи.",
       "ai_title": "Coinbase Ventures очолила рейтинг криптоінвесторів у першому півріччі 2026 року"
+    },
+    {
+      "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
+      "link": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bolivia mulls recognizing USDT as payment currency amid dollar shortage\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-157300-bolivia-banco-bisa-usdt-custody.jpg\" /></p><p>As foreign currency reserves remain under pressure, Bolivia is considering a framework to let the world’s ",
+      "published": "2026-07-13T17:20:51+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Через критичну нестачу іноземної валюти влада Болівії розробляє механізми легалізації стейблкоїна USDT для внутрішніх розрахунків. Це рішення має допомогти країні пом'якшити фінансову кризу та стабілізувати грошові потоки.",
+      "ai_title": "Болівія розглядає USDT як платіжний засіб через дефіцит долара"
+    },
+    {
+      "title": "Hyundai completes USDT treasury settlement pilot between US and Mexico",
+      "link": "https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyundai completes USDT treasury settlement pilot between US and Mexico\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tether-mints-usdt-on-tron.png\" /></p><p>Hyundai completed a proof-of-concept using Tether's USDT to settle a cross-border treasury transfer between its US and Mexican subsidia",
+      "published": "2026-07-13T16:45:16+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Автомобільний гігант Hyundai завершив пілотний проєкт із використання Tether (USDT) для транскордонних переказів між своїми філіями. Тест підтвердив ефективність блокчейн-платежів для миттєвого врегулювання корпоративних казначейських операцій.",
+      "ai_title": "Hyundai успішно протестувала розрахунки в USDT між підрозділами США та Мексики"
+    },
+    {
+      "title": "Robinhood built a blockchain for tokenized stocks. Memecoins took over",
+      "link": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
+      "summary": "",
+      "published": "2026-07-13T15:17:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Robinhood розробила спеціальний блокчейн для токенізації акцій, проте мережу майже повністю окупували мем-токени. Це висвітлює проблему нецільового використання корпоративних криптоплатформ роздрібними спекулянтами.",
+      "ai_title": "Мем-коїни заполонили блокчейн від Robinhood, попри плани щодо токенізованих акцій"
+    },
+    {
+      "title": "Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks",
+      "link": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
+      "summary": "",
+      "published": "2026-07-13T16:34:48+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики банку Mizuho скептично оцінюють вплив банківської ліцензії на подальший розвиток Circle. Вони вважають, що посилення конкуренції на ринку стейблкоїнів залишається головним викликом для USDC.",
+      "ai_title": "Mizuho: схвалення банківської ліцензії для Circle не гарантує зростання USDC"
+    },
+    {
+      "title": "Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials",
+      "link": "https://www.coindesk.com/policy/2026/07/13/trump-s-crypto-riches-loom-over-clarity-act-talks-to-ban-conflicts-for-u-s-officials",
+      "summary": "",
+      "published": "2026-07-13T17:49:10+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Володіння значними криптоактивами Дональдом Трампом ускладнює обговорення Clarity Act, який має запобігти конфлікту інтересів серед американських чиновників. Це питання викликає запеклі дискусії щодо етичних стандартів для політиків у криптоіндустрії.",
+      "ai_title": "Криптостатки Трампа стають перешкодою для закону про конфлікт інтересів у США"
     }
   ]
 }
