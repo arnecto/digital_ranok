@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Авторизація — Цифровий Ранок</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --night-1: #140f30;
+    --night-2: #1a1442;
+    --night-3: #3b1f6b;
+    --sun-1: #ffd166;
+    --sun-2: #ff8a3d;
+    --sun-3: #ff4d6d;
+    --teal: #7ef9e0;
+    --ink: #eae6f7;
+    --ink-dim: #b8aed6;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(ellipse 120% 80% at 50% 100%, var(--night-3) 0%, var(--night-2) 60%, var(--night-1) 100%);
+    color: var(--ink);
+    font-family: 'Space Grotesk', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    padding: 6vh 6vw;
+  }
+
+  .card {
+    max-width: 560px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .icon {
+    width: 64px;
+    height: 64px;
+    margin: 0 auto 1.6rem;
+    border-radius: 50%;
+    background: linear-gradient(180deg, var(--sun-1), var(--sun-3));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8rem;
+  }
+
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    margin: 0 0 0.6rem;
+  }
+
+  .status {
+    color: var(--ink-dim);
+    font-size: 0.95rem;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+  }
+
+  .code-box {
+    background: rgba(0,0,0,0.25);
+    border: 1px solid rgba(126,249,224,0.25);
+    border-radius: 10px;
+    padding: 1rem 1.2rem;
+    font-family: monospace;
+    font-size: 0.85rem;
+    word-break: break-all;
+    color: var(--teal);
+    text-align: left;
+    margin-bottom: 1.2rem;
+    display: none;
+  }
+
+  .empty {
+    color: var(--ink-dim);
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
+
+  button {
+    background: linear-gradient(135deg, var(--sun-1), var(--sun-3));
+    color: var(--night-1);
+    border: none;
+    border-radius: 10px;
+    padding: 0.75rem 1.4rem;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 0.9rem;
+    cursor: pointer;
+    display: none;
+  }
+
+  button:hover { opacity: 0.9; }
+
+  .hint {
+    margin-top: 1.5rem;
+    font-size: 0.8rem;
+    color: var(--ink-dim);
+    opacity: 0.65;
+  }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="icon">🌅</div>
+  <h1 id="title">Перевіряємо параметри...</h1>
+  <p class="status" id="status"></p>
+  <div class="code-box" id="codeBox"></div>
+  <button id="copyBtn">Скопіювати код</button>
+  <p class="hint">Ця сторінка — технічний Redirect URI для TikTok OAuth. Отриманий код треба
+  вручну вставити у скрипт авторизації (він сам на сервер нічого не надсилає).</p>
+</div>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const code = params.get('code');
+  const error = params.get('error');
+  const errorDescription = params.get('error_description');
+
+  const title = document.getElementById('title');
+  const status = document.getElementById('status');
+  const codeBox = document.getElementById('codeBox');
+  const copyBtn = document.getElementById('copyBtn');
+
+  if (code) {
+    title.textContent = 'Код авторизації отримано';
+    status.textContent = 'Скопіюй значення нижче і встав у скрипт обміну коду на токен.';
+    codeBox.textContent = code;
+    codeBox.style.display = 'block';
+    copyBtn.style.display = 'inline-block';
+    copyBtn.addEventListener('click', () => {
+      navigator.clipboard.writeText(code).then(() => {
+        copyBtn.textContent = 'Скопійовано ✓';
+        setTimeout(() => { copyBtn.textContent = 'Скопіювати код'; }, 2000);
+      });
+    });
+  } else if (error) {
+    title.textContent = 'Авторизацію відхилено';
+    status.textContent = errorDescription || error;
+  } else {
+    title.textContent = 'Немає коду авторизації';
+    status.innerHTML = '<span class="empty">Ця сторінка призначена лише для повернення з TikTok OAuth. Якщо ти відкрив її напряму — тут нічого немає.</span>';
+  }
+</script>
+
+</body>
+</html>
