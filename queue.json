@@ -623,18 +623,101 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Розробники представили відкриту бібліотеку, що дозволяє легко конвертувати HTML-контент у рідні формати файлів MS Word (.docx). Це рішення значно спрощує процес створення документів безпосередньо з веб-верстки.",
       "ai_title": "DOM-docx: новий інструмент для перетворення HTML у редаговані документи Word"
+    },
+    {
+      "title": "Waze launches personalized navigation and integrates new Gemini-based features",
+      "link": "https://en.ain.ua/2026/07/13/waze-launches-personalized-navigation-and-integrates-new-gemini-based-features/",
+      "summary": "The navigation app gained a motorcycle mode, a “less chatty” feature for listening to music, and conversational map updates.",
+      "published": "2026-07-13T14:07:00+00:00",
+      "source": "",
+      "ai_summary": "Навігаційний сервіс Waze отримав оновлення, що включають спеціальний режим для мотоциклістів та функцію «менше розмов» для комфортного прослуховування музики. Також додано інтерактивні карти на базі ШІ Gemini для зручнішої взаємодії під час руху.",
+      "ai_title": "Waze інтегрує ШІ-функції Gemini та нові режими навігації"
+    },
+    {
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "link": "https://github.com/clawkwork/clawk",
+      "summary": "<p>Article URL: <a href=\"https://github.com/clawkwork/clawk\">https://github.com/clawkwork/clawk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48892859\">https://news.ycombinator.com/item?id=48892859</a></p>\n<p>Points: 92</p>\n<p># Comments: 100</p>",
+      "published": "2026-07-13T14:02:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий інструмент Clawk дозволяє надавати ШІ-агентам доступ до ізольованих віртуальних машин Linux замість використання основної файлової системи вашого ноутбука. Це рішення значно підвищує безпеку при роботі з автономними помічниками для програмування.",
+      "ai_title": "Clawk: безпечне середовище для ШІ-агентів у віртуальних машинах"
+    },
+    {
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "link": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/a_green_being/status/2076598897779020159\">https://twitter.com/a_green_being/status/2076598897779020159</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48892512\">https://news.ycombinator.com/item?id=48892512</a></p>\n<p>Points: 352</p>\n<p># Comments: 174</p>",
+      "published": "2026-07-13T13:39:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі повідомили про критичну вразливість у клієнті Grok CLI, який автоматично завантажував вміст домашніх директорій на сервери компанії. Цей інцидент викликав серйозні занепокоєння щодо приватності даних при використанні ШІ-інструментів.",
+      "ai_title": "Скандал навколо Grok: ШІ завантажив файли користувача на сервери xAI"
+    },
+    {
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/\">https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4889394",
+      "published": "2026-07-13T15:11:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "LAPD вирішила не продовжувати контракт із компанією Flock через побоювання щодо порушення громадянських прав та приватності. Рішення ухвалено на тлі зростаючої дискусії про етичність використання систем масового відеоспостереження правоохоронцями.",
+      "ai_title": "Поліція Лос-Анджелеса відмовилася від послуг розробника систем стеження Flock"
+    },
+    {
+      "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
+      "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+      "summary": "Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia.&#160; Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get enough of the company’s GPUs. But Nvidia is also a key supplier [&#8230;]",
+      "published": "2026-07-13T15:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Керівник автомобільного підрозділу Nvidia визнав, що компанії доводиться конкурувати за власні графічні процесори через величезний попит з боку індустрії штучного інтелекту. Це демонструє, наскільки гострою залишається проблема нестачі чипів навіть для внутрішніх підрозділів виробника.",
+      "ai_title": "Дефіцит потужностей: навіть топменеджери Nvidia змагаються за GPU"
     }
   ],
-  "Бізнес / Стартапи": [],
-  "Крипта": [
+  "Бізнес / Стартапи": [
     {
-      "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
-      "link": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
-      "summary": "",
-      "published": "2026-07-12T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ринкова капіталізація стейблкоїнів скоротилася на 10 мільярдів доларів з травня. Попри це, аналітики зберігають спокій і не бачать приводів для паніки серед інвесторів."
+      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+      "link": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+      "summary": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
+      "published": "2026-07-13T15:49:42+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Після закриття популярного застосунку для відстеження переглядів TV Time, його засновник розробляє новий сервіс Bingers. Користувачі зможуть імпортувати свою історію переглядів та зберегти спільноту, що сформувалася навколо обговорення улюблених шоу.",
+      "ai_title": "Творець TV Time запускає Bingers для фанатів серіалів"
     },
+    {
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "published": "2026-07-13T15:34:59+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Розробник ШІ-моделей Anthropic починає впроваджувати підписки в індійських рупіях. Це стратегічний крок для компанії, оскільки Індія є її другим за величиною ринком після США.",
+      "ai_title": "Anthropic адаптує ціни на Claude для ринку Індії"
+    },
+    {
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "summary": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
+      "published": "2026-07-13T14:19:44+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія SpaceX готується до чергового запуску Starship після невдалого випробування прискорювача у травні. Це буде важливий тест, який покаже, як інвестори реагують на ризиковану стратегію розробки ракет «випробування-помилка-виправлення».",
+      "ai_title": "SpaceX отримала дозвіл на новий випробувальний політ Starship"
+    },
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "published": "2026-07-13T14:18:16+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Сервіс Waze оновлюється за допомогою ШІ-помічника Gemini, що дозволяє краще конкурувати з Apple Maps. Нові функції спрямовані на покращення персоналізації та автоматизацію взаємодії з користувачем під час поїздки.",
+      "ai_title": "Waze інтегрує ШІ від Google для нових функцій навігації"
+    },
+    {
+      "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
+      "link": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+      "summary": "<p>Model routing is becoming a key component of the enterprise AI stack, dynamically sending prompts to the right AI model to optimize speed and costs. However, current frameworks mostly treat routing as a static classification problem, which severely limits their potential.</p><p>A new open-source framework called <a href=\"https://arxiv.org/abs/2606.22902\">Agent-as-a-Router</a> tackles this bottl",
+      "published": "2026-07-13T16:06:36+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Відкритий фреймворк ACRouter динамічно обирає найефективнішу модель штучного інтелекту для кожного конкретного запиту. Це дозволяє компаніям у 2,6 раза знизити витрати порівняно з використанням виключно потужних моделей на кшталт Opus.",
+      "ai_title": "Новий фреймворк ACRouter оптимізує витрати на ШІ-моделі"
+    }
+  ],
+  "Крипта": [
     {
       "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
       "link": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -793,6 +876,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Попри падіння спотового ринку, обсяг ф'ючерсних торгів на Binance зріс на 80%. Це дозволило біржі значно випередити конкурентів та продемонструвати високу активність трейдерів.",
       "ai_title": "Обсяг торгів ф'ючерсами на Binance сягнув 1,6 трлн доларів у червні"
+    },
+    {
+      "title": "Bitcoin panic-selling may be ending as sellers' profit margins disappear",
+      "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-panic-selling-may-be-ending-as-sellers-profit-margins-disappear",
+      "summary": "",
+      "published": "2026-07-13T15:49:41+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики відзначають вичерпання маржі прибутку у продавців, що свідчить про зниження тиску на ціну біткоїна. Ринок готується до стабілізації після періоду активних продажів.",
+      "ai_title": "Панічний розпродаж біткоїна добігає кінця"
+    },
+    {
+      "title": "Strategy pauses its Bitcoin buying spree to hoard a massive $3 billion cash cushion",
+      "link": "https://www.coindesk.com/markets/2026/07/13/strategy-pauses-its-bitcoin-buying-spree-to-hoard-a-massive-usd3-billion-cash-cushion",
+      "summary": "",
+      "published": "2026-07-13T15:27:36+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія вирішила призупинити стратегію агресивного накопичення біткоїнів. Замість цього MicroStrategy накопичує значний грошовий запас, що забезпечить їй більшу фінансову гнучкість.",
+      "ai_title": "MicroStrategy зупинила закупівлі біткоїна заради готівкового резерву у $3 млрд"
+    },
+    {
+      "title": "Bolivia weighs adding Tether's USDT to its national payments system",
+      "link": "https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system",
+      "summary": "",
+      "published": "2026-07-13T14:47:52+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Уряд Болівії вивчає можливість впровадження стейблкоїна Tether для проведення державних платежів. Це може стати важливим кроком для легітимізації цифрових активів у країні.",
+      "ai_title": "Болівія розглядає інтеграцію USDT у національну платіжну систему"
+    },
+    {
+      "title": "Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait",
+      "link": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-1.jpg\" /></p><p>Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric be",
+      "published": "2026-07-13T15:05:45+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Вартість біткоїна опинилася під тиском на тлі заяв Дональда Трампа щодо Ормузької протоки. Невизначеність у світі змушує інвесторів виходити з ризикових активів.",
+      "ai_title": "Біткоїн під загрозою падіння нижче $62 000 через геополітичну напруженість"
+    },
+    {
+      "title": "Coinbase Ventures tops crypto VC list for H1 2026",
+      "link": "https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase Ventures tops crypto VC list for H1 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-vc-funding-surpasses-2021-totl-despite-declining-since-may.jpg\" /></p><p>Coinbase’s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shie",
+      "published": "2026-07-13T13:26:50+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Венчурний підрозділ Coinbase став найактивнішим інвестором у криптосекторі за вказаний період. Попри загальне уповільнення фінансування, компанія продовжує активно підтримувати блокчейн-стартапи.",
+      "ai_title": "Coinbase Ventures очолила рейтинг криптоінвесторів у першому півріччі 2026 року"
     }
   ]
 }
