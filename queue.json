@@ -750,6 +750,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Популярний інструмент для ведення нотаток та управління знаннями Logseq переходить на архітектуру з використанням бази даних. Це оновлення обіцяє суттєве підвищення швидкості роботи та стабільності застосунку.",
       "ai_title": "Вийшла бета-версія Logseq 2.0 із підтримкою бази даних"
+    },
+    {
+      "title": "Apple’s public betas for iOS 27 and more are out now",
+      "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+      "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other betas available now [&#8230;]",
+      "published": "2026-07-13T20:45:40+00:00",
+      "source": "The Verge",
+      "ai_summary": "Apple відкрила доступ до публічного тестування iOS 27 та інших оновлень ОС. Ключовою особливістю став оновлений Siri AI, який отримав суттєві покращення та вищі оцінки стабільності порівняно з попередніми версіями.",
+      "ai_title": "Вийшли публічні бета-версії iOS 27 з новим Siri AI"
+    },
+    {
+      "title": "Show HN: PlanWright – A control plane for AI coding agents",
+      "link": "https://planwright.tools",
+      "summary": "<p>MCP driven control plane for Agentic Engineering. Plan from Claude Desktop, implement in Codex, review in a custom triage agent. All via MCP, all logged and tracked with full documentation of all decisions made by each agent.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897969\">https://news.ycombinator.com/item?id=48897969</a></p>\n<p>Points: 5</p>\n<p># Comments: 2",
+      "published": "2026-07-13T19:59:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Це рішення на базі MCP (Model Context Protocol), що дозволяє координувати роботу ШІ-агентів у процесі написання коду. Система забезпечує надійне планування, імплементацію та рев'ю коду з повним документуванням кожного рішення.",
+      "ai_title": "PlanWright: нова система контролю для ШІ-агентів"
+    },
+    {
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "summary": "<p>I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.<p>There are services that transcribe music from Youtube videos into tabs, but they never work well enough for me. Instead I'm taking a simpler approach. \nIt downloads the video, samples frames, uses Claude vision to locate the tab region, crops every frame to that region, de-duplicates the crops by the",
+      "published": "2026-07-13T20:13:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив CLI-інструмент, який автоматично перетворює відеоуроки з YouTube на PDF-файли з гітарними табулатурами. Для цього програма аналізує кадри відео за допомогою зору моделі Claude, ідентифікує область з нотами та збирає їх у готовий документ.",
+      "ai_title": "Конвертер відеоуроків гітари в табулатури"
+    },
+    {
+      "title": "Show HN: I implemented a neural network in SQL",
+      "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "summary": "<p>Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd array can be mapped to 2d, where orthogon",
+      "published": "2026-07-13T20:00:10+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор проєкту представив незвичний підхід до обробки даних, створивши повноцінну нейронну мережу засобами SQL. Це демонструє гнучкість сучасних SQL-бібліотек для роботи з масивами даних та їх перетворення у формат, придатний для машинного навчання.",
+      "ai_title": "Реалізація нейронної мережі мовою SQL"
+    },
+    {
+      "title": "Telegram's t.me domain has been suspended",
+      "link": "https://www.whois.com/whois/t.me",
+      "summary": "<p>Article URL: <a href=\"https://www.whois.com/whois/t.me\">https://www.whois.com/whois/t.me</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897878\">https://news.ycombinator.com/item?id=48897878</a></p>\n<p>Points: 54</p>\n<p># Comments: 36</p>",
+      "published": "2026-07-13T19:52:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярний домен t.me, який використовується для швидкого доступу до каналів та чатів у месенджері Telegram, раптово припинив роботу. Наразі офіційні причини призупинення домену з боку реєстратора не розголошуються.",
+      "ai_title": "Домен t.me, що належить Telegram, було призупинено"
     }
   ],
   "Бізнес / Стартапи": [
@@ -833,17 +878,18 @@
       "source": "TechCrunch",
       "ai_summary": "Apple подала позов проти OpenAI, звинувативши компанію у незаконному доступі до корпоративних секретів. Справа містить заяви про те, що кандидати на посади мали приносити обладнання Apple на співбесіди, а працівники жартували про несанкціонований доступ до систем розробника iPhone.",
       "ai_title": "Скандальні звинувачення Apple проти OpenAI"
+    },
+    {
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+      "published": "2026-07-13T20:00:17+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Колишній співробітник Apple скористався вразливістю у системі безпеки, щоб завантажити конфіденційні файли компанії вже після свого звільнення. Цей інцидент стався на тлі переходу спеціаліста до конкурента — OpenAI.",
+      "ai_title": "Експрацівник Apple використав баг для крадіжки конфіденційних даних після переходу в OpenAI"
     }
   ],
   "Крипта": [
-    {
-      "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
-      "link": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pakistan crypto chief seeks dialogue after scholar rules against crypto payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrency-in-islamic-banking-and-finance.jpg\" /></p><p>Pakistan’s virtual-assets regulator called for continued dialogue on the treatment of digi",
-      "published": "2026-07-12T12:26:09+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Регулятор віртуальних активів Пакистану ініціює діалог після того, як ісламський вчений виступив проти використання криптовалют для платежів. Влада намагається знайти компроміс у питанні правового статусу цифрових активів в ісламській фінансовій системі."
-    },
     {
       "title": "Signs of life?: State of Crypto",
       "link": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
@@ -1093,6 +1139,24 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Керівник TeraWulf наголошує на важливості якісного енергозабезпечення для дата-центрів, що працюють зі штучним інтелектом. Він пояснює, що в умовах зростаючого попиту на обчислювальні потужності ефективність та надійність джерел енергії стають ключовими конкурентними перевагами.",
       "ai_title": "Гендиректор TeraWulf: не кожен мегават однаково цінний у гонці ШІ"
+    },
+    {
+      "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
+      "link": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
+      "summary": "",
+      "published": "2026-07-13T20:27:47+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Генеральний директор Binance.US заявив, що біржа перебуває на етапі активного відновлення після періоду труднощів. Компанія ставить за мету повернути свою колишню позицію та охопити п'яту частину ринку криптовалют у США.",
+      "ai_title": "Binance.US планує повернути 20% частки на американському ринку"
+    },
+    {
+      "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
+      "link": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
+      "summary": "",
+      "published": "2026-07-13T20:15:29+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Інвестиційний директор криптовалютного підрозділу Franklin Templeton вважає, що поточна вартість цифрових активів не відповідає їхнім фундаментальним характеристикам. На думку експерта, ринок зараз демонструє ознаки значного відхилення від реальних економічних показників.",
+      "ai_title": "Franklin Templeton: ціни на крипторинку відірвалися від фундаментальних показників"
     }
   ]
 }
