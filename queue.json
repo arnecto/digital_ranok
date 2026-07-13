@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Мобильная разработка за неделю #638 (6 — 12 июля)",
-      "link": "https://habr.com/ru/articles/1058244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058244",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/07e/2a9/15d/07e2a915d1b1801466365d9162a7ff40.jpg\" /><p>В новом выпуске UISlider изнутри и топ-10 вопросов по Kotlin в 2026 году, Swift 6.2 против вашего оптимизатора и переписывание Flutter на C#, всего несколько недель на вайб-кодинг, новый формат электронных книг для изучающих язык, многомерные векторы в конкурентном анализе мобильных п",
-      "published": "2026-07-12T08:29:02+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Свіжий дайджест новин мобільної розробки, що охоплює актуальні питання Kotlin 2026 року та порівняння Swift 6.2. Також обговорюються незвичні тренди, такі як спроби переписування Flutter на C#."
-    },
-    {
       "title": "Переиспользуем Python-функции между проектами — без переписывания и передеплоя",
       "link": "https://habr.com/ru/articles/1058256/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058256",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/895/9c0/e0d/8959c0e0df3d503a7242c5127074b7f6.png\" /><p>У меня есть функция. Крошечная - десяток строк, которые приводят суммы из платёжек к нормальному виду: <code>\"1 234,50 ₽\"</code> превращают в <code>1234.5</code>. Ничего гениального. Но я писал её, кажется, раз пять. В парсере банковских выписок, в импортёре заказов, в отчёте для бухг",
@@ -550,6 +542,42 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Технічний огляд методу обробки курсивного письма, що дозволяє уникнути багаторазового перебору варіантів (backtracking). Це рішення підвищує ефективність систем розпізнавання тексту, роблячи процес обробки більш лінійним та швидким.",
       "ai_title": "Алгоритм розпізнавання рукописного тексту без повернень"
+    },
+    {
+      "title": "Meta disabled an Instagram feature that allowed creating AI images based on public accounts",
+      "link": "https://en.ain.ua/2026/07/13/meta-disabled-an-instagram-feature-that-allowed-creating-ai-images-based-on-public-accounts/",
+      "summary": "The company disabled the Muse model tool after criticism over violations of rights to personal images and the risks of scammers abusing the technology.",
+      "published": "2026-07-13T10:22:00+00:00",
+      "source": "",
+      "ai_summary": "Компанія відмовилася від моделі Muse через критику щодо порушення авторських прав на особисті світлини. Це рішення також зумовлене ризиками зловживання технологією з боку шахраїв.",
+      "ai_title": "Meta вимкнула інструмент для створення AI-зображень на основі фото користувачів Instagram"
+    },
+    {
+      "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+      "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+      "summary": "Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Sadly, that gadget got discontinued, and I've never found anything as intuitive or inexpensive since. But if you've got a Mac with Apple Silicon chips, you can simply [&#8230;]",
+      "published": "2026-07-13T10:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "З’явився зручний застосунок для власників Mac на базі Apple Silicon, який аналізує характеристики USB-C кабелів. Це дозволяє швидко визначити, чи здатний ваш кабель забезпечити швидку зарядку та передачу даних.",
+      "ai_title": "Безкоштовна програма для Mac допоможе перевірити якість вашого USB-C кабелю"
+    },
+    {
+      "title": "Social media limits are coming for teens across Europe",
+      "link": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+      "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission President Ursula von der Leyen said [&#8230;]",
+      "published": "2026-07-13T09:22:52+00:00",
+      "source": "The Verge",
+      "ai_summary": "Європейський Союз розглядає можливість введення вікових обмежень та навіть повної заборони користування соціальними мережами для неповнолітніх. Платформи будуть зобов'язані доводити безпечність своїх сервісів, перш ніж допускати до них дітей.",
+      "ai_title": "ЄС планує запровадити суворі обмеження на доступ підлітків до соцмереж"
+    },
+    {
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, [&#8230;]",
+      "published": "2026-07-13T09:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Навігаційний сервіс Waze отримує низку функцій на базі Gemini, щоб зробити досвід водіїв більш персоналізованим. Серед нововведень — оновлена система звітів про дорожні події за допомогою штучного інтелекту.",
+      "ai_title": "Waze інтегрує ШІ від Google для покращення поїздок"
     }
   ],
   "Бізнес / Стартапи": [],
@@ -630,6 +658,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Регулятор Таїланду розпочав кампанію з протидії відмиванню грошей, зосередившись на нелегальних фінансових потоках. Особливу увагу приділено використанню стейблкоїна USDT у діяльності шахрайських мереж.",
       "ai_title": "Банк Таїланду посилює контроль за обігом USDT"
+    },
+    {
+      "title": "Resurgent U.S.-Iran hostilities send bitcoin lower even as ETF flows show demand",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/13/resurgent-u-s-iran-hostilities-send-bitcoin-lower-even-as-etf-flows-show-demand",
+      "summary": "",
+      "published": "2026-07-13T11:20:49+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Загострення відносин між США та Іраном спровокувало падіння курсу біткоїна. Попри стабільний попит з боку спотових ETF, макроекономічна нестабільність змушує інвесторів побоюватися подальшого зниження ринку.",
+      "ai_title": "Геополітика тисне на біткоїн: ціна знижується на тлі конфлікту США та Ірану"
+    },
+    {
+      "title": "BTC price bull market to begin in September? Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-bull-market-to-begin-in-september-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTC price bull market to begin in September? Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-106114-1-12b-in-bitcoin-options-expire-this-week-and-bulls-appear-to-be-at-a-disadvanta.jpg\" /></p><p>Bitcoin price analysis called for the end o",
+      "published": "2026-07-13T10:45:22+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики оцінюють ключові чинники, що впливатимуть на курс біткоїна найближчими днями. Експерти намагаються з'ясувати, чи варто очікувати на новий етап зростання ринку після завершення періоду літньої волатильності.",
+      "ai_title": "Чи почнеться «бичачий» ринок біткоїна у вересні?"
+    },
+    {
+      "title": "Japan’s SBI to launch yen stablecoin lending with 3% yield",
+      "link": "https://cointelegraph.com/news/sbi-stablecoin-lending-service-3-yield-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan’s SBI to launch yen stablecoin lending with 3% yield\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/japan-what-is-the-best-japanese-word-for-crypto-currency.jpg\" /></p><p>SBI VC Trade will open JPYSC lending applications on July 16, offering an initial 3% annual rate for a 12-week term ",
+      "published": "2026-07-13T10:27:50+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Фінансовий гігант SBI відкриває прийом заявок на кредитування у єнових стейблкоїнах. Користувачі зможуть отримувати річну ставку у розмірі 3% за 12-тижневим контрактом.",
+      "ai_title": "Японська корпорація SBI запускає кредитування у стейблкоїнах з прибутковістю 3%"
+    },
+    {
+      "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
+      "link": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan stablecoin payments advance with Lawson trial, Netstars launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-international-association-of-trusted-blockchain-applications-japan.jpg\" /></p><p>Lawson will test yen stablecoin payments in Tokyo as Netstars launches a merchant service sup",
+      "published": "2026-07-13T08:58:51+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Японія продовжує впровадження блокчейн-платежів у реальний сектор економіки. Мережа магазинів Lawson розпочинає тестування оплат стейблкоїнами, прив'язаними до єни, за підтримки платіжної системи Netstars.",
+      "ai_title": "Стейблкоїни в Японії: розширення платежів через мережу Lawson"
+    },
+    {
+      "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
+      "summary": "",
+      "published": "2026-07-13T08:55:50+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Наступний тиждень стане визначальним для криптоіндустрії через публікацію даних щодо інфляції в США та квартальних звітів великих корпорацій. Ці показники суттєво вплинуть на настрої інвесторів та загальний рух ринку цифрових активів.",
+      "ai_title": "Чого чекати від крипторинка: інфляція в США та звіти компаній"
     }
   ]
 }
