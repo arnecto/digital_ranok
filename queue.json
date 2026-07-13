@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Геометрическая динамика: пространство ускорений как решение задачи трех тел",
-      "link": "https://habr.com/ru/articles/1058236/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058236",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/be7/5fd/468/be75fd468bae983b28c4be68aaffd8be.jpg\" /><p>Мы привыкли, что задача трех тел — это символ хаоса, проклятие небесной механики, над которой Пуанкаре махнул рукой в 1890-м. Ньютон не решил, Лагранж только частные случаи нашел, а мы решили — и никаких суперкомпьютеров NASA нам не понадобилось. Как? Мы перестали искать формулу и пос",
-      "published": "2026-07-12T07:59:01+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Автори знайшли спосіб розв'язання класичної «задачі трьох тіл», відмовившись від пошуку універсальної формули на користь геометричної динаміки. Це дозволило обійтися без складних суперкомп'ютерних обчислень, що раніше вважалися необхідними."
-    },
-    {
       "title": "Мобильная разработка за неделю #638 (6 — 12 июля)",
       "link": "https://habr.com/ru/articles/1058244/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058244",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/07e/2a9/15d/07e2a915d1b1801466365d9162a7ff40.jpg\" /><p>В новом выпуске UISlider изнутри и топ-10 вопросов по Kotlin в 2026 году, Swift 6.2 против вашего оптимизатора и переписывание Flutter на C#, всего несколько недель на вайб-кодинг, новый формат электронных книг для изучающих язык, многомерные векторы в конкурентном анализе мобильных п",
@@ -522,6 +514,15 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Оглядовий матеріал присвячений мовам опису архітектури (ADL), які використовуються для формалізації структури складних систем. Документ аналізує еволюцію цих мов та їхню роль у проєктуванні програмного забезпечення.",
       "ai_title": "Вивчення мов опису архітектури програмного забезпечення"
+    },
+    {
+      "title": "Count Binface",
+      "link": "https://countbinface.com",
+      "summary": "<p>Article URL: <a href=\"https://countbinface.com\">https://countbinface.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48887753\">https://news.ycombinator.com/item?id=48887753</a></p>\n<p>Points: 42</p>\n<p># Comments: 10</p>",
+      "published": "2026-07-13T04:00:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Count Binface — це сатиричний персонаж, який балотується на виборах у Великій Британії, виступаючи як гротескна альтернатива традиційним політикам. Його кампанія використовує гумор для привернення уваги до абсурдності політичних процесів та актуальних соціальних проблем.",
+      "ai_title": "Хто такий Count Binface: феномен політичного сатирика"
     }
   ],
   "Бізнес / Стартапи": [],
@@ -565,6 +566,15 @@
       "published": "2026-07-12T18:16:45+00:00",
       "source": "Cointelegraph.com News",
       "ai_summary": "Аналітики Standard Chartered вважають, що Майклу Сейлору потрібно чіткіше пояснювати стратегію MicroStrategy щодо біткоїна. Це необхідно для того, щоб переконати інвесторів у доцільності подальших інвестицій та уникнути непорозумінь щодо зміни курсу компанії."
+    },
+    {
+      "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs draw $197M, snap 8-week outflow streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-gold-etfs-or-shares-which-investment-makes-more-sense.jpg\" /></p><p>Analysts are not yet ready to call it a recovery in institutional demand for Bitcoin. </p>",
+      "published": "2026-07-13T01:49:17+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Після восьми тижнів виведення коштів спотові біткоїн-ETF знову продемонстрували позитивну динаміку припливу інвестицій. Проте аналітики поки що обережні й не поспішають називати це повноцінним відновленням інституційного попиту на першу криптовалюту.",
+      "ai_title": "Біткоїн-ETF залучили 197 мільйонів доларів, перервавши 8-тижневий період відтоку капіталу"
     }
   ]
 }
