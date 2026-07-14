@@ -1,52 +1,12 @@
 {
   "IT / AI": [
     {
-      "title": "Невидимый слой PDF с инструкциями для ботов",
-      "link": "https://habr.com/ru/companies/globalsign/articles/1058328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058328",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/5da/c9b/873/5dac9b873c51318875ba967b9e8ee879.png\" /><p>Невидимый текстовый слой PDF можно редактировать и экспортировать в Markdown, JSON и TXT. Такие документы называются <a href=\"https://github.com/iminoaru/adaptivepdf\">адаптивными PDF</a>, они созданы для чтения и людьми, и роботами. Люди видят обычный PDF, а роботы — отдельный слой <c",
-      "published": "2026-07-12T17:01:24+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Адаптивні PDF-документи використовують прихований текстовий шар, який дозволяє ботам легко зчитувати та експортувати дані у форматах Markdown або JSON. Це інноваційне рішення дозволяє зберігати документ візуально звичним для людей, одночасно роблячи його структурованим для автоматизованої обробки."
-    },
-    {
-      "title": "ИИ-грамотность, доверие и цена доменной экспертизы",
-      "link": "https://habr.com/ru/articles/1058326/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058326",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/0e8/3ca/e1c/0e83cae1c8917b81f3cdc66cba9b73f7.jpg\" /><p>Внедрение ИИ в реальные бизнес-процессы компаний зависит не только от качества моделей и стоимости токенов, но и от уровня доверия к технологии в целом. Такое доверие формируется на основе понимания общих принципов работы LLM, технических навыков работы с ИИ-помощниками, знаний об инф",
-      "published": "2026-07-12T16:47:08+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Впровадження штучного інтелекту в бізнес залежить не лише від технічних параметрів моделей, а й від рівня довіри персоналу до технології. Автор наголошує, що успіх інтеграції зумовлюється навчанням користувачів та розумінням принципів роботи LLM."
-    },
-    {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]",
-      "published": "2026-07-12T16:27:06+00:00",
-      "source": "The Verge",
-      "ai_summary": "Хоча проект безпілотного автомобіля Apple був закритий, він став фундаментом для створення надпотужних чипів компанії, оптимізованих під AI. Завдяки розробкам для автономного керування Apple змогла випередити конкурентів у сфері обробки штучного інтелекту безпосередньо на пристроях."
-    },
-    {
       "title": "Claude Code May–July 2026 weekly limits promotion",
       "link": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
       "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion\">https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883064\">https://news.ycombinator.com/item?id=48883064</a></p>\n<p>Points: 34</p>\n<p># Comments: 34</p>",
       "published": "2026-07-12T18:01:29+00:00",
       "source": "Hacker News: Front Page",
       "ai_summary": "Компанія анонсувала акційну програму з розширеними тижневими лімітами для використання Claude Code у період з травня по липень 2026 року. Це важлива новина для розробників, які активно використовують ШІ-інструменти в робочому процесі."
-    },
-    {
-      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-      "link": "https://github.com/hasenj/go-shirei/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/hasenj/go-shirei/\">https://github.com/hasenj/go-shirei/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882562\">https://news.ycombinator.com/item?id=48882562</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>",
-      "published": "2026-07-12T16:55:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено Shirei — новий кросплатформовий GUI-фреймворк, написаний на мові Go. Він пропонує розробникам нативний спосіб створення графічних інтерфейсів для різних операційних систем."
-    },
-    {
-      "title": "Automation Without Understanding",
-      "link": "https://arxiv.org/abs/2607.06377",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.06377\">https://arxiv.org/abs/2607.06377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882554\">https://news.ycombinator.com/item?id=48882554</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
-      "published": "2026-07-12T16:54:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Наукова публікація, що аналізує феномен автоматизації без належного розуміння внутрішніх процесів. Стаття порушує питання ризиків, які виникають при надмірній довірі до автоматизованих ШІ-систем."
     },
     {
       "title": "Структурная власть на скорости машин",
@@ -969,6 +929,51 @@
       "source": "The Verge",
       "ai_summary": "Керівництво X визнало, що помилки в алгоритмах обмежували видимість постів від взаємних фоловерів, сприяючи поширенню агресивного контенту. Компанія обіцяє змінити пріоритетність стрічки, щоб покращити відчуття спільноти та зменшити конфліктність у соцмережі.",
       "ai_title": "X визнав проблему алгоритмів, що перетворили соцмережу на «поле битви»"
+    },
+    {
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, [&#8230;]",
+      "published": "2026-07-14T17:18:11+00:00",
+      "source": "The Verge",
+      "ai_summary": "Група колишніх працівників Meta подала позов проти компанії через використання ШІ-інструментів для відбору кандидатів на звільнення. Позивачі стверджують, що алгоритми оцінки продуктивності були упередженими та несправедливо націлювалися на співробітників, які перебували у відпустці.",
+      "ai_title": "Meta звинувачують у використанні упередженого ШІ при масових звільненнях"
+    },
+    {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "link": "https://agnost.ai",
+      "summary": "<p>Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (<a href=\"https://agnost.ai\">https://agnost.ai</a>), product analytics for teams building chat and voice agents.<p>We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving a",
+      "published": "2026-07-14T16:06:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий стартап Agnost AI представив інструмент для аналізу взаємодії користувачів з чат- та голосовими ботами. Система виявляє поведінкові проблеми, такі як агресивні відповіді клієнтів або критичні помилки в роботі агентів, що допомагає розробникам покращувати продукти.",
+      "ai_title": "Agnost AI: аналітика зворотного зв'язку для ШІ-агентів"
+    },
+    {
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "summary": "<p>Article URL: <a href=\"https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/\">https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909424\">https://news.ycombinator.com/item?id=48909424</a></p>\n<p>Points: 87</p>\n<p># Comments: 24</p>",
+      "published": "2026-07-14T16:36:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Детальне технічне дослідження вимірює затримку введення (input latency) у середовищах Linux. Автор порівнює продуктивність X11 та Wayland, аналізуючи вплив технологій VRR та DXVK на відгук системи.",
+      "ai_title": "Порівняння затримки введення в Linux: X11 проти Wayland"
+    },
+    {
+      "title": "Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries",
+      "link": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
+      "summary": "Boston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries? The company is testing a new conveyor belt accessory that allows Spot to carry packages from a vehicle and autonomously unload them on a customer's doorstep in an effort to reduce a [&#8230;]",
+      "published": "2026-07-14T16:52:47+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Boston Dynamics розширює функціонал робота Spot, тестуючи новий аксесуар у вигляді конвеєрної стрічки. Це дозволить роботам автономно забирати пакунки з авто та доставляти їх безпосередньо до дверей покупців.",
+      "ai_title": "Boston Dynamics тестує роботів-собак для доставки товарів"
+    },
+    {
+      "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
+      "link": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+      "summary": "<p>Article URL: <a href=\"https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html\">https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909768\">https://news.ycombinator.com/item?id=48909768</a></p>\n<p>Points: 47</p>\n<p># Comments",
+      "published": "2026-07-14T16:56:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Агентство S&P знизило кредитний рейтинг Oracle до рівня BBB, що є лише на один щабель вище «сміттєвого» рівня. Це рішення підкреслює фінансові ризики, з якими стикається технологічний гігант на ринку корпоративного програмного забезпечення.",
+      "ai_title": "S&P знизило кредитний рейтинг Oracle"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1169,18 +1174,45 @@
       "source": "TechCrunch",
       "ai_summary": "Короткі посилання на месенджер Telegram знову працюють після добової відсутності доступу. СЕО компанії Павло Дуров підтвердив наявність технічного збою, який спричинив тимчасові труднощі з використанням сервісу.",
       "ai_title": "Telegram відновив роботу коротких посилань після збою"
+    },
+    {
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
+      "published": "2026-07-14T16:45:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія DeepSeek планує залучити 1,5 мільярда доларів інвестицій при оцінці бізнесу у 71 мільярд доларів. Очікується, що цей крок стане підготовкою до публічного розміщення акцій (IPO), запланованого на 2027 рік.",
+      "ai_title": "Китайський розробник ШІ DeepSeek готується до виходу на IPO"
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "published": "2026-07-14T16:22:15+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Голова Instagram Адам Моссері прогнозує, що компанії почнуть контролювати витрати на штучний інтелект як частину операційних видатків. Це означає, що розробники можуть отримати жорсткі ліміти на використання ШІ-інструментів у своїй роботі.",
+      "ai_title": "Meta планує обмежити витрати інженерів на ШІ-токени"
+    },
+    {
+      "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
+      "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+      "summary": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+      "published": "2026-07-14T15:14:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Згідно з доповіддю, іранська влада експлуатувала відомі прогалини в безпеці мереж мобільного зв'язку для виявлення та подальших ударів по військовослужбовцях США на Близькому Сході. Ці дії відбувалися в період загострення конфлікту в регіоні.",
+      "ai_title": "Іран використовував вразливості мобільних мереж для відстеження військових США"
+    },
+    {
+      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
+      "link": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+      "summary": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
+      "published": "2026-07-14T14:45:11+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Хоча розумне кільце RingConn 3 виглядає як витончена прикраса, його можливості відстеження фізичної активності та здоров'я залишають бажати кращого. Експерти не радять купувати цей гаджет через низьку ефективність ключових функцій.",
+      "ai_title": "Огляд RingConn 3: стильний дизайн не рятує від поганого функціонала"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin slips below $63,000 in an Asian-session leverage flush",
-      "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
-      "summary": "",
-      "published": "2026-07-13T06:52:28+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Під час азійської торгової сесії курс біткоїна знизився нижче психологічної позначки у $63 000. Це спричинено масовим закриттям кредитних позицій трейдерів на фоні ринкової волатильності.",
-      "ai_title": "Біткоїн впав нижче $63 000 через ліквідацію позицій"
-    },
     {
       "title": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
       "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-holds-near-usd63-800-as-war-driven-selloff-hits-everything-but-crypto",
@@ -1693,6 +1725,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Аналітики порівнюють нинішню агресивну біткоїн-стратегію MicroStrategy з подіями періоду краху доткомів, коли компанія Майкла Сейлора опинилася в центрі кризи. Виникає питання, чи зможе сучасна модель компанії уникнути історичних помилок минулого.",
       "ai_title": "Стратегія MicroStrategy: чи повториться крах епохи доткомів?"
+    },
+    {
+      "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
+      "link": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
+      "summary": "",
+      "published": "2026-07-14T17:33:19+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Binance переорієнтовує свою стратегію розвитку, роблячи ставку на перетворення платформи на універсальний крипто-супердодаток. Ключову роль у цьому процесі відіграють стейблкоїни, які стають головним драйвером зростання екосистеми.",
+      "ai_title": "Binance трансформується у крипто-супердодаток"
+    },
+    {
+      "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
+      "link": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
+      "summary": "",
+      "published": "2026-07-14T16:29:48+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Регулятори США та Великої Британії працюють над гармонізацією законодавчих норм для токенізованих фінансових активів. Це ініціатива має на меті створити прозорі умови для функціонування найбільших фінансових ринків світу.",
+      "ai_title": "США та Велика Британія уніфікують правила для токенізованих фінансів"
+    },
+    {
+      "title": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
+      "link": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-capital-gains-tax-italy-vs-france-vs-germany.jpg\" /></p><p>The change in tax policy, expected to impact about 700,000 people in the UK, was related to",
+      "published": "2026-07-14T17:22:40+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Велика Британія запроваджує підхід «без прибутку, без збитків» для певних операцій з криптовалютами, що допоможе уникнути зайвого оподаткування. Зміни в податковій політиці торкнуться приблизно 700 000 осіб.",
+      "ai_title": "Уряд Великої Британії спрощує податкові правила для криптоінвесторів"
+    },
+    {
+      "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
+      "link": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"JCB signs Circle MOU to test stablecoin payments in Japan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-swift.png\" /></p><p>The companies will explore using USDC for JCB’s cross-border treasury operations and merchant payments in Japan as regulated stablec",
+      "published": "2026-07-14T17:05:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Платіжний гігант JCB та емітент USDC Circle підписали меморандум про співпрацю для розвитку стейблкоїн-платежів. Компанії досліджуватимуть можливості використання USDC для міжнародних транзакцій та розрахунків з японськими мерчантами.",
+      "ai_title": "JCB та Circle тестуватимуть стейблкоїни в Японії"
+    },
+    {
+      "title": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
+      "link": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CleanSpark shares jump 22% after $6.6B Georgia data center lease\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg\" /></p><p>The Bitcoin miner’s Georgia agreement with an undisclosed investment-grade technology company expands it",
+      "published": "2026-07-14T16:24:45+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Майнінгова компанія CleanSpark уклала угоду на оренду дата-центру в Джорджії вартістю 6,6 мільярда доларів. Ця новина спровокувала стрімке зростання вартості акцій компанії на фондовому ринку.",
+      "ai_title": "Акції CleanSpark злетіли на 22% після масштабної угоди в Джорджії"
     }
   ]
 }
