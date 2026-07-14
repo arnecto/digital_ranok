@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "[Перевод] Басня о полусыром продукте",
-      "link": "https://habr.com/ru/companies/ruvds/articles/1057710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057710",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/d67/762/f73/d67762f73201b80a5b6de6be2993a92d.png\" /><p>Представьте себе, что некий предприимчивый человек решил учредить свой первый бизнес. Он не умеет печь торты или замешивать тесто, но зато прекрасно знает рынок кухонного оборудования. Проанализировав все предприятия этой индустрии в Испании, он пришёл к выводу: если продавать новые п",
-      "published": "2026-07-12T09:01:30+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Перекладна стаття у формі байки, що розглядає проблеми випуску «сирих» продуктів на ринок. Автор аналізує ризики бізнесу, який фокусується на обладнанні, а не на якості кінцевого продукту."
-    },
-    {
       "title": "Шифр на кубике Рубика. Криптографическая задача №2",
       "link": "https://habr.com/ru/articles/1058078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058078",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/b67/8f8/d0d/b678f8d0d907b30279a455be675a3a63.jpg\" /><p>Недавно я начал публиковать серию задач с шифрами на кубике Рубика. Первая задача про главный вопрос жизни Вселенной и всего такого была довольно легкой - разминочной. Сегодня публикую более сложную задачу, для решение которой мне потребовалось около трех часов. Берите в руки карандаш",
@@ -922,6 +914,51 @@
       "source": "The Verge",
       "ai_summary": "Популярні бездротові мікрофони DJI Mic 3 вперше отримали знижку на комплект із двох пристроїв. Це рішення допоможе творцям контенту значно покращити якість аудіо при зйомці відео на смартфони.",
       "ai_title": "Перше зниження ціни на бездротові мікрофони DJI"
+    },
+    {
+      "title": "The Git history command deserves more attention",
+      "link": "https://lalitm.com/post/git-history/",
+      "summary": "<p>Article URL: <a href=\"https://lalitm.com/post/git-history/\">https://lalitm.com/post/git-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901010\">https://news.ycombinator.com/item?id=48901010</a></p>\n<p>Points: 92</p>\n<p># Comments: 55</p>",
+      "published": "2026-07-14T00:57:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор наголошує на недооцінених можливостях команди git history для аналізу роботи над проєктом. Стаття пояснює, як краще використовувати інструменти Git для ефективнішого відстеження змін у коді.",
+      "ai_title": "Чому варто частіше використовувати команду git history"
+    },
+    {
+      "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
+      "link": "https://github.com/DaqulaLin/MemStitch",
+      "summary": "<p>Article URL: <a href=\"https://github.com/DaqulaLin/MemStitch\">https://github.com/DaqulaLin/MemStitch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901051\">https://news.ycombinator.com/item?id=48901051</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-14T01:04:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили інструмент MemStitch, що забезпечує «безкопійне» з'єднання контексту в vLLM. Це рішення дозволяє досягти 25-кратного прискорення часу до отримання першого токена (TTFT).",
+      "ai_title": "MemStitch: значне прискорення vLLM завдяки безкопійному управлінню пам'яттю"
+    },
+    {
+      "title": "What will be left for us to work on?",
+      "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "summary": "<p>Article URL: <a href=\"https://www.normaltech.ai/p/what-will-be-left-for-us-to-work\">https://www.normaltech.ai/p/what-will-be-left-for-us-to-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901292\">https://news.ycombinator.com/item?id=48901292</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
+      "published": "2026-07-14T01:44:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дискусія про майбутнє професій на тлі стрімкого розвитку штучного інтелекту. Автори аналізують, які навички та види діяльності залишаться актуальними для людей, коли AI почне виконувати більшість завдань.",
+      "ai_title": "Що залишиться людям у світі AI?"
+    },
+    {
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "summary": "<p>Article URL: <a href=\"https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/\">https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901569\">https://news.ycombinator.com/item?id=48901569</a></p>\n<p>Points: 24</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-14T02:27:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Японські дослідники розробили ефективний метод переробки літій-іонних акумуляторів, який дозволяє видобувати до 90% літію. Ця технологія може зробити виробництво електромобілів більш екологічним та менш залежним від видобутку нової сировини.",
+      "ai_title": "У Японії навчилися відновлювати 90% літію з використаних батарей електрокарів"
+    },
+    {
+      "title": "Building Food Metadata with LLM Juries",
+      "link": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "summary": "<p>Article URL: <a href=\"https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/\">https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901275\">https://news.ycombinator.com/item?id=48901275</a></p>\n<p>Points: 14</p>\n<",
+      "published": "2026-07-14T01:41:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія DoorDash застосовує підхід із кількома LLM-моделями (так зване «журі») для створення точних метаданих про їжу. Використання мультимодального ШІ дозволяє автоматизувати обробку складного контенту та покращити контекстне розуміння даних.",
+      "ai_title": "Як DoorDash використовує «журі» з LLM для структурування даних"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1032,6 +1069,24 @@
       "source": "TechCrunch",
       "ai_summary": "Розробник ШІ-агентів Nous Research веде переговори про залучення щонайменше 75 мільйонів доларів. Раунд фінансування очолює фонд Robot за участі великих інвесторів, зокрема USV.",
       "ai_title": "Стартап Nous Research залучає інвестиції при оцінці у $1,5 мільярда"
+    },
+    {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "published": "2026-07-14T02:46:42+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Відомі підприємці, які вже досягли значних статків, повертаються до активної роботи в стартапах. Вони побоюються пропустити революцію штучного інтелекту та прагнуть заробити ще більше капіталу на новій хвилі технологічного зростання.",
+      "ai_title": "Чому успішні технологічні мільйонери знову кидаються в роботу"
+    },
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "published": "2026-07-14T00:45:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Директор із продуктів Uber розповів про розвиток фінансових послуг, співпрацю з Waymo та впровадження ШІ, що впливає на досвід водіїв і пасажирів. Компанія підкреслює, що не планує ставати «всім для всіх», фокусуючись на ключових напрямках мобільності.",
+      "ai_title": "Стратегія Uber: готелі, роботаксі та межі універсальності"
     }
   ],
   "Крипта": [
@@ -1303,6 +1358,33 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Платформа Aquarius допомагає криптовалютним компаніям автоматизувати подання регуляторної звітності та робочі процеси в межах ЄС. Це рішення покликане спростити дотримання нових жорстких правил ринку криптоактивів.",
       "ai_title": "Юридична фірма Reed Smith представила інструмент для відповідності регламенту MiCA"
+    },
+    {
+      "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
+      "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
+      "summary": "",
+      "published": "2026-07-14T02:58:36+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс біткоїна знизився, оскільки трейдери переглянули свої прогнози щодо липневого підвищення відсоткової ставки ФРС США. Це сталося напередодні публікації важливих даних про рівень інфляції в країні.",
+      "ai_title": "Біткоїн дешевшає на фоні очікувань підвищення ставки ФРС"
+    },
+    {
+      "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
+      "link": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/asia-express-5.jpg\" /></p><p>Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now, as Hyundai experiments with Avalanche for global stablecoin tran",
+      "published": "2026-07-14T01:39:02+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Японія активно розвиває сферу іпотеки під заставу біткоїнів та використання стейблкоїнів, зокрема через експерименти Hyundai з мережею Avalanche. Водночас влада звернула увагу на масштабні шахрайські схеми, пов'язані з гаманцями на суму понад 122 млн доларів.",
+      "ai_title": "Криптотренди в Азії: Японія впроваджує криптокредити, а шахраї втрачають мільйони"
+    },
+    {
+      "title": "CLARITY Act gains second law enforcement endorsement before Senate push",
+      "link": "https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act gains second law enforcement endorsement before Senate push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sams-in-a-labirynth-clarity-act-us.jpg\" /></p><p>The Federal Law Enforcement Officers Association expressed support for the CLARITY Act but urged changes to the legislation’s",
+      "published": "2026-07-14T01:37:27+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Федеральна асоціація офіцерів правоохоронних органів висловилася на підтримку законопроєкту CLARITY Act перед його розглядом у Сенаті. При цьому силовики наголосили на необхідності внесення певних правок до тексту документа для його ефективнішого застосування.",
+      "ai_title": "Закон CLARITY Act отримав підтримку правоохоронних органів США"
     }
   ]
 }
