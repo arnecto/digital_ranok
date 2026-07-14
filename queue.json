@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "summary": "<p>Article URL: <a href=\"https://scrapfly.dev/posts/browser-math-os-fingerprint/\">https://scrapfly.dev/posts/browser-math-os-fingerprint/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884853\">https://news.ycombinator.com/item?id=48884853</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-12T21:12:11+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Виявлено вразливість у браузері Chromium, де специфічне обчислення Math.tanh дозволяє ідентифікувати операційну систему користувача через відмінності у вихідних даних. Це створює нові ризики для цифрового відбитку (fingerprinting) та анонімності в мережі.",
-      "ai_title": "Функція Math.tanh у Chrome тепер може видати вашу операційну систему"
-    },
-    {
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "link": "https://kode.diy",
-      "summary": "<p>Article URL: <a href=\"https://kode.diy\">https://kode.diy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884992\">https://news.ycombinator.com/item?id=48884992</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-12T21:27:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Kode Dot — це кишеньковий пристрій, розроблений спеціально для мейкерів, фахівців з кібербезпеки та гіків. Гаджет пропонує широкі можливості для програмування та налаштування під специфічні технічні завдання.",
-      "ai_title": "Kode Dot: компактний програмований девайс для ентузіастів"
-    },
-    {
-      "title": "I trained a 113M-parameter earthquake LLM from absolute scratch",
-      "link": "https://github.com/jiazhe868/nanogpt-seis",
-      "summary": "<p>Article URL: <a href=\"https://github.com/jiazhe868/nanogpt-seis\">https://github.com/jiazhe868/nanogpt-seis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885236\">https://news.ycombinator.com/item?id=48885236</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T21:58:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник успішно навчив компактну мовну модель зі 113 мільйонами параметрів спеціально для сейсмологічних завдань. Проєкт демонструє можливості навчання вузькоспеціалізованих моделей ШІ з нуля на власних даних.",
-      "ai_title": "Створення власної LLM для прогнозування землетрусів"
-    },
-    {
-      "title": "Show HN: Codebase Posters – turn any Git repo into generative poster art",
-      "link": "https://github.com/unable12/codebase-posters",
-      "summary": "<p>npx codebase-posters inside any git repo opens a local exhibition: 18 pieces painted live from your commit history.<p>everything renders from git log, nothing leaves your machine.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885500\">https://news.ycombinator.com/item?id=48885500</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T22:26:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий інструмент Codebase Posters дозволяє перетворити історію комітів проєкту на унікальні цифрові постери. Програма генерує візуалізації локально, гарантуючи конфіденційність вашого коду.",
-      "ai_title": "Генеративне мистецтво з історії вашого Git-репозиторію"
-    },
-    {
       "title": "A Speed Limit for Computers",
       "link": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
       "summary": "<p>Article URL: <a href=\"https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm\">https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885525\">https://news.ycombinator.com/item?id=48885525</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
@@ -899,6 +863,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Розробники представили новий RSS-інструмент, який поєднує класичну стрічку новин з можливістю налаштування індивідуального механізму рекомендацій контенту. Проєкт доступний безкоштовно та орієнтований на користувачів, що прагнуть контролювати власні джерела інформації.",
       "ai_title": "З'явився безкоштовний RSS-рідер з адаптивними алгоритмами рекомендацій"
+    },
+    {
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused [&#8230;]",
+      "published": "2026-07-14T21:26:32+00:00",
+      "source": "The Verge",
+      "ai_summary": "За чутками, OpenAI планує випустити свій перший апаратний пристрій — розумну колонку з інтегрованим ChatGPT. Пристрій не матиме екрана, проте буде оснащений камерою та сенсорами для кращого сприйняття оточення користувача.",
+      "ai_title": "OpenAI готує власний розумний динамік"
+    },
+    {
+      "title": "Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer",
+      "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
+      "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days [&#8230;]",
+      "published": "2026-07-14T21:32:04+00:00",
+      "source": "The Verge",
+      "ai_summary": "Microsoft впроваджує нові можливості в оновлення Windows 11, які надають користувачам більше контролю над системними патчами. Зокрема, тепер можна відкладати встановлення оновлень на строк до 35 днів.",
+      "ai_title": "Windows 11 дозволить відкладати оновлення на довший термін"
+    },
+    {
+      "title": "How I use HTMX with Go",
+      "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "summary": "<p>Article URL: <a href=\"https://www.alexedwards.net/blog/how-i-use-htmx-with-go\">https://www.alexedwards.net/blog/how-i-use-htmx-with-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48912175\">https://news.ycombinator.com/item?id=48912175</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-14T19:55:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор ділиться практичним досвідом побудови вебзастосунків з використанням зв'язки мови програмування Go та бібліотеки HTMX. Це рішення дозволяє створювати інтерактивні інтерфейси без необхідності розгортання складних JavaScript-фреймворків.",
+      "ai_title": "Як поєднувати HTMX та Go у розробці"
+    },
+    {
+      "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
+      "link": "https://github.com/logxio/picchio",
+      "summary": "<p>Article URL: <a href=\"https://github.com/logxio/picchio\">https://github.com/logxio/picchio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48912947\">https://news.ycombinator.com/item?id=48912947</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-14T21:06:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналіз показує, що навіть при однаковому маркуванні Q4_K_M фактична кількість бітів на вагу може суттєво відрізнятися в різних реалізаціях. Це висвітлює проблему відсутності єдиних стандартів у квантуванні LLM.",
+      "ai_title": "Проблеми стандартизації стиснення нейромережевих моделей"
+    },
+    {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/\">https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913050\">https://news.ycombinator.com/item?id=48913050</a></p>\n<p>Points: 18</p>\n<p># Comments",
+      "published": "2026-07-14T21:15:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "GitHub додав нову функцію в Dependabot, яка автоматично встановлює період очікування для оновлення пакетів. Це дозволяє уникнути встановлення щойно випущених версій, які можуть містити критичні помилки або бути нестабільними.",
+      "ai_title": "Dependabot впроваджує автоматичну затримку оновлень пакетів"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1180,6 +1189,24 @@
       "source": "TechCrunch",
       "ai_summary": "Останній рекламний ролик розробника ШІ Anthropic став приводом для бурхливих дискусій у мережі через свій провокаційний характер. Контент викликав у глядачів суперечливі емоції, що, ймовірно, і було головною метою маркетологів компанії.",
       "ai_title": "Нова рекламна кампанія Anthropic викликала неоднозначну реакцію користувачів"
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "published": "2026-07-14T22:07:42+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія OpenAI виступила з черговою заявою щодо судового позову від Apple. Розробники штучного інтелекту стверджують, що претензії технологічного гіганта є безпідставними.",
+      "ai_title": "OpenAI відкидає звинувачення Apple у крадіжці комерційної таємниці"
+    },
+    {
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "published": "2026-07-14T21:50:11+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "З’явилися повідомлення про те, що новітня модель GPT-5.6 Sol видаляє дані користувачів без попередження. OpenAI фактично визнала існування цієї технічної проблеми ще в червні.",
+      "ai_title": "Користувачі скаржаться на самовільне видалення файлів новою моделлю OpenAI"
     }
   ],
   "Крипта": [
@@ -1794,6 +1821,15 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Комісія з торгівлі товарними ф'ючерсами США (CFTC) втрутилася у виконання судового рішення, яке зобов'язувало платформу Kalshi скасувати певні угоди. Регулятор намагається зупинити цей процес, побоюючись впливу на ринкові механізми.",
       "ai_title": "CFTC намагається заблокувати скасування угод на платформі Kalshi"
+    },
+    {
+      "title": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
+      "link": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Three US senators oppose CLARITY Act on ethics grounds with vote expected soon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act.jpg\" /></p><p>Senate Majority Leader John Thune reportedly said the chamber will consider a vote",
+      "published": "2026-07-14T21:30:26+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Група сенаторів США висловила протест проти законопроєкту CLARITY Act, посилаючись на етичні міркування. Очікується, що найближчим часом Сенат проведе голосування, яке вирішить подальшу долю цієї ініціативи щодо регулювання криптоіндустрії.",
+      "ai_title": "Три сенатори США виступили проти закону CLARITY Act"
     }
   ]
 }
