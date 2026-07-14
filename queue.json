@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Магазин отдаёт 200 OK, а денег нет: как проверять приём заказов изнутри WooCommerce",
-      "link": "https://habr.com/ru/articles/1058262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058262",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/f8a/235/4b6/f8a2354b678f0734d67a40225877b6b7.png\" /><p>Классический мониторинг отвечает на вопрос «открылась ли страница». Магазин со сломанным приёмом заказов отвечает на него уверенное «да»: витрина рендерится, корзина считает, 200 OK, сертификат валиден. Не работает только одно — деньги не проходят. Шлюз остался в тест-режиме после раб",
-      "published": "2026-07-12T11:03:13+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Стаття описує проблему помилкового моніторингу в WooCommerce, коли сайт працює коректно, але платежі не проходять. Автор пояснює, як налаштувати глибші перевірки для запобігання втратам замовлень через приховані технічні збої."
-    },
-    {
-      "title": "Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media",
-      "link": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
-      "summary": "<p>Article URL: <a href=\"https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media\">https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879902\">https://news.ycombinator.com/item?id=48879902</",
-      "published": "2026-07-12T10:14:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Близько 55% американців припинили публікувати особисті оновлення в соціальних мережах, що свідчить про зміну культури онлайн-спілкування. Це явище вказує на перехід користувачів від публічного контенту до закритих чатів або відмови від соцмереж загалом."
-    },
-    {
-      "title": "Как я строил свой продукт, не увольняясь из найма. И что из этого вышло",
-      "link": "https://habr.com/ru/articles/1058214/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058214",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/767/e63/eb4/767e63eb4d30523f32e768152d2d75ab.jpg\" /><p>Восемь месяцев назад я думал, что буду писать код по вечерам и получать часть дохода со своего приложения. И в какой-то момент смогу уйти из найма.</p><p>И вот спустя восемь месяцев я укладываю детей спать, а потом до ночи монтирую видео в TikTok. А уходом из найма пока даже не пахнет",
-      "published": "2026-07-12T10:25:26+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Особистий досвід розробника, який намагався створити власний продукт, не звільняючись з основної роботи. Автор ділиться реаліями поєднання найму з підприємництвом, де замість пасивного доходу від коду доводиться витрачати весь вільний час на маркетинг."
-    },
-    {
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/\">https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880170\">https://news.ycombinator.com/item?id=48880170</a></p>\n<p>Points: 48</p>\n<p># Comments: 5</p>",
-      "published": "2026-07-12T11:09:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Террі Тао аналізує використання сучасних AI-агентів для розробки програмного забезпечення. Автор досліджує, як автоматизовані інструменти допомагають як у підтримці застарілого коду, так і у створенні нових додатків."
-    },
-    {
-      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
-      "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france\">https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879950\">https://news.ycombinator.com/item?id=48879950</a></p>\n<p>Points: 20</p>\n<p># Co",
-      "published": "2026-07-12T10:23:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Масштабне зростання дата-центрів призвело до значного збільшення вуглецевого сліду технологічних гігантів, таких як Microsoft, Amazon та Google. Експерти зазначають, що їхні викиди вже досягли третини від показників цілої Франції."
-    },
-    {
       "title": "The fight against AI data centers is just beginning",
       "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power [&#8230;]",
@@ -989,18 +949,54 @@
       "source": "The Verge",
       "ai_summary": "Губернаторка штату підписала закон, що забороняє відкриття нових гіпермасштабних дата-центрів на термін до одного року. Таке рішення спрямоване на обмеження екологічного впливу об'єктів та контроль за їхнім споживанням енергії.",
       "ai_title": "Нью-Йорк першим у США ввів мораторій на будівництво дата-центрів"
+    },
+    {
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best placed to set global standards \"given its economic [&#8230;]",
+      "published": "2026-07-14T11:43:29+00:00",
+      "source": "The Verge",
+      "ai_summary": "Голова Google DeepMind заявив про необхідність створення глобальної інстанції для контролю над розвитком потужних моделей ШІ. Він вважає, що США мають очолити цей процес, оскільки країна володіє найкращими ресурсами для встановлення безпечних міжнародних стандартів.",
+      "ai_title": "Демос Хассабіс закликає створити міжнародний наглядовий орган за ШІ під керівництвом США"
+    },
+    {
+      "title": "The first sunlight reflecting space mirror has been cleared for launch",
+      "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+      "summary": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and operate a single prototype satellite in low-Earth orbit later this year, despite concerns over how the technology [&#8230;]",
+      "published": "2026-07-14T11:10:39+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стартап Reflect Orbital отримав дозвіл FCC на випробування супутника, здатного перенаправляти сонячне світло на Землю в нічний час. Технологія викликає суперечки через можливі екологічні наслідки, але вже готується до тестування на низькій навколоземній орбіті.",
+      "ai_title": "Перше космічне дзеркало для відбиття сонячного світла отримало дозвіл на запуск"
+    },
+    {
+      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+      "link": "https://github.com/rejourneyco/rejourney",
+      "summary": "<p>Hello there (General Kenobi's favorite way to start the conversation),<p>I’m Rashid, a sophomore at UT Austin. I built Rejourney.co (<a href=\"https://rejourney.co/\" rel=\"nofollow\">https://rejourney.co/</a>) to predict issues with your apps and websites before they happen, based on real user session recordings.<p>Here is a silly video (with cats) on how it works: <a href=\"https://www.youtube.com",
+      "published": "2026-07-14T11:06:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник з UT Austin створив платформу для виявлення проблем у веб- та мобільних застосунках на основі аналізу записів сесій реальних користувачів. Інструмент допомагає бізнесу знаходити помилки та оптимізувати інтерфейс ще до того, як вони призведуть до фінансових втрат.",
+      "ai_title": "Rejourney: open-source інструмент для прогнозування втрат прибутку в застосунках"
+    },
+    {
+      "title": "The great digital fatigue: How digital burnout is changing social media use",
+      "link": "https://blog.incogni.com/digital-fatigue-and-burnout/",
+      "summary": "<p>Article URL: <a href=\"https://blog.incogni.com/digital-fatigue-and-burnout/\">https://blog.incogni.com/digital-fatigue-and-burnout/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48904855\">https://news.ycombinator.com/item?id=48904855</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-14T10:58:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження аналізує вплив надмірного споживання цифрового контенту на поведінку користувачів. Зростання рівня цифрової втоми змушує людей змінювати свої звички та обмежувати присутність у соціальних мережах задля збереження ментального здоров'я.",
+      "ai_title": "Цифрова втома: як емоційне вигорання змінює використання соцмереж"
+    },
+    {
+      "title": "Codex starts encrypting prompts, uses ciphertext for inference instead",
+      "link": "https://github.com/openai/codex/issues/28058",
+      "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/28058\">https://github.com/openai/codex/issues/28058</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905028\">https://news.ycombinator.com/item?id=48905028</a></p>\n<p>Points: 59</p>\n<p># Comments: 15</p>",
+      "published": "2026-07-14T11:21:32+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники OpenAI Codex почали шифрувати вхідні запити користувачів, використовуючи зашифровані тексти для виведення результатів. Це нововведення спрямоване на підвищення рівня приватності та захисту даних під час взаємодії з моделлю.",
+      "ai_title": "Codex впроваджує шифрування запитів для безпечної обробки даних"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-      "published": "2026-07-13T14:18:16+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Сервіс Waze оновлюється за допомогою ШІ-помічника Gemini, що дозволяє краще конкурувати з Apple Maps. Нові функції спрямовані на покращення персоналізації та автоматизацію взаємодії з користувачем під час поїздки.",
-      "ai_title": "Waze інтегрує ШІ від Google для нових функцій навігації"
-    },
     {
       "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
       "link": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
@@ -1479,6 +1475,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Спотові біткоїн-ETF у Сполучених Штатах зіткнулися з відтоком 425 мільйонів доларів після короткочасного періоду відновлення. Це стало найбільшим одноденним показником виведення коштів за липень, що свідчить про зміну настроїв інвесторів.",
       "ai_title": "Біткоїн-ETF у США зафіксували значний відтік капіталу"
+    },
+    {
+      "title": "U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
+      "summary": "",
+      "published": "2026-07-14T11:15:06+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Напруженість у відносинах між США та Іраном спровокувала зростання цін на нафту та викликала падіння на фондових та криптовалютних ринках. Інвестори обирають більш безпечні активи на тлі геополітичної нестабільності.",
+      "ai_title": "Ескалація на Близькому Сході тисне на крипторинок"
+    },
+    {
+      "title": "Bitcoin’s great rotation: Long-term holders pass supply to a new generation of buyers",
+      "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-s-great-rotation-long-term-holders-pass-supply-to-a-new-generation-of-buyers",
+      "summary": "",
+      "published": "2026-07-14T10:46:42+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Довгострокові власники активно реалізують свої запаси, передаючи пропозицію біткоїна новій хвилі покупців. Ця «велика ротація» активів свідчить про перерозподіл капіталу в екосистемі головної криптовалюти.",
+      "ai_title": "Зміна поколінь власників біткоїна"
+    },
+    {
+      "title": "ECB picks 36 payment providers to test digital euro ahead of 2027 pilot",
+      "link": "https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB picks 36 payment providers to test digital euro ahead of 2027 pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb-1.jpg\" /></p><p>The European Central Bank will beta test a digital euro with 36 providers, inc",
+      "published": "2026-07-14T11:16:38+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Європейський центральний банк обрав 36 постачальників платіжних послуг для тестування цифрового євро. Повномасштабний пілотний запуск проєкту очікується вже у 2027 році.",
+      "ai_title": "ЄЦБ готує випробування цифрового євро"
+    },
+    {
+      "title": "AI has not triggered DeFi ‘hackpocalypse,’ Dragonfly partner says",
+      "link": "https://cointelegraph.com/news/dragonfly-defi-ai-hackpocalypse-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI has not triggered DeFi ‘hackpocalypse,’ Dragonfly partner says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-amm-are-dead.jpg\" /></p><p>Total value stolen and median hack size are declining compared to 2025, signaling that the AI hacking apocalypse was a false alarm, argued Dragonfly m",
+      "published": "2026-07-14T10:39:13+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики Dragonfly стверджують, що побоювання щодо масових атак на DeFi-протоколи за допомогою ШІ виявилися перебільшеними. Статистика свідчить про зниження обсягів викрадених коштів та розмірів хакерських атак порівняно з минулим роком.",
+      "ai_title": "Штучний інтелект не спричинив хакерського апокаліпсиса в DeFi"
+    },
+    {
+      "title": "Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig",
+      "link": "https://cointelegraph.com/news/solo-bitcoin-miner-200k-block-budget-bitaxe-rig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hobby-level miner bags $200K solo BTC block with budget Bitaxe rig\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-dormant-bitcoin-wallets-are-now-the-biggest-quantum-risk-heres-why.jpg\" /></p><p>A solo Bitcoin miner secured a $200,000 block reward with a budget mining rig, pushing payouts ",
+      "published": "2026-07-14T10:10:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Одиночний майнер зміг отримати винагороду за блок біткоїна, використовуючи бюджетне обладнання Bitaxe. Цей випадок демонструє непередбачуваність існуючих механізмів видобутку криптовалюти.",
+      "ai_title": "Майнер-аматор видобув блок біткоїна вартістю $200 000"
     }
   ]
 }
