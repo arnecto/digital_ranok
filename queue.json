@@ -1,22 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "[Перевод] Как использовать GPT-5.6 Sol в Codex и не сжечь лимит",
-      "link": "https://habr.com/ru/articles/1058320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058320",
-      "summary": "<p>Какую модель выбрать из новой тройки GPT 5.6? </p><p>А какой ризонинг? </p><p>Стоит ли всегда использовать Ultra?</p><p>Ответы на эти и другие вопросы ждут вас под катом от автора, который успел уже сжечь $200 000 на новой модели GPT 5.6 Sol</p> <a href=\"https://habr.com/ru/articles/1058320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1058320#habracut\">Читать далее</a>",
-      "published": "2026-07-12T16:05:42+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Автор ділиться досвідом роботи з новою моделлю GPT-5.6 Sol, на яку вже було витрачено 200 000 доларів. Стаття допомагає розібратися у виборі між різними версіями моделі та оптимізувати витрати лімітів."
-    },
-    {
-      "title": "Есть ли у ИИ клиническое мышление — или он просто удачно угадывает",
-      "link": "https://habr.com/ru/companies/ru_mts/articles/1057370/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057370",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/766/956/41a/76695641aac8b2fefc9a153545937713.png\" /><p>Если вы обратитесь к врачу, например, с болью в груди, он не сможет прямо с порога назвать ваш диагноз. Сначала выслушает, задаст вопросы, составит список возможных вариантов и назначит анализы, чтобы поэтапно их проверить. Нейросетям же на ответ нужно несколько секунд, они звучат убе",
-      "published": "2026-07-12T15:52:57+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Аналіз того, чи володіє штучний інтелект справжнім клінічним мисленням у медицині. Автор порівнює покроковий підхід лікарів до діагностики з миттєвими відповідями нейромереж, ставлячи питання про природу їхніх рішень."
-    },
-    {
       "title": "Невидимый слой PDF с инструкциями для ботов",
       "link": "https://habr.com/ru/companies/globalsign/articles/1058328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058328",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/5da/c9b/873/5dac9b873c51318875ba967b9e8ee879.png\" /><p>Невидимый текстовый слой PDF можно редактировать и экспортировать в Markdown, JSON и TXT. Такие документы называются <a href=\"https://github.com/iminoaru/adaptivepdf\">адаптивными PDF</a>, они созданы для чтения и людьми, и роботами. Люди видят обычный PDF, а роботы — отдельный слой <c",
@@ -41,22 +25,6 @@
       "ai_summary": "Хоча проект безпілотного автомобіля Apple був закритий, він став фундаментом для створення надпотужних чипів компанії, оптимізованих під AI. Завдяки розробкам для автономного керування Apple змогла випередити конкурентів у сфері обробки штучного інтелекту безпосередньо на пристроях."
     },
     {
-      "title": "The power of collaboration: How we can reduce traffic congestion",
-      "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-      "summary": "<p>Article URL: <a href=\"https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/\">https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881967\">https://news.ycombinator.com/item?id=48881967</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
-      "published": "2026-07-12T15:35:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники Google аналізують, як спільна робота та нові алгоритми можуть допомогти оптимізувати трафік у містах. Використання даних та ШІ дозволяє ефективно зменшувати затори, покращуючи міську мобільність."
-    },
-    {
-      "title": "Профилировщик CMS-движков для вебстудий",
-      "link": "https://habr.com/ru/articles/1058322/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058322",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/ddc/efd/3bc/ddcefd3bc2bcae51f1aea30a170e4efb.jpg\" /><p>Кто хотя бы раз работал в вебстудии над создаваемыми сайтами, знает, что используемые там универсальные движки очень даже норовистые. Чуть не уследил за правильной кастомизацией кода под требования клиента - на получи тормоза при открытии его страниц.</p><p>И ведь не сразу найдёшь, гд",
-      "published": "2026-07-12T16:15:31+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Стаття про розробку профілювальника для CMS-движків, який допомагає вебстудіям виявляти причини низької продуктивності сайтів. Це інструмент для оптимізації коду, що виникає через складні кастомізації під вимоги клієнтів."
-    },
-    {
       "title": "Claude Code May–July 2026 weekly limits promotion",
       "link": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
       "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion\">https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883064\">https://news.ycombinator.com/item?id=48883064</a></p>\n<p>Points: 34</p>\n<p># Comments: 34</p>",
@@ -79,14 +47,6 @@
       "published": "2026-07-12T16:54:47+00:00",
       "source": "Hacker News: Front Page",
       "ai_summary": "Наукова публікація, що аналізує феномен автоматизації без належного розуміння внутрішніх процесів. Стаття порушує питання ризиків, які виникають при надмірній довірі до автоматизованих ШІ-систем."
-    },
-    {
-      "title": "Croc: Securely transfer files and folders between two computers",
-      "link": "https://github.com/schollz/croc/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/schollz/croc/\">https://github.com/schollz/croc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882034\">https://news.ycombinator.com/item?id=48882034</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T15:44:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Утиліта Croc, що дозволяє безпечно та швидко передавати файли або цілі папки між двома комп'ютерами. Це зручне рішення для розробників, яким потрібен захищений обмін даними без зайвих складнощів."
     },
     {
       "title": "Структурная власть на скорости машин",
@@ -964,18 +924,54 @@
       "source": "The Verge",
       "ai_summary": "Компанія OpenAI опинилася в центрі чергового серйозного судового спору, цього разу ініційованого Apple. Позов ставить під загрозу стратегічні інвестиції OpenAI у розробку апаратного забезпечення.",
       "ai_title": "Apple подала гучний позов проти OpenAI"
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "summary": "<p>Article URL: <a href=\"https://www.artfish.ai/p/offloading-thinking-to-ai\">https://www.artfish.ai/p/offloading-thinking-to-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908178\">https://news.ycombinator.com/item?id=48908178</a></p>\n<p>Points: 68</p>\n<p># Comments: 52</p>",
+      "published": "2026-07-14T15:18:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автори аналізують ризики делегування когнітивних процесів нейромережам. Стаття піднімає питання, чи не призводить надмірна залежність від ШІ до втрати критичного мислення та здатності приймати самостійні рішення.",
+      "ai_title": "Чи не занадто багато ми довіряємо мислення штучному інтелекту?"
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the [&#8230;]",
+      "published": "2026-07-14T15:47:36+00:00",
+      "source": "The Verge",
+      "ai_summary": "Spotify тестує нову функцію «Talk to Spotify», що дозволяє підписникам Premium керувати прослуховуванням музики, аудіокниг та подкастів через діалог із чат-ботом. Функція доступна у мобільному додатку та забезпечує більш інтерактивний спосіб пошуку аудіоконтенту.",
+      "ai_title": "Spotify впроваджує ШІ-чат для пошуку контенту"
+    },
+    {
+      "title": "The Agentic Loop: Three loops in a trench coat",
+      "link": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+      "summary": "<p>Article URL: <a href=\"https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a\">https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48907672\">https://news.ycombinator.com/item?id=48907672</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-14T14:39:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Матеріал розглядає концепцію «агентного циклу» — механізму, що лежить в основі автономної роботи сучасних ШІ-систем. Автор пояснює, як поєднання кількох циклічних процесів дозволяє моделям краще виконувати складні завдання.",
+      "ai_title": "Архітектура агентних циклів у ШІ"
+    },
+    {
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the [&#8230;]",
+      "published": "2026-07-14T16:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "На честь 25-річчя сервісу Google оновлює головну сторінку Google Images. Тепер замість мінімалістичного інтерфейсу з рядком пошуку користувачі бачитимуть персоналізовану підбірку зображень ще до початку введення запиту.",
+      "ai_title": "Google Images змінює головну сторінку: рекомендації замість порожнього поля"
+    },
+    {
+      "title": "X admits its broken algorithm made the site feel like a &#8216;battleground&#8217;",
+      "link": "https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community",
+      "summary": "X's head of product, Nikita Bier, admitted in a post on Monday that X's algorithm was \"missing\" data about surfacing posts from people who you've followed back. Now, he says a tweak will \"boost visibility of your posts to your mutuals,\" hopefully enhancing the sense of community instead of highlighting and spreading random arguments, but [&#8230;]",
+      "published": "2026-07-14T15:20:21+00:00",
+      "source": "The Verge",
+      "ai_summary": "Керівництво X визнало, що помилки в алгоритмах обмежували видимість постів від взаємних фоловерів, сприяючи поширенню агресивного контенту. Компанія обіцяє змінити пріоритетність стрічки, щоб покращити відчуття спільноти та зменшити конфліктність у соцмережі.",
+      "ai_title": "X визнав проблему алгоритмів, що перетворили соцмережу на «поле битви»"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
-      "link": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
-      "summary": "<p>Model routing is becoming a key component of the enterprise AI stack, dynamically sending prompts to the right AI model to optimize speed and costs. However, current frameworks mostly treat routing as a static classification problem, which severely limits their potential.</p><p>A new open-source framework called <a href=\"https://arxiv.org/abs/2606.22902\">Agent-as-a-Router</a> tackles this bottl",
-      "published": "2026-07-13T16:06:36+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Відкритий фреймворк ACRouter динамічно обирає найефективнішу модель штучного інтелекту для кожного конкретного запиту. Це дозволяє компаніям у 2,6 раза знизити витрати порівняно з використанням виключно потужних моделей на кшталт Opus.",
-      "ai_title": "Новий фреймворк ACRouter оптимізує витрати на ШІ-моделі"
-    },
     {
       "title": "Sam Altman’s space data center trash talk is what most experts already believe",
       "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
@@ -1128,6 +1124,51 @@
       "source": "TechCrunch",
       "ai_summary": "CEO Hugging Face Клем Деланг зазначає, що бізнес все частіше обирає відкриті моделі ШІ через їхню прозорість, доступність та незалежність. Це ставить під сумнів домінування закритих «фронтирних» моделей у реальному корпоративному секторі.",
       "ai_title": "Майбутнє ШІ: чому відкриті моделі стають важливішими за закриті"
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "published": "2026-07-14T15:17:59+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Влада штату запровадила тимчасовий мораторій на будівництво великих дата-центрів. Губернаторка Кеті Гокул наголосила, що стрімкий розвиток ШІ не має загрожувати стабільності енергомереж, водопостачанню чи інтересам місцевих громад.",
+      "ai_title": "Нью-Йорк зупинив будівництво нових дата-центрів"
+    },
+    {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "published": "2026-07-14T14:06:47+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Spotify запускає нову функцію, яка дозволяє Premium-користувачам спілкуватися з ШІ-чат-ботом для персоналізованого пошуку музики, подкастів та аудіокниг. Це черговий крок компанії у напрямку інтеграції генеративного штучного інтелекту у свій інтерфейс.",
+      "ai_title": "Spotify впроваджує ШІ-помічника для пошуку музики"
+    },
+    {
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "published": "2026-07-14T14:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Поштовий сервіс Superhuman представив оновлений інструмент для автоматичного створення відповідей на електронні листи. Тести показали, що згенеровані ШІ чернетки працюють настільки якісно, що майже не потребують редагування з боку користувача.",
+      "ai_title": "Superhuman оновив ШІ-функцію для автоматичного написання листів"
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "published": "2026-07-14T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Google оновив інтерфейс пошуку зображень, додавши стрічку «Для вас» із персоналізованими рекомендаціями. Тепер сервіс пропонує користувачам візуальний контент, що базується на їхніх інтересах та історії пошукових запитів.",
+      "ai_title": "Google Images отримав редизайн у стилі Pinterest"
+    },
+    {
+      "title": "Telegram’s shortlink domain is back online after day-long suspension",
+      "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "summary": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
+      "published": "2026-07-14T14:10:13+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Короткі посилання на месенджер Telegram знову працюють після добової відсутності доступу. СЕО компанії Павло Дуров підтвердив наявність технічного збою, який спричинив тимчасові труднощі з використанням сервісу.",
+      "ai_title": "Telegram відновив роботу коротких посилань після збою"
     }
   ],
   "Крипта": [
@@ -1616,6 +1657,42 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Після масштабної хакерської атаки засновники Humanity Protocol вирішили змінити пріоритети та сфокусуватися на операційній безпеці. Команда визнала, що зловмисники дедалі частіше обирають для атак не смарт-контракти, а внутрішню інфраструктуру проєктів.",
       "ai_title": "Humanity Protocol посилює заходи безпеки після злому на $36 мільйонів"
+    },
+    {
+      "title": "JPMorgan says Hyperliquid's rise threatens Circle's USDC economics",
+      "link": "https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics",
+      "summary": "",
+      "published": "2026-07-14T14:57:16+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики JPMorgan вважають, що стрімке зростання платформи Hyperliquid може негативно вплинути на позиції стейблкоїна USDC від Circle. Це створює нові виклики для стабільності та моделі доходів емітента цифрового долара.",
+      "ai_title": "JPMorgan: успіх Hyperliquid ставить під загрозу економіку USDC"
+    },
+    {
+      "title": "Anchorage Digital expands Tron support with institutional TRX staking",
+      "link": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anchorage Digital expands Tron support with institutional TRX staking \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-digital-asset-exchanges-can-meet-institutional-investors-need-for-speed2.png\" /></p><p>Institutions can now stake Tron's native token directly from Anchorage's custody ",
+      "published": "2026-07-14T15:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Кастодіальна платформа Anchorage Digital розширила підтримку блокчейну Tron. Тепер інституційні клієнти можуть здійснювати стейкінг токенів TRX безпосередньо через сервіси зберігання компанії.",
+      "ai_title": "Anchorage Digital додала стейкінг Tron для інституційних інвесторів"
+    },
+    {
+      "title": "Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
+      "link": "https://cointelegraph.com/markets/bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-inflation-1.jpg\" /></p><p>BTC price action returned to $64,000 on low US CPI inflation but traders stayed wary of rejection at key resistance.</p>",
+      "published": "2026-07-14T14:53:13+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ціна біткоїна наблизилася до позначки 64 000 доларів після публікації даних про найнижчу інфляцію в США з 2020 року. Попри позитивну динаміку, трейдери залишаються обережними через ризик невдалого подолання ключового рівня опору.",
+      "ai_title": "Біткоїн зріс на фоні мінімальної інфляції в США"
+    },
+    {
+      "title": "Strategy became a symbol of the dot-com crash: Could history repeat?",
+      "link": "https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy became a symbol of the dot-com crash: Could history repeat?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-from-dot-com-crash-to-bitcoin-treasury-king-has-michael-saylor-rewritten-his-legacy-1.jpg\" /></p><p>MicroStrategy blew up during the dot-com era, before Michael Saylor tr",
+      "published": "2026-07-14T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики порівнюють нинішню агресивну біткоїн-стратегію MicroStrategy з подіями періоду краху доткомів, коли компанія Майкла Сейлора опинилася в центрі кризи. Виникає питання, чи зможе сучасна модель компанії уникнути історичних помилок минулого.",
+      "ai_title": "Стратегія MicroStrategy: чи повториться крах епохи доткомів?"
     }
   ]
 }
