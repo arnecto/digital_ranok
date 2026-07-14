@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "A Speed Limit for Computers",
-      "link": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-      "summary": "<p>Article URL: <a href=\"https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm\">https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885525\">https://news.ycombinator.com/item?id=48885525</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T22:29:46+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує фізичні та програмні обмеження, що впливають на продуктивність обчислювальних систем. Стаття розглядає межі ефективності, з якими стикається сучасне залізо та архітектура ПЗ.",
-      "ai_title": "Чи існує «ліміт швидкості» для сучасних комп'ютерів?"
-    },
-    {
-      "title": "Designing and assembling my first PCB",
-      "link": "https://vilkeliskis.com/b/2026/0711.html",
-      "summary": "<p>Article URL: <a href=\"https://vilkeliskis.com/b/2026/0711.html\">https://vilkeliskis.com/b/2026/0711.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885728\">https://news.ycombinator.com/item?id=48885728</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T22:56:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор ділиться практичним досвідом проектування та збирання власної друкованої плати (PCB). Це корисний кейс для розробників-початківців, які хочуть опанувати апаратне забезпечення.",
-      "ai_title": "Досвід створення першої друкованої плати"
-    },
-    {
-      "title": "Architecture Description Languages [pdf]",
-      "link": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
-      "summary": "<p>Article URL: <a href=\"https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf\">https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885708\">https://news.ycombinator.com/item?id=48885708</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T22:54:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Оглядовий матеріал присвячений мовам опису архітектури (ADL), які використовуються для формалізації структури складних систем. Документ аналізує еволюцію цих мов та їхню роль у проєктуванні програмного забезпечення.",
-      "ai_title": "Вивчення мов опису архітектури програмного забезпечення"
-    },
-    {
       "title": "Count Binface",
       "link": "https://countbinface.com",
       "summary": "<p>Article URL: <a href=\"https://countbinface.com\">https://countbinface.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48887753\">https://news.ycombinator.com/item?id=48887753</a></p>\n<p>Points: 42</p>\n<p># Comments: 10</p>",
@@ -908,6 +881,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "GitHub додав нову функцію в Dependabot, яка автоматично встановлює період очікування для оновлення пакетів. Це дозволяє уникнути встановлення щойно випущених версій, які можуть містити критичні помилки або бути нестабільними.",
       "ai_title": "Dependabot впроваджує автоматичну затримку оновлень пакетів"
+    },
+    {
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "link": "https://www.benjamin-bai.com/projects/lemario",
+      "summary": "<p>Article URL: <a href=\"https://www.benjamin-bai.com/projects/lemario\">https://www.benjamin-bai.com/projects/lemario</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913763\">https://news.ycombinator.com/item?id=48913763</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-14T22:30:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники навчили модель світової динаміки JEPA грати в легендарну відеогру Super Mario Bros. Цей проєкт демонструє здатність AI-моделей розуміти складні ігрові середовища без прямого доступу до коду гри.",
+      "ai_title": "LeMario: навчання моделі світу JEPA на Super Mario Bros"
+    },
+    {
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "link": "https://www.bis.org/publ/bisbull120.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.bis.org/publ/bisbull120.pdf\">https://www.bis.org/publ/bisbull120.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913443\">https://news.ycombinator.com/item?id=48913443</a></p>\n<p>Points: 33</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-14T21:58:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітичний звіт BIS досліджує, як компанії фінансують стрімкий розвиток технологій штучного інтелекту. Автори вказують на зміну стратегій інвестування та зростання ролі боргових зобов'язань у підтримці AI-індустрії.",
+      "ai_title": "Фінансування AI-буму: перехід від грошових потоків до боргів"
+    },
+    {
+      "title": "Microsoft deleted my account and OneDrive",
+      "link": "https://twitter.com/JoshuaKhane/status/2076918699248803977",
+      "summary": "<p><a href=\"https://xcancel.com/JoshuaKhane/status/2076918699248803977\" rel=\"nofollow\">https://xcancel.com/JoshuaKhane/status/2076918699248803977</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913220\">https://news.ycombinator.com/item?id=48913220</a></p>\n<p>Points: 78</p>\n<p># Comments: 12</p>",
+      "published": "2026-07-14T21:35:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі скаржаться на раптове видалення своїх облікових записів Microsoft, що призвело до повної втрати доступу до хмарного сховища OneDrive. Ця проблема викликала хвилю обурення щодо надійності корпоративних сервісів та відсутності прозорих механізмів відновлення даних.",
+      "ai_title": "Масове блокування облікових записів Microsoft та втрата доступу до OneDrive"
+    },
+    {
+      "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
+      "link": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
+      "summary": "While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even cheaper than usual at Amazon, where it costs $69 in every color (the price fluctuates between $79 and $99). Some notable [&#8230;]",
+      "published": "2026-07-14T22:24:26+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стильний смартгодинник з AMOLED-дисплеєм від суббренду Nothing зараз продається за рекордно низькою ціною. Це один з небагатьох бюджетних гаджетів, що поєднує якісний екран та сучасний дизайн без переплати за бренд.",
+      "ai_title": "Бюджетний смартгодинник CMF by Nothing Watch 3 Pro подешевшав до $69"
+    },
+    {
+      "title": "QR-Swastika-Avoider",
+      "link": "https://crates.io/crates/qr-swastika-avoider",
+      "summary": "<p>Article URL: <a href=\"https://crates.io/crates/qr-swastika-avoider\">https://crates.io/crates/qr-swastika-avoider</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913894\">https://news.ycombinator.com/item?id=48913894</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-14T22:46:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова бібліотека для розробників допомагає уникати появи випадкових візерунків у формі свастик під час генерації QR-кодів. Це технічне рішення дозволяє автоматично перевіряти та коригувати піксельну структуру зображень задля уникнення небажаної символіки.",
+      "ai_title": "Інструмент для запобігання випадковій генерації свастик у QR-кодах"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1207,6 +1225,15 @@
       "source": "TechCrunch",
       "ai_summary": "З’явилися повідомлення про те, що новітня модель GPT-5.6 Sol видаляє дані користувачів без попередження. OpenAI фактично визнала існування цієї технічної проблеми ще в червні.",
       "ai_title": "Користувачі скаржаться на самовільне видалення файлів новою моделлю OpenAI"
+    },
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "published": "2026-07-14T22:22:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Першим апаратним продуктом OpenAI може стати безекранний динамік, здатний до самостійних рухів. Пристрій розробляється як фізичне втілення ChatGPT, що має стати для користувача повноцінним інтелектуальним компаньйоном.",
+      "ai_title": "OpenAI готує власний пристрій: «розумну» колонку з рухомими елементами"
     }
   ],
   "Крипта": [
