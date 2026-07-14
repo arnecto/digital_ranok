@@ -1,54 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Выбираем лучшую нейросеть для видео 2026",
-      "link": "https://habr.com/ru/companies/bothub/articles/1058144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058144",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/c70/4fc/e98/c704fce983c9232b2874a107f77a4460.jpg\" /><p><strong>Привет Хабр!</strong></p><p>В прошлых годах видео от нейросети было заметна по характерным огрехам. По плывущим лицам, лишним пальцам и кривому движению. Как дела обстоят в середине 2026-го?&nbsp;</p><p>Мы взяли пять топовых генераторов видео —&nbsp;<strong>Veo 3.1, Kling v3 O",
-      "published": "2026-07-12T13:50:22+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Огляд сучасних нейромереж для генерації відео станом на середину 2026 року. Автори порівнюють топові моделі, такі як Veo 3.1 та Kling v3, оцінюючи якість анімації та усунення поширених візуальних артефактів."
-    },
-    {
-      "title": "Экс-гендиректор Google: «Если вы хотите работать в ИТ и побеждать, придется вернуться в офис». Это конец удаленки?",
-      "link": "https://habr.com/ru/companies/beeline_cloud/articles/1058116/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058116",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/b3a/cd0/ef6/b3acd0ef67135539a64855e5eef00b50.jpg\" /><p>Еще недавно руководители компаний видели в удаленке большие перспективы, но сегодня сотрудников все чаще приглашают вернуться в офисы. Мы в <a href=\"https://cloud.beeline.ru/?utm_source=owned_media&amp;utm_medium=habr&amp;utm_campaign=beeline_cloud&amp;utm_term=hybrid\">Beeline Cloud</",
-      "published": "2026-07-12T13:29:52+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Дискусія про майбутнє віддаленої роботи в ІТ на фоні закликів керівників повертатися до офісів. Стаття аналізує, чи стає завершення ери повністю віддаленої роботи загальносвітовим трендом."
-    },
-    {
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "link": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-science-research-flattens-discovery\">https://spectrum.ieee.org/ai-science-research-flattens-discovery</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881043\">https://news.ycombinator.com/item?id=48881043</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T13:26:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналітичний матеріал про вплив ШІ на наукові дослідження. Дослідники зазначають, що хоча технології допомагають прискорити кар'єрний ріст, вони одночасно можуть обмежувати глибину та новизну наукових відкриттів."
-    },
-    {
-      "title": "7 шагов, 6 запретов и один валидатор: разбираю /dataviz в Claude Code",
-      "link": "https://habr.com/ru/articles/1058312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058312",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/94d/68d/8cc/94d68d8cc74a557d60ab6d709fe1e9bb.png\" /><p>Скормил новому встроенному скиллу Claude Code датасет на 76 лет — только ранги, без чисел. Модель сама выбрала перевёрнутую лог-ось, проверила палитру математикой и починила наезжающие подписи. Разбираю, как /dataviz устроен изнутри и почему из всех решений кодом проверяется только цв",
-      "published": "2026-07-12T15:05:54+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Автор розбирає функціонал /dataviz у Claude Code, який дозволяє моделі автоматично аналізувати датасети та створювати візуалізації. Досліджується, як ШІ самостійно обирає налаштування графіків та коригує помилки в оформленні."
-    },
-    {
-      "title": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-      "link": "https://github.com/Roee-Tsur/mcp-spec-check",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Roee-Tsur/mcp-spec-check\">https://github.com/Roee-Tsur/mcp-spec-check</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881009\">https://news.ycombinator.com/item?id=48881009</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
-      "published": "2026-07-12T13:21:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналіз показує критичну проблему сумісності: лише 1 з понад 4000 існуючих серверів MCP готовий до специфікації 2026-07-28. Це підкреслює складнощі стандартизації інструментів для ШІ-агентів."
-    },
-    {
-      "title": "Локализация уже скомпилированных React компонентов в node_modules",
-      "link": "https://habr.com/ru/articles/1058286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058286",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/b98/677/230/b986772308d0debb14f95f750e5904c3.png\" /><p>🇧🇷 🇨🇳 🇮🇳 <strong>Локализуем React не трогая код компонентов</strong></p><p>React-компоненты из <code>node_modules</code> уже скомпилированы, поэтому внедрить <code>react-i18next</code> в них обычно невозможно без форка библиотеки. В статье показываю, как перехватить все вызовы <code>j",
-      "published": "2026-07-12T13:06:39+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Стаття пропонує спосіб локалізації вже скомпілованих React-компонентів із node_modules без потреби у форках чи зміні вихідного коду бібліотек. Рішення базується на перехопленні викликів для впровадження інтернаціоналізації."
-    },
-    {
       "title": "[Перевод] Как использовать GPT-5.6 Sol в Codex и не сжечь лимит",
       "link": "https://habr.com/ru/articles/1058320/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058320",
       "summary": "<p>Какую модель выбрать из новой тройки GPT 5.6? </p><p>А какой ризонинг? </p><p>Стоит ли всегда использовать Ultra?</p><p>Ответы на эти и другие вопросы ждут вас под катом от автора, который успел уже сжечь $200 000 на новой модели GPT 5.6 Sol</p> <a href=\"https://habr.com/ru/articles/1058320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1058320#habracut\">Читать далее</a>",
@@ -65,30 +17,6 @@
       "ai_summary": "Аналіз того, чи володіє штучний інтелект справжнім клінічним мисленням у медицині. Автор порівнює покроковий підхід лікарів до діагностики з миттєвими відповідями нейромереж, ставлячи питання про природу їхніх рішень."
     },
     {
-      "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
-      "link": "https://github.com/sshwarts/skillscript",
-      "summary": "<p>Hi HN — I'm Scott. Skillscript is a small language I built to write what I want my local agent to actually do, in a form I can read and version, instead of hoping the model gets it right each time.<p>The itch started with something small. I wanted my NanoClaw agent to run my morning brief the same way every day. Check overnight tickets, summarize the deploy pipeline, flag anything urgent. Every",
-      "published": "2026-07-12T13:34:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив Skillscript — декларативну мову для керування локальними AI-агентами. Інструмент дозволяє користувачам чітко задавати сценарії роботи агента, щоб уникнути помилок, притаманних випадковим відповідям моделей."
-    },
-    {
-      "title": "Основы биологии для инженеров (Часть 2. Управление)",
-      "link": "https://habr.com/ru/articles/1058304/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058304",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/460/24b/feb/46024bfeb01f324d646eddb7baddddea.png\" /><p>В новой части «Основ биологии для инженеров» попробуем разобраться, зачем мы вообще изучаем живые системы и в какой момент знание превращается в управление.</p><p>Поговорим о том, как человечество десятилетиями собирало карты метаболических путей, почему ИИ не заменяет науку, но резко",
-      "published": "2026-07-12T14:37:19+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Друга частина циклу про біологію для інженерів присвячена механізмам керування в живих системах. Обговорюється, чому знання про метаболічні шляхи є критично важливим і чому ІИ не замінює науковий підхід, а лише доповнює його."
-    },
-    {
-      "title": "Fable 5 вернулась, но административный рубильник остался",
-      "link": "https://habr.com/ru/articles/1058292/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058292",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/8ea/c15/2b1/8eac152b1e7b62459e960bdcac13a122.jpg\" /><p><em>Вся история — от закрытой Mythos Preview и проекта обязательной проверки, который Трамп отклонил, до глобального отключения, закулисных переговоров, возвращения Fable и первых международных последствий.</em></p><p>Fable 5 снова доступна после почти трёх недель глобального отключен",
-      "published": "2026-07-12T14:23:14+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Огляд складної історії Fable 5, яка знову стала доступною після тривалого глобального відключення. Стаття охоплює період від розробки до закулісних політичних ігор та міжнародних наслідків інциденту."
-    },
-    {
       "title": "Невидимый слой PDF с инструкциями для ботов",
       "link": "https://habr.com/ru/companies/globalsign/articles/1058328/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058328",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/5da/c9b/873/5dac9b873c51318875ba967b9e8ee879.png\" /><p>Невидимый текстовый слой PDF можно редактировать и экспортировать в Markdown, JSON и TXT. Такие документы называются <a href=\"https://github.com/iminoaru/adaptivepdf\">адаптивными PDF</a>, они созданы для чтения и людьми, и роботами. Люди видят обычный PDF, а роботы — отдельный слой <c",
@@ -103,14 +31,6 @@
       "published": "2026-07-12T16:47:08+00:00",
       "source": "Все публикации подряд на Хабре",
       "ai_summary": "Впровадження штучного інтелекту в бізнес залежить не лише від технічних параметрів моделей, а й від рівня довіри персоналу до технології. Автор наголошує, що успіх інтеграції зумовлюється навчанням користувачів та розумінням принципів роботи LLM."
-    },
-    {
-      "title": "Autoresearch, Claude and Constrained Optimization",
-      "link": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-      "summary": "<p>Article URL: <a href=\"https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/\">https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881498\">https://news.ycombinator.com/item?id=48881498</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
-      "published": "2026-07-12T14:32:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття досліджує можливості використання Claude для автоматизації досліджень та вирішення задач за допомогою оптимізації з обмеженнями. Це демонструє прогрес у здатності великих мовних моделей виконувати складні аналітичні завдання з високою точністю."
     },
     {
       "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
@@ -999,6 +919,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Уряд Німеччини розглядає можливість внесення правок, які звузять доступ до публічної інформації. Це викликало занепокоєння серед громадськості щодо прозорості державних інституцій та підзвітності влади.",
       "ai_title": "Німеччина планує обмежити закон про свободу інформації"
+    },
+    {
+      "title": "SoftServe acquired Indian IT company NewVision. What we know about the deal",
+      "link": "https://en.ain.ua/2026/07/14/softserve-acquired-indian-it-company-newvision-what-we-know-about-the-deal/",
+      "summary": "More than 700 engineers will join SoftServe after the deal. The company says this will help expand its global presence.",
+      "published": "2026-07-14T14:20:00+00:00",
+      "source": "",
+      "ai_summary": "Компанія SoftServe оголосила про придбання індійського розробника NewVision. У межах угоди до команди приєднаються понад 700 інженерів, що допоможе компанії суттєво розширити свою глобальну присутність.",
+      "ai_title": "SoftServe купує індійську IT-компанію NewVision"
+    },
+    {
+      "title": "New York becomes the first state to impose a data center moratorium",
+      "link": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/\">https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48907296\">https://news.ycombinator.com/item?id=48907296</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p",
+      "published": "2026-07-14T14:17:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Штат Нью-Йорк став першим у США, хто запровадив офіційні обмеження на розвиток дата-центрів. Це рішення підкреслює зростаючу стурбованість регуляторів щодо енергоспоживання та екологічного впливу великої обчислювальної інфраструктури.",
+      "ai_title": "Нью-Йорк ввів мораторій на будівництво дата-центрів"
+    },
+    {
+      "title": "OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
+      "link": "https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/",
+      "summary": "<p>Article URL: <a href=\"https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/\">https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48907214\">https://news.ycombinator.com/",
+      "published": "2026-07-14T14:12:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Для учасників програми Trusted Access Cyber тепер діє вимога обов'язкового використання апаратних ключів (passkeys) для доступу до облікових записів ChatGPT. Це крок спрямований на підвищення рівня захисту від зламів та крадіжок даних користувачів.",
+      "ai_title": "OpenAI впроваджує обов'язкові апаратні ключі безпеки"
+    },
+    {
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "link": "https://github.com/Danau5tin/ai-trains-ai",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Danau5tin/ai-trains-ai\">https://github.com/Danau5tin/ai-trains-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905919\">https://news.ycombinator.com/item?id=48905919</a></p>\n<p>Points: 40</p>\n<p># Comments: 16</p>",
+      "published": "2026-07-14T12:41:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив проєкт, у якому агент з навчанням з підкріпленням (RL) самостійно навчає інші нейронні моделі. Вся експериментальна розробка коштувала автору 1300 доларів і демонструє потенціал автоматизації процесу навчання ШІ.",
+      "ai_title": "Експеримент: агент ШІ, що навчає інші моделі за допомогою RL"
+    },
+    {
+      "title": "Sam Altman didn’t need another lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern [&#8230;]",
+      "published": "2026-07-14T14:01:07+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія OpenAI опинилася в центрі чергового серйозного судового спору, цього разу ініційованого Apple. Позов ставить під загрозу стратегічні інвестиції OpenAI у розробку апаратного забезпечення.",
+      "ai_title": "Apple подала гучний позов проти OpenAI"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1118,6 +1083,51 @@
       "source": "TechCrunch",
       "ai_summary": "Компанія Pinwheel представила новий стаціонарний телефон, розроблений спеціально для дітей. Пристрій дозволяє малечі підтримувати зв’язок із рідними, уникаючи відволікань, які створюють звичайні смартфони.",
       "ai_title": "Pinwheel випустила дитячий стаціонарний телефон у ретро-стилі"
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "published": "2026-07-14T14:37:48+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Reflection AI уклала угоду на 1 мільярд доларів з хмарним провайдером Nebius для доступу до високопродуктивних обчислень. Цей крок допоможе розробнику відкритого ШІ масштабувати свої технології.",
+      "ai_title": "Стартап Reflection AI залучив $1 млрд на обчислювальні потужності"
+    },
+    {
+      "title": "David Beckham’s health drink startup IM8 takes $1B from General Catalyst’s unusual CVF fund",
+      "link": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
+      "summary": "General Catalyst’s Customer Value Fund doesn't make equity investments. It's providing $1 billion for IM8, known for its longevity vitamin drink.",
+      "published": "2026-07-14T12:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап IM8, що випускає вітамінні напої для довголіття, залучив рекордний мільярд доларів від фонду General Catalyst. Незвичність угоди полягає в тому, що це не прямі інвестиції в акції, а спеціальне фінансування через Customer Value Fund.",
+      "ai_title": "Бренд напоїв Девіда Бекхема IM8 отримав $1 млрд інвестицій"
+    },
+    {
+      "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+      "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+      "summary": "<p><a href=\"https://1password.com/\">1Password</a> on Tuesday launched <a href=\"https://1password.com/product/saas-manager\">AI Spend and Consumption Management</a>, a new capability embedded in its SaaS Manager platform that gives IT and finance teams a unified, real-time view of how their organizations consume and spend on AI services from vendors including <a href=\"https://www.anthropic.com/\">Ant",
+      "published": "2026-07-14T13:00:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Компанія 1Password інтегрувала новий інструмент у свій сервіс SaaS Manager, щоб IT-відділи могли відстежувати використання та витрати на ШІ-сервіси. Це рішення покликане вирішити проблему неконтрольованих бюджетних витрат компаній на токени та платні ШІ-платформи.",
+      "ai_title": "1Password допомагатиме бізнесу контролювати витрати на ШІ"
+    },
+    {
+      "title": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
+      "link": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+      "summary": "<p><a href=\"https://www.canva.com/\">Canva</a> on Tuesday launched <a href=\"https://www.canva.com/ai-code-generator/\">Canva Code 2.0</a>, a major upgrade to its AI-powered coding tool that lets users build interactive websites, apps, and experiences using plain-language prompts — and then edit the results as easily as tweaking a Canva presentation. The feature is now available to all of the company",
+      "published": "2026-07-14T13:00:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Canva представила оновлення Code 2.0, яке дозволяє будь-якому користувачу створювати інтерактивні вебсайти та застосунки через текстові запити. Тепер інструмент доступний навіть на безкоштовних акаунтах, роблячи розробку доступнішою.",
+      "ai_title": "Canva оновила інструмент для створення сайтів за допомогою ШІ"
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "published": "2026-07-14T14:24:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "CEO Hugging Face Клем Деланг зазначає, що бізнес все частіше обирає відкриті моделі ШІ через їхню прозорість, доступність та незалежність. Це ставить під сумнів домінування закритих «фронтирних» моделей у реальному корпоративному секторі.",
+      "ai_title": "Майбутнє ШІ: чому відкриті моделі стають важливішими за закриті"
     }
   ],
   "Крипта": [
@@ -1561,6 +1571,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Лідер спільноти Superteam UK Стівен Ньюнем бере участь у виборах до британського парламенту. Він планує впровадити принципи ончейн-прозорості в державне управління та провести реформу пенсійної системи.",
       "ai_title": "Криптоентузіаст з Solana балотується до парламенту Британії"
+    },
+    {
+      "title": "Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology",
+      "link": "https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology",
+      "summary": "",
+      "published": "2026-07-14T14:31:44+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія EthSystems, що відгалузилася від Ethereum Foundation, створює рішення для підвищення конфіденційності блокчейн-транзакцій. Проєкт спрямований на інтеграцію цих технологій у банківські системи для забезпечення безпеки та відповідності регуляторним нормам.",
+      "ai_title": "EthSystems розробляє технології приватності блокчейну для банківського сектору"
+    },
+    {
+      "title": "For pension funds, tokenization’s real play is balance-sheet management, Fidelity’s Lai says",
+      "link": "https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says",
+      "summary": "",
+      "published": "2026-07-14T14:05:18+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Експерт Fidelity зазначає, що головна перевага токенізації для пенсійних фондів полягає в ефективнішому управлінні активами та пасивами. Технологія дозволяє оптимізувати баланси, забезпечуючи більшу прозорість та ліквідність традиційних інвестицій.",
+      "ai_title": "Токенізація як інструмент управління балансом для пенсійних фондів"
+    },
+    {
+      "title": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
+      "link": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
+      "summary": "",
+      "published": "2026-07-14T12:33:24+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Червневий індекс споживчих цін у США впав на 0,4%, що свідчить про пом'якшення інфляційного тиску. Цей показник змушує ринки очікувати, що Федеральна резервна система утримається від подальшого агресивного підвищення відсоткових ставок.",
+      "ai_title": "Сповільнення інфляції в США знижує ймовірність підвищення відсоткових ставок ФРС"
+    },
+    {
+      "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
+      "link": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sam-altman-polymarket.png\" /></p><p>OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a predictio",
+      "published": "2026-07-14T13:30:06+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "OpenAI інтегрувала ринки прогнозів Kalshi у пошукову видачу ChatGPT. Це перший випадок співпраці компанії з платформою предиктивної аналітики, що розширює можливості ШІ у сфері спортивних прогнозів.",
+      "ai_title": "ChatGPT почав відображати прогнози Kalshi щодо результатів чемпіонату світу"
+    },
+    {
+      "title": "Humanity Protocol to prioritize operational security following $36M hack",
+      "link": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Humanity Protocol to prioritize operational security following $36M hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-dns-hijacking.jpg\" /></p><p>Humanity Protocol’s founder said they will refocus on operational security, as malicious actors are switching from smart contract vuln",
+      "published": "2026-07-14T13:08:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Після масштабної хакерської атаки засновники Humanity Protocol вирішили змінити пріоритети та сфокусуватися на операційній безпеці. Команда визнала, що зловмисники дедалі частіше обирають для атак не смарт-контракти, а внутрішню інфраструктуру проєктів.",
+      "ai_title": "Humanity Protocol посилює заходи безпеки після злому на $36 мільйонів"
     }
   ]
 }
