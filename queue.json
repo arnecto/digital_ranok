@@ -1,14 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The fight against AI data centers is just beginning",
-      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power [&#8230;]",
-      "published": "2026-07-12T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Активізується громадський та регуляторний спротив будівництву нових енергоємних дата-центрів для потреб штучного інтелекту. Це протистояння стає ключовою темою через зростаючий тиск на локальні енергетичні мережі та екологічні ризики."
-    },
-    {
       "title": "Выбираем лучшую нейросеть для видео 2026",
       "link": "https://habr.com/ru/companies/bothub/articles/1058144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058144",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/c70/4fc/e98/c704fce983c9232b2874a107f77a4460.jpg\" /><p><strong>Привет Хабр!</strong></p><p>В прошлых годах видео от нейросети было заметна по характерным огрехам. По плывущим лицам, лишним пальцам и кривому движению. Как дела обстоят в середине 2026-го?&nbsp;</p><p>Мы взяли пять топовых генераторов видео —&nbsp;<strong>Veo 3.1, Kling v3 O",
@@ -33,22 +25,6 @@
       "ai_summary": "Аналітичний матеріал про вплив ШІ на наукові дослідження. Дослідники зазначають, що хоча технології допомагають прискорити кар'єрний ріст, вони одночасно можуть обмежувати глибину та новизну наукових відкриттів."
     },
     {
-      "title": "Unauthenticated RCE in Motorola's MR2600 Router",
-      "link": "https://mrbruh.com/motorola/",
-      "summary": "<p>Article URL: <a href=\"https://mrbruh.com/motorola/\">https://mrbruh.com/motorola/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880406\">https://news.ycombinator.com/item?id=48880406</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-12T11:52:21+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Звіт про виявлену вразливість RCE без автентифікації у роутерах Motorola MR2600. Це критична загроза безпеці, що дозволяє зловмисникам виконувати довільний код на пристрої."
-    },
-    {
-      "title": "Understanding the Odin Programming Language",
-      "link": "https://odinbook.com/",
-      "summary": "<p>Article URL: <a href=\"https://odinbook.com/\">https://odinbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880499\">https://news.ycombinator.com/item?id=48880499</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
-      "published": "2026-07-12T12:08:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Огляд мови програмування Odin, яка стає популярною завдяки своїй продуктивності та зручності для системного програмування. Автор пояснює ключові особливості синтаксису та філософію цієї мови."
-    },
-    {
       "title": "7 шагов, 6 запретов и один валидатор: разбираю /dataviz в Claude Code",
       "link": "https://habr.com/ru/articles/1058312/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058312",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/94d/68d/8cc/94d68d8cc74a557d60ab6d709fe1e9bb.png\" /><p>Скормил новому встроенному скиллу Claude Code датасет на 76 лет — только ранги, без чисел. Модель сама выбрала перевёрнутую лог-ось, проверила палитру математикой и починила наезжающие подписи. Разбираю, как /dataviz устроен изнутри и почему из всех решений кодом проверяется только цв",
@@ -71,22 +47,6 @@
       "published": "2026-07-12T13:06:39+00:00",
       "source": "Все публикации подряд на Хабре",
       "ai_summary": "Стаття пропонує спосіб локалізації вже скомпілованих React-компонентів із node_modules без потреби у форках чи зміні вихідного коду бібліотек. Рішення базується на перехопленні викликів для впровадження інтернаціоналізації."
-    },
-    {
-      "title": "Товароучёт + Честный Знак: как написать свое ПО для работы с маркировкой настольных игр",
-      "link": "https://habr.com/ru/articles/1058282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058282",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/693/676/0d8/6936760d8c1d61397ca1c6a971c152c6.png\" /><p> «Честный Знак» накрывает всех: как не платить по несколько тысяч рублей в месяц за готовые облачные решения, если у вас небольшие тиражи. Рассказываю, как я написал (а точнее навайбкодил) собственное веб-приложение на Python/Flask для учета товаров и автоматизации работы с КМ (кодами",
-      "published": "2026-07-12T12:51:36+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Розробник ділиться досвідом створення власного веб-додатку на Python/Flask для автоматизації обліку товарів та роботи з системою «Честный Знак». Це допомагає малому бізнесу уникнути витрат на дорогі хмарні сервіси."
-    },
-    {
-      "title": "Как включить кипятильник Ардуиной?",
-      "link": "https://habr.com/ru/articles/1058278/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058278",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/a08/cda/b18/a08cdab187c9335c52c2bc47ab4b21b8.png\" /><p>Вот всем хороши микроконтроллеры - маленькие, программируемые, \"умные\" - одно плохо: нельзя вот так просто так взять и включить, скажем, двигатель откатных ворот или группу прожекторов на объекте.<br />Двигателю нужно 220В, а то и 380, а микроконтроллер питается от 3.3.  </p><p>Для эт",
-      "published": "2026-07-12T12:40:32+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Практичне керівництво з інтеграції мікроконтролерів (Arduino) для керування потужним обладнанням, таким як двигуни або нагрівачі. Автор пояснює, як безпечно комутувати високу напругу, маючи справу з низьковольтною логікою."
     },
     {
       "title": "[Перевод] Как использовать GPT-5.6 Sol в Codex и не сжечь лимит",
@@ -994,6 +954,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Розробники OpenAI Codex почали шифрувати вхідні запити користувачів, використовуючи зашифровані тексти для виведення результатів. Це нововведення спрямоване на підвищення рівня приватності та захисту даних під час взаємодії з моделлю.",
       "ai_title": "Codex впроваджує шифрування запитів для безпечної обробки даних"
+    },
+    {
+      "title": "Coding agents think ahead of time",
+      "link": "https://arxiv.org/abs/2607.05188",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.05188\">https://arxiv.org/abs/2607.05188</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905764\">https://news.ycombinator.com/item?id=48905764</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-14T12:28:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники представили підхід, завдяки якому ШІ-агенти для написання коду навчилися планувати свої дії наперед. Це дозволяє їм уникати помилок та ефективніше розв'язувати складні завдання, оцінюючи наслідки свого коду до моменту виконання.",
+      "ai_title": "Новий рівень ШІ-програмування: агенти, що передбачають результат"
+    },
+    {
+      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+      "link": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "summary": "<p>Article URL: <a href=\"https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948\">https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905091\">https://news.ycombinator.com/item?id=48905091</a></p>\n<p>Points: ",
+      "published": "2026-07-14T11:30:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технологія сканування даних Codex випадково отримала доступ до секретного списку переможців престижної математичної нагороди через вебсайт ICM. Витік розкрив імена майбутніх лауреатів, серед яких виявилися випускники Пекінського університету.",
+      "ai_title": "Витік даних: ШІ-сканер виявив список лауреатів Філдсівської премії 2026 року"
+    },
+    {
+      "title": "The Future Worth Building Is Human – Thinking Machines Lab",
+      "link": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+      "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/blog/the-future-worth-building-is-human/\">https://thinkingmachines.ai/blog/the-future-worth-building-is-human/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48904905\">https://news.ycombinator.com/item?id=48904905</a></p>\n<p>Points: 44</p>\n<p># Comments: 20</p>",
+      "published": "2026-07-14T11:05:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автори Thinking Machines Lab розмірковують про розвиток штучного інтелекту та наголошують, що технологічний прогрес має слугувати інтересам людства. Основна увага приділяється створенню систем, які доповнюють людські здібності, а не заміщують їх.",
+      "ai_title": "Людяність як фундамент майбутнього технологій"
+    },
+    {
+      "title": "Let’s build a children’s public internet",
+      "link": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
+      "summary": "An increasing number of people seem to agree the internet is terrible for children - allegedly addictive, destructive to self-esteem, possibly a portal to predators. Over the past year, several countries have started requiring stringent age verification or outright bans for minors. At the end of June in the US, the House of Representatives passed [&#8230;]",
+      "published": "2026-07-14T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Через негативний вплив сучасного вебу на дітей у світі обговорюють концепцію відокремленого «дитячого інтернету». Багато країн вже впроваджують жорстку верифікацію віку, намагаючись захистити неповнолітніх від деструктивного контенту.",
+      "ai_title": "Ідея створення безпечного інтернету для дітей"
+    },
+    {
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "summary": "<p>Article URL: <a href=\"https://www.dw.com/en/germany-freedom-of-information-act/a-77939695\">https://www.dw.com/en/germany-freedom-of-information-act/a-77939695</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905290\">https://news.ycombinator.com/item?id=48905290</a></p>\n<p>Points: 51</p>\n<p># Comments: 5</p>",
+      "published": "2026-07-14T11:49:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Уряд Німеччини розглядає можливість внесення правок, які звузять доступ до публічної інформації. Це викликало занепокоєння серед громадськості щодо прозорості державних інституцій та підзвітності влади.",
+      "ai_title": "Німеччина планує обмежити закон про свободу інформації"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1116,15 +1121,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
-      "link": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs draw $197M, snap 8-week outflow streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-gold-etfs-or-shares-which-investment-makes-more-sense.jpg\" /></p><p>Analysts are not yet ready to call it a recovery in institutional demand for Bitcoin. </p>",
-      "published": "2026-07-13T01:49:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Після восьми тижнів виведення коштів спотові біткоїн-ETF знову продемонстрували позитивну динаміку припливу інвестицій. Проте аналітики поки що обережні й не поспішають називати це повноцінним відновленням інституційного попиту на першу криптовалюту.",
-      "ai_title": "Біткоїн-ETF залучили 197 мільйонів доларів, перервавши 8-тижневий період відтоку капіталу"
-    },
     {
       "title": "Bitcoin slips below $63,000 in an Asian-session leverage flush",
       "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
@@ -1520,6 +1516,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Одиночний майнер зміг отримати винагороду за блок біткоїна, використовуючи бюджетне обладнання Bitaxe. Цей випадок демонструє непередбачуваність існуючих механізмів видобутку криптовалюти.",
       "ai_title": "Майнер-аматор видобув блок біткоїна вартістю $200 000"
+    },
+    {
+      "title": "Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants",
+      "link": "https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments",
+      "summary": "",
+      "published": "2026-07-14T12:01:50+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Найбільший оператор платіжних карток Японії розпочав співпрацю з компанією Circle. Це дозволить 40 мільйонам торгових точок приймати платежі у стейблкоїнах.",
+      "ai_title": "Японська платіжна мережа інтегрує стейблкоїни Circle"
+    },
+    {
+      "title": "ECB picks firms including Deutsche Bank, Revolut for digital euro pilot",
+      "link": "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
+      "summary": "",
+      "published": "2026-07-14T12:10:03+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Європейський центральний банк залучив Deutsche Bank, Revolut та інші фінансові установи до пілотного проекту з впровадження цифрового євро. Учасники працюватимуть над технічними аспектами та функціональністю майбутньої валюти.",
+      "ai_title": "ЄЦБ обрав партнерів для тестування цифрового євро"
+    },
+    {
+      "title": "Bitcoin steadies at $62,600 as South Koreans flee stocks rout for crypto",
+      "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-steadies-at-usd62-600-as-south-koreans-flee-stocks-rout-for-crypto",
+      "summary": "",
+      "published": "2026-07-14T10:39:03+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "На тлі падіння фондового ринку в Південній Кореї місцеві інвестори масово переключаються на криптовалюти. Це допомогло ціні біткоїна закріпитися на позначці $62 600.",
+      "ai_title": "Курс біткоїна стабілізувався на фоні інтересу південнокорейських інвесторів"
+    },
+    {
+      "title": "Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation",
+      "link": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
+      "summary": "",
+      "published": "2026-07-14T12:53:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики Benchmark значно підвищили цільову ціну акцій криптомайнінгової компанії Hut 8 до $165. Зміна стратегії компанії в бік інтеграції штучного інтелекту позитивно вплинула на її ринкову оцінку.",
+      "ai_title": "Benchmark підвищив прогноз вартості акцій Hut 8 через фокус на ШІ"
+    },
+    {
+      "title": "Solana community lead enters UK by-election with onchain transparency pitch",
+      "link": "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana community lead enters UK by-election with onchain transparency pitch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/voteremaster.jpg\" /></p><p>Superteam UK lead Stephen “Cap” Newnham is taking on Nigel Farage in the Clacton by-election with pledges on pension reform and onchain transpa",
+      "published": "2026-07-14T11:34:13+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Лідер спільноти Superteam UK Стівен Ньюнем бере участь у виборах до британського парламенту. Він планує впровадити принципи ончейн-прозорості в державне управління та провести реформу пенсійної системи.",
+      "ai_title": "Криптоентузіаст з Solana балотується до парламенту Британії"
     }
   ]
 }
