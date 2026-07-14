@@ -1,72 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Claude Code May–July 2026 weekly limits promotion",
-      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
-      "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion\">https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883064\">https://news.ycombinator.com/item?id=48883064</a></p>\n<p>Points: 34</p>\n<p># Comments: 34</p>",
-      "published": "2026-07-12T18:01:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія анонсувала акційну програму з розширеними тижневими лімітами для використання Claude Code у період з травня по липень 2026 року. Це важлива новина для розробників, які активно використовують ШІ-інструменти в робочому процесі."
-    },
-    {
-      "title": "Структурная власть на скорости машин",
-      "link": "https://habr.com/ru/articles/1058354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058354",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/c4f/9b7/c38/c4f9b7c381dcc9c484eb79be7864a8ce.jpg\" /><p><em>Сильнейшие экономики мира вкладывают в ИИ триллионы не ради ещё одного способа зачитать чужой сетевой флоу. Гонка идёт за право задавать условия, в которых государства и компании видят мир и принимают решения.</em></p><p><em>ИИ-стек связывает безопасность, производство, финансы и ",
-      "published": "2026-07-12T19:13:59+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Глобальні економіки інвестують трильйони в ШІ не лише заради технологічного прогресу, а для здобуття структурної влади. Це перетворює ШІ-стек на інструмент контролю над тим, як держави та корпорації сприймають світ і приймають стратегічні рішення."
-    },
-    {
-      "title": "[Pet project] 90% людей забывают, о чём договорились на созвоне. Я же экономлю часы каждую неделю",
-      "link": "https://habr.com/ru/articles/1049970/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1049970",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/030/4ed/615/0304ed6154932df8426e440352ff6701.jpg\" /><p>Мы привыкли думать, что после хорошего созвона все участники понимают одно и то же: что решили, кто что делает и какие следующие шаги. На практике это почти никогда не так.  В одном из исследований памяти разговоров участники через неделю после беседы смогли совпасть в воспоминаниях д",
-      "published": "2026-07-12T18:46:14+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Розробник створив інструмент для автоматизації протоколів нарад, щоб вирішити проблему забування домовленостей. Рішення допомагає чітко фіксувати завдання та наступні кроки, заощаджуючи час команди щотижня."
-    },
-    {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "summary": "<p>This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code",
-      "published": "2026-07-12T18:25:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідження порівняло споживання токенів інструментами Claude Code та OpenCode під час розробки. Виявилося, що Claude Code витрачає значно більше ресурсів на підготовчі запити, що робить його менш економним у довгостроковій перспективі."
-    },
-    {
-      "title": "Can We Understand How Large Language Models Reason?",
-      "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/\">https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883090\">https://news.ycombinator.com/item?id=48883090</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
-      "published": "2026-07-12T18:04:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття досліджує актуальну проблему прозорості ШІ — чи можемо ми насправді зрозуміти механізми міркувань великих мовних моделей. Це питання критично важливе для довіри до систем, що стають все більш автономними."
-    },
-    {
-      "title": "I love LLMs, I hate hype",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "summary": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html\">https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883343\">https://news.ycombinator.com/item?id=48883343</a></p>\n<p>Points: 54</p>\n<p># Comments: 16</p>",
-      "published": "2026-07-12T18:31:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор висловлює любов до самих великих мовних моделей, але різко критикує поточний рівень хайпу навколо них. Допис закликає до більш тверезого та прагматичного погляду на розвиток цієї технології."
-    },
-    {
-      "title": "The One-Step Trap (In AI Research)",
-      "link": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "summary": "<p>Article URL: <a href=\"http://incompleteideas.net/IncIdeas/OneStepTrap.html\">http://incompleteideas.net/IncIdeas/OneStepTrap.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883415\">https://news.ycombinator.com/item?id=48883415</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-12T18:41:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує фундаментальні проблеми підходу до навчання моделей, де фокус зміщується на покрокове вирішення завдань замість розбудови цілісних інтелектуальних систем. Стаття застерігає від обмежень, які виникають при надмірному спрощенні складних процесів у розвитку штучного інтелекту.",
-      "ai_title": "Пастка «одного кроку» у дослідженнях ШІ"
-    },
-    {
-      "title": "Against Usefulness",
-      "link": "https://www.motivenotes.ai/p/against-usefulness",
-      "summary": "<p>Article URL: <a href=\"https://www.motivenotes.ai/p/against-usefulness\">https://www.motivenotes.ai/p/against-usefulness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882956\">https://news.ycombinator.com/item?id=48882956</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
-      "published": "2026-07-12T17:47:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор розмірковує над тим, як сучасна одержимість продуктивністю та миттєвою практичною вигодою негативно впливає на якість життя та інтелектуальні пошуки. Текст закликає переглянути ставлення до технологій, які спрямовані виключно на оптимізацію, і цінувати досвід поза контекстом ефективності.",
-      "ai_title": "Чому культ корисності шкодить творчості"
-    },
-    {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
       "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. [&#8230;]",
@@ -83,15 +17,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Neocities пропонує користувачам можливість легко створювати та розміщувати власні сайти, повертаючись до духу раннього інтернету. Це популярний інструмент для тих, хто хоче опанувати основи веброзробки без складних конструкторів.",
       "ai_title": "Neocities: безкоштовна платформа для створення вебсайтів"
-    },
-    {
-      "title": "I Learned to Read Again",
-      "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "summary": "<p>Article URL: <a href=\"https://substack.magazinenongrata.com/p/how-i-learned-to-read-again\">https://substack.magazinenongrata.com/p/how-i-learned-to-read-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883238\">https://news.ycombinator.com/item?id=48883238</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T18:22:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор ділиться особистим досвідом подолання інформаційного перевантаження та звички до споживання контенту в швидкому цифровому форматі. У статті йдеться про методи повернення до глибокого та вдумливого читання в епоху постійних відволікань.",
-      "ai_title": "Як я знову навчився читати"
     },
     {
       "title": "Irish datacenters now guzzle 23% of the country's electricity",
@@ -974,6 +899,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Агентство S&P знизило кредитний рейтинг Oracle до рівня BBB, що є лише на один щабель вище «сміттєвого» рівня. Це рішення підкреслює фінансові ризики, з якими стикається технологічний гігант на ринку корпоративного програмного забезпечення.",
       "ai_title": "S&P знизило кредитний рейтинг Oracle"
+    },
+    {
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "summary": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-27b\">https://prismml.com/news/bonsai-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910545\">https://news.ycombinator.com/item?id=48910545</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-14T17:50:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили Bonsai 27B — потужну мовну модель, яка завдяки 1-бітній архітектурі демонструє високу продуктивність на мобільних пристроях. Це значний крок вперед у розвитку локального штучного інтелекту без потреби у хмарних обчисленнях.",
+      "ai_title": "Bonsai 27B: перша 1-бітна модель такого класу, що працює на смартфоні"
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\">https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909785\">https://news.ycombinator.com/item?id=48909785</a></p>\n<p>Points: 99</p>\n<p># Comments: 32</p>",
+      "published": "2026-07-14T16:57:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор роздумує про нескінченне зростання складності програмного забезпечення та інфраструктури, порівнюючи цей процес із нескінченною вежею. Стаття піднімає важливі питання технічного боргу та стійкості IT-систем у майбутньому.",
+      "ai_title": "Аналіз складності сучасних технологічних екосистем"
+    },
+    {
+      "title": "Plex problems prevented users from streaming movies and shows",
+      "link": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues",
+      "summary": "Plex services experienced some major issues on Tuesday, with multiple users reporting problems on Plex's forums and on Reddit. Many people use Plex as a way to stream shows and movies they host locally, but users are upset because today's problems were reportedly affecting their ability to do that. \"Basically all Plex is down unless [&#8230;]",
+      "published": "2026-07-14T17:23:25+00:00",
+      "source": "The Verge",
+      "ai_summary": "Користувачі Plex зіткнулися з масштабними проблемами при спробі перегляду медіаконтенту, що зберігається локально. Збій спричинив масове невдоволення спільноти, оскільки обмежив доступ до власної бібліотеки фільмів та шоу.",
+      "ai_title": "Глобальний збій у роботі сервісів Plex"
+    },
+    {
+      "title": "Sony delays its new PS5 fight stick",
+      "link": "https://www.theverge.com/games/965457/sony-playstation-flexstrike-wireless-fight-stick-delay",
+      "summary": "Sony is delaying the launch of its FlexStrike fight stick controller for PS5 and PC, which had been set to launch on August 6th, to an unspecified date in the future. The company blames the delayed launch on \"unexpected production delays.\" The original planned launch of the FlexStrike would have lined up with the release [&#8230;]",
+      "published": "2026-07-14T16:47:49+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Sony перенесла запуск свого нового ігрового контролера через непередбачені виробничі труднощі. Нова дата релізу пристрою, що мав вийти в серпні, наразі залишається невідомою.",
+      "ai_title": "Sony відкладає випуск нового контролера FlexStrike для PS5"
+    },
+    {
+      "title": "The OLED Xbox Ally X20 is so good, Asus will sell it solo",
+      "link": "https://www.theverge.com/games/965123/asus-rog-xbox-ally-x20-oled-preview",
+      "summary": "When I first told you about the \"OLED Xbox Ally X of my dreams,\" I had to curb my enthusiasm a bit. That's partly because I hadn't yet tried the handheld myself, and partly because Asus was only planning to sell it bundled with a pair of expensive AR glasses! I'm happy to say both [&#8230;]",
+      "published": "2026-07-14T16:09:09+00:00",
+      "source": "The Verge",
+      "ai_summary": "Після успішного дебюту пристрою у складі обмеженого набору, Asus вирішила продавати портативну консоль окремо. Це рішення відкриває доступ до високоякісного дисплея консолі для ширшого кола геймерів без потреби купувати додаткові аксесуари.",
+      "ai_title": "Asus випустить портативну консоль OLED Xbox Ally X окремо"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1210,6 +1180,33 @@
       "source": "TechCrunch",
       "ai_summary": "Хоча розумне кільце RingConn 3 виглядає як витончена прикраса, його можливості відстеження фізичної активності та здоров'я залишають бажати кращого. Експерти не радять купувати цей гаджет через низьку ефективність ключових функцій.",
       "ai_title": "Огляд RingConn 3: стильний дизайн не рятує від поганого функціонала"
+    },
+    {
+      "title": "Lucid Motors denies report it’s considering bankruptcy",
+      "link": "https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/",
+      "summary": "The company said the \"rumors are completely false\" after its stock sank more than 50% on a report that it was weighing the option.",
+      "published": "2026-07-14T18:47:14+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія офіційно назвала неправдивими повідомлення про свою неплатоспроможність. Ці заяви з'явилися після того, як акції автовиробника обвалилися на понад 50% через чутки про ймовірне банкрутство.",
+      "ai_title": "Lucid Motors спростувала чутки про можливе банкрутство"
+    },
+    {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "published": "2026-07-14T18:33:31+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Група великих видавництв, включаючи Hachette та Elsevier, звинувачує Google у несанкціонованому використанні захищених авторським правом творів для тренування своїх моделей штучного інтелекту. Це черговий позов, що ставить під сумнів легальність методів розробки сучасних технологій ШІ.",
+      "ai_title": "Google знову судять через використання контенту для навчання ШІ"
+    },
+    {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "published": "2026-07-14T17:45:55+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Деміс Хассабіс виступив з ініціативою створення міжнародного регулятора за прикладом фінансових інституцій. Такий орган має займатися тестуванням передових моделей ШІ та встановленням стандартів безпеки перед їхнім виходом на ринок.",
+      "ai_title": "Голова DeepMind пропонує створити незалежний орган для регулювання ШІ"
     }
   ],
   "Крипта": [
@@ -1770,6 +1767,33 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Майнінгова компанія CleanSpark уклала угоду на оренду дата-центру в Джорджії вартістю 6,6 мільярда доларів. Ця новина спровокувала стрімке зростання вартості акцій компанії на фондовому ринку.",
       "ai_title": "Акції CleanSpark злетіли на 22% після масштабної угоди в Джорджії"
+    },
+    {
+      "title": "The Clarity Act isn't a ticket to sanctions evasion, actually",
+      "link": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
+      "summary": "",
+      "published": "2026-07-14T17:27:48+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Експерти розвіяли побоювання щодо того, що закон Clarity Act може створити лазівки для ухилення від санкцій. Аналіз показує, що законодавство не послаблює комплаєнс-контроль для криптоіндустрії.",
+      "ai_title": "Закон Clarity Act не допоможе в обході санкцій"
+    },
+    {
+      "title": "Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat",
+      "link": "https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat",
+      "summary": "",
+      "published": "2026-07-14T16:59:44+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фінансова корпорація Mizuho погіршила прогноз для компанії Circle, знизивши цільову ціну акцій до 50 доларів. Головною причиною стали ризики, пов'язані з появою нових конкурентів у секторі стейблкоїнів, зокрема Open USD.",
+      "ai_title": "Mizuho знизила рейтинг емітента стейблкоїна USDC через конкуренцію"
+    },
+    {
+      "title": "Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/14/wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto",
+      "summary": "",
+      "published": "2026-07-14T16:39:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Тимчасове припинення роботи Вікіпедії може негативно вплинути на якість даних, якими навчаються нейромережі на кшталт ChatGPT. Це створює ризик появи прогалин у знаннях штучного інтелекту щодо криптоактивів та технології блокчейн.",
+      "ai_title": "Блекаут Wikipedia може погіршити розуміння криптоіндустрії ШІ-моделями"
     }
   ]
 }
