@@ -1,22 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Шифр на кубике Рубика. Криптографическая задача №2",
-      "link": "https://habr.com/ru/articles/1058078/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058078",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/b67/8f8/d0d/b678f8d0d907b30279a455be675a3a63.jpg\" /><p>Недавно я начал публиковать серию задач с шифрами на кубике Рубика. Первая задача про главный вопрос жизни Вселенной и всего такого была довольно легкой - разминочной. Сегодня публикую более сложную задачу, для решение которой мне потребовалось около трех часов. Берите в руки карандаш",
-      "published": "2026-07-12T09:36:53+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Автор публікує складну криптографічну задачу, що базується на механіці кубика Рубика. Це друга частина серії інтелектуальних викликів, які потребують глибокого логічного мислення для знаходження рішення."
-    },
-    {
-      "title": "Искусственная жизнь уже рядом: синтетическая клетка впервые прошла несколько циклов деления",
-      "link": "https://habr.com/ru/companies/ru_mts/articles/1058014/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058014",
-      "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/0f4/498/050/0f44980508757c053d78f7941dede5d7.png\" /><p>Биологи уже много лет пытаются собрать из отдельных молекул систему, похожую на живую клетку. Главная сложность здесь в том, чтобы объединить отдельные реакции в единый работающий цикл. Репликация ДНК, синтез белков, рост мембраны и деление — все это должно происходить внутри замкнуто",
-      "published": "2026-07-12T10:30:36+00:00",
-      "source": "Все публикации подряд на Хабре",
-      "ai_summary": "Біологи досягли прориву, створивши синтетичну клітину, яка здатна до самостійного поділу. Це важливий крок до розуміння фундаментальних процесів живого та створення штучних біологічних систем."
-    },
-    {
       "title": "Магазин отдаёт 200 OK, а денег нет: как проверять приём заказов изнутри WooCommerce",
       "link": "https://habr.com/ru/articles/1058262/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1058262",
       "summary": "<img src=\"https://habrastorage.org/getpro/habr/upload_files/f8a/235/4b6/f8a2354b678f0734d67a40225877b6b7.png\" /><p>Классический мониторинг отвечает на вопрос «открылась ли страница». Магазин со сломанным приёмом заказов отвечает на него уверенное «да»: витрина рендерится, корзина считает, 200 OK, сертификат валиден. Не работает только одно — деньги не проходят. Шлюз остался в тест-режиме после раб",
@@ -31,14 +15,6 @@
       "published": "2026-07-12T10:14:40+00:00",
       "source": "Hacker News: Front Page",
       "ai_summary": "Близько 55% американців припинили публікувати особисті оновлення в соціальних мережах, що свідчить про зміну культури онлайн-спілкування. Це явище вказує на перехід користувачів від публічного контенту до закритих чатів або відмови від соцмереж загалом."
-    },
-    {
-      "title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "link": "https://dakra.github.io/ghostel/",
-      "summary": "<p>Article URL: <a href=\"https://dakra.github.io/ghostel/\">https://dakra.github.io/ghostel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879504\">https://news.ycombinator.com/item?id=48879504</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-12T08:52:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ghostel.el — це новий емулятор термінала для Emacs, що базується на бібліотеці libghostty. Він дозволяє користувачам ефективно працювати з сучасним термінальним рушієм безпосередньо у своєму редакторі коду."
     },
     {
       "title": "Как я строил свой продукт, не увольняясь из найма. И что из этого вышло",
@@ -986,6 +962,33 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Аналітики прогнозують, що доходи OpenAI від реклами можуть виявитися на 90% нижчими за заплановані показники. Це ставить під сумнів успішність стратегії компанії з диверсифікації джерел доходу через рекламні інтеграції.",
       "ai_title": "Рекламний бізнес OpenAI не виправдовує очікувань"
+    },
+    {
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "summary": "<p>Article URL: <a href=\"https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19\">https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903777\">https://news.ycombinator.com/item?id=48903777</a></p>\n<p>Points: 107</p>\n<p># Comments: 57</p>",
+      "published": "2026-07-14T08:34:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технічна документація європейського гаманця цифрової ідентифікації викликала хвилю критики через обмеження, що змушують користувачів використовувати лише мобільні ОС від Google або Apple. Це ставить під загрозу приватність та доступність сервісу для користувачів альтернативних або open-source операційних систем.",
+      "ai_title": "Європейський додаток для верифікації віку вимагає використання Android або iOS"
+    },
+    {
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "summary": "<p>Article URL: <a href=\"https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/\">https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903715\">https://news.ycombinator.com/item?id=48903715</a></p>\n<p>Points: 33</p>\n<p># Comments: 12</p>",
+      "published": "2026-07-14T08:24:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стартап Spectral Compute розробляє рішення для запуску коду CUDA на відеокартах, відмінних від Nvidia. Цей крок може кардинально змінити ринок обчислень для ШІ, позбавивши Nvidia монополії на програмну екосистему.",
+      "ai_title": "Спроби запуску CUDA на обладнанні від інших виробників"
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data [&#8230;]",
+      "published": "2026-07-14T09:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Губернаторка штату підписала закон, що забороняє відкриття нових гіпермасштабних дата-центрів на термін до одного року. Таке рішення спрямоване на обмеження екологічного впливу об'єктів та контроль за їхнім споживанням енергії.",
+      "ai_title": "Нью-Йорк першим у США ввів мораторій на будівництво дата-центрів"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1105,6 +1108,15 @@
       "source": "TechCrunch",
       "ai_summary": "Директор із продуктів Uber розповів про розвиток фінансових послуг, співпрацю з Waymo та впровадження ШІ, що впливає на досвід водіїв і пасажирів. Компанія підкреслює, що не планує ставати «всім для всіх», фокусуючись на ключових напрямках мобільності.",
       "ai_title": "Стратегія Uber: готелі, роботаксі та межі універсальності"
+    },
+    {
+      "title": "Pinwheel launches a retro-inspired landline phone for kids",
+      "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+      "summary": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
+      "published": "2026-07-14T09:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Pinwheel представила новий стаціонарний телефон, розроблений спеціально для дітей. Пристрій дозволяє малечі підтримувати зв’язок із рідними, уникаючи відволікань, які створюють звичайні смартфони.",
+      "ai_title": "Pinwheel випустила дитячий стаціонарний телефон у ретро-стилі"
     }
   ],
   "Крипта": [
@@ -1440,6 +1452,33 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Влада США перемістила велику кількість біткоїнів та Ethereum, вилучених під час розслідувань, на платформу Coinbase Prime. Цей крок часто передує потенційному продажу активів через біржові механізми.",
       "ai_title": "Уряд США переказав конфісковані криптоактиви на $288 мільйонів на Coinbase Prime"
+    },
+    {
+      "title": "Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts",
+      "link": "https://cointelegraph.com/markets/bitcoin-bear-market-will-bottom-when-two-month-rsi-metric-hits-zero-trader-predicts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bear market will bottom when two-month RSI metric hits zero, trader predicts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bull-bear-seesaw-new2.jpg\" /></p><p>Bitcoin RSI continued to copy previous bear markets as a trader predicted that historical BTC price bottom signals would \"hap",
+      "published": "2026-07-14T09:54:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітик вказує, що поточна динаміка індексу відносної сили (RSI) біткоїна повторює сценарії минулих ведмежих ринків. Очікується, що досягнення нульового показника за двомісячним RSI стане чітким сигналом для завершення падіння ціни.",
+      "ai_title": "Трейдер спрогнозував дно ведмежого ринку біткоїна"
+    },
+    {
+      "title": "South Korea to test tokenized government bonds with CBDC in 2027",
+      "link": "https://cointelegraph.com/news/south-korea-tokenized-government-bonds-cbdc-pilot-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea to test tokenized government bonds with CBDC in 2027\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means.jpg\" /></p><p>South Korea will test tokenized government bonds linked to the Bank of Korea’s wholesale ",
+      "published": "2026-07-14T08:44:06+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "У 2027 році Банк Кореї запустить пілотний проєкт, який передбачає використання токенізованих державних облігацій у поєднанні з національною цифровою валютою (CBDC). Це ініціатива спрямована на впровадження блокчейн-технологій у фінансову інфраструктуру країни.",
+      "ai_title": "Південна Корея протестує токенізовані облігації"
+    },
+    {
+      "title": "US spot Bitcoin ETFs post $425M outflow after brief rebound",
+      "link": "https://cointelegraph.com/news/bitcoin-etf-425-million-daily-outflow-inflows-reverse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US spot Bitcoin ETFs post $425M outflow after brief rebound\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-vaneck-warns-why-bitcoin-treasury-companies-could-face-capital-erosion-etf-2.jpg\" /></p><p>US spot Bitcoin ETFs saw their largest single-day outflows in July, with $424.66 million lea",
+      "published": "2026-07-14T08:24:31+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Спотові біткоїн-ETF у Сполучених Штатах зіткнулися з відтоком 425 мільйонів доларів після короткочасного періоду відновлення. Це стало найбільшим одноденним показником виведення коштів за липень, що свідчить про зміну настроїв інвесторів.",
+      "ai_title": "Біткоїн-ETF у США зафіксували значний відтік капіталу"
     }
   ]
 }
