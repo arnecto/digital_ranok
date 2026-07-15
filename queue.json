@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "summary": "<p>Article URL: <a href=\"https://get-inscribe.com/blog/apple-speech-api-benchmark.html\">https://get-inscribe.com/blog/apple-speech-api-benchmark.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48894752\">https://news.ycombinator.com/item?id=48894752</a></p>\n<p>Points: 145</p>\n<p># Comments: 73</p>",
-      "published": "2026-07-13T16:06:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналітики протестували новий API розпізнавання мовлення від Apple, порівнявши його продуктивність із популярною моделлю Whisper. Дослідження демонструє ефективність технології Apple та її можливості порівняно з попередніми версіями.",
-      "ai_title": "Apple SpeechAnalyzer проти Whisper: порівняльний аналіз"
-    },
-    {
-      "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report\">https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48894671\">https://news.ycombinator.com/item?id=48894671</a></p>\n<p>Points: 38</p>\n<p># Comments: 22</p>",
-      "published": "2026-07-13T15:59:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Вікіпедія тимчасово уникла статусу сервісу категорії 1 згідно з британським законом про онлайн-безпеку (Online Safety Act). Це рішення дозволяє енциклопедії працювати без виконання суворих вимог, які накладаються на великі соціальні платформи.",
-      "ai_title": "Wikipedia уникла жорсткого регулювання згідно з британським законом"
-    },
-    {
-      "title": "Go-Flavored Concurrency in C",
-      "link": "https://antonz.org/concurrency-in-c/",
-      "summary": "<p>Article URL: <a href=\"https://antonz.org/concurrency-in-c/\">https://antonz.org/concurrency-in-c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48894637\">https://news.ycombinator.com/item?id=48894637</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
-      "published": "2026-07-13T15:56:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор статті пропонує методи впровадження паралельних обчислень та механізмів конкурентності, натхненних мовою Go, у середовище програмування на C. Це цікаве технічне рішення для оптимізації багатопотокових завдань у низькорівневому коді.",
-      "ai_title": "Реалізація конкурентності в стилі Go для мови C"
-    },
-    {
-      "title": "The EV market is on the road to recovery thanks to high gas prices",
-      "link": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
-      "summary": "As the US war on Iran sent gas prices soaring, American car buyers flocked to electric vehicles - and in particular hybrids. After a sluggish winter and fall, EV sales rebounded in the second quarter of 2026, with automakers posting some of their best numbers since the elimination of the federal EV tax credit last [&#8230;]",
-      "published": "2026-07-13T18:03:20+00:00",
-      "source": "The Verge",
-      "ai_summary": "Різке підвищення вартості бензину стимулювало американських споживачів частіше купувати електромобілі та гібриди. Після періоду спаду продажі авто на альтернативній енергії знову демонструють значне зростання.",
-      "ai_title": "Ринок електромобілів відновлюється через зростання цін на пальне"
-    },
-    {
       "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
       "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
       "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
@@ -1007,6 +971,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Корпорація Microsoft офіційно підтвердила використання незмінного ідентифікатора пристрою під назвою GDID. Його неможливо вимкнути, що викликає значне занепокоєння користувачів щодо приватності даних.",
       "ai_title": "Microsoft підтвердила існування невідмикаємого ідентифікатора GDID у Windows"
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU",
+      "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "summary": "<p>Article URL: <a href=\"https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/\">https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922434\">https://news.ycombinator.com/item?id=48922434</a></p>\n<p>Points: 21</p>\n<",
+      "published": "2026-07-15T15:34:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти продемонстрували можливість запуску великої мовної моделі Gemma 4 26B на 13-річному процесорі Intel Xeon. Система досягає швидкості генерації 5 токенів на секунду, що доводить ефективність оптимізації ШІ для старого обладнання без використання GPU.",
+      "ai_title": "Запуск Gemma 4 26B на застарілому процесорі без відеокарти"
+    },
+    {
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "link": "https://github.com/vshulcz/deja-vu/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/vshulcz/deja-vu/\">https://github.com/vshulcz/deja-vu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923111\">https://news.ycombinator.com/item?id=48923111</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
+      "published": "2026-07-15T16:15:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено інструмент з відкритим вихідним кодом, який дозволяє AI-агентам мати «пам'ять», синхронізовану через SSH. Це значно спрощує взаємодію між різними середовищами розробки та дозволяє агентам краще зберігати контекст завдань.",
+      "ai_title": "Open-source рішення для пам'яті AI-агентів через SSH"
+    },
+    {
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "link": "https://coasty.ai/docs",
+      "summary": "<p>Hey HN, we’re Nitish and Prateek, the founders of Coasty (<a href=\"https://coasty.ai/computer-use\">https://coasty.ai/computer-use</a>). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs.<p>Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or brow",
+      "published": "2026-07-15T15:51:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стартап Coasty представив платформу, що дозволяє AI-агентам автоматизувати роботу в застарілому програмному забезпеченні, яке не має офіційних API. Агенти імітують дії користувача, виконуючи складні робочі процеси на основі текстових інструкцій.",
+      "ai_title": "Coasty: API для керування комп'ютером за допомогою агентів"
+    },
+    {
+      "title": "OpenAI finally launches hardware… for Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
+      "published": "2026-07-15T16:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "OpenAI випустила фізичний пристрій під назвою Codex Micro, призначений для інтеграції з платформою Codex. Це квадратний блок з кнопками, що має полегшити робочий процес розробників, які використовують ШІ-інструменти для написання коду.",
+      "ai_title": "OpenAI представила Codex Micro — спеціалізований контролер для програмування"
+    },
+    {
+      "title": "J-space comparisons across open models",
+      "link": "https://eliebak.com/viz/jspace-open-v2",
+      "summary": "<p>Article URL: <a href=\"https://eliebak.com/viz/jspace-open-v2\">https://eliebak.com/viz/jspace-open-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922803\">https://news.ycombinator.com/item?id=48922803</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-15T15:57:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Опубліковано порівняльне дослідження, що візуалізує внутрішні представлення знань (J-space) у різних відкритих моделях штучного інтелекту. Це дозволяє краще зрозуміти, як різні архітектури обробляють інформацію та чим відрізняються їхні підходи до вирішення завдань.",
+      "ai_title": "Аналіз J-простору відкритих ШІ-моделей"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1414,6 +1423,24 @@
       "source": "VentureBeat",
       "ai_summary": "Віцепрезидент Meta наголосив, що сучасна корпоративна інфраструктура застаріла, оскільки створювалася для людей, а не для автономних ШІ-агентів. Бізнесу необхідно терміново модернізувати свої технологічні потужності, щоб встигнути за темпами розвитку штучного інтелекту.",
       "ai_title": "Meta попереджає: у компаній є лише 20 місяців на адаптацію інфраструктури до ШІ-агентів"
+    },
+    {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+      "published": "2026-07-15T16:20:18+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Під час щомісячного оновлення безпеки Microsoft виправила 570 вразливостей у своїх продуктах. Компанія заявила, що досягти таких показників вдалося завдяки інтеграції інструментів штучного інтелекту у процес пошуку недоліків.",
+      "ai_title": "Microsoft усунула рекордну кількість вразливостей за допомогою ШІ"
+    },
+    {
+      "title": "Spotify expands parent-managed accounts to users on its free tier",
+      "link": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
+      "summary": "The feature was previously only available to paid subscribers.",
+      "published": "2026-07-15T14:42:10+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стрімінговий сервіс зробив доступними керовані батьками облікові записи для всіх користувачів, а не лише для передплатників Premium. Це дозволяє краще контролювати контент, який споживають діти на платформі.",
+      "ai_title": "Spotify розширює функцію батьківського контролю на безкоштовні акаунти"
     }
   ],
   "Крипта": [
@@ -1425,24 +1452,6 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Через критичну нестачу іноземної валюти влада Болівії розробляє механізми легалізації стейблкоїна USDT для внутрішніх розрахунків. Це рішення має допомогти країні пом'якшити фінансову кризу та стабілізувати грошові потоки.",
       "ai_title": "Болівія розглядає USDT як платіжний засіб через дефіцит долара"
-    },
-    {
-      "title": "Hyundai completes USDT treasury settlement pilot between US and Mexico",
-      "link": "https://cointelegraph.com/news/hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyundai completes USDT treasury settlement pilot between US and Mexico\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tether-mints-usdt-on-tron.png\" /></p><p>Hyundai completed a proof-of-concept using Tether's USDT to settle a cross-border treasury transfer between its US and Mexican subsidia",
-      "published": "2026-07-13T16:45:16+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Автомобільний гігант Hyundai завершив пілотний проєкт із використання Tether (USDT) для транскордонних переказів між своїми філіями. Тест підтвердив ефективність блокчейн-платежів для миттєвого врегулювання корпоративних казначейських операцій.",
-      "ai_title": "Hyundai успішно протестувала розрахунки в USDT між підрозділами США та Мексики"
-    },
-    {
-      "title": "Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks",
-      "link": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
-      "summary": "",
-      "published": "2026-07-13T16:34:48+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики банку Mizuho скептично оцінюють вплив банківської ліцензії на подальший розвиток Circle. Вони вважають, що посилення конкуренції на ринку стейблкоїнів залишається головним викликом для USDC.",
-      "ai_title": "Mizuho: схвалення банківської ліцензії для Circle не гарантує зростання USDC"
     },
     {
       "title": "Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials",
@@ -2091,6 +2100,33 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Адміністрація президента США планує провести зустріч із сенаторами для доопрацювання етичних норм у новому законопроєкті про криптовалюти. Головна мета — збалансувати інновації та безпеку для користувачів цифрових активів.",
       "ai_title": "Білий дім обговорить етичні стандарти для криптозаконодавства"
+    },
+    {
+      "title": "Securitize, Cantor target tokenized IPOs for public markets",
+      "link": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize, Cantor target tokenized IPOs for public markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ipo-models-that-exist.jpg\" /></p><p>Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities ",
+      "published": "2026-07-15T15:59:36+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанії об'єднують зусилля для створення інфраструктури, що дозволить проводити первинне публічне розміщення акцій (IPO) за допомогою блокчейн-технологій. Цей крок має спростити процес виходу на публічні ринки та забезпечити новий рівень ліквідності цінних паперів.",
+      "ai_title": "Cantor Fitzgerald та Securitize готують вихід на IPO через токенізацію"
+    },
+    {
+      "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
+      "link": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-credit-1.png\" /></p><p>The deployment marks Aave V4’s first expansion beyond Ethereum and introduces lending infrastructure designed to support futu",
+      "published": "2026-07-15T16:29:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Протокол Aave запустив четверту версію свого продукту в мережі Avalanche, що стало першим виходом за межі екосистеми Ethereum. Оновлення закладає фундамент для розвитку ринків токенізованого кредитування.",
+      "ai_title": "Aave V4 розширює свою присутність у мережі Avalanche"
+    },
+    {
+      "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+      "summary": "",
+      "published": "2026-07-15T14:58:09+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики обговорюють доцільність вибору між Ethereum та Solana як основними активами для криптоінвесторів. Стаття порівнює потенціал та ризики кожного з активів у контексті поточної ринкової ситуації.",
+      "ai_title": "Ethereum чи Solana: хто краще підходить для диверсифікації портфеля?"
     }
   ]
 }
