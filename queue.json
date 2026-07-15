@@ -1,15 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
-      "published": "2026-07-13T17:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Apple звинувачує OpenAI у шпигунстві за апаратними розробками та привласненні конфіденційної інформації через співробітників, які перейшли до стартапу. У позові стверджується, що компанія вимагала від кандидатів приносити із собою прототипи неанонсованих продуктів.",
-      "ai_title": "Гучні звинувачення в позові Apple проти OpenAI"
-    },
-    {
       "title": "The real prices of frontier models. Tokens * Price, right?",
       "link": "https://playcode.io/blog/real-price-of-frontier-models",
       "summary": "<p>Article URL: <a href=\"https://playcode.io/blog/real-price-of-frontier-models\">https://playcode.io/blog/real-price-of-frontier-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48896800\">https://news.ycombinator.com/item?id=48896800</a></p>\n<p>Points: 35</p>\n<p># Comments: 15</p>",
@@ -35,24 +26,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Ентузіасти створили проєкт на базі інтелектуальних агентів Strands, який перетворює іграшку «Big Mouth Billy Bass» на інтерактивного ШІ-співрозмовника. Це цікавий приклад поєднання застарілого обладнання з сучасними мовними моделями.",
       "ai_title": "BillAI Bass: ШІ-версія легендарної співаючої риби"
-    },
-    {
-      "title": "Show HN: Super Dario",
-      "link": "https://superdario.pawb.de",
-      "summary": "<p>Article URL: <a href=\"https://superdario.pawb.de\">https://superdario.pawb.de</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48896286\">https://news.ycombinator.com/item?id=48896286</a></p>\n<p>Points: 198</p>\n<p># Comments: 51</p>",
-      "published": "2026-07-13T17:53:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт, що викликав значний інтерес спільноти, пропонуючи новий погляд на веб-додатки або ігри. Деталі реалізації демонструють високу технічну майстерність та привертають увагу користувачів Hacker News.",
-      "ai_title": "Super Dario: новий браузерний хіт"
-    },
-    {
-      "title": "Logseq 2.0 Beta (DB version) is here",
-      "link": "https://github.com/logseq/logseq/releases",
-      "summary": "<p>Article URL: <a href=\"https://github.com/logseq/logseq/releases\">https://github.com/logseq/logseq/releases</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48896229\">https://news.ycombinator.com/item?id=48896229</a></p>\n<p>Points: 48</p>\n<p># Comments: 27</p>",
-      "published": "2026-07-13T17:49:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярний інструмент для ведення нотаток та управління знаннями Logseq переходить на архітектуру з використанням бази даних. Це оновлення обіцяє суттєве підвищення швидкості роботи та стабільності застосунку.",
-      "ai_title": "Вийшла бета-версія Logseq 2.0 із підтримкою бази даних"
     },
     {
       "title": "Apple’s public betas for iOS 27 and more are out now",
@@ -1016,18 +989,54 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Опубліковано порівняльне дослідження, що візуалізує внутрішні представлення знань (J-space) у різних відкритих моделях штучного інтелекту. Це дозволяє краще зрозуміти, як різні архітектури обробляють інформацію та чим відрізняються їхні підходи до вирішення завдань.",
       "ai_title": "Аналіз J-простору відкритих ШІ-моделей"
+    },
+    {
+      "title": "A General Goal-Conditioned Minecraft Model",
+      "link": "https://pantograph.com/journal/pan-1",
+      "summary": "<p>Article URL: <a href=\"https://pantograph.com/journal/pan-1\">https://pantograph.com/journal/pan-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923412\">https://news.ycombinator.com/item?id=48923412</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
+      "published": "2026-07-15T16:35:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили нову модель штучного інтелекту, здатну виконувати різноманітні цільові завдання у всесвіті Minecraft. Це значний крок вперед у створенні агентів, які можуть розуміти контекст та досягати складних ігрових цілей.",
+      "ai_title": "Універсальна модель AI для гри в Minecraft"
+    },
+    {
+      "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
+      "link": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
+      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free\">https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923363\">https://news.ycombinator.com/item?id=48923363</a></p>\n<p>Points: 31</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-15T16:32:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Остання версія операційної системи FreeBSD остаточно виключила код, ліцензований за правилами GPL, зі своєї базової системи. Це важлива віха для проєкту, що прагне до повної незалежності в ліцензуванні та архітектурної чистоти.",
+      "ai_title": "FreeBSD 16 повністю позбулася коду під ліцензією GPL"
+    },
+    {
+      "title": "Unsolved Problems in MLOps",
+      "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
+      "summary": "<p>Article URL: <a href=\"https://spawn-queue.acm.org/doi/pdf/10.1145/3762989\">https://spawn-queue.acm.org/doi/pdf/10.1145/3762989</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923109\">https://news.ycombinator.com/item?id=48923109</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-15T16:15:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття аналізує виклики, з якими стикаються спеціалісти при масштабуванні та впровадженні моделей машинного навчання у виробництво. Основна увага приділяється труднощам моніторингу, відтворюваності процесів та автоматизації життєвого циклу AI-проєктів.",
+      "ai_title": "Актуальні невирішені проблеми в MLOps"
+    },
+    {
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "link": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "summary": "<p>I've spent the last few months working on this codec.<p>It has the following characteristics:<p><pre><code>  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort levels)\n  - Slow compression\n</code></pre>\nMost of the gains can be attributed to reducing branches and making decompression very friendly to out-of-order cores, by using a smart format",
+      "published": "2026-07-15T15:58:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено інноваційний кодек, який забезпечує швидкість декомпресії, що значно перевершує показники популярного алгоритму LZ4. Попри повільну швидкість стиснення, він демонструє виняткову ефективність при читанні даних завдяки оптимізації під архітектури процесорів з позачерговим виконанням команд.",
+      "ai_title": "Новий кодек misa77: удвічі швидша декомпресія"
+    },
+    {
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
+      "published": "2026-07-15T17:48:01+00:00",
+      "source": "The Verge",
+      "ai_summary": "Дані, отримані внаслідок витоку, підтвердили, що генератор музики Suno навчався на мільйонах пісень, зібраних із YouTube, Deezer та Genius без належного дозволу. Це підтверджує припущення про методи формування навчальних датасетів для популярних AI-інструментів.",
+      "ai_title": "Suno AI викрили у використанні мільйонів піратських треків"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "published": "2026-07-13T18:22:10+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Apple подала позов проти OpenAI, звинувативши компанію у незаконному доступі до корпоративних секретів. Справа містить заяви про те, що кандидати на посади мали приносити обладнання Apple на співбесіди, а працівники жартували про несанкціонований доступ до систем розробника iPhone.",
-      "ai_title": "Скандальні звинувачення Apple проти OpenAI"
-    },
     {
       "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
       "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
@@ -1441,27 +1450,54 @@
       "source": "TechCrunch",
       "ai_summary": "Стрімінговий сервіс зробив доступними керовані батьками облікові записи для всіх користувачів, а не лише для передплатників Premium. Це дозволяє краще контролювати контент, який споживають діти на платформі.",
       "ai_title": "Spotify розширює функцію батьківського контролю на безкоштовні акаунти"
+    },
+    {
+      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "published": "2026-07-15T18:06:05+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Вартість акцій компанії поступово знижується після початкового ажіотажу. Ринок стає менш оптимістичним щодо амбітних обіцянок Ілона Маска.",
+      "ai_title": "Акції SpaceX впали нижче ціни IPO напередодні запуску Starship"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "published": "2026-07-15T18:04:06+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія вийшла з режиму розробки, що тривав півтора року, представивши модель для спеціалізованих завдань. Це стратегічний крок проти універсальних ШІ-рішень.",
+      "ai_title": "Thinking Machines презентувала Inkling — першу відкриту модель ШІ"
+    },
+    {
+      "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
+      "link": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
+      "summary": "OnePlus could also wind down its operations in India by 2027",
+      "published": "2026-07-15T17:53:32+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Виробник смартфонів готується до масштабної реструктуризації бізнесу. За чутками, до 2027 року компанія також може повністю залишити ринок Індії.",
+      "ai_title": "OnePlus планує згорнути діяльність на ринках США та Європи"
+    },
+    {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "published": "2026-07-15T17:00:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Злам внутрішніх систем компанії розкрив використання алгоритмів для масового збору музичного контенту з YouTube. Цей інцидент ставить нові питання щодо етики використання даних для навчання ШІ.",
+      "ai_title": "Розробників Suno звинуватили у використанні даних YouTube для навчання ШІ"
+    },
+    {
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "published": "2026-07-15T17:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа для прямих ефірів придбала розробника систем рекомендацій у реальному часі. Угода допоможе Whatnot покращити персоналізацію для користувачів та розширити асортимент товарів.",
+      "ai_title": "Whatnot купує ШІ-стартап Shaped для розвитку live-шопінгу"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
-      "link": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bolivia mulls recognizing USDT as payment currency amid dollar shortage\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-157300-bolivia-banco-bisa-usdt-custody.jpg\" /></p><p>As foreign currency reserves remain under pressure, Bolivia is considering a framework to let the world’s ",
-      "published": "2026-07-13T17:20:51+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Через критичну нестачу іноземної валюти влада Болівії розробляє механізми легалізації стейблкоїна USDT для внутрішніх розрахунків. Це рішення має допомогти країні пом'якшити фінансову кризу та стабілізувати грошові потоки.",
-      "ai_title": "Болівія розглядає USDT як платіжний засіб через дефіцит долара"
-    },
-    {
-      "title": "Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials",
-      "link": "https://www.coindesk.com/policy/2026/07/13/trump-s-crypto-riches-loom-over-clarity-act-talks-to-ban-conflicts-for-u-s-officials",
-      "summary": "",
-      "published": "2026-07-13T17:49:10+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Володіння значними криптоактивами Дональдом Трампом ускладнює обговорення Clarity Act, який має запобігти конфлікту інтересів серед американських чиновників. Це питання викликає запеклі дискусії щодо етичних стандартів для політиків у криптоіндустрії.",
-      "ai_title": "Криптостатки Трампа стають перешкодою для закону про конфлікт інтересів у США"
-    },
     {
       "title": "TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race",
       "link": "https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race",
@@ -2127,6 +2163,42 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Аналітики обговорюють доцільність вибору між Ethereum та Solana як основними активами для криптоінвесторів. Стаття порівнює потенціал та ризики кожного з активів у контексті поточної ринкової ситуації.",
       "ai_title": "Ethereum чи Solana: хто краще підходить для диверсифікації портфеля?"
+    },
+    {
+      "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
+      "link": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
+      "summary": "",
+      "published": "2026-07-15T17:02:22+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Американська компанія DTCC здійснила важливий крок для інтеграції блокчейну у фінансову систему Уолл-стріт. Тепер токенізовані цінні папери стали частиною реального торгового процесу, що знаменує новий етап цифровізації традиційних активів.",
+      "ai_title": "DTCC запустила токенізовані цінні папери в реальні торги"
+    },
+    {
+      "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
+      "link": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
+      "summary": "",
+      "published": "2026-07-15T16:52:28+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанії Cantor та Securitize об'єднують зусилля для впровадження блокчейн-технологій у процес первинного публічного розміщення акцій (IPO). Це партнерство має на меті спростити та автоматизувати емісію цінних паперів за допомогою розподіленого реєстру.",
+      "ai_title": "Cantor Fitzgerald та Securitize готують вихід на IPO через блокчейн"
+    },
+    {
+      "title": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
+      "link": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tribune-hearing-congress.jpg\" /></p><p>President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach",
+      "published": "2026-07-15T17:56:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Кандидат Дональда Трампа на посаду генерального прокурора зіткнувся з гострою критикою в Сенаті через його наміри розформувати криптопідрозділ. Також обговорюється питання можливого помилування Чанпена Чжао з боку нової адміністрації.",
+      "ai_title": "У Сенаті США розкритикували кандидата на посаду генпрокурора за антикрипто-політику"
+    },
+    {
+      "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
+      "link": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ostium pauses trading as security firms report multimillion-dollar oracle exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-defillama-hacks-analysis.png\" /></p><p>Ostium halted trading and advised revoking contract approvals after blockchain security firms reported an apparent o",
+      "published": "2026-07-15T17:14:21+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Децентралізована біржа Ostium зупинила торги після того, як фірми з безпеки виявили вразливість в оракулі, що призвела до значних збитків. Користувачам наполегливо рекомендують скасувати дозволи на взаємодію з контрактами для захисту своїх активів.",
+      "ai_title": "Платформа Ostium призупинила роботу через багатомільйонний злам"
     }
   ]
 }
