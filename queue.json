@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The real prices of frontier models. Tokens * Price, right?",
-      "link": "https://playcode.io/blog/real-price-of-frontier-models",
-      "summary": "<p>Article URL: <a href=\"https://playcode.io/blog/real-price-of-frontier-models\">https://playcode.io/blog/real-price-of-frontier-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48896800\">https://news.ycombinator.com/item?id=48896800</a></p>\n<p>Points: 35</p>\n<p># Comments: 15</p>",
-      "published": "2026-07-13T18:32:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття аналізує реальні витрати на використання сучасних мовних моделей, виходячи за межі простої вартості токенів. Автор пояснює, на що насправді витрачають кошти розробники та компанії при впровадженні ШІ.",
-      "ai_title": "Справжня вартість передових ШІ-моделей"
-    },
-    {
-      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
-      "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "summary": "<p>Article URL: <a href=\"https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/\">https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48896665\">https://news.ycombinator.com/item?id=48896665</a></p>\n<p>Points: 50</p>\n<p># Comments: 25</p>",
-      "published": "2026-07-13T18:22:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярна інструкція для розробників, у якій пояснюється, як автоматизувати процес створення та публікації застосунків для Mac та iOS, оминаючи використання стандартного середовища Xcode.",
-      "ai_title": "Як розробляти та випускати додатки для Apple без Xcode"
-    },
-    {
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "link": "https://github.com/morganwilliscloud/billai-bass",
-      "summary": "<p>Article URL: <a href=\"https://github.com/morganwilliscloud/billai-bass\">https://github.com/morganwilliscloud/billai-bass</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48896599\">https://news.ycombinator.com/item?id=48896599</a></p>\n<p>Points: 17</p>\n<p># Comments: 10</p>",
-      "published": "2026-07-13T18:18:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти створили проєкт на базі інтелектуальних агентів Strands, який перетворює іграшку «Big Mouth Billy Bass» на інтерактивного ШІ-співрозмовника. Це цікавий приклад поєднання застарілого обладнання з сучасними мовними моделями.",
-      "ai_title": "BillAI Bass: ШІ-версія легендарної співаючої риби"
-    },
-    {
       "title": "Apple’s public betas for iOS 27 and more are out now",
       "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
       "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other betas available now [&#8230;]",
@@ -1034,6 +1007,42 @@
       "source": "The Verge",
       "ai_summary": "Дані, отримані внаслідок витоку, підтвердили, що генератор музики Suno навчався на мільйонах пісень, зібраних із YouTube, Deezer та Genius без належного дозволу. Це підтверджує припущення про методи формування навчальних датасетів для популярних AI-інструментів.",
       "ai_title": "Suno AI викрили у використанні мільйонів піратських треків"
+    },
+    {
+      "title": "Why I Left Google DeepMind",
+      "link": "https://turntrout.com/why-i-left-google-deepmind",
+      "summary": "<p>Article URL: <a href=\"https://turntrout.com/why-i-left-google-deepmind\">https://turntrout.com/why-i-left-google-deepmind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48925271\">https://news.ycombinator.com/item?id=48925271</a></p>\n<p>Points: 133</p>\n<p># Comments: 62</p>",
+      "published": "2026-07-15T18:40:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Колишній співробітник Google DeepMind ділиться особистими міркуваннями щодо свого рішення залишити компанію. Стаття розкриває внутрішню культуру та виклики, з якими стикаються дослідники у сфері ШІ в корпоративних структурах.",
+      "ai_title": "Чому я пішов із Google DeepMind"
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">https://thinkingmachines.ai/news/introducing-inkling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48924912\">https://news.ycombinator.com/item?id=48924912</a></p>\n<p>Points: 135</p>\n<p># Comments: 51</p>",
+      "published": "2026-07-15T18:12:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Thinking Machines анонсували вихід Inkling, своєї нової моделі з відкритими вагами. Це важливий крок для спільноти розробників, що дозволяє ширше використовувати та досліджувати технології ШІ без обмежень закритих систем.",
+      "ai_title": "Представлено Inkling — нову модель з відкритими вагами"
+    },
+    {
+      "title": "Something&#8217;s glowing on the Pixel 11&#8217;s camera bar",
+      "link": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
+      "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing, color-shifting orb to the one side of the camera bar. The store [&#8230;]",
+      "published": "2026-07-15T18:24:22+00:00",
+      "source": "The Verge",
+      "ai_summary": "Короткий тизер від Google розкрив нову дизайнерську деталь майбутньої лінійки Pixel 11 — світловий елемент на панелі камер. Цей колірний індикатор, що світиться, стане особливістю зовнішнього вигляду нових смартфонів.",
+      "ai_title": "Google Pixel 11 отримає незвичайний світловий індикатор на камері"
+    },
+    {
+      "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
+      "link": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
+      "summary": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it \"completely false\" and pointing to its available free cash flow as evidence that it has enough runway to operate into next year. But despite [&#8230;]",
+      "published": "2026-07-15T17:17:56+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Lucid Motors спростувала повідомлення про можливе банкрутство, що спровокували обвал акцій. Ця ситуація підкреслює загальну нестабільність та скепсис інвесторів щодо майбутнього стартапів у галузі електромобілів.",
+      "ai_title": "Чутки про банкрутство Lucid Motors та криза ринку електромобілів"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1495,18 +1504,45 @@
       "source": "TechCrunch",
       "ai_summary": "Платформа для прямих ефірів придбала розробника систем рекомендацій у реальному часі. Угода допоможе Whatnot покращити персоналізацію для користувачів та розширити асортимент товарів.",
       "ai_title": "Whatnot купує ШІ-стартап Shaped для розвитку live-шопінгу"
+    },
+    {
+      "title": "Apple bans home services from its upcoming Maps ads",
+      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+      "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads.",
+      "published": "2026-07-15T18:21:22+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Apple оприлюднила правила для свого майбутнього рекламного сервісу в Apple Maps, суттєво відмінні від стратегії Google. Компанія заборонила рекламу побутових послуг, таких як послуги сантехніків чи електриків, демонструючи більш вибірковий та обережний підхід до рекламодавців.",
+      "ai_title": "Apple обмежує рекламу в картах: домашні послуги під забороною"
+    },
+    {
+      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+      "summary": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.",
+      "published": "2026-07-15T17:39:54+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Масштабний проект Google з використання сонячної енергії та акумуляторів опинився в центрі уваги через сусідство з електростанцією Ілона Маска xAI, що працює на газі без належних дозволів. Це протистояння підкреслює різні підходи технологічних гігантів до сталого енергопостачання своїх потужностей.",
+      "ai_title": "Енергетичний контраст: Google проти xAI"
+    },
+    {
+      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
+      "link": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
+      "summary": "<p>Hundreds of enterprise leaders and technical experts packed the main ballroom of the luxurious Hotel Nia in Menlo Park this week for<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a>, the year&#x27;s preeminent conference on using generative AI agents to drive business outcomes. </p><p>Rachad Alao, vice president of product engineering at the rising Canadian enterprise AI ",
+      "published": "2026-07-15T18:21:02+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "На конференції VB Transform 2026 експерти Cohere наголосили на важливості технологічного суверенітету для корпоративного ШІ. Для успішного впровадження генеративних агентів компаніям необхідно мати повний контроль над усім стеком технологій.",
+      "ai_title": "Майбутнє ШІ в бізнесі: чому корпораціям потрібен повний контроль"
+    },
+    {
+      "title": "Microsoft patches bug in video game Age of Empires II",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
+      "published": "2026-07-15T18:47:01+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Microsoft випустила патч для класичної стратегії Age of Empires II, щоб виправити небезпечну вразливість. Зловмисники могли отримати віддалений контроль над комп'ютерами користувачів через спеціально сформоване ігрове запрошення.",
+      "ai_title": "Microsoft усунула критичну вразливість в Age of Empires II"
     }
   ],
   "Крипта": [
-    {
-      "title": "TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race",
-      "link": "https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race",
-      "summary": "",
-      "published": "2026-07-13T19:43:03+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Керівник TeraWulf наголошує на важливості якісного енергозабезпечення для дата-центрів, що працюють зі штучним інтелектом. Він пояснює, що в умовах зростаючого попиту на обчислювальні потужності ефективність та надійність джерел енергії стають ключовими конкурентними перевагами.",
-      "ai_title": "Гендиректор TeraWulf: не кожен мегават однаково цінний у гонці ШІ"
-    },
     {
       "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
       "link": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
