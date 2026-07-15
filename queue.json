@@ -1,69 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple’s public betas for iOS 27 and more are out now",
-      "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
-      "summary": "Apple has just released public betas for iOS 27 and other major OS updates that are set to publicly launch this fall. The big new feature this year is Siri AI, the delayed AI-powered revamp to Siri. It actually works - which is big praise! - though it keeps things brief. Other betas available now [&#8230;]",
-      "published": "2026-07-13T20:45:40+00:00",
-      "source": "The Verge",
-      "ai_summary": "Apple відкрила доступ до публічного тестування iOS 27 та інших оновлень ОС. Ключовою особливістю став оновлений Siri AI, який отримав суттєві покращення та вищі оцінки стабільності порівняно з попередніми версіями.",
-      "ai_title": "Вийшли публічні бета-версії iOS 27 з новим Siri AI"
-    },
-    {
-      "title": "Show HN: PlanWright – A control plane for AI coding agents",
-      "link": "https://planwright.tools",
-      "summary": "<p>MCP driven control plane for Agentic Engineering. Plan from Claude Desktop, implement in Codex, review in a custom triage agent. All via MCP, all logged and tracked with full documentation of all decisions made by each agent.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897969\">https://news.ycombinator.com/item?id=48897969</a></p>\n<p>Points: 5</p>\n<p># Comments: 2",
-      "published": "2026-07-13T19:59:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Це рішення на базі MCP (Model Context Protocol), що дозволяє координувати роботу ШІ-агентів у процесі написання коду. Система забезпечує надійне планування, імплементацію та рев'ю коду з повним документуванням кожного рішення.",
-      "ai_title": "PlanWright: нова система контролю для ШІ-агентів"
-    },
-    {
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "link": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "summary": "<p>I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.<p>There are services that transcribe music from Youtube videos into tabs, but they never work well enough for me. Instead I'm taking a simpler approach. \nIt downloads the video, samples frames, uses Claude vision to locate the tab region, crops every frame to that region, de-duplicates the crops by the",
-      "published": "2026-07-13T20:13:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив CLI-інструмент, який автоматично перетворює відеоуроки з YouTube на PDF-файли з гітарними табулатурами. Для цього програма аналізує кадри відео за допомогою зору моделі Claude, ідентифікує область з нотами та збирає їх у готовий документ.",
-      "ai_title": "Конвертер відеоуроків гітари в табулатури"
-    },
-    {
-      "title": "Show HN: I implemented a neural network in SQL",
-      "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-      "summary": "<p>Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd array can be mapped to 2d, where orthogon",
-      "published": "2026-07-13T20:00:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор проєкту представив незвичний підхід до обробки даних, створивши повноцінну нейронну мережу засобами SQL. Це демонструє гнучкість сучасних SQL-бібліотек для роботи з масивами даних та їх перетворення у формат, придатний для машинного навчання.",
-      "ai_title": "Реалізація нейронної мережі мовою SQL"
-    },
-    {
-      "title": "Telegram's t.me domain has been suspended",
-      "link": "https://www.whois.com/whois/t.me",
-      "summary": "<p>Article URL: <a href=\"https://www.whois.com/whois/t.me\">https://www.whois.com/whois/t.me</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897878\">https://news.ycombinator.com/item?id=48897878</a></p>\n<p>Points: 54</p>\n<p># Comments: 36</p>",
-      "published": "2026-07-13T19:52:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярний домен t.me, який використовується для швидкого доступу до каналів та чатів у месенджері Telegram, раптово припинив роботу. Наразі офіційні причини призупинення домену з боку реєстратора не розголошуються.",
-      "ai_title": "Домен t.me, що належить Telegram, було призупинено"
-    },
-    {
-      "title": "Samsung will delete your health data if you don't let them use it to train AI",
-      "link": "https://neow.in/cWsyMTV3",
-      "summary": "<p>Article URL: <a href=\"https://neow.in/cWsyMTV3\">https://neow.in/cWsyMTV3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897991\">https://news.ycombinator.com/item?id=48897991</a></p>\n<p>Points: 132</p>\n<p># Comments: 32</p>",
-      "published": "2026-07-13T20:01:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Samsung поставила ультиматум власникам пристроїв: якщо користувачі не погодяться на використання їхніх медичних даних для навчання штучного інтелекту, їхня історія здоров'я буде видалена. Ця політика викликала значне занепокоєння щодо конфіденційності та етичних методів збору даних для AI-тренувань.",
-      "ai_title": "Samsung погрожує видалити дані про здоров'я користувачів"
-    },
-    {
-      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-      "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Poseidon-fan/linux-0.11-rs\">https://github.com/Poseidon-fan/linux-0.11-rs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48898134\">https://news.ycombinator.com/item?id=48898134</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-13T20:11:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти успішно переписали класичне ядро Linux версії 0.11 мовою програмування Rust. Оновлена версія повністю функціональна та здатна завантажуватися в емуляторі QEMU, демонструючи потенціал Rust у низькорівневому системному програмуванні.",
-      "ai_title": "Linux 0.11 переписали на мові Rust"
-    },
-    {
       "title": "Microsoft tests Windows Search without all the ads and fluff",
       "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
       "summary": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with users and fix Windows. [&#8230;]",
@@ -71,15 +8,6 @@
       "source": "The Verge",
       "ai_summary": "Microsoft почала тестування оновленого інтерфейсу пошуку в Windows 11, з якого прибрали рекламні блоки та нав'язливий контент. Компанія намагається покращити користувацький досвід та відновити довіру аудиторії, зробивши ОС менш захаращеною.",
       "ai_title": "Microsoft тестує «чистий» пошук у Windows без реклами"
-    },
-    {
-      "title": "Climate.gov was destroyed. Open data saved it",
-      "link": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
-      "summary": "<p>Article URL: <a href=\"https://werd.io/climate-gov-was-destroyed-open-data-saved-it/\">https://werd.io/climate-gov-was-destroyed-open-data-saved-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897945\">https://news.ycombinator.com/item?id=48897945</a></p>\n<p>Points: 251</p>\n<p># Comments: 106</p>",
-      "published": "2026-07-13T19:57:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Після знищення офіційного сайту Climate.gov спільнота активістів змогла повністю відновити його роботу завдяки принципам відкритості даних. Цей випадок підкреслює важливість незалежного архівування та доступу до наукової інформації в епоху цифрових загроз.",
-      "ai_title": "Як відкриті дані врятували кліматичний портал США"
     },
     {
       "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
@@ -107,33 +35,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Проєкт на GitHub демонструє цікаву імплементацію ШІ-асистента Claude, натхненну персонажем із серіалу «Рік та Морті». Це рішення спрямоване на підвищення ефективності виконання завдань за допомогою ШІ.",
       "ai_title": "Claude як «Містер Мізікс»: новий підхід до автоматизації"
-    },
-    {
-      "title": "Show HN: Sigwire – a live TUI switchboard for every signal on your Linux box",
-      "link": "https://github.com/yeet-src/sigwire",
-      "summary": "<p>Hey everyone, I wrote this tool for inspecting linux signals across proceses</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48898071\">https://news.ycombinator.com/item?id=48898071</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
-      "published": "2026-07-13T20:07:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Це консольний інструмент із графічним інтерфейсом, призначений для відстеження сигналів між процесами в Linux у реальному часі. Розробка полегшує діагностику та контроль взаємодії процесів у системі.",
-      "ai_title": "Sigwire: новий TUI-інструмент для моніторингу сигналів у Linux"
-    },
-    {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [&#8230;]",
-      "published": "2026-07-13T20:43:20+00:00",
-      "source": "The Verge",
-      "ai_summary": "Перша публічна бета-версія нової iOS демонструє значні зміни в роботі Siri завдяки інтеграції штучного інтелекту. Оновлення суттєво змінює звички користувачів у повсякденній взаємодії зі смартфоном.",
-      "ai_title": "Як ШІ в Siri трансформує досвід користування iPhone"
-    },
-    {
-      "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
-      "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
-      "summary": "The macOS 27 Golden Gate public beta is here, and anyone with an M-series Mac now has easier access to test-drive Apple's latest changes - including a more subdued Liquid Glass aesthetic. That's reason enough to be at least a little excited for macOS 27 (particularly if you're on Tahoe and disliking all the transparency). [&#8230;]",
-      "published": "2026-07-13T20:43:15+00:00",
-      "source": "The Verge",
-      "ai_summary": "Користувачі Mac із процесорами M-серії отримали доступ до публічної бета-версії macOS 27. Основною особливістю оновлення стали естетичні покращення дизайну Liquid Glass, що зробили візуальні елементи інтерфейсу більш стриманими.",
-      "ai_title": "Публічна бета macOS 27: головні оновлення інтерфейсу Liquid Glass"
     },
     {
       "title": "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
@@ -1043,18 +944,45 @@
       "source": "The Verge",
       "ai_summary": "Компанія Lucid Motors спростувала повідомлення про можливе банкрутство, що спровокували обвал акцій. Ця ситуація підкреслює загальну нестабільність та скепсис інвесторів щодо майбутнього стартапів у галузі електромобілів.",
       "ai_title": "Чутки про банкрутство Lucid Motors та криза ринку електромобілів"
+    },
+    {
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "link": "https://brainless.swerdlow.dev",
+      "summary": "<p>Article URL: <a href=\"https://brainless.swerdlow.dev\">https://brainless.swerdlow.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926085\">https://news.ycombinator.com/item?id=48926085</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-15T19:42:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт пропонує набір готових компонентів для розробників, які візуально наслідують інтерфейси сучасних AI-інструментів, таких як Claude Code або Grok. Це рішення спрощує створення сучасних вебдодатків з дизайном, що став стандартом у сфері ШІ.",
+      "ai_title": "Brainless: UI-компоненти в стилі інтерфейсів Claude та Grok"
+    },
+    {
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "summary": "<p>Article URL: <a href=\"https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20\">https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48925888\">https://news.ycombinator.com/item?id=48925888</a></p>\n<p>Points: 35</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-15T19:27:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники оголосили про роботу над продовженням Duskers, відомої своєю гнітючою атмосферою та унікальним управлінням через командний рядок. Гра знову занурить гравців у світ космічних дронів та виживання серед покинутих кораблів.",
+      "ai_title": "Анонсовано сиквел Duskers — культової гри про виживання в терміналі"
+    },
+    {
+      "title": "Roblox is shutting down its video chat service",
+      "link": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
+      "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with people on the call in a shared virtual [&#8230;]",
+      "published": "2026-07-15T20:02:26+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія вирішила відмовитися від функції відеозв’язку, яка дозволяла користувачам спілкуватися в реальному часі, використовуючи аватари з імітацією міміки. Сервіс, запущений у 2023 році, виявився не достатньо затребуваним для подальшої підтримки.",
+      "ai_title": "Roblox закриває сервіс відеодзвінків Roblox Connect"
+    },
+    {
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric [&#8230;]",
+      "published": "2026-07-15T20:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стаття аналізує появу дешевого контенту, створеного за допомогою ШІ, який стрімко заповнює ринок розваг. Автори порівнюють цю тенденцію з епохою низькоякісних фільмів, що випускалися одразу на відео, критикуючи їх за відсутність художньої цінності.",
+      "ai_title": "AI-фільми як нова форма «сміттєвого» кінематографа"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-      "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
-      "published": "2026-07-13T20:00:17+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Колишній співробітник Apple скористався вразливістю у системі безпеки, щоб завантажити конфіденційні файли компанії вже після свого звільнення. Цей інцидент стався на тлі переходу спеціаліста до конкурента — OpenAI.",
-      "ai_title": "Експрацівник Apple використав баг для крадіжки конфіденційних даних після переходу в OpenAI"
-    },
     {
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
       "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
@@ -1540,27 +1468,45 @@
       "source": "TechCrunch",
       "ai_summary": "Компанія Microsoft випустила патч для класичної стратегії Age of Empires II, щоб виправити небезпечну вразливість. Зловмисники могли отримати віддалений контроль над комп'ютерами користувачів через спеціально сформоване ігрове запрошення.",
       "ai_title": "Microsoft усунула критичну вразливість в Age of Empires II"
+    },
+    {
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+      "published": "2026-07-15T19:46:54+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Neko Health розробила унікальну технологію сканування всього тіла. У поєднанні з аналізами крові це рішення дозволяє проводити комплексний моніторинг стану здоров'я людини.",
+      "ai_title": "Стартап Деніела Ека Neko Health залучив 700 млн доларів"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "published": "2026-07-15T19:41:38+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Попри судові суперечки щодо інтелектуальної власності на залізо, OpenAI представила спеціальну клавіатуру з підсвіткою. Пристрій призначений для зручнішої роботи з їхнім застосунком для програмування на базі ШІ.",
+      "ai_title": "OpenAI випустила фірмову клавіатуру за 230 доларів"
+    },
+    {
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "published": "2026-07-15T18:06:05+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Вартість акцій компанії поступово знижується після періоду пост-IPO ейфорії. Інвестори стають менш оптимістичними щодо амбітних обіцянок Ілона Маска, що відображається на ринковій оцінці SpaceX.",
+      "ai_title": "Акції SpaceX впали до 135 доларів перед новим запуском Starship"
+    },
+    {
+      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+      "published": "2026-07-15T20:22:52+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Національна рада з безпеки на транспорті підтвердила звіт Tesla щодо смертельної аварії в Техасі. Дані свідчать, що в момент зіткнення педаль газу була натиснута повністю, спростовуючи сумніви щодо справності системи.",
+      "ai_title": "NTSB підтвердило: водій Tesla тиснув на газ на 100% перед аварією"
     }
   ],
   "Крипта": [
-    {
-      "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
-      "link": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
-      "summary": "",
-      "published": "2026-07-13T20:27:47+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Генеральний директор Binance.US заявив, що біржа перебуває на етапі активного відновлення після періоду труднощів. Компанія ставить за мету повернути свою колишню позицію та охопити п'яту частину ринку криптовалют у США.",
-      "ai_title": "Binance.US планує повернути 20% частки на американському ринку"
-    },
-    {
-      "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
-      "link": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
-      "summary": "",
-      "published": "2026-07-13T20:15:29+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Інвестиційний директор криптовалютного підрозділу Franklin Templeton вважає, що поточна вартість цифрових активів не відповідає їхнім фундаментальним характеристикам. На думку експерта, ринок зараз демонструє ознаки значного відхилення від реальних економічних показників.",
-      "ai_title": "Franklin Templeton: ціни на крипторинку відірвалися від фундаментальних показників"
-    },
     {
       "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
       "link": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2235,6 +2181,33 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Децентралізована біржа Ostium зупинила торги після того, як фірми з безпеки виявили вразливість в оракулі, що призвела до значних збитків. Користувачам наполегливо рекомендують скасувати дозволи на взаємодію з контрактами для захисту своїх активів.",
       "ai_title": "Платформа Ostium призупинила роботу через багатомільйонний злам"
+    },
+    {
+      "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
+      "link": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed",
+      "summary": "",
+      "published": "2026-07-15T20:18:02+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керівник екосистеми Base від Coinbase визнав, що його стратегія розвитку крипто-соціальних продуктів не виправдала очікувань. У результаті він вирішив відійти від операційного управління додатком, щоб зосередитися на інших пріоритетах.",
+      "ai_title": "Джессі Поллак залишає керівництво Base app після невдачі соцмережевої стратегії"
+    },
+    {
+      "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
+      "link": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi.png\" /></p><p>Researchers found that Polymarket’s five-minute Bitcoin prediction markets cr",
+      "published": "2026-07-15T20:05:08+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Науковці виявили, що короткострокові ринки прогнозів щодо ціни біткоїна дозволяють зловмисникам маніпулювати розрахунками. Це ставить під сумнів надійність таких платформ, як Polymarket, для прогнозування цінових рухів активу.",
+      "ai_title": "Дослідження Стенфорда: 5-хвилинні ринки прогнозів Bitcoin вразливі до маніпуляцій"
+    },
+    {
+      "title": "Revolut receives in-principle approval from UAE authorities for crypto services",
+      "link": "https://cointelegraph.com/news/revolut-approval-uae-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut receives in-principle approval from UAE authorities for crypto services\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-license-blockchain.jpg\" /></p><p>Dubai’s Virtual Assets Regulatory Authority approved the London-headquartered fintech company for broker-dealer, managem",
+      "published": "2026-07-15T19:34:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Фінтех-гігант Revolut здобув попереднє схвалення від регулятора віртуальних активів Дубая. Компанія планує надавати брокерські та дилерські послуги у сфері криптовалют на ринку Об'єднаних Арабських Еміратів.",
+      "ai_title": "Revolut отримав дозвіл на надання криптопослуг в ОАЕ"
     }
   ]
 }
