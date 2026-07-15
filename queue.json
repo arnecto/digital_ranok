@@ -989,18 +989,54 @@
       "source": "The Verge",
       "ai_summary": "Голова FCC Брендан Карр ініціює голосування за скасування обмежень, які раніше не дозволяли одній компанії володіти станціями, що охоплюють понад 39% домогосподарств США. Це рішення може призвести до значної консолідації серед великих медіахолдингів.",
       "ai_title": "Зміни в регулюванні медіаринку США: скасування лімітів власності"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "link": "https://mort.coffee/home/sqlite-editions/",
+      "summary": "<p>Article URL: <a href=\"https://mort.coffee/home/sqlite-editions/\">https://mort.coffee/home/sqlite-editions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928135\">https://news.ycombinator.com/item?id=48928135</a></p>\n<p>Points: 43</p>\n<p># Comments: 21</p>",
+      "published": "2026-07-15T22:42:58+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує можливість впровадження системи версійних видань для SQLite, подібно до того, як це реалізовано в мові Rust. Такий підхід міг би допомогти вдосконалити еволюцію бази даних, зберігаючи при цьому зворотну сумісність.",
+      "ai_title": "Чи потрібні SQLite «видання» за прикладом Rust?"
+    },
+    {
+      "title": "LLM Networking with MikroTik",
+      "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html\">https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927915\">https://news.ycombinator.com/item?id=48927915</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-15T22:23:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті розглядається нестандартний підхід до інтеграції великих мовних моделей у мережеву інфраструктуру на базі MikroTik. Це цікавий кейс для інженерів, які шукають способи автоматизації мереж за допомогою сучасного ШІ.",
+      "ai_title": "Використання мережевого обладнання MikroTik для LLM"
+    },
+    {
+      "title": "P2P local file transfer based on WebRTC",
+      "link": "https://pairdrop.net/",
+      "summary": "<p>Article URL: <a href=\"https://pairdrop.net/\">https://pairdrop.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927900\">https://news.ycombinator.com/item?id=48927900</a></p>\n<p>Points: 12</p>\n<p># Comments: 9</p>",
+      "published": "2026-07-15T22:22:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "PairDrop пропонує зручне рішення для локального обміну файлами між пристроями за допомогою технології WebRTC. Це дозволяє передавати дані напряму між користувачами без проміжних серверів, забезпечуючи швидкість і приватність.",
+      "ai_title": "P2P-передача файлів через WebRTC"
+    },
+    {
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "summary": "<p>Article URL: <a href=\"https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials\">https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928313\">https://news.ycombinator.com/item?id=48928313</a></p>\n<p>Points: 11</p>\n<p># ",
+      "published": "2026-07-15T23:00:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Матеріали з металоорганічними каркасами відкривають неймовірні можливості для зберігання газів, фільтрації та інших високотехнологічних галузей. Дослідники з Берклі розповідають про те, чому ці структури вважаються проривними для майбутнього матеріалознавства.",
+      "ai_title": "Металоорганічні каркаси: нове диво хімічної інженерії"
+    },
+    {
+      "title": "The Anti-Mac User Interface (1996)",
+      "link": "https://www.nngroup.com/articles/anti-mac-interface/",
+      "summary": "<p>Article URL: <a href=\"https://www.nngroup.com/articles/anti-mac-interface/\">https://www.nngroup.com/articles/anti-mac-interface/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928234\">https://news.ycombinator.com/item?id=48928234</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-15T22:52:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ця архівна стаття аналізує концепції інтерфейсу користувача, що суперечили філософії дизайну Apple того часу. Це корисний екскурс в історію UI/UX, який допомагає краще зрозуміти еволюцію стандартів взаємодії з комп'ютерами.",
+      "ai_title": "Критика інтерфейсу Apple 1996 року"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
-      "published": "2026-07-13T23:31:18+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Розробник ШІ-агентів Nous Research веде переговори про залучення щонайменше 75 мільйонів доларів. Раунд фінансування очолює фонд Robot за участі великих інвесторів, зокрема USV.",
-      "ai_title": "Стартап Nous Research залучає інвестиції при оцінці у $1,5 мільярда"
-    },
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
@@ -1525,15 +1561,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
-      "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
-      "summary": "",
-      "published": "2026-07-14T02:58:36+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курс біткоїна знизився, оскільки трейдери переглянули свої прогнози щодо липневого підвищення відсоткової ставки ФРС США. Це сталося напередодні публікації важливих даних про рівень інфляції в країні.",
-      "ai_title": "Біткоїн дешевшає на фоні очікувань підвищення ставки ФРС"
-    },
     {
       "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
       "link": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
