@@ -10,24 +10,6 @@
       "ai_title": "Waze інтегрує ШІ-функції Gemini та нові режими навігації"
     },
     {
-      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-      "link": "https://github.com/clawkwork/clawk",
-      "summary": "<p>Article URL: <a href=\"https://github.com/clawkwork/clawk\">https://github.com/clawkwork/clawk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48892859\">https://news.ycombinator.com/item?id=48892859</a></p>\n<p>Points: 92</p>\n<p># Comments: 100</p>",
-      "published": "2026-07-13T14:02:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий інструмент Clawk дозволяє надавати ШІ-агентам доступ до ізольованих віртуальних машин Linux замість використання основної файлової системи вашого ноутбука. Це рішення значно підвищує безпеку при роботі з автономними помічниками для програмування.",
-      "ai_title": "Clawk: безпечне середовище для ШІ-агентів у віртуальних машинах"
-    },
-    {
-      "title": "Grok uploaded my user directory to xAI's servers",
-      "link": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/a_green_being/status/2076598897779020159\">https://twitter.com/a_green_being/status/2076598897779020159</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48892512\">https://news.ycombinator.com/item?id=48892512</a></p>\n<p>Points: 352</p>\n<p># Comments: 174</p>",
-      "published": "2026-07-13T13:39:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі повідомили про критичну вразливість у клієнті Grok CLI, який автоматично завантажував вміст домашніх директорій на сервери компанії. Цей інцидент викликав серйозні занепокоєння щодо приватності даних при використанні ШІ-інструментів.",
-      "ai_title": "Скандал навколо Grok: ШІ завантажив файли користувача на сервери xAI"
-    },
-    {
       "title": "LAPD lets contract with surveillance giant Flock expire",
       "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
       "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/\">https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4889394",
@@ -962,18 +944,54 @@
       "source": "The Verge",
       "ai_summary": "Популярна святкова декорація отримала технологічне оновлення, що дозволяє користувачам говорити через рухомий рот скелета за допомогою мобільного додатка. Ця функція була запозичена у меншої версії пристрою, випущеної минулого року.",
       "ai_title": "Вірусний 4-метровий скелет від Home Depot тепер вміє розмовляти"
+    },
+    {
+      "title": "Ukrainian defense companies will gain access to €300 mln in EU grants — Fedorov",
+      "link": "https://en.ain.ua/2026/07/15/ukrainian-defense-companies-will-gain-access-to-eur300-mln-in-eu-grants-fedorov/",
+      "summary": "Within the EDIP program the Ukraine Support Instrument will operate with a budget of €300 mln.",
+      "published": "2026-07-15T13:07:00+00:00",
+      "source": "",
+      "ai_summary": "У межах програми EDIP розпочинає роботу інструмент підтримки України з бюджетом 300 мільйонів євро. Це відкриває нові можливості для фінансування та розвитку вітчизняного оборонного сектору.",
+      "ai_title": "Українські оборонні компанії отримають доступ до 300 млн євро грантів ЄС"
+    },
+    {
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "summary": "<p>Article URL: <a href=\"https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence\">https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920432\">https://news.ycombinator.com/item?id=48920432</a></p>\n<p>Points: 20</p>\n<p># Comments: 14</p>",
+      "published": "2026-07-15T13:18:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технології клонування голосу за допомогою штучного інтелекту стають настільки досконалими, що для імітації особи достатньо всього трьох секунд аудіозапису. Сучасні методи захисту виявляються неефективними проти швидкості та якості генерації таких підробок.",
+      "ai_title": "Трисекундна крадіжка: чому захист від ШІ-шахрайства за голосом не встигає за зловмисниками"
+    },
+    {
+      "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+      "link": "https://github.com/evansjp/grepathy",
+      "summary": "<p>hey HN - Claude pre-created users in Clerk with null emails/names as \"guest users\" on a contract job. Wasn't in any plan. The CTO asked why, and I didn't know! I didn't make that decision!<p>The reasoning was in a transcript on my laptop. Claude Code deletes those after 30 days by default. Two of my projects lost their whole history that way.<p>Grepathy distills transcripts locally into markdow",
+      "published": "2026-07-15T13:26:24+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники стикаються з критичними помилками, коли ШІ-асистенти, такі як Claude Code, самостійно вчиняють дії без належного контролю. Крім того, автоматичне видалення історії сесій може призвести до незворотної втрати важливих даних проєкту.",
+      "ai_title": "Ризики автоматизації: непередбачувані дії ШІ у професійних інструментах"
+    },
+    {
+      "title": "Ask HN: Is it just me, or is software buggier across the board?",
+      "link": "https://news.ycombinator.com/item?id=48920698",
+      "summary": "<p>I feel like I’m going crazy, I’ve been hitting the strangest bugs across all my devices in the last 6 months. Is anyone else experiencing this too?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920698\">https://news.ycombinator.com/item?id=48920698</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-15T13:41:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі скаржаться на зростання кількості дивних технічних помилок у повсякденному використанні гаджетів та ПЗ протягом останніх пів року. Це викликає дискусію серед спільноти про загальне зниження якості сучасної розробки та стабільності систем.",
+      "ai_title": "Чи стало програмне забезпечення більш «глючним»?"
+    },
+    {
+      "title": "The Motorola Edge 70 Max is all about power",
+      "link": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability",
+      "summary": "Motorola has launched the Edge 70 Max, its latest flagship phone that's designed for power intensive tasks like streaming video and mobile gaming. Alongside having a huge battery and rapid wired charging support, the Motorola Edge 70 Max is the first Android phone to support full 25W wireless Qi2 charging since Google launched the Pixel [&#8230;]",
+      "published": "2026-07-15T12:18:22+00:00",
+      "source": "The Verge",
+      "ai_summary": "Motorola представила смартфон Edge 70 Max, орієнтований на ресурсомісткі завдання, як-от стрімінг та ігри. Пристрій вирізняється потужною батареєю та підтримкою швидкої бездротової зарядки Qi2 потужністю 25 Вт.",
+      "ai_title": "Motorola Edge 70 Max: новий флагман для продуктивної роботи"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Should AI help you get away with killing your spouse?",
-      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-      "summary": "What does a world of total user-aligned AI actually look like?",
-      "published": "2026-07-13T16:31:23+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "У статті порушується питання про те, якими будуть наслідки створення ШІ, що повністю підпорядковується бажанням користувача. Автор аналізує ризики того, що персоналізований інтелект може стати інструментом для неправомірних дій або уникнення відповідальності.",
-      "ai_title": "Етичні межі ШІ: чи може технологія сприяти злочинам?"
-    },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
       "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
@@ -1306,18 +1324,36 @@
       "source": "TechCrunch",
       "ai_summary": "Компанія облаштовує дослідницький центр термоядерної енергетики на території старої фабрики Oscar Meyer у Вісконсині. Цей майданчик стане новим осередком для розробки перспективних джерел чистої енергії.",
       "ai_title": "Realta Fusion будує термоядерний реактор на місці колишньої фабрики хот-догів"
+    },
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "published": "2026-07-15T13:10:47+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Ode, підтримана Anthropic, фокусується на залученні інженерів безпосередньо до робочих процесів клієнтів. Стартап прагне прискорити впровадження ШІ, надаючи спеціалізовану технічну допомогу замість простого продажу мовних моделей.",
+      "ai_title": "Anthropic та Blackstone інвестують у впровадження ШІ на підприємствах"
+    },
+    {
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "summary": "Rime is handling over 100 million calls each month across multiple companies.",
+      "published": "2026-07-15T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Rime залучив фінансування серії А для масштабування своєї платформи, що допомагає бізнесу автоматизувати обробку звернень. Зараз сервіс уже забезпечує виконання понад 100 мільйонів дзвінків на місяць для низки корпоративних клієнтів.",
+      "ai_title": "Стартап Rime залучив $24 млн на автоматизацію клієнтських дзвінків"
+    },
+    {
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "published": "2026-07-15T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий застосунок спрощує створення контенту, перетворюючи звичайні записи з камери на короткі відеоролики. Це рішення розраховане на користувачів, які хочуть швидко монтувати ролики без використання складних професійних інструментів.",
+      "ai_title": "Reelful автоматично створює відео для соцмереж із фото та відео в галереї"
     }
   ],
   "Крипта": [
-    {
-      "title": "Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched",
-      "link": "https://cointelegraph.com/news/strategy-sells-467-million-mstr-keeps-843775-btc-stack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy sells $467M in MSTR shares, leaves 843,775 BTC stack untouched\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-japan-gate3.jpg\" /></p><p>Strategy boosted its US dollar reserve to $3 billion after selling $466.7 million in MSTR shares, while keeping its 843,775 Bitcoin holdings unch",
-      "published": "2026-07-13T13:08:49+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія збільшила свій готівковий резерв до 3 мільярдів доларів після продажу акцій MSTR. При цьому фірма підтвердила, що не проводила жодних операцій зі своїми 843 775 біткоїнами.",
-      "ai_title": "MicroStrategy залучила 467 мільйонів доларів, не продаючи свій біткоїн"
-    },
     {
       "title": "Bitcoin panic-selling may be ending as sellers' profit margins disappear",
       "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-panic-selling-may-be-ending-as-sellers-profit-margins-disappear",
@@ -1353,15 +1389,6 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Вартість біткоїна опинилася під тиском на тлі заяв Дональда Трампа щодо Ормузької протоки. Невизначеність у світі змушує інвесторів виходити з ризикових активів.",
       "ai_title": "Біткоїн під загрозою падіння нижче $62 000 через геополітичну напруженість"
-    },
-    {
-      "title": "Coinbase Ventures tops crypto VC list for H1 2026",
-      "link": "https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase Ventures tops crypto VC list for H1 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-vc-funding-surpasses-2021-totl-despite-declining-since-may.jpg\" /></p><p>Coinbase’s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shie",
-      "published": "2026-07-13T13:26:50+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Венчурний підрозділ Coinbase став найактивнішим інвестором у криптосекторі за вказаний період. Попри загальне уповільнення фінансування, компанія продовжує активно підтримувати блокчейн-стартапи.",
-      "ai_title": "Coinbase Ventures очолила рейтинг криптоінвесторів у першому півріччі 2026 року"
     },
     {
       "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
@@ -1956,6 +1983,51 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Ціни на криптовалюти демонструють стабільність, попри вплив звітів про інфляцію в США. Ескалація напруженості на Близькому Сході нівелює позитивні очікування інвесторів, стримуючи активне зростання ринку.",
       "ai_title": "Крипторинок стабілізувався на тлі геополітичної напруги"
+    },
+    {
+      "title": "Japan reclassifies crypto as a financial asset, paves way for tax cuts",
+      "link": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
+      "summary": "",
+      "published": "2026-07-15T12:05:33+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Японія змінює юридичний статус криптовалют, прирівнюючи їх до фінансових активів. Це рішення відкриває шлях до зниження податкового навантаження для інвесторів та криптокомпаній у країні.",
+      "ai_title": "Японія перекваліфікує криптовалюти на фінансові активи"
+    },
+    {
+      "title": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
+      "link": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
+      "summary": "",
+      "published": "2026-07-15T12:12:01+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Попри приплив капіталу в розмірі 15 мільярдів доларів, вартість криптоактивів під управлінням BlackRock знизилася на 39%. Це свідчить про значний вплив ринкових коливань на інвестиційні портфелі гіганта.",
+      "ai_title": "Активи BlackRock у криптосекторі впали на 39%"
+    },
+    {
+      "title": "A timeline of the Ethereum Foundation's ongoing shakeup",
+      "link": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
+      "summary": "",
+      "published": "2026-07-15T13:19:48+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фундація Ethereum переживає період внутрішніх трансформацій та змін у складі команди. Ці процеси можуть суттєво вплинути на подальший розвиток та управління екосистемою проєкту.",
+      "ai_title": "Кадрові перестановки у Ethereum Foundation"
+    },
+    {
+      "title": "Crypto firms face AML risks during post-MiCA migration, says AMLA chair",
+      "link": "https://cointelegraph.com/news/amla-customer-migration-strain-mica-licensed-casps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto firms face AML risks during post-MiCA migration, says AMLA chair\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-setting-court-precedent-for-mica.jpg\" /></p><p>AMLA is expanding its crypto oversight as firms complete the transition to the EU’s MiCA licensing regime.</p>",
+      "published": "2026-07-15T13:08:43+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Європейське агентство AMLA попереджає криптокомпанії про зростання ризиків відмивання коштів у процесі адаптації до регуляторних норм MiCA. Регулятор посилює нагляд за бізнесом, що переходить на нові ліцензійні умови в ЄС.",
+      "ai_title": "Ризики відмивання грошей під час переходу на MiCA"
+    },
+    {
+      "title": "Bitcoin rally cools as investors digest inflation data, oil clouds outlook",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook",
+      "summary": "",
+      "published": "2026-07-15T11:46:06+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Зростання курсу біткоїна втратило темп, оскільки інвестори обережно оцінюють нові дані про інфляцію. Додатковий тиск на ринок створюють нестабільні ціни на нафту, що погіршують загальні економічні прогнози.",
+      "ai_title": "Раллі біткоїна сповільнюється через інфляцію"
     }
   ]
 }
