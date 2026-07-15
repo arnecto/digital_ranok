@@ -10,15 +10,6 @@
       "ai_title": "Microsoft тестує «чистий» пошук у Windows без реклами"
     },
     {
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
-      "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-      "summary": "Siri has been on the Apple Watch since day one, though I'm usually hard-pressed to find people who actually make good use of it. It's kind of just… been there - mostly as a way to set timers when my hands are full. But after playing around with the watchOS 27 developer beta, I get [&#8230;]",
-      "published": "2026-07-13T20:44:20+00:00",
-      "source": "The Verge",
-      "ai_summary": "З оновленням watchOS 27 та впровадженням нових можливостей ШІ, Siri перестає бути лише помічником для таймерів. Розумніший штучний інтелект значно розширює функціональність годинника, роблячи його повноцінним автономним пристроєм для роботи з інформацією.",
-      "ai_title": "AI-функції Siri перетворюють Apple Watch на справжній «комп'ютер на зап'ясті»"
-    },
-    {
       "title": "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
       "link": "https://1shotchallenge.ai",
       "summary": "<p>Article URL: <a href=\"https://1shotchallenge.ai\">https://1shotchallenge.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48899620\">https://news.ycombinator.com/item?id=48899620</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
@@ -62,24 +53,6 @@
       "source": "The Verge",
       "ai_summary": "Компанія OnePlus, що належить корпорації Oppo, готується оголосити про припинення діяльності на ринках США та Європи. Це рішення підтверджує тривалі чутки про зміну стратегії бренду та майбутні труднощі компанії на глобальній арені.",
       "ai_title": "OnePlus планує вихід з ринків США та Європи"
-    },
-    {
-      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-      "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
-      "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7\">https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48898814\">https://news.ycombinator.com/item?id=48898814</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-13T21:01:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стартап SalesPatriot, учасник програми Y Combinator (зима 2025), відкрив вакансії для Full Stack розробників у Сан-Франциско. Компанія активно розширює команду для подальшого розвитку свого продукту.",
-      "ai_title": "SalesPatriot шукає Full Stack розробників"
-    },
-    {
-      "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
-      "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
-      "summary": "Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your videos, whether you’re the only one talking, or if you’re getting audio from multiple people. The DJI Mic 3 [&#8230;]",
-      "published": "2026-07-13T21:03:14+00:00",
-      "source": "The Verge",
-      "ai_summary": "Популярні бездротові мікрофони DJI Mic 3 вперше отримали знижку на комплект із двох пристроїв. Це рішення допоможе творцям контенту значно покращити якість аудіо при зйомці відео на смартфони.",
-      "ai_title": "Перше зниження ціни на бездротові мікрофони DJI"
     },
     {
       "title": "The Git history command deserves more attention",
@@ -980,18 +953,54 @@
       "source": "The Verge",
       "ai_summary": "Стаття аналізує появу дешевого контенту, створеного за допомогою ШІ, який стрімко заповнює ринок розваг. Автори порівнюють цю тенденцію з епохою низькоякісних фільмів, що випускалися одразу на відео, критикуючи їх за відсутність художньої цінності.",
       "ai_title": "AI-фільми як нова форма «сміттєвого» кінематографа"
+    },
+    {
+      "title": "Grok Build",
+      "link": "https://github.com/xai-org/grok-build",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xai-org/grok-build\">https://github.com/xai-org/grok-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926590\">https://news.ycombinator.com/item?id=48926590</a></p>\n<p>Points: 65</p>\n<p># Comments: 70</p>",
+      "published": "2026-07-15T20:24:58+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія xAI виклала у відкритий доступ інструментарій Grok Build на GitHub. Це важливий крок для розробників, які прагнуть дослідити технології, що стоять за нейромережею Grok.",
+      "ai_title": "xAI відкриває вихідний код Grok Build"
+    },
+    {
+      "title": "Show HN: Firefox in WebAssembly",
+      "link": "https://developer.puter.com/labs/firefox-wasm/",
+      "summary": "<p>This is the entire Firefox browser rendering to a <canvas> element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly.<p>Here are a few things you might find interesting:<p>- This is fully end to end encrypted! We use the WISP protocol for TCP-over-websockets.<p>- There is a novel WASM->JS JIT for experimental site speedup<p>- This port cost ov",
+      "published": "2026-07-15T21:00:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти перенесли повноцінний браузер Firefox у середовище WebAssembly, дозволивши йому працювати безпосередньо в елементі HTML canvas. Проєкт використовує спеціальний JIT-компілятор та наскрізне шифрування для роботи.",
+      "ai_title": "Firefox успішно запущено через WebAssembly"
+    },
+    {
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the [&#8230;]",
+      "published": "2026-07-15T21:33:20+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Ілона Маска звинувачує користувача у навмисному обході захисних фільтрів чат-бота Grok для створення та поширення забороненого контенту. Це знакова справа про відповідальність розробників ШІ та їхніх користувачів.",
+      "ai_title": "xAI подала до суду на користувача через створення дитячої порнографії за допомогою Grok"
+    },
+    {
+      "title": "Must actively fund open source AI [pdf]",
+      "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\">https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927095\">https://news.ycombinator.com/item?id=48927095</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-15T21:16:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти наголошують на необхідності системного інвестування в проєкти відкритого штучного інтелекту. Це має стати запобіжником проти монополізації галузі великими корпораціями.",
+      "ai_title": "Заклик до активного фінансування відкритого ШІ"
+    },
+    {
+      "title": "The End of Creativity",
+      "link": "https://hugodaniel.com/posts/the-end-of-creativity/",
+      "summary": "<p>Article URL: <a href=\"https://hugodaniel.com/posts/the-end-of-creativity/\">https://hugodaniel.com/posts/the-end-of-creativity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927136\">https://news.ycombinator.com/item?id=48927136</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-15T21:19:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує, як стрімкий розвиток генеративних моделей впливає на природу людської креативності. Стаття ставить питання про те, чи залишається творчість унікальною рисою людини в умовах автоматизації.",
+      "ai_title": "Кінець епохи творчості в епоху ШІ?"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-      "published": "2026-07-13T20:59:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Голова Microsoft висловив занепокоєння щодо того, що великі AI-лабораторії можуть використовувати свої пропрієтарні моделі як інструменти прихованого контролю. Це попередження викликало хвилю дискусій у Кремнієвій долині про безпеку та довіру до сторонніх рішень у сфері штучного інтелекту.",
-      "ai_title": "Сатья Наделла попередив про ризики використання закритих AI-моделей"
-    },
     {
       "title": "X just tweaked its algorithm to make it more friendly, less battleground",
       "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
@@ -1504,18 +1513,18 @@
       "source": "TechCrunch",
       "ai_summary": "Національна рада з безпеки на транспорті підтвердила звіт Tesla щодо смертельної аварії в Техасі. Дані свідчать, що в момент зіткнення педаль газу була натиснута повністю, спростовуючи сумніви щодо справності системи.",
       "ai_title": "NTSB підтвердило: водій Tesla тиснув на газ на 100% перед аварією"
+    },
+    {
+      "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
+      "link": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
+      "summary": "<p>Enterprises looking to move more of their agentic AI workloads to open weights models they can customize, control and run on-premises or in virtual private clouds have a strong new contender to consider.</p><p>Today, Thinking Machines—the highly capitalized American AI startup founded by former OpenAI CTO Mira Murati—<a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">released Inkli",
+      "published": "2026-07-15T21:33:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Стартап Thinking Machines, заснований колишнім технічним директором OpenAI Мірою Мураті, випустив Inkling — мультимодальну модель з відкритими вагами. Вона орієнтована на корпоративний сектор, забезпечуючи низьку вартість використання, високий рівень контролю та стійкість до цензури.",
+      "ai_title": "Thinking Machines представили Inkling — нову open-source мультимодальну модель"
     }
   ],
   "Крипта": [
-    {
-      "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
-      "link": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-mica-markets-in-crypto-assets-regulation2.jpg\" /></p><p>Reed Smith’s Aquarius platform automates regulatory filings and legal workflows as demand f",
-      "published": "2026-07-13T21:40:32+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Платформа Aquarius допомагає криптовалютним компаніям автоматизувати подання регуляторної звітності та робочі процеси в межах ЄС. Це рішення покликане спростити дотримання нових жорстких правил ринку криптоактивів.",
-      "ai_title": "Юридична фірма Reed Smith представила інструмент для відповідності регламенту MiCA"
-    },
     {
       "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
       "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
