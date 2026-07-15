@@ -1,15 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Backtrack-Free Cursive",
-      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "summary": "<p>Article URL: <a href=\"https://mmapped.blog/posts/52-backtrack-free-cursive\">https://mmapped.blog/posts/52-backtrack-free-cursive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48888518\">https://news.ycombinator.com/item?id=48888518</a></p>\n<p>Points: 20</p>\n<p># Comments: 7</p>",
-      "published": "2026-07-13T06:08:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технічний огляд методу обробки курсивного письма, що дозволяє уникнути багаторазового перебору варіантів (backtracking). Це рішення підвищує ефективність систем розпізнавання тексту, роблячи процес обробки більш лінійним та швидким.",
-      "ai_title": "Алгоритм розпізнавання рукописного тексту без повернень"
-    },
-    {
       "title": "Meta disabled an Instagram feature that allowed creating AI images based on public accounts",
       "link": "https://en.ain.ua/2026/07/13/meta-disabled-an-instagram-feature-that-allowed-creating-ai-images-based-on-public-accounts/",
       "summary": "The company disabled the Muse model tool after criticism over violations of rights to personal images and the risks of scammers abusing the technology.",
@@ -944,18 +935,54 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Автор статті провів глибокий аналіз комп'ютерного обладнання та інтерфейсів, використаних під час зйомок культового фільму 90-х. Матеріал розкриває цікаві подробиці того, як створювалася візуалізація технологій для тогочасного кіно.",
       "ai_title": "Детальний технічний огляд комп'ютерів із фільму «Парк Юрського періоду»"
+    },
+    {
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "link": "https://www.ayush.digital/blog/the-memory-heist",
+      "summary": "<p>Article URL: <a href=\"https://www.ayush.digital/blog/the-memory-heist\">https://www.ayush.digital/blog/the-memory-heist</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48916975\">https://news.ycombinator.com/item?id=48916975</a></p>\n<p>Points: 178</p>\n<p># Comments: 70</p>",
+      "published": "2026-07-15T06:28:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерт продемонстрував техніку, що дозволяє обійти обмеження безпеки ШІ-моделі Claude. Це ставить під загрозу приватність користувачів, оскільки зловмисники можуть змусити систему розкрити чутливу інформацію, збережену в пам'яті моделі.",
+      "ai_title": "Дослідник виявив спосіб змусити Claude розкривати конфіденційні дані"
+    },
+    {
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "link": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "summary": "<p>Article URL: <a href=\"https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/\">https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48916805\">https://news.ycombinator.com/item?id=48916805</a></p>\n<p>Points: 38</p>\n<p># Comments: 12</p>",
+      "published": "2026-07-15T06:02:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "На конференції RISC-V State of the Union експерти обґрунтували, чому архітектура з відкритим вихідним кодом поступово витісняє традиційні пропрієтарні рішення. Це свідчить про глобальні зміни в індустрії виробництва чипів на користь відкритості та масштабованості.",
+      "ai_title": "RISC-V стає неминучим стандартом у світі мікропроцесорів"
+    },
+    {
+      "title": "Starlink’s V5 dish is now available — here’s how it compares",
+      "link": "https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison",
+      "summary": "SpaceX's latest residential dish - the Starlink V5 - is now available in \"select areas.\" It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more places as SpaceX ramps up production to meet global demand. The company notes that Starlink V5 is not intended for in-motion use [&#8230;]",
+      "published": "2026-07-15T07:17:27+00:00",
+      "source": "The Verge",
+      "ai_summary": "SpaceX представила оновлену версію антени Starlink V5, яка стала легшою, меншою та енергоефективнішою за попередню модель. Пристрій вже доступний у вибраних регіонах, хоча він не підтримує роботу під час руху.",
+      "ai_title": "Starlink випустила нову, компактнішу версію термінала V5"
+    },
+    {
+      "title": "Ask HN: How do you track feedback when you post across multiple places?",
+      "link": "https://news.ycombinator.com/item?id=48917697",
+      "summary": "<p>Over the last two years I have been working on multiple projects and when trying to get feedback from people, I kept facing the same problem. I post across multiple platforms - X, Reddit, Facebook, etc and all responses ended up scattered across different places. So I'm wondering if others have the same problem. If you want to share your experience: https://remarkd.app/r/how-to-track-feedback</",
+      "published": "2026-07-15T08:10:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник звернув увагу на проблему розрізнених коментарів до проєктів, які публікуються одночасно на різних платформах, як-от Reddit або X. Він шукає шляхи оптимізації процесу збору фідбеку, щоб не втрачати важливі думки користувачів.",
+      "ai_title": "Як ефективно збирати відгуки з різних соцмереж?"
+    },
+    {
+      "title": "Who's running all those tiny RPKI servers?",
+      "link": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+      "summary": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/\">https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48917055\">https://news.ycombinator.com/item?id=48917055</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-15T06:38:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технічна спільнота аналізує аномальне зростання кількості маленьких серверів RPKI (Resource Public Key Infrastructure). Дослідники намагаються з'ясувати природу цього явища та його вплив на безпеку маршрутизації в інтернеті.",
+      "ai_title": "Загадка масової появи мікросерверів RPKI"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/",
-      "summary": "The states allege that the deal would harm movie theaters, basic cable distributors, and audiences.",
-      "published": "2026-07-13T17:00:14+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Група штатів подала позов проти мегаугоди, стверджуючи, що вона монополізує ринок і зашкодить інтересам кінотеатрів та дистриб'юторів контенту. Позивачі переконані, що об'єднання компаній негативно вплине на глядачів та конкуренцію в індустрії.",
-      "ai_title": "У США 12 штатів блокують злиття Paramount та Warner Bros. вартістю $110 млрд"
-    },
     {
       "title": "Should AI help you get away with killing your spouse?",
       "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
@@ -1893,6 +1920,24 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Біржа прогнозів Kalshi заявила про неможливість виконання одночасних вимог Комісії з торгівлі товарними ф'ючерсами (CFTC) та влади штату Мічиган. Компанія вважає такі рішення регуляторів несправедливими та такими, що перешкоджають її операційній діяльності.",
       "ai_title": "Платформа Kalshi опинилася у скрутному становищі через регуляторні вимоги"
+    },
+    {
+      "title": "UK plans first G7 digital sovereign bond by early 2027",
+      "link": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
+      "summary": "",
+      "published": "2026-07-15T08:16:34+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Британський уряд планує запустити випуск державних облігацій на блокчейні до початку 2027 року. Це рішення має зробити країну першою серед G7, що впроваджує технологію розподіленого реєстру у сферу державних запозичень.",
+      "ai_title": "Велика Британія випустить перші в G7 цифрові державні облігації"
+    },
+    {
+      "title": "Visa, Mastercard and Ripple back x402 as agent payments average 32 cents",
+      "link": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
+      "summary": "",
+      "published": "2026-07-15T06:05:24+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Платіжні гіганти Visa та Mastercard разом із Ripple об'єднали зусилля для впровадження протоколу x402. Нова ініціатива має оптимізувати автоматизовані транзакції між агентами, знизивши середню вартість платежу до 32 центів.",
+      "ai_title": "Visa, Mastercard та Ripple підтримують стандарт x402 для агентських платежів"
     }
   ]
 }
