@@ -944,6 +944,33 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "На GitHub опубліковано проєкт емулятора для класичного програмованого калькулятора Casio FX-870P. Це дозволяє ентузіастам запускати старе програмне забезпечення та вивчати архітектуру ретро-обчислювальної техніки на сучасних пристроях.",
       "ai_title": "Емулятор легендарного калькулятора Casio FX-870P"
+    },
+    {
+      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
+      "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+      "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party [&#8230;]",
+      "published": "2026-07-15T03:28:53+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google та Epic Games відмовилися від апеляції у справі про монополію на Android. Це відкриває шлях для інтеграції сторонніх магазинів додатків безпосередньо в екосистему Google Play вже наступного тижня.",
+      "ai_title": "Google та Epic Games завершують суперечку: сторонні магазини додатків з'являться на Android"
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "link": "https://tailscale.com/security-bulletins",
+      "summary": "<p>Article URL: <a href=\"https://tailscale.com/security-bulletins\">https://tailscale.com/security-bulletins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915004\">https://news.ycombinator.com/item?id=48915004</a></p>\n<p>Points: 64</p>\n<p># Comments: 25</p>",
+      "published": "2026-07-15T01:08:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У сервісі Tailscale SSH виявлено недолік у обробці аргументів, який дозволяв зловмисникам отримати права суперкористувача (root). Користувачам наполегливо рекомендується оновити програмне забезпечення до актуальної версії.",
+      "ai_title": "Критична вразливість у Tailscale SSH: ризик несанкціонованого root-доступу"
+    },
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/jurrasic_park_computers/index.html\">https://fabiensanglard.net/jurrasic_park_computers/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915709\">https://news.ycombinator.com/item?id=48915709</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-15T02:57:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор статті провів глибокий аналіз комп'ютерного обладнання та інтерфейсів, використаних під час зйомок культового фільму 90-х. Матеріал розкриває цікаві подробиці того, як створювалася візуалізація технологій для тогочасного кіно.",
+      "ai_title": "Детальний технічний огляд комп'ютерів із фільму «Парк Юрського періоду»"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1255,15 +1282,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx",
-      "link": "https://cointelegraph.com/news/ai-enabled-businesses-freelancers-could-add-262b-in-stablecoin-volumes-swyftx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI microbusinesses could drive $262B in stablecoin volume by 2033: Swyftx\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-card-online-payment-cashless-payments-stablecoin.jpg\" /></p><p>The AI-native cohort of the expanding gig economy could increasingly use stablecoins to avoid slow and",
-      "published": "2026-07-13T05:24:22+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Аналітики прогнозують, що зростання сектору мікропідприємств на базі штучного інтелекту стимулюватиме масове використання стейблкоїнів. Це дозволить бізнесу уникати повільних та дорогих транзакцій у традиційній банківській системі.",
-      "ai_title": "ШІ-мікробізнеси можуть забезпечити $262 млрд обсягу стейблкоїнів до 2033 року"
-    },
     {
       "title": "Bank of Thailand targets USDT and cash flows in gray money crackdown",
       "link": "https://cointelegraph.com/news/thailand-targets-stablecoins-in-latest-laundering-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1875,6 +1893,24 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Група сенаторів США висловила протест проти законопроєкту CLARITY Act, посилаючись на етичні міркування. Очікується, що найближчим часом Сенат проведе голосування, яке вирішить подальшу долю цієї ініціативи щодо регулювання криптоіндустрії.",
       "ai_title": "Три сенатори США виступили проти закону CLARITY Act"
+    },
+    {
+      "title": "US freezes $131M in Iran-linked crypto as Middle East tensions rise",
+      "link": "https://cointelegraph.com/news/us-freezes-131m-in-iran-linked-crypto-as-middle-east-tensions-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US freezes $131M in Iran-linked crypto as Middle East tensions rise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tether-mints-usdt-iran.jpg\" /></p><p>“US Treasury is committed to disrupting and degrading Iran’s illicit financial activities, including its abuse of digital assets,” US Treasur",
+      "published": "2026-07-15T03:17:59+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Міністерство фінансів США заблокувало криптовалютні кошти, пов'язані з Іраном, на тлі зростання напруженості на Близькому Сході. Влада заявила, що цей крок спрямований на припинення незаконної фінансової діяльності та зловживання цифровими активами.",
+      "ai_title": "США заморозили криптоактиви Ірану на $131 мільйон"
+    },
+    {
+      "title": "Bitmine generated $46M from Ethereum staking last quarter",
+      "link": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine generated $46M from Ethereum staking last quarter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-20-staking-explained.jpg\" /></p><p>Ethereum staking generated 98% of Bitmine’s revenue last quarter as the company’s pivot from Bitcoin mining gained momentum following its Mar",
+      "published": "2026-07-15T01:28:14+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Bitmine успішно переорієнтувала бізнес з майнінгу біткоїнів на стейкінг Ethereum. За минулий квартал цей напрямок забезпечив 98% загального доходу компанії.",
+      "ai_title": "Bitmine заробила $46 мільйонів на стейкінгу Ethereum"
     }
   ]
 }
