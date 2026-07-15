@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Waze launches personalized navigation and integrates new Gemini-based features",
-      "link": "https://en.ain.ua/2026/07/13/waze-launches-personalized-navigation-and-integrates-new-gemini-based-features/",
-      "summary": "The navigation app gained a motorcycle mode, a “less chatty” feature for listening to music, and conversational map updates.",
-      "published": "2026-07-13T14:07:00+00:00",
-      "source": "",
-      "ai_summary": "Навігаційний сервіс Waze отримав оновлення, що включають спеціальний режим для мотоциклістів та функцію «менше розмов» для комфортного прослуховування музики. Також додано інтерактивні карти на базі ШІ Gemini для зручнішої взаємодії під час руху.",
-      "ai_title": "Waze інтегрує ШІ-функції Gemini та нові режими навігації"
-    },
-    {
-      "title": "LAPD lets contract with surveillance giant Flock expire",
-      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/\">https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4889394",
-      "published": "2026-07-13T15:11:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "LAPD вирішила не продовжувати контракт із компанією Flock через побоювання щодо порушення громадянських прав та приватності. Рішення ухвалено на тлі зростаючої дискусії про етичність використання систем масового відеоспостереження правоохоронцями.",
-      "ai_title": "Поліція Лос-Анджелеса відмовилася від послуг розробника систем стеження Flock"
-    },
-    {
-      "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
-      "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
-      "summary": "Today, I’m talking with Xinzhou Wu, who is the head of automotive at Nvidia.&#160; Nvidia is obviously in the news constantly because of the AI boom — it’s one of the most valuable companies in the world, because the AI industry can’t get enough of the company’s GPUs. But Nvidia is also a key supplier [&#8230;]",
-      "published": "2026-07-13T15:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Керівник автомобільного підрозділу Nvidia визнав, що компанії доводиться конкурувати за власні графічні процесори через величезний попит з боку індустрії штучного інтелекту. Це демонструє, наскільки гострою залишається проблема нестачі чипів навіть для внутрішніх підрозділів виробника.",
-      "ai_title": "Дефіцит потужностей: навіть топменеджери Nvidia змагаються за GPU"
-    },
-    {
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
       "summary": "<p>Article URL: <a href=\"https://get-inscribe.com/blog/apple-speech-api-benchmark.html\">https://get-inscribe.com/blog/apple-speech-api-benchmark.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48894752\">https://news.ycombinator.com/item?id=48894752</a></p>\n<p>Points: 145</p>\n<p># Comments: 73</p>",
@@ -989,6 +962,51 @@
       "source": "The Verge",
       "ai_summary": "Motorola представила смартфон Edge 70 Max, орієнтований на ресурсомісткі завдання, як-от стрімінг та ігри. Пристрій вирізняється потужною батареєю та підтримкою швидкої бездротової зарядки Qi2 потужністю 25 Вт.",
       "ai_title": "Motorola Edge 70 Max: новий флагман для продуктивної роботи"
+    },
+    {
+      "title": "OpenAI loses trademark dispute at EU court",
+      "link": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "summary": "<p>Article URL: <a href=\"https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/\">https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48921461\">https://news.ycombinator.com/item?id=48921461</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-15T14:32:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Європейський суд виніс рішення проти OpenAI у суперечці щодо прав на торговельну марку. Цей вердикт може суттєво вплинути на брендинг компанії на європейському ринку.",
+      "ai_title": "OpenAI програла справу щодо торгової марки в суді ЄС"
+    },
+    {
+      "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
+      "link": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
+      "summary": "<p>Article URL: <a href=\"https://www.strix.ai/blog/n8n-cross-issuer-account-takeover\">https://www.strix.ai/blog/n8n-cross-issuer-account-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48921422\">https://news.ycombinator.com/item?id=48921422</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-15T14:30:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Виявлено вразливість, що дозволяє зловмисникам здійснити захоплення облікових записів у сервісі автоматизації n8n. Користувачам наполегливо рекомендується перевірити свої системи на наявність цього недоліку безпеки.",
+      "ai_title": "Критична вразливість CVE-2026-59208 у платформі n8n"
+    },
+    {
+      "title": "Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
+      "link": "https://github.com/bitjaru/styleseed",
+      "summary": "<p>Article URL: <a href=\"https://github.com/bitjaru/styleseed\">https://github.com/bitjaru/styleseed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920888\">https://news.ycombinator.com/item?id=48920888</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-15T13:55:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий проєкт StyleSeed дозволяє ШІ-агентам створювати веб-інтерфейси з дотриманням чітких дизайнерських правил. Це допомагає уникнути «шаблонного» вигляду сайтів, які часто генерують сучасні нейромережі.",
+      "ai_title": "StyleSeed: інструмент для генерації унікального дизайну ШІ-агентами"
+    },
+    {
+      "title": "Mysteries of Telegram Data Centers",
+      "link": "https://dev.moe/en/3025",
+      "summary": "<p>Article URL: <a href=\"https://dev.moe/en/3025\">https://dev.moe/en/3025</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920475\">https://news.ycombinator.com/item?id=48920475</a></p>\n<p>Points: 92</p>\n<p># Comments: 21</p>",
+      "published": "2026-07-15T13:22:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники проаналізували інфраструктуру Telegram, висвітлюючи особливості роботи серверної мережі месенджера. Матеріал розкриває цікаві аспекти архітектури, що забезпечує глобальну роботу платформи.",
+      "ai_title": "Таємниці дата-центрів Telegram"
+    },
+    {
+      "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+      "link": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
+      "summary": "<p>Article URL: <a href=\"https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/\">https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48920338\">https://news.yc",
+      "published": "2026-07-15T13:11:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Корпорація Microsoft офіційно підтвердила використання незмінного ідентифікатора пристрою під назвою GDID. Його неможливо вимкнути, що викликає значне занепокоєння користувачів щодо приватності даних.",
+      "ai_title": "Microsoft підтвердила існування невідмикаємого ідентифікатора GDID у Windows"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1351,45 +1369,54 @@
       "source": "TechCrunch",
       "ai_summary": "Новий застосунок спрощує створення контенту, перетворюючи звичайні записи з камери на короткі відеоролики. Це рішення розраховане на користувачів, які хочуть швидко монтувати ролики без використання складних професійних інструментів.",
       "ai_title": "Reelful автоматично створює відео для соцмереж із фото та відео в галереї"
+    },
+    {
+      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
+      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
+      "summary": "Stripe and private equity firm Advent International have reportedly submitted a joint bid to acquire PayPal in a deal valued at approximately $53.4 billion.&#160; Reuters reports that the offer was submitted earlier this month and is backed by roughly $50 billion in committed bank financing. Under the proposal, Stripe and Advent would jointly own PayPal, [&#8230;]",
+      "published": "2026-07-15T15:30:26+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Stripe спільно з інвестиційною компанією Advent International зробили пропозицію про купівлю платіжного гіганта PayPal. Угода вартістю понад 53 мільярди доларів підкріплена значним банківським фінансуванням, що може суттєво змінити ринок онлайн-платежів.",
+      "ai_title": "Stripe та Advent планують поглинання PayPal за $53,4 млрд"
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most important markets.",
+      "published": "2026-07-15T15:29:33+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Apple отримала дозвіл регуляторів на запуск своїх ШІ-функцій у Китаї завдяки інтеграції моделей Qwen від Alibaba. Це стратегічний крок, що дозволяє компанії впровадити генеративний штучний інтелект на одному зі своїх ключових ринків.",
+      "ai_title": "Apple Intelligence виходить на китайський ринок через партнерство з Alibaba"
+    },
+    {
+      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
+      "link": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
+      "summary": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
+      "published": "2026-07-15T14:39:52+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Уряд Індії запускає масштабні програми підтримки виробництва смартфонів та напівпровідників на суму майже 20 мільярдів доларів. Мета проєкту — посилити національний ланцюг постачання електроніки та зменшити залежність від китайського виробництва.",
+      "ai_title": "Індія інвестує мільярди для витіснення Китаю з ринку виробництва смартфонів"
+    },
+    {
+      "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims",
+      "link": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
+      "summary": "The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.",
+      "published": "2026-07-15T14:21:49+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Влада США розсекретила справу проти трьох громадян РФ та двох вебхостингів, які сприяли кіберзлочинній діяльності. Зловмисники допомагали хакерам уникнути відстеження, заробивши на цьому понад 62 мільйони доларів.",
+      "ai_title": "США висунули звинувачення операторам «захищених» хостингів, що допомагали хакерам"
+    },
+    {
+      "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
+      "link": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
+      "summary": "<p>Organizations need to transform to meet the needs of agentic AI.</p><p>Meta VP of Engineering Barak Yagour opened his talk at<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a> wearing a pair of Ray-Ban Meta AI glasses, a small sign of how far AI has already worked its way into physical life. His argument went further: enterprise infrastructure was built for humans, not for",
+      "published": "2026-07-15T14:59:15+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Віцепрезидент Meta наголосив, що сучасна корпоративна інфраструктура застаріла, оскільки створювалася для людей, а не для автономних ШІ-агентів. Бізнесу необхідно терміново модернізувати свої технологічні потужності, щоб встигнути за темпами розвитку штучного інтелекту.",
+      "ai_title": "Meta попереджає: у компаній є лише 20 місяців на адаптацію інфраструктури до ШІ-агентів"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin panic-selling may be ending as sellers' profit margins disappear",
-      "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-panic-selling-may-be-ending-as-sellers-profit-margins-disappear",
-      "summary": "",
-      "published": "2026-07-13T15:49:41+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики відзначають вичерпання маржі прибутку у продавців, що свідчить про зниження тиску на ціну біткоїна. Ринок готується до стабілізації після періоду активних продажів.",
-      "ai_title": "Панічний розпродаж біткоїна добігає кінця"
-    },
-    {
-      "title": "Strategy pauses its Bitcoin buying spree to hoard a massive $3 billion cash cushion",
-      "link": "https://www.coindesk.com/markets/2026/07/13/strategy-pauses-its-bitcoin-buying-spree-to-hoard-a-massive-usd3-billion-cash-cushion",
-      "summary": "",
-      "published": "2026-07-13T15:27:36+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія вирішила призупинити стратегію агресивного накопичення біткоїнів. Замість цього MicroStrategy накопичує значний грошовий запас, що забезпечить їй більшу фінансову гнучкість.",
-      "ai_title": "MicroStrategy зупинила закупівлі біткоїна заради готівкового резерву у $3 млрд"
-    },
-    {
-      "title": "Bolivia weighs adding Tether's USDT to its national payments system",
-      "link": "https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system",
-      "summary": "",
-      "published": "2026-07-13T14:47:52+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Уряд Болівії вивчає можливість впровадження стейблкоїна Tether для проведення державних платежів. Це може стати важливим кроком для легітимізації цифрових активів у країні.",
-      "ai_title": "Болівія розглядає інтеграцію USDT у національну платіжну систему"
-    },
-    {
-      "title": "Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait",
-      "link": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-1.jpg\" /></p><p>Bitcoin bulls faced an uphill struggle to preserve $62,000 as stocks opened down on Strait of Hormuz rhetoric be",
-      "published": "2026-07-13T15:05:45+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Вартість біткоїна опинилася під тиском на тлі заяв Дональда Трампа щодо Ормузької протоки. Невизначеність у світі змушує інвесторів виходити з ризикових активів.",
-      "ai_title": "Біткоїн під загрозою падіння нижче $62 000 через геополітичну напруженість"
-    },
     {
       "title": "Bolivia mulls recognizing USDT as payment currency amid dollar shortage",
       "link": "https://cointelegraph.com/news/bolivia-weighs-usdt-payment-currency-amid-dollar-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1407,15 +1434,6 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Автомобільний гігант Hyundai завершив пілотний проєкт із використання Tether (USDT) для транскордонних переказів між своїми філіями. Тест підтвердив ефективність блокчейн-платежів для миттєвого врегулювання корпоративних казначейських операцій.",
       "ai_title": "Hyundai успішно протестувала розрахунки в USDT між підрозділами США та Мексики"
-    },
-    {
-      "title": "Robinhood built a blockchain for tokenized stocks. Memecoins took over",
-      "link": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
-      "summary": "",
-      "published": "2026-07-13T15:17:05+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Robinhood розробила спеціальний блокчейн для токенізації акцій, проте мережу майже повністю окупували мем-токени. Це висвітлює проблему нецільового використання корпоративних криптоплатформ роздрібними спекулянтами.",
-      "ai_title": "Мем-коїни заполонили блокчейн від Robinhood, попри плани щодо токенізованих акцій"
     },
     {
       "title": "Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks",
@@ -2028,6 +2046,51 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Зростання курсу біткоїна втратило темп, оскільки інвестори обережно оцінюють нові дані про інфляцію. Додатковий тиск на ринок створюють нестабільні ціни на нафту, що погіршують загальні економічні прогнози.",
       "ai_title": "Раллі біткоїна сповільнюється через інфляцію"
+    },
+    {
+      "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
+      "link": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
+      "summary": "",
+      "published": "2026-07-15T15:27:43+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Протокол Ostium став черговою жертвою масштабної хвилі атак на оракули в секторі децентралізованих фінансів. Зловмисники використали вразливість, що призвела до виведення 18 мільйонів доларів у криптовалюті.",
+      "ai_title": "DeFi-протокол Ostium втратив 18 мільйонів доларів через хакерську атаку"
+    },
+    {
+      "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
+      "link": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
+      "summary": "",
+      "published": "2026-07-15T14:35:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Уряд Південної Кореї готується оновити 76-річне законодавство, щоб надати криптовалютам офіційний статус національних активів. Це рішення спрямоване на зміцнення правової бази для регулювання цифрових фінансових інструментів у країні.",
+      "ai_title": "Південна Корея визнає криптовалюти національними активами"
+    },
+    {
+      "title": "Open USD poses biggest threat yet to Circle's USDC, CoinShares says",
+      "link": "https://www.coindesk.com/business/2026/07/15/open-usd-poses-biggest-threat-yet-to-circle-s-usdc-coinshares-says",
+      "summary": "",
+      "published": "2026-07-15T14:03:54+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "За оцінками CoinShares, поява Open USD становить найбільшу загрозу для ринкових позицій Circle та їхнього стейблкоїна USDC. Аналітики вказують на потенційні зміни в динаміці сегмента забезпечених активів.",
+      "ai_title": "Open USD створює серйозну конкуренцію для стейблкоїна USDC"
+    },
+    {
+      "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
+      "link": "https://cointelegraph.com/markets/bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/7552b571-76b5-4748-93ec-700e9cd6eeff-2.png\" /></p><p>Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers provided the week’s seco",
+      "published": "2026-07-15T14:45:28+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ціна головної криптовалюти досягла тритижневого максимуму після публікації несподіваних даних щодо індексу цін виробників у США. Позитивні макроекономічні звіти стимулювали активність інвесторів та зростання ринку.",
+      "ai_title": "Біткоїн сягнув позначки 65 500 доларів на фоні даних про інфляцію в США"
+    },
+    {
+      "title": "White House expected to meet with senators to work on ethics concerns in crypto bill",
+      "link": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
+      "summary": "",
+      "published": "2026-07-15T14:37:36+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Адміністрація президента США планує провести зустріч із сенаторами для доопрацювання етичних норм у новому законопроєкті про криптовалюти. Головна мета — збалансувати інновації та безпеку для користувачів цифрових активів.",
+      "ai_title": "Білий дім обговорить етичні стандарти для криптозаконодавства"
     }
   ]
 }
