@@ -1,69 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The Git history command deserves more attention",
-      "link": "https://lalitm.com/post/git-history/",
-      "summary": "<p>Article URL: <a href=\"https://lalitm.com/post/git-history/\">https://lalitm.com/post/git-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901010\">https://news.ycombinator.com/item?id=48901010</a></p>\n<p>Points: 92</p>\n<p># Comments: 55</p>",
-      "published": "2026-07-14T00:57:11+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор наголошує на недооцінених можливостях команди git history для аналізу роботи над проєктом. Стаття пояснює, як краще використовувати інструменти Git для ефективнішого відстеження змін у коді.",
-      "ai_title": "Чому варто частіше використовувати команду git history"
-    },
-    {
-      "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
-      "link": "https://github.com/DaqulaLin/MemStitch",
-      "summary": "<p>Article URL: <a href=\"https://github.com/DaqulaLin/MemStitch\">https://github.com/DaqulaLin/MemStitch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901051\">https://news.ycombinator.com/item?id=48901051</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-14T01:04:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили інструмент MemStitch, що забезпечує «безкопійне» з'єднання контексту в vLLM. Це рішення дозволяє досягти 25-кратного прискорення часу до отримання першого токена (TTFT).",
-      "ai_title": "MemStitch: значне прискорення vLLM завдяки безкопійному управлінню пам'яттю"
-    },
-    {
-      "title": "What will be left for us to work on?",
-      "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "summary": "<p>Article URL: <a href=\"https://www.normaltech.ai/p/what-will-be-left-for-us-to-work\">https://www.normaltech.ai/p/what-will-be-left-for-us-to-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901292\">https://news.ycombinator.com/item?id=48901292</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
-      "published": "2026-07-14T01:44:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дискусія про майбутнє професій на тлі стрімкого розвитку штучного інтелекту. Автори аналізують, які навички та види діяльності залишаться актуальними для людей, коли AI почне виконувати більшість завдань.",
-      "ai_title": "Що залишиться людям у світі AI?"
-    },
-    {
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "summary": "<p>Article URL: <a href=\"https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/\">https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901569\">https://news.ycombinator.com/item?id=48901569</a></p>\n<p>Points: 24</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-14T02:27:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Японські дослідники розробили ефективний метод переробки літій-іонних акумуляторів, який дозволяє видобувати до 90% літію. Ця технологія може зробити виробництво електромобілів більш екологічним та менш залежним від видобутку нової сировини.",
-      "ai_title": "У Японії навчилися відновлювати 90% літію з використаних батарей електрокарів"
-    },
-    {
-      "title": "Building Food Metadata with LLM Juries",
-      "link": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-      "summary": "<p>Article URL: <a href=\"https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/\">https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901275\">https://news.ycombinator.com/item?id=48901275</a></p>\n<p>Points: 14</p>\n<",
-      "published": "2026-07-14T01:41:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія DoorDash застосовує підхід із кількома LLM-моделями (так зване «журі») для створення точних метаданих про їжу. Використання мультимодального ШІ дозволяє автоматизувати обробку складного контенту та покращити контекстне розуміння даних.",
-      "ai_title": "Як DoorDash використовує «журі» з LLM для структурування даних"
-    },
-    {
-      "title": "YouTrackDB is a general-use object-oriented graph database",
-      "link": "https://github.com/JetBrains/youtrackdb",
-      "summary": "<p>Article URL: <a href=\"https://github.com/JetBrains/youtrackdb\">https://github.com/JetBrains/youtrackdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902026\">https://news.ycombinator.com/item?id=48902026</a></p>\n<p>Points: 38</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-14T03:39:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія JetBrains випустила нову базу даних загального призначення, що поєднує об'єктно-орієнтовані можливості зі структурою графових даних. Рішення орієнтоване на розробників, яким потрібна гнучка система для моделювання складних взаємозв'язків між об'єктами.",
-      "ai_title": "JetBrains представила YouTrackDB: об’єктно-орієнтовану графову базу даних"
-    },
-    {
-      "title": "Australia is offering free daytime electricity",
-      "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "summary": "<p>Article URL: <a href=\"https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/\">https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902320\">https://news.ycombinator.com/item?id=48902320</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-14T04:31:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Австралійські енергокомпанії тестують модель, за якої споживачі отримують безкоштовний доступ до електроенергії вдень. Це пов’язано з надлишком енергії від сонячних електростанцій, що дозволяє оптимізувати навантаження на мережу.",
-      "ai_title": "В Австралії впроваджують безкоштовну електроенергію в денні години"
-    },
-    {
       "title": "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
       "link": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
       "summary": "<p>Article URL: <a href=\"https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/\">https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902599\">https://news.ycombinator.com/item?id=48902599</a></p>\n<p>Points: 37</p>\n<p># Commen",
@@ -1034,27 +971,54 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Ця архівна стаття аналізує концепції інтерфейсу користувача, що суперечили філософії дизайну Apple того часу. Це корисний екскурс в історію UI/UX, який допомагає краще зрозуміти еволюцію стандартів взаємодії з комп'ютерами.",
       "ai_title": "Критика інтерфейсу Apple 1996 року"
+    },
+    {
+      "title": "An Interactive Map of AI",
+      "link": "https://artifipedia.com/map",
+      "summary": "<p>Article URL: <a href=\"https://artifipedia.com/map\">https://artifipedia.com/map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930160\">https://news.ycombinator.com/item?id=48930160</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-16T03:53:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий проєкт Artifipedia пропонує візуальну карту, що структурує сучасний ландшафт штучного інтелекту. Це зручний інструмент для розуміння взаємозв'язків між різними технологіями та розробками у сфері AI.",
+      "ai_title": "Інтерактивна карта екосистеми ШІ"
+    },
+    {
+      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+      "link": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+      "summary": "<p>Article URL: <a href=\"https://pmbanugo.me/blog/why-async-await-complect-concurrency\">https://pmbanugo.me/blog/why-async-await-complect-concurrency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929587\">https://news.ycombinator.com/item?id=48929587</a></p>\n<p>Points: 15</p>\n<p># Comments: 11</p>",
+      "published": "2026-07-16T02:06:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує проблеми, що виникають при використанні моделей Tokio та Rayon у розробці на Rust. Стаття пояснює, як асинхронна модель може ускладнювати конкурентне виконання завдань замість його спрощення.",
+      "ai_title": "Чому async/await може бути пасткою для конкурентного програмування"
+    },
+    {
+      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "link": "https://arxiv.org/abs/2607.11859",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.11859\">https://arxiv.org/abs/2607.11859</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929660\">https://news.ycombinator.com/item?id=48929660</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-16T02:17:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження вивчає здатність сучасних LLM глибоко аналізувати наукові роботи з комп'ютерної архітектури. Результати показують, наскільки ефективно нейромережі справляються зі спеціалізованою технічною літературою.",
+      "ai_title": "Чи здатні великі мовні моделі розуміти складні архітектури комп'ютерів?"
+    },
+    {
+      "title": "Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs",
+      "link": "https://arxiv.org/abs/2604.15379",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2604.15379\">https://arxiv.org/abs/2604.15379</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929856\">https://news.ycombinator.com/item?id=48929856</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-16T02:55:19+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Науковці представили ієрархічну систему Fleet для оптимізації роботи мега-ядер на сучасних графічних процесорах. Це дозволяє ефективніше розподіляти обчислювальні навантаження на новітньому залізі.",
+      "ai_title": "Fleet: новий підхід до керування задачами на мультичипових GPU"
+    },
+    {
+      "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+      "link": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
+      "summary": "<p>Article URL: <a href=\"https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/\">https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930011\">https://news.ycombinator.com/item?id=48930011</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-16T03:24:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У Лондоні на автобусах з'явилися рекламні банери, що критикують кампанію Meta за участю Кайлі Дженнер для їхніх розумних окулярів. Акція привернула увагу до питань приватності та доцільності використання подібних технологій.",
+      "ai_title": "Партизанська реклама висміяла кампанію Meta Glasses"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
-      "published": "2026-07-14T02:46:42+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відомі підприємці, які вже досягли значних статків, повертаються до активної роботи в стартапах. Вони побоюються пропустити революцію штучного інтелекту та прагнуть заробити ще більше капіталу на новій хвилі технологічного зростання.",
-      "ai_title": "Чому успішні технологічні мільйонери знову кидаються в роботу"
-    },
-    {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-      "published": "2026-07-14T00:45:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Директор із продуктів Uber розповів про розвиток фінансових послуг, співпрацю з Waymo та впровадження ШІ, що впливає на досвід водіїв і пасажирів. Компанія підкреслює, що не планує ставати «всім для всіх», фокусуючись на ключових напрямках мобільності.",
-      "ai_title": "Стратегія Uber: готелі, роботаксі та межі універсальності"
-    },
     {
       "title": "Pinwheel launches a retro-inspired landline phone for kids",
       "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
@@ -1558,27 +1522,27 @@
       "source": "VentureBeat",
       "ai_summary": "Попри те, що 85% підприємств тестують ШІ-агентів, лише 5% компаній готові довірити їм реальні бізнес-процеси. Експерти Amazon зазначають, що основною перешкодою для масового впровадження є недостатня надійність систем, а не відсутність технологічних можливостей.",
       "ai_title": "Головний бар'єр для корпоративного ШІ — надійність, а не функціонал"
+    },
+    {
+      "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A",
+      "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+      "published": "2026-07-16T04:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Французький стартап Syntetica залучив фінансування для масштабування своєї інноваційної технології переробки нейлону. Компанія вже заручилася підтримкою великих гравців індустрії, включаючи бренд спортивного одягу Lululemon.",
+      "ai_title": "Lululemon інвестує $30 млн у стартап з переробки нейлону Syntetica"
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "published": "2026-07-16T04:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія розробляє універсальну фундаментальну модель штучного інтелекту, призначену для автоматизації процесів на нафтогазових та нафтохімічних підприємствах. Залучені кошти будуть спрямовані на вдосконалення технології, здатної оптимізувати роботу цілих промислових об'єктів.",
+      "ai_title": "Стартап Applied Computing залучив $20 млн на створення ШІ для енергетичного сектору"
     }
   ],
   "Крипта": [
-    {
-      "title": "Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express",
-      "link": "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thai scammer's $122M wallet, Japan embraces crypto credit: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/asia-express-5.jpg\" /></p><p>Bitcoin backed mortgages and stablecoin yield are hot topics in Japan right now, as Hyundai experiments with Avalanche for global stablecoin tran",
-      "published": "2026-07-14T01:39:02+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Японія активно розвиває сферу іпотеки під заставу біткоїнів та використання стейблкоїнів, зокрема через експерименти Hyundai з мережею Avalanche. Водночас влада звернула увагу на масштабні шахрайські схеми, пов'язані з гаманцями на суму понад 122 млн доларів.",
-      "ai_title": "Криптотренди в Азії: Японія впроваджує криптокредити, а шахраї втрачають мільйони"
-    },
-    {
-      "title": "CLARITY Act gains second law enforcement endorsement before Senate push",
-      "link": "https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act gains second law enforcement endorsement before Senate push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sams-in-a-labirynth-clarity-act-us.jpg\" /></p><p>The Federal Law Enforcement Officers Association expressed support for the CLARITY Act but urged changes to the legislation’s",
-      "published": "2026-07-14T01:37:27+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Федеральна асоціація офіцерів правоохоронних органів висловилася на підтримку законопроєкту CLARITY Act перед його розглядом у Сенаті. При цьому силовики наголосили на необхідності внесення певних правок до тексту документа для його ефективнішого застосування.",
-      "ai_title": "Закон CLARITY Act отримав підтримку правоохоронних органів США"
-    },
     {
       "title": "Solo bitcoin miner makes $200,000 using $150 equipment",
       "link": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
@@ -1587,15 +1551,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Випадковий користувач зміг самостійно підтвердити блок у мережі Bitcoin, маючи обладнання вартістю лише 150 доларів. Це неймовірно рідкісна подія, оскільки ймовірність успішного майнінгу з такою низькою потужністю вкрай мала.",
       "ai_title": "Майнер-одинак заробив 200 тисяч доларів на дешевому обладнанні"
-    },
-    {
-      "title": "US government moves $297M in seized Bitcoin, Ether to Coinbase Prime",
-      "link": "https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US government moves $297M in seized Bitcoin, Ether to Coinbase Prime\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-government-bitcoin.jpg\" /></p><p>The transfers have raised questions over Trump’s Bitcoin reserve pledge, though deposits to Coinbase Prime do not confirm an impending sale. ",
-      "published": "2026-07-14T03:35:51+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Влада США перемістила значну суму в біткоїнах та ефірі на рахунки Coinbase Prime. Хоча це викликало дискусії щодо можливого продажу активів, експерти зазначають, що такий переказ не є прямим підтвердженням наміру уряду реалізувати ці кошти.",
-      "ai_title": "Уряд США переказав конфісковані криптоактиви на 297 мільйонів доларів на Coinbase"
     },
     {
       "title": "White House crypto adviser Patrick Witt to report for military training: Report",
@@ -2244,6 +2199,24 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Фінтех-гігант Revolut здобув попереднє схвалення від регулятора віртуальних активів Дубая. Компанія планує надавати брокерські та дилерські послуги у сфері криптовалют на ринку Об'єднаних Арабських Еміратів.",
       "ai_title": "Revolut отримав дозвіл на надання криптопослуг в ОАЕ"
+    },
+    {
+      "title": "Two Groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
+      "link": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
+      "summary": "",
+      "published": "2026-07-16T04:09:10+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "На тлі даних про інфляцію в США вартість біткоїна наблизилася до позначки $65 000. Скориставшись зростанням курсу, дві великі групи інвесторів почали активно продавати свої активи.",
+      "ai_title": "Біткоїн сягнув $65 000: інвестори масово фіксують прибуток"
+    },
+    {
+      "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
+      "link": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump to meet with senators over CLARITY Act on Thursday: Politico\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trump-signing-papers.jpg\" /></p><p>US President Donald Trump is set to meet with several senators on Thursday as negotiators race to get the CLARITY Act across the line before the",
+      "published": "2026-07-16T04:18:29+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Дональд Трамп планує зустрітися з групою сенаторів для обговорення деталей закону CLARITY Act. Сторони намагаються узгодити документ, щоб встигнути ухвалити його в найкоротші терміни.",
+      "ai_title": "Трамп обговорить законопроєкт CLARITY Act із сенаторами"
     }
   ]
 }
