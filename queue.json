@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Codex starts encrypting prompts, uses ciphertext for inference instead",
-      "link": "https://github.com/openai/codex/issues/28058",
-      "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/28058\">https://github.com/openai/codex/issues/28058</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905028\">https://news.ycombinator.com/item?id=48905028</a></p>\n<p>Points: 59</p>\n<p># Comments: 15</p>",
-      "published": "2026-07-14T11:21:32+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники OpenAI Codex почали шифрувати вхідні запити користувачів, використовуючи зашифровані тексти для виведення результатів. Це нововведення спрямоване на підвищення рівня приватності та захисту даних під час взаємодії з моделлю.",
-      "ai_title": "Codex впроваджує шифрування запитів для безпечної обробки даних"
-    },
-    {
-      "title": "Coding agents think ahead of time",
-      "link": "https://arxiv.org/abs/2607.05188",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.05188\">https://arxiv.org/abs/2607.05188</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905764\">https://news.ycombinator.com/item?id=48905764</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-14T12:28:09+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники представили підхід, завдяки якому ШІ-агенти для написання коду навчилися планувати свої дії наперед. Це дозволяє їм уникати помилок та ефективніше розв'язувати складні завдання, оцінюючи наслідки свого коду до моменту виконання.",
-      "ai_title": "Новий рівень ШІ-програмування: агенти, що передбачають результат"
-    },
-    {
-      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-      "link": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-      "summary": "<p>Article URL: <a href=\"https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948\">https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905091\">https://news.ycombinator.com/item?id=48905091</a></p>\n<p>Points: ",
-      "published": "2026-07-14T11:30:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технологія сканування даних Codex випадково отримала доступ до секретного списку переможців престижної математичної нагороди через вебсайт ICM. Витік розкрив імена майбутніх лауреатів, серед яких виявилися випускники Пекінського університету.",
-      "ai_title": "Витік даних: ШІ-сканер виявив список лауреатів Філдсівської премії 2026 року"
-    },
-    {
-      "title": "Germany set to restrict its Freedom of Information Act",
-      "link": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-      "summary": "<p>Article URL: <a href=\"https://www.dw.com/en/germany-freedom-of-information-act/a-77939695\">https://www.dw.com/en/germany-freedom-of-information-act/a-77939695</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905290\">https://news.ycombinator.com/item?id=48905290</a></p>\n<p>Points: 51</p>\n<p># Comments: 5</p>",
-      "published": "2026-07-14T11:49:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Уряд Німеччини розглядає можливість внесення правок, які звузять доступ до публічної інформації. Це викликало занепокоєння серед громадськості щодо прозорості державних інституцій та підзвітності влади.",
-      "ai_title": "Німеччина планує обмежити закон про свободу інформації"
-    },
-    {
       "title": "SoftServe acquired Indian IT company NewVision. What we know about the deal",
       "link": "https://en.ain.ua/2026/07/14/softserve-acquired-indian-it-company-newvision-what-we-know-about-the-deal/",
       "summary": "More than 700 engineers will join SoftServe after the deal. The company says this will help expand its global presence.",
@@ -62,15 +26,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Для учасників програми Trusted Access Cyber тепер діє вимога обов'язкового використання апаратних ключів (passkeys) для доступу до облікових записів ChatGPT. Це крок спрямований на підвищення рівня захисту від зламів та крадіжок даних користувачів.",
       "ai_title": "OpenAI впроваджує обов'язкові апаратні ключі безпеки"
-    },
-    {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-      "link": "https://github.com/Danau5tin/ai-trains-ai",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Danau5tin/ai-trains-ai\">https://github.com/Danau5tin/ai-trains-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48905919\">https://news.ycombinator.com/item?id=48905919</a></p>\n<p>Points: 40</p>\n<p># Comments: 16</p>",
-      "published": "2026-07-14T12:41:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив проєкт, у якому агент з навчанням з підкріпленням (RL) самостійно навчає інші нейронні моделі. Вся експериментальна розробка коштувала автору 1300 доларів і демонструє потенціал автоматизації процесу навчання ШІ.",
-      "ai_title": "Експеримент: агент ШІ, що навчає інші моделі за допомогою RL"
     },
     {
       "title": "Sam Altman didn’t need another lawsuit",
@@ -971,27 +926,54 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Компанія OnePlus оголосила про офіційне згортання своїх операцій на ринках США та Європи. Це рішення знаменує суттєву зміну стратегії бренду та обмежує глобальну доступність їхніх пристроїв.",
       "ai_title": "OnePlus припиняє діяльність у США та Європі"
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
+      "published": "2026-07-16T12:06:51+00:00",
+      "source": "The Verge",
+      "ai_summary": "Європейський Союз виніс рішення, згідно з яким Google має надати розробникам альтернативних AI-асистентів та пошукових систем ширший доступ до своєї екосистеми. Це антимонопольне рішення спрямоване на обмеження домінування компанії на ключових платформах.",
+      "ai_title": "ЄС зобов'язав Google відкрити Android та пошуковик для конкурентів"
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "summary": "<p>Article URL: <a href=\"https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/\">https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933310\">https://news.ycombinator.com/item?id=48933310</a></p>\n<p>Points: 37</p>\n<p># Comments: 27</p>",
+      "published": "2026-07-16T11:59:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує поширені зауваження скептиків щодо великих мовних моделей, але пояснює, чому все одно продовжує інтегрувати їх у свою роботу. Стаття досліджує баланс між етичними ризиками технології та її практичною цінністю для розробника.",
+      "ai_title": "Чому я продовжую використовувати LLM, попри критику"
+    },
+    {
+      "title": "COMPUTER COPS: Inside the big business of selling AI to the police",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me [&#8230;]",
+      "published": "2026-07-16T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Розслідування розкриває масштаби бізнесу з продажу технологій ШІ правоохоронним органам. Стаття висвітлює етичні та соціальні виклики, які постають перед суспільством через цифровізацію поліцейського нагляду.",
+      "ai_title": "Штучний інтелект на службі поліції: індустрія цифрового контролю"
+    },
+    {
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "link": "https://onatm.dev/2026/07/16/homescale-part-1/",
+      "summary": "<p>Article URL: <a href=\"https://onatm.dev/2026/07/16/homescale-part-1/\">https://onatm.dev/2026/07/16/homescale-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933303\">https://news.ycombinator.com/item?id=48933303</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-16T11:58:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник ділиться досвідом побудови власної масштабованої інфраструктури для баз даних, надихаючись технологіями PlanetScale. Це перший допис із серії, де розглядаються технічні аспекти проєктування надійних систем з нуля.",
+      "ai_title": "Створення аналога PlanetScale: інфраструктурні рішення"
+    },
+    {
+      "title": "I resurrected an 8-year-old dead CSS library and gave it an engine",
+      "link": "https://usevivace.dev",
+      "summary": "<p>Article URL: <a href=\"https://usevivace.dev\">https://usevivace.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48932889\">https://news.ycombinator.com/item?id=48932889</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-16T11:04:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор знайшов та оновив проєкт восьмирічної давнини, додавши до нього нову рушійну систему. Це цікавий кейс про те, як дати друге життя Open Source інструментам, що втратили підтримку.",
+      "ai_title": "Відродження застарілої CSS-бібліотеки"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "summary": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
-      "published": "2026-07-14T14:37:48+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Reflection AI уклала угоду на 1 мільярд доларів з хмарним провайдером Nebius для доступу до високопродуктивних обчислень. Цей крок допоможе розробнику відкритого ШІ масштабувати свої технології.",
-      "ai_title": "Стартап Reflection AI залучив $1 млрд на обчислювальні потужності"
-    },
-    {
-      "title": "David Beckham’s health drink startup IM8 takes $1B from General Catalyst’s unusual CVF fund",
-      "link": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
-      "summary": "General Catalyst’s Customer Value Fund doesn't make equity investments. It's providing $1 billion for IM8, known for its longevity vitamin drink.",
-      "published": "2026-07-14T12:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап IM8, що випускає вітамінні напої для довголіття, залучив рекордний мільярд доларів від фонду General Catalyst. Незвичність угоди полягає в тому, що це не прямі інвестиції в акції, а спеціальне фінансування через Customer Value Fund.",
-      "ai_title": "Бренд напоїв Девіда Бекхема IM8 отримав $1 млрд інвестицій"
-    },
     {
       "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
       "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
@@ -1504,45 +1486,18 @@
       "source": "TechCrunch",
       "ai_summary": "Виробник смартфонів OnePlus оголосив про зупинку виходу нових моделей на ринки США та Європи. Компанія також розглядає можливість повного завершення діяльності в Індії до 2027 року.",
       "ai_title": "OnePlus припиняє випуск нових смартфонів у США та Європі"
+    },
+    {
+      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "summary": "Aina is going to pilot a new device in the coming weeks.",
+      "published": "2026-07-16T11:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Колишній віцепрезидент з апаратного забезпечення Ultrahuman запустив стартап Aina, що створює девайси для активної взаємодії з ШІ-агентами. Вже найближчими тижнями компанія планує розпочати пілотне тестування свого першого пристрою.",
+      "ai_title": "Екс-топменеджер Ultrahuman залучив $5,5 млн на розробку пристроїв для керування ШІ"
     }
   ],
   "Крипта": [
-    {
-      "title": "Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants",
-      "link": "https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments",
-      "summary": "",
-      "published": "2026-07-14T12:01:50+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Найбільший оператор платіжних карток Японії розпочав співпрацю з компанією Circle. Це дозволить 40 мільйонам торгових точок приймати платежі у стейблкоїнах.",
-      "ai_title": "Японська платіжна мережа інтегрує стейблкоїни Circle"
-    },
-    {
-      "title": "ECB picks firms including Deutsche Bank, Revolut for digital euro pilot",
-      "link": "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
-      "summary": "",
-      "published": "2026-07-14T12:10:03+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Європейський центральний банк залучив Deutsche Bank, Revolut та інші фінансові установи до пілотного проекту з впровадження цифрового євро. Учасники працюватимуть над технічними аспектами та функціональністю майбутньої валюти.",
-      "ai_title": "ЄЦБ обрав партнерів для тестування цифрового євро"
-    },
-    {
-      "title": "Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation",
-      "link": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
-      "summary": "",
-      "published": "2026-07-14T12:53:05+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики Benchmark значно підвищили цільову ціну акцій криптомайнінгової компанії Hut 8 до $165. Зміна стратегії компанії в бік інтеграції штучного інтелекту позитивно вплинула на її ринкову оцінку.",
-      "ai_title": "Benchmark підвищив прогноз вартості акцій Hut 8 через фокус на ШІ"
-    },
-    {
-      "title": "Solana community lead enters UK by-election with onchain transparency pitch",
-      "link": "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana community lead enters UK by-election with onchain transparency pitch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/voteremaster.jpg\" /></p><p>Superteam UK lead Stephen “Cap” Newnham is taking on Nigel Farage in the Clacton by-election with pledges on pension reform and onchain transpa",
-      "published": "2026-07-14T11:34:13+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Лідер спільноти Superteam UK Стівен Ньюнем бере участь у виборах до британського парламенту. Він планує впровадити принципи ончейн-прозорості в державне управління та провести реформу пенсійної системи.",
-      "ai_title": "Криптоентузіаст з Solana балотується до парламенту Британії"
-    },
     {
       "title": "Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology",
       "link": "https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology",
@@ -1560,15 +1515,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Експерт Fidelity зазначає, що головна перевага токенізації для пенсійних фондів полягає в ефективнішому управлінні активами та пасивами. Технологія дозволяє оптимізувати баланси, забезпечуючи більшу прозорість та ліквідність традиційних інвестицій.",
       "ai_title": "Токенізація як інструмент управління балансом для пенсійних фондів"
-    },
-    {
-      "title": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
-      "link": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
-      "summary": "",
-      "published": "2026-07-14T12:33:24+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Червневий індекс споживчих цін у США впав на 0,4%, що свідчить про пом'якшення інфляційного тиску. Цей показник змушує ринки очікувати, що Федеральна резервна система утримається від подальшого агресивного підвищення відсоткових ставок.",
-      "ai_title": "Сповільнення інфляції в США знижує ймовірність підвищення відсоткових ставок ФРС"
     },
     {
       "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
@@ -2172,6 +2118,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Сенатори одноголосно ухвалили резолюцію, що забороняє надання помилування колишньому главі біржі FTX. Це рішення демонструє жорстку позицію влади щодо засудженого фігуранта гучної криптосправи.",
       "ai_title": "Сенат США виступив проти помилування Сема Бенкмана-Фріда"
+    },
+    {
+      "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
+      "link": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
+      "summary": "",
+      "published": "2026-07-16T12:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Galaxy Digital представила нові інструменти для інституційних інвесторів, спрямовані на отримання прибутку через DeFi-протоколи. Продукт дозволяє великим гравцям безпечно взаємодіяти з дохідністю стейблкоїнів у децентралізованих фінансах.",
+      "ai_title": "Galaxy запускає DeFi-сховища для доходу від стейблкоїнів"
+    },
+    {
+      "title": "Rebooting the internet: inside the open-source project to let AI programs pay each other",
+      "link": "https://www.coindesk.com/business/2026/07/16/ai-payments-have-a-new-open-standards-body-its-aim-is-to-reinvent-the-internet",
+      "summary": "",
+      "published": "2026-07-16T11:22:37+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Розробники працюють над проєктом з відкритим кодом, який дозволяє системам штучного інтелекту проводити фінансові розрахунки між собою. Ця технологія має змінити спосіб взаємодії автономних агентів в економіці інтернету.",
+      "ai_title": "Нова інтернет-інфраструктура дозволить ШІ платити один одному"
+    },
+    {
+      "title": "Tokenized stocks market cap gains to record $2.3B",
+      "link": "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stocks market cap gains to record $2.3B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.jpg\" /></p><p>The market capitalization of tokenized stocks rose to a record $2.3 billion, as investors sought exposure to the gr",
+      "published": "2026-07-16T12:35:52+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ринок токенізованих цінних паперів показав стрімке зростання, оскільки інвестори все частіше шукають способи інтеграції традиційних активів у блокчейн. Це свідчить про посилення інтересу до гібридних фінансових інструментів.",
+      "ai_title": "Капіталізація токенізованих акцій досягла рекордних $2,3 млрд"
+    },
+    {
+      "title": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
+      "link": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FATF urges faster crypto AML enforcement as stablecoin crime increases\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interrogation-lamp-stablecoin-1.jpg\" /></p><p>The global task force said criminal networks are using stablecoins and developing proprietary tokens to evade asset freezes as co",
+      "published": "2026-07-16T12:05:45+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Міжнародна група FATF закликає прискорити впровадження заходів проти відмивання грошей через зростання використання стейблкоїнів злочинними угрупованнями. Зловмисники все частіше створюють власні токени, щоб уникати блокування активів правоохоронцями.",
+      "ai_title": "FATF вимагає посилення боротьби зі злочинністю у сфері стейблкоїнів"
+    },
+    {
+      "title": "ARK pushes back against a16z’s ‘TradFi wants blockchain, not DeFi’ claim",
+      "link": "https://cointelegraph.com/news/ark-sentora-a16zs-tradfi-blockchain-defi-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ARK pushes back against a16z’s ‘TradFi wants blockchain, not DeFi’ claim\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchain-tangled-cats-cradle-defi-1.jpg\" /></p><p>ARK Invest’s director of research disputed a16z crypto’s thesis that traditional finance will adopt permissioned blockcha",
+      "published": "2026-07-16T11:35:30+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики ARK Invest не погодилися з думкою a16z про те, що традиційні фінанси віддадуть перевагу приватним блокчейнам замість відкритого DeFi. Ця дискусія підкреслює фундаментальні розбіжності у баченні того, як інституції будуть адаптувати криптотехнології.",
+      "ai_title": "ARK Invest посперечалися з a16z щодо майбутнього DeFi"
     }
   ]
 }
