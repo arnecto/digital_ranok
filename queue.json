@@ -1,15 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "link": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "summary": "<p>Article URL: <a href=\"https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left\">https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48910676\">https://news.ycombinator.com/item?id=48910676</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-14T17:58:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники виявили небезпечну вразливість нульового дня в AI-редакторі Cursor, яка ставить під загрозу безпеку коду користувачів. Автори публікації наголошують, що оприлюднення технічних деталей стало єдиним ефективним способом змусити розробників пришвидшити виправлення проблеми.",
-      "ai_title": "Критична вразливість у редакторі Cursor: чому повне розкриття стало необхідністю"
-    },
-    {
       "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
       "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
       "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open [&#8230;]",
@@ -935,18 +926,54 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Автори дослідження демонструють, що традиційні методи машинного навчання можуть бути ефективними для детекції ШІ-контенту. Це альтернативний підхід, який не потребує складних сучасних нейромереж для розпізнавання автоматично згенерованих текстів.",
       "ai_title": "Класичне машинне навчання для виявлення текстів, створених ШІ"
+    },
+    {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "summary": "<p>Article URL: <a href=\"https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/\">https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937756\">https://news.ycombinator.com/item?i",
+      "published": "2026-07-16T17:44:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова мовна модель Soofi S з 30 мільярдами параметрів демонструє найкращі результати в галузевих тестах для англійської та німецької мов. Це відкрите рішення є важливим кроком для розвитку незалежних ШІ-технологій у Європі.",
+      "ai_title": "Німецький консорціум випустив потужну відкриту ШІ-модель Soofi S"
+    },
+    {
+      "title": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
+      "link": "https://news.ycombinator.com/item?id=48936554",
+      "summary": "<p>I ported modern Linux to a ten-year-old HTC QWERTY phone as a handheld terminal.<p>I wrote it up here: <a href=\"https://tmzt.github.io/blog/a-modern-port-of-linux-to-a-ten-year-old-qwerty-phone/\" rel=\"nofollow\">https://tmzt.github.io/blog/a-modern-port-of-linux-to-a-ten-...</a><p>You can see the code here:\n<a href=\"https://github.com/tmzt/linux-stable-msm-dtsi\" rel=\"nofollow\">https://github.com",
+      "published": "2026-07-16T16:15:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник успішно адаптував сучасне ядро Linux для роботи на застарілому смартфоні з фізичною клавіатурою. Пристрій було перетворено на повноцінний портативний термінал для технічних завдань.",
+      "ai_title": "Linux на старенькому смартфоні: ентузіаст портував систему на HTC з QWERTY-клавіатурою"
+    },
+    {
+      "title": "Agent-talk: Enabling coding agents to work together",
+      "link": "https://github.com/xhluca/agent-talk",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xhluca/agent-talk\">https://github.com/xhluca/agent-talk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936534\">https://news.ycombinator.com/item?id=48936534</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+      "published": "2026-07-16T16:14:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт Agent-talk пропонує інструментарій, що дозволяє різним ШІ-агентам ефективно співпрацювати під час написання коду. Це спрощує координацію між ними та підвищує продуктивність автоматизованої розробки.",
+      "ai_title": "Agent-talk: нова платформа для взаємодії ШІ-агентів у програмуванні"
+    },
+    {
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+      "published": "2026-07-16T17:58:37+00:00",
+      "source": "The Verge",
+      "ai_summary": "Кеті Гокул залучила штучний інтелект для аналізу всіх чинних державних норм, правил та політик штату. Мета ініціативи — виявити та скасувати застарілі бюрократичні обмеження.",
+      "ai_title": "Губернаторка Нью-Йорка використовує ШІ для ревізії державних правил"
+    },
+    {
+      "title": "Google is better at playing the AI regulations game",
+      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory [&#8230;]",
+      "published": "2026-07-16T16:55:54+00:00",
+      "source": "The Verge",
+      "ai_summary": "Європейський Союз вимагає від Google надати розробникам ШІ ширший доступ до екосистеми Android. Попри видимий спротив, аналітики вважають це стратегічним маневром компанії у великій грі з державним регулюванням.",
+      "ai_title": "ЄС зобов'язав Google відкрити Android для конкурентів у сфері ШІ"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-      "published": "2026-07-14T18:33:31+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Група великих видавництв, включаючи Hachette та Elsevier, звинувачує Google у несанкціонованому використанні захищених авторським правом творів для тренування своїх моделей штучного інтелекту. Це черговий позов, що ставить під сумнів легальність методів розробки сучасних технологій ШІ.",
-      "ai_title": "Google знову судять через використання контенту для навчання ШІ"
-    },
     {
       "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
       "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
@@ -1468,27 +1495,54 @@
       "source": "VentureBeat",
       "ai_summary": "Аналіз показує, що бізнес розвиває інфраструктуру для ШІ-агентів швидше, ніж встигає забезпечити безпеку даних. Попри впровадження сучасних технологій, компанії часто стикаються з проблемою «галюцинацій» та помилкових відповідей своїх ШІ-систем.",
       "ai_title": "Головна проблема корпоративного ШІ — брак довіри, а не технологій"
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "published": "2026-07-16T18:32:54+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Google додає до сервісу Vids функцію створення цифрових копій користувачів. Завдяки моделі Gemini Omni інструмент дозволяє генерувати та редагувати відео, використовуючи лише текстові підказки та референсні зображення.",
+      "ai_title": "Google Vids дозволить створювати відео з вашим ШІ-аватаром"
+    },
+    {
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "published": "2026-07-16T18:22:06+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "У мобільному додатку Roblox з'явилася нова функція «Build», яка дозволяє генерувати базові ігрові світи за допомогою простого текстового запиту. Це значно спрощує поріг входження для нових розробників і творців контенту.",
+      "ai_title": "Roblox впровадив створення ігор за допомогою ШІ у мобільному додатку"
+    },
+    {
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
+      "published": "2026-07-16T17:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Сервіс Beehiiv представив ШІ-копілота для допомоги авторам у розвитку аудиторії та аналізі даних. Крім того, платформа додає функції соціальної взаємодії, що дозволяють підписникам спілкуватися між собою всередині розсилок.",
+      "ai_title": "Платформа розсилок Beehiiv інтегрує ШІ-помічника та чати для підписників"
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack ",
+      "published": "2026-07-16T19:02:38+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Більшість підприємств надають ШІ-агентам доступ до важливих систем, не забезпечуючи належного захисту. Через спільне використання облікових даних та відсутність ізоляції агентів 54% компаній вже зіткнулися з реальними проблемами безпеки.",
+      "ai_title": "Кіберзагрози ШІ-агентів: понад половина компаній вже мали інциденти безпеки"
+    },
+    {
+      "title": "Zero trust must now move at agent speed",
+      "link": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
+      "summary": "<p><i>Presented by Ping Identity </i></p><hr /><p>Enterprises need to treat zero trust security architecture as an immediate requirement for AI agents rather than a long-term goal, says Andre Durand, CEO and founder of Ping Identity. Zero trust, the security model built on the assumption that no user, device, or system should be automatically trusted, requires continuous verification before every ",
+      "published": "2026-07-16T17:10:15+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Експерти наголошують, що архітектура нульової довіри має стати негайним стандартом для роботи з ШІ. Оскільки агенти отримують доступ до корпоративних даних, безперервна верифікація кожного кроку є необхідною умовою безпеки.",
+      "ai_title": "Модель Zero Trust стає критично важливою для ШІ-агентів"
     }
   ],
   "Крипта": [
-    {
-      "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
-      "link": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK treasuries to align transatlantic rules on tokenization and stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom.jpg\" /></p><p>The two governments issued recommendations on the treatment of digital assets as",
-      "published": "2026-07-14T19:45:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Уряди США та Великої Британії домовилися про узгодження регуляторних підходів до цифрових активів. Спільні рекомендації мають на меті створення прозорого середовища для розвитку токенізації та використання стейблкоїнів у трансатлантичній фінансовій системі.",
-      "ai_title": "США та Велика Британія уніфікують правила для стейблкоїнів та токенізації"
-    },
-    {
-      "title": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
-      "link": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill",
-      "summary": "",
-      "published": "2026-07-14T18:57:15+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Група сенаторів-демократів розкритикувала ініціативу Clarity Act, назвавши її корупційною та небезпечною для індустрії. Вони висловили занепокоєння тим, що запропоновані зміни можуть послабити фінансовий нагляд у сфері криптовалют.",
-      "ai_title": "Демократи в Сенаті США виступили проти законопроєкту Clarity Act"
-    },
     {
       "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
       "link": "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2109,6 +2163,33 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Голова Blockchain Association заявив, що питання етики не входять до сфери занепокоєння асоціації. Водночас експерти закликають законодавців не гальмувати розвиток галузі надмірним регулюванням.",
       "ai_title": "Етичні питання структури крипторинку не є пріоритетом для Blockchain Association"
+    },
+    {
+      "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
+      "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
+      "summary": "",
+      "published": "2026-07-16T18:38:13+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керуючий активами на $1,9 трлн, компанія T. Rowe Price, виходить на ринок криптовалют через запуск інвестиційного фонду з використанням кількох токенів. Це підкреслює зростаючий інтерес великих інституційних гравців до активного управління цифровими активами.",
+      "ai_title": "T. Rowe Price запускає свій перший активний крипто-ETF"
+    },
+    {
+      "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
+      "link": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
+      "summary": "",
+      "published": "2026-07-16T18:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Масштабні інвестиції від Citadel Securities оцінили біржу Crypto.com у $20 мільярдів. Це свідчить про високу довіру великих фінансових структур до майбутнього централізованих криптоплатформ.",
+      "ai_title": "Citadel Securities інвестує $400 млн у криптобіржу Crypto.com"
+    },
+    {
+      "title": "BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments",
+      "link": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-storing-your-cryptocurrency-mica-eu-license.png\" /></p><p>The Dutch Authority for the Financial Markets approved BitPay’s application as a cryp",
+      "published": "2026-07-16T18:45:25+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Платіжний сервіс BitPay пройшов регуляторну перевірку Нідерландського управління з фінансових ринків. Отримання ліцензії дозволить компанії розширити використання стейблкоїнів для платежів у межах європейського законодавства.",
+      "ai_title": "BitPay отримав ліцензію в Нідерландах відповідно до вимог MiCA"
     }
   ]
 }
