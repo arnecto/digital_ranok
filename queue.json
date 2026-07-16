@@ -1,69 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "summary": "<p>Article URL: <a href=\"https://www.artfish.ai/p/offloading-thinking-to-ai\">https://www.artfish.ai/p/offloading-thinking-to-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48908178\">https://news.ycombinator.com/item?id=48908178</a></p>\n<p>Points: 68</p>\n<p># Comments: 52</p>",
-      "published": "2026-07-14T15:18:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автори аналізують ризики делегування когнітивних процесів нейромережам. Стаття піднімає питання, чи не призводить надмірна залежність від ШІ до втрати критичного мислення та здатності приймати самостійні рішення.",
-      "ai_title": "Чи не занадто багато ми довіряємо мислення штучному інтелекту?"
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the [&#8230;]",
-      "published": "2026-07-14T15:47:36+00:00",
-      "source": "The Verge",
-      "ai_summary": "Spotify тестує нову функцію «Talk to Spotify», що дозволяє підписникам Premium керувати прослуховуванням музики, аудіокниг та подкастів через діалог із чат-ботом. Функція доступна у мобільному додатку та забезпечує більш інтерактивний спосіб пошуку аудіоконтенту.",
-      "ai_title": "Spotify впроваджує ШІ-чат для пошуку контенту"
-    },
-    {
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the [&#8230;]",
-      "published": "2026-07-14T16:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "На честь 25-річчя сервісу Google оновлює головну сторінку Google Images. Тепер замість мінімалістичного інтерфейсу з рядком пошуку користувачі бачитимуть персоналізовану підбірку зображень ще до початку введення запиту.",
-      "ai_title": "Google Images змінює головну сторінку: рекомендації замість порожнього поля"
-    },
-    {
-      "title": "X admits its broken algorithm made the site feel like a &#8216;battleground&#8217;",
-      "link": "https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community",
-      "summary": "X's head of product, Nikita Bier, admitted in a post on Monday that X's algorithm was \"missing\" data about surfacing posts from people who you've followed back. Now, he says a tweak will \"boost visibility of your posts to your mutuals,\" hopefully enhancing the sense of community instead of highlighting and spreading random arguments, but [&#8230;]",
-      "published": "2026-07-14T15:20:21+00:00",
-      "source": "The Verge",
-      "ai_summary": "Керівництво X визнало, що помилки в алгоритмах обмежували видимість постів від взаємних фоловерів, сприяючи поширенню агресивного контенту. Компанія обіцяє змінити пріоритетність стрічки, щоб покращити відчуття спільноти та зменшити конфліктність у соцмережі.",
-      "ai_title": "X визнав проблему алгоритмів, що перетворили соцмережу на «поле битви»"
-    },
-    {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, [&#8230;]",
-      "published": "2026-07-14T17:18:11+00:00",
-      "source": "The Verge",
-      "ai_summary": "Група колишніх працівників Meta подала позов проти компанії через використання ШІ-інструментів для відбору кандидатів на звільнення. Позивачі стверджують, що алгоритми оцінки продуктивності були упередженими та несправедливо націлювалися на співробітників, які перебували у відпустці.",
-      "ai_title": "Meta звинувачують у використанні упередженого ШІ при масових звільненнях"
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "link": "https://agnost.ai",
-      "summary": "<p>Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (<a href=\"https://agnost.ai\">https://agnost.ai</a>), product analytics for teams building chat and voice agents.<p>We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving a",
-      "published": "2026-07-14T16:06:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий стартап Agnost AI представив інструмент для аналізу взаємодії користувачів з чат- та голосовими ботами. Система виявляє поведінкові проблеми, такі як агресивні відповіді клієнтів або критичні помилки в роботі агентів, що допомагає розробникам покращувати продукти.",
-      "ai_title": "Agnost AI: аналітика зворотного зв'язку для ШІ-агентів"
-    },
-    {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "summary": "<p>Article URL: <a href=\"https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/\">https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48909424\">https://news.ycombinator.com/item?id=48909424</a></p>\n<p>Points: 87</p>\n<p># Comments: 24</p>",
-      "published": "2026-07-14T16:36:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Детальне технічне дослідження вимірює затримку введення (input latency) у середовищах Linux. Автор порівнює продуктивність X11 та Wayland, аналізуючи вплив технологій VRR та DXVK на відгук системи.",
-      "ai_title": "Порівняння затримки введення в Linux: X11 проти Wayland"
-    },
-    {
       "title": "Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries",
       "link": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
       "summary": "Boston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries? The company is testing a new conveyor belt accessory that allows Spot to carry packages from a vehicle and autonomously unload them on a customer's doorstep in an effort to reduce a [&#8230;]",
@@ -116,15 +53,6 @@
       "source": "The Verge",
       "ai_summary": "Компанія Sony перенесла запуск свого нового ігрового контролера через непередбачені виробничі труднощі. Нова дата релізу пристрою, що мав вийти в серпні, наразі залишається невідомою.",
       "ai_title": "Sony відкладає випуск нового контролера FlexStrike для PS5"
-    },
-    {
-      "title": "The OLED Xbox Ally X20 is so good, Asus will sell it solo",
-      "link": "https://www.theverge.com/games/965123/asus-rog-xbox-ally-x20-oled-preview",
-      "summary": "When I first told you about the \"OLED Xbox Ally X of my dreams,\" I had to curb my enthusiasm a bit. That's partly because I hadn't yet tried the handheld myself, and partly because Asus was only planning to sell it bundled with a pair of expensive AR glasses! I'm happy to say both [&#8230;]",
-      "published": "2026-07-14T16:09:09+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після успішного дебюту пристрою у складі обмеженого набору, Asus вирішила продавати портативну консоль окремо. Це рішення відкриває доступ до високоякісного дисплея консолі для ширшого кола геймерів без потреби купувати додаткові аксесуари.",
-      "ai_title": "Asus випустить портативну консоль OLED Xbox Ally X окремо"
     },
     {
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
@@ -971,27 +899,54 @@
       "source": "The Verge",
       "ai_summary": "Технічний директор Proton Барт Батлер обговорив виклики, з якими стикаються компанії у сфері приватності. Основний акцент інтерв'ю зроблено на тому, як будувати довіру до безпечного програмного забезпечення, враховуючи правові обмеження та етичні аспекти захисту даних.",
       "ai_title": "CTO Proton про баланс між конфіденційністю та корпоративною відповідальністю"
+    },
+    {
+      "title": "Kimi K3 is now live",
+      "link": "https://www.kimi.com/en",
+      "summary": "<p>Article URL: <a href=\"https://www.kimi.com/en\">https://www.kimi.com/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935342\">https://news.ycombinator.com/item?id=48935342</a></p>\n<p>Points: 319</p>\n<p># Comments: 172</p>",
+      "published": "2026-07-16T14:46:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили Kimi K3 — оновлену версію своєї популярної моделі ШІ. Новинка привернула значну увагу спільноти та вже доступна для тестування.",
+      "ai_title": "Реліз нової моделі штучного інтелекту Kimi K3"
+    },
+    {
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google проводить ребрендинг свого застосунку для нотаток зі штучним інтелектом. Попри нову назву, сервіс продовжує функціонувати як окремий додаток із глибшою інтеграцією в екосистему Gemini та Google Search.",
+      "ai_title": "Google перейменовує NotebookLM на Gemini Notebook"
+    },
+    {
+      "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator &#8216;100 percent,&#8217; investigators confirm",
+      "link": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
+      "summary": "The Tesla driver who fatally struck a woman after crashing into her home \"manually overrode\" the vehicle's Full Self-Driving (FSD) technology by pressing the gas pedal to 100 percent, the National Transportation Safety Board (NTSB) confirmed in a preliminary report on Wednesday. After examining the car's electronic data, investigators found that the Tesla Model 3 [&#8230;]",
+      "published": "2026-07-16T15:41:09+00:00",
+      "source": "The Verge",
+      "ai_summary": "Національна рада з безпеки на транспорті США підтвердила, що фатальна аварія сталася через дії водія, який вручну вимкнув функцію FSD, натиснувши педаль акселератора на 100%. Дані бортового комп’ютера довели, що електроніка не мала технічних збоїв у момент зіткнення.",
+      "ai_title": "Розслідування ДТП за участі Tesla: водій вимкнув автопілот натисканням педалі газу"
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "summary": "<p>Article URL: <a href=\"https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/\">https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936426\">https://news.ycombinator.com/item?id=48936426</a></p>\n<p>Points: 50</p>\n<p># Comments: 13</p>",
+      "published": "2026-07-16T16:06:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Microsoft виклала у відкритий доступ код свого культового проекту Comic Chat. Це історичний крок для збереження спадщини ранніх чатів, що використовували технології створення коміксів у реальному часі.",
+      "ai_title": "Microsoft відкрила вихідний код класичного Comic Chat"
+    },
+    {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "summary": "<p>Article URL: <a href=\"https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model\">https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935687\">https://news.ycombinator.com/item?id=48935687</a></p>\n<p>Points: 14</p>\n<p># Comments: 8</p>",
+      "published": "2026-07-16T15:13:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Опубліковано практичний посібник зі створення нейромережі для генерації звуків барабанів (kick drum) на домашньому комп'ютері. Інструкція показує, що для навчання моделей дифузії достатньо навіть скромних ресурсів, як-от Linux-система з 6 ГБ відеопам'яті.",
+      "ai_title": "Як навчити ШІ-модель генерувати звуки ударних на звичайному ПК"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "New York State halts construction of all new data centers",
-      "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
-      "published": "2026-07-14T15:17:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Влада штату запровадила тимчасовий мораторій на будівництво великих дата-центрів. Губернаторка Кеті Гокул наголосила, що стрімкий розвиток ШІ не має загрожувати стабільності енергомереж, водопостачанню чи інтересам місцевих громад.",
-      "ai_title": "Нью-Йорк зупинив будівництво нових дата-центрів"
-    },
-    {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-      "published": "2026-07-14T16:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Google оновив інтерфейс пошуку зображень, додавши стрічку «Для вас» із персоналізованими рекомендаціями. Тепер сервіс пропонує користувачам візуальний контент, що базується на їхніх інтересах та історії пошукових запитів.",
-      "ai_title": "Google Images отримав редизайн у стилі Pinterest"
-    },
     {
       "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
       "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
@@ -1000,24 +955,6 @@
       "source": "TechCrunch",
       "ai_summary": "Компанія DeepSeek планує залучити 1,5 мільярда доларів інвестицій при оцінці бізнесу у 71 мільярд доларів. Очікується, що цей крок стане підготовкою до публічного розміщення акцій (IPO), запланованого на 2027 рік.",
       "ai_title": "Китайський розробник ШІ DeepSeek готується до виходу на IPO"
-    },
-    {
-      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-      "published": "2026-07-14T16:22:15+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Голова Instagram Адам Моссері прогнозує, що компанії почнуть контролювати витрати на штучний інтелект як частину операційних видатків. Це означає, що розробники можуть отримати жорсткі ліміти на використання ШІ-інструментів у своїй роботі.",
-      "ai_title": "Meta планує обмежити витрати інженерів на ШІ-токени"
-    },
-    {
-      "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
-      "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
-      "summary": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
-      "published": "2026-07-14T15:14:40+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Згідно з доповіддю, іранська влада експлуатувала відомі прогалини в безпеці мереж мобільного зв'язку для виявлення та подальших ударів по військовослужбовцях США на Близькому Сході. Ці дії відбувалися в період загострення конфлікту в регіоні.",
-      "ai_title": "Іран використовував вразливості мобільних мереж для відстеження військових США"
     },
     {
       "title": "Lucid Motors denies report it’s considering bankruptcy",
@@ -1477,18 +1414,54 @@
       "source": "TechCrunch",
       "ai_summary": "Компанія Apple уклала угоду з місцевими технологічними гігантами для впровадження своїх ШІ-функцій у Китаї. Це стратегічно важливий крок, що дозволяє Apple масштабувати свої амбіції у сфері штучного інтелекту на ключовому для компанії ринку.",
       "ai_title": "Apple Intelligence виходить на китайський ринок у партнерстві з Alibaba та Baidu"
+    },
+    {
+      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+      "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
+      "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
+      "published": "2026-07-16T16:08:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Туристичний стартап Fora отримав $60 млн у межах раунду серії D, що підвищило оцінку компанії до $1 мільярда. Це досягнення підкреслює стрімке зростання інтересу інвесторів до ШІ-рішень у сфері подорожей.",
+      "ai_title": "AI-турагенція Fora стала «єдинорогом» після залучення $60 млн"
+    },
+    {
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Google оновила свій ШІ-режим, дозволивши йому не лише відповідати на запитання, а й взаємодіяти з популярними програмами. Тепер користувачі можуть делегувати ШІ виконання реальних дій у застосунках, якими вони користуються щодня.",
+      "ai_title": "Google інтегрує ШІ-асистентів для виконання завдань у сторонніх застосунках"
+    },
+    {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "published": "2026-07-16T15:38:55+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія DoorDash запустила бета-версію інструменту dd-cli, який дозволяє розробникам та ШІ-агентам створювати кошики та оформлювати замовлення через термінал. Це важливий крок до адаптації інтерфейсів під потреби автоматизованих агентів, а не лише людей.",
+      "ai_title": "DoorDash дозволив замовляти їжу через командний рядок"
+    },
+    {
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "summary": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outc",
+      "published": "2026-07-16T16:40:48+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Дослідження виявило, що підприємства надають ШІ-агентам більше автономії, ніж дозволяють їхні системи оцінки безпеки. Більшість компаній вже стикалися з помилками агентів у реальних умовах, що ставить під сумнів надійність поточних методів тестування ШІ.",
+      "ai_title": "Бізнес стикається з кризою довіри до ШІ-агентів"
+    },
+    {
+      "title": "X cracks down on creators who steal content",
+      "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+      "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.",
+      "published": "2026-07-16T16:40:36+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Соціальна мережа X впроваджує ШІ-модель Grok для автоматичного виявлення плагіату. Система перенаправлятиме виплати за монетизацію від авторів-крадіїв до оригінальних творців контенту.",
+      "ai_title": "X використовуватиме Grok AI для боротьби з крадіжками контенту"
     }
   ],
   "Крипта": [
-    {
-      "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
-      "link": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
-      "summary": "",
-      "published": "2026-07-14T16:29:48+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Регулятори США та Великої Британії працюють над гармонізацією законодавчих норм для токенізованих фінансових активів. Це ініціатива має на меті створити прозорі умови для функціонування найбільших фінансових ринків світу.",
-      "ai_title": "США та Велика Британія уніфікують правила для токенізованих фінансів"
-    },
     {
       "title": "UK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
       "link": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1508,15 +1481,6 @@
       "ai_title": "JCB та Circle тестуватимуть стейблкоїни в Японії"
     },
     {
-      "title": "CleanSpark shares jump 22% after $6.6B Georgia data center lease",
-      "link": "https://cointelegraph.com/news/cleanspark-shares-jump-after-georgia-data-center-lease?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CleanSpark shares jump 22% after $6.6B Georgia data center lease\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark.jpg\" /></p><p>The Bitcoin miner’s Georgia agreement with an undisclosed investment-grade technology company expands it",
-      "published": "2026-07-14T16:24:45+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Майнінгова компанія CleanSpark уклала угоду на оренду дата-центру в Джорджії вартістю 6,6 мільярда доларів. Ця новина спровокувала стрімке зростання вартості акцій компанії на фондовому ринку.",
-      "ai_title": "Акції CleanSpark злетіли на 22% після масштабної угоди в Джорджії"
-    },
-    {
       "title": "The Clarity Act isn't a ticket to sanctions evasion, actually",
       "link": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
       "summary": "",
@@ -1533,15 +1497,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Фінансова корпорація Mizuho погіршила прогноз для компанії Circle, знизивши цільову ціну акцій до 50 доларів. Головною причиною стали ризики, пов'язані з появою нових конкурентів у секторі стейблкоїнів, зокрема Open USD.",
       "ai_title": "Mizuho знизила рейтинг емітента стейблкоїна USDC через конкуренцію"
-    },
-    {
-      "title": "Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto",
-      "link": "https://www.coindesk.com/policy/2026/07/14/wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto",
-      "summary": "",
-      "published": "2026-07-14T16:39:26+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Тимчасове припинення роботи Вікіпедії може негативно вплинути на якість даних, якими навчаються нейромережі на кшталт ChatGPT. Це створює ризик появи прогалин у знаннях штучного інтелекту щодо криптоактивів та технології блокчейн.",
-      "ai_title": "Блекаут Wikipedia може погіршити розуміння криптоіндустрії ШІ-моделями"
     },
     {
       "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
@@ -2109,6 +2064,51 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Компанія MoonPay придбала інфраструктурний стартап Glide, заснований колишніми розробниками Robinhood Wallet. Це поглинання допоможе компанії значно розширити можливості для здійснення кросчейн-депозитів у криптовалюті.",
       "ai_title": "MoonPay купує стартап Glide для покращення криптодепозитів"
+    },
+    {
+      "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
+      "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
+      "summary": "",
+      "published": "2026-07-16T16:14:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Visa впроваджує підтримку стандарту Open USD через нову платформу для стейблкоїнів. Це створює серйозну конкуренцію для компанії Circle на ринку цифрових платежів.",
+      "ai_title": "Visa запускає платформу для стейблкоїнів"
+    },
+    {
+      "title": "Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash",
+      "link": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-vs-stocks-breaking-news-1.png\" /></p><p>Eligible E*TRADE retail clients can now buy, sell and hold Bitcoin, Ether and Solana through a partnership with cryp",
+      "published": "2026-07-16T16:32:01+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Роздрібні клієнти E*TRADE тепер можуть купувати, продавати та зберігати Bitcoin, Ether та Solana. Послуга реалізована завдяки стратегічному партнерству з провайдером інфраструктури Zero Hash.",
+      "ai_title": "E*TRADE від Morgan Stanley відкрив доступ до спотової торгівлі криптоактивами"
+    },
+    {
+      "title": "Tradable’s $1B Stellar deal adds to institutional tokenization boom",
+      "link": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tradable’s $1B Stellar deal adds to institutional tokenization boom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-smart-contracts-stellar.jpg\" /></p><p>Tradable will bring up to $1 billion in private credit assets to Stellar, extending the blockchain’s push into institutional fin",
+      "published": "2026-07-16T16:19:16+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Tradable перенесе приватні кредитні активи на суму до 1 мільярда доларів на блокчейн Stellar. Це значний крок для інтеграції традиційних фінансових інструментів у сферу децентралізованих фінансів.",
+      "ai_title": "Stellar залучає $1 млрд у межах буму токенізації активів"
+    },
+    {
+      "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
+      "link": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
+      "summary": "",
+      "published": "2026-07-16T15:26:15+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Маркет-мейкер Keyrock придбав торгові активи компанії BlockFills. Ця угода спрямована на посилення позицій компанії у сфері інституційної торгівлі криптовалютами.",
+      "ai_title": "Keyrock розширює інституційний бізнес через купівлю BlockFills"
+    },
+    {
+      "title": "The Clarity Act is the most important consumer protection effort in years",
+      "link": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
+      "summary": "",
+      "published": "2026-07-16T15:07:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Clarity Act визначається експертами як найважливіша ініціатива за останні роки у сфері захисту прав споживачів крипторинку. Документ покликаний встановити чіткіші регуляторні норми для індустрії.",
+      "ai_title": "Законопроєкт Clarity Act як новий стандарт захисту користувачів криптоактивів"
     }
   ]
 }
