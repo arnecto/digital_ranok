@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "QR-Swastika-Avoider",
-      "link": "https://crates.io/crates/qr-swastika-avoider",
-      "summary": "<p>Article URL: <a href=\"https://crates.io/crates/qr-swastika-avoider\">https://crates.io/crates/qr-swastika-avoider</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913894\">https://news.ycombinator.com/item?id=48913894</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-14T22:46:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова бібліотека для розробників допомагає уникати появи випадкових візерунків у формі свастик під час генерації QR-кодів. Це технічне рішення дозволяє автоматично перевіряти та коригувати піксельну структуру зображень задля уникнення небажаної символіки.",
-      "ai_title": "Інструмент для запобігання випадковій генерації свастик у QR-кодах"
-    },
-    {
-      "title": "Linear is always a lagging indicator",
-      "link": "https://remark.ing/rob/rob.mw/-/Linear-is-always-a",
-      "summary": "<p>Article URL: <a href=\"https://remark.ing/rob/rob.mw/-/Linear-is-always-a\">https://remark.ing/rob/rob.mw/-/Linear-is-always-a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913953\">https://news.ycombinator.com/item?id=48913953</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-14T22:52:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує обмеження використання лінійних метрик для оцінки складних систем та проектів. У статті пояснюється, чому такий підхід часто ігнорує реальні ризики та зміни в динамічному середовищі.",
-      "ai_title": "Чому лінійні показники завжди відстають від реальності"
-    },
-    {
-      "title": "Casio FX-870P Emulator",
-      "link": "https://github.com/urbancamo/fx870p-emulator",
-      "summary": "<p>Article URL: <a href=\"https://github.com/urbancamo/fx870p-emulator\">https://github.com/urbancamo/fx870p-emulator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913910\">https://news.ycombinator.com/item?id=48913910</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-14T22:47:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "На GitHub опубліковано проєкт емулятора для класичного програмованого калькулятора Casio FX-870P. Це дозволяє ентузіастам запускати старе програмне забезпечення та вивчати архітектуру ретро-обчислювальної техніки на сучасних пристроях.",
-      "ai_title": "Емулятор легендарного калькулятора Casio FX-870P"
-    },
-    {
       "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
       "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
       "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party [&#8230;]",
@@ -980,6 +953,51 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "CISA додала CVE-2026-25089 до списку відомих експлуатованих вразливостей. Помилка дозволяє зловмисникам виконувати довільні команди на пристроях FortiSandbox без автентифікації.",
       "ai_title": "Критична вразливість у FortiSandbox внесена до реєстру CISA"
+    },
+    {
+      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
+      "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "summary": "<p>Article URL: <a href=\"https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/\">https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941129\">https://news.ycombinator.com/item?id=48941129</a></p>\n<p>Points: 61</p>\n<p># Comments: ",
+      "published": "2026-07-16T22:29:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує випадок, коли автоматичне оновлення автомобіля призвело до збою в роботі Android Auto. Ця ситуація підсвічує ризики культури «швидких розробок» у сучасному автопромі, де софт часто випускається з помилками, що впливають на повсякденне життя водіїв.",
+      "ai_title": "Чому оновлення ПЗ в автомобілях стають проблемою для користувачів"
+    },
+    {
+      "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+      "link": "https://mojibake.zaerl.com/",
+      "summary": "<p>I've written Mojibake because I don't like the other Unicode libraries for Unicode support.<p>It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such as normalization, case conversion, segmentation, bidirectional text, collation, confusable, and others.<p>I regularly test it in these OSes: Linux, macOS, FreeBSD, OpenBSD, ",
+      "published": "2026-07-16T22:29:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив компактну бібліотеку Mojibake, що складається лише з двох файлів і покликана спростити роботу з Unicode. Вона підтримує ключові алгоритми, включаючи нормалізацію, сегментацію та роботу з двонаправленим текстом.",
+      "ai_title": "Mojibake: нова легка бібліотека для роботи з Unicode на C"
+    },
+    {
+      "title": "The Little Book of Reinforcement Learning",
+      "link": "https://github.com/alxndrTL/little-book-rl/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/alxndrTL/little-book-rl/\">https://github.com/alxndrTL/little-book-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941104\">https://news.ycombinator.com/item?id=48941104</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-16T22:27:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Це новий навчальний ресурс, присвячений основам навчання з підкріпленням, доступний у відкритому доступі на GitHub. Книга стане корисним путівником для тих, хто хоче опанувати ключові концепції RL у стислій та доступній формі.",
+      "ai_title": "Вийшла «Мала книга навчання з підкріпленням» (Reinforcement Learning)"
+    },
+    {
+      "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
+      "link": "https://github.com/cgrtml/reasongate",
+      "summary": "<p>Article URL: <a href=\"https://github.com/cgrtml/reasongate\">https://github.com/cgrtml/reasongate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941051\">https://news.ycombinator.com/item?id=48941051</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-16T22:21:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт ReasonGate пропонує інструмент для пояснюваної фільтрації запитів до LLM, що дозволяє блокувати спроби prompt injection. Система підвищує безпеку інтеграції ШІ, аналізуючи вхідні дані на предмет шкідливого наміру.",
+      "ai_title": "ReasonGate: захист від атак ін'єкцій у великі мовні моделі"
+    },
+    {
+      "title": "Just Do Things",
+      "link": "https://ray.zo.space/blog/just-do-things",
+      "summary": "<p>Article URL: <a href=\"https://ray.zo.space/blog/just-do-things\">https://ray.zo.space/blog/just-do-things</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940801\">https://news.ycombinator.com/item?id=48940801</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-16T21:55:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У цій статті автор ділиться думками про важливість практичної діяльності та подолання прокрастинації через безпосередню реалізацію ідей. Це мотиваційний матеріал для тих, хто шукає способи підвищити свою продуктивність та почати втілювати власні проєкти в життя.",
+      "ai_title": "Філософія дії: чому варто просто робити справи"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1513,18 +1531,27 @@
       "source": "TechCrunch",
       "ai_summary": "Компанія Coca-Cola була змушена призупинити роботу свого молочного підрозділу Fairlife у США через атаку вірусу-вимагача. Наразі виробництво залишається зупиненим на невизначений термін до вирішення технічних проблем.",
       "ai_title": "Coca-Cola зупинила виробництво на заводі Fairlife через кібератаку"
+    },
+    {
+      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+      "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+      "summary": "In the wake of a massive hours-long gridlock event, San Francisco Mayor Daniel Lurie has told state regulators its time to put more requirements on robotaxi operators like Waymo.",
+      "published": "2026-07-16T23:25:22+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Після масштабного транспортного колапсу, спричиненого безпілотними автомобілями, міська влада закликала регуляторів запровадити суворіші правила для операторів роботаксі. Мер Даніель Лурі наполягає на необхідності кращого контролю за безпекою та роботою подібних технологій на вулицях міста.",
+      "ai_title": "Мер Сан-Франциско вимагає посилити контроль за роботаксі Waymo"
+    },
+    {
+      "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+      "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+      "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+      "published": "2026-07-16T23:01:27+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Ілона Маска припинила процедуру запуску одразу після запалювання двигунів, не розкривши одразу технічних причин інциденту. На тлі цієї новини акції SpaceX на позабіржових торгах впали більш ніж на 4%.",
+      "ai_title": "SpaceX раптово скасувала другий запуск Starship V3"
     }
   ],
   "Крипта": [
-    {
-      "title": "US freezes $131M in Iran-linked crypto as Middle East tensions rise",
-      "link": "https://cointelegraph.com/news/us-freezes-131m-in-iran-linked-crypto-as-middle-east-tensions-rise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US freezes $131M in Iran-linked crypto as Middle East tensions rise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tether-mints-usdt-iran.jpg\" /></p><p>“US Treasury is committed to disrupting and degrading Iran’s illicit financial activities, including its abuse of digital assets,” US Treasur",
-      "published": "2026-07-15T03:17:59+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Міністерство фінансів США заблокувало криптовалютні кошти, пов'язані з Іраном, на тлі зростання напруженості на Близькому Сході. Влада заявила, що цей крок спрямований на припинення незаконної фінансової діяльності та зловживання цифровими активами.",
-      "ai_title": "США заморозили криптоактиви Ірану на $131 мільйон"
-    },
     {
       "title": "Bitmine generated $46M from Ethereum staking last quarter",
       "link": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
