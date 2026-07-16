@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open [&#8230;]",
-      "published": "2026-07-14T19:25:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "AI-помічник для кодування Grok Build таємно завантажував цілі репозиторії користувачів у хмару Google Cloud. Після того, як дослідники з Cereblab оприлюднили цю інформацію, компанія була змушена вимкнути функціонал для розслідування інциденту.",
-      "ai_title": "Інструмент для програмування Grok від SpaceXAI звинуватили у витоку коду користувачів"
-    },
-    {
-      "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
-      "link": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
-      "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987\">https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48912100\">https://news.ycombinator.com/item?id=48912100</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-14T19:48:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Фінансові звіти SEC викрили, що платформа StubHub фактично підтримує систему масштабної перепродажу квитків на користь окремих спекулянтів. Це викликало нову хвилю критики та колективних позовів проти керівництва компанії через маніпуляції на ринку.",
-      "ai_title": "StubHub звинувачують у прихованій співпраці з великими перекупниками"
-    },
-    {
-      "title": "Show HN: A Free RSS reader with a configurable recommendation engine",
-      "link": "https://sprinklz.io/feed/home",
-      "summary": "<p>Article URL: <a href=\"https://sprinklz.io/feed/home\">https://sprinklz.io/feed/home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48911998\">https://news.ycombinator.com/item?id=48911998</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-14T19:39:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили новий RSS-інструмент, який поєднує класичну стрічку новин з можливістю налаштування індивідуального механізму рекомендацій контенту. Проєкт доступний безкоштовно та орієнтований на користувачів, що прагнуть контролювати власні джерела інформації.",
-      "ai_title": "З'явився безкоштовний RSS-рідер з адаптивними алгоритмами рекомендацій"
-    },
-    {
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused [&#8230;]",
@@ -44,15 +17,6 @@
       "source": "The Verge",
       "ai_summary": "Microsoft впроваджує нові можливості в оновлення Windows 11, які надають користувачам більше контролю над системними патчами. Зокрема, тепер можна відкладати встановлення оновлень на строк до 35 днів.",
       "ai_title": "Windows 11 дозволить відкладати оновлення на довший термін"
-    },
-    {
-      "title": "How I use HTMX with Go",
-      "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "summary": "<p>Article URL: <a href=\"https://www.alexedwards.net/blog/how-i-use-htmx-with-go\">https://www.alexedwards.net/blog/how-i-use-htmx-with-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48912175\">https://news.ycombinator.com/item?id=48912175</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-14T19:55:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор ділиться практичним досвідом побудови вебзастосунків з використанням зв'язки мови програмування Go та бібліотеки HTMX. Це рішення дозволяє створювати інтерактивні інтерфейси без необхідності розгортання складних JavaScript-фреймворків.",
-      "ai_title": "Як поєднувати HTMX та Go у розробці"
     },
     {
       "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
@@ -971,36 +935,36 @@
       "source": "The Verge",
       "ai_summary": "Європейський Союз вимагає від Google надати розробникам ШІ ширший доступ до екосистеми Android. Попри видимий спротив, аналітики вважають це стратегічним маневром компанії у великій грі з державним регулюванням.",
       "ai_title": "ЄС зобов'язав Google відкрити Android для конкурентів у сфері ШІ"
+    },
+    {
+      "title": "Why are CD sales suddenly growing again?",
+      "link": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
+      "summary": "CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 million CDs were sold in the first half of 2026 in the US, a 16 percent increase year-over-year. The growth in CD sales was driven [&#8230;]",
+      "published": "2026-07-16T19:55:29+00:00",
+      "source": "The Verge",
+      "ai_summary": "У першому півріччі 2026 року в США було продано 16,3 мільйона компакт-дисків, що на 16% більше, ніж минулого року. Фани обирають цей формат як доступний спосіб фінансово підтримати своїх улюблених виконавців.",
+      "ai_title": "Продажі CD-дисків знову зростають: чому це відбувається"
+    },
+    {
+      "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
+      "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
+      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - used inside information to make bets on Kalshi, a major prediction market platform that allows users [&#8230;]",
+      "published": "2026-07-16T18:43:14+00:00",
+      "source": "The Verge",
+      "ai_summary": "Федеральні слідчі підозрюють Габріеля Переса, який працював оператором телесуфлера Дональда Трампа, у використанні конфіденційної інформації для ставок на платформі Kalshi. Він робив прогнози щодо виступів президента, спираючись на знання про текст, який той мав озвучити.",
+      "ai_title": "Оператора телесуфлера Трампа звинуватили в інсайдерській торгівлі"
+    },
+    {
+      "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
+      "link": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "summary": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon and directly from [&#8230;]",
+      "published": "2026-07-16T17:57:15+00:00",
+      "source": "The Verge",
+      "ai_summary": "Гібридний робот-пилосос з функцією вологого прибирання Ecovacs Deebot X11 отримав значну знижку. Наразі пристрій можна придбати за 699 доларів, що на 400 доларів менше від початкової ціни.",
+      "ai_title": "Робот-пилосос Ecovacs Deebot X11 суттєво подешевшав"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
-      "published": "2026-07-14T19:42:27+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Користувачі iPhone тепер можуть випробувати можливості ШІ-помічника Siri без встановлення версії для розробників. Публічна бета-версія стала доступною напередодні офіційного релізу оновлення, запланованого на цю осінь.",
-      "ai_title": "Apple відкрила доступ до оновленої Siri в публічній бета-версії iOS 27"
-    },
-    {
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-      "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-      "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
-      "published": "2026-07-14T19:39:39+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий стартап Overtone зосереджується на голосовому спілкуванні та використанні штучного інтелекту для підбору ідеальних пар. Проєкт має на меті змінити підхід до знайомств, роблячи акцент на аудіоформаті та персоналізованих рекомендаціях.",
-      "ai_title": "Засновник Hinge залучив $18 млн на ШІ-сервіс для знайомств Overtone"
-    },
-    {
-      "title": "Anthropic’s newest ad is creeping people out",
-      "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "summary": "Anthropic's latest advert is stirring up high emotions — which is undoubtedly what it was designed to do.",
-      "published": "2026-07-14T19:41:27+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Останній рекламний ролик розробника ШІ Anthropic став приводом для бурхливих дискусій у мережі через свій провокаційний характер. Контент викликав у глядачів суперечливі емоції, що, ймовірно, і було головною метою маркетологів компанії.",
-      "ai_title": "Нова рекламна кампанія Anthropic викликала неоднозначну реакцію користувачів"
-    },
     {
       "title": "OpenAI pushes back on Apple trade secret lawsuit",
       "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
@@ -1540,18 +1504,27 @@
       "source": "VentureBeat",
       "ai_summary": "Експерти наголошують, що архітектура нульової довіри має стати негайним стандартом для роботи з ШІ. Оскільки агенти отримують доступ до корпоративних даних, безперервна верифікація кожного кроку є необхідною умовою безпеки.",
       "ai_title": "Модель Zero Trust стає критично важливою для ШІ-агентів"
+    },
+    {
+      "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "summary": "<p><a href=\"https://www.moonshot.ai/\">Moonshot AI,</a> the Beijing-based artificial intelligence startup backed by Alibaba, on Thursday released <a href=\"https://platform.kimi.ai/docs/guide/kimi-k3-quickstart\">Kimi K3</a> — a 2.8-trillion-parameter model that the company says is now the largest open-source AI model in the world, and one that benchmarks show performs neck-and-neck with the most pow",
+      "published": "2026-07-16T19:42:09+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Китайський стартап Moonshot AI випустив модель Kimi K3, яка налічує 2,8 трильйона параметрів. Вона претендує на звання найбільшої відкритої нейромережі у світі та за рівнем продуктивності змагається з провідними розробками США.",
+      "ai_title": "Moonshot AI представив Kimi K3 — найпотужнішу відкриту модель у світі"
+    },
+    {
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her Mafia skills)",
+      "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+      "published": "2026-07-16T20:07:14+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Раян Байєрмейстер, відома за відеосерією «Mafia» від Founders Fund, приєдналася до команди венчурного фонду на посаду партнерки. Її призначення є знаковим кроком для посилення аналітичного потенціалу компанії.",
+      "ai_title": "Founders Fund призначив колишню топменеджерку OpenAI партнеркою"
     }
   ],
   "Крипта": [
-    {
-      "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
-      "link": "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Velocity raises $38M to build stablecoin treasury infrastructure for enterprises\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-erisx-raises-275-mln-from-fidelity-nasdaq-ventures-and-others-details-2.jpg\" /></p><p>Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expandi",
-      "published": "2026-07-14T20:04:31+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Velocity отримала фінансування від провідних інвесторів, зокрема Coinbase Ventures та Dragonfly. Ці кошти будуть спрямовані на створення інструментів управління казначейством у стейблкоїнах для корпоративних клієнтів.",
-      "ai_title": "Стартап Velocity залучив $38 млн на розвиток інфраструктури стейблкоїнів для бізнесу"
-    },
     {
       "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
       "link": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
@@ -2190,6 +2163,24 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Платіжний сервіс BitPay пройшов регуляторну перевірку Нідерландського управління з фінансових ринків. Отримання ліцензії дозволить компанії розширити використання стейблкоїнів для платежів у межах європейського законодавства.",
       "ai_title": "BitPay отримав ліцензію в Нідерландах відповідно до вимог MiCA"
+    },
+    {
+      "title": "Injective files for SEC transfer agent registration to bring securities ownership records onchain",
+      "link": "https://cointelegraph.com/news/injective-files-sec-transfer-agent-registration-bring-securities-ownership-records-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Injective files for SEC transfer agent registration to bring securities ownership records onchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-tokenize-your-business-equity-rwa-1.jpg\" /></p><p>The company said the filing would create a regulated pathway for maintaining ownership r",
+      "published": "2026-07-16T19:27:53+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Injective подала заявку до SEC на реєстрацію як трансфер-агент для обліку цінних паперів. Цей крок має створити регульований механізм для перенесення записів про право власності на активи безпосередньо в блокчейн.",
+      "ai_title": "Injective хоче перенести облік цінних паперів у блокчейн"
+    },
+    {
+      "title": "1inch co-founder says he was fired, announces new venture",
+      "link": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"1inch co-founder says he was fired, announces new venture \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit.png\" /></p><p>Anton Bukov said that he no longer took an active role at 1inch and had been “fired” in 2025 after pushing for changes to the co",
+      "published": "2026-07-16T20:05:45+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Антон Буков повідомив, що більше не бере активної участі в роботі 1inch після того, як його звільнили у 2025 році через розбіжності щодо розвитку компанії. Наразі він планує зосередитися на розробці нового проєкту.",
+      "ai_title": "Співзасновник 1inch заявив про звільнення та анонсував новий проєкт"
     }
   ]
 }
