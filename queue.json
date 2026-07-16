@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused [&#8230;]",
-      "published": "2026-07-14T21:26:32+00:00",
-      "source": "The Verge",
-      "ai_summary": "За чутками, OpenAI планує випустити свій перший апаратний пристрій — розумну колонку з інтегрованим ChatGPT. Пристрій не матиме екрана, проте буде оснащений камерою та сенсорами для кращого сприйняття оточення користувача.",
-      "ai_title": "OpenAI готує власний розумний динамік"
-    },
-    {
-      "title": "Windows 11&#8217;s big patch Tuesday allows you to hold off on updates for longer",
-      "link": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
-      "summary": "Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, and that includes the ability to pause updates indefinitely, as reported earlier by Windows Central. This option rolled out to Windows Insiders earlier this year, allowing you to hold off on updates for up to 35 days [&#8230;]",
-      "published": "2026-07-14T21:32:04+00:00",
-      "source": "The Verge",
-      "ai_summary": "Microsoft впроваджує нові можливості в оновлення Windows 11, які надають користувачам більше контролю над системними патчами. Зокрема, тепер можна відкладати встановлення оновлень на строк до 35 днів.",
-      "ai_title": "Windows 11 дозволить відкладати оновлення на довший термін"
-    },
-    {
-      "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
-      "link": "https://github.com/logxio/picchio",
-      "summary": "<p>Article URL: <a href=\"https://github.com/logxio/picchio\">https://github.com/logxio/picchio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48912947\">https://news.ycombinator.com/item?id=48912947</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-14T21:06:11+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналіз показує, що навіть при однаковому маркуванні Q4_K_M фактична кількість бітів на вагу може суттєво відрізнятися в різних реалізаціях. Це висвітлює проблему відсутності єдиних стандартів у квантуванні LLM.",
-      "ai_title": "Проблеми стандартизації стиснення нейромережевих моделей"
-    },
-    {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "link": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/\">https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913050\">https://news.ycombinator.com/item?id=48913050</a></p>\n<p>Points: 18</p>\n<p># Comments",
-      "published": "2026-07-14T21:15:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "GitHub додав нову функцію в Dependabot, яка автоматично встановлює період очікування для оновлення пакетів. Це дозволяє уникнути встановлення щойно випущених версій, які можуть містити критичні помилки або бути нестабільними.",
-      "ai_title": "Dependabot впроваджує автоматичну затримку оновлень пакетів"
-    },
-    {
       "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
       "link": "https://www.benjamin-bai.com/projects/lemario",
       "summary": "<p>Article URL: <a href=\"https://www.benjamin-bai.com/projects/lemario\">https://www.benjamin-bai.com/projects/lemario</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48913763\">https://news.ycombinator.com/item?id=48913763</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
@@ -962,6 +926,51 @@
       "source": "The Verge",
       "ai_summary": "Гібридний робот-пилосос з функцією вологого прибирання Ecovacs Deebot X11 отримав значну знижку. Наразі пристрій можна придбати за 699 доларів, що на 400 доларів менше від початкової ціни.",
       "ai_title": "Робот-пилосос Ecovacs Deebot X11 суттєво подешевшав"
+    },
+    {
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "link": "https://timelinescan.com/",
+      "summary": "<p>Article URL: <a href=\"https://timelinescan.com/\">https://timelinescan.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939764\">https://news.ycombinator.com/item?id=48939764</a></p>\n<p>Points: 4</p>\n<p># Comments: 8</p>",
+      "published": "2026-07-16T20:25:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий інструмент Timeline Scan використовує ШІ для автоматичного визначення та виправлення дат на відсканованих старих фотографіях. Це значно спрощує архівування сімейних альбомів та організацію цифрових спогадів.",
+      "ai_title": "Timeline Scan: штучний інтелект для впорядкування ваших фотографій"
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "<p>Article URL: <a href=\"https://lmstudio.ai/blog/introducing-lm-studio-bionic\">https://lmstudio.ai/blog/introducing-lm-studio-bionic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939662\">https://news.ycombinator.com/item?id=48939662</a></p>\n<p>Points: 21</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-16T20:18:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "LM Studio випустила Bionic — інструмент, що перетворює локальні мовні моделі на повноцінних ШІ-агентів. Це рішення дозволяє користувачам ефективніше автоматизувати завдання, зберігаючи конфіденційність даних на власному комп'ютері.",
+      "ai_title": "LM Studio Bionic: новий ШІ-агент для роботи з відкритими моделями"
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "summary": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6\">https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939524\">https://news.ycombinator.com/item?id=48939524</a></p>\n<p>Points: 17</p>\n<p># Comments: 14</p>",
+      "published": "2026-07-16T20:03:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор експерименту порівняв можливості новітніх нейромереж у створенні музичних відеокліпів із бюджетом у 100 доларів. Огляд демонструє стрімкий розвиток генеративних технологій та їхні відмінності у творчому підході до відеоконтенту.",
+      "ai_title": "Битва ШІ-відео: Claude Fable проти GPT-5.6 Sol"
+    },
+    {
+      "title": "Show HN: Be the ChatBOT",
+      "link": "https://bethechatbot.com/",
+      "summary": "<p>I made this experimental art project/game that's an LLM chat assistant, but where <i>you're</i> the AI.<p>I wanted people to get a visceral sense of what it's like to answer the kinds of things that people prompt their chatbots day in and day out.<p>If you're interested, I wrote up some more info on how I made it, including how the \"user\" prompts are generated with an eye for realism: <a href=\"",
+      "published": "2026-07-16T18:44:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Це інтерактивний арт-проект, де користувач міняється місцями зі штучним інтелектом. Мета гри — дати людям змогу відчути досвід чат-бота, відповідаючи на запити, які зазвичай надходять від реальних користувачів.",
+      "ai_title": "Show HN: проект «Стань чат-ботом»"
+    },
+    {
+      "title": "Netflix says around 300 titles used generative AI",
+      "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+      "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher quality output more quickly and at a lower cost.\" It also provided some examples of [&#8230;]",
+      "published": "2026-07-16T20:29:27+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стрімінговий гігант Netflix підтвердив використання генеративного штучного інтелекту для виробництва близько 300 тайтлів. Компанія застосовує ці інструменти переважно на етапі постпродакшну для оптимізації вартості та пришвидшення робочих процесів.",
+      "ai_title": "Netflix активно використовує генеративний ШІ у 300 своїх проєктах"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1522,18 +1531,18 @@
       "source": "TechCrunch",
       "ai_summary": "Раян Байєрмейстер, відома за відеосерією «Mafia» від Founders Fund, приєдналася до команди венчурного фонду на посаду партнерки. Її призначення є знаковим кроком для посилення аналітичного потенціалу компанії.",
       "ai_title": "Founders Fund призначив колишню топменеджерку OpenAI партнеркою"
+    },
+    {
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+      "published": "2026-07-16T21:22:31+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Coca-Cola була змушена призупинити роботу свого молочного підрозділу Fairlife у США через атаку вірусу-вимагача. Наразі виробництво залишається зупиненим на невизначений термін до вирішення технічних проблем.",
+      "ai_title": "Coca-Cola зупинила виробництво на заводі Fairlife через кібератаку"
     }
   ],
   "Крипта": [
-    {
-      "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
-      "link": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
-      "summary": "",
-      "published": "2026-07-14T20:51:05+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Комісія з торгівлі товарними ф'ючерсами США (CFTC) втрутилася у виконання судового рішення, яке зобов'язувало платформу Kalshi скасувати певні угоди. Регулятор намагається зупинити цей процес, побоюючись впливу на ринкові механізми.",
-      "ai_title": "CFTC намагається заблокувати скасування угод на платформі Kalshi"
-    },
     {
       "title": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
       "link": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2181,6 +2190,24 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Антон Буков повідомив, що більше не бере активної участі в роботі 1inch після того, як його звільнили у 2025 році через розбіжності щодо розвитку компанії. Наразі він планує зосередитися на розробці нового проєкту.",
       "ai_title": "Співзасновник 1inch заявив про звільнення та анонсував новий проєкт"
+    },
+    {
+      "title": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
+      "link": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-107341-bitcoin-touches-30k-as-btc-bulls-well-positioned-for-weekly-3-2-billion-options.jpg\" /></p><p>Bitcoin buyers have returned to spot, futures and ETF mar",
+      "published": "2026-07-16T20:29:20+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Вартість біткоїна підскочила на 6% за останній тиждень, що суттєво покращило ринкові очікування аналітиків. Активність покупців на ринках спотових активів, ф'ючерсів та ETF свідчить про готовність биків до подальшого зростання курсу.",
+      "ai_title": "Біткоїн демонструє впевнене зростання"
+    },
+    {
+      "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
+      "link": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-meaning-examples-and-penalties-detection.jpg\" /></p><p>According to ABC News, federal regulators are investigating whether the longt",
+      "published": "2026-07-16T20:49:23+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Федеральні регулятори розслідують діяльність оператора телесуфлера Дональда Трампа, який заробив 100 тисяч доларів на прогнозах щодо промов політика на платформі Kalshi. Справа зосереджена на потенційному використанні конфіденційної інформації для отримання прибутку на ринках прогнозів.",
+      "ai_title": "Скандал з інсайдерською торгівлею на ставках щодо виступів Трампа"
     }
   ]
 }
