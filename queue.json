@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "link": "https://tailscale.com/security-bulletins",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/security-bulletins\">https://tailscale.com/security-bulletins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915004\">https://news.ycombinator.com/item?id=48915004</a></p>\n<p>Points: 64</p>\n<p># Comments: 25</p>",
-      "published": "2026-07-15T01:08:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У сервісі Tailscale SSH виявлено недолік у обробці аргументів, який дозволяв зловмисникам отримати права суперкористувача (root). Користувачам наполегливо рекомендується оновити програмне забезпечення до актуальної версії.",
-      "ai_title": "Критична вразливість у Tailscale SSH: ризик несанкціонованого root-доступу"
-    },
-    {
-      "title": "Jurassic Park computers in excruciating detail",
-      "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/jurrasic_park_computers/index.html\">https://fabiensanglard.net/jurrasic_park_computers/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915709\">https://news.ycombinator.com/item?id=48915709</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-15T02:57:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор статті провів глибокий аналіз комп'ютерного обладнання та інтерфейсів, використаних під час зйомок культового фільму 90-х. Матеріал розкриває цікаві подробиці того, як створювалася візуалізація технологій для тогочасного кіно.",
-      "ai_title": "Детальний технічний огляд комп'ютерів із фільму «Парк Юрського періоду»"
-    },
-    {
       "title": "I tricked Claude into leaking your deepest, darkest secrets",
       "link": "https://www.ayush.digital/blog/the-memory-heist",
       "summary": "<p>Article URL: <a href=\"https://www.ayush.digital/blog/the-memory-heist\">https://www.ayush.digital/blog/the-memory-heist</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48916975\">https://news.ycombinator.com/item?id=48916975</a></p>\n<p>Points: 178</p>\n<p># Comments: 70</p>",
@@ -998,18 +980,18 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Розробники представили нову базову модель, здатну будувати тривимірні мапи середовища на основі потокових даних. Технологія дозволяє ефективно реконструювати сцени, що відкриває нові можливості для комп'ютерного зору та робототехніки.",
       "ai_title": "Lingbot-map: нова 3D-модель для реконструкції простору в реальному часі"
+    },
+    {
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "summary": "<p>Article URL: <a href=\"https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/\">https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48942454\">https://news.ycombinator.com/item?id=48942454</a></p>\n<p>Points: 14</p>\n<p># Comments: 7</p>",
+      "published": "2026-07-17T01:36:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Фахівці радять використовувати операційну систему GrapheneOS для підвищення приватності та цифрової безпеки постраждалих від домашнього насильства. Ця система забезпечує вищий рівень захисту від відстеження та несанкціонованого доступу до конфіденційної інформації.",
+      "ai_title": "GrapheneOS рекомендують як засіб захисту для жертв домашнього насильства"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-      "published": "2026-07-15T12:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Розробник інструментів для програмування на базі ШІ залучив 130 мільйонів доларів у раунді серії C. Стартап демонструє значне зростання, досягнувши річного доходу в 120 мільйонів доларів та маючи понад 200 тисяч платних клієнтів.",
-      "ai_title": "Індійський ШІ-стартап Emergent став «єдинорогом»"
-    },
     {
       "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
       "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
@@ -1552,15 +1534,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitmine generated $46M from Ethereum staking last quarter",
-      "link": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine generated $46M from Ethereum staking last quarter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-20-staking-explained.jpg\" /></p><p>Ethereum staking generated 98% of Bitmine’s revenue last quarter as the company’s pivot from Bitcoin mining gained momentum following its Mar",
-      "published": "2026-07-15T01:28:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Bitmine успішно переорієнтувала бізнес з майнінгу біткоїнів на стейкінг Ethereum. За минулий квартал цей напрямок забезпечив 98% загального доходу компанії.",
-      "ai_title": "Bitmine заробила $46 мільйонів на стейкінгу Ethereum"
-    },
     {
       "title": "Bitcoin nears $65,000 as cooling U.S. inflation guts the Fed rate-hike trade",
       "link": "https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade",
@@ -2226,6 +2199,42 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Інвестиційний гігант Citadel Securities здійснив велике вкладення в одну з провідних криптобірж, підтвердивши оцінку бізнесу на рівні $20 млрд. Ця угода підкреслює зростаючу інтеграцію традиційних фінансових структур із ринком цифрових активів.",
       "ai_title": "Citadel Securities вкладає $400 млн у Crypto.com при оцінці компанії у $20 млрд"
+    },
+    {
+      "title": "Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
+      "link": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
+      "summary": "",
+      "published": "2026-07-17T04:10:09+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс біткоїна знизився на тлі нових військових ударів США по Ірану. Додатковий тиск на ринок створюють невизначені заяви Дональда Трампа щодо економічної політики з Китаєм.",
+      "ai_title": "Біткоїн падає нижче $64 000 через геополітичну напруженість"
+    },
+    {
+      "title": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
+      "link": "https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto exchange Bybit launches in Indonesia after NOBI acquisition\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bybit-giant-is-entering-cryptoheres-why-it-matters.jpg\" /></p><p>The launch gives Bybit a locally operated platform in one of Asia’s largest crypto markets, home to more than 2",
+      "published": "2026-07-17T04:16:32+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Після придбання платформи NOBI біржа Bybit запускає локалізований сервіс в Індонезії. Це стратегічний крок для закріплення на одному з найперспективніших крипторинків Азії.",
+      "ai_title": "Криптобіржа Bybit офіційно виходить на ринок Індонезії"
+    },
+    {
+      "title": "Trump Media sells Wall Street low-latency access to Trump posts",
+      "link": "https://cointelegraph.com/news/trump-media-sells-wall-street-low-latency-access-to-trump-posts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells Wall Street low-latency access to Trump posts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/token-scrolling-truth-social-1.jpg\" /></p><p>The paid Truth API is aimed at high-frequency trading firms seeking “the fastest” access to market-moving Truth Social posts, including t",
+      "published": "2026-07-17T02:23:40+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Trump Media розробила платний API для високочастотних трейдерів, що забезпечує миттєвий доступ до публікацій у Truth Social. Це дозволяє фінансовим фірмам швидше реагувати на заяви, що впливають на ринок.",
+      "ai_title": "Trump Media продає Уолл-стріт доступ до швидких постів Трампа"
+    },
+    {
+      "title": "Balaji seeks Malaysia deal, threatens exit after Network School probe",
+      "link": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Balaji seeks Malaysia deal, threatens exit after Network School probe\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-bitcoin-in-malaysia.jpg\" /></p><p>“If we are not welcome, there are many other countries that would welcome us,” said Network School founder Balaji Srinivasan in ",
+      "published": "2026-07-17T01:54:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Засновник Network School заявив про можливий вихід із країни після початку розслідування щодо діяльності його організації. Він наголосив, що розглядає інші юрисдикції, які готові співпрацювати на кращих умовах.",
+      "ai_title": "Баладжі Срінівасан погрожує залишити Малайзію через розслідування"
     }
   ]
 }
