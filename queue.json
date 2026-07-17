@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">https://thinkingmachines.ai/news/introducing-inkling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48924912\">https://news.ycombinator.com/item?id=48924912</a></p>\n<p>Points: 135</p>\n<p># Comments: 51</p>",
-      "published": "2026-07-15T18:12:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Thinking Machines анонсували вихід Inkling, своєї нової моделі з відкритими вагами. Це важливий крок для спільноти розробників, що дозволяє ширше використовувати та досліджувати технології ШІ без обмежень закритих систем.",
-      "ai_title": "Представлено Inkling — нову модель з відкритими вагами"
-    },
-    {
-      "title": "Something&#8217;s glowing on the Pixel 11&#8217;s camera bar",
-      "link": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
-      "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing, color-shifting orb to the one side of the camera bar. The store [&#8230;]",
-      "published": "2026-07-15T18:24:22+00:00",
-      "source": "The Verge",
-      "ai_summary": "Короткий тизер від Google розкрив нову дизайнерську деталь майбутньої лінійки Pixel 11 — світловий елемент на панелі камер. Цей колірний індикатор, що світиться, стане особливістю зовнішнього вигляду нових смартфонів.",
-      "ai_title": "Google Pixel 11 отримає незвичайний світловий індикатор на камері"
-    },
-    {
       "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
       "link": "https://brainless.swerdlow.dev",
       "summary": "<p>Article URL: <a href=\"https://brainless.swerdlow.dev\">https://brainless.swerdlow.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926085\">https://news.ycombinator.com/item?id=48926085</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
@@ -944,72 +926,36 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Компанія Google представила нові 3D-дизайни емодзі Noto, адаптовані до сучасних способів цифрової комунікації. Оновлення має на меті зробити візуальну мову більш виразною та відповідною актуальним трендам взаємодії.",
       "ai_title": "Google оновлює дизайн емодзі для сучасних потреб"
+    },
+    {
+      "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+      "link": "https://sofar.belfortlabs.cloud/",
+      "summary": "<p>Article URL: <a href=\"https://sofar.belfortlabs.cloud/\">https://sofar.belfortlabs.cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48949240\">https://news.ycombinator.com/item?id=48949240</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-17T16:29:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники досягли значного прориву у швидкості виконання нейронних мереж на зашифрованих даних. Це дозволяє обробляти запити до моделей штучного інтелекту без розшифрування інформації, що є важливим кроком для забезпечення приватності користувачів.",
+      "ai_title": "Інференс CIFAR-10 з гомоморфним шифруванням за 200 мс"
+    },
+    {
+      "title": "Learning a few things about running SQLite",
+      "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "summary": "<p>Article URL: <a href=\"https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\">https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950122\">https://news.ycombinator.com/item?id=48950122</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-17T17:45:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор статті ділиться досвідом оптимізації та налаштування баз даних SQLite для ефективної роботи. Матеріал охоплює нюанси керування даними, які допоможуть розробникам уникнути поширених помилок під час інтеграції SQLite у власні проєкти.",
+      "ai_title": "Практичні поради щодо роботи з SQLite"
+    },
+    {
+      "title": "Apple Music is getting a price hike",
+      "link": "https://www.theverge.com/tech/967379/apple-music-price-increase",
+      "summary": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple, in a statement to Music Business [&#8230;]",
+      "published": "2026-07-17T18:14:26+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Apple оголосила про зростання цін на свої музичні тарифи у США. Вартість індивідуального плану тепер становить 11,99 долара, тоді як сімейні та студентські підписки також зазнали відповідного коригування ціни.",
+      "ai_title": "Apple підвищує вартість підписки на Apple Music"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "published": "2026-07-15T18:06:05+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Вартість акцій компанії поступово знижується після початкового ажіотажу. Ринок стає менш оптимістичним щодо амбітних обіцянок Ілона Маска.",
-      "ai_title": "Акції SpaceX впали нижче ціни IPO напередодні запуску Starship"
-    },
-    {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "published": "2026-07-15T18:04:06+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія вийшла з режиму розробки, що тривав півтора року, представивши модель для спеціалізованих завдань. Це стратегічний крок проти універсальних ШІ-рішень.",
-      "ai_title": "Thinking Machines презентувала Inkling — першу відкриту модель ШІ"
-    },
-    {
-      "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations",
-      "link": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
-      "summary": "OnePlus could also wind down its operations in India by 2027",
-      "published": "2026-07-15T17:53:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Виробник смартфонів готується до масштабної реструктуризації бізнесу. За чутками, до 2027 року компанія також може повністю залишити ринок Індії.",
-      "ai_title": "OnePlus планує згорнути діяльність на ринках США та Європи"
-    },
-    {
-      "title": "Apple bans home services from its upcoming Maps ads",
-      "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
-      "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads.",
-      "published": "2026-07-15T18:21:22+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Apple оприлюднила правила для свого майбутнього рекламного сервісу в Apple Maps, суттєво відмінні від стратегії Google. Компанія заборонила рекламу побутових послуг, таких як послуги сантехніків чи електриків, демонструючи більш вибірковий та обережний підхід до рекламодавців.",
-      "ai_title": "Apple обмежує рекламу в картах: домашні послуги під забороною"
-    },
-    {
-      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
-      "link": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
-      "summary": "<p>Hundreds of enterprise leaders and technical experts packed the main ballroom of the luxurious Hotel Nia in Menlo Park this week for<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a>, the year&#x27;s preeminent conference on using generative AI agents to drive business outcomes. </p><p>Rachad Alao, vice president of product engineering at the rising Canadian enterprise AI ",
-      "published": "2026-07-15T18:21:02+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "На конференції VB Transform 2026 експерти Cohere наголосили на важливості технологічного суверенітету для корпоративного ШІ. Для успішного впровадження генеративних агентів компаніям необхідно мати повний контроль над усім стеком технологій.",
-      "ai_title": "Майбутнє ШІ в бізнесі: чому корпораціям потрібен повний контроль"
-    },
-    {
-      "title": "Microsoft patches bug in video game Age of Empires II",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-      "summary": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.",
-      "published": "2026-07-15T18:47:01+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Microsoft випустила патч для класичної стратегії Age of Empires II, щоб виправити небезпечну вразливість. Зловмисники могли отримати віддалений контроль над комп'ютерами користувачів через спеціально сформоване ігрове запрошення.",
-      "ai_title": "Microsoft усунула критичну вразливість в Age of Empires II"
-    },
-    {
-      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-      "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-      "published": "2026-07-15T19:46:54+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Neko Health розробила унікальну технологію сканування всього тіла. У поєднанні з аналізами крові це рішення дозволяє проводити комплексний моніторинг стану здоров'я людини.",
-      "ai_title": "Стартап Деніела Ека Neko Health залучив 700 млн доларів"
-    },
     {
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
@@ -1018,15 +964,6 @@
       "source": "TechCrunch",
       "ai_summary": "Попри судові суперечки щодо інтелектуальної власності на залізо, OpenAI представила спеціальну клавіатуру з підсвіткою. Пристрій призначений для зручнішої роботи з їхнім застосунком для програмування на базі ШІ.",
       "ai_title": "OpenAI випустила фірмову клавіатуру за 230 доларів"
-    },
-    {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "published": "2026-07-15T18:06:05+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Вартість акцій компанії поступово знижується після періоду пост-IPO ейфорії. Інвестори стають менш оптимістичними щодо амбітних обіцянок Ілона Маска, що відображається на ринковій оцінці SpaceX.",
-      "ai_title": "Акції SpaceX впали до 135 доларів перед новим запуском Starship"
     },
     {
       "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
@@ -1423,18 +1360,27 @@
       "source": "VentureBeat",
       "ai_summary": "Замість створення теоретичних правил, компанія Brex проаналізувала фактичні дії AI-агентів, які мають доступ до конфіденційних API та токенів. Це допомогло розробити ефективніші механізми контролю, оскільки традиційні методи безпеки виявилися недостатніми для роботи в корпоративному масштабі.",
       "ai_title": "Brex розробила політику безпеки для AI-агентів на основі їх реальної поведінки"
+    },
+    {
+      "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
+      "link": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
+      "summary": "<p>Legacy infrastructure, not the models themselves, is what&#x27;s actually slowing AI agents down. That was the shared conclusion of three infrastructure leaders —<!-- --> from LinkedIn, Walmart, and Zendesk —<!-- --> at<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a>.</p><p>The panel brought together Animesh Singh, senior director of AI platform and infrastructure at Lin",
+      "published": "2026-07-17T18:48:18+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Представники LinkedIn, Walmart та Zendesk на конференції VB Transform 2026 заявили, що саме застарілі технологічні системи, а не самі моделі, є головною перешкодою для швидкості роботи штучного інтелекту. Компанії шукають способи модернізації своєї інфраструктури, щоб встигати за швидкістю обробки запитів сучасними AI-агентами.",
+      "ai_title": "Застаріла інфраструктура гальмує розвиток AI-агентів"
+    },
+    {
+      "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+      "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+      "summary": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.",
+      "published": "2026-07-17T18:00:17+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий гаджет Dyson Hot+Cool HF1 замінює собою і обігрівач, і вентилятор, забезпечуючи комфортний клімат у приміщенні протягом усього року. Пристрій відрізняється фірмовим дизайном без лопатей, тихою роботою та інтуїтивно зрозумілим управлінням.",
+      "ai_title": "Dyson випустив універсальний пристрій для обігріву та охолодження"
     }
   ],
   "Крипта": [
-    {
-      "title": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
-      "link": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tribune-hearing-congress.jpg\" /></p><p>President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach",
-      "published": "2026-07-15T17:56:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Кандидат Дональда Трампа на посаду генерального прокурора зіткнувся з гострою критикою в Сенаті через його наміри розформувати криптопідрозділ. Також обговорюється питання можливого помилування Чанпена Чжао з боку нової адміністрації.",
-      "ai_title": "У Сенаті США розкритикували кандидата на посаду генпрокурора за антикрипто-політику"
-    },
     {
       "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
       "link": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed",
@@ -2110,6 +2056,15 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Сенаторка Елізабет Воррен звернулася з вимогою оприлюднити дані про криптоактиви Дональда Трампа після того, як стало відомо про його статки у розмірі 1,4 мільярда доларів. Цей запит надійшов на тлі очікуваного голосування в Сенаті щодо ключового законопроєкту про регулювання криптоіндустрії.",
       "ai_title": "Елізабет Воррен вимагає звітності щодо доходів Трампа від криптовалют"
+    },
+    {
+      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "link": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
+      "summary": "",
+      "published": "2026-07-17T18:00:11+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Трейдери на платформі Polymarket суттєво знизили прогнози щодо успішного прийняття законопроєкту Clarity Act. Це пов'язано з тривалими затримками в розгляді документа Сенатом США.",
+      "ai_title": "Шанси на ухвалення закону Clarity Act впали до мінімуму"
     }
   ]
 }
