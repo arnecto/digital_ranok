@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "link": "https://brainless.swerdlow.dev",
-      "summary": "<p>Article URL: <a href=\"https://brainless.swerdlow.dev\">https://brainless.swerdlow.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926085\">https://news.ycombinator.com/item?id=48926085</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-15T19:42:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт пропонує набір готових компонентів для розробників, які візуально наслідують інтерфейси сучасних AI-інструментів, таких як Claude Code або Grok. Це рішення спрощує створення сучасних вебдодатків з дизайном, що став стандартом у сфері ШІ.",
-      "ai_title": "Brainless: UI-компоненти в стилі інтерфейсів Claude та Grok"
-    },
-    {
-      "title": "Duskers, the scary command line game, is getting a sequel",
-      "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-      "summary": "<p>Article URL: <a href=\"https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20\">https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48925888\">https://news.ycombinator.com/item?id=48925888</a></p>\n<p>Points: 35</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-15T19:27:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники оголосили про роботу над продовженням Duskers, відомої своєю гнітючою атмосферою та унікальним управлінням через командний рядок. Гра знову занурить гравців у світ космічних дронів та виживання серед покинутих кораблів.",
-      "ai_title": "Анонсовано сиквел Duskers — культової гри про виживання в терміналі"
-    },
-    {
-      "title": "Roblox is shutting down its video chat service",
-      "link": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
-      "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with people on the call in a shared virtual [&#8230;]",
-      "published": "2026-07-15T20:02:26+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія вирішила відмовитися від функції відеозв’язку, яка дозволяла користувачам спілкуватися в реальному часі, використовуючи аватари з імітацією міміки. Сервіс, запущений у 2023 році, виявився не достатньо затребуваним для подальшої підтримки.",
-      "ai_title": "Roblox закриває сервіс відеодзвінків Roblox Connect"
-    },
-    {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric [&#8230;]",
-      "published": "2026-07-15T20:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Стаття аналізує появу дешевого контенту, створеного за допомогою ШІ, який стрімко заповнює ринок розваг. Автори порівнюють цю тенденцію з епохою низькоякісних фільмів, що випускалися одразу на відео, критикуючи їх за відсутність художньої цінності.",
-      "ai_title": "AI-фільми як нова форма «сміттєвого» кінематографа"
-    },
-    {
       "title": "Grok Build",
       "link": "https://github.com/xai-org/grok-build",
       "summary": "<p>Article URL: <a href=\"https://github.com/xai-org/grok-build\">https://github.com/xai-org/grok-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926590\">https://news.ycombinator.com/item?id=48926590</a></p>\n<p>Points: 65</p>\n<p># Comments: 70</p>",
@@ -953,18 +917,45 @@
       "source": "The Verge",
       "ai_summary": "Компанія Apple оголосила про зростання цін на свої музичні тарифи у США. Вартість індивідуального плану тепер становить 11,99 долара, тоді як сімейні та студентські підписки також зазнали відповідного коригування ціни.",
       "ai_title": "Apple підвищує вартість підписки на Apple Music"
+    },
+    {
+      "title": "The Zilog Z80 has turned 50",
+      "link": "https://goliath32.com/blog/z80.html",
+      "summary": "<p>Article URL: <a href=\"https://goliath32.com/blog/z80.html\">https://goliath32.com/blog/z80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951461\">https://news.ycombinator.com/item?id=48951461</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-17T19:41:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Архітектура Zilog Z80 відзначає піввіковий ювілей, залишаючись однією з найвпливовіших в історії обчислювальної техніки. Цей мікропроцесор став основою для багатьох культових домашніх комп'ютерів та ігрових систем 80-х років.",
+      "ai_title": "Легендарному процесору Zilog Z80 виповнилося 50 років"
+    },
+    {
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "link": "https://app.everything.diena.co/",
+      "summary": "<p>I'm building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.<p>This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia / Wikidata, scored using PageRank. There is more information on the about page.<p>If you're interested in the stack: I use Kotlin Multiplatform extensively, with Com",
+      "published": "2026-07-17T18:37:33+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив візуальний інструмент на Kotlin Multiplatform для навігації чотирма мільйонами історичних подій. Дані структуровані за допомогою алгоритму PageRank, що дозволяє користувачам досліджувати історію в зручному масштабованому форматі.",
+      "ai_title": "Інтерактивна шкала часу з 4 мільйонами подій з Wikipedia"
+    },
+    {
+      "title": "SpaceX stock drops to a new low and loses $1T in value in a month",
+      "link": "https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7",
+      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7\">https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950580\">https://news.ycombinator.com/item?id=48950580</a></p>\n<p>Points: 48</p>\n<p># Comments: 35</",
+      "published": "2026-07-17T18:26:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія SpaceX зіткнулася з фінансовою кризою, внаслідок якої її ринкова вартість зменшилася на 1 трильйон доларів лише за один місяць. Таке падіння відбувається на тлі невдач із запусками Starship та зниження довіри інвесторів.",
+      "ai_title": "Акції SpaceX стрімко падають: мінус трильйон доларів за місяць"
+    },
+    {
+      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+      "link": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an interview this week. \"Do people trust the product [&#8230;]",
+      "published": "2026-07-17T19:14:42+00:00",
+      "source": "The Verge",
+      "ai_summary": "Ерік Мігіковскі пояснює, що пропонує лише 30-денну гарантію на нові смартгодинники Pebble через акцент на особистій відповідальності перед клієнтами. На його думку, такий підхід будує міцнішу довіру між розробником і користувачем, ніж юридичні зобов'язання.",
+      "ai_title": "Засновник Pebble про короткий гарантійний термін як інструмент довіри"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "published": "2026-07-15T19:41:38+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Попри судові суперечки щодо інтелектуальної власності на залізо, OpenAI представила спеціальну клавіатуру з підсвіткою. Пристрій призначений для зручнішої роботи з їхнім застосунком для програмування на базі ШІ.",
-      "ai_title": "OpenAI випустила фірмову клавіатуру за 230 доларів"
-    },
     {
       "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
       "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
@@ -991,15 +982,6 @@
       "source": "VentureBeat",
       "ai_summary": "Більшість корпорацій сьогодні видають звичайні чат-боти за повноцінні ШІ-агенти, хоча реальні потреби бізнесу вимагають складного багатокрокового виконання завдань. Лідером у цій сфері стає платформа Anthropic Claude, проте розрив між амбіціями щодо впровадження агентів та технічними можливостями залишається значним.",
       "ai_title": "Проблема ШІ-агентів у бізнесі: чому компанії плутають чат-ботів з реальними помічниками"
-    },
-    {
-      "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026",
-      "link": "https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
-      "summary": "<p>The enterprise AI industry has a math problem. Cisco data shows <a href=\"https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship\">85% of enterprises</a> are piloting AI agents, but only 5% have shipped them to production. At <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a> on Tuesday, <a href=\"https://silverthorn.blog/\">Br",
-      "published": "2026-07-15T20:00:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Попри те, що 85% підприємств тестують ШІ-агентів, лише 5% компаній готові довірити їм реальні бізнес-процеси. Експерти Amazon зазначають, що основною перешкодою для масового впровадження є недостатня надійність систем, а не відсутність технологічних можливостей.",
-      "ai_title": "Головний бар'єр для корпоративного ШІ — надійність, а не функціонал"
     },
     {
       "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A",
@@ -1378,36 +1360,36 @@
       "source": "TechCrunch",
       "ai_summary": "Новий гаджет Dyson Hot+Cool HF1 замінює собою і обігрівач, і вентилятор, забезпечуючи комфортний клімат у приміщенні протягом усього року. Пристрій відрізняється фірмовим дизайном без лопатей, тихою роботою та інтуїтивно зрозумілим управлінням.",
       "ai_title": "Dyson випустив універсальний пристрій для обігріву та охолодження"
+    },
+    {
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "published": "2026-07-17T20:09:27+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Бум штучного інтелекту кардинально змінює споживчий попит та стратегії виробників електроніки в Індії. Це призвело до неочікуваного спаду на ринку смартфонів, оскільки компанії намагаються адаптуватися до нових технологічних вимог.",
+      "ai_title": "ШІ-революція гальмує ринок смартфонів в Індії"
+    },
+    {
+      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+      "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+      "summary": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
+      "published": "2026-07-17T19:49:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Влада Сан-Франциско зобов'язала техногігантів очистити свої магазини застосунків від програм, що генерують оголені зображення. Компанії звинувачують у тривалому ігноруванні порушень законодавства штату.",
+      "ai_title": "Apple та Google вимагають видалити застосунки для створення дипфейк-оголень"
+    },
+    {
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "published": "2026-07-17T19:22:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап у сфері ядерних технологій Valar Atomics веде переговори про новий раунд фінансування. Ця угода підкреслює актуальний тренд на залучення капіталу через складні багатоетапні структури, що часто приховують реальну вартість активів.",
+      "ai_title": "Ядерний стартап Valar Atomics готується до залучення інвестицій з оцінкою $6 млрд"
     }
   ],
   "Крипта": [
-    {
-      "title": "Coinbase's Jesse Pollak steps back from Base app leadership after admitting his crypto social strategy failed",
-      "link": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed",
-      "summary": "",
-      "published": "2026-07-15T20:18:02+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Керівник екосистеми Base від Coinbase визнав, що його стратегія розвитку крипто-соціальних продуктів не виправдала очікувань. У результаті він вирішив відійти від операційного управління додатком, щоб зосередитися на інших пріоритетах.",
-      "ai_title": "Джессі Поллак залишає керівництво Base app після невдачі соцмережевої стратегії"
-    },
-    {
-      "title": "Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation",
-      "link": "https://cointelegraph.com/news/stanford-study-5-minute-bitcoin-prediction-markets-enable-settlement-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stanford study says 5-minute Bitcoin prediction markets enable settlement manipulation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-could-bitcoin-enter-the-mainstream-as-a-means-of-payments-kalshi.png\" /></p><p>Researchers found that Polymarket’s five-minute Bitcoin prediction markets cr",
-      "published": "2026-07-15T20:05:08+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Науковці виявили, що короткострокові ринки прогнозів щодо ціни біткоїна дозволяють зловмисникам маніпулювати розрахунками. Це ставить під сумнів надійність таких платформ, як Polymarket, для прогнозування цінових рухів активу.",
-      "ai_title": "Дослідження Стенфорда: 5-хвилинні ринки прогнозів Bitcoin вразливі до маніпуляцій"
-    },
-    {
-      "title": "Revolut receives in-principle approval from UAE authorities for crypto services",
-      "link": "https://cointelegraph.com/news/revolut-approval-uae-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut receives in-principle approval from UAE authorities for crypto services\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-license-blockchain.jpg\" /></p><p>Dubai’s Virtual Assets Regulatory Authority approved the London-headquartered fintech company for broker-dealer, managem",
-      "published": "2026-07-15T19:34:39+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінтех-гігант Revolut здобув попереднє схвалення від регулятора віртуальних активів Дубая. Компанія планує надавати брокерські та дилерські послуги у сфері криптовалют на ринку Об'єднаних Арабських Еміратів.",
-      "ai_title": "Revolut отримав дозвіл на надання криптопослуг в ОАЕ"
-    },
     {
       "title": "Two Groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
       "link": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
@@ -2065,6 +2047,33 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Трейдери на платформі Polymarket суттєво знизили прогнози щодо успішного прийняття законопроєкту Clarity Act. Це пов'язано з тривалими затримками в розгляді документа Сенатом США.",
       "ai_title": "Шанси на ухвалення закону Clarity Act впали до мінімуму"
+    },
+    {
+      "title": "Consensys unknowingly outsourced developer work to North Korean",
+      "link": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys unknowingly outsourced developer work to North Korean\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hacker-interview.png\" /></p><p>Through an introduction with a “reputable third-party service provider,“ the company took on a developer who, as part of an investigation, was revea",
+      "published": "2026-07-17T19:33:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Consensys через ненадійного посередника випадково працевлаштувала розробника, який виявився громадянином Північної Кореї. Це підкреслює серйозні ризики безпеки при залученні сторонніх фахівців у криптоіндустрії.",
+      "ai_title": "Consensys найняла північнокорейського хакера під виглядом розробника"
+    },
+    {
+      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
+      "link": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: When dollars disappear, stablecoins step in\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-dollar-1.jpg\" /></p><p>Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor scrutiny.</p>",
+      "published": "2026-07-17T19:23:53+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Болівія почала офіційно визнавати USDT на тлі гострого дефіциту доларів у країні. Тим часом інвестори прискіпливо вивчають спроби майнерів біткоїна переорієнтуватися на сферу штучного інтелекту.",
+      "ai_title": "Стейблкоїни стають заміною долара в країнах з дефіцитом валюти"
+    },
+    {
+      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
+      "link": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy lands 15-year Texas Tech stadium naming rights deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-nfl-players-choosing-crypto-over-cash2.png\" /></p><p>Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state ",
+      "published": "2026-07-17T20:03:32+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптогігант Galaxy Digital підписав 15-річну угоду про спонсорство, згідно з якою футбольний стадіон університету отримає нову назву. Цей крок дозволить компанії значно розширити свій вплив у штаті Техас.",
+      "ai_title": "Galaxy Digital дасть назву стадіону Техаського технологічного університету"
     }
   ]
 }
