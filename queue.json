@@ -1,60 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Valve says iFixit will keep selling Steam Deck batteries after all",
-      "link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
-      "summary": "Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It would have meant you could no longer just buy a battery from iFixit and install it yourself. Why would Valve stop [&#8230;]",
-      "published": "2026-07-15T22:16:46+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія змінила своє рішення щодо припинення підтримки заміни батарей для Steam Deck LCD. Завдяки співпраці з iFixit користувачі й надалі зможуть самостійно купувати та замінювати акумулятори у своїх пристроях.",
-      "ai_title": "Valve залишає у продажу акумулятори для Steam Deck"
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "link": "https://mort.coffee/home/sqlite-editions/",
-      "summary": "<p>Article URL: <a href=\"https://mort.coffee/home/sqlite-editions/\">https://mort.coffee/home/sqlite-editions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928135\">https://news.ycombinator.com/item?id=48928135</a></p>\n<p>Points: 43</p>\n<p># Comments: 21</p>",
-      "published": "2026-07-15T22:42:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує можливість впровадження системи версійних видань для SQLite, подібно до того, як це реалізовано в мові Rust. Такий підхід міг би допомогти вдосконалити еволюцію бази даних, зберігаючи при цьому зворотну сумісність.",
-      "ai_title": "Чи потрібні SQLite «видання» за прикладом Rust?"
-    },
-    {
-      "title": "LLM Networking with MikroTik",
-      "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "summary": "<p>Article URL: <a href=\"https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html\">https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927915\">https://news.ycombinator.com/item?id=48927915</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-15T22:23:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті розглядається нестандартний підхід до інтеграції великих мовних моделей у мережеву інфраструктуру на базі MikroTik. Це цікавий кейс для інженерів, які шукають способи автоматизації мереж за допомогою сучасного ШІ.",
-      "ai_title": "Використання мережевого обладнання MikroTik для LLM"
-    },
-    {
-      "title": "P2P local file transfer based on WebRTC",
-      "link": "https://pairdrop.net/",
-      "summary": "<p>Article URL: <a href=\"https://pairdrop.net/\">https://pairdrop.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927900\">https://news.ycombinator.com/item?id=48927900</a></p>\n<p>Points: 12</p>\n<p># Comments: 9</p>",
-      "published": "2026-07-15T22:22:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "PairDrop пропонує зручне рішення для локального обміну файлами між пристроями за допомогою технології WebRTC. Це дозволяє передавати дані напряму між користувачами без проміжних серверів, забезпечуючи швидкість і приватність.",
-      "ai_title": "P2P-передача файлів через WebRTC"
-    },
-    {
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
-      "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "summary": "<p>Article URL: <a href=\"https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials\">https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928313\">https://news.ycombinator.com/item?id=48928313</a></p>\n<p>Points: 11</p>\n<p># ",
-      "published": "2026-07-15T23:00:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Матеріали з металоорганічними каркасами відкривають неймовірні можливості для зберігання газів, фільтрації та інших високотехнологічних галузей. Дослідники з Берклі розповідають про те, чому ці структури вважаються проривними для майбутнього матеріалознавства.",
-      "ai_title": "Металоорганічні каркаси: нове диво хімічної інженерії"
-    },
-    {
-      "title": "The Anti-Mac User Interface (1996)",
-      "link": "https://www.nngroup.com/articles/anti-mac-interface/",
-      "summary": "<p>Article URL: <a href=\"https://www.nngroup.com/articles/anti-mac-interface/\">https://www.nngroup.com/articles/anti-mac-interface/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928234\">https://news.ycombinator.com/item?id=48928234</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-15T22:52:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ця архівна стаття аналізує концепції інтерфейсу користувача, що суперечили філософії дизайну Apple того часу. Це корисний екскурс в історію UI/UX, який допомагає краще зрозуміти еволюцію стандартів взаємодії з комп'ютерами.",
-      "ai_title": "Критика інтерфейсу Apple 1996 року"
-    },
-    {
       "title": "An Interactive Map of AI",
       "link": "https://artifipedia.com/map",
       "summary": "<p>Article URL: <a href=\"https://artifipedia.com/map\">https://artifipedia.com/map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930160\">https://news.ycombinator.com/item?id=48930160</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
@@ -917,18 +863,45 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Автор аналізує розрив між тривогою звичайних людей щодо впровадження штучного інтелекту та ентузіазмом технологічних компаній. Стаття досліджує, чому розробники ігнорують соціальний дискомфорт, нав’язуючи ШІ-інструменти в усіх сферах життя.",
       "ai_title": "Чому суспільство з пересторогою ставиться до ШІ, а корпорації — ні"
+    },
+    {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "summary": "<p>Article URL: <a href=\"https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\">https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952880\">https://news.ycombinator.com/item",
+      "published": "2026-07-17T22:26:30+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Медперсонал Kaiser заявляє, що впровадження систем штучного інтелекту та постійний нагляд за роботою негативно впливають на якість догляду за пацієнтами. Працівники переконані, що ці технології не покращують умови праці, а лише додають стресу та бюрократичних перепон.",
+      "ai_title": "Медсестри скаржаться на ШІ та посилений нагляд на робочому місці"
+    },
+    {
+      "title": "Open Book Touch: open-source e-reader",
+      "link": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "summary": "<p>Article URL: <a href=\"https://www.crowdsupply.com/oddly-specific-objects/open-book-touch\">https://www.crowdsupply.com/oddly-specific-objects/open-book-touch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952135\">https://news.ycombinator.com/item?id=48952135</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-17T20:47:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено Open Book Touch — електронну книжку з повністю відкритим апаратним та програмним забезпеченням. Проєкт орієнтований на користувачів, які цінують приватність та можливість глибокої кастомізації своїх пристроїв.",
+      "ai_title": "Open Book Touch: новий пристрій для читання з відкритим кодом"
+    },
+    {
+      "title": "Topcoat: The full full-stack framework for Rust",
+      "link": "https://github.com/tokio-rs/topcoat",
+      "summary": "<p>Article URL: <a href=\"https://github.com/tokio-rs/topcoat\">https://github.com/tokio-rs/topcoat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952067\">https://news.ycombinator.com/item?id=48952067</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-17T20:41:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Випущено Topcoat — комплексний фреймворк для розробки повноцінних вебдодатків на мові програмування Rust. Інструмент має на меті спростити створення масштабованих та продуктивних проєктів «full-stack» рівня.",
+      "ai_title": "Topcoat: новий full-stack фреймворк для мови Rust"
+    },
+    {
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "link": "https://curiouscoding.nl/posts/static-search-tree/",
+      "summary": "<p>Article URL: <a href=\"https://curiouscoding.nl/posts/static-search-tree/\">https://curiouscoding.nl/posts/static-search-tree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951898\">https://news.ycombinator.com/item?id=48951898</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-17T20:24:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження демонструє переваги використання статичних дерев пошуку порівняно з класичним бінарним алгоритмом. Оптимізація структури даних дозволяє досягти значного пришвидшення операцій пошуку в певних сценаріях використання.",
+      "ai_title": "Статичні дерева пошуку працюють у 40 разів швидше за бінарний пошук"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "summary": "<p>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid",
-      "published": "2026-07-15T22:24:17+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Більшість корпорацій сьогодні видають звичайні чат-боти за повноцінні ШІ-агенти, хоча реальні потреби бізнесу вимагають складного багатокрокового виконання завдань. Лідером у цій сфері стає платформа Anthropic Claude, проте розрив між амбіціями щодо впровадження агентів та технічними можливостями залишається значним.",
-      "ai_title": "Проблема ШІ-агентів у бізнесі: чому компанії плутають чат-ботів з реальними помічниками"
-    },
     {
       "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A",
       "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
@@ -1369,6 +1342,24 @@
       "source": "TechCrunch",
       "ai_summary": "Автоматична транскрипція та резюмування будь-яких розмов у Zoom ставить під сумнів доцільність тотального запису комунікацій. Існує ризик, що надмірна кількість даних перетворюється на інформаційний шум, який ніхто не аналізує, порушуючи при цьому право на приватність.",
       "ai_title": "Проблема конфіденційності у цифрову епоху: чому варто обмежити запис розмов"
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "published": "2026-07-17T22:55:09+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Vertu пропонує преміальний складний смартфон з інтегрованим AI-агентом за 6880 доларів. Огляд демонструє реальну ефективність пристрою, зосереджуючись на його автономності, безпеці та можливостях автоматизації робочих процесів для бізнес-користувачів.",
+      "ai_title": "Штучний інтелект у розкоші: огляд AI-агента від Vertu"
+    },
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "published": "2026-07-17T22:12:56+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Databricks успішно трансформувала свій бізнес, ставши ключовим гравцем у сфері штучного інтелекту. Останні дослідження компанії підкреслюють економічні переваги використання відкритих AI-моделей для написання коду, що значно зміцнює її ринкові позиції.",
+      "ai_title": "Databricks оцінили у 188 мільярдів доларів завдяки фокусу на AI"
     }
   ],
   "Крипта": [
