@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "CVE-2026-59208: Cross-Issuer Account Takeover in n8n",
-      "link": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
-      "summary": "<p>Article URL: <a href=\"https://www.strix.ai/blog/n8n-cross-issuer-account-takeover\">https://www.strix.ai/blog/n8n-cross-issuer-account-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48921422\">https://news.ycombinator.com/item?id=48921422</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-15T14:30:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Виявлено вразливість, що дозволяє зловмисникам здійснити захоплення облікових записів у сервісі автоматизації n8n. Користувачам наполегливо рекомендується перевірити свої системи на наявність цього недоліку безпеки.",
-      "ai_title": "Критична вразливість CVE-2026-59208 у платформі n8n"
-    },
-    {
-      "title": "Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU",
-      "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "summary": "<p>Article URL: <a href=\"https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/\">https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922434\">https://news.ycombinator.com/item?id=48922434</a></p>\n<p>Points: 21</p>\n<",
-      "published": "2026-07-15T15:34:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти продемонстрували можливість запуску великої мовної моделі Gemma 4 26B на 13-річному процесорі Intel Xeon. Система досягає швидкості генерації 5 токенів на секунду, що доводить ефективність оптимізації ШІ для старого обладнання без використання GPU.",
-      "ai_title": "Запуск Gemma 4 26B на застарілому процесорі без відеокарти"
-    },
-    {
       "title": "Open-source memory for coding agents, synced over SSH",
       "link": "https://github.com/vshulcz/deja-vu/",
       "summary": "<p>Article URL: <a href=\"https://github.com/vshulcz/deja-vu/\">https://github.com/vshulcz/deja-vu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923111\">https://news.ycombinator.com/item?id=48923111</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
@@ -926,72 +908,54 @@
       "source": "The Verge",
       "ai_summary": "Останні тести показують, що 8 ГБ оперативної пам'яті недостатньо для комфортної роботи Windows 11 навіть на сучасних ноутбуках Microsoft. Це ставить під сумнів доцільність продажу базових конфігурацій пристроїв з таким обсягом пам'яті.",
       "ai_title": "Windows 11 та обмеження 8 ГБ оперативної пам'яті"
+    },
+    {
+      "title": "Mozilla: The state of open source AI",
+      "link": "https://stateofopensource.ai/",
+      "summary": "<p>Article URL: <a href=\"https://stateofopensource.ai/\">https://stateofopensource.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947825\">https://news.ycombinator.com/item?id=48947825</a></p>\n<p>Points: 86</p>\n<p># Comments: 39</p>",
+      "published": "2026-07-17T14:31:10+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітичний звіт Mozilla про поточний стан індустрії відкритого штучного інтелекту. Дослідження фокусується на викликах та можливостях для спільнот, що розвивають прозорі технології ШІ.",
+      "ai_title": "Mozilla: Стан відкритого ШІ"
+    },
+    {
+      "title": "Show HN: On-chain bond market where the issuers are AI agents",
+      "link": "https://selbonds.now",
+      "summary": "<p>Hi Hacker News, I built sellbonds.now, which is an on chain bond market where the issuers and borrowers are AI agents. sellbonds.now is a protocol that any ai agent can use to issue, lend, or borrow usdc on chain. \nI'm fascinated by the idea of agentic autonomous finance - a future where AI agents aren't acting on behalf of humans, but where they are autonomous financial actors themselves, issu",
+      "published": "2026-07-17T14:25:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив платформу, де ШІ-агенти можуть самостійно випускати, позичати або кредитувати активи в мережі. Це крок до концепції автономних фінансів, де ШІ діє як незалежний фінансовий суб'єкт.",
+      "ai_title": "Ринок облігацій для автономних ШІ-агентів"
+    },
+    {
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "summary": "<p>Article URL: <a href=\"https://blog.zksecurity.xyz/posts/openvm-bugs/\">https://blog.zksecurity.xyz/posts/openvm-bugs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947714\">https://news.ycombinator.com/item?id=48947714</a></p>\n<p>Points: 24</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-17T14:21:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття описує досвід застосування ШІ для пошуку помилок у ZkVM (Zero-Knowledge Virtual Machine) від OpenVM. Результати демонструють ефективність автоматизованих інструментів у виявленні вразливостей складних криптографічних систем.",
+      "ai_title": "ШІ шукає вразливості в криптографії OpenVM"
+    },
+    {
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "link": "https://honeypotlive.cc/",
+      "summary": "<p>Article URL: <a href=\"https://honeypotlive.cc/\">https://honeypotlive.cc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947548\">https://news.ycombinator.com/item?id=48947548</a></p>\n<p>Points: 40</p>\n<p># Comments: 10</p>",
+      "published": "2026-07-17T14:05:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт «Honeypot Live» дозволяє побачити взаємодію зловмисних ботів з SSH-пасткою у реальному часі. Це наочний інструмент для розуміння методів автоматизованих атак на мережеву інфраструктуру.",
+      "ai_title": "Спостереження за ботами в реальному часі через SSH-пастку"
+    },
+    {
+      "title": "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware",
+      "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
+      "summary": "Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 [&#8230;]",
+      "published": "2026-07-17T15:34:35+00:00",
+      "source": "The Verge",
+      "ai_summary": "У США заарештували чоловіка, який через заражені ігри в Steam викрав понад 220 000 доларів у криптовалюті. Зловмисники поширювали шкідливий код, що дозволяв отримати доступ до цифрових гаманців близько 8 000 користувачів.",
+      "ai_title": "Криптовалютне шахрайство через шкідливе ПЗ у Steam"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
-      "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
-      "summary": "Stripe and private equity firm Advent International have reportedly submitted a joint bid to acquire PayPal in a deal valued at approximately $53.4 billion.&#160; Reuters reports that the offer was submitted earlier this month and is backed by roughly $50 billion in committed bank financing. Under the proposal, Stripe and Advent would jointly own PayPal, [&#8230;]",
-      "published": "2026-07-15T15:30:26+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Stripe спільно з інвестиційною компанією Advent International зробили пропозицію про купівлю платіжного гіганта PayPal. Угода вартістю понад 53 мільярди доларів підкріплена значним банківським фінансуванням, що може суттєво змінити ринок онлайн-платежів.",
-      "ai_title": "Stripe та Advent планують поглинання PayPal за $53,4 млрд"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most important markets.",
-      "published": "2026-07-15T15:29:33+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Apple отримала дозвіл регуляторів на запуск своїх ШІ-функцій у Китаї завдяки інтеграції моделей Qwen від Alibaba. Це стратегічний крок, що дозволяє компанії впровадити генеративний штучний інтелект на одному зі своїх ключових ринків.",
-      "ai_title": "Apple Intelligence виходить на китайський ринок через партнерство з Alibaba"
-    },
-    {
-      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
-      "link": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
-      "summary": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
-      "published": "2026-07-15T14:39:52+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Уряд Індії запускає масштабні програми підтримки виробництва смартфонів та напівпровідників на суму майже 20 мільярдів доларів. Мета проєкту — посилити національний ланцюг постачання електроніки та зменшити залежність від китайського виробництва.",
-      "ai_title": "Індія інвестує мільярди для витіснення Китаю з ринку виробництва смартфонів"
-    },
-    {
-      "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims",
-      "link": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
-      "summary": "The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.",
-      "published": "2026-07-15T14:21:49+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Влада США розсекретила справу проти трьох громадян РФ та двох вебхостингів, які сприяли кіберзлочинній діяльності. Зловмисники допомагали хакерам уникнути відстеження, заробивши на цьому понад 62 мільйони доларів.",
-      "ai_title": "США висунули звинувачення операторам «захищених» хостингів, що допомагали хакерам"
-    },
-    {
-      "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
-      "link": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
-      "summary": "<p>Organizations need to transform to meet the needs of agentic AI.</p><p>Meta VP of Engineering Barak Yagour opened his talk at<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a> wearing a pair of Ray-Ban Meta AI glasses, a small sign of how far AI has already worked its way into physical life. His argument went further: enterprise infrastructure was built for humans, not for",
-      "published": "2026-07-15T14:59:15+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Віцепрезидент Meta наголосив, що сучасна корпоративна інфраструктура застаріла, оскільки створювалася для людей, а не для автономних ШІ-агентів. Бізнесу необхідно терміново модернізувати свої технологічні потужності, щоб встигнути за темпами розвитку штучного інтелекту.",
-      "ai_title": "Meta попереджає: у компаній є лише 20 місяців на адаптацію інфраструктури до ШІ-агентів"
-    },
-    {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "published": "2026-07-15T16:20:18+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Під час щомісячного оновлення безпеки Microsoft виправила 570 вразливостей у своїх продуктах. Компанія заявила, що досягти таких показників вдалося завдяки інтеграції інструментів штучного інтелекту у процес пошуку недоліків.",
-      "ai_title": "Microsoft усунула рекордну кількість вразливостей за допомогою ШІ"
-    },
-    {
-      "title": "Spotify expands parent-managed accounts to users on its free tier",
-      "link": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
-      "summary": "The feature was previously only available to paid subscribers.",
-      "published": "2026-07-15T14:42:10+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стрімінговий сервіс зробив доступними керовані батьками облікові записи для всіх користувачів, а не лише для передплатників Premium. Це дозволяє краще контролювати контент, який споживають діти на платформі.",
-      "ai_title": "Spotify розширює функцію батьківського контролю на безкоштовні акаунти"
-    },
     {
       "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
       "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
@@ -1414,45 +1378,45 @@
       "source": "TechCrunch",
       "ai_summary": "Фінансові установи, що раніше інвестували в графічні процесори, переходять до фінансування спеціалізованих чипів для виводу (inference) штучного інтелекту. Ця угода вартістю 400 мільйонів доларів свідчить про зміну пріоритетів у формуванні інфраструктури для розвитку ШІ-технологій.",
       "ai_title": "Інвестори переорієнтовуються на чипи для виводу ШІ у межах угоди на $400 млн"
+    },
+    {
+      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+      "link": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "summary": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
+      "published": "2026-07-17T15:29:21+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Клієнти хмарного сервісу Amazon зіткнулися з помилкою у системі білінгу, яка відображала астрономічні суми заборгованості. Компанія оперативно відреагувала на збій, щоб усунути некоректні нарахування.",
+      "ai_title": "Amazon виправила баг, через який клієнти AWS отримували рахунки на мільярди доларів"
+    },
+    {
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+      "published": "2026-07-17T15:21:17+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа Patreon посилила захист контенту авторів, перейшовши від пасивних заборон до активного блокування ботів через інструменти Cloudflare. Це дозволить запобігти несанкціонованому використанню робіт творців для навчання штучного інтелекту.",
+      "ai_title": "Patreon починає активно блокувати AI-ботів замість того, щоб просто просити їх не збирати дані"
+    },
+    {
+      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+      "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "summary": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being held to seed-stage [&#8230;]",
+      "published": "2026-07-17T14:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На конференції Disrupt експерти пояснюють, як переконати інвесторів у своїй ідеї в умовах перенасиченого ринку AI-стартапів. Ключовими інструментами для засновників на ранніх етапах стають майстерність сторітелінгу та впевненість у власному баченні.",
+      "ai_title": "Як залучити pre-seed інвестиції, навіть якщо у вас ще немає готового продукту"
+    },
+    {
+      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
+      "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+      "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
+      "published": "2026-07-17T14:12:02+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Автономний автомобіль компанії Zoox розгубився під час руху через густий дим, що стало приводом для примусового оновлення ПЗ. Регулятори вимагають від розробників безпілотників покращити взаємодію машин з екстреними службами.",
+      "ai_title": "Zoox відкликає програмне забезпечення своїх роботаксі через небезпечну реакцію на дим"
     }
   ],
   "Крипта": [
-    {
-      "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
-      "link": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
-      "summary": "",
-      "published": "2026-07-15T15:27:43+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Протокол Ostium став черговою жертвою масштабної хвилі атак на оракули в секторі децентралізованих фінансів. Зловмисники використали вразливість, що призвела до виведення 18 мільйонів доларів у криптовалюті.",
-      "ai_title": "DeFi-протокол Ostium втратив 18 мільйонів доларів через хакерську атаку"
-    },
-    {
-      "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
-      "link": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
-      "summary": "",
-      "published": "2026-07-15T14:35:26+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Уряд Південної Кореї готується оновити 76-річне законодавство, щоб надати криптовалютам офіційний статус національних активів. Це рішення спрямоване на зміцнення правової бази для регулювання цифрових фінансових інструментів у країні.",
-      "ai_title": "Південна Корея визнає криптовалюти національними активами"
-    },
-    {
-      "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
-      "link": "https://cointelegraph.com/markets/bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/7552b571-76b5-4748-93ec-700e9cd6eeff-2.png\" /></p><p>Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers provided the week’s seco",
-      "published": "2026-07-15T14:45:28+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Ціна головної криптовалюти досягла тритижневого максимуму після публікації несподіваних даних щодо індексу цін виробників у США. Позитивні макроекономічні звіти стимулювали активність інвесторів та зростання ринку.",
-      "ai_title": "Біткоїн сягнув позначки 65 500 доларів на фоні даних про інфляцію в США"
-    },
-    {
-      "title": "White House expected to meet with senators to work on ethics concerns in crypto bill",
-      "link": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
-      "summary": "",
-      "published": "2026-07-15T14:37:36+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Адміністрація президента США планує провести зустріч із сенаторами для доопрацювання етичних норм у новому законопроєкті про криптовалюти. Головна мета — збалансувати інновації та безпеку для користувачів цифрових активів.",
-      "ai_title": "Білий дім обговорить етичні стандарти для криптозаконодавства"
-    },
     {
       "title": "Securitize, Cantor target tokenized IPOs for public markets",
       "link": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1470,15 +1434,6 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Протокол Aave запустив четверту версію свого продукту в мережі Avalanche, що стало першим виходом за межі екосистеми Ethereum. Оновлення закладає фундамент для розвитку ринків токенізованого кредитування.",
       "ai_title": "Aave V4 розширює свою присутність у мережі Avalanche"
-    },
-    {
-      "title": "Crypto Long & Short: To ETH or not to ETH — is SOL the better diversifier?",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
-      "summary": "",
-      "published": "2026-07-15T14:58:09+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики обговорюють доцільність вибору між Ethereum та Solana як основними активами для криптоінвесторів. Стаття порівнює потенціал та ризики кожного з активів у контексті поточної ринкової ситуації.",
-      "ai_title": "Ethereum чи Solana: хто краще підходить для диверсифікації портфеля?"
     },
     {
       "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
@@ -2119,6 +2074,42 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Новий китайський ШІ-інструмент Kimi показав кращі результати у тестах на написання коду, ніж лідери ринку Claude та GPT. Це створює нові виклики для крипторинку, оскільки технологічний прогрес ШІ може впливати на безпеку та розвиток блокчейн-мереж.",
       "ai_title": "Біткоїн під тиском: китайський ШІ Kimi перевершив GPT у кодуванні"
+    },
+    {
+      "title": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
+      "link": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
+      "summary": "",
+      "published": "2026-07-17T15:36:39+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Популярна торгова платформа робить масштабну ставку на децентралізовані фінанси, намагаючись спростити доступ до них для звичайних користувачів. Компанія планує інтегрувати складні DeFi-інструменти у свій інтерфейс, щоб зробити їх зрозумілими для масового інвестора.",
+      "ai_title": "Robinhood прагне залучити 10 мільйонів нових користувачів у DeFi"
+    },
+    {
+      "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
+      "link": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
+      "summary": "",
+      "published": "2026-07-17T13:46:46+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фінансовий гігант SBI Group активно розвиває інфраструктуру для роботи з цифровими активами в масштабах усього азійського регіону. Ініціатива спрямована на створення мережі, що дозволить проводити транскордонні операції з активами на базі блокчейн-технологій.",
+      "ai_title": "Японська SBI Group будує першу в Азії транскордонну імперію цифрових активів"
+    },
+    {
+      "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/16codemonitor-bitcoin.jpg\" /></p><p>Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its ",
+      "published": "2026-07-17T14:37:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс головної криптовалюти знизився на фоні побоювань щодо конфлікту між Іраном та Ізраїлем, що також негативно вплинуло на фондові ринки США. Біткоїн продемонстрував кореляцію з традиційними акціями, відреагувавши на посилення глобальної ризикової ситуації.",
+      "ai_title": "Ціна біткоїна впала нижче 62,5 тисяч доларів через геополітичну напруженість"
+    },
+    {
+      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
+      "link": "https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-why-crypto-companies-are-flocking-to-bvi-or-similar.jpg\" /></p><p>Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands —",
+      "published": "2026-07-17T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Відомі криптобіржі, такі як Kraken, Bitstamp та Bitfinex, активно відкривають свої представництва на Британських Віргінських островах. Юрисдикція приваблює компанії завдяки сприятливому регуляторному середовищу та спеціалізованим умовам для блокчейн-бізнесу.",
+      "ai_title": "Чому Британські Віргінські острови стали прихованим центром для криптокомпаній"
     }
   ]
 }
