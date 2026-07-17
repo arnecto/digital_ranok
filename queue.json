@@ -1,78 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Open-source memory for coding agents, synced over SSH",
-      "link": "https://github.com/vshulcz/deja-vu/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/vshulcz/deja-vu/\">https://github.com/vshulcz/deja-vu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923111\">https://news.ycombinator.com/item?id=48923111</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
-      "published": "2026-07-15T16:15:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено інструмент з відкритим вихідним кодом, який дозволяє AI-агентам мати «пам'ять», синхронізовану через SSH. Це значно спрощує взаємодію між різними середовищами розробки та дозволяє агентам краще зберігати контекст завдань.",
-      "ai_title": "Open-source рішення для пам'яті AI-агентів через SSH"
-    },
-    {
-      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "link": "https://coasty.ai/docs",
-      "summary": "<p>Hey HN, we’re Nitish and Prateek, the founders of Coasty (<a href=\"https://coasty.ai/computer-use\">https://coasty.ai/computer-use</a>). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs.<p>Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or brow",
-      "published": "2026-07-15T15:51:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стартап Coasty представив платформу, що дозволяє AI-агентам автоматизувати роботу в застарілому програмному забезпеченні, яке не має офіційних API. Агенти імітують дії користувача, виконуючи складні робочі процеси на основі текстових інструкцій.",
-      "ai_title": "Coasty: API для керування комп'ютером за допомогою агентів"
-    },
-    {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
-      "published": "2026-07-15T16:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "OpenAI випустила фізичний пристрій під назвою Codex Micro, призначений для інтеграції з платформою Codex. Це квадратний блок з кнопками, що має полегшити робочий процес розробників, які використовують ШІ-інструменти для написання коду.",
-      "ai_title": "OpenAI представила Codex Micro — спеціалізований контролер для програмування"
-    },
-    {
-      "title": "J-space comparisons across open models",
-      "link": "https://eliebak.com/viz/jspace-open-v2",
-      "summary": "<p>Article URL: <a href=\"https://eliebak.com/viz/jspace-open-v2\">https://eliebak.com/viz/jspace-open-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922803\">https://news.ycombinator.com/item?id=48922803</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-15T15:57:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Опубліковано порівняльне дослідження, що візуалізує внутрішні представлення знань (J-space) у різних відкритих моделях штучного інтелекту. Це дозволяє краще зрозуміти, як різні архітектури обробляють інформацію та чим відрізняються їхні підходи до вирішення завдань.",
-      "ai_title": "Аналіз J-простору відкритих ШІ-моделей"
-    },
-    {
-      "title": "A General Goal-Conditioned Minecraft Model",
-      "link": "https://pantograph.com/journal/pan-1",
-      "summary": "<p>Article URL: <a href=\"https://pantograph.com/journal/pan-1\">https://pantograph.com/journal/pan-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923412\">https://news.ycombinator.com/item?id=48923412</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
-      "published": "2026-07-15T16:35:09+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили нову модель штучного інтелекту, здатну виконувати різноманітні цільові завдання у всесвіті Minecraft. Це значний крок вперед у створенні агентів, які можуть розуміти контекст та досягати складних ігрових цілей.",
-      "ai_title": "Універсальна модель AI для гри в Minecraft"
-    },
-    {
-      "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
-      "link": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
-      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free\">https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923363\">https://news.ycombinator.com/item?id=48923363</a></p>\n<p>Points: 31</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-15T16:32:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Остання версія операційної системи FreeBSD остаточно виключила код, ліцензований за правилами GPL, зі своєї базової системи. Це важлива віха для проєкту, що прагне до повної незалежності в ліцензуванні та архітектурної чистоти.",
-      "ai_title": "FreeBSD 16 повністю позбулася коду під ліцензією GPL"
-    },
-    {
-      "title": "Unsolved Problems in MLOps",
-      "link": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
-      "summary": "<p>Article URL: <a href=\"https://spawn-queue.acm.org/doi/pdf/10.1145/3762989\">https://spawn-queue.acm.org/doi/pdf/10.1145/3762989</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923109\">https://news.ycombinator.com/item?id=48923109</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-15T16:15:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття аналізує виклики, з якими стикаються спеціалісти при масштабуванні та впровадженні моделей машинного навчання у виробництво. Основна увага приділяється труднощам моніторингу, відтворюваності процесів та автоматизації життєвого циклу AI-проєктів.",
-      "ai_title": "Актуальні невирішені проблеми в MLOps"
-    },
-    {
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-      "link": "https://github.com/welcome-to-the-sunny-side/misa77",
-      "summary": "<p>I've spent the last few months working on this codec.<p>It has the following characteristics:<p><pre><code>  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort levels)\n  - Slow compression\n</code></pre>\nMost of the gains can be attributed to reducing branches and making decompression very friendly to out-of-order cores, by using a smart format",
-      "published": "2026-07-15T15:58:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено інноваційний кодек, який забезпечує швидкість декомпресії, що значно перевершує показники популярного алгоритму LZ4. Попри повільну швидкість стиснення, він демонструє виняткову ефективність при читанні даних завдяки оптимізації під архітектури процесорів з позачерговим виконанням команд.",
-      "ai_title": "Новий кодек misa77: удвічі швидша декомпресія"
-    },
-    {
       "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
       "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
       "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
@@ -953,6 +881,51 @@
       "source": "The Verge",
       "ai_summary": "У США заарештували чоловіка, який через заражені ігри в Steam викрав понад 220 000 доларів у криптовалюті. Зловмисники поширювали шкідливий код, що дозволяв отримати доступ до цифрових гаманців близько 8 000 користувачів.",
       "ai_title": "Криптовалютне шахрайство через шкідливе ПЗ у Steam"
+    },
+    {
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "link": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "summary": "<p>Article URL: <a href=\"https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/\">https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947776\">https://news.ycombinator.com/item?id=48947776</a></p>\n<p>Points: 84</p>\n<p># Comments: 46</p>",
+      "published": "2026-07-17T14:26:58+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті детально розглядаються потенційні проблеми та невдалі дизайнерські рішення в інструменті Claude Code. Автор критично аналізує функціональність ШІ-асистента для програмування та його вплив на робочі процеси розробників.",
+      "ai_title": "Аналіз недоліків Claude Code"
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">https://simonwillison.net/2026/Jul/16/kimi-k3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947717\">https://news.ycombinator.com/item?id=48947717</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
+      "published": "2026-07-17T14:21:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Огляд нової мовної моделі Kimi K3 та аналіз того, як застарілі методи тестування, такі як бенчмарк Pelican, все ще можуть давати цінні інсайти. Автор досліджує еволюцію оцінки можливостей штучного інтелекту.",
+      "ai_title": "Модель Kimi K3 та уроки бенчмарку Pelican"
+    },
+    {
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cy4kdd1e0ejo\">https://www.bbc.com/news/articles/cy4kdd1e0ejo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947560\">https://news.ycombinator.com/item?id=48947560</a></p>\n<p>Points: 95</p>\n<p># Comments: 73</p>",
+      "published": "2026-07-17T14:06:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Астрономи вперше зафіксували наявність атмосфери на планеті, схожій на Землю, яка розташована в придатній для життя зоні віддаленої зірки. Це відкриття є важливим кроком у пошуках життя за межами нашої Сонячної системи.",
+      "ai_title": "Виявлено атмосферу на екзопланеті земного типу"
+    },
+    {
+      "title": "A Road to Lisp: Which Lisp",
+      "link": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "summary": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-17-which-lisp/\">https://scotto.me/blog/2026-07-17-which-lisp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947455\">https://news.ycombinator.com/item?id=48947455</a></p>\n<p>Points: 63</p>\n<p># Comments: 29</p>",
+      "published": "2026-07-17T13:56:04+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Путівник для розробників, які бажають вивчити сімейство мов програмування Lisp. Стаття допомагає зорієнтуватися в різноманітті діалектів та обрати оптимальний варіант для старту.",
+      "ai_title": "Шлях до Lisp: вибір правильного діалекту"
+    },
+    {
+      "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
+      "link": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
+      "summary": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs, including a Qualcomm [&#8230;]",
+      "published": "2026-07-17T15:52:50+00:00",
+      "source": "The Verge",
+      "ai_summary": "Напередодні офіційної презентації в мережу потрапили зображення та характеристики оновленого смартфона Samsung Galaxy Z Fold 8. Нова модель вирізняється зміненим форм-фактором із ширшим дисплеєм.",
+      "ai_title": "Витік даних: новий Samsung Galaxy Z Fold 8"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1414,36 +1387,36 @@
       "source": "TechCrunch",
       "ai_summary": "Автономний автомобіль компанії Zoox розгубився під час руху через густий дим, що стало приводом для примусового оновлення ПЗ. Регулятори вимагають від розробників безпілотників покращити взаємодію машин з екстреними службами.",
       "ai_title": "Zoox відкликає програмне забезпечення своїх роботаксі через небезпечну реакцію на дим"
+    },
+    {
+      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+      "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+      "summary": "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
+      "published": "2026-07-17T16:18:09+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "21-річний студент поширював через Steam відеоігри з прихованим шкідливим програмним забезпеченням. Завдяки цьому він інфікував тисячі комп'ютерів та викрадав криптовалютні активи користувачів.",
+      "ai_title": "ФБР затримало розробника фейкових ігор у Steam, який викрадав криптовалюту"
+    },
+    {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "link": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "published": "2026-07-17T16:12:46+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "У відповідь на запит батьків на обмеження доступу до небезпечного контенту, з'являється все більше компаній, що випускають спеціалізовані девайси. Такі пристрої мають спрощений інтерфейс та мінімалістичний функціонал, що робить користування мережею безпечнішим для дітей.",
+      "ai_title": "Ринок дитячих смартфонів: стартапи створюють безпечні альтернативи для дітей"
+    },
+    {
+      "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
+      "link": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
+      "summary": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.",
+      "published": "2026-07-17T14:47:27+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія reMarkable випустила нову модель Paper Pro, яка прийшла на зміну популярному reMarkable 2. Оглядачі відзначають суттєві покращення пристрою, що робить його одним із найкращих рішень для цифрових нотаток.",
+      "ai_title": "Новий планшет reMarkable Paper Pro: огляд оновленого пристрою для нотаток"
     }
   ],
   "Крипта": [
-    {
-      "title": "Securitize, Cantor target tokenized IPOs for public markets",
-      "link": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Securitize, Cantor target tokenized IPOs for public markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ipo-models-that-exist.jpg\" /></p><p>Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities ",
-      "published": "2026-07-15T15:59:36+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанії об'єднують зусилля для створення інфраструктури, що дозволить проводити первинне публічне розміщення акцій (IPO) за допомогою блокчейн-технологій. Цей крок має спростити процес виходу на публічні ринки та забезпечити новий рівень ліквідності цінних паперів.",
-      "ai_title": "Cantor Fitzgerald та Securitize готують вихід на IPO через токенізацію"
-    },
-    {
-      "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
-      "link": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-credit-1.png\" /></p><p>The deployment marks Aave V4’s first expansion beyond Ethereum and introduces lending infrastructure designed to support futu",
-      "published": "2026-07-15T16:29:39+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Протокол Aave запустив четверту версію свого продукту в мережі Avalanche, що стало першим виходом за межі екосистеми Ethereum. Оновлення закладає фундамент для розвитку ринків токенізованого кредитування.",
-      "ai_title": "Aave V4 розширює свою присутність у мережі Avalanche"
-    },
-    {
-      "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
-      "link": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
-      "summary": "",
-      "published": "2026-07-15T17:02:22+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Американська компанія DTCC здійснила важливий крок для інтеграції блокчейну у фінансову систему Уолл-стріт. Тепер токенізовані цінні папери стали частиною реального торгового процесу, що знаменує новий етап цифровізації традиційних активів.",
-      "ai_title": "DTCC запустила токенізовані цінні папери в реальні торги"
-    },
     {
       "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
       "link": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
@@ -2110,6 +2083,15 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Відомі криптобіржі, такі як Kraken, Bitstamp та Bitfinex, активно відкривають свої представництва на Британських Віргінських островах. Юрисдикція приваблює компанії завдяки сприятливому регуляторному середовищу та спеціалізованим умовам для блокчейн-бізнесу.",
       "ai_title": "Чому Британські Віргінські острови стали прихованим центром для криптокомпаній"
+    },
+    {
+      "title": "Cardano hands core development to outside teams in decentralization push",
+      "link": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
+      "summary": "",
+      "published": "2026-07-17T16:23:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Команда Cardano передає управління розробкою основного протоколу стороннім організаціям. Цей крок є частиною стратегії з повної децентралізації екосистеми та зменшення залежності від головної компанії-розробника.",
+      "ai_title": "Cardano переходить до децентралізованої моделі розробки"
     }
   ]
 }
