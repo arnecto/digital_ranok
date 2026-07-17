@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Grok Build",
-      "link": "https://github.com/xai-org/grok-build",
-      "summary": "<p>Article URL: <a href=\"https://github.com/xai-org/grok-build\">https://github.com/xai-org/grok-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926590\">https://news.ycombinator.com/item?id=48926590</a></p>\n<p>Points: 65</p>\n<p># Comments: 70</p>",
-      "published": "2026-07-15T20:24:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія xAI виклала у відкритий доступ інструментарій Grok Build на GitHub. Це важливий крок для розробників, які прагнуть дослідити технології, що стоять за нейромережею Grok.",
-      "ai_title": "xAI відкриває вихідний код Grok Build"
-    },
-    {
-      "title": "Show HN: Firefox in WebAssembly",
-      "link": "https://developer.puter.com/labs/firefox-wasm/",
-      "summary": "<p>This is the entire Firefox browser rendering to a <canvas> element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly.<p>Here are a few things you might find interesting:<p>- This is fully end to end encrypted! We use the WISP protocol for TCP-over-websockets.<p>- There is a novel WASM->JS JIT for experimental site speedup<p>- This port cost ov",
-      "published": "2026-07-15T21:00:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти перенесли повноцінний браузер Firefox у середовище WebAssembly, дозволивши йому працювати безпосередньо в елементі HTML canvas. Проєкт використовує спеціальний JIT-компілятор та наскрізне шифрування для роботи.",
-      "ai_title": "Firefox успішно запущено через WebAssembly"
-    },
-    {
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
       "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
       "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the [&#8230;]",
@@ -953,18 +935,45 @@
       "source": "The Verge",
       "ai_summary": "Ерік Мігіковскі пояснює, що пропонує лише 30-денну гарантію на нові смартгодинники Pebble через акцент на особистій відповідальності перед клієнтами. На його думку, такий підхід будує міцнішу довіру між розробником і користувачем, ніж юридичні зобов'язання.",
       "ai_title": "Засновник Pebble про короткий гарантійний термін як інструмент довіри"
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]",
+      "published": "2026-07-17T19:34:30+00:00",
+      "source": "The Verge",
+      "ai_summary": "TikTok розпочав тестування нової функції, яка дозволяє авторам контенту сканувати відео на наявність AI-копій їхньої зовнішності. У разі виявлення несанкціонованого використання, творці можуть поскаржитися на такі матеріали до адміністрації платформи.",
+      "ai_title": "TikTok тестує інструмент для виявлення діпфейків"
+    },
+    {
+      "title": "ICE Flight Monitor Interactive Dashboard",
+      "link": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
+      "summary": "<p>Article URL: <a href=\"https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard\">https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951014\">https://news.ycombinator.com/item?id=48951014</a></p>\n<p>Points: 32</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-17T18:59:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Опубліковано інтерактивну панель, що дозволяє відстежувати польоти Імміграційної та митної служби США (ICE). Проєкт надає прозорий доступ до даних про переміщення літаків у межах державної міграційної політики.",
+      "ai_title": "Запущено інтерактивний моніторинг авіарейсів ICE"
+    },
+    {
+      "title": "Lego building instructions through time",
+      "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "summary": "<p>Article URL: <a href=\"https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time\">https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950518\">https://news.ycombinator.com/item?id=48950518</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-17T18:21:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Lego презентувала архівну ретроспективу, що показує, як змінювалися офіційні інструкції до наборів протягом десятиліть. Це цікавий погляд на розвиток технічного дизайну та візуальної комунікації бренду.",
+      "ai_title": "Еволюція інструкцій зі збирання Lego"
+    },
+    {
+      "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
+      "link": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+      "summary": "Portable fans are one of the easiest ways to stay cool during the summer, and you don&#8217;t have to spend much to find a decent one. If you&#8217;re looking for something more versatile, though, Shark&#8217;s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch evaporative mister in a design that can [&#8230;]",
+      "published": "2026-07-17T20:15:54+00:00",
+      "source": "The Verge",
+      "ai_summary": "Популярний персональний охолоджувач Shark ChillPill знову доступний зі знижкою. Пристрій поєднує можливості портативного вентилятора та системи випаровувального зволоження для ефективного охолодження в спеку.",
+      "ai_title": "Портативна система охолодження Shark ChillPill за зниженою ціною"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-      "published": "2026-07-15T20:22:52+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Національна рада з безпеки на транспорті підтвердила звіт Tesla щодо смертельної аварії в Техасі. Дані свідчать, що в момент зіткнення педаль газу була натиснута повністю, спростовуючи сумніви щодо справності системи.",
-      "ai_title": "NTSB підтвердило: водій Tesla тиснув на газ на 100% перед аварією"
-    },
     {
       "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
       "link": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
@@ -1387,6 +1396,33 @@
       "source": "TechCrunch",
       "ai_summary": "Стартап у сфері ядерних технологій Valar Atomics веде переговори про новий раунд фінансування. Ця угода підкреслює актуальний тренд на залучення капіталу через складні багатоетапні структури, що часто приховують реальну вартість активів.",
       "ai_title": "Ядерний стартап Valar Atomics готується до залучення інвестицій з оцінкою $6 млрд"
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+      "published": "2026-07-17T20:19:49+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Agility Robotics розширює свою присутність, відкриваючи новий навчальний центр для роботів Digit у Фрімонті, Каліфорнія. Це стратегічний крок, оскільки локація знаходиться в безпосередній близькості до виробничих потужностей Tesla.",
+      "ai_title": "Agility Robotics відкриває центр навчання роботів у «рідному місті» Tesla"
+    },
+    {
+      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+      "link": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+      "summary": "<p><a href=\"https://www.capitalone.com/\">Capital One</a> on Thursday released <a href=\"https://github.com/capitalone/vulnhunter\">VulnHunter</a>, an open-source, agentic AI security tool that scans source code for exploitable vulnerabilities, maps out how an attacker would reach them, and proposes targeted fixes — all before a single line ships to production. The tool, built internally and <a href=",
+      "published": "2026-07-17T20:51:30+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Capital One представила інструмент VulnHunter з відкритим кодом, який використовує агентний штучний інтелект для виявлення вразливостей ще до етапу релізу. Система не лише знаходить слабкі місця, а й пропонує конкретні способи їх виправлення.",
+      "ai_title": "Capital One випустила VulnHunter — AI-інструмент для пошуку вразливостей у коді"
+    },
+    {
+      "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
+      "link": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
+      "summary": "<p>Intuit was an<a href=\"https://venturebeat.com/ai/how-intuit-plans-to-use-agentic-ai-to-automate-complex-business-tasks\"> early pioneer</a> in the usage of agentic AI, but its path to success has hardly been a straight line.</p><p>At<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a>, Intuit VP of AI Nhung Ho described how the company rebuilt its agent architecture twice in ",
+      "published": "2026-07-17T20:46:55+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Віцепрезидентка з питань ШІ в Intuit пояснила, чому компанія двічі за чотири місяці повністю змінювала структуру своїх AI-агентів. Такий складний підхід, на думку керівництва, став найшвидшим шляхом до створення ефективної системи автоматизації бізнес-процесів.",
+      "ai_title": "Intuit двічі переробляла архітектуру ШІ-агентів заради швидшого результату"
     }
   ],
   "Крипта": [
