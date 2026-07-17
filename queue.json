@@ -1,15 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
-      "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-      "summary": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it's ready to begin carrying third-party [&#8230;]",
-      "published": "2026-07-15T03:28:53+00:00",
-      "source": "The Verge",
-      "ai_summary": "Google та Epic Games відмовилися від апеляції у справі про монополію на Android. Це відкриває шлях для інтеграції сторонніх магазинів додатків безпосередньо в екосистему Google Play вже наступного тижня.",
-      "ai_title": "Google та Epic Games завершують суперечку: сторонні магазини додатків з'являться на Android"
-    },
-    {
       "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "link": "https://tailscale.com/security-bulletins",
       "summary": "<p>Article URL: <a href=\"https://tailscale.com/security-bulletins\">https://tailscale.com/security-bulletins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48915004\">https://news.ycombinator.com/item?id=48915004</a></p>\n<p>Points: 64</p>\n<p># Comments: 25</p>",
@@ -998,6 +989,15 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "У цій статті автор ділиться думками про важливість практичної діяльності та подолання прокрастинації через безпосередню реалізацію ідей. Це мотиваційний матеріал для тих, хто шукає способи підвищити свою продуктивність та почати втілювати власні проєкти в життя.",
       "ai_title": "Філософія дії: чому варто просто робити справи"
+    },
+    {
+      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Robbyant/lingbot-map\">https://github.com/Robbyant/lingbot-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941908\">https://news.ycombinator.com/item?id=48941908</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-17T00:07:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили нову базову модель, здатну будувати тривимірні мапи середовища на основі потокових даних. Технологія дозволяє ефективно реконструювати сцени, що відкриває нові можливості для комп'ютерного зору та робототехніки.",
+      "ai_title": "Lingbot-map: нова 3D-модель для реконструкції простору в реальному часі"
     }
   ],
   "Бізнес / Стартапи": [
@@ -2208,6 +2208,24 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Компанія Polygon проводить звільнення персоналу на фоні стратегічної зміни діяльності в бік платіжних сервісів. Ці зміни відбуваються після великої угоди вартістю 250 мільйонів доларів з придбання Coinme та Sequence.",
       "ai_title": "Polygon скорочує штат після поглинання Coinme"
+    },
+    {
+      "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
+      "link": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-76176-bitcoin-stages-picture-perfect-rebound-at-58-5k-as-crypto-liquidations-top-875m.jpg\" /></p><p>Bitcoin futures traders are propping up the ",
+      "published": "2026-07-17T00:12:40+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Трейдери ф'ючерсного ринку створюють значні кластери ліквідності, які стають ключовими орієнтирами для цінового тренду біткоїна. Активність у ф'ючерсних контрактах наразі виступає головним драйвером вартості головної криптовалюти.",
+      "ai_title": "Ліквідність ф'ючерсів визначає подальший рух ціни біткоїна"
+    },
+    {
+      "title": "Citadel Securities invests $400M in Crypto.com at $20B valuation",
+      "link": "https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Citadel Securities invests $400M in Crypto.com at $20B valuation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter.jpg\" /></p><p>Crypto exchanges have increasingly positioned themselves as bridges between digital asset markets a",
+      "published": "2026-07-16T23:47:12+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Інвестиційний гігант Citadel Securities здійснив велике вкладення в одну з провідних криптобірж, підтвердивши оцінку бізнесу на рівні $20 млрд. Ця угода підкреслює зростаючу інтеграцію традиційних фінансових структур із ринком цифрових активів.",
+      "ai_title": "Citadel Securities вкладає $400 млн у Crypto.com при оцінці компанії у $20 млрд"
     }
   ]
 }
