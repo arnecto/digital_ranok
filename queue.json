@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "summary": "<p>Article URL: <a href=\"https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/\">https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933310\">https://news.ycombinator.com/item?id=48933310</a></p>\n<p>Points: 37</p>\n<p># Comments: 27</p>",
-      "published": "2026-07-16T11:59:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує поширені зауваження скептиків щодо великих мовних моделей, але пояснює, чому все одно продовжує інтегрувати їх у свою роботу. Стаття досліджує баланс між етичними ризиками технології та її практичною цінністю для розробника.",
-      "ai_title": "Чому я продовжую використовувати LLM, попри критику"
-    },
-    {
-      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
-      "link": "https://onatm.dev/2026/07/16/homescale-part-1/",
-      "summary": "<p>Article URL: <a href=\"https://onatm.dev/2026/07/16/homescale-part-1/\">https://onatm.dev/2026/07/16/homescale-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933303\">https://news.ycombinator.com/item?id=48933303</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-16T11:58:09+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник ділиться досвідом побудови власної масштабованої інфраструктури для баз даних, надихаючись технологіями PlanetScale. Це перший допис із серії, де розглядаються технічні аспекти проєктування надійних систем з нуля.",
-      "ai_title": "Створення аналога PlanetScale: інфраструктурні рішення"
-    },
-    {
       "title": "Claude can now use your 1Password credentials for you",
       "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
       "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
@@ -44,15 +26,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Новий інструмент AI Law Tracker надає доступ до аудитованої бази даних законодавчих ініціатив у сфері штучного інтелекту для США, ЄС та інших країн. Це рішення допомагає розробникам та бізнесу бути в курсі юридичних вимог до ШІ-продуктів через зручний API.",
       "ai_title": "AI Law Tracker: єдиний API для моніторингу глобального законодавства про ШІ"
-    },
-    {
-      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-      "link": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c4gyg0y6yg2o\">https://www.bbc.com/news/articles/c4gyg0y6yg2o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48933464\">https://news.ycombinator.com/item?id=48933464</a></p>\n<p>Points: 33</p>\n<p># Comments: 23</p>",
-      "published": "2026-07-16T12:19:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Суд виніс вирок групі підлітків, які здійснили кібератаку на транспортну систему Лондона (TfL) та транслювали процес у прямому ефірі. Справа стала показовим прикладом відповідальності за цифрові злочини навіть для неповнолітніх зловмисників.",
-      "ai_title": "Підлітків-хакерів, які стрімили кібератаку на TfL, ув'язнили"
     },
     {
       "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
@@ -890,18 +863,54 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Користувачі виявили, що монітори LG автоматично завантажують та встановлюють додаткове програмне забезпечення без запиту дозволу. Це відбувається через механізм оновлень Windows, що викликало хвилю занепокоєння щодо безпеки та приватності.",
       "ai_title": "Монітори LG примусово встановлюють ПЗ через Windows Update"
+    },
+    {
+      "title": "What AI did to stackoverflow in a graph",
+      "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "summary": "<p>Article URL: <a href=\"https://data.stackexchange.com/stackoverflow/query/1953768#graph\">https://data.stackexchange.com/stackoverflow/query/1953768#graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956949\">https://news.ycombinator.com/item?id=48956949</a></p>\n<p>Points: 62</p>\n<p># Comments: 64</p>",
+      "published": "2026-07-18T11:12:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Наочна візуалізація даних демонструє, як стрімке впровадження ШІ-інструментів вплинуло на кількість запитань та відповідей на платформі. Статистика підтверджує значне зниження активності користувачів після появи популярних великих мовних моделей.",
+      "ai_title": "Вплив ШІ на активність у Stack Overflow"
+    },
+    {
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "summary": "<p>Article URL: <a href=\"https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/\">https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956879\">https://news.ycombinator.com/item?id=48956879</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-18T11:00:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує здатність різних мовних моделей долати NP-складні алгоритмічні задачі. Особлива увага приділяється тому, чи допомагає використання спеціальних цільових інструкцій (/goal) покращити точність відповідей ШІ.",
+      "ai_title": "Порівняння ефективності ШІ-моделей у вирішенні NP-складних завдань"
+    },
+    {
+      "title": "Steam Machine: Between 12k and 15k Units Sold per week",
+      "link": "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/",
+      "summary": "<p>Article URL: <a href=\"https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/\">https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956852\">https://news.ycombinator.com/item?id=48956852</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-18T10:56:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нові дані свідчать про стабільний інтерес до Steam Machine, пристрої яких розходяться тиражем від 12 до 15 тисяч одиниць на тиждень. Це демонструє наявність стійкого попиту на спеціалізовані ігрові консолі на базі Linux.",
+      "ai_title": "Статистика продажів Steam Machine"
+    },
+    {
+      "title": "Sony’s flagship RGB LED TV is incredible",
+      "link": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+      "summary": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons &#38; Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying game but had never seen the movie. The landscapes of Faer&#251;n looked natural and [&#8230;]",
+      "published": "2026-07-18T12:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Новий RGB LED телевізор від Sony став однією з найбільш очікуваних новинок останніх років. Експерти відзначають неймовірну якість зображення та природну передачу кольорів, що робить перегляд контенту максимально реалістичним.",
+      "ai_title": "Огляд флагманського телевізора Sony Bravia 9 II"
+    },
+    {
+      "title": "More games should be on rails (literally)",
+      "link": "https://www.theverge.com/games/961152/denshattack-review",
+      "summary": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years later. Denshattack!, a new game from Undercoders, similarly features levels packed with carefully orchestrated sequences to great [&#8230;]",
+      "published": "2026-07-18T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Останні релізи показують, що лінійні ігри з жорстко прописаними сценаріями знову стають популярними. Яскравий ігровий досвід у стилі класичних аркад виявився не менш захопливим, ніж у відкритих світах сучасних ігор.",
+      "ai_title": "Повернення до витоків: чому «рейкові» ігри знову актуальні"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-      "published": "2026-07-16T15:02:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Колишній розробник систем, на яких базувався ChatGPT, Ендрю Дай пояснив свій успіх у залученні інвестицій. Він переконаний, що візуальний штучний інтелект стане наступним великим проривом у галузі.",
-      "ai_title": "Ексдослідник DeepMind залучив $300 млн на стадії pre-seed"
-    },
     {
       "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
       "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
@@ -1327,33 +1336,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
-      "link": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
-      "summary": "",
-      "published": "2026-07-16T12:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Galaxy Digital представила нові інструменти для інституційних інвесторів, спрямовані на отримання прибутку через DeFi-протоколи. Продукт дозволяє великим гравцям безпечно взаємодіяти з дохідністю стейблкоїнів у децентралізованих фінансах.",
-      "ai_title": "Galaxy запускає DeFi-сховища для доходу від стейблкоїнів"
-    },
-    {
-      "title": "Tokenized stocks market cap gains to record $2.3B",
-      "link": "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized stocks market cap gains to record $2.3B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.jpg\" /></p><p>The market capitalization of tokenized stocks rose to a record $2.3 billion, as investors sought exposure to the gr",
-      "published": "2026-07-16T12:35:52+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Ринок токенізованих цінних паперів показав стрімке зростання, оскільки інвестори все частіше шукають способи інтеграції традиційних активів у блокчейн. Це свідчить про посилення інтересу до гібридних фінансових інструментів.",
-      "ai_title": "Капіталізація токенізованих акцій досягла рекордних $2,3 млрд"
-    },
-    {
-      "title": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
-      "link": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FATF urges faster crypto AML enforcement as stablecoin crime increases\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interrogation-lamp-stablecoin-1.jpg\" /></p><p>The global task force said criminal networks are using stablecoins and developing proprietary tokens to evade asset freezes as co",
-      "published": "2026-07-16T12:05:45+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Міжнародна група FATF закликає прискорити впровадження заходів проти відмивання грошей через зростання використання стейблкоїнів злочинними угрупованнями. Зловмисники все частіше створюють власні токени, щоб уникати блокування активів правоохоронцями.",
-      "ai_title": "FATF вимагає посилення боротьби зі злочинністю у сфері стейблкоїнів"
-    },
     {
       "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
       "link": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
@@ -1885,6 +1867,15 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Французький регулятор азартних ігор наказав місцевим інтернет-провайдерам обмежити доступ до сервісу Polymarket. Влада країни стверджує, що діяльність платформи підпадає під категорію незаконних азартних ігор та порушує чинне законодавство.",
       "ai_title": "Франція блокує доступ до платформи прогнозів Polymarket"
+    },
+    {
+      "title": "Kaspersky identifies malware framework targeting crypto investors",
+      "link": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kaspersky identifies malware framework targeting crypto investors\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-blackcat-ransomware-in-crypto.jpg\" /></p><p>Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through socia",
+      "published": "2026-07-18T11:40:48+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Кібербезпекова компанія Kaspersky ідентифікувала спеціалізований інструментарій, за допомогою якого зловмисники полюють на активи власників криптовалют. Атаки реалізуються через методи соціальної інженерії, спрямовані на крадіжку конфіденційних даних та криптогаманців.",
+      "ai_title": "Kaspersky виявила нове шкідливе ПЗ для атак на криптоінвесторів"
     }
   ]
 }
