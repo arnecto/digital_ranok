@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
-      "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-      "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" that creators can use as NPCs. The characters include Fortnite staples like Agent [&#8230;]",
-      "published": "2026-07-16T21:30:35+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Epic Games додає у Fortnite інтерактивних персонажів (NPC) з ШІ-керованими голосами та пропрацьованими особистостями. Творці ігрового контенту зможуть використовувати 36 готових персонажів у своїх проєктах вже з 30 липня.",
-      "ai_title": "Fortnite впроваджує персонажів з ШІ-голосами"
-    },
-    {
-      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-      "link": "https://hellorecon.com/blog/cve-2026-25089",
-      "summary": "<p>Article URL: <a href=\"https://hellorecon.com/blog/cve-2026-25089\">https://hellorecon.com/blog/cve-2026-25089</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940895\">https://news.ycombinator.com/item?id=48940895</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-16T22:07:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "CISA додала CVE-2026-25089 до списку відомих експлуатованих вразливостей. Помилка дозволяє зловмисникам виконувати довільні команди на пристроях FortiSandbox без автентифікації.",
-      "ai_title": "Критична вразливість у FortiSandbox внесена до реєстру CISA"
-    },
-    {
       "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
       "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
       "summary": "<p>Article URL: <a href=\"https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/\">https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941129\">https://news.ycombinator.com/item?id=48941129</a></p>\n<p>Points: 61</p>\n<p># Comments: ",
@@ -44,24 +26,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Це новий навчальний ресурс, присвячений основам навчання з підкріпленням, доступний у відкритому доступі на GitHub. Книга стане корисним путівником для тих, хто хоче опанувати ключові концепції RL у стислій та доступній формі.",
       "ai_title": "Вийшла «Мала книга навчання з підкріпленням» (Reinforcement Learning)"
-    },
-    {
-      "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
-      "link": "https://github.com/cgrtml/reasongate",
-      "summary": "<p>Article URL: <a href=\"https://github.com/cgrtml/reasongate\">https://github.com/cgrtml/reasongate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941051\">https://news.ycombinator.com/item?id=48941051</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-16T22:21:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт ReasonGate пропонує інструмент для пояснюваної фільтрації запитів до LLM, що дозволяє блокувати спроби prompt injection. Система підвищує безпеку інтеграції ШІ, аналізуючи вхідні дані на предмет шкідливого наміру.",
-      "ai_title": "ReasonGate: захист від атак ін'єкцій у великі мовні моделі"
-    },
-    {
-      "title": "Just Do Things",
-      "link": "https://ray.zo.space/blog/just-do-things",
-      "summary": "<p>Article URL: <a href=\"https://ray.zo.space/blog/just-do-things\">https://ray.zo.space/blog/just-do-things</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940801\">https://news.ycombinator.com/item?id=48940801</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
-      "published": "2026-07-16T21:55:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У цій статті автор ділиться думками про важливість практичної діяльності та подолання прокрастинації через безпосередню реалізацію ідей. Це мотиваційний матеріал для тих, хто шукає способи підвищити свою продуктивність та почати втілювати власні проєкти в життя.",
-      "ai_title": "Філософія дії: чому варто просто робити справи"
     },
     {
       "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
@@ -836,6 +800,24 @@
       "source": "The Verge",
       "ai_summary": "Відомий американський письменник під час виступу перед працівниками OpenAI висловив побоювання, що ШІ-технології пригнічують творчий потенціал молоді. На його думку, ChatGPT негативно впливає на розвиток навичок письма та критичного мислення у майбутніх поколінь.",
       "ai_title": "Дейв Еггерс звинуватив OpenAI у «замовчуванні цілого покоління»"
+    },
+    {
+      "title": "Judge a book by its first pages",
+      "link": "https://uncovered.ink",
+      "summary": "<p>Article URL: <a href=\"https://uncovered.ink\">https://uncovered.ink</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962893\">https://news.ycombinator.com/item?id=48962893</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-18T22:02:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Сервіс Uncovered.ink пропонує новий підхід до вибору літератури, фокусуючись на аналізі вступних частин творів. Це дозволяє читачам швидше зрозуміти стиль автора та вирішити, чи варто продовжувати читання конкретної книги.",
+      "ai_title": "Оцінка книг за першими сторінками"
+    },
+    {
+      "title": "SpaceX and the myth of independent Wall St research",
+      "link": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434\">https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48961864\">https://news.ycombinator.com/item?id=48961864</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+      "published": "2026-07-18T20:13:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття аналізує, наскільки об'єктивними є фінансові прогнози великих інвестиційних компаній щодо SpaceX. Автор ставить під сумнів незалежність аналітиків, вказуючи на їхню залежність від внутрішніх даних компанії та корпоративних інтересів.",
+      "ai_title": "SpaceX та міф про незалежну аналітику Уолл-стріт"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1111,15 +1093,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Polygon CEO announces job cuts amid Coinme acquisition",
-      "link": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polygon CEO announces job cuts amid Coinme acquisition\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-project-polygon-explained.png\" /></p><p>The round of layoffs was part of Polygon transitioning operations to payments following a $250 million deal to acquire Coinme and Sequence in J",
-      "published": "2026-07-16T22:05:06+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Polygon проводить звільнення персоналу на фоні стратегічної зміни діяльності в бік платіжних сервісів. Ці зміни відбуваються після великої угоди вартістю 250 мільйонів доларів з придбання Coinme та Sequence.",
-      "ai_title": "Polygon скорочує штат після поглинання Coinme"
-    },
     {
       "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
       "link": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1525,6 +1498,15 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "На думку лідерів криптоіндустрії, молоді цифрові покоління можуть повністю відмовитися від банківських рахунків. Замість традиційних банків вони дедалі частіше обирають децентралізовані фінансові інструменти та цифрові гаманці для управління власними активами.",
       "ai_title": "Криптоексперти прогнозують зникнення потреби у традиційних банках"
+    },
+    {
+      "title": "France orders country's internet service providers to block Polymarket",
+      "link": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+      "summary": "",
+      "published": "2026-07-18T21:52:18+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Французька влада наказала інтернет-провайдерам обмежити доступ до популярної платформи прогнозних ринків Polymarket. Це рішення пов'язане з регуляторними вимогами щодо діяльності платформи на території країни.",
+      "ai_title": "Франція блокує доступ до Polymarket для місцевих користувачів"
     }
   ]
 }
