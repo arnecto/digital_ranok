@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
-      "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-      "summary": "<p>Article URL: <a href=\"https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/\">https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941129\">https://news.ycombinator.com/item?id=48941129</a></p>\n<p>Points: 61</p>\n<p># Comments: ",
-      "published": "2026-07-16T22:29:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує випадок, коли автоматичне оновлення автомобіля призвело до збою в роботі Android Auto. Ця ситуація підсвічує ризики культури «швидких розробок» у сучасному автопромі, де софт часто випускається з помилками, що впливають на повсякденне життя водіїв.",
-      "ai_title": "Чому оновлення ПЗ в автомобілях стають проблемою для користувачів"
-    },
-    {
-      "title": "Show HN: Mojibake – a low-level Unicode library written in C",
-      "link": "https://mojibake.zaerl.com/",
-      "summary": "<p>I've written Mojibake because I don't like the other Unicode libraries for Unicode support.<p>It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such as normalization, case conversion, segmentation, bidirectional text, collation, confusable, and others.<p>I regularly test it in these OSes: Linux, macOS, FreeBSD, OpenBSD, ",
-      "published": "2026-07-16T22:29:21+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив компактну бібліотеку Mojibake, що складається лише з двох файлів і покликана спростити роботу з Unicode. Вона підтримує ключові алгоритми, включаючи нормалізацію, сегментацію та роботу з двонаправленим текстом.",
-      "ai_title": "Mojibake: нова легка бібліотека для роботи з Unicode на C"
-    },
-    {
-      "title": "The Little Book of Reinforcement Learning",
-      "link": "https://github.com/alxndrTL/little-book-rl/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/alxndrTL/little-book-rl/\">https://github.com/alxndrTL/little-book-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941104\">https://news.ycombinator.com/item?id=48941104</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-16T22:27:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Це новий навчальний ресурс, присвячений основам навчання з підкріпленням, доступний у відкритому доступі на GitHub. Книга стане корисним путівником для тих, хто хоче опанувати ключові концепції RL у стислій та доступній формі.",
-      "ai_title": "Вийшла «Мала книга навчання з підкріпленням» (Reinforcement Learning)"
-    },
-    {
       "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
       "link": "https://github.com/Robbyant/lingbot-map",
       "summary": "<p>Article URL: <a href=\"https://github.com/Robbyant/lingbot-map\">https://github.com/Robbyant/lingbot-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941908\">https://news.ycombinator.com/item?id=48941908</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
@@ -818,36 +791,54 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Стаття аналізує, наскільки об'єктивними є фінансові прогнози великих інвестиційних компаній щодо SpaceX. Автор ставить під сумнів незалежність аналітиків, вказуючи на їхню залежність від внутрішніх даних компанії та корпоративних інтересів.",
       "ai_title": "SpaceX та міф про незалежну аналітику Уолл-стріт"
+    },
+    {
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "summary": "<p>Article URL: <a href=\"https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\">https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962983\">https://news.ycombinator.com/item?id=48962983</a></p>\n<p>Points",
+      "published": "2026-07-18T22:13:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Мер Мамдані запровадив обмеження на використання згенерованих штучним інтелектом зображень у рекламних оголошеннях нерухомості. Це рішення спрямоване на боротьбу з введенням орендарів в оману шляхом створення неправдоподібних інтер'єрів.",
+      "ai_title": "Влада заборонила орендодавцям приховано використовувати ШІ-зображення"
+    },
+    {
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "link": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+      "summary": "<p>Article URL: <a href=\"https://www.tug.org/tug2026/preprints/lode-realtime.pdf\">https://www.tug.org/tug2026/preprints/lode-realtime.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962944\">https://news.ycombinator.com/item?id=48962944</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-18T22:09:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено нову технологію Real-Time LuaTeX, що дозволяє перекомпілювати великі документи за одну мілісекунду. Це значне технічне досягнення для оптимізації роботи зі складними системами верстки.",
+      "ai_title": "Real-Time LuaTeX: миттєва перекомпіляція документів"
+    },
+    {
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "link": "https://www.neatnik.net/hardcore-indieweb",
+      "summary": "<p>Article URL: <a href=\"https://www.neatnik.net/hardcore-indieweb\">https://www.neatnik.net/hardcore-indieweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962758\">https://news.ycombinator.com/item?id=48962758</a></p>\n<p>Points: 28</p>\n<p># Comments: 21</p>",
+      "published": "2026-07-18T21:45:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор пропонує інструкцію для створення повністю незалежного веб-ресурсу в межах концепції IndieWeb. Це рішення дозволяє підтримувати власну інфраструктуру з мінімальними витратами без залежності від великих платформ.",
+      "ai_title": "Свій сайт за 1 цент на день: посібник з незалежного хостингу"
+    },
+    {
+      "title": "Co-evolution of self-replication and function in a digital primordial soup",
+      "link": "https://arxiv.org/abs/2607.09211",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.09211\">https://arxiv.org/abs/2607.09211</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962429\">https://news.ycombinator.com/item?id=48962429</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-18T21:09:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова наукова праця аналізує процеси співіснування та ко-еволюції функціональності й самовідтворення в цифрових системах. Дослідження проливає світло на зародження складності у штучних «первинних бульйонах».",
+      "ai_title": "Дослідження еволюції самовідтворення у цифровому середовищі"
+    },
+    {
+      "title": "Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+      "link": "https://github.com/saineshnakra/automated-data-analyst",
+      "summary": "<p>Article URL: <a href=\"https://github.com/saineshnakra/automated-data-analyst\">https://github.com/saineshnakra/automated-data-analyst</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962405\">https://news.ycombinator.com/item?id=48962405</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-18T21:06:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ada — це спеціалізоване програмне забезпечення для бізнес-аналітики, що дозволяє обробляти CSV та Excel файли. Система поєднує потужність LLM з додатковими алгоритмами для ефективної інтерпретації даних.",
+      "ai_title": "Ada: ШІ-інструмент для автоматичного аналізу даних"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-      "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-      "summary": "In the wake of a massive hours-long gridlock event, San Francisco Mayor Daniel Lurie has told state regulators its time to put more requirements on robotaxi operators like Waymo.",
-      "published": "2026-07-16T23:25:22+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Після масштабного транспортного колапсу, спричиненого безпілотними автомобілями, міська влада закликала регуляторів запровадити суворіші правила для операторів роботаксі. Мер Даніель Лурі наполягає на необхідності кращого контролю за безпекою та роботою подібних технологій на вулицях міста.",
-      "ai_title": "Мер Сан-Франциско вимагає посилити контроль за роботаксі Waymo"
-    },
-    {
-      "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-      "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-      "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
-      "published": "2026-07-16T23:01:27+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Ілона Маска припинила процедуру запуску одразу після запалювання двигунів, не розкривши одразу технічних причин інциденту. На тлі цієї новини акції SpaceX на позабіржових торгах впали більш ніж на 4%.",
-      "ai_title": "SpaceX раптово скасувала другий запуск Starship V3"
-    },
-    {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "published": "2026-07-17T12:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Фінансові установи, що раніше інвестували в графічні процесори, переходять до фінансування спеціалізованих чипів для виводу (inference) штучного інтелекту. Ця угода вартістю 400 мільйонів доларів свідчить про зміну пріоритетів у формуванні інфраструктури для розвитку ШІ-технологій.",
-      "ai_title": "Інвестори переорієнтовуються на чипи для виводу ШІ у межах угоди на $400 млн"
-    },
     {
       "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
       "link": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
