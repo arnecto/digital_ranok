@@ -10,15 +10,6 @@
       "ai_title": "Продажі CD-дисків знову зростають: чому це відбувається"
     },
     {
-      "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
-      "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
-      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - used inside information to make bets on Kalshi, a major prediction market platform that allows users [&#8230;]",
-      "published": "2026-07-16T18:43:14+00:00",
-      "source": "The Verge",
-      "ai_summary": "Федеральні слідчі підозрюють Габріеля Переса, який працював оператором телесуфлера Дональда Трампа, у використанні конфіденційної інформації для ставок на платформі Kalshi. Він робив прогнози щодо виступів президента, спираючись на знання про текст, який той мав озвучити.",
-      "ai_title": "Оператора телесуфлера Трампа звинуватили в інсайдерській торгівлі"
-    },
-    {
       "title": "Timeline Scan – AI fixes the dates on your scanned photos",
       "link": "https://timelinescan.com/",
       "summary": "<p>Article URL: <a href=\"https://timelinescan.com/\">https://timelinescan.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939764\">https://news.ycombinator.com/item?id=48939764</a></p>\n<p>Points: 4</p>\n<p># Comments: 8</p>",
@@ -44,15 +35,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Автор експерименту порівняв можливості новітніх нейромереж у створенні музичних відеокліпів із бюджетом у 100 доларів. Огляд демонструє стрімкий розвиток генеративних технологій та їхні відмінності у творчому підході до відеоконтенту.",
       "ai_title": "Битва ШІ-відео: Claude Fable проти GPT-5.6 Sol"
-    },
-    {
-      "title": "Show HN: Be the ChatBOT",
-      "link": "https://bethechatbot.com/",
-      "summary": "<p>I made this experimental art project/game that's an LLM chat assistant, but where <i>you're</i> the AI.<p>I wanted people to get a visceral sense of what it's like to answer the kinds of things that people prompt their chatbots day in and day out.<p>If you're interested, I wrote up some more info on how I made it, including how the \"user\" prompts are generated with an eye for realism: <a href=\"",
-      "published": "2026-07-16T18:44:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Це інтерактивний арт-проект, де користувач міняється місцями зі штучним інтелектом. Мета гри — дати людям змогу відчути досвід чат-бота, відповідаючи на запити, які зазвичай надходять від реальних користувачів.",
-      "ai_title": "Show HN: проект «Стань чат-ботом»"
     },
     {
       "title": "Netflix says around 300 titles used generative AI",
@@ -872,36 +854,45 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Аналітичний розбір того, чому створення якісного продукту сьогодні недостатньо для гарантованого успіху на ринку. Автор пояснює, як змінилися правила залучення користувачів і чому розробникам потрібно приділяти більше уваги маркетингу та стратегії.",
       "ai_title": "Чому стратегія «побудуй — і вони прийдуть» більше не працює"
+    },
+    {
+      "title": "The Kimi K3 Moment",
+      "link": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "summary": "<p>Article URL: <a href=\"https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/\">https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960218\">https://news.ycombinator.com/item?id=48960218</a></p>\n<p>Points: 43</p>\n<p># Comments: 27</p>",
+      "published": "2026-07-18T17:32:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті аналізується технологічний стрибок моделі Kimi K3, який знаменує собою важливу віху в розвитку великих мовних моделей. Автор розглядає, чому цей реліз став переломним моментом для індустрії та на які можливості ШІ варто очікувати далі.",
+      "ai_title": "Феномен Kimi K3: новий етап в розвитку ШІ"
+    },
+    {
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a lineup kept the modern [&#8230;]",
+      "published": "2026-07-18T18:25:08+00:00",
+      "source": "The Verge",
+      "ai_summary": "Згідно з останніми витоками, Google планує відмовитися від стратегії використання застарілих процесорів у своїй бюджетній лінійці «a». Очікується, що Pixel 11a буде оснащений новітнім чіпом Tensor G6, що значно підвищить продуктивність смартфона порівняно з попередніми моделями.",
+      "ai_title": "Google Pixel 11a може отримати флагманський процесор Tensor G6"
+    },
+    {
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "link": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2026/07/agent-quota-reset/\">https://minimaxir.com/2026/07/agent-quota-reset/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48961157\">https://news.ycombinator.com/item?id=48961157</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-18T19:06:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті досліджується дивна тенденція раптового оновлення тижневих лімітів для ШІ-агентів. Автор аналізує вплив цих постійних змін на роботу користувачів та розробників, які покладаються на стабільність доступних ресурсів.",
+      "ai_title": "Проблема з нестабільними квотами для ШІ-агентів"
+    },
+    {
+      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+      "link": "https://imaxxing.io/",
+      "summary": "<p>Article URL: <a href=\"https://imaxxing.io/\">https://imaxxing.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960551\">https://news.ycombinator.com/item?id=48960551</a></p>\n<p>Points: 14</p>\n<p># Comments: 10</p>",
+      "published": "2026-07-18T18:06:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив інструмент для автоматичного відстеження та бронювання найзручніших місць на сеанси фільму «Одіссея» у форматі 70мм IMAX. Це рішення значно полегшує життя фанатам кіно, що прагнуть отримати найкращий досвід від перегляду на великому екрані.",
+      "ai_title": "Сервіс сповіщень про найкращі місця на IMAX-покази"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Google Vids now lets you star in your own AI videos",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-      "published": "2026-07-16T18:32:54+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Google додає до сервісу Vids функцію створення цифрових копій користувачів. Завдяки моделі Gemini Omni інструмент дозволяє генерувати та редагувати відео, використовуючи лише текстові підказки та референсні зображення.",
-      "ai_title": "Google Vids дозволить створювати відео з вашим ШІ-аватаром"
-    },
-    {
-      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "published": "2026-07-16T18:22:06+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "У мобільному додатку Roblox з'явилася нова функція «Build», яка дозволяє генерувати базові ігрові світи за допомогою простого текстового запиту. Це значно спрощує поріг входження для нових розробників і творців контенту.",
-      "ai_title": "Roblox впровадив створення ігор за допомогою ШІ у мобільному додатку"
-    },
-    {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "summary": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack ",
-      "published": "2026-07-16T19:02:38+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Більшість підприємств надають ШІ-агентам доступ до важливих систем, не забезпечуючи належного захисту. Через спільне використання облікових даних та відсутність ізоляції агентів 54% компаній вже зіткнулися з реальними проблемами безпеки.",
-      "ai_title": "Кіберзагрози ШІ-агентів: понад половина компаній вже мали інциденти безпеки"
-    },
     {
       "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
       "link": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
@@ -1180,45 +1171,27 @@
       "source": "TechCrunch",
       "ai_summary": "Honda Prologue припиняє продажі в США, поповнюючи список електромобілів, які цьогоріч залишили американський ринок. Ця тенденція свідчить про серйозні зміни та оптимізацію модельних рядів у сегменті електричного транспорту.",
       "ai_title": "Які електромобілі зникли з ринку США у 2024 році"
+    },
+    {
+      "title": "Waymo appears to pause San Francisco service amidst power outage",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+      "summary": "This isn’t the first time power outages have caused issues for Waymo.",
+      "published": "2026-07-18T19:30:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Через масові перебої з електропостачанням сервіс безпілотних таксі Waymo тимчасово зупинив перевезення у місті. Це не перший випадок, коли енергетичні проблеми стають критичною перешкодою для роботи автономного транспорту компанії.",
+      "ai_title": "Waymo призупинила роботу в Сан-Франциско через відключення електроенергії"
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "published": "2026-07-18T18:51:07+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Moonshot AI представила оновлену версію своєї мовної моделі Kimi. Новинка викликала дискусії серед експертів щодо швидкого розвитку китайських технологій та потенційних ризиків «повного ШІ-комунізму».",
+      "ai_title": "Китайський ШІ-стартап Moonshot AI випустив нову модель Kimi"
     }
   ],
   "Крипта": [
-    {
-      "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-      "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-      "summary": "",
-      "published": "2026-07-16T18:38:13+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Керуючий активами на $1,9 трлн, компанія T. Rowe Price, виходить на ринок криптовалют через запуск інвестиційного фонду з використанням кількох токенів. Це підкреслює зростаючий інтерес великих інституційних гравців до активного управління цифровими активами.",
-      "ai_title": "T. Rowe Price запускає свій перший активний крипто-ETF"
-    },
-    {
-      "title": "BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments",
-      "link": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-beginners-guide-to-storing-your-cryptocurrency-mica-eu-license.png\" /></p><p>The Dutch Authority for the Financial Markets approved BitPay’s application as a cryp",
-      "published": "2026-07-16T18:45:25+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Платіжний сервіс BitPay пройшов регуляторну перевірку Нідерландського управління з фінансових ринків. Отримання ліцензії дозволить компанії розширити використання стейблкоїнів для платежів у межах європейського законодавства.",
-      "ai_title": "BitPay отримав ліцензію в Нідерландах відповідно до вимог MiCA"
-    },
-    {
-      "title": "Injective files for SEC transfer agent registration to bring securities ownership records onchain",
-      "link": "https://cointelegraph.com/news/injective-files-sec-transfer-agent-registration-bring-securities-ownership-records-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Injective files for SEC transfer agent registration to bring securities ownership records onchain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-tokenize-your-business-equity-rwa-1.jpg\" /></p><p>The company said the filing would create a regulated pathway for maintaining ownership r",
-      "published": "2026-07-16T19:27:53+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Injective подала заявку до SEC на реєстрацію як трансфер-агент для обліку цінних паперів. Цей крок має створити регульований механізм для перенесення записів про право власності на активи безпосередньо в блокчейн.",
-      "ai_title": "Injective хоче перенести облік цінних паперів у блокчейн"
-    },
-    {
-      "title": "1inch co-founder says he was fired, announces new venture",
-      "link": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"1inch co-founder says he was fired, announces new venture \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit.png\" /></p><p>Anton Bukov said that he no longer took an active role at 1inch and had been “fired” in 2025 after pushing for changes to the co",
-      "published": "2026-07-16T20:05:45+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Антон Буков повідомив, що більше не бере активної участі в роботі 1inch після того, як його звільнили у 2025 році через розбіжності щодо розвитку компанії. Наразі він планує зосередитися на розробці нового проєкту.",
-      "ai_title": "Співзасновник 1inch заявив про звільнення та анонсував новий проєкт"
-    },
     {
       "title": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
       "link": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1642,6 +1615,15 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Концепція DOG Mode стає центром дискусій у спільноті Bitcoin, що піднімає питання про майбутні зміни в управлінні мережею. Це нововведення може спровокувати серйозні дебати щодо децентралізації та розвитку протоколу.",
       "ai_title": "DOG Mode: нова арена для суперечок щодо управління Bitcoin"
+    },
+    {
+      "title": "Crypto executives say digital native generations may never need a bank account",
+      "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "summary": "",
+      "published": "2026-07-18T18:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "На думку лідерів криптоіндустрії, молоді цифрові покоління можуть повністю відмовитися від банківських рахунків. Замість традиційних банків вони дедалі частіше обирають децентралізовані фінансові інструменти та цифрові гаманці для управління власними активами.",
+      "ai_title": "Криптоексперти прогнозують зникнення потреби у традиційних банках"
     }
   ]
 }
