@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Netflix says around 300 titles used generative AI",
-      "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-      "summary": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher quality output more quickly and at a lower cost.\" It also provided some examples of [&#8230;]",
-      "published": "2026-07-16T20:29:27+00:00",
-      "source": "The Verge",
-      "ai_summary": "Стрімінговий гігант Netflix підтвердив використання генеративного штучного інтелекту для виробництва близько 300 тайтлів. Компанія застосовує ці інструменти переважно на етапі постпродакшну для оптимізації вартості та пришвидшення робочих процесів.",
-      "ai_title": "Netflix активно використовує генеративний ШІ у 300 своїх проєктах"
-    },
-    {
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "link": "https://arxiv.org/abs/2607.12395",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.12395\">https://arxiv.org/abs/2607.12395</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940603\">https://news.ycombinator.com/item?id=48940603</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-16T21:38:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідження представляє архітектуру Ring-Zero, яка використовує навчання з підкріпленням для досягнення трильйонного масштабу параметрів. Це рішення спрямоване на розвиток в моделях здібностей до складного логічного виведення та емерджентного мислення.",
-      "ai_title": "Ring-Zero: масштабування ШІ до трильйона параметрів для логічного мислення"
-    },
-    {
       "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
       "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
       "summary": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" that creators can use as NPCs. The characters include Fortnite staples like Agent [&#8230;]",
@@ -26,15 +8,6 @@
       "source": "The Verge",
       "ai_summary": "Компанія Epic Games додає у Fortnite інтерактивних персонажів (NPC) з ШІ-керованими голосами та пропрацьованими особистостями. Творці ігрового контенту зможуть використовувати 36 готових персонажів у своїх проєктах вже з 30 липня.",
       "ai_title": "Fortnite впроваджує персонажів з ШІ-голосами"
-    },
-    {
-      "title": "Mathematics of Data Science",
-      "link": "https://arxiv.org/abs/2607.11938",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.11938\">https://arxiv.org/abs/2607.11938</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939896\">https://news.ycombinator.com/item?id=48939896</a></p>\n<p>Points: 40</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-16T20:38:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Опубліковано фундаментальну працю, присвячену математичному апарату, що лежить в основі науки про дані. Робота систематизує ключові алгоритмічні та статистичні концепції, необхідні для сучасних фахівців у цій сфері.",
-      "ai_title": "Математичні основи Data Science"
     },
     {
       "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
@@ -854,18 +827,18 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Веб-сервіс пропонує перевірити швидкість написання коду замість звичайного тексту. Це дозволяє розробникам оцінити свою продуктивність у реальних умовах програмування.",
       "ai_title": "Тест швидкості друку для розробників"
+    },
+    {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&#8230;]",
+      "published": "2026-07-18T20:54:42+00:00",
+      "source": "The Verge",
+      "ai_summary": "Відомий американський письменник під час виступу перед працівниками OpenAI висловив побоювання, що ШІ-технології пригнічують творчий потенціал молоді. На його думку, ChatGPT негативно впливає на розвиток навичок письма та критичного мислення у майбутніх поколінь.",
+      "ai_title": "Дейв Еггерс звинуватив OpenAI у «замовчуванні цілого покоління»"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-      "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-      "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
-      "published": "2026-07-16T21:22:31+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Coca-Cola була змушена призупинити роботу свого молочного підрозділу Fairlife у США через атаку вірусу-вимагача. Наразі виробництво залишається зупиненим на невизначений термін до вирішення технічних проблем.",
-      "ai_title": "Coca-Cola зупинила виробництво на заводі Fairlife через кібератаку"
-    },
     {
       "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
       "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
@@ -1138,24 +1111,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
-      "link": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-107341-bitcoin-touches-30k-as-btc-bulls-well-positioned-for-weekly-3-2-billion-options.jpg\" /></p><p>Bitcoin buyers have returned to spot, futures and ETF mar",
-      "published": "2026-07-16T20:29:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Вартість біткоїна підскочила на 6% за останній тиждень, що суттєво покращило ринкові очікування аналітиків. Активність покупців на ринках спотових активів, ф'ючерсів та ETF свідчить про готовність биків до подальшого зростання курсу.",
-      "ai_title": "Біткоїн демонструє впевнене зростання"
-    },
-    {
-      "title": "Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC",
-      "link": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump teleprompter operator made $100K betting on Kalshi markets tied to speeches: ABC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-meaning-examples-and-penalties-detection.jpg\" /></p><p>According to ABC News, federal regulators are investigating whether the longt",
-      "published": "2026-07-16T20:49:23+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Федеральні регулятори розслідують діяльність оператора телесуфлера Дональда Трампа, який заробив 100 тисяч доларів на прогнозах щодо промов політика на платформі Kalshi. Справа зосереджена на потенційному використанні конфіденційної інформації для отримання прибутку на ринках прогнозів.",
-      "ai_title": "Скандал з інсайдерською торгівлею на ставках щодо виступів Трампа"
-    },
     {
       "title": "Polygon CEO announces job cuts amid Coinme acquisition",
       "link": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
