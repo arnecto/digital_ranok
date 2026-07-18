@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Tesla driver in fatal Texas crash overrode FSD by pressing accelerator &#8216;100 percent,&#8217; investigators confirm",
-      "link": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
-      "summary": "The Tesla driver who fatally struck a woman after crashing into her home \"manually overrode\" the vehicle's Full Self-Driving (FSD) technology by pressing the gas pedal to 100 percent, the National Transportation Safety Board (NTSB) confirmed in a preliminary report on Wednesday. After examining the car's electronic data, investigators found that the Tesla Model 3 [&#8230;]",
-      "published": "2026-07-16T15:41:09+00:00",
-      "source": "The Verge",
-      "ai_summary": "Національна рада з безпеки на транспорті США підтвердила, що фатальна аварія сталася через дії водія, який вручну вимкнув функцію FSD, натиснувши педаль акселератора на 100%. Дані бортового комп’ютера довели, що електроніка не мала технічних збоїв у момент зіткнення.",
-      "ai_title": "Розслідування ДТП за участі Tesla: водій вимкнув автопілот натисканням педалі газу"
-    },
-    {
-      "title": "Microsoft Comic Chat is now open source",
-      "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "summary": "<p>Article URL: <a href=\"https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/\">https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936426\">https://news.ycombinator.com/item?id=48936426</a></p>\n<p>Points: 50</p>\n<p># Comments: 13</p>",
-      "published": "2026-07-16T16:06:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Microsoft виклала у відкритий доступ код свого культового проекту Comic Chat. Це історичний крок для збереження спадщини ранніх чатів, що використовували технології створення коміксів у реальному часі.",
-      "ai_title": "Microsoft відкрила вихідний код класичного Comic Chat"
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\">https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936451\">https://news.ycombinator.com/item?id=48936451</a></p>\n<p>Points: 37</p>\n<p># Comments: 16</p>",
-      "published": "2026-07-16T16:08:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Google оновив назву свого популярного інструменту NotebookLM на Gemini Notebook. Цей крок відображає інтеграцію сервісу в екосистему Gemini та подальший розвиток ШІ-функцій для роботи з документами.",
-      "ai_title": "Google перейменував NotebookLM на Gemini Notebook"
-    },
-    {
       "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
       "link": "https://news.ycombinator.com/item?id=48937020",
       "summary": "<p>Hey HN, we’re Xia and Varun, the founders of Traceforce (<a href=\"https://www.traceforce.ai/\" rel=\"nofollow\">https://www.traceforce.ai/</a>). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via ",
@@ -35,15 +8,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Новий стартап Traceforce пропонує інструменти для моніторингу та управління використанням ШІ-сервісів, таких як ChatGPT або Claude, на робочих пристроях. Рішення допомагає бізнесу відстежувати безпеку даних та способи їхньої взаємодії з різними джерелами.",
       "ai_title": "Traceforce: корпоративний контроль за використанням ШІ-застосунків"
-    },
-    {
-      "title": "Show HN: Ratel, give agents unlimited tools and skills without context bloat",
-      "link": "https://github.com/ratel-ai/ratel",
-      "summary": "<p>Hi HN! We're Giacomo and Roberto, authors of Ratel (<a href=\"https://github.com/ratel-ai/ratel\" rel=\"nofollow\">https://github.com/ratel-ai/ratel</a>)<p>We used to help SaaS companies build agents on top of their products. Whenever we wanted to expand the agents’ complexity/scope, by adding more and more tools and instructions, we always run in the same issue: context bloat, with frequent halluc",
-      "published": "2026-07-16T16:11:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт Ratel дозволяє розробникам надавати ШІ-агентам доступ до необмеженої кількості інструментів та навичок без шкоди для контекстного вікна. Це усуває проблему галюцинацій та обмежень, які виникають при масштабуванні функціональності агентів.",
-      "ai_title": "Ratel: рішення проблеми перевантаження контексту в ШІ-агентах"
     },
     {
       "title": "Roblox will let people use AI to make games on their phone",
@@ -890,36 +854,54 @@
       "source": "The Verge",
       "ai_summary": "GoPro запустила акційну пропозицію на набір із 360-градусною камерою Max 2, що включає аксесуари на суму 100 доларів. Це суттєва знижка для пристрою, який раніше вважався досить дорогим для професійної зйомки.",
       "ai_title": "GoPro пропонує знижку на комплект камери Max 2"
+    },
+    {
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/our-approach-to-bioresilience/\">https://deepmind.google/blog/our-approach-to-bioresilience/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959297\">https://news.ycombinator.com/item?id=48959297</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-18T16:02:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Google DeepMind та Isomorphic Labs представили стратегію використання штучного інтелекту для підвищення біостійкості. Компанії зосереджуються на новітніх методах моделювання біологічних систем для захисту від загроз та прискорення наукових досліджень.",
+      "ai_title": "Google DeepMind та Isomorphic Labs: новий підхід до біостійкості"
+    },
+    {
+      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+      "link": "https://q3edit.com",
+      "summary": "<p>I've been building a level editor for Quake 3 that runs entirely in the browser: Radiant-style layout, brush and patch editing, CSG, terrain sculpting, and entity editing. It opens and saves .map file and you can play the maps you build directly in the browser using a webassembly build of ioquake3.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48958854\">https://news.",
+      "published": "2026-07-18T15:12:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив інструмент для створення та редагування мап Quake 3, що працює безпосередньо у браузері. Проєкт підтримує складне редагування ландшафтів та дозволяє миттєво тестувати створені рівні за допомогою WebAssembly-версії рушія ioquake3.",
+      "ai_title": "Q3Edit: браузерний редактор рівнів для Quake 3"
+    },
+    {
+      "title": "Elixir-lang.org has a new design",
+      "link": "https://elixir-lang.org/",
+      "summary": "<p>Article URL: <a href=\"https://elixir-lang.org/\">https://elixir-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959042\">https://news.ycombinator.com/item?id=48959042</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-18T15:32:04+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Спільнота мови програмування Elixir оновила зовнішній вигляд та структуру свого офіційного ресурсу elixir-lang.org. Новий дизайн спрямований на покращення доступу до документації та полегшення старту для нових розробників.",
+      "ai_title": "Оновлений дизайн офіційного сайту Elixir"
+    },
+    {
+      "title": "Gleam Is Now on Tangled",
+      "link": "https://tangled.org/gleam.run/gleam",
+      "summary": "<p>Article URL: <a href=\"https://tangled.org/gleam.run/gleam\">https://tangled.org/gleam.run/gleam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959143\">https://news.ycombinator.com/item?id=48959143</a></p>\n<p>Points: 28</p>\n<p># Comments: 11</p>",
+      "published": "2026-07-18T15:44:04+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Мова Gleam інтегрована в екосистему Tangled, що відкриває нові можливості для спільноти розробників цієї мови. Це рішення сприяє поширенню інструментів Gleam та покращенню взаємодії всередині платформи.",
+      "ai_title": "Мова програмування Gleam з'явилася на платформі Tangled"
+    },
+    {
+      "title": "Traders are increasingly betting against SpaceX just weeks after IPO",
+      "link": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5\">https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48958985\">https://news.ycombinator.com/item?id=48958985</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-18T15:26:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Через кілька тижнів після виходу компанії на біржу, інвестори почали активно ставити проти акцій SpaceX. Аналітики звертають увагу на зростання скепсису на ринку щодо майбутніх фінансових показників аерокосмічного гіганта.",
+      "ai_title": "Трейдери масово грають на зниження акцій SpaceX після IPO"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-      "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-      "summary": "Travel agency Fora announced a $60 million Series D round led by Forerunner and Tactile Ventures, valuing the company at $1 billion.",
-      "published": "2026-07-16T16:08:40+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Туристичний стартап Fora отримав $60 млн у межах раунду серії D, що підвищило оцінку компанії до $1 мільярда. Це досягнення підкреслює стрімке зростання інтересу інвесторів до ШІ-рішень у сфері подорожей.",
-      "ai_title": "AI-турагенція Fora стала «єдинорогом» після залучення $60 млн"
-    },
-    {
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "published": "2026-07-16T16:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Google оновила свій ШІ-режим, дозволивши йому не лише відповідати на запитання, а й взаємодіяти з популярними програмами. Тепер користувачі можуть делегувати ШІ виконання реальних дій у застосунках, якими вони користуються щодня.",
-      "ai_title": "Google інтегрує ШІ-асистентів для виконання завдань у сторонніх застосунках"
-    },
-    {
-      "title": "Yes, you can now order DoorDash from the command line",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "published": "2026-07-16T15:38:55+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія DoorDash запустила бета-версію інструменту dd-cli, який дозволяє розробникам та ШІ-агентам створювати кошики та оформлювати замовлення через термінал. Це важливий крок до адаптації інтерфейсів під потреби автоматизованих агентів, а не лише людей.",
-      "ai_title": "DoorDash дозволив замовляти їжу через командний рядок"
-    },
     {
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
       "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
@@ -964,15 +946,6 @@
       "source": "VentureBeat",
       "ai_summary": "Дослідження показує, що бізнес інвестує в ШІ-обчислення випереджаючими темпами, не маючи чіткого контролю над економічною доцільністю. Більшість організацій планують змінити або доповнити своїх постачальників інфраструктури вже протягом найближчого кварталу.",
       "ai_title": "Компанії витрачають на ШІ-інфраструктуру швидше, ніж можуть оцінити її вартість"
-    },
-    {
-      "title": "Period tracker Stardust shares users’ health data with analytics firm, says Mozilla research",
-      "link": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
-      "summary": "One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these apps.",
-      "published": "2026-07-16T15:33:28+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Дослідники виявили значні відмінності в рівні приватності серед популярних застосунків для здоров'я. Зокрема, додаток Stardust був помічений у передачі конфіденційних даних користувачів сторонній аналітичній компанії.",
-      "ai_title": "Дослідження Mozilla: застосунок для відстеження циклу передає дані користувачів аналітикам"
     },
     {
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
@@ -1288,6 +1261,15 @@
       "source": "TechCrunch",
       "ai_summary": "Нещодавня 600-мильна поїздка на електромобілі підтвердила значне покращення інфраструктури зарядних станцій у США. Використання швидкісних зарядок (DC Fast charging) тепер стало набагато надійнішим та швидшим, ніж раніше.",
       "ai_title": "Електромобілі стали зручнішими для дальніх подорожей"
+    },
+    {
+      "title": "Federal employees can download TikTok on their work phones again",
+      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+      "published": "2026-07-18T15:54:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Міністерство юстиції США зняло заборону на завантаження застосунку TikTok на державні смартфони. Це рішення скасовує попередні обмеження для федеральних службовців.",
+      "ai_title": "Американським держслужбовцям знову дозволили використовувати TikTok на робочих пристроях"
     }
   ],
   "Крипта": [
@@ -1317,15 +1299,6 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Компанія Tradable перенесе приватні кредитні активи на суму до 1 мільярда доларів на блокчейн Stellar. Це значний крок для інтеграції традиційних фінансових інструментів у сферу децентралізованих фінансів.",
       "ai_title": "Stellar залучає $1 млрд у межах буму токенізації активів"
-    },
-    {
-      "title": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
-      "link": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-      "summary": "",
-      "published": "2026-07-16T15:26:15+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Маркет-мейкер Keyrock придбав торгові активи компанії BlockFills. Ця угода спрямована на посилення позицій компанії у сфері інституційної торгівлі криптовалютами.",
-      "ai_title": "Keyrock розширює інституційний бізнес через купівлю BlockFills"
     },
     {
       "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
@@ -1795,6 +1768,24 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Інвестори масово купують кол-опціони на біткоїн, розраховуючи на досягнення ціни у $72,000 до кінця місяця. Цей сплеск активності збігається із запланованим засіданням Федеральної резервної системи США, що може підвищити волатильність на ринку.",
       "ai_title": "Біткоїн-трейдери очікують зростання до $72,000 наприкінці місяця"
+    },
+    {
+      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+      "summary": "",
+      "published": "2026-07-18T16:09:59+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Дональд Трамп висловив стурбованість щодо фінансових механізмів Бразилії, натякаючи на можливі заходи впливу. Водночас стейблкоїни, прив'язані до долара, продовжують стрімко витісняти традиційні інструменти у внутрішніх розрахунках країни.",
+      "ai_title": "Трамп тисне на платіжну систему Бразилії, поки стейблкоїни в доларах захоплюють ринок"
+    },
+    {
+      "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+      "link": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+      "summary": "",
+      "published": "2026-07-18T15:50:31+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Величезний обсяг капіталу в криптоактивах фактично «заморожений» і не приносить прибутку. Експерти пояснюють це неефективним управлінням капіталом та відсутністю привабливих інструментів для його використання в екосистемі DeFi.",
+      "ai_title": "Чому 1,6 мільярда доларів криптоліквідності залишаються бездіяльними"
     }
   ]
 }
