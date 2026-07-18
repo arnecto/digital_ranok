@@ -10,42 +10,6 @@
       "ai_title": "Інтерактивна карта екосистеми ШІ"
     },
     {
-      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "link": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-      "summary": "<p>Article URL: <a href=\"https://pmbanugo.me/blog/why-async-await-complect-concurrency\">https://pmbanugo.me/blog/why-async-await-complect-concurrency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929587\">https://news.ycombinator.com/item?id=48929587</a></p>\n<p>Points: 15</p>\n<p># Comments: 11</p>",
-      "published": "2026-07-16T02:06:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує проблеми, що виникають при використанні моделей Tokio та Rayon у розробці на Rust. Стаття пояснює, як асинхронна модель може ускладнювати конкурентне виконання завдань замість його спрощення.",
-      "ai_title": "Чому async/await може бути пасткою для конкурентного програмування"
-    },
-    {
-      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-      "link": "https://arxiv.org/abs/2607.11859",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.11859\">https://arxiv.org/abs/2607.11859</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929660\">https://news.ycombinator.com/item?id=48929660</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-16T02:17:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідження вивчає здатність сучасних LLM глибоко аналізувати наукові роботи з комп'ютерної архітектури. Результати показують, наскільки ефективно нейромережі справляються зі спеціалізованою технічною літературою.",
-      "ai_title": "Чи здатні великі мовні моделі розуміти складні архітектури комп'ютерів?"
-    },
-    {
-      "title": "Fleet: Hierarchical Task-Based Abstraction for Megakernels on Multi-Die GPUs",
-      "link": "https://arxiv.org/abs/2604.15379",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2604.15379\">https://arxiv.org/abs/2604.15379</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929856\">https://news.ycombinator.com/item?id=48929856</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-16T02:55:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Науковці представили ієрархічну систему Fleet для оптимізації роботи мега-ядер на сучасних графічних процесорах. Це дозволяє ефективніше розподіляти обчислювальні навантаження на новітньому залізі.",
-      "ai_title": "Fleet: новий підхід до керування задачами на мультичипових GPU"
-    },
-    {
-      "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
-      "link": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
-      "summary": "<p>Article URL: <a href=\"https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/\">https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930011\">https://news.ycombinator.com/item?id=48930011</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-16T03:24:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У Лондоні на автобусах з'явилися рекламні банери, що критикують кампанію Meta за участю Кайлі Дженнер для їхніх розумних окулярів. Акція привернула увагу до питань приватності та доцільності використання подібних технологій.",
-      "ai_title": "Партизанська реклама висміяла кампанію Meta Glasses"
-    },
-    {
       "title": "Stop saying that AI is just a tool and it only matters how it is used",
       "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
       "summary": "<p>Article URL: <a href=\"https://www.frank.computer/blog/2025/05/just-a-tool.html\">https://www.frank.computer/blog/2025/05/just-a-tool.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930363\">https://news.ycombinator.com/item?id=48930363</a></p>\n<p>Points: 52</p>\n<p># Comments: 36</p>",
@@ -926,6 +890,24 @@
       "source": "The Verge",
       "ai_summary": "Виробник продуктів харчування Taylor Farms добровільно вилучає салат айсберг, що постачався з центральної Мексики. Рішення ухвалене після повідомлень про спалах кишкової інфекції, спричиненої паразитом Cyclospora.",
       "ai_title": "Taylor Farms відкликає айсберг-салат із ринку США через спалах циклоспоріозу"
+    },
+    {
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "link": "https://moonstone.sh/",
+      "summary": "<p>Article URL: <a href=\"https://moonstone.sh/\">https://moonstone.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48954175\">https://news.ycombinator.com/item?id=48954175</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-18T01:18:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Moonstone — це сучасний рушій та менеджер пакетів для мови програмування Lua, написаний на високоефективній мові Zig. Він забезпечує швидку роботу та зручне керування залежностями для розробників.",
+      "ai_title": "Moonstone: новий кросплатформовий рушій для Lua на базі Zig"
+    },
+    {
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "link": "https://www.stenchill.com/en/",
+      "summary": "<p>Article URL: <a href=\"https://www.stenchill.com/en/\">https://www.stenchill.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48953981\">https://news.ycombinator.com/item?id=48953981</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-18T00:48:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Stenchill дозволяє створювати 3D-моделі трафаретів для нанесення паяльної пасти на друковані плати. Це інструмент, що значно спрощує процес макетування електроніки в домашніх умовах за допомогою 3D-принтера.",
+      "ai_title": "Stenchill: генератор трафаретів для паяльної пасти під 3D-друк"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1390,15 +1372,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Two Groups of bitcoin Investors sell on the rise as U.S. inflation lifts prices to nearly $65,000",
-      "link": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
-      "summary": "",
-      "published": "2026-07-16T04:09:10+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "На тлі даних про інфляцію в США вартість біткоїна наблизилася до позначки $65 000. Скориставшись зростанням курсу, дві великі групи інвесторів почали активно продавати свої активи.",
-      "ai_title": "Біткоїн сягнув $65 000: інвестори масово фіксують прибуток"
-    },
     {
       "title": "Trump to meet with senators over CLARITY Act on Thursday: Politico",
       "link": "https://cointelegraph.com/news/trump-to-meet-with-senators-over-clarity-act-on-thursday-politico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
