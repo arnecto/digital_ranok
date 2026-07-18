@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Claude can now use your 1Password credentials for you",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
-      "published": "2026-07-16T13:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Сервіс 1Password інтегрувався з чат-ботом Claude, надаючи йому доступ до збережених облікових даних. Це дозволяє штучному інтелекту самостійно виконувати багатоетапні завдання, такі як бронювання подорожей чи управління акаунтами, без потреби в ручному введенні паролів.",
-      "ai_title": "Claude тепер може автоматично використовувати паролі з 1Password"
-    },
-    {
-      "title": "Generative AI Is an Engineering Disaster",
-      "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/\">https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48934046\">https://news.ycombinator.com/item?id=48934046</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-16T13:12:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автори критикують поточний підхід до розвитку генеративного штучного інтелекту, називаючи його інженерним провалом. Стаття аналізує фундаментальні проблеми технології, що роблять її впровадження непередбачуваним та потенційно небезпечним у довгостроковій перспективі.",
-      "ai_title": "Генеративний ШІ як інженерна катастрофа"
-    },
-    {
-      "title": "Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
-      "link": "https://ai-law-tracker.com",
-      "summary": "<p>Article URL: <a href=\"https://ai-law-tracker.com\">https://ai-law-tracker.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48934583\">https://news.ycombinator.com/item?id=48934583</a></p>\n<p>Points: 20</p>\n<p># Comments: 11</p>",
-      "published": "2026-07-16T13:51:32+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий інструмент AI Law Tracker надає доступ до аудитованої бази даних законодавчих ініціатив у сфері штучного інтелекту для США, ЄС та інших країн. Це рішення допомагає розробникам та бізнесу бути в курсі юридичних вимог до ШІ-продуктів через зручний API.",
-      "ai_title": "AI Law Tracker: єдиний API для моніторингу глобального законодавства про ШІ"
-    },
-    {
-      "title": "‘No company is going to go to jail for you’: Proton’s CTO on balancing privacy, policy, and trust",
-      "link": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the systems that run the world: I’m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. You probably know it best for Proton Mail, which is encrypted by default, but the company also has docs, [&#8230;]",
-      "published": "2026-07-16T14:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Технічний директор Proton Барт Батлер обговорив виклики, з якими стикаються компанії у сфері приватності. Основний акцент інтерв'ю зроблено на тому, як будувати довіру до безпечного програмного забезпечення, враховуючи правові обмеження та етичні аспекти захисту даних.",
-      "ai_title": "CTO Proton про баланс між конфіденційністю та корпоративною відповідальністю"
-    },
-    {
       "title": "Kimi K3 is now live",
       "link": "https://www.kimi.com/en",
       "summary": "<p>Article URL: <a href=\"https://www.kimi.com/en\">https://www.kimi.com/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935342\">https://news.ycombinator.com/item?id=48935342</a></p>\n<p>Points: 319</p>\n<p># Comments: 172</p>",
@@ -908,6 +872,15 @@
       "source": "The Verge",
       "ai_summary": "Останні релізи показують, що лінійні ігри з жорстко прописаними сценаріями знову стають популярними. Яскравий ігровий досвід у стилі класичних аркад виявився не менш захопливим, ніж у відкритих світах сучасних ігор.",
       "ai_title": "Повернення до витоків: чому «рейкові» ігри знову актуальні"
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\">https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957779\">https://news.ycombinator.com/item?id=48957779</a></p>\n<p>Points: 72</p>\n<p># Comments: 26</p>",
+      "published": "2026-07-18T13:00:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Штучний інтелект GPT-5.6 зміг успішно застосувати складний промпт для вирішення фундаментальної проблеми в опуклій оптимізації. Це досягнення закриває наукову прогалину, над якою математики працювали останні 30 років.",
+      "ai_title": "GPT-5.6 розв'язала 30-річну математичну задачу з оптимізації"
     }
   ],
   "Бізнес / Стартапи": [
@@ -937,15 +910,6 @@
       "source": "TechCrunch",
       "ai_summary": "Очікується, що нова модель Kimi 3 стане найбільшою відкритою ШІ-розробкою в Китаї з кількістю параметрів до 3 трильйонів. Вона має суттєво скоротити технологічний розрив із лідером ринку — моделлю Opus 4.8 від Anthropic.",
       "ai_title": "Китайський ШІ-гігант Moonshot готує відповідь Anthropic"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "published": "2026-07-16T13:17:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Apple уклала угоду з місцевими технологічними гігантами для впровадження своїх ШІ-функцій у Китаї. Це стратегічно важливий крок, що дозволяє Apple масштабувати свої амбіції у сфері штучного інтелекту на ключовому для компанії ринку.",
-      "ai_title": "Apple Intelligence виходить на китайський ринок у партнерстві з Alibaba та Baidu"
     },
     {
       "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
@@ -1336,51 +1300,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-      "link": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
-      "summary": "",
-      "published": "2026-07-16T14:19:32+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Брокерська компанія Alpaca успішно залучила великі інвестиції для розбудови інфраструктури, що дозволить інтегрувати токенізовані акції. Цей крок спрямований на створення зручних рішень для автоматизованих торговельних агентів.",
-      "ai_title": "Alpaca залучила 135 мільйонів доларів для розвитку токенізованих активів"
-    },
-    {
-      "title": "Ledger wants AI agents to manage crypto without holding your keys",
-      "link": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
-      "summary": "",
-      "published": "2026-07-16T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Ledger розробляє рішення, яке дозволить штучному інтелекту керувати криптовалютними транзакціями без передачі доступу до приватних ключів. Це інноваційний підхід до безпечного використання AI у сфері цифрових активів.",
-      "ai_title": "Ledger планує залучити AI-агентів для керування криптоактивами"
-    },
-    {
-      "title": "Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks",
-      "link": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg\" /></p><p>Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month l",
-      "published": "2026-07-16T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "У червні користувачі витратили рекордні 324 мільйони доларів на ончейн-ігри з випадковими картками типу «гача». Ажіотаж навколо цифрових предметів колекціонування виявився стійким до загального зниження курсу біткоїна.",
-      "ai_title": "Ончейн-колекції Pokémon б'ють рекорди попри падіння крипторинку"
-    },
-    {
-      "title": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
-      "link": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction markets defy crypto downturn with record Q2 volume: CoinGecko\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto.png\" /></p><p>Prediction markets reached a record $113.8 billion in notional volume in Q",
-      "published": "2026-07-16T13:05:09+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Попри загальний спад на ринку криптовалют, сегмент ринків прогнозів показав неймовірний результат із обсягом торгів у 113,8 мільярда доларів. Згідно з даними CoinGecko, цей сектор продовжує демонструвати стрімке зростання популярності.",
-      "ai_title": "Ринок прогнозів встановив рекордні показники у другому кварталі"
-    },
-    {
-      "title": "MoonPay buys Glide to bolster crypto deposits infrastructure",
-      "link": "https://cointelegraph.com/news/moonpay-acquires-glide-strengthen-crypto-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay buys Glide to bolster crypto deposits infrastructure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/digital-wallet-moonpay.jpg\" /></p><p>MoonPay acquired Glide, a crypto infrastructure startup founded by former Robinhood Wallet engineers, to expand cross-chain crypto deposit infrastru",
-      "published": "2026-07-16T13:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія MoonPay придбала інфраструктурний стартап Glide, заснований колишніми розробниками Robinhood Wallet. Це поглинання допоможе компанії значно розширити можливості для здійснення кросчейн-депозитів у криптовалюті.",
-      "ai_title": "MoonPay купує стартап Glide для покращення криптодепозитів"
-    },
     {
       "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
       "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
@@ -1876,6 +1795,15 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Кібербезпекова компанія Kaspersky ідентифікувала спеціалізований інструментарій, за допомогою якого зловмисники полюють на активи власників криптовалют. Атаки реалізуються через методи соціальної інженерії, спрямовані на крадіжку конфіденційних даних та криптогаманців.",
       "ai_title": "Kaspersky виявила нове шкідливе ПЗ для атак на криптоінвесторів"
+    },
+    {
+      "title": "Tokenization has become a strategic priority for 84% of financial firms",
+      "link": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "summary": "",
+      "published": "2026-07-18T14:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Згідно з останніми даними, 84% фінансових компаній визначили токенізацію як ключовий напрямок свого розвитку. Це свідчить про стрімке зростання інтересу традиційних фінансистів до інтеграції блокчейн-технологій у свої бізнес-процеси.",
+      "ai_title": "Токенізація активів стала стратегічним пріоритетом для фінсектору"
     }
   ]
 }
