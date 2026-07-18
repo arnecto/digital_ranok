@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-      "link": "https://news.ycombinator.com/item?id=48937020",
-      "summary": "<p>Hey HN, we’re Xia and Varun, the founders of Traceforce (<a href=\"https://www.traceforce.ai/\" rel=\"nofollow\">https://www.traceforce.ai/</a>). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtual machines) by discovering not just which apps are being used but also how they are connected to other data sources via ",
-      "published": "2026-07-16T16:52:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий стартап Traceforce пропонує інструменти для моніторингу та управління використанням ШІ-сервісів, таких як ChatGPT або Claude, на робочих пристроях. Рішення допомагає бізнесу відстежувати безпеку даних та способи їхньої взаємодії з різними джерелами.",
-      "ai_title": "Traceforce: корпоративний контроль за використанням ШІ-застосунків"
-    },
-    {
-      "title": "Roblox will let people use AI to make games on their phone",
-      "link": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
-      "summary": "Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The company has embraced AI with open arms, including a preview of an ambitious take on AI world models similar to Google's Project [&#8230;]",
-      "published": "2026-07-16T16:45:29+00:00",
-      "source": "The Verge",
-      "ai_summary": "Roblox дозволить користувачам створювати ігровий контент безпосередньо у мобільному застосунку за допомогою штучного інтелекту. Це значно спрощує процес розробки, роблячи платформу ще більш доступною для творців ігор.",
-      "ai_title": "Roblox впроваджує генеративний ШІ для створення ігор на смартфонах"
-    },
-    {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "summary": "<p>Article URL: <a href=\"https://blog.lyc8503.net/en/post/llm-classifier/\">https://blog.lyc8503.net/en/post/llm-classifier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936880\">https://news.ycombinator.com/item?id=48936880</a></p>\n<p>Points: 38</p>\n<p># Comments: 13</p>",
-      "published": "2026-07-16T16:41:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автори дослідження демонструють, що традиційні методи машинного навчання можуть бути ефективними для детекції ШІ-контенту. Це альтернативний підхід, який не потребує складних сучасних нейромереж для розпізнавання автоматично згенерованих текстів.",
-      "ai_title": "Класичне машинне навчання для виявлення текстів, створених ШІ"
-    },
-    {
       "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
       "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
       "summary": "<p>Article URL: <a href=\"https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/\">https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937756\">https://news.ycombinator.com/item?i",
@@ -37,24 +10,6 @@
       "ai_title": "Німецький консорціум випустив потужну відкриту ШІ-модель Soofi S"
     },
     {
-      "title": "Show HN: A modern port of Linux to a ten-year-old QWERTY phone",
-      "link": "https://news.ycombinator.com/item?id=48936554",
-      "summary": "<p>I ported modern Linux to a ten-year-old HTC QWERTY phone as a handheld terminal.<p>I wrote it up here: <a href=\"https://tmzt.github.io/blog/a-modern-port-of-linux-to-a-ten-year-old-qwerty-phone/\" rel=\"nofollow\">https://tmzt.github.io/blog/a-modern-port-of-linux-to-a-ten-...</a><p>You can see the code here:\n<a href=\"https://github.com/tmzt/linux-stable-msm-dtsi\" rel=\"nofollow\">https://github.com",
-      "published": "2026-07-16T16:15:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник успішно адаптував сучасне ядро Linux для роботи на застарілому смартфоні з фізичною клавіатурою. Пристрій було перетворено на повноцінний портативний термінал для технічних завдань.",
-      "ai_title": "Linux на старенькому смартфоні: ентузіаст портував систему на HTC з QWERTY-клавіатурою"
-    },
-    {
-      "title": "Agent-talk: Enabling coding agents to work together",
-      "link": "https://github.com/xhluca/agent-talk",
-      "summary": "<p>Article URL: <a href=\"https://github.com/xhluca/agent-talk\">https://github.com/xhluca/agent-talk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936534\">https://news.ycombinator.com/item?id=48936534</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
-      "published": "2026-07-16T16:14:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт Agent-talk пропонує інструментарій, що дозволяє різним ШІ-агентам ефективно співпрацювати під час написання коду. Це спрощує координацію між ними та підвищує продуктивність автоматизованої розробки.",
-      "ai_title": "Agent-talk: нова платформа для взаємодії ШІ-агентів у програмуванні"
-    },
-    {
       "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
       "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
@@ -62,15 +17,6 @@
       "source": "The Verge",
       "ai_summary": "Кеті Гокул залучила штучний інтелект для аналізу всіх чинних державних норм, правил та політик штату. Мета ініціативи — виявити та скасувати застарілі бюрократичні обмеження.",
       "ai_title": "Губернаторка Нью-Йорка використовує ШІ для ревізії державних правил"
-    },
-    {
-      "title": "Google is better at playing the AI regulations game",
-      "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
-      "summary": "Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory [&#8230;]",
-      "published": "2026-07-16T16:55:54+00:00",
-      "source": "The Verge",
-      "ai_summary": "Європейський Союз вимагає від Google надати розробникам ШІ ширший доступ до екосистеми Android. Попри видимий спротив, аналітики вважають це стратегічним маневром компанії у великій грі з державним регулюванням.",
-      "ai_title": "ЄС зобов'язав Google відкрити Android для конкурентів у сфері ШІ"
     },
     {
       "title": "Why are CD sales suddenly growing again?",
@@ -899,45 +845,27 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Через кілька тижнів після виходу компанії на біржу, інвестори почали активно ставити проти акцій SpaceX. Аналітики звертають увагу на зростання скепсису на ринку щодо майбутніх фінансових показників аерокосмічного гіганта.",
       "ai_title": "Трейдери масово грають на зниження акцій SpaceX після IPO"
+    },
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "link": "https://ykdojo.github.io/claude-controls-mac/",
+      "summary": "<p>Article URL: <a href=\"https://ykdojo.github.io/claude-controls-mac/\">https://ykdojo.github.io/claude-controls-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959392\">https://news.ycombinator.com/item?id=48959392</a></p>\n<p>Points: 38</p>\n<p># Comments: 8</p>",
+      "published": "2026-07-18T16:12:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Цей гайд пояснює, як налаштувати запасний комп’ютер Mac для виконання команд ШІ-асистента Claude Code. Це дозволяє делегувати технічні завдання та автоматизувати роботу за допомогою великих мовних моделей.",
+      "ai_title": "Керування комп’ютером Mac за допомогою Claude Code: покроковий посібник"
+    },
+    {
+      "title": "Google is open-sourcing its 3D emoji",
+      "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when [&#8230;]",
+      "published": "2026-07-18T16:40:55+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google зробила свої фірмові 3D-піктограми доступними для використання сторонніми розробниками. Компанія поділилася деталями процесу дизайну, пояснивши складнощі створення тривимірних емодзі порівняно з їхніми пласкими аналогами.",
+      "ai_title": "Google відкриває доступ до своїх 3D-емодзі"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "summary": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outc",
-      "published": "2026-07-16T16:40:48+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Дослідження виявило, що підприємства надають ШІ-агентам більше автономії, ніж дозволяють їхні системи оцінки безпеки. Більшість компаній вже стикалися з помилками агентів у реальних умовах, що ставить під сумнів надійність поточних методів тестування ШІ.",
-      "ai_title": "Бізнес стикається з кризою довіри до ШІ-агентів"
-    },
-    {
-      "title": "X cracks down on creators who steal content",
-      "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
-      "summary": "X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.",
-      "published": "2026-07-16T16:40:36+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Соціальна мережа X впроваджує ШІ-модель Grok для автоматичного виявлення плагіату. Система перенаправлятиме виплати за монетизацію від авторів-крадіїв до оригінальних творців контенту.",
-      "ai_title": "X використовуватиме Grok AI для боротьби з крадіжками контенту"
-    },
-    {
-      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
-      "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food delivery platforms outside China.",
-      "published": "2026-07-16T17:12:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Uber уклав угоду про поглинання Delivery Hero, що дозволить компанії майже вдвічі розширити свою глобальну присутність. Це об'єднання створить одну з найбільших платформ доставки їжі у світі, за винятком ринку Китаю.",
-      "ai_title": "Uber купує Delivery Hero за 14,8 млрд доларів"
-    },
-    {
-      "title": "Oil giant BP shutters its corporate venture arm after 20 years",
-      "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
-      "summary": "BP Ventures is shutting down, ending a nearly 20 year run that was marked by reportedly lackluster returns.",
-      "published": "2026-07-16T17:37:03+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія BP Ventures припиняє роботу після 20 років діяльності. Рішення ухвалено через незадовільні фінансові результати інвестиційного підрозділу.",
-      "ai_title": "Нафтовий гігант BP закриває свій венчурний підрозділ"
-    },
     {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
       "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
@@ -946,15 +874,6 @@
       "source": "VentureBeat",
       "ai_summary": "Дослідження показує, що бізнес інвестує в ШІ-обчислення випереджаючими темпами, не маючи чіткого контролю над економічною доцільністю. Більшість організацій планують змінити або доповнити своїх постачальників інфраструктури вже протягом найближчого кварталу.",
       "ai_title": "Компанії витрачають на ШІ-інфраструктуру швидше, ніж можуть оцінити її вартість"
-    },
-    {
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "summary": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, w",
-      "published": "2026-07-16T17:06:08+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Аналіз показує, що бізнес розвиває інфраструктуру для ШІ-агентів швидше, ніж встигає забезпечити безпеку даних. Попри впровадження сучасних технологій, компанії часто стикаються з проблемою «галюцинацій» та помилкових відповідей своїх ШІ-систем.",
-      "ai_title": "Головна проблема корпоративного ШІ — брак довіри, а не технологій"
     },
     {
       "title": "Google Vids now lets you star in your own AI videos",
@@ -975,15 +894,6 @@
       "ai_title": "Roblox впровадив створення ігор за допомогою ШІ у мобільному додатку"
     },
     {
-      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-      "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.",
-      "published": "2026-07-16T17:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Сервіс Beehiiv представив ШІ-копілота для допомоги авторам у розвитку аудиторії та аналізі даних. Крім того, платформа додає функції соціальної взаємодії, що дозволяють підписникам спілкуватися між собою всередині розсилок.",
-      "ai_title": "Платформа розсилок Beehiiv інтегрує ШІ-помічника та чати для підписників"
-    },
-    {
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
       "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
       "summary": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack ",
@@ -991,15 +901,6 @@
       "source": "VentureBeat",
       "ai_summary": "Більшість підприємств надають ШІ-агентам доступ до важливих систем, не забезпечуючи належного захисту. Через спільне використання облікових даних та відсутність ізоляції агентів 54% компаній вже зіткнулися з реальними проблемами безпеки.",
       "ai_title": "Кіберзагрози ШІ-агентів: понад половина компаній вже мали інциденти безпеки"
-    },
-    {
-      "title": "Zero trust must now move at agent speed",
-      "link": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed",
-      "summary": "<p><i>Presented by Ping Identity </i></p><hr /><p>Enterprises need to treat zero trust security architecture as an immediate requirement for AI agents rather than a long-term goal, says Andre Durand, CEO and founder of Ping Identity. Zero trust, the security model built on the assumption that no user, device, or system should be automatically trusted, requires continuous verification before every ",
-      "published": "2026-07-16T17:10:15+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Експерти наголошують, що архітектура нульової довіри має стати негайним стандартом для роботи з ШІ. Оскільки агенти отримують доступ до корпоративних даних, безперервна верифікація кожного кроку є необхідною умовою безпеки.",
-      "ai_title": "Модель Zero Trust стає критично важливою для ШІ-агентів"
     },
     {
       "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
@@ -1270,63 +1171,18 @@
       "source": "TechCrunch",
       "ai_summary": "Міністерство юстиції США зняло заборону на завантаження застосунку TikTok на державні смартфони. Це рішення скасовує попередні обмеження для федеральних службовців.",
       "ai_title": "Американським держслужбовцям знову дозволили використовувати TikTok на робочих пристроях"
+    },
+    {
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+      "published": "2026-07-18T16:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Honda Prologue припиняє продажі в США, поповнюючи список електромобілів, які цьогоріч залишили американський ринок. Ця тенденція свідчить про серйозні зміни та оптимізацію модельних рядів у сегменті електричного транспорту.",
+      "ai_title": "Які електромобілі зникли з ринку США у 2024 році"
     }
   ],
   "Крипта": [
-    {
-      "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-      "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-      "summary": "",
-      "published": "2026-07-16T16:14:30+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Visa впроваджує підтримку стандарту Open USD через нову платформу для стейблкоїнів. Це створює серйозну конкуренцію для компанії Circle на ринку цифрових платежів.",
-      "ai_title": "Visa запускає платформу для стейблкоїнів"
-    },
-    {
-      "title": "Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash",
-      "link": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-vs-stocks-breaking-news-1.png\" /></p><p>Eligible E*TRADE retail clients can now buy, sell and hold Bitcoin, Ether and Solana through a partnership with cryp",
-      "published": "2026-07-16T16:32:01+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Роздрібні клієнти E*TRADE тепер можуть купувати, продавати та зберігати Bitcoin, Ether та Solana. Послуга реалізована завдяки стратегічному партнерству з провайдером інфраструктури Zero Hash.",
-      "ai_title": "E*TRADE від Morgan Stanley відкрив доступ до спотової торгівлі криптоактивами"
-    },
-    {
-      "title": "Tradable’s $1B Stellar deal adds to institutional tokenization boom",
-      "link": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tradable’s $1B Stellar deal adds to institutional tokenization boom\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-are-smart-contracts-stellar.jpg\" /></p><p>Tradable will bring up to $1 billion in private credit assets to Stellar, extending the blockchain’s push into institutional fin",
-      "published": "2026-07-16T16:19:16+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Tradable перенесе приватні кредитні активи на суму до 1 мільярда доларів на блокчейн Stellar. Це значний крок для інтеграції традиційних фінансових інструментів у сферу децентралізованих фінансів.",
-      "ai_title": "Stellar залучає $1 млрд у межах буму токенізації активів"
-    },
-    {
-      "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
-      "link": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
-      "summary": "",
-      "published": "2026-07-16T16:37:16+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Stripe розглядає можливість поглинання PayPal за 53 мільярди доларів. Ця угода може докорінно змінити майбутнє ринку цифрових транзакцій.",
-      "ai_title": "Stripe прагне придбати PayPal: стратегічний крок у сфері цифрових платежів"
-    },
-    {
-      "title": "Bitcoin price dips on US stocks sell-off as Micron losses pass 30%",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-dips-with-us-stocks-as-tech-sell-off-as-micron-losses-pass-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price dips on US stocks sell-off as Micron losses pass 30%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/market-red-graph-falling-danger-stones-bitcoin-2.jpg\" /></p><p>Bitcoin fell 1.5% from local highs amid a reversal in US stocks as markets moved from bullish US inflation cues to r",
-      "published": "2026-07-16T16:58:02+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Курс біткоїна знизився на 1,5% через загальний негативний тренд на американських фондових біржах. На ринок вплинули збитки компанії Micron, що перевищили 30%.",
-      "ai_title": "Біткоїн падає на тлі розпродажів на фондовому ринку США"
-    },
-    {
-      "title": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO",
-      "link": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ethical-considerations-in-ai-development-and-deployment.png\" /></p><p>A former CFTC commissioner urged lawmakers not to “kill all the hard work that we",
-      "published": "2026-07-16T16:47:09+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Голова Blockchain Association заявив, що питання етики не входять до сфери занепокоєння асоціації. Водночас експерти закликають законодавців не гальмувати розвиток галузі надмірним регулюванням.",
-      "ai_title": "Етичні питання структури крипторинку не є пріоритетом для Blockchain Association"
-    },
     {
       "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
       "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
@@ -1786,6 +1642,15 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Величезний обсяг капіталу в криптоактивах фактично «заморожений» і не приносить прибутку. Експерти пояснюють це неефективним управлінням капіталом та відсутністю привабливих інструментів для його використання в екосистемі DeFi.",
       "ai_title": "Чому 1,6 мільярда доларів криптоліквідності залишаються бездіяльними"
+    },
+    {
+      "title": "DOG Mode explains Bitcoin's next governance fight",
+      "link": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "summary": "",
+      "published": "2026-07-18T17:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Концепція DOG Mode стає центром дискусій у спільноті Bitcoin, що піднімає питання про майбутні зміни в управлінні мережею. Це нововведення може спровокувати серйозні дебати щодо децентралізації та розвитку протоколу.",
+      "ai_title": "DOG Mode: нова арена для суперечок щодо управління Bitcoin"
     }
   ]
 }
