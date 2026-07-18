@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-      "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-      "summary": "<p>Article URL: <a href=\"https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/\">https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937756\">https://news.ycombinator.com/item?i",
-      "published": "2026-07-16T17:44:46+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова мовна модель Soofi S з 30 мільярдами параметрів демонструє найкращі результати в галузевих тестах для англійської та німецької мов. Це відкрите рішення є важливим кроком для розвитку незалежних ШІ-технологій у Європі.",
-      "ai_title": "Німецький консорціум випустив потужну відкриту ШІ-модель Soofi S"
-    },
-    {
-      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
-      "published": "2026-07-16T17:58:37+00:00",
-      "source": "The Verge",
-      "ai_summary": "Кеті Гокул залучила штучний інтелект для аналізу всіх чинних державних норм, правил та політик штату. Мета ініціативи — виявити та скасувати застарілі бюрократичні обмеження.",
-      "ai_title": "Губернаторка Нью-Йорка використовує ШІ для ревізії державних правил"
-    },
-    {
       "title": "Why are CD sales suddenly growing again?",
       "link": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
       "summary": "CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 million CDs were sold in the first half of 2026 in the US, a 16 percent increase year-over-year. The growth in CD sales was driven [&#8230;]",
@@ -35,15 +17,6 @@
       "source": "The Verge",
       "ai_summary": "Федеральні слідчі підозрюють Габріеля Переса, який працював оператором телесуфлера Дональда Трампа, у використанні конфіденційної інформації для ставок на платформі Kalshi. Він робив прогнози щодо виступів президента, спираючись на знання про текст, який той мав озвучити.",
       "ai_title": "Оператора телесуфлера Трампа звинуватили в інсайдерській торгівлі"
-    },
-    {
-      "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
-      "link": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
-      "summary": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon and directly from [&#8230;]",
-      "published": "2026-07-16T17:57:15+00:00",
-      "source": "The Verge",
-      "ai_summary": "Гібридний робот-пилосос з функцією вологого прибирання Ecovacs Deebot X11 отримав значну знижку. Наразі пристрій можна придбати за 699 доларів, що на 400 доларів менше від початкової ціни.",
-      "ai_title": "Робот-пилосос Ecovacs Deebot X11 суттєво подешевшав"
     },
     {
       "title": "Timeline Scan – AI fixes the dates on your scanned photos",
@@ -863,18 +836,45 @@
       "source": "The Verge",
       "ai_summary": "Google зробила свої фірмові 3D-піктограми доступними для використання сторонніми розробниками. Компанія поділилася деталями процесу дизайну, пояснивши складнощі створення тривимірних емодзі порівняно з їхніми пласкими аналогами.",
       "ai_title": "Google відкриває доступ до своїх 3D-емодзі"
+    },
+    {
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "link": "https://queue.acm.org/detail.cfm?id=3818307",
+      "summary": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3818307\">https://queue.acm.org/detail.cfm?id=3818307</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960155\">https://news.ycombinator.com/item?id=48960155</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-18T17:27:24+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття аналізує проблему нескінченних дискусій навколо дрібних деталей у розробці програмного забезпечення. Автор пояснює, як зосередженість на другорядних питаннях заважає досягненню результатів та чому важливо вміти вчасно зупинитися.",
+      "ai_title": "Мистецтво завершення проєктів: прощання з «байкшедингом»"
+    },
+    {
+      "title": "Fake food delivery site for the dopamine",
+      "link": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
+      "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/\">https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959355\">https://news.ycombinator.com/item?id=48959355</a></p>\n<p>Points: 37</p>\n<p># Comments",
+      "published": "2026-07-18T16:08:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробка спеціалізованого сайту-симулятора доставки їжі допомагає людям з розладами харчової поведінки отримувати дофамінове підкріплення без реального споживання зайвих калорій. Це цікавий приклад використання цифрових інтерфейсів для психологічної підтримки та самоконтролю.",
+      "ai_title": "Фейковий сервіс доставки їжі як інструмент боротьби з розладами харчування"
+    },
+    {
+      "title": "The Fermi Paradox, Percolation, and Inbreeding",
+      "link": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
+      "summary": "<p>Article URL: <a href=\"https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/\">https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959102\">https://news.ycombinator.com/item?id=48959102</a></p>\n<p>Points: 11</p>\n<p># Comments: 12</p>",
+      "published": "2026-07-18T15:38:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор досліджує нові гіпотези Парадоксу Фермі, пов'язуючи теорію перколяції та наслідки генетичної ізоляції. Стаття пропонує нестандартний погляд на те, чому високорозвинені цивілізації можуть бути приречені на зникнення.",
+      "ai_title": "Парадокс Фермі: чи сприяє теорія перколяції вимиранню цивілізацій?"
+    },
+    {
+      "title": "If You Build It, They Will Come",
+      "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "summary": "<p>Article URL: <a href=\"https://www.benlandautaylor.com/p/if-you-build-it-they-will-come\">https://www.benlandautaylor.com/p/if-you-build-it-they-will-come</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959090\">https://news.ycombinator.com/item?id=48959090</a></p>\n<p>Points: 42</p>\n<p># Comments: 16</p>",
+      "published": "2026-07-18T15:37:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітичний розбір того, чому створення якісного продукту сьогодні недостатньо для гарантованого успіху на ринку. Автор пояснює, як змінилися правила залучення користувачів і чому розробникам потрібно приділяти більше уваги маркетингу та стратегії.",
+      "ai_title": "Чому стратегія «побудуй — і вони прийдуть» більше не працює"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "summary": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisi",
-      "published": "2026-07-16T17:35:19+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Дослідження показує, що бізнес інвестує в ШІ-обчислення випереджаючими темпами, не маючи чіткого контролю над економічною доцільністю. Більшість організацій планують змінити або доповнити своїх постачальників інфраструктури вже протягом найближчого кварталу.",
-      "ai_title": "Компанії витрачають на ШІ-інфраструктуру швидше, ніж можуть оцінити її вартість"
-    },
     {
       "title": "Google Vids now lets you star in your own AI videos",
       "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
@@ -1191,15 +1191,6 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Керуючий активами на $1,9 трлн, компанія T. Rowe Price, виходить на ринок криптовалют через запуск інвестиційного фонду з використанням кількох токенів. Це підкреслює зростаючий інтерес великих інституційних гравців до активного управління цифровими активами.",
       "ai_title": "T. Rowe Price запускає свій перший активний крипто-ETF"
-    },
-    {
-      "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
-      "link": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
-      "summary": "",
-      "published": "2026-07-16T18:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Масштабні інвестиції від Citadel Securities оцінили біржу Crypto.com у $20 мільярдів. Це свідчить про високу довіру великих фінансових структур до майбутнього централізованих криптоплатформ.",
-      "ai_title": "Citadel Securities інвестує $400 млн у криптобіржу Crypto.com"
     },
     {
       "title": "BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments",
