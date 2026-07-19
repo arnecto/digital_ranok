@@ -809,18 +809,18 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Запущено новий освітній проєкт, що використовує великі мовні моделі для навчання вищій математиці. Платформа пропонує інтерактивний підхід до вивчення багатозмінного числення, адаптуючись до темпу та запитань користувача.",
       "ai_title": "Інтерактивний курс з багатозмінного числення на базі LLM"
+    },
+    {
+      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+      "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+      "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea\">https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965161\">https://news.ycombinator.com/item?id=48965161</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-19T05:07:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технічний огляд розкриває особливості нової архітектури AMD через зміни в коді LLVM. Дослідження дозволяє зрозуміти векторний набір інструкцій та потенційні можливості майбутніх графічних чипів компанії.",
+      "ai_title": "Аналіз архітектури майбутніх графічних процесорів AMD GFX1250"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
-      "link": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
-      "summary": "Some Amazon customers logged on Friday to a surprise bill estimate claiming that they owed the tech and cloud giant billions in fees.",
-      "published": "2026-07-17T15:29:21+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Клієнти хмарного сервісу Amazon зіткнулися з помилкою у системі білінгу, яка відображала астрономічні суми заборгованості. Компанія оперативно відреагувала на збій, щоб усунути некоректні нарахування.",
-      "ai_title": "Amazon виправила баг, через який клієнти AWS отримували рахунки на мільярди доларів"
-    },
     {
       "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
       "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
@@ -1057,15 +1057,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
-      "link": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/teaching-coin-board-bitcoin.jpg\" /></p><p>“Over time the economic incentives will drive $DOG Mode’s adoption and force Bitcoin Core to stop gatekeeping and allow these completely",
-      "published": "2026-07-17T05:54:04+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Прихильник протоколу Ordinals Леонідас анонсував створення альтернативного клієнта для мережі Bitcoin під назвою «$DOG Mode». Цей крок спрямований на боротьбу з обмеженнями Bitcoin Core та розширення можливостей для обробки транзакцій, пов'язаних з цифровими активами на базі Ordinals.",
-      "ai_title": "Розробники пропонують новий клієнт Bitcoin з підтримкою «DOG Mode»"
-    },
     {
       "title": "Bitcoin ETFs add $368M in three-day buying streak",
       "link": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1417,6 +1408,15 @@
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "ai_summary": "Французька влада наказала інтернет-провайдерам обмежити доступ до популярної платформи прогнозних ринків Polymarket. Це рішення пов'язане з регуляторними вимогами щодо діяльності платформи на території країни.",
       "ai_title": "Франція блокує доступ до Polymarket для місцевих користувачів"
+    },
+    {
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "summary": "",
+      "published": "2026-07-19T05:37:34+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Розробники Zcash тестують нову архітектуру вузлів, здатну обробляти транзакції на рівні платіжної системи Visa. Це оновлення спрямоване на значне підвищення пропускної здатності мережі зі збереженням високого рівня конфіденційності користувачів.",
+      "ai_title": "Zcash розробляє вузол для масштабування до 50 000 транзакцій на секунду"
     }
   ]
 }
