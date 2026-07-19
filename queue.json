@@ -1,15 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166\">https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946303\">https://news.ycombinator.com/item?id=48946303</a></p>\n<p>Points: 107</p>\n<p># Comments: 62</p>",
-      "published": "2026-07-17T12:02:39+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Apple надіслала офіційні листи десяткам працівників OpenAI, що може свідчити про загострення корпоративної конкуренції за таланти у сфері штучного інтелекту. Це створює напругу між двома гігантами, які борються за домінування на ринку AI-технологій.",
-      "ai_title": "Apple розсилає юридичні попередження співробітникам OpenAI"
-    },
-    {
       "title": "VulnHunter: Capital One's agentic AI code security tool",
       "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
       "summary": "<p>Article URL: <a href=\"https://www.capitalone.com/tech/open-source/announcing-vulnhunter/\">https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946692\">https://news.ycombinator.com/item?id=48946692</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
@@ -872,18 +863,27 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Стаття описує шлях відмови та відновлення роботи власного домашнього сервера. Автор ділиться технічними особливостями оновлення інфраструктури та порадами щодо підтримки персональних серверних систем.",
       "ai_title": "Перезавантаження домашнього сервера: досвід та висновки"
+    },
+    {
+      "title": "Save GPT-5.5",
+      "link": "https://save-gpt-5-5.fyi/",
+      "summary": "<p>Article URL: <a href=\"https://save-gpt-5-5.fyi/\">https://save-gpt-5-5.fyi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966665\">https://news.ycombinator.com/item?id=48966665</a></p>\n<p>Points: 6</p>\n<p># Comments: 5</p>",
+      "published": "2026-07-19T10:23:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ініціатива 'Save GPT-5.5' привертає увагу до ризиків, пов'язаних із прискореним випуском нових поколінь мовних моделей. Автори закликають до більш виваженого підходу та ретельнішого контролю безпеки під час розробки наступних версій штучного інтелекту.",
+      "ai_title": "Кампанія за безпечний розвиток GPT-5.5"
+    },
+    {
+      "title": "The future of physical games is not looking great",
+      "link": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started As a kid, I relished trips to [&#8230;]",
+      "published": "2026-07-19T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Індустрія відеоігор поступово відмовляється від фізичних носіїв на користь цифрової дистрибуції. Ця тенденція викликає занепокоєння серед колекціонерів та гравців, оскільки право власності на цифровий контент стає все менш стабільним.",
+      "ai_title": "Майбутнє фізичних копій відеоігор під загрозою"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-      "published": "2026-07-17T15:21:17+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа Patreon посилила захист контенту авторів, перейшовши від пасивних заборон до активного блокування ботів через інструменти Cloudflare. Це дозволить запобігти несанкціонованому використанню робіт творців для навчання штучного інтелекту.",
-      "ai_title": "Patreon починає активно блокувати AI-ботів замість того, щоб просто просити їх не збирати дані"
-    },
     {
       "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
       "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
@@ -1112,20 +1112,6 @@
   ],
   "Крипта": [
     {
-      "title": "AI frenzy losing steam leaves bitcoin less volatile than South Korean stocks",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/17/ai-frenzy-losing-steam-leaves-bitcoin-less-volatile-than-south-korean-stocks",
-      "summary": "",
-      "published": "2026-07-17T11:48:20+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Stablecoin growth will erode bank deposits, says ECB’s Cipollone",
-      "link": "https://cointelegraph.com/news/stablecoin-growth-bank-deposits-ecbs-cipollone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin growth will erode bank deposits, says ECB’s Cipollone\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu.jpg\" /></p><p>ECB’s Piero Cipollone said stablecoin adoption could erode bank deposits, arguing the digital euro would",
-      "published": "2026-07-17T12:03:51+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
       "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
       "link": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HSBC wins Bank of England approval to enter Digital Securities Sandbox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-blockchain-initiatives-hsbc.jpg\" /></p><p>The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instr",
@@ -1151,15 +1137,6 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Регіон стає дедалі популярнішим серед провідних гравців ринку, таких як Kraken, Bitfinex та 1inch. Вигідні регуляторні умови роблять острови стратегічно важливою юрисдикцією для криптокомпаній.",
       "ai_title": "Британські Віргінські острови: прихований центр світової криптоіндустрії"
-    },
-    {
-      "title": "Dutch court declares crypto platform Knaken bankrupt over missing funds",
-      "link": "https://cointelegraph.com/news/dutch-court-knaken-crypto-platform-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dutch court declares crypto platform Knaken bankrupt over missing funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/man-documents-breaking-news.png\" /></p><p>The Rotterdam court said bankruptcy was necessary to ensure an orderly settlement because the company lacked enough assets to fully ",
-      "published": "2026-07-17T12:21:55+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Суд у Роттердамі оголосив про банкрутство біржі Knaken через критичну нестачу активів для виконання зобов'язань перед клієнтами. Процедура банкрутства має забезпечити максимально можливе врегулювання боргів перед користувачами.",
-      "ai_title": "Нідерландську криптоплатформу Knaken визнано банкрутом"
     },
     {
       "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
