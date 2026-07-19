@@ -148,10 +148,15 @@ def rank_and_summarize(category, entries, max_items):
         "1. Переклади/адаптуй заголовок українською (стисло, як заголовок новини, "
         "не дослівний переклад, а природний український заголовок).\n"
         "2. Напиши коротке summary (2-3 речення) українською.\n"
+        "3. Запропонуй 2-4 англійських ключових слова для пошуку релевантного "
+        "стокового відео на цю тему (наприклад для новини про позов Apple проти "
+        "OpenAI: \"courtroom, lawsuit\"; для новини про новий чіп: \"microchip, "
+        "computer hardware\"). Ключові слова мають описувати ВІЗУАЛЬНУ сцену, "
+        "не абстрактне поняття.\n"
         "Незалежно від мови оригіналу (англійська, українська чи будь-яка інша) — "
         "і заголовок, і summary мають бути ЛИШЕ українською.\n"
         'Поверни ЛИШЕ JSON-масив об\'єктів формату:\n'
-        '[{"index": <номер з дужок>, "title": "<укр. заголовок>", "summary": "<укр. текст>"}]\n'
+        '[{"index": <номер з дужок>, "title": "<укр. заголовок>", "summary": "<укр. текст>", "video_keywords": "<англ. ключові слова через кому>"}]\n'
         "Без жодного іншого тексту, без markdown-обгортки.\n\n"
         f"Новини:\n{items_text}"
     )
@@ -197,6 +202,7 @@ def rank_and_summarize(category, entries, max_items):
         item = entries[idx].copy()
         item["ai_summary"] = p.get("summary", item["summary"])
         item["ai_title"] = p.get("title", item["title"])
+        item["video_keywords"] = p.get("video_keywords", category)
         selected.append(item)
     return selected
 
@@ -480,6 +486,9 @@ def main():
         "title": display_title,
         "category": category,
         "posted_at": datetime.now(KYIV_TZ).isoformat(),
+        "summary": item.get("ai_summary", item["summary"]),
+        "video_keywords": item.get("video_keywords", category),
+        "link": item["link"],
     }
     state["last_publish_at"] = now_utc.isoformat()
 
