@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Mozilla: The state of open source AI",
-      "link": "https://stateofopensource.ai/",
-      "summary": "<p>Article URL: <a href=\"https://stateofopensource.ai/\">https://stateofopensource.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947825\">https://news.ycombinator.com/item?id=48947825</a></p>\n<p>Points: 86</p>\n<p># Comments: 39</p>",
-      "published": "2026-07-17T14:31:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналітичний звіт Mozilla про поточний стан індустрії відкритого штучного інтелекту. Дослідження фокусується на викликах та можливостях для спільнот, що розвивають прозорі технології ШІ.",
-      "ai_title": "Mozilla: Стан відкритого ШІ"
-    },
-    {
-      "title": "Show HN: On-chain bond market where the issuers are AI agents",
-      "link": "https://selbonds.now",
-      "summary": "<p>Hi Hacker News, I built sellbonds.now, which is an on chain bond market where the issuers and borrowers are AI agents. sellbonds.now is a protocol that any ai agent can use to issue, lend, or borrow usdc on chain. \nI'm fascinated by the idea of agentic autonomous finance - a future where AI agents aren't acting on behalf of humans, but where they are autonomous financial actors themselves, issu",
-      "published": "2026-07-17T14:25:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив платформу, де ШІ-агенти можуть самостійно випускати, позичати або кредитувати активи в мережі. Це крок до концепції автономних фінансів, де ШІ діє як незалежний фінансовий суб'єкт.",
-      "ai_title": "Ринок облігацій для автономних ШІ-агентів"
-    },
-    {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "summary": "<p>Article URL: <a href=\"https://blog.zksecurity.xyz/posts/openvm-bugs/\">https://blog.zksecurity.xyz/posts/openvm-bugs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947714\">https://news.ycombinator.com/item?id=48947714</a></p>\n<p>Points: 24</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-17T14:21:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття описує досвід застосування ШІ для пошуку помилок у ZkVM (Zero-Knowledge Virtual Machine) від OpenVM. Результати демонструють ефективність автоматизованих інструментів у виявленні вразливостей складних криптографічних систем.",
-      "ai_title": "ШІ шукає вразливості в криптографії OpenVM"
-    },
-    {
       "title": "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware",
       "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
       "summary": "Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 [&#8230;]",
@@ -35,24 +8,6 @@
       "source": "The Verge",
       "ai_summary": "У США заарештували чоловіка, який через заражені ігри в Steam викрав понад 220 000 доларів у криптовалюті. Зловмисники поширювали шкідливий код, що дозволяв отримати доступ до цифрових гаманців близько 8 000 користувачів.",
       "ai_title": "Криптовалютне шахрайство через шкідливе ПЗ у Steam"
-    },
-    {
-      "title": "Claude Code: Anatomy of a Misfeature",
-      "link": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-      "summary": "<p>Article URL: <a href=\"https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/\">https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947776\">https://news.ycombinator.com/item?id=48947776</a></p>\n<p>Points: 84</p>\n<p># Comments: 46</p>",
-      "published": "2026-07-17T14:26:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті детально розглядаються потенційні проблеми та невдалі дизайнерські рішення в інструменті Claude Code. Автор критично аналізує функціональність ШІ-асистента для програмування та його вплив на робочі процеси розробників.",
-      "ai_title": "Аналіз недоліків Claude Code"
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">https://simonwillison.net/2026/Jul/16/kimi-k3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947717\">https://news.ycombinator.com/item?id=48947717</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
-      "published": "2026-07-17T14:21:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Огляд нової мовної моделі Kimi K3 та аналіз того, як застарілі методи тестування, такі як бенчмарк Pelican, все ще можуть давати цінні інсайти. Автор досліджує еволюцію оцінки можливостей штучного інтелекту.",
-      "ai_title": "Модель Kimi K3 та уроки бенчмарку Pelican"
     },
     {
       "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
@@ -858,18 +813,19 @@
       "ai_summary": "Аналіз культового пристрою для керування освітленням через оплески, який попри технічні недоліки став культурним феноменом. Стаття розглядає історію цього гаджета як один із перших невдалих кроків до створення розумного дому.",
       "ai_title": "Феномен The Clapper: чому «розумний» гаджет став легендою",
       "video_keywords": "old light switch, apartment interior, clapping, retro technology"
+    },
+    {
+      "title": "US Marshals arrest the Tate brothers in Miami",
+      "link": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami",
+      "summary": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are seeking the brothers' extradition. The new charges facing Andrew Tate include seven counts of rape, three of sex trafficking, three counts [&#8230;]",
+      "published": "2026-07-19T14:20:48+00:00",
+      "source": "The Verge",
+      "ai_summary": "Інфлюенсерів Ендрю та Трістана Тейтів було затримано службою маршалів США у Маямі. Їх звинувачують у зґвалтуваннях та торгівлі людьми, Британія готує запит на екстрадицію.",
+      "ai_title": "Братів Тейт заарештували у Маямі за запитом Великої Британії",
+      "video_keywords": "police handcuffs, police cars, city street, arrest"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-      "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-      "summary": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being held to seed-stage [&#8230;]",
-      "published": "2026-07-17T14:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На конференції Disrupt експерти пояснюють, як переконати інвесторів у своїй ідеї в умовах перенасиченого ринку AI-стартапів. Ключовими інструментами для засновників на ранніх етапах стають майстерність сторітелінгу та впевненість у власному баченні.",
-      "ai_title": "Як залучити pre-seed інвестиції, навіть якщо у вас ще немає готового продукту"
-    },
     {
       "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
       "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
@@ -1089,15 +1045,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/16codemonitor-bitcoin.jpg\" /></p><p>Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its ",
-      "published": "2026-07-17T14:37:39+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Курс головної криптовалюти знизився на фоні побоювань щодо конфлікту між Іраном та Ізраїлем, що також негативно вплинуло на фондові ринки США. Біткоїн продемонстрував кореляцію з традиційними акціями, відреагувавши на посилення глобальної ризикової ситуації.",
-      "ai_title": "Ціна біткоїна впала нижче 62,5 тисяч доларів через геополітичну напруженість"
-    },
     {
       "title": "Cardano hands core development to outside teams in decentralization push",
       "link": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
