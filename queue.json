@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-      "link": "https://app.everything.diena.co/",
-      "summary": "<p>I'm building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.<p>This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia / Wikidata, scored using PageRank. There is more information on the about page.<p>If you're interested in the stack: I use Kotlin Multiplatform extensively, with Com",
-      "published": "2026-07-17T18:37:33+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив візуальний інструмент на Kotlin Multiplatform для навігації чотирма мільйонами історичних подій. Дані структуровані за допомогою алгоритму PageRank, що дозволяє користувачам досліджувати історію в зручному масштабованому форматі.",
-      "ai_title": "Інтерактивна шкала часу з 4 мільйонами подій з Wikipedia"
-    },
-    {
-      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
-      "link": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
-      "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an interview this week. \"Do people trust the product [&#8230;]",
-      "published": "2026-07-17T19:14:42+00:00",
-      "source": "The Verge",
-      "ai_summary": "Ерік Мігіковскі пояснює, що пропонує лише 30-денну гарантію на нові смартгодинники Pebble через акцент на особистій відповідальності перед клієнтами. На його думку, такий підхід будує міцнішу довіру між розробником і користувачем, ніж юридичні зобов'язання.",
-      "ai_title": "Засновник Pebble про короткий гарантійний термін як інструмент довіри"
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]",
-      "published": "2026-07-17T19:34:30+00:00",
-      "source": "The Verge",
-      "ai_summary": "TikTok розпочав тестування нової функції, яка дозволяє авторам контенту сканувати відео на наявність AI-копій їхньої зовнішності. У разі виявлення несанкціонованого використання, творці можуть поскаржитися на такі матеріали до адміністрації платформи.",
-      "ai_title": "TikTok тестує інструмент для виявлення діпфейків"
-    },
-    {
-      "title": "ICE Flight Monitor Interactive Dashboard",
-      "link": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
-      "summary": "<p>Article URL: <a href=\"https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard\">https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951014\">https://news.ycombinator.com/item?id=48951014</a></p>\n<p>Points: 32</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-17T18:59:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Опубліковано інтерактивну панель, що дозволяє відстежувати польоти Імміграційної та митної служби США (ICE). Проєкт надає прозорий доступ до даних про переміщення літаків у межах державної міграційної політики.",
-      "ai_title": "Запущено інтерактивний моніторинг авіарейсів ICE"
-    },
-    {
       "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
       "link": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
       "summary": "Portable fans are one of the easiest ways to stay cool during the summer, and you don&#8217;t have to spend much to find a decent one. If you&#8217;re looking for something more versatile, though, Shark&#8217;s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch evaporative mister in a design that can [&#8230;]",
@@ -826,45 +790,19 @@
       "ai_summary": "Дослідники виявили, що сучасні стандарти C++ настільки складні, що жоден з основних компіляторів, включаючи GCC та Clang, не забезпечує їх повну відповідність. Це ставить під питання надійність коду в критичних проектах.",
       "ai_title": "Популярні компілятори GCC та Clang не відповідають стандартам C++",
       "video_keywords": "programming code, computer screen, developer workspace, keyboard"
+    },
+    {
+      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "link": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+      "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact [&#8230;]",
+      "published": "2026-07-19T19:26:06+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Reto Project представила нову 35-мм камеру Kodak EC35 за ціною всього 35 доларів. Пристрій має базові характеристики та акриловий об'єктив, що робить його доступною альтернативою одноразовим камерам.",
+      "ai_title": "Kodak випустив ультрабюджетну плівкову камеру",
+      "video_keywords": "analog camera, film photography, holding camera, vintage camera"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
-      "link": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
-      "summary": "<p>Legacy infrastructure, not the models themselves, is what&#x27;s actually slowing AI agents down. That was the shared conclusion of three infrastructure leaders —<!-- --> from LinkedIn, Walmart, and Zendesk —<!-- --> at<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a>.</p><p>The panel brought together Animesh Singh, senior director of AI platform and infrastructure at Lin",
-      "published": "2026-07-17T18:48:18+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Представники LinkedIn, Walmart та Zendesk на конференції VB Transform 2026 заявили, що саме застарілі технологічні системи, а не самі моделі, є головною перешкодою для швидкості роботи штучного інтелекту. Компанії шукають способи модернізації своєї інфраструктури, щоб встигати за швидкістю обробки запитів сучасними AI-агентами.",
-      "ai_title": "Застаріла інфраструктура гальмує розвиток AI-агентів"
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "published": "2026-07-17T20:09:27+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Бум штучного інтелекту кардинально змінює споживчий попит та стратегії виробників електроніки в Індії. Це призвело до неочікуваного спаду на ринку смартфонів, оскільки компанії намагаються адаптуватися до нових технологічних вимог.",
-      "ai_title": "ШІ-революція гальмує ринок смартфонів в Індії"
-    },
-    {
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "summary": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
-      "published": "2026-07-17T19:49:53+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Влада Сан-Франциско зобов'язала техногігантів очистити свої магазини застосунків від програм, що генерують оголені зображення. Компанії звинувачують у тривалому ігноруванні порушень законодавства штату.",
-      "ai_title": "Apple та Google вимагають видалити застосунки для створення дипфейк-оголень"
-    },
-    {
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "published": "2026-07-17T19:22:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап у сфері ядерних технологій Valar Atomics веде переговори про новий раунд фінансування. Ця угода підкреслює актуальний тренд на залучення капіталу через складні багатоетапні структури, що часто приховують реальну вартість активів.",
-      "ai_title": "Ядерний стартап Valar Atomics готується до залучення інвестицій з оцінкою $6 млрд"
-    },
     {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
@@ -1011,27 +949,19 @@
       "ai_summary": "Регулятори та технологічні компанії ведуть запеклі суперечки щодо правил експлуатації автономних таксі на міських вулицях. Основна увага зосереджена на інтеграції штучного інтелекту в транспортні системи та забезпеченні безпеки пасажирів.",
       "ai_title": "Битва за правила роботи безпілотних таксі",
       "video_keywords": "autonomous taxi, self-driving car, city traffic, futuristic street"
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "published": "2026-07-19T19:24:45+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Експерти обговорюють потенційний вплив юридичного тиску з боку Apple на майбутні амбіції OpenAI вийти на ринок «заліза». Існує побоювання, що конфлікт може ускладнити плани компанії щодо публічного розміщення акцій.",
+      "ai_title": "Чи завадить судовий позов Apple планам OpenAI щодо розробки гаджетів?",
+      "video_keywords": "courtroom, legal document, smartphone, electronics manufacturing"
     }
   ],
   "Крипта": [
-    {
-      "title": "Consensys unknowingly outsourced developer work to North Korean",
-      "link": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Consensys unknowingly outsourced developer work to North Korean\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hacker-interview.png\" /></p><p>Through an introduction with a “reputable third-party service provider,“ the company took on a developer who, as part of an investigation, was revea",
-      "published": "2026-07-17T19:33:58+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Consensys через ненадійного посередника випадково працевлаштувала розробника, який виявився громадянином Північної Кореї. Це підкреслює серйозні ризики безпеки при залученні сторонніх фахівців у криптоіндустрії.",
-      "ai_title": "Consensys найняла північнокорейського хакера під виглядом розробника"
-    },
-    {
-      "title": "Crypto Biz: When dollars disappear, stablecoins step in",
-      "link": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: When dollars disappear, stablecoins step in\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cross-border-transaction-stablecoin-dollar-1.jpg\" /></p><p>Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners’ AI ambitions face fresh investor scrutiny.</p>",
-      "published": "2026-07-17T19:23:53+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Болівія почала офіційно визнавати USDT на тлі гострого дефіциту доларів у країні. Тим часом інвестори прискіпливо вивчають спроби майнерів біткоїна переорієнтуватися на сферу штучного інтелекту.",
-      "ai_title": "Стейблкоїни стають заміною долара в країнах з дефіцитом валюти"
-    },
     {
       "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
       "link": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
