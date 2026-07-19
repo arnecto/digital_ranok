@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple’s plot to crush OpenAI",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#8230;]",
-      "published": "2026-07-17T17:41:32+00:00",
-      "source": "The Verge",
-      "ai_summary": "Apple подала до суду на OpenAI, висунувши серйозні звинувачення щодо методів роботи компанії. Експерти наразі скептично оцінюють юридичні перспективи позову, вбачаючи в ньому спробу публічного тиску на конкурента.",
-      "ai_title": "Apple проти OpenAI: початок гучного судового процесу"
-    },
-    {
-      "title": "Learning a few things about running SQLite",
-      "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "summary": "<p>Article URL: <a href=\"https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\">https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950122\">https://news.ycombinator.com/item?id=48950122</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-17T17:45:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор статті ділиться досвідом оптимізації та налаштування баз даних SQLite для ефективної роботи. Матеріал охоплює нюанси керування даними, які допоможуть розробникам уникнути поширених помилок під час інтеграції SQLite у власні проєкти.",
-      "ai_title": "Практичні поради щодо роботи з SQLite"
-    },
-    {
-      "title": "Apple Music is getting a price hike",
-      "link": "https://www.theverge.com/tech/967379/apple-music-price-increase",
-      "summary": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple, in a statement to Music Business [&#8230;]",
-      "published": "2026-07-17T18:14:26+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Apple оголосила про зростання цін на свої музичні тарифи у США. Вартість індивідуального плану тепер становить 11,99 долара, тоді як сімейні та студентські підписки також зазнали відповідного коригування ціни.",
-      "ai_title": "Apple підвищує вартість підписки на Apple Music"
-    },
-    {
-      "title": "The Zilog Z80 has turned 50",
-      "link": "https://goliath32.com/blog/z80.html",
-      "summary": "<p>Article URL: <a href=\"https://goliath32.com/blog/z80.html\">https://goliath32.com/blog/z80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951461\">https://news.ycombinator.com/item?id=48951461</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-17T19:41:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Архітектура Zilog Z80 відзначає піввіковий ювілей, залишаючись однією з найвпливовіших в історії обчислювальної техніки. Цей мікропроцесор став основою для багатьох культових домашніх комп'ютерів та ігрових систем 80-х років.",
-      "ai_title": "Легендарному процесору Zilog Z80 виповнилося 50 років"
-    },
-    {
       "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
       "link": "https://app.everything.diena.co/",
       "summary": "<p>I'm building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.<p>This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia / Wikidata, scored using PageRank. There is more information on the about page.<p>If you're interested in the stack: I use Kotlin Multiplatform extensively, with Com",
@@ -44,15 +8,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Розробник створив візуальний інструмент на Kotlin Multiplatform для навігації чотирма мільйонами історичних подій. Дані структуровані за допомогою алгоритму PageRank, що дозволяє користувачам досліджувати історію в зручному масштабованому форматі.",
       "ai_title": "Інтерактивна шкала часу з 4 мільйонами подій з Wikipedia"
-    },
-    {
-      "title": "SpaceX stock drops to a new low and loses $1T in value in a month",
-      "link": "https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7",
-      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7\">https://www.businessinsider.com/spacex-stock-drops-new-low-ipo-price-starship-launch-scrubbed-2026-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950580\">https://news.ycombinator.com/item?id=48950580</a></p>\n<p>Points: 48</p>\n<p># Comments: 35</",
-      "published": "2026-07-17T18:26:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія SpaceX зіткнулася з фінансовою кризою, внаслідок якої її ринкова вартість зменшилася на 1 трильйон доларів лише за один місяць. Таке падіння відбувається на тлі невдач із запусками Starship та зниження довіри інвесторів.",
-      "ai_title": "Акції SpaceX стрімко падають: мінус трильйон доларів за місяць"
     },
     {
       "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
@@ -80,15 +35,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Опубліковано інтерактивну панель, що дозволяє відстежувати польоти Імміграційної та митної служби США (ICE). Проєкт надає прозорий доступ до даних про переміщення літаків у межах державної міграційної політики.",
       "ai_title": "Запущено інтерактивний моніторинг авіарейсів ICE"
-    },
-    {
-      "title": "Lego building instructions through time",
-      "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "summary": "<p>Article URL: <a href=\"https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time\">https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950518\">https://news.ycombinator.com/item?id=48950518</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-17T18:21:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Lego презентувала архівну ретроспективу, що показує, як змінювалися офіційні інструкції до наборів протягом десятиліть. Це цікавий погляд на розвиток технічного дизайну та візуальної комунікації бренду.",
-      "ai_title": "Еволюція інструкцій зі збирання Lego"
     },
     {
       "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
@@ -830,18 +776,59 @@
       "ai_summary": "Згідно з повідомленнями, федеральні агенти отримали вказівку більше не розслідувати інциденти за участю співробітників Імміграційної та митної поліції (ICE). Це рішення викликало широкий резонанс через нещодавні випадки насильства з боку агентів відомства.",
       "ai_title": "ФБР припиняє розслідування щодо діяльності ICE",
       "video_keywords": "fbi building, government office, police badge, city street"
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/kimi_moonshot/status/2078855608565207130\">https://twitter.com/kimi_moonshot/status/2078855608565207130</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969291\">https://news.ycombinator.com/item?id=48969291</a></p>\n<p>Points: 42</p>\n<p># Comments: 7</p>",
+      "published": "2026-07-19T16:02:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Китайський розробник Moonshot AI тимчасово обмежив доступ до нових підписок на свій сервіс Kimi K3. Це рішення зумовлене надзвичайно високим навантаженням на сервери через масовий приплив користувачів.",
+      "ai_title": "Moonshot AI призупинила нові підписки через ажіотажний попит на Kimi K3",
+      "video_keywords": "server room, data center, computer screen, artificial intelligence"
+    },
+    {
+      "title": "I hate that I don’t hate this song made with Suno",
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+      "published": "2026-07-19T17:35:54+00:00",
+      "source": "The Verge",
+      "ai_summary": "Генеративна музика, створена штучним інтелектом Suno, викликає неоднозначні реакції навіть у скептиків. Попри загальну нудність таких треків, окремі композиції демонструють несподівано високу художню якість, що змушує переглянути ставлення до AI у творчості.",
+      "ai_title": "Спірна якість музики, створеної за допомогою Suno",
+      "video_keywords": "music recording studio, professional microphone, audio interface, sound engineer"
+    },
+    {
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "link": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired\">https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969635\">https://news.ycombinator.com/item?id=48969635</a></p>\n<p>Points: 30</p>\n<p># Comments: 7</p>",
+      "published": "2026-07-19T16:45:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Епоха патентних обмежень для формату MPEG-4 Visual офіційно завершилася. Це відкриває шлях до більш вільного використання технології без необхідності виплат роялті, що важливо для розробників медіа-софту.",
+      "ai_title": "Термін дії останнього патенту на стандарт MPEG-4 вичерпано",
+      "video_keywords": "video editing software, digital file icon, computer monitor, motion graphics"
+    },
+    {
+      "title": "HMD Touch 4G",
+      "link": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "summary": "<p>Article URL: <a href=\"https://www.hmd.com/en_int/hmd-touch-4g\">https://www.hmd.com/en_int/hmd-touch-4g</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969983\">https://news.ycombinator.com/item?id=48969983</a></p>\n<p>Points: 18</p>\n<p># Comments: 18</p>",
+      "published": "2026-07-19T17:25:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія HMD випустила бюджетний мобільний телефон Touch 4G, орієнтований на базовий функціонал. Пристрій підтримує сучасні мережі зв'язку, зберігаючи при цьому класичний дизайн кнопкових телефонів.",
+      "ai_title": "HMD представила новий кнопковий телефон Touch 4G",
+      "video_keywords": "cell phone, hand holding phone, retro telephone, electronic device"
+    },
+    {
+      "title": "Neither GCC nor Clang are compliant with standard C++",
+      "link": "https://sebsite.pw/w/20260708-badstdcxx.html",
+      "summary": "<p>Article URL: <a href=\"https://sebsite.pw/w/20260708-badstdcxx.html\">https://sebsite.pw/w/20260708-badstdcxx.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970039\">https://news.ycombinator.com/item?id=48970039</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-19T17:32:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники виявили, що сучасні стандарти C++ настільки складні, що жоден з основних компіляторів, включаючи GCC та Clang, не забезпечує їх повну відповідність. Це ставить під питання надійність коду в критичних проектах.",
+      "ai_title": "Популярні компілятори GCC та Clang не відповідають стандартам C++",
+      "video_keywords": "programming code, computer screen, developer workspace, keyboard"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
-      "link": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
-      "summary": "<p><a href=\"https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch\">OpenClaw</a> has become one of the most widely adopted agentic frameworks, but it has yet to prove itself at enterprise scale. Agents need real credentials — API keys, OAuth tokens, service accounts — to work effectively, and Brex found that traditional guardrails couldn&#x27;t contain what those agen",
-      "published": "2026-07-17T17:49:19+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Замість створення теоретичних правил, компанія Brex проаналізувала фактичні дії AI-агентів, які мають доступ до конфіденційних API та токенів. Це допомогло розробити ефективніші механізми контролю, оскільки традиційні методи безпеки виявилися недостатніми для роботи в корпоративному масштабі.",
-      "ai_title": "Brex розробила політику безпеки для AI-агентів на основі їх реальної поведінки"
-    },
     {
       "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
       "link": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
@@ -850,15 +837,6 @@
       "source": "VentureBeat",
       "ai_summary": "Представники LinkedIn, Walmart та Zendesk на конференції VB Transform 2026 заявили, що саме застарілі технологічні системи, а не самі моделі, є головною перешкодою для швидкості роботи штучного інтелекту. Компанії шукають способи модернізації своєї інфраструктури, щоб встигати за швидкістю обробки запитів сучасними AI-агентами.",
       "ai_title": "Застаріла інфраструктура гальмує розвиток AI-агентів"
-    },
-    {
-      "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
-      "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
-      "summary": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.",
-      "published": "2026-07-17T18:00:17+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий гаджет Dyson Hot+Cool HF1 замінює собою і обігрівач, і вентилятор, забезпечуючи комфортний клімат у приміщенні протягом усього року. Пристрій відрізняється фірмовим дизайном без лопатей, тихою роботою та інтуїтивно зрозумілим управлінням.",
-      "ai_title": "Dyson випустив універсальний пристрій для обігріву та охолодження"
     },
     {
       "title": "AI-driven memory crunch jolts India’s smartphone market",
@@ -1248,6 +1226,16 @@
       "ai_summary": "Майкл Сейлор виступив проти впровадження стандарту BIP-110, навівши 110 аргументів щодо його недоліків. Сейлор, чия компанія MicroStrategy володіє найбільшими корпоративними резервами біткоїна, вважає такі зміни шкідливими для мережі.",
       "ai_title": "Майкл Сейлор розкритикував пропозицію BIP-110",
       "video_keywords": "bitcoin, man talking, presentation, digital chart"
+    },
+    {
+      "title": "The GENIUS Act turns 1: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+      "summary": "",
+      "published": "2026-07-19T18:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Закон GENIUS відзначає свою першу річницю, ставши важливим етапом у регулюванні цифрових активів. Аналітики підбивають підсумки того, як це законодавство вплинуло на ринок та розвиток криптотехнологій у США.",
+      "ai_title": "Рік дії закону GENIUS: як розвивається криптоіндустрія",
+      "video_keywords": "bitcoin symbol, digital currency, crypto graph, financial data, stock market monitor"
     }
   ]
 }
