@@ -1,42 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "VulnHunter: Capital One's agentic AI code security tool",
-      "link": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-      "summary": "<p>Article URL: <a href=\"https://www.capitalone.com/tech/open-source/announcing-vulnhunter/\">https://www.capitalone.com/tech/open-source/announcing-vulnhunter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946692\">https://news.ycombinator.com/item?id=48946692</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
-      "published": "2026-07-17T12:42:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Capital One випустила VulnHunter — агентський AI-інструмент, призначений для автоматизованого пошуку вразливостей у коді. Рішення використовує можливості штучного інтелекту для посилення безпеки розробки програмного забезпечення.",
-      "ai_title": "VulnHunter: новий інструмент для пошуку вразливостей від Capital One"
-    },
-    {
-      "title": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
-      "link": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
-      "summary": "<p>Article URL: <a href=\"https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/\">https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946895\">https://news.ycombinator.com/item?id=48946895</a></p>\n<p>Points: 17</p>\n<p># Comments: 8</p>",
-      "published": "2026-07-17T13:02:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технологія дисплеїв із використанням багатьох основних кольорів обіцяє стати наступним проривом у відтворенні зображень до 2026 року. Вона дозволить досягти значно вищої точності кольору порівняно з сучасними стандартами.",
-      "ai_title": "Багатоколірні дисплеї — майбутнє технологій передачі кольору"
-    },
-    {
-      "title": "Minikotlin",
-      "link": "https://minikotlin.run",
-      "summary": "<p>Article URL: <a href=\"https://minikotlin.run\">https://minikotlin.run</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946783\">https://news.ycombinator.com/item?id=48946783</a></p>\n<p>Points: 47</p>\n<p># Comments: 10</p>",
-      "published": "2026-07-17T12:50:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт Minikotlin пропонує спрощене середовище для запуску та тестування мови програмування Kotlin безпосередньо в браузері. Це рішення значно полегшує швидкий старт для розробників та навчання основам мови.",
-      "ai_title": "Minikotlin — легкий шлях до роботи з Kotlin у браузері"
-    },
-    {
-      "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM",
-      "link": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review",
-      "summary": "Last year, Microsoft's 13-inch Surface Laptop quickly became one of my favorite thin-and-light Windows notebooks. At $900, it was easy to recommend to anyone wanting MacBook Air-like build quality and battery life on Windows - I even convinced my sister to buy one on sale. But that was last year. This year, thanks to RAMageddon, [&#8230;]",
-      "published": "2026-07-17T13:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Останні тести показують, що 8 ГБ оперативної пам'яті недостатньо для комфортної роботи Windows 11 навіть на сучасних ноутбуках Microsoft. Це ставить під сумнів доцільність продажу базових конфігурацій пристроїв з таким обсягом пам'яті.",
-      "ai_title": "Windows 11 та обмеження 8 ГБ оперативної пам'яті"
-    },
-    {
       "title": "Mozilla: The state of open source AI",
       "link": "https://stateofopensource.ai/",
       "summary": "<p>Article URL: <a href=\"https://stateofopensource.ai/\">https://stateofopensource.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947825\">https://news.ycombinator.com/item?id=48947825</a></p>\n<p>Points: 86</p>\n<p># Comments: 39</p>",
@@ -64,15 +28,6 @@
       "ai_title": "ШІ шукає вразливості в криптографії OpenVM"
     },
     {
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "link": "https://honeypotlive.cc/",
-      "summary": "<p>Article URL: <a href=\"https://honeypotlive.cc/\">https://honeypotlive.cc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947548\">https://news.ycombinator.com/item?id=48947548</a></p>\n<p>Points: 40</p>\n<p># Comments: 10</p>",
-      "published": "2026-07-17T14:05:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт «Honeypot Live» дозволяє побачити взаємодію зловмисних ботів з SSH-пасткою у реальному часі. Це наочний інструмент для розуміння методів автоматизованих атак на мережеву інфраструктуру.",
-      "ai_title": "Спостереження за ботами в реальному часі через SSH-пастку"
-    },
-    {
       "title": "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware",
       "link": "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest",
       "summary": "Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 [&#8230;]",
@@ -98,24 +53,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Огляд нової мовної моделі Kimi K3 та аналіз того, як застарілі методи тестування, такі як бенчмарк Pelican, все ще можуть давати цінні інсайти. Автор досліджує еволюцію оцінки можливостей штучного інтелекту.",
       "ai_title": "Модель Kimi K3 та уроки бенчмарку Pelican"
-    },
-    {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cy4kdd1e0ejo\">https://www.bbc.com/news/articles/cy4kdd1e0ejo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947560\">https://news.ycombinator.com/item?id=48947560</a></p>\n<p>Points: 95</p>\n<p># Comments: 73</p>",
-      "published": "2026-07-17T14:06:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Астрономи вперше зафіксували наявність атмосфери на планеті, схожій на Землю, яка розташована в придатній для життя зоні віддаленої зірки. Це відкриття є важливим кроком у пошуках життя за межами нашої Сонячної системи.",
-      "ai_title": "Виявлено атмосферу на екзопланеті земного типу"
-    },
-    {
-      "title": "A Road to Lisp: Which Lisp",
-      "link": "https://scotto.me/blog/2026-07-17-which-lisp/",
-      "summary": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-17-which-lisp/\">https://scotto.me/blog/2026-07-17-which-lisp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947455\">https://news.ycombinator.com/item?id=48947455</a></p>\n<p>Points: 63</p>\n<p># Comments: 29</p>",
-      "published": "2026-07-17T13:56:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Путівник для розробників, які бажають вивчити сімейство мов програмування Lisp. Стаття допомагає зорієнтуватися в різноманітті діалектів та обрати оптимальний варіант для старту.",
-      "ai_title": "Шлях до Lisp: вибір правильного діалекту"
     },
     {
       "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
@@ -881,6 +818,46 @@
       "source": "The Verge",
       "ai_summary": "Індустрія відеоігор поступово відмовляється від фізичних носіїв на користь цифрової дистрибуції. Ця тенденція викликає занепокоєння серед колекціонерів та гравців, оскільки право власності на цифровий контент стає все менш стабільним.",
       "ai_title": "Майбутнє фізичних копій відеоігор під загрозою"
+    },
+    {
+      "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
+      "link": "https://www.cortex.io/drive",
+      "summary": "<p>Article URL: <a href=\"https://www.cortex.io/drive\">https://www.cortex.io/drive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968067\">https://news.ycombinator.com/item?id=48968067</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-19T13:30:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа DRIVE пропонує інструменти для підвищення операційної ефективності в інженерних процесах, що використовують штучний інтелект. Рішення допомагає автоматизувати робочі потоки та оптимізувати використання обчислювальних ресурсів для розробників.",
+      "ai_title": "DRIVE: новий стандарт AI-прискореної інженерії",
+      "video_keywords": "data center, server room, software development, abstract technology"
+    },
+    {
+      "title": "I burned all my tokens researching how to save tokens",
+      "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "summary": "<p>Article URL: <a href=\"https://quesma.com/blog/custom-deep-research-pipeline/\">https://quesma.com/blog/custom-deep-research-pipeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967355\">https://news.ycombinator.com/item?id=48967355</a></p>\n<p>Points: 43</p>\n<p># Comments: 19</p>",
+      "published": "2026-07-19T12:01:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автори діляться досвідом розробки кастомного конвеєра для глибоких досліджень, спрямованого на економію токенів при роботі з LLM. Стаття аналізує методи зменшення витрат на API та підвищення точності відповідей AI без зайвих запитів.",
+      "ai_title": "Як оптимізувати використання токенів у великих мовних моделях",
+      "video_keywords": "developer working, computer screen, coding, artificial intelligence dashboard"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "summary": "<p>Article URL: <a href=\"https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4\">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967256\">https://news.ycombinator.com/item?id=48967256</a></p>\n<p>Points: 45</p>\n<p># Comments: 23</p>",
+      "published": "2026-07-19T11:48:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярна гра Minecraft оновила свій технічний стек, інтегрувавши бібліотеку SDL3 для кращої підтримки апаратного забезпечення. Це оновлення обіцяє покращити сумісність гри з сучасними операційними системами та периферійними пристроями.",
+      "ai_title": "Minecraft Java Edition перейшов на бібліотеку SDL3",
+      "video_keywords": "video game, computer monitor, gaming setup, keyboard"
+    },
+    {
+      "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+      "link": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+      "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work, clap two more times, and suddenly: on. The Clapper didn't always work - and even when it did, it [&#8230;]",
+      "published": "2026-07-19T13:28:26+00:00",
+      "source": "The Verge",
+      "ai_summary": "Аналіз культового пристрою для керування освітленням через оплески, який попри технічні недоліки став культурним феноменом. Стаття розглядає історію цього гаджета як один із перших невдалих кроків до створення розумного дому.",
+      "ai_title": "Феномен The Clapper: чому «розумний» гаджет став легендою",
+      "video_keywords": "old light switch, apartment interior, clapping, retro technology"
     }
   ],
   "Бізнес / Стартапи": [
@@ -892,15 +869,6 @@
       "source": "TechCrunch",
       "ai_summary": "На конференції Disrupt експерти пояснюють, як переконати інвесторів у своїй ідеї в умовах перенасиченого ринку AI-стартапів. Ключовими інструментами для засновників на ранніх етапах стають майстерність сторітелінгу та впевненість у власному баченні.",
       "ai_title": "Як залучити pre-seed інвестиції, навіть якщо у вас ще немає готового продукту"
-    },
-    {
-      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-      "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-      "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
-      "published": "2026-07-17T14:12:02+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Автономний автомобіль компанії Zoox розгубився під час руху через густий дим, що стало приводом для примусового оновлення ПЗ. Регулятори вимагають від розробників безпілотників покращити взаємодію машин з екстреними службами.",
-      "ai_title": "Zoox відкликає програмне забезпечення своїх роботаксі через небезпечну реакцію на дим"
     },
     {
       "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
@@ -1108,63 +1076,19 @@
       "source": "TechCrunch",
       "ai_summary": "Компанія Moonshot AI представила оновлену версію своєї мовної моделі Kimi. Новинка викликала дискусії серед експертів щодо швидкого розвитку китайських технологій та потенційних ризиків «повного ШІ-комунізму».",
       "ai_title": "Китайський ШІ-стартап Moonshot AI випустив нову модель Kimi"
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "published": "2026-07-19T14:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Організація Current AI працює над створенням відкритої екосистеми штучного інтелекту, яка враховує культурні особливості всіх користувачів. Проєкт вже демонструє значні успіхи в адаптації технологій для різних пристроїв та інтеграції AI-чатів.",
+      "ai_title": "Неприбутковий проєкт Current AI створює загальнодоступну мережу штучного інтелекту",
+      "video_keywords": "server room, software engineer, artificial intelligence network, digital interface"
     }
   ],
   "Крипта": [
-    {
-      "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
-      "link": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HSBC wins Bank of England approval to enter Digital Securities Sandbox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-blockchain-initiatives-hsbc.jpg\" /></p><p>The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instr",
-      "published": "2026-07-17T13:54:27+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Банк Англії дозволив платформі HSBC Orion приєднатися до пісочниці для тестування цифрових цінних паперів. Це відкриває шлях для випуску перших державних облігацій у цифровому форматі.",
-      "ai_title": "HSBC отримав дозвіл Банку Англії на роботу з цифровими цінними паперами"
-    },
-    {
-      "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
-      "link": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SBI acquires Singaporean crypto platform Coinhako after MAS approval\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sbi-virtual-currencies-the-bank-backed-japanese-exchange-with-big-plans.jpg\" /></p><p>SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based",
-      "published": "2026-07-17T13:30:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "SBI Holdings успішно отримав дозвіл регулятора Сінгапуру на придбання контрольного пакету акцій платформи Coinhako. Ця угода значно посилює позиції японської фінансової групи на ринку цифрових активів Південно-Східної Азії.",
-      "ai_title": "Японський гігант SBI Holdings купує сінгапурську криптобіржу Coinhako"
-    },
-    {
-      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
-      "link": "https://cointelegraph.com/features/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-why-crypto-companies-are-flocking-to-bvi-or-similar.jpg\" /></p><p>Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands —",
-      "published": "2026-07-17T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Регіон стає дедалі популярнішим серед провідних гравців ринку, таких як Kraken, Bitfinex та 1inch. Вигідні регуляторні умови роблять острови стратегічно важливою юрисдикцією для криптокомпаній.",
-      "ai_title": "Британські Віргінські острови: прихований центр світової криптоіндустрії"
-    },
-    {
-      "title": "Bitcoin faces fresh headwinds as China’s Kimi beats Claude, GPT in coding benchmark",
-      "link": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
-      "summary": "",
-      "published": "2026-07-17T12:45:11+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Новий китайський ШІ-інструмент Kimi показав кращі результати у тестах на написання коду, ніж лідери ринку Claude та GPT. Це створює нові виклики для крипторинку, оскільки технологічний прогрес ШІ може впливати на безпеку та розвиток блокчейн-мереж.",
-      "ai_title": "Біткоїн під тиском: китайський ШІ Kimi перевершив GPT у кодуванні"
-    },
-    {
-      "title": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
-      "link": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "summary": "",
-      "published": "2026-07-17T15:36:39+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярна торгова платформа робить масштабну ставку на децентралізовані фінанси, намагаючись спростити доступ до них для звичайних користувачів. Компанія планує інтегрувати складні DeFi-інструменти у свій інтерфейс, щоб зробити їх зрозумілими для масового інвестора.",
-      "ai_title": "Robinhood прагне залучити 10 мільйонів нових користувачів у DeFi"
-    },
-    {
-      "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
-      "link": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
-      "summary": "",
-      "published": "2026-07-17T13:46:46+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінансовий гігант SBI Group активно розвиває інфраструктуру для роботи з цифровими активами в масштабах усього азійського регіону. Ініціатива спрямована на створення мережі, що дозволить проводити транскордонні операції з активами на базі блокчейн-технологій.",
-      "ai_title": "Японська SBI Group будує першу в Азії транскордонну імперію цифрових активів"
-    },
     {
       "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
       "link": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1173,15 +1097,6 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Курс головної криптовалюти знизився на фоні побоювань щодо конфлікту між Іраном та Ізраїлем, що також негативно вплинуло на фондові ринки США. Біткоїн продемонстрував кореляцію з традиційними акціями, відреагувавши на посилення глобальної ризикової ситуації.",
       "ai_title": "Ціна біткоїна впала нижче 62,5 тисяч доларів через геополітичну напруженість"
-    },
-    {
-      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
-      "link": "https://cointelegraph.com/magazine/why-is-the-british-virgin-islands-becoming-a-legal-home-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-why-crypto-companies-are-flocking-to-bvi-or-similar.jpg\" /></p><p>Kraken, Bitstamp, 1inch and Bitfinex have all set up shop in the British Virgin Islands —",
-      "published": "2026-07-17T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Відомі криптобіржі, такі як Kraken, Bitstamp та Bitfinex, активно відкривають свої представництва на Британських Віргінських островах. Юрисдикція приваблює компанії завдяки сприятливому регуляторному середовищу та спеціалізованим умовам для блокчейн-бізнесу.",
-      "ai_title": "Чому Британські Віргінські острови стали прихованим центром для криптокомпаній"
     },
     {
       "title": "Cardano hands core development to outside teams in decentralization push",
@@ -1380,6 +1295,46 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Голова Асоціації електронних транзакцій (ETA) прогнозує збільшення кількості колаборацій між фінансовими організаціями та криптостартапами. Це свідчить про подальшу інтеграцію біткоїн-технологій у традиційну платіжну індустрію.",
       "ai_title": "Сектор платежів очікує на зростання партнерств з біткоїн-стартапами"
+    },
+    {
+      "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+      "link": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+      "summary": "",
+      "published": "2026-07-19T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Tether зіткнувся з новим викликом, оскільки дворічний термін для адаптації до регуляторних вимог добігає кінця. Це ставить під сумнів доступність найпопулярнішого стейблкоїна на криптоплатформах у США.",
+      "ai_title": "USDT під загрозою: Tether може зникнути з американських бірж",
+      "video_keywords": "cryptocurrency exchange, digital wallet, stock market crash, smartphone screen"
+    },
+    {
+      "title": "Kraken says simpler options can unlock crypto's next derivatives market",
+      "link": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
+      "summary": "",
+      "published": "2026-07-19T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Біржа Kraken планує запустити простіші інструменти для торгівлі криптодеривативами. Очікується, що такий підхід залучить нову аудиторію та стимулює розвиток цього фінансового сегмента.",
+      "ai_title": "Kraken робить ставку на спрощення ринку деривативів",
+      "video_keywords": "trading platform, digital graphs, financial data, professional trader"
+    },
+    {
+      "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "link": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US agencies miss GENIUS Act deadline for final stablecoin rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crowd-angry-on-genius-act.jpg\" /></p><p>US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 proposed rules instead.</p>",
+      "published": "2026-07-19T12:53:12+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американські відомства не встигли впровадити фінальні правила регулювання стейблкоїнів у термін, встановлений законом GENIUS Act. Замість готових норм було представлено лише 10 проєктів для обговорення.",
+      "ai_title": "Регулятори США порушили дедлайн щодо правил для стейблкоїнів",
+      "video_keywords": "government building, meeting room, paperwork, judge hammer"
+    },
+    {
+      "title": "AI is destroying the internet. Math is our only hope.",
+      "link": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+      "summary": "",
+      "published": "2026-07-19T14:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Надмірне поширення контенту, створеного ШІ, ставить під загрозу достовірність інформації в інтернеті. Експерти вбачають вирішення проблеми у використанні криптографічних методів та математичних алгоритмів для перевірки даних.",
+      "ai_title": "Штучний інтелект руйнує інтернет: математика як єдиний порятунок",
+      "video_keywords": "server room, matrix code, digital network, abstract data flow"
     }
   ]
 }
