@@ -1,15 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
-      "link": "https://github.com/Robbyant/lingbot-map",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Robbyant/lingbot-map\">https://github.com/Robbyant/lingbot-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941908\">https://news.ycombinator.com/item?id=48941908</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-17T00:07:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили нову базову модель, здатну будувати тривимірні мапи середовища на основі потокових даних. Технологія дозволяє ефективно реконструювати сцени, що відкриває нові можливості для комп'ютерного зору та робототехніки.",
-      "ai_title": "Lingbot-map: нова 3D-модель для реконструкції простору в реальному часі"
-    },
-    {
       "title": "GrapheneOS recommended for domestic abuse victims",
       "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
       "summary": "<p>Article URL: <a href=\"https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/\">https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48942454\">https://news.ycombinator.com/item?id=48942454</a></p>\n<p>Points: 14</p>\n<p># Comments: 7</p>",
@@ -836,6 +827,15 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Ada — це спеціалізоване програмне забезпечення для бізнес-аналітики, що дозволяє обробляти CSV та Excel файли. Система поєднує потужність LLM з додатковими алгоритмами для ефективної інтерпретації даних.",
       "ai_title": "Ada: ШІ-інструмент для автоматичного аналізу даних"
+    },
+    {
+      "title": "Codex Resets",
+      "link": "https://codex-resets.com/",
+      "summary": "<p>Article URL: <a href=\"https://codex-resets.com/\">https://codex-resets.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963465\">https://news.ycombinator.com/item?id=48963465</a></p>\n<p>Points: 61</p>\n<p># Comments: 52</p>",
+      "published": "2026-07-18T23:24:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт Codex Resets фокусується на моніторингу оновлень та змін у моделях штучного інтелекту. Ресурс дозволяє розробникам та користувачам слідкувати за актуальним станом систем, що постійно еволюціонують.",
+      "ai_title": "Codex Resets: нова платформа для відстеження змін у ШІ"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1084,33 +1084,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
-      "link": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-76176-bitcoin-stages-picture-perfect-rebound-at-58-5k-as-crypto-liquidations-top-875m.jpg\" /></p><p>Bitcoin futures traders are propping up the ",
-      "published": "2026-07-17T00:12:40+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Трейдери ф'ючерсного ринку створюють значні кластери ліквідності, які стають ключовими орієнтирами для цінового тренду біткоїна. Активність у ф'ючерсних контрактах наразі виступає головним драйвером вартості головної криптовалюти.",
-      "ai_title": "Ліквідність ф'ючерсів визначає подальший рух ціни біткоїна"
-    },
-    {
-      "title": "Citadel Securities invests $400M in Crypto.com at $20B valuation",
-      "link": "https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Citadel Securities invests $400M in Crypto.com at $20B valuation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-cryptocom-is-granted-conditional-approval-for-bank-trust-charter.jpg\" /></p><p>Crypto exchanges have increasingly positioned themselves as bridges between digital asset markets a",
-      "published": "2026-07-16T23:47:12+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Інвестиційний гігант Citadel Securities здійснив велике вкладення в одну з провідних криптобірж, підтвердивши оцінку бізнесу на рівні $20 млрд. Ця угода підкреслює зростаючу інтеграцію традиційних фінансових структур із ринком цифрових активів.",
-      "ai_title": "Citadel Securities вкладає $400 млн у Crypto.com при оцінці компанії у $20 млрд"
-    },
-    {
-      "title": "Bitcoin under $64,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
-      "link": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
-      "summary": "",
-      "published": "2026-07-17T04:10:09+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курс біткоїна знизився на тлі нових військових ударів США по Ірану. Додатковий тиск на ринок створюють невизначені заяви Дональда Трампа щодо економічної політики з Китаєм.",
-      "ai_title": "Біткоїн падає нижче $64 000 через геополітичну напруженість"
-    },
     {
       "title": "Crypto exchange Bybit launches in Indonesia after NOBI acquisition",
       "link": "https://cointelegraph.com/news/crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
