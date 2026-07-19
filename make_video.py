@@ -175,7 +175,8 @@ def render_text_overlay(text, out_path):
     while font_size >= 26:
         font = ImageFont.truetype(FONT_BOLD, font_size)
         lines = wrap_text(draw, text, font, max_text_width)
-        line_height = int(font_size * 135 / 1000) + 20
+        ascent, descent = font.getmetrics()
+        line_height = int((ascent + descent) * 1.35)  # proper spacing, no overlap
         text_block_height = line_height * len(lines)
         padding_y = 50
         box_height = text_block_height + padding_y * 2
@@ -188,13 +189,21 @@ def render_text_overlay(text, out_path):
     box_top = (CANVAS_H - box_height) // 2
     box_left = 40
     box_right = CANVAS_W - 40
+    corner_radius = 28
 
-    # semi-transparent box
-    draw.rectangle([box_left, box_top, box_right, box_top + box_height], fill=BOX_BG)
-    # accent stripe on the left
-    draw.rectangle([box_left, box_top, box_left + 8, box_top + box_height], fill=BOX_ACCENT)
+    # semi-transparent rounded box
+    draw.rounded_rectangle(
+        [box_left, box_top, box_right, box_top + box_height],
+        radius=corner_radius, fill=BOX_BG,
+    )
+    # accent stripe on the left, inset vertically so it doesn't poke out of the rounded corners
+    stripe_inset = corner_radius
+    draw.rounded_rectangle(
+        [box_left, box_top + stripe_inset, box_left + 8, box_top + box_height - stripe_inset],
+        radius=4, fill=BOX_ACCENT,
+    )
 
-    y = box_top + padding_y
+    y = box_top + padding_y + (line_height - (ascent + descent)) // 2
     for line in lines:
         w = draw.textlength(line, font=font)
         x = (CANVAS_W - w) // 2
