@@ -1,24 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "summary": "<p>Article URL: <a href=\"https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and\">https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952939\"",
-      "published": "2026-07-17T22:35:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Генеральний прокурор Техасу досяг знакової перемоги в суді, домігшись призупинення роботи домену порнографічного ресурсу. Причиною стала відмова сайту впроваджувати обов'язкову перевірку віку користувачів, як того вимагає місцеве законодавство.",
-      "ai_title": "Техас через суд заблокував домен порносайту за порушення закону про вікову верифікацію"
-    },
-    {
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "link": "https://moonstone.sh/",
-      "summary": "<p>Article URL: <a href=\"https://moonstone.sh/\">https://moonstone.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48954175\">https://news.ycombinator.com/item?id=48954175</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-18T01:18:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Moonstone — це сучасний рушій та менеджер пакетів для мови програмування Lua, написаний на високоефективній мові Zig. Він забезпечує швидку роботу та зручне керування залежностями для розробників.",
-      "ai_title": "Moonstone: новий кросплатформовий рушій для Lua на базі Zig"
-    },
-    {
       "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
       "link": "https://www.stenchill.com/en/",
       "summary": "<p>Article URL: <a href=\"https://www.stenchill.com/en/\">https://www.stenchill.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48953981\">https://news.ycombinator.com/item?id=48953981</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
@@ -808,27 +790,39 @@
       "ai_summary": "Нове дослідження показало, що використання підказок штучного інтелекту знижує точність рішень утричі, попри зростання впевненості користувачів у власних діях. Це вказує на ризик пригнічення критичного мислення при роботі з ШІ-асистентами.",
       "ai_title": "Поради ШІ роблять людей впевненішими, але менш точними",
       "video_keywords": "person using laptop, artificial intelligence concept, confused man, technology studio"
+    },
+    {
+      "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+      "link": "https://github.com/Pedroshakoor/grok-build-ios",
+      "summary": "<p>Article URL: <a href=\"https://github.com/Pedroshakoor/grok-build-ios\">https://github.com/Pedroshakoor/grok-build-ios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48971999\">https://news.ycombinator.com/item?id=48971999</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-19T21:51:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники отримали можливість віддалено керувати процесом збірки моделі Grok прямо зі свого iPhone. Це спрощує роботу з інструментами штучного інтелекту в мобільному середовищі.",
+      "ai_title": "Керування збіркою Grok безпосередньо з iPhone",
+      "video_keywords": "smartphone, coding, software development, programmer workspace"
+    },
+    {
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/biggest-probabilistic-computer\">https://spectrum.ieee.org/biggest-probabilistic-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48971938\">https://news.ycombinator.com/item?id=48971938</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-19T21:42:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники представили унікальний комп'ютер, який використовує випадкові шумові сигнали для проведення обчислень. Ця технологія відкриває нові можливості для вирішення складних ймовірнісних завдань, з якими не справляються традиційні процесори.",
+      "ai_title": "Перший у світі ймовірнісний комп'ютер перетворює шум на відповіді",
+      "video_keywords": "computer hardware, circuit board, futuristic technology, laboratory equipment"
+    },
+    {
+      "title": "Americans are angry about data centers. Politicians are feeling the pressure",
+      "link": "https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/\">https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48971561\">https://news.ycombinator.com/item?id=48971561</a></p>\n<p>Po",
+      "published": "2026-07-19T20:50:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Зростання кількості великих дата-центрів викликає дедалі більше занепокоєння серед місцевих жителів через споживання енергії та ресурсів. Політики змушені реагувати на ці протести, що ставить під загрозу подальше розширення інфраструктури для ШІ.",
+      "ai_title": "Громадське невдоволення дата-центрами в США чинить тиск на політиків",
+      "video_keywords": "data center, server room, city protest, politician speaking"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "published": "2026-07-17T22:55:09+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Vertu пропонує преміальний складний смартфон з інтегрованим AI-агентом за 6880 доларів. Огляд демонструє реальну ефективність пристрою, зосереджуючись на його автономності, безпеці та можливостях автоматизації робочих процесів для бізнес-користувачів.",
-      "ai_title": "Штучний інтелект у розкоші: огляд AI-агента від Vertu"
-    },
-    {
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world&#8217;s most [&#8230;]",
-      "published": "2026-07-17T23:08:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Залишилося 48 годин до завершення прийому заявок для участі у відборі Stripe x Startup Battlefield у Сіднеї. Переможець отримає гарантоване місце на престижній конференції TechCrunch Disrupt у Сан-Франциско без додаткових етапів конкурсу.",
-      "ai_title": "Останній шанс: стартапи з Австралії змагаються за місце на TechCrunch Disrupt"
-    },
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
