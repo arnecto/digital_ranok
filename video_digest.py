@@ -148,9 +148,10 @@ def main():
     candidates = get_candidates(posted, since_iso)
 
     if not candidates:
+        with_summary = sum(1 for v in posted.values() if v.get("summary"))
         print("[INFO] No eligible news items in the window, skipping video generation.")
-        state["last_run_at"] = now.isoformat()
-        save_json(VIDEO_STATE_FILE, state)
+        print(f"[INFO] Window start was: {since_iso}")
+        print(f"[INFO] Total posted_links.json entries: {len(posted)}, with 'summary' field: {with_summary}")
         return
 
     best = pick_best(candidates)
