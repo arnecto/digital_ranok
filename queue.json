@@ -1,60 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "LG ThinQ Terms of Use",
-      "link": "https://news.ycombinator.com/item?id=48958273",
-      "summary": "<p>Some of my kitchen appliances are LG and I installed the LG ThinQ app on my phone.<p>Sometimes I like to leave a cold dish in the oven before I go out then remotely start it when I’m on my way back home, so I arrive to a nice hot dinner.<p>After a recent HN post about LG malware and further research, I decided to kick my appliances out of the network.<p>I also tried to remove my user account ju",
-      "published": "2026-07-18T14:04:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі висловлюють занепокоєння щодо безпеки екосистеми LG ThinQ через підозри у наявності прихованого шкідливого програмного забезпечення. Багато хто вирішує відключити свою техніку від інтернету, щоб захистити особисті дані від потенційного стеження виробника.",
-      "ai_title": "Проблеми безпеки та приватності розумної побутової техніки LG"
-    },
-    {
-      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
-      "link": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
-      "summary": "<p>Article URL: <a href=\"https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en\">https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48958269\">https://news.ycombinator.com/item?id=48958269</a></p>\n<p>Points: 23</",
-      "published": "2026-07-18T14:04:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Європейський Союз впроваджує суворі екологічні норми, які забороняють брендам утилізувати непродані товари. Це рішення спрямоване на боротьбу з надмірним споживанням та зменшення шкідливого впливу індустрії моди на довкілля.",
-      "ai_title": "ЄС забороняє знищення непроданого одягу та взуття"
-    },
-    {
-      "title": "Surprise! Facial recognition smart locks are actually good",
-      "link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
-      "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to [&#8230;]",
-      "published": "2026-07-18T14:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Технологія розпізнавання обличчя робить процес входу до помешкання максимально зручним та безконтактним. Такі замки усувають потребу в паролях чи ключах, забезпечуючи вищий рівень комфорту для розумного будинку.",
-      "ai_title": "Чому розумні замки з розпізнаванням обличчя стають новим стандартом"
-    },
-    {
-      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
-      "link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
-      "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). [&#8230;]",
-      "published": "2026-07-18T15:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "GoPro запустила акційну пропозицію на набір із 360-градусною камерою Max 2, що включає аксесуари на суму 100 доларів. Це суттєва знижка для пристрою, який раніше вважався досить дорогим для професійної зйомки.",
-      "ai_title": "GoPro пропонує знижку на комплект камери Max 2"
-    },
-    {
-      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/our-approach-to-bioresilience/\">https://deepmind.google/blog/our-approach-to-bioresilience/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959297\">https://news.ycombinator.com/item?id=48959297</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-18T16:02:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Google DeepMind та Isomorphic Labs представили стратегію використання штучного інтелекту для підвищення біостійкості. Компанії зосереджуються на новітніх методах моделювання біологічних систем для захисту від загроз та прискорення наукових досліджень.",
-      "ai_title": "Google DeepMind та Isomorphic Labs: новий підхід до біостійкості"
-    },
-    {
-      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-      "link": "https://q3edit.com",
-      "summary": "<p>I've been building a level editor for Quake 3 that runs entirely in the browser: Radiant-style layout, brush and patch editing, CSG, terrain sculpting, and entity editing. It opens and saves .map file and you can play the maps you build directly in the browser using a webassembly build of ioquake3.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48958854\">https://news.",
-      "published": "2026-07-18T15:12:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив інструмент для створення та редагування мап Quake 3, що працює безпосередньо у браузері. Проєкт підтримує складне редагування ландшафтів та дозволяє миттєво тестувати створені рівні за допомогою WebAssembly-версії рушія ioquake3.",
-      "ai_title": "Q3Edit: браузерний редактор рівнів для Quake 3"
-    },
-    {
       "title": "Elixir-lang.org has a new design",
       "link": "https://elixir-lang.org/",
       "summary": "<p>Article URL: <a href=\"https://elixir-lang.org/\">https://elixir-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959042\">https://news.ycombinator.com/item?id=48959042</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
@@ -784,6 +730,56 @@
       "ai_summary": "Європейська комісія оштрафувала AliExpress через порушення закону про цифрові послуги (DSA). Платформу звинувачують у недостатньому контролі за продажем небезпечних, контрафактних та заборонених товарів.",
       "ai_title": "AliExpress отримав рекордний штраф у 630 мільйонів доларів",
       "video_keywords": "shopping app, parcel delivery, warehouse, smartphone screen"
+    },
+    {
+      "title": "American AI is locked down and proprietary. It's losing",
+      "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "summary": "<p>Article URL: <a href=\"https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/\">https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979269\">https://news.ycombinator.com/item?id=48979269</a></p>\n<p>Points: 27</p>\n<p># Comments: 20</p>",
+      "published": "2026-07-20T14:21:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує, як обмеження та пропрієтарний підхід американських компаній до штучного інтелекту сповільнюють прогрес у галузі. В умовах закритості екосистем США ризикують втратити глобальну конкурентоспроможність проти відкритих альтернатив.",
+      "ai_title": "Чому закрита модель розробки ШІ в США програє",
+      "video_keywords": "server room, data center, futuristic technology, digital network"
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "link": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "summary": "<p>Article URL: <a href=\"https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/\">https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978605\">https://news.ycombinator.com/item?id=48978605</a></p>\n<p>Points: 206</p>\n<p># Comments: 113</p>",
+      "published": "2026-07-20T13:28:33+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Масштабна кібератака призвела до видалення всієї бази даних румунського земельного реєстру. Цей інцидент підкреслює критичну вразливість державних інформаційних систем перед цілеспрямованими діями зловмисників.",
+      "ai_title": "Хакери знищили базу даних земельного кадастру Румунії",
+      "video_keywords": "hacker, computer screen, binary code, security breach"
+    },
+    {
+      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+      "link": "https://yang-ai-lab.github.io/Inertia-1/",
+      "summary": "<p>Article URL: <a href=\"https://yang-ai-lab.github.io/Inertia-1/\">https://yang-ai-lab.github.io/Inertia-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978388\">https://news.ycombinator.com/item?id=48978388</a></p>\n<p>Points: 23</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-20T13:11:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено Inertia-1, проєкт фундаментальної моделі, розробленої для комплексного розуміння та генерації руху. Це відкритий крок до створення універсальних інструментів, що зможуть інтерпретувати фізичні дії в цифровому середовищі.",
+      "ai_title": "Inertia-1: нова уніфікована модель для аналізу руху",
+      "video_keywords": "robotics, motion capture, 3d animation, laboratory"
+    },
+    {
+      "title": "Annoying and alarming things about OpenCode",
+      "link": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+      "summary": "<p>Article URL: <a href=\"https://wren.wtf/shower-thoughts/stop-using-opencode/\">https://wren.wtf/shower-thoughts/stop-using-opencode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48978112\">https://news.ycombinator.com/item?id=48978112</a></p>\n<p>Points: 244</p>\n<p># Comments: 163</p>",
+      "published": "2026-07-20T12:45:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Спільнота активно обговорює серйозні проблеми безпеки та неетичні аспекти, пов'язані з платформою OpenCode. Користувачів закликають бути обережними та зважити ризики при взаємодії з цим сервісом.",
+      "ai_title": "Критика платформи OpenCode: що варто знати користувачам",
+      "video_keywords": "programming, computer code, warning sign, software interface"
+    },
+    {
+      "title": "Electric air taxis go to war",
+      "link": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
+      "summary": "Electric aviation is still in its infancy, but manufacturers are already looking beyond mere air taxi trips across cities. Today, one of the leading air taxi startups, San Jose-based Archer Aviation, unveiled a new aircraft it co-developed with defense technology company Anduril - though the platform is designed for both military and commercial uses, the [&#8230;]",
+      "published": "2026-07-20T13:52:21+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стартап Archer Aviation у співпраці з оборонною компанією Anduril представив нову модель електричного літального апарату. Хоча платформа планується для цивільних потреб, її основне призначення тепер включає і військові операції.",
+      "ai_title": "Електричні аеротаксі переходять на службу в армію",
+      "video_keywords": "electric aircraft, takeoff, drone, futuristic military technology"
     }
   ],
   "Бізнес / Стартапи": [
@@ -902,18 +898,49 @@
       "ai_summary": "У вересні в Нью-Йорку відбудеться подія StrictlyVC, яка об'єднає представників стартапів, венчурних інвесторів та бізнес-спільноту. Захід покликаний відзначити успіхи нью-йоркської екосистеми та надати нові можливості для нетворкінгу.",
       "ai_title": "Конференція StrictlyVC повертається до Нью-Йорка",
       "video_keywords": "business meeting, conference room, skyscraper, cityscape"
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "published": "2026-07-20T15:23:06+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Відеохостинг оновив політику, щоб обмежити монетизацію низькоякісних та маніпулятивних відео, створених за допомогою штучного інтелекту. Це крок до боротьби зі спамом та введенням користувачів в оману.",
+      "ai_title": "YouTube посилює правила монетизації для ШІ-контенту",
+      "video_keywords": "smartphone screen, social media app, warning sign, digital content"
+    },
+    {
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+      "published": "2026-07-20T15:15:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Інфраструктурний ШІ-стартап Infinity залучив інвестиції при оцінці компанії у $100 мільйонів. Серед інвесторів виступили не лише венчурні фонди, а й ключові розробники провідних ШІ-лабораторій.",
+      "ai_title": "Стартап Infinity залучив $15 млн від розробників OpenAI та Anthropic",
+      "video_keywords": "server room, data center, network cables, technology office"
+    },
+    {
+      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "summary": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+      "published": "2026-07-20T15:01:20+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Технологічна компанія Craneware, чиїми рішеннями користуються тисячі лікарень у США, стала жертвою кібератаки. Зловмисники викрали конфіденційні дані, що створює серйозні ризики для медичних установ.",
+      "ai_title": "Масштабний злом медичного софту: дані пацієнтів у небезпеці",
+      "video_keywords": "hacker, cyber security, computer screen, hospital corridor"
+    },
+    {
+      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "summary": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
+      "published": "2026-07-20T14:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "CEO компанії Flock Safety Гаррет Ленглі обговорить баланс між громадською безпекою та приватністю. Компанія опинилася в центрі дискусій через розробку систем моніторингу, які викликають питання щодо етики використання даних.",
+      "ai_title": "Майбутнє відеоспостереження: дискусія на TechCrunch Disrupt",
+      "video_keywords": "cctv camera, city street, surveillance, people walking"
     }
   ],
   "Крипта": [
-    {
-      "title": "Massive bitcoin call spreads target $72,000 by month end, right when the Fed meets",
-      "link": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
-      "summary": "",
-      "published": "2026-07-18T14:15:15+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Інвестори масово купують кол-опціони на біткоїн, розраховуючи на досягнення ціни у $72,000 до кінця місяця. Цей сплеск активності збігається із запланованим засіданням Федеральної резервної системи США, що може підвищити волатильність на ринку.",
-      "ai_title": "Біткоїн-трейдери очікують зростання до $72,000 наприкінці місяця"
-    },
     {
       "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
       "link": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
@@ -1244,6 +1271,56 @@
       "ai_summary": "Платформа Hyperliquid встановила високий поріг входу для розробників, які бажають запускати власні ринки прогнозів. Учасники повинні застейкати 500 000 токенів HYPE, що еквівалентно приблизно 30,4 млн доларів, для отримання дозволу.",
       "ai_title": "Hyperliquid вимагає стейкінг у 500 000 HYPE для творців ринків прогнозів",
       "video_keywords": "blockchain technology, server room, digital tokens, futuristic network"
+    },
+    {
+      "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+      "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
+      "summary": "",
+      "published": "2026-07-20T14:31:23+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Мережа Cardano готує важливе оновлення під назвою «Van Rossum», яке спрямоване на покращення інфраструктури блокчейну. Це оновлення відкриває нові можливості для користувачів та розробників у межах екосистеми мережі.",
+      "ai_title": "Cardano готується до хардфорку «Van Rossum»",
+      "video_keywords": "blockchain technology, data server, digital network, abstract connection"
+    },
+    {
+      "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
+      "link": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
+      "summary": "",
+      "published": "2026-07-20T13:49:24+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанії Hut 8 та IREN уклали масштабні контракти на надання обчислювальних потужностей для штучного інтелекту. Це спричинило помітне зростання їхніх акцій на фоні попиту на AI-інфраструктуру.",
+      "ai_title": "Акції AI-обчислень зростають після мільярдних контрактів Hut 8 та IREN",
+      "video_keywords": "server room, data center, computer hardware, glowing cables"
+    },
+    {
+      "title": "Saylor's Strategy raises cash reserves to $3.2 billion, leaving bitcoin holdings unchanged",
+      "link": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
+      "summary": "",
+      "published": "2026-07-20T12:35:02+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Майкл Сейлор продовжує накопичувати капітал, збільшивши грошові резерви компанії до 3,2 мільярда доларів. При цьому обсяг біткоїнів, якими володіє компанія, залишається незмінним.",
+      "ai_title": "MicroStrategy збільшила резерви готівки до $3,2 мільярда",
+      "video_keywords": "stack of money, bank vault, financial report, business office"
+    },
+    {
+      "title": "IREN jumps 16% after raising AI cloud revenue target above $4B",
+      "link": "https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IREN jumps 16% after raising AI cloud revenue target above $4B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trading-white-lady-up.png\" /></p><p>The Bitcoin miner raised its year-end AI cloud revenue target to more than $4 billion after signing $2.8 billion in new contracts with AI developer",
+      "published": "2026-07-20T15:20:25+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Майнер біткоїнів IREN підвищив цільовий показник доходу від хмарних сервісів для AI до 4 мільярдів доларів. Цей оптимістичний прогноз став наслідком підписання нових контрактів на суму 2,8 мільярда доларів.",
+      "ai_title": "Акції IREN злетіли на 16% на фоні успіхів у сфері AI",
+      "video_keywords": "stock market graph, trading screen, green growth arrow, digital dashboard"
+    },
+    {
+      "title": "Peter Brandt predicts the exact day Bitcoin’s bear market will be over",
+      "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Peter Brandt predicts the exact day Bitcoin’s bear market will be over\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/brandt-101.jpg\" /></p><p>Renowned trading analyst Peter Brandt says investing in Bitcoin today, will pay off much better in two to three years than buying AI stocks at current",
+      "published": "2026-07-20T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Відомий трейдер Пітер Брандт вказав на конкретну дату, коли, на його думку, біткоїн вийде з фази падіння. Він також зазначив, що довгострокові інвестиції в криптовалюту зараз є перспективнішими, ніж у технологічні акції.",
+      "ai_title": "Пітер Брандт спрогнозував завершення «ведмежого» ринку біткоїна",
+      "video_keywords": "bitcoin symbol, trading charts, financial analyst, stock market board"
     }
   ]
 }
