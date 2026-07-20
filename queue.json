@@ -1,15 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Codex Resets",
-      "link": "https://codex-resets.com/",
-      "summary": "<p>Article URL: <a href=\"https://codex-resets.com/\">https://codex-resets.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963465\">https://news.ycombinator.com/item?id=48963465</a></p>\n<p>Points: 61</p>\n<p># Comments: 52</p>",
-      "published": "2026-07-18T23:24:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт Codex Resets фокусується на моніторингу оновлень та змін у моделях штучного інтелекту. Ресурс дозволяє розробникам та користувачам слідкувати за актуальним станом систем, що постійно еволюціонують.",
-      "ai_title": "Codex Resets: нова платформа для відстеження змін у ШІ"
-    },
-    {
       "title": "LLM-Integrated Multivariable Calculus Course",
       "link": "https://calculus.academa.ai/",
       "summary": "<p>Article URL: <a href=\"https://calculus.academa.ai/\">https://calculus.academa.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964585\">https://news.ycombinator.com/item?id=48964585</a></p>\n<p>Points: 15</p>\n<p># Comments: 7</p>",
@@ -822,6 +813,16 @@
       "ai_summary": "Розробник створив утиліту bashumerate як зручнішу альтернативу стандартній команді xargs. Інструмент значно полегшує ітерацію та обробку списків даних у командному рядку.",
       "ai_title": "Новий інструмент bashumerate для спрощення роботи з Bash",
       "video_keywords": "terminal, programming code, computer screen, software developer"
+    },
+    {
+      "title": "The Odyssey turned me into an IMAX believer",
+      "link": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+      "summary": "After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scenes were beautifully crafted and tremendously acted, there was something a little bit off about the way they hit my eye. I spent days [&#8230;]",
+      "published": "2026-07-20T21:47:37+00:00",
+      "source": "The Verge",
+      "ai_summary": "Автор ділиться своїми враженнями від перегляду фільму «Одіссея» у кінотеатрі IMAX. Попри захоплення технічною якістю зйомки, деякі візуальні ефекти викликали у глядача суперечливі відчуття.",
+      "ai_title": "Враження від перегляду Odyssey у форматі IMAX",
+      "video_keywords": "imax screen, movie theater, audience watching film, projector lens"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1074,18 +1075,19 @@
       "ai_summary": "Посада директора Центру стандартів та інновацій у сфері ШІ (CAISI) стала нестабільною після відставки Девіда Сакса. Це свідчить про серйозні кадрові проблеми в новій структурі, що відповідає за регулювання штучного інтелекту.",
       "ai_title": "У США звільнився черговий керівник з питань ШІ",
       "video_keywords": "office building, executive office, resignation, business meeting"
+    },
+    {
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+      "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+      "published": "2026-07-20T23:39:35+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Colossal Biosciences веде переговори про залучення нового капіталу, що може підвищити її ринкову вартість до 20-30 мільярдів доларів. Це суттєве зростання для біотехнологічного стартапу, який займається технологіями генетичного відродження вимерлих видів.",
+      "ai_title": "Стартап із «воскресіння» мамонтів прагне оцінки у 30 мільярдів доларів",
+      "video_keywords": "dna helix, genetics laboratory, extinct animal animation, scientific research"
     }
   ],
   "Крипта": [
-    {
-      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-      "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
-      "summary": "",
-      "published": "2026-07-19T05:37:34+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Розробники Zcash тестують нову архітектуру вузлів, здатну обробляти транзакції на рівні платіжної системи Visa. Це оновлення спрямоване на значне підвищення пропускної здатності мережі зі збереженням високого рівня конфіденційності користувачів.",
-      "ai_title": "Zcash розробляє вузол для масштабування до 50 000 транзакцій на секунду"
-    },
     {
       "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
       "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
