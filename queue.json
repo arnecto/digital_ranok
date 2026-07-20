@@ -1,33 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "What's the deal with all the random weekly quota resets for agents lately?",
-      "link": "https://minimaxir.com/2026/07/agent-quota-reset/",
-      "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2026/07/agent-quota-reset/\">https://minimaxir.com/2026/07/agent-quota-reset/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48961157\">https://news.ycombinator.com/item?id=48961157</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-18T19:06:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті досліджується дивна тенденція раптового оновлення тижневих лімітів для ШІ-агентів. Автор аналізує вплив цих постійних змін на роботу користувачів та розробників, які покладаються на стабільність доступних ресурсів.",
-      "ai_title": "Проблема з нестабільними квотами для ШІ-агентів"
-    },
-    {
-      "title": "Typing Speed Test, but for Developers",
-      "link": "https://haxxorwpm.0s.is/",
-      "summary": "<p>Article URL: <a href=\"https://haxxorwpm.0s.is/\">https://haxxorwpm.0s.is/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48961504\">https://news.ycombinator.com/item?id=48961504</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
-      "published": "2026-07-18T19:38:21+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Веб-сервіс пропонує перевірити швидкість написання коду замість звичайного тексту. Це дозволяє розробникам оцінити свою продуктивність у реальних умовах програмування.",
-      "ai_title": "Тест швидкості друку для розробників"
-    },
-    {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&#8230;]",
-      "published": "2026-07-18T20:54:42+00:00",
-      "source": "The Verge",
-      "ai_summary": "Відомий американський письменник під час виступу перед працівниками OpenAI висловив побоювання, що ШІ-технології пригнічують творчий потенціал молоді. На його думку, ChatGPT негативно впливає на розвиток навичок письма та критичного мислення у майбутніх поколінь.",
-      "ai_title": "Дейв Еггерс звинуватив OpenAI у «замовчуванні цілого покоління»"
-    },
-    {
       "title": "Judge a book by its first pages",
       "link": "https://uncovered.ink",
       "summary": "<p>Article URL: <a href=\"https://uncovered.ink\">https://uncovered.ink</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962893\">https://news.ycombinator.com/item?id=48962893</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
@@ -35,15 +8,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Сервіс Uncovered.ink пропонує новий підхід до вибору літератури, фокусуючись на аналізі вступних частин творів. Це дозволяє читачам швидше зрозуміти стиль автора та вирішити, чи варто продовжувати читання конкретної книги.",
       "ai_title": "Оцінка книг за першими сторінками"
-    },
-    {
-      "title": "SpaceX and the myth of independent Wall St research",
-      "link": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
-      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434\">https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48961864\">https://news.ycombinator.com/item?id=48961864</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
-      "published": "2026-07-18T20:13:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття аналізує, наскільки об'єктивними є фінансові прогнози великих інвестиційних компаній щодо SpaceX. Автор ставить під сумнів незалежність аналітиків, вказуючи на їхню залежність від внутрішніх даних компанії та корпоративних інтересів.",
-      "ai_title": "SpaceX та міф про незалежну аналітику Уолл-стріт"
     },
     {
       "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
@@ -772,6 +736,56 @@
       "ai_summary": "Популярний віконний менеджер Hyprland оголосив про перехід на мову Lua для керування файлами конфігурації. Це оновлення має зробити налаштування середовища більш гнучким та зручним для користувачів.",
       "ai_title": "Hyprland переходить на Lua для налаштування конфігурацій",
       "video_keywords": "programming, computer code, developer workplace, linux desktop"
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "summary": "<p>Article URL: <a href=\"https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/\">https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983382\">https://news.ycombinator.com/item?id=48983382</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-20T19:03:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нове дослідження показує, що ШІ почав ефективніше за людей знаходити математичні контрприклади, що ставить під сумнів традиційні методи доведення. Це знаменує новий етап у використанні автоматизованих систем для наукових відкриттів.",
+      "ai_title": "Штучний інтелект перевершує математиків у пошуку контрприкладів",
+      "video_keywords": "mathematician, blackboard, chalk, equations"
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/safety-alignment-long-horizon-models/\">https://openai.com/index/safety-alignment-long-horizon-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983108\">https://news.ycombinator.com/item?id=48983108</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-20T18:43:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "OpenAI випустила звіт про виклики, пов'язані з безпекою моделей, що здатні виконувати завдання протягом тривалого часу. Розробники шукають нові методи контролю, щоб запобігти небажаним наслідкам при автономній роботі таких систем.",
+      "ai_title": "Безпека та узгодженість ШІ довгострокового планування",
+      "video_keywords": "server room, abstract data flow, futuristic laboratory"
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "link": "https://blaizzy.github.io/nativ/",
+      "summary": "<p>Article URL: <a href=\"https://blaizzy.github.io/nativ/\">https://blaizzy.github.io/nativ/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982681\">https://news.ycombinator.com/item?id=48982681</a></p>\n<p>Points: 50</p>\n<p># Comments: 22</p>",
+      "published": "2026-07-20T18:16:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий інструмент Nativ дозволяє користувачам запускати передові відкриті мовні моделі безпосередньо на комп'ютерах Apple Mac. Це значно спрощує доступ до складних технологій ШІ без необхідності використання хмарних сервісів.",
+      "ai_title": "Nativ: запуск потужних ШІ-моделей локально на Mac",
+      "video_keywords": "laptop, computer screen, software developer"
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "link": "https://cursor.com/blog/agent-swarm-model-economics",
+      "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-swarm-model-economics\">https://cursor.com/blog/agent-swarm-model-economics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982535\">https://news.ycombinator.com/item?id=48982535</a></p>\n<p>Points: 31</p>\n<p># Comments: 12</p>",
+      "published": "2026-07-20T18:06:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробка систем на основі груп ШІ-агентів змінює підхід до створення програмного забезпечення та ціноутворення. Компанії переходять від великих монолітних моделей до використання екосистем із багатьох спеціалізованих агентів.",
+      "ai_title": "Рої агентів та нова економіка ШІ-моделей",
+      "video_keywords": "digital network, glowing nodes, technology interface"
+    },
+    {
+      "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
+      "link": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
+      "summary": "The end of the Ford F-150 Lightning was also the start of a new era for the automaker. After failing to capture the market with the electric version of its popular F-Series truck, Ford is going back to the drawing board with its Universal Electric Vehicle Platform. The first offering will be a $30,000 electric [&#8230;]",
+      "published": "2026-07-20T19:18:45+00:00",
+      "source": "The Verge",
+      "ai_summary": "Після невдач із попередніми електричними моделями Ford перезапускає виробництво на базі нової платформи. Компанія планує випустити бюджетний електропікап, щоб зміцнити свої позиції на ринку електромобілів.",
+      "ai_title": "Ford змінює стратегію: доступна електрична вантажівка за $30 000",
+      "video_keywords": "electric truck, car factory, charging station"
     }
   ],
   "Бізнес / Стартапи": [
@@ -964,6 +978,36 @@
       "ai_summary": "Експерти на конференції VB Transform 2026 зазначають, що окремі вдалі діалоги з ШІ не гарантують якість сервісу. Бізнесу радять аналізувати загальні поведінкові патерни користувачів замість тестування поодиноких запитів.",
       "ai_title": "Чому ідеальна розмова з ШІ може свідчити про збій у продукті",
       "video_keywords": "ai chat interface, computer screen, software developer, data dashboard"
+    },
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "published": "2026-07-20T19:37:39+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія X завершила масштабну річну роботу над переробкою застосунку для Android. Оновлена версія вже доступна користувачам по всьому світу.",
+      "ai_title": "X оновив свій Android-додаток",
+      "video_keywords": "smartphone, scrolling, social media app, mobile interface"
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "published": "2026-07-20T19:33:25+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Побоювання OpenAI щодо моделей з відкритою архітектурою призвели до обговорення їхньої заборони в США. Це питання підкреслює складність перетворення штучного інтелекту на безпечний та прибутковий бізнес.",
+      "ai_title": "Дискусії навколо заборони китайських ШІ-моделей",
+      "video_keywords": "server room, artificial intelligence code, digital globe, data center"
+    },
+    {
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+      "published": "2026-07-20T19:11:25+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Річний стартап Natural планує створити нову фінансову архітектуру для автономних транзакцій штучного інтелекту. Компанія має намір стати конкурентом платіжного гіганта Stripe.",
+      "ai_title": "Стартап Natural залучив $30 млн на автоматизацію платежів для ШІ",
+      "video_keywords": "credit card, digital payment, futuristic office, financial dashboard"
     }
   ],
   "Крипта": [
@@ -1342,6 +1386,26 @@
       "ai_summary": "Фінансова компанія Bernstein підвищила цільовий показник вартості акцій Robinhood, відзначивши успіхи брокера у впровадженні блокчейн-стратегій. Зокрема, йдеться про запуск токенізованих активів та розвиток власної мережі на базі Arbitrum.",
       "ai_title": "Аналітики Bernstein прогнозують зростання акцій Robinhood через токенізацію",
       "video_keywords": "stock market chart, mobile app, smartphone screen, digital finance"
+    },
+    {
+      "title": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
+      "link": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ponzi-vs-pyramid-schemes-whats-the-difference.png\" /></p><p>The SEC alleges Mining Automatic and its founder raised $22 million from investors by promising guaranteed",
+      "published": "2026-07-20T20:27:54+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Комісія з цінних паперів і бірж США звинувачує компанію Mining Automatic та її засновника у створенні шахрайської схеми. Інвесторів ошукали, обіцяючи гарантовані прибутки від майнінгу, яких насправді не існувало.",
+      "ai_title": "SEC подала до суду на Mining Automatic через крипто-піраміду на $22 мільйони",
+      "video_keywords": "courtroom, judge gavel, handcuffs, fraud investigation"
+    },
+    {
+      "title": "Exodus to cut 25% of staff in company reorganization",
+      "link": "https://cointelegraph.com/news/crypto-wallet-exodus-cut-staff-company-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Exodus to cut 25% of staff in company reorganization\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-people-1.png\" /></p><p>The wallet company said it expected the layoffs to generate between $10 million and $13 million in savings as part of its str",
+      "published": "2026-07-20T19:29:11+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Exodus оголосила про масштабну реорганізацію, в межах якої буде звільнено чверть працівників. Завдяки цьому кроку розробник гаманця планує заощадити від 10 до 13 мільйонів доларів.",
+      "ai_title": "Криптогаманець Exodus скорочує штат на 25%",
+      "video_keywords": "office cubicle, stressed employee, laptop, unemployment office"
     }
   ]
 }
