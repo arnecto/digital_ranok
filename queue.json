@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "I hate that I don’t hate this song made with Suno",
-      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
-      "published": "2026-07-19T17:35:54+00:00",
-      "source": "The Verge",
-      "ai_summary": "Генеративна музика, створена штучним інтелектом Suno, викликає неоднозначні реакції навіть у скептиків. Попри загальну нудність таких треків, окремі композиції демонструють несподівано високу художню якість, що змушує переглянути ставлення до AI у творчості.",
-      "ai_title": "Спірна якість музики, створеної за допомогою Suno",
-      "video_keywords": "music recording studio, professional microphone, audio interface, sound engineer"
-    },
-    {
-      "title": "HMD Touch 4G",
-      "link": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "summary": "<p>Article URL: <a href=\"https://www.hmd.com/en_int/hmd-touch-4g\">https://www.hmd.com/en_int/hmd-touch-4g</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969983\">https://news.ycombinator.com/item?id=48969983</a></p>\n<p>Points: 18</p>\n<p># Comments: 18</p>",
-      "published": "2026-07-19T17:25:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія HMD випустила бюджетний мобільний телефон Touch 4G, орієнтований на базовий функціонал. Пристрій підтримує сучасні мережі зв'язку, зберігаючи при цьому класичний дизайн кнопкових телефонів.",
-      "ai_title": "HMD представила новий кнопковий телефон Touch 4G",
-      "video_keywords": "cell phone, hand holding phone, retro telephone, electronic device"
-    },
-    {
-      "title": "Neither GCC nor Clang are compliant with standard C++",
-      "link": "https://sebsite.pw/w/20260708-badstdcxx.html",
-      "summary": "<p>Article URL: <a href=\"https://sebsite.pw/w/20260708-badstdcxx.html\">https://sebsite.pw/w/20260708-badstdcxx.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970039\">https://news.ycombinator.com/item?id=48970039</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-19T17:32:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники виявили, що сучасні стандарти C++ настільки складні, що жоден з основних компіляторів, включаючи GCC та Clang, не забезпечує їх повну відповідність. Це ставить під питання надійність коду в критичних проектах.",
-      "ai_title": "Популярні компілятори GCC та Clang не відповідають стандартам C++",
-      "video_keywords": "programming code, computer screen, developer workspace, keyboard"
-    },
-    {
       "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
       "link": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
       "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact [&#8230;]",
@@ -714,6 +684,56 @@
       "ai_summary": "Компанія Apple виправила критичну помилку безпеки у своїй популярній функції після того, як про неї публічно повідомило видання 404 Media. Виправлення захистило користувачів від потенційного витоку персональних даних.",
       "ai_title": "Apple оперативно усунула вразливість у функції «Приховати мою пошту»",
       "video_keywords": "smartphone security, typing keyboard, hacker attack, data breach"
+    },
+    {
+      "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+      "link": "https://github.com/cristibaluta/Imagin-Raw",
+      "summary": "<p>Article URL: <a href=\"https://github.com/cristibaluta/Imagin-Raw\">https://github.com/cristibaluta/Imagin-Raw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995444\">https://news.ycombinator.com/item?id=48995444</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-21T17:30:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий відкритий застосунок Imagin Raw розміром усього 9 МБ, який слугує зручною та швидкою альтернативою Adobe Bridge для користувачів macOS. Програма створена для ефективного керування та перегляду великих колекцій цифрових фотографій.",
+      "ai_title": "Imagin Raw — легка відкрита альтернатива Adobe Bridge для Mac",
+      "video_keywords": "macbook screen, photo editing software, user interface, dark mode"
+    },
+    {
+      "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+      "link": "https://github.com/AlmanacCode/codealmanac/",
+      "summary": "<p>Hey HN! This is Divit from Almanac (YC S26). We built CodeAlmanac, a wiki for your coding agents that updates as you talk to them. It is open-source, local, and free.<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=XNQWV3TFBWM\" rel=\"nofollow\">https://www.youtube.com/watch?v=XNQWV3TFBWM</a><p>Your CC/Codex conversations contain a LOT of knowledge that is forgotten because it was never ",
+      "published": "2026-07-21T17:12:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено новий локальний проект з відкритим кодом CodeAlmanac, який автоматично створює персональну вікі-енциклопедію вашого коду на основі діалогів з AI-агентами. Це допомагає зберігати важливі технічні деталі та рішення, які зазвичай губляться в чаті.",
+      "ai_title": "CodeAlmanac — автоматична база знань для кодової бази від ваших розмов",
+      "video_keywords": "programmer typing, dual monitors, lines of code, software development"
+    },
+    {
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "summary": "<p>Article URL: <a href=\"https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1\">https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995074\">https://news.ycombinator.com/item?id=48995074</a></p>\n<p>Po",
+      "published": "2026-07-21T17:03:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Передові моделі штучного інтелекту від компанії Meta стали основою для першої хвилі наукових досліджень у межах ініціативи Genesis Mission. Технології допомагають прискорити інновації та обробку даних у Національній лабораторії імені Лоуренса в Берклі.",
+      "ai_title": "Штучний інтелект від Meta живить масштабні проекти Genesis Mission",
+      "video_keywords": "supercomputer, futuristic server room, blinking lights, artificial intelligence"
+    },
+    {
+      "title": "Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads",
+      "link": "https://www.theverge.com/tech/968750/apple-upgrade-program",
+      "summary": "As component and RAM shortages drive prices higher, Apple is reportedly launching an \"Apple Upgrade\" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a car lease, with options to upgrade to a new device early, or keep or return the device at the end of the lease. Gurman [&#8230;]",
+      "published": "2026-07-21T17:12:06+00:00",
+      "source": "The Verge",
+      "ai_summary": "За чутками, Apple планує запустити нову програму «Apple Upgrade», яка дозволить брати в оренду iPhone, iPad та Mac за принципом лізингу автомобілів. Це нововведення запроваджується на тлі зростання цін на компоненти та оперативну пам'ять.",
+      "ai_title": "Apple готує лізингову програму для покупців техніки",
+      "video_keywords": "apple store, paying with smartphone, modern retail, modern gadgets"
+    },
+    {
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&#237;nez-Olgu&#237;n writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book [&#8230;]",
+      "published": "2026-07-21T16:53:37+00:00",
+      "source": "The Verge",
+      "ai_summary": "Федеральний суддя остаточно схвалив колективну угоду на 1,5 мільярда доларів між компанією Anthropic та авторами книг, які звинувачували її у використанні захищених авторським правом текстів для навчання ШІ. Автори отримають компенсацію у розмірі близько 3000 доларів за кожну використану книгу.",
+      "ai_title": "Суд затвердив рекордне врегулювання справи про піратство книг проти Anthropic",
+      "video_keywords": "courtroom gavel, judge bench, legal documents, law office"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1066,19 +1086,19 @@
       "ai_summary": "Компанія Xteink оновила свій мініатюрний рідер, зробивши його ще зручнішим для користувачів. Новий пристрій тепер оснащений сенсорним екраном та вбудованим підсвічуванням для комфортного читання в темряві.",
       "ai_title": "Випущено надзвичайно компактну кишенькову електронну книгу Xteink X4 Pro",
       "video_keywords": "e-reader, reading book, hands holding device, electronic screen"
+    },
+    {
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "published": "2026-07-21T17:11:50+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія презентувала три нові моделі — Gemini 3.6 Flash, 3.5 Flash-Lite та Flash Cyber. Водночас відсутність версії 3.5 Pro продовжує викликати питання щодо подальшої стратегії техногіганта у сфері штучного інтелекту.",
+      "ai_title": "Google випустила нові моделі штучного інтелекту сімейства Gemini",
+      "video_keywords": "artificial intelligence, server room, computer screen, glowing code"
     }
   ],
   "Крипта": [
-    {
-      "title": "The GENIUS Act turns 1: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
-      "summary": "",
-      "published": "2026-07-19T18:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Закон GENIUS відзначає свою першу річницю, ставши важливим етапом у регулюванні цифрових активів. Аналітики підбивають підсумки того, як це законодавство вплинуло на ринок та розвиток криптотехнологій у США.",
-      "ai_title": "Рік дії закону GENIUS: як розвивається криптоіндустрія",
-      "video_keywords": "bitcoin symbol, digital currency, crypto graph, financial data, stock market monitor"
-    },
     {
       "title": "South Korea probed 40 cases of crypto manipulation over 2 years",
       "link": "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1698,6 +1718,46 @@
       "ai_summary": "Криптовалютний ринок та Біткоїн демонструють стійкість, ігноруючи загострення конфлікту на Близькому Сході та нові плани щодо мит від Трампа. Курс активу стрімко наближається до найвищих показників за останній місяць.",
       "ai_title": "Біткоїн підбирається до семитижневого максимуму попри геополітичні ризики",
       "video_keywords": "bitcoin chart, rising graph, financial trading screen, bull market"
+    },
+    {
+      "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal and strategic overhaul",
+      "link": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
+      "summary": "",
+      "published": "2026-07-21T17:54:40+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Проєкт Movement Labs подав заяву про банкрутство за главою 11 через кілька місяців після гучного скандалу з токенами та невдалих спроб реструктуризації. Це стало серйозним ударом по репутації розробників та інвесторів.",
+      "ai_title": "Movement Labs оголосила про банкрутство після токен-скандалу",
+      "video_keywords": "bankruptcy documents, stressed businessman, closing laptop, empty office"
+    },
+    {
+      "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
+      "link": "https://cointelegraph.com/news/crypto-market-breakout-ai-trade-cools-analyst-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto market breakout could accelerate as AI trade cools, analyst says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed.png\" /></p><p>Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto legislation and signs investors may be rotatin",
+      "published": "2026-07-21T17:46:30+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Біткоїн перевищив позначку в 67 000 доларів, а акції криптокомпаній пішли вгору. Експерти вважають, що інвестори починають масово перерозподіляти капітал із сектора штучного інтелекту назад у криптовалюти.",
+      "ai_title": "Аналітики прогнозують стрімке зростання крипторинку на тлі охолодження інтересу до ШІ",
+      "video_keywords": "stock market charts, trading screens, digital graphs, financial data"
+    },
+    {
+      "title": "White House agrees to ethics provisions in market structure bill",
+      "link": "https://cointelegraph.com/news/white-house-ethics-provisions-crypto-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"White House agrees to ethics provisions in market structure bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-wh.png\" /></p><p>The price of Bitcoin moved above $66,000 to reach a seven-week high on Tuesday as reports circulated of a deal with the White House to address",
+      "published": "2026-07-21T17:30:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс біткоїна піднявся до семитижневого максимуму вище 66 000 доларів. Це сталося після появи повідомлень про досягнення компромісу з Білим домом щодо ключових етичних положень нового регуляторного закону.",
+      "ai_title": "Білий дім погодив етичні норми у законопроєкті про структуру кринкоринку",
+      "video_keywords": "white house exterior, politicians meeting, handshake, legal document"
+    },
+    {
+      "title": "MEXC adds Bittensor TAO staking for its global user base",
+      "link": "https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MEXC adds Bittensor TAO staking for its global user base\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-staking-explained.png\" /></p><p>The integration with validator Yuma gives millions of MEXC users access to Bittensor, an AI-focused blockchain whose ecosystem now spans 128 specialized s",
+      "published": "2026-07-21T15:53:08+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Глобальні користувачі біржі MEXC тепер мають прямий доступ до стейкінгу AI-токена TAO завдяки інтеграції з валідатором Yuma. Це розширює можливості пасивного заробітку на стику блокчейну та штучного інтелекту.",
+      "ai_title": "Біржа MEXC запустила стейкінг для токенів Bittensor (TAO)",
+      "video_keywords": "cryptocurrency trading platform, smartphone screen, digital coins, tech interface"
     }
   ]
 }
