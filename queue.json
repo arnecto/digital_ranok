@@ -1,69 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Qwen3.8 is launching and going open-weight soon",
-      "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/Alibaba_Qwen/status/2078759124914098291\">https://twitter.com/Alibaba_Qwen/status/2078759124914098291</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966120\">https://news.ycombinator.com/item?id=48966120</a></p>\n<p>Points: 48</p>\n<p># Comments: 7</p>",
-      "published": "2026-07-19T08:44:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Alibaba оголосила про швидкий запуск нової версії своєї нейромережі Qwen3.8. Модель буде доступна з відкритими вагами, що дозволить розробникам вільно використовувати її у власних проєктах.",
-      "ai_title": "Alibaba готує реліз відкритої моделі Qwen3.8"
-    },
-    {
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-      "summary": "<p>Article URL: <a href=\"https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic\">https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965886\">https://news.ycombinator.com/item?id=48965886</a></p>\n<p>Points: 6</p>\n<p># Comments: 6</p>",
-      "published": "2026-07-19T08:00:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Perforce викликала обурення користувачів, встановивши цінник у 500 доларів за навчальні відеокурси. При цьому контент у цих відео озвучений штучним інтелектом, а не людиною, що розчарувало професійну спільноту.",
-      "ai_title": "Скандал навколо платного навчання від Perforce"
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966569\">https://news.ycombinator.com/item?id=48966569</a></p>\n<p>Points: 25</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-19T10:03:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інструмент Claude Code тепер використовує середовище виконання Bun, написане на Rust. Це оновлення спрямоване на підвищення швидкості та ефективності роботи кодового помічника.",
-      "ai_title": "Claude Code переходить на Bun та Rust"
-    },
-    {
-      "title": "Qwen 3.8 Max Preview",
-      "link": "https://www.qwencloud.com/pricing/token-plan",
-      "summary": "<p>Article URL: <a href=\"https://www.qwencloud.com/pricing/token-plan\">https://www.qwencloud.com/pricing/token-plan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966190\">https://news.ycombinator.com/item?id=48966190</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-19T08:57:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено нову попередню версію мовної моделі Qwen 3.8 Max. Оновлення доступне для тестування в межах тарифних планів розробника.",
-      "ai_title": "Анонс Qwen 3.8 Max Preview"
-    },
-    {
-      "title": "Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally",
-      "link": "https://offlinetts.com/",
-      "summary": "<p>Article URL: <a href=\"https://offlinetts.com/\">https://offlinetts.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965983\">https://news.ycombinator.com/item?id=48965983</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-19T08:21:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З’явився браузерний інструмент OfflineTTS, який дозволяє перетворювати текст на мовлення та навпаки безпосередньо у вашому браузері. Рішення працює повністю локально, забезпечуючи конфіденційність даних без потреби у хмарних серверах.",
-      "ai_title": "OfflineTTS: безкоштовний локальний інструмент для роботи з мовою"
-    },
-    {
-      "title": "Ollama: All Aboard Open Models",
-      "link": "https://ollama.com/blog/all-aboard-open-models",
-      "summary": "<p>Article URL: <a href=\"https://ollama.com/blog/all-aboard-open-models\">https://ollama.com/blog/all-aboard-open-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965880\">https://news.ycombinator.com/item?id=48965880</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-19T07:59:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Команда Ollama опублікувала оновлення, яке спрощує роботу з відкритими моделями штучного інтелекту. Це робить інтеграцію та запуск локальних LLM значно доступнішими для широкого кола користувачів.",
-      "ai_title": "Ollama розширює підтримку відкритих моделей"
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "link": "https://github.com/openai/codex/pull/33972/files",
-      "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/pull/33972/files\">https://github.com/openai/codex/pull/33972/files</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965850\">https://news.ycombinator.com/item?id=48965850</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-19T07:54:39+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI скоротила обсяг доступного контексту для моделі Codex з 372 тисяч до 272 тисяч токенів. Зміни були зафіксовані в актуальних оновленнях репозиторію проєкту.",
-      "ai_title": "OpenAI зменшила розмір контекстного вікна моделі Codex"
-    },
-    {
       "title": "Qwen 3.8 Max",
       "link": "https://qwen.ai/home",
       "summary": "<p>Article URL: <a href=\"https://qwen.ai/home\">https://qwen.ai/home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966754\">https://news.ycombinator.com/item?id=48966754</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
@@ -80,15 +17,6 @@
       "source": "Hacker News: Front Page",
       "ai_summary": "Автор статті ділиться досвідом продажу 2500 MIDI-рекордерів власного виробництва. Історія доводить, що створення апаратного забезпечення стає доступнішим завдяки сучасним інструментам проектування та 3D-друку.",
       "ai_title": "Чому розробка власного «заліза» виявилася простішою, ніж здавалося"
-    },
-    {
-      "title": "Half a Second – a book about the XZ backdoor",
-      "link": "https://www.half-second.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.half-second.com/\">https://www.half-second.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966139\">https://news.ycombinator.com/item?id=48966139</a></p>\n<p>Points: 26</p>\n<p># Comments: 9</p>",
-      "published": "2026-07-19T08:48:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова книга детально розбирає один із найнебезпечніших інцидентів у безпеці програмного забезпечення з відкритим кодом — впровадження бекдору в XZ Utils. Видання аналізує хронологію атаки та уроки, які має засвоїти спільнота розробників.",
-      "ai_title": "Half a Second: книга про гучний бекдор у XZ Utils"
     },
     {
       "title": "The grueling, 630-mile road race where the only fuel is sunlight",
@@ -855,6 +783,16 @@
       "ai_summary": "Розробник створив інтерактивний просторовий індекс, що візуалізує переміщення артефактів із місць їхнього походження до західних музеїв. Проєкт демонструє зв'язок між культурними об'єктами та інституціями, що їх утримують, охоплюючи колекції з Азії, Африки, Близького Сходу та Південної Америки.",
       "ai_title": "Ex Situ: відкритий проєкт для відстеження переміщених культурних цінностей",
       "video_keywords": "world map, digital interface, historical artifacts, data visualization"
+    },
+    {
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-3.0\">https://qwen.ai/blog?id=qwen-image-3.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989701\">https://news.ycombinator.com/item?id=48989701</a></p>\n<p>Points: 40</p>\n<p># Comments: 20</p>",
+      "published": "2026-07-21T08:44:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Alibaba представила оновлену модель Qwen-Image-3.0, яка демонструє високу точність у відтворенні деталей та розумінні складних візуальних контекстів. Розробники зосередилися на покращенні якості генерації тексту на зображеннях та глибшій роботі зі знаннями.",
+      "ai_title": "Alibaba випустила нову модель Qwen-Image-3.0 для генерації зображень",
+      "video_keywords": "artificial intelligence, digital art, abstract technology, futuristic interface"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1128,15 +1066,6 @@
       "source": "Cointelegraph.com News",
       "ai_summary": "Регуляторні органи Південної Кореї ініціювали перевірку діяльності компанії Dunamu. Ці заходи відбуваються на тлі впровадження нового закону про захист користувачів віртуальних активів.",
       "ai_title": "Південна Корея розпочала санкційний процес проти оператора біржі Upbit"
-    },
-    {
-      "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
-      "link": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-2345-electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin.png\" /></p><p>Electronic Transactions Association (ETA)",
-      "published": "2026-07-19T09:16:42+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Голова Асоціації електронних транзакцій (ETA) прогнозує збільшення кількості колаборацій між фінансовими організаціями та криптостартапами. Це свідчить про подальшу інтеграцію біткоїн-технологій у традиційну платіжну індустрію.",
-      "ai_title": "Сектор платежів очікує на зростання партнерств з біткоїн-стартапами"
     },
     {
       "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
@@ -1607,6 +1536,46 @@
       "ai_summary": "Курс головної криптовалюти наблизився до позначки 65 500 доларів завдяки відновленню інтересу до технологічних активів та виробників чіпів. Оптимізм на фондовому ринку позитивно вплинув на динаміку цифрових активів.",
       "ai_title": "Біткоїн сягнув двотижневого максимуму на тлі зростання технологічного сектору",
       "video_keywords": "bitcoin logo, digital currency ticker, computer processor, trading desk"
+    },
+    {
+      "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
+      "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
+      "summary": "",
+      "published": "2026-07-21T07:21:04+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Вартість XRP підскочила на 4%, оскільки трейдери очікують прориву графічного паттерна «трикутник». Аналітики прогнозують можливе зростання ціни активу до позначки 1,35 долара.",
+      "ai_title": "XRP демонструє зростання на фоні технічного прориву",
+      "video_keywords": "cryptocurrency chart, trading screen, rising graph"
+    },
+    {
+      "title": "UK parliamentary group probes banking barriers for crypto firms",
+      "link": "https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK parliamentary group probes banking barriers for crypto firms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchainweek2020uk1.jpg\" /></p><p>A UK parliamentary group launched an inquiry into banking restrictions on crypto firms and consumers, including their impact on investment and com",
+      "published": "2026-07-21T08:51:06+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Група британських парламентарів розпочала розслідування щодо штучних бар'єрів, які банки створюють для криптобізнесу та інвесторів. Очікується, що висновки допоможуть покращити доступ криптоіндустрії до фінансових послуг.",
+      "ai_title": "Парламент Британії розслідує банківські обмеження для криптокомпаній",
+      "video_keywords": "parliament building, bank vault, meeting room"
+    },
+    {
+      "title": "Bitcoin ETFs post 5-day inflow streak, longest since May",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs post 5-day inflow streak, longest since May\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-remains-above-15k-and-keeps-on-testing-the-16k-mark.png\" /></p><p>US spot Bitcoin ETFs recorded $227 million in inflows as BTC climbed above $65,000, extending their longest w",
+      "published": "2026-07-21T07:28:29+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Спотові біткоїн-ETF у США залучили 227 мільйонів доларів протягом п'яти днів поспіль. Це стало найдовшою серією притоку інвестицій з травня, що збіглося зі зростанням ціни BTC вище 65 000 доларів.",
+      "ai_title": "Біткоїн-ETF відзначають п'ятиденний приплив капіталу",
+      "video_keywords": "stock market ticker, digital gold, financial analysis"
+    },
+    {
+      "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+      "link": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-base-coinbase-l2-network-2.jpg\" /></p><p>The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-",
+      "published": "2026-07-21T07:06:12+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Мережа другого рівня Base від Coinbase планує розширити свій фінансовий функціонал шляхом запуску активів, забезпечених реальними акціями у співвідношенні 1:1. Це знаменує стратегічний розворот платформи від соціальних застосунків до фінансових інструментів.",
+      "ai_title": "Base готується до запуску токенізованих акцій",
+      "video_keywords": "digital interface, network connection, blockchain technology"
     }
   ]
 }
