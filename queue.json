@@ -1,15 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-      "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea\">https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965161\">https://news.ycombinator.com/item?id=48965161</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-19T05:07:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технічний огляд розкриває особливості нової архітектури AMD через зміни в коді LLVM. Дослідження дозволяє зрозуміти векторний набір інструкцій та потенційні можливості майбутніх графічних чипів компанії.",
-      "ai_title": "Аналіз архітектури майбутніх графічних процесорів AMD GFX1250"
-    },
-    {
       "title": "Qwen3.8 is launching and going open-weight soon",
       "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
       "summary": "<p>Article URL: <a href=\"https://twitter.com/Alibaba_Qwen/status/2078759124914098291\">https://twitter.com/Alibaba_Qwen/status/2078759124914098291</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966120\">https://news.ycombinator.com/item?id=48966120</a></p>\n<p>Points: 48</p>\n<p># Comments: 7</p>",
@@ -854,6 +845,16 @@
       "ai_summary": "Дискусія навколо розширення масштабів стеження з боку корпорацій та державних органів змушує користувачів замислитися над безпекою в мережі. Багато хто відзначає, що став висловлювати свої думки в інтернеті значно обережніше, ніж п'ять років тому.",
       "ai_title": "Чи обмежує страх стеження вашу свободу слова в інтернеті?",
       "video_keywords": "security camera, laptop, dark room, surveillance monitor"
+    },
+    {
+      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+      "link": "https://exsitu.app/map",
+      "summary": "<p>Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at western/euro-american institutions and maps their collection categorised by them under Islamic art, Asian/African art, ethnological collections, Middle East, South America etc.<p>Started as my MA thesis in",
+      "published": "2026-07-21T04:48:32+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив інтерактивний просторовий індекс, що візуалізує переміщення артефактів із місць їхнього походження до західних музеїв. Проєкт демонструє зв'язок між культурними об'єктами та інституціями, що їх утримують, охоплюючи колекції з Азії, Африки, Близького Сходу та Південної Америки.",
+      "ai_title": "Ex Situ: відкритий проєкт для відстеження переміщених культурних цінностей",
+      "video_keywords": "world map, digital interface, historical artifacts, data visualization"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1119,15 +1120,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
-      "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
-      "summary": "",
-      "published": "2026-07-19T10:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Розроблено спеціальне рішення для відновлення доступу до активів у разі квантової атаки. Проте цей інструмент не зможе допомогти повернути 1,1 мільйона біткоїнів, які належать Сатоші Накамото.",
-      "ai_title": "З'явився інструмент для захисту біткоїна від квантових загроз"
-    },
     {
       "title": "South Korean regulator begins sanctions process against Dunamu: Report",
       "link": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1585,6 +1577,36 @@
       "ai_summary": "Влада В'єтнаму впроваджує жорсткі заходи проти використання офшорних криптобірж, таких як Binance та OKX. Приватні трейдери, які продовжують користуватися цими платформами, ризикують отримати значні грошові стягнення.",
       "ai_title": "У В'єтнамі користувачам Binance та OKX загрожують великі штрафи",
       "video_keywords": "smartphone screen, digital trading app, crowded city street, warning sign"
+    },
+    {
+      "title": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
+      "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
+      "summary": "",
+      "published": "2026-07-21T06:42:52+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Спотові біткоїн-ETF у США показують позитивну динаміку п'ять днів поспіль, що є найкращим результатом з квітня. Інвестори активно нарощують позиції, попри нещодавню волатильність на ринку.",
+      "ai_title": "Біткоїн-ETF демонструють стабільний приплив капіталу протягом п'яти днів",
+      "video_keywords": "stock market chart, digital trading screen, financial growth graph"
+    },
+    {
+      "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
+      "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
+      "summary": "",
+      "published": "2026-07-21T06:15:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Британські законодавці вивчають проблеми, з якими стикаються криптовалютні компанії при відкритті банківських рахунків. Влада намагається з'ясувати, чи не створюють фінансові установи штучних бар'єрів для розвитку індустрії.",
+      "ai_title": "Парламент Великої Британії розпочав розслідування щодо банківських обмежень для криптобізнесу",
+      "video_keywords": "parliament building, bank vault, legal documents, meeting room"
+    },
+    {
+      "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
+      "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
+      "summary": "",
+      "published": "2026-07-21T05:34:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс головної криптовалюти наблизився до позначки 65 500 доларів завдяки відновленню інтересу до технологічних активів та виробників чіпів. Оптимізм на фондовому ринку позитивно вплинув на динаміку цифрових активів.",
+      "ai_title": "Біткоїн сягнув двотижневого максимуму на тлі зростання технологічного сектору",
+      "video_keywords": "bitcoin logo, digital currency ticker, computer processor, trading desk"
     }
   ]
 }
