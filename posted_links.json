@@ -1,14 +1,4 @@
 {
-  "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto": {
-    "title": "Signs of life?: State of Crypto",
-    "category": "Крипта",
-    "posted_at": "2026-07-14T02:59:58.947285+03:00"
-  },
-  "https://habr.com/ru/companies/ruvds/articles/1057710/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1057710": {
-    "title": "[Перевод] Басня о полусыром продукте",
-    "category": "IT / AI",
-    "posted_at": "2026-07-14T06:24:55.872963+03:00"
-  },
   "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/": {
     "title": "SpaceX отримала дозвіл на новий випробувальний політ Starship",
     "category": "Бізнес / Стартапи",
@@ -614,5 +604,13 @@
     "summary": "У штаті Джорджія декількох офіцерів поліції було звільнено через незаконний доступ до даних камер відеоспостереження компанії Flock Safety. Цей інцидент викликав дискусію щодо приватності та контролю за використанням технологій розпізнавання облич та номерних знаків правоохоронцями.",
     "video_keywords": "security camera, police officer, street surveillance, cctv system",
     "link": "https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/"
+  },
+  "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/": {
+    "title": "Hugging Face повідомила про витік даних користувачів",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-07-22T06:46:30.636903+03:00",
+    "summary": "Платформа Hugging Face закликала користувачів негайно оновити токени доступу та перевірити активність своїх акаунтів. Це сталося через виявлений злам внутрішніх баз даних, який міг скомпрометувати облікові дані.",
+    "video_keywords": "cybersecurity, hacker, computer screen, data breach",
+    "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/"
   }
 }
