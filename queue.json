@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "link": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "summary": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/frontier-lab-economics/\">https://www.emergingtrajectories.com/lh/frontier-lab-economics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48980019\">https://news.ycombinator.com/item?id=48980019</a></p>\n<p>Points: 97</p>\n<p># Comments: 99</p>",
-      "published": "2026-07-20T15:13:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття аналізує економічну ситуацію в індустрії передових мовних моделей. В центрі уваги — успіхи нових моделей Kimi K3 та Qwen 3.8 на фоні потенційної кризи в компанії Anthropic.",
-      "ai_title": "Економіка ШІ: виклики для Anthropic та нові гравці ринку",
-      "video_keywords": "server room, data center, futuristic technology, abstract data"
-    },
-    {
-      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
-      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the [&#8230;]",
-      "published": "2026-07-20T16:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Adobe оновила свій додаток Project Indigo, додавши в нього потужні інструменти генеративного штучного інтелекту. Це дозволяє користувачам iPhone покращувати знімки за допомогою передових алгоритмів обробки зображень.",
-      "ai_title": "Adobe інтегрує генеративний ШІ у свій експериментальний фотододаток",
-      "video_keywords": "smartphone, photography, editing software, creative workspace"
-    },
-    {
-      "title": "Over 30% of new ArXiv submissions now read as AI-written",
-      "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "summary": "<p>Article URL: <a href=\"https://unslop.run/blog/measuring-ai-writing-on-arxiv\">https://unslop.run/blog/measuring-ai-writing-on-arxiv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981206\">https://news.ycombinator.com/item?id=48981206</a></p>\n<p>Points: 121</p>\n<p># Comments: 87</p>",
-      "published": "2026-07-20T16:36:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідження показує стрімке зростання кількості наукових публікацій, згенерованих ШІ. Це ставить під сумнів автентичність контенту в академічних репозиторіях та вимагає нових методів перевірки.",
-      "ai_title": "Понад 30% статей на ArXiv написані штучним інтелектом",
-      "video_keywords": "scientific papers, digital screen, data analysis, research"
-    },
-    {
       "title": "Kimi Work",
       "link": "https://www.kimi.com/products/kimi-work",
       "summary": "<p>Article URL: <a href=\"https://www.kimi.com/products/kimi-work\">https://www.kimi.com/products/kimi-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981703\">https://news.ycombinator.com/item?id=48981703</a></p>\n<p>Points: 65</p>\n<p># Comments: 26</p>",
@@ -814,89 +784,59 @@
       "ai_summary": "Технологія passkeys, розроблена як заміна звичним паролям, стикається з критикою через складність сприйняття звичайними людьми. Експерти зазначають, що інженери не врахували особливості людської поведінки та психології під час впровадження цієї системи безпеки.",
       "ai_title": "Критика інженерів через створення passkeys без урахування психології користувачів",
       "video_keywords": "person typing, laptop keyboard, security lock, frustrated face"
+    },
+    {
+      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+      "link": "https://unlayer.com",
+      "summary": "<p>Hi HN, We’re Adeel and Umair, co-founders of Unlayer (<a href=\"https://unlayer.com/\">https://unlayer.com/</a>). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.<p>Here’s a de",
+      "published": "2026-07-22T16:02:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники запустили платформу Unlayer, яка дозволяє додавати створення електронних листів, вебсторінок та документів без необхідності будувати власний редактор. Інструмент підтримує роботу через код, візуальний інтерфейс або за допомогою штучного інтелекту.",
+      "ai_title": "Unlayer дозволяє легко інтегрувати конструктори контенту у ваші застосунки",
+      "video_keywords": "software development, typing code, computer screen, dashboard"
+    },
+    {
+      "title": "OpenAI Presence",
+      "link": "https://openai.com/index/introducing-openai-presence/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-openai-presence/\">https://openai.com/index/introducing-openai-presence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008089\">https://news.ycombinator.com/item?id=49008089</a></p>\n<p>Points: 39</p>\n<p># Comments: 16</p>",
+      "published": "2026-07-22T15:12:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія OpenAI опублікувала інформацію про новий проєкт чи ініціативу під назвою OpenAI Presence. Деталі розкривають нові можливості взаємодії користувачів із сучасними моделями штучного інтелекту.",
+      "ai_title": "OpenAI представила концепцію OpenAI Presence",
+      "video_keywords": "artificial intelligence, futuristic interface, glowing lights, server room"
+    },
+    {
+      "title": "Most Americans say \"not in my backyard\" to AI data centers",
+      "link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+      "summary": "<p>Article URL: <a href=\"https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/\">https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007525\">https://news.ycombinator.com/item?id=49007525</a></p>\n<p>Points: 41</p>\n<p># Comments: 55</p>",
+      "published": "2026-07-22T14:34:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нове опитування показує зростання опору серед мешканців щодо розміщення енергоємних дата-центрів ШІ у їхніх житлових районах. Люди побоюються проблем з інфраструктурою та екологією через стрімкий розвиток технологій.",
+      "ai_title": "Більшість американців виступають проти будівництва дата-центрів штучного інтелекту поблизу їхніх домів",
+      "video_keywords": "protest, neighborhood, data center building, community meeting"
+    },
+    {
+      "title": "How the Galaxy Z Fold 8 and Z Flip 8 phones compare",
+      "link": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
+      "summary": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem geared toward people who bought last year's model; Aside from a few design updates and AI [&#8230;]",
+      "published": "2026-07-22T15:47:10+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Samsung офіційно анонсувала нове покоління складаних пристроїв та оновлені смартгодинники на події Unpacked. Новинки отримали покращений дизайн та розширені можливості штучного інтелекту.",
+      "ai_title": "Samsung презентувала нові складані смартфони Galaxy Z Fold 8 та Z Flip 8",
+      "video_keywords": "folding smartphone, modern gadget, touchscreen, unboxing"
+    },
+    {
+      "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
+      "link": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
+      "summary": "The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige uses a third-generation AI model to provide real-time feedback on how you're brushing through a glowing ring on its base, while a touchscreen highlights areas of your mouth that may [&#8230;]",
+      "published": "2026-07-22T15:09:44+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Philips випустила смартщітку Sonicare DiamondClean 9900 Prestige із новим алгоритмом штучного інтелекту. Пристрій надає користувачам зворотний зв'язок у реальному часі про пропущені зони під час чищення зубів.",
+      "ai_title": "Нова зубна щітка Philips використовує ШІ для аналізу якості чищення",
+      "video_keywords": "smart toothbrush, bathroom sink, daily routine, person brushing teeth"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "published": "2026-07-20T15:23:06+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відеохостинг оновив політику, щоб обмежити монетизацію низькоякісних та маніпулятивних відео, створених за допомогою штучного інтелекту. Це крок до боротьби зі спамом та введенням користувачів в оману.",
-      "ai_title": "YouTube посилює правила монетизації для ШІ-контенту",
-      "video_keywords": "smartphone screen, social media app, warning sign, digital content"
-    },
-    {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
-      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
-      "published": "2026-07-20T15:15:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Інфраструктурний ШІ-стартап Infinity залучив інвестиції при оцінці компанії у $100 мільйонів. Серед інвесторів виступили не лише венчурні фонди, а й ключові розробники провідних ШІ-лабораторій.",
-      "ai_title": "Стартап Infinity залучив $15 млн від розробників OpenAI та Anthropic",
-      "video_keywords": "server room, data center, network cables, technology office"
-    },
-    {
-      "title": "Adobe camera app’s new feature will critique your photos using AI",
-      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app",
-      "published": "2026-07-20T15:45:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Нова функція Project Indigo в застосунку Adobe дозволяє автоматично видаляти фони та аналізувати знімки за допомогою штучного інтелекту. Це інструмент, що допомагає користувачам покращувати якість фото завдяки інтелектуальній обробці зображень.",
-      "ai_title": "Adobe впроваджує ШІ-критика для фотографій",
-      "video_keywords": "smartphone, photo editing, ai software, creative work"
-    },
-    {
-      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
-      "link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
-      "summary": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
-      "published": "2026-07-20T15:35:37+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Мільйони вебсайтів опинилися під загрозою через використання хакерами критичних вразливостей у програмному забезпеченні WordPress. Експерти з кібербезпеки попереджають, що зловмисники можуть отримати віддалений доступ до величезної кількості ресурсів.",
-      "ai_title": "Масштабна загроза: хакери атакують вразливості WordPress",
-      "video_keywords": "computer code, hacking, cyber security, server room"
-    },
-    {
-      "title": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
-      "link": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build",
-      "summary": "<p>Zillow, the real estate technology company, doesn&#x27;t get one conversation with its customers. They move from a phone screen to a loan officer to a real estate agent, sometimes over months or years, and expect the context to follow them. A single chatbot could never carry that thread.</p><p>At<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a>, Zillow SVP of Engineering ",
-      "published": "2026-07-20T16:38:48+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Технічний директор Zillow підкреслив, що успішність інвестицій у штучний інтелект варто оцінювати ще до початку розробки продукту. Компанія наголошує на складності підтримки контексту клієнта в довгих бізнес-процесах, де один чат-бот не може замінити людину.",
-      "ai_title": "Zillow: як правильно оцінювати ефективність ШІ",
-      "video_keywords": "business meeting, office workspace, smartphone screen, real estate agent"
-    },
-    {
-      "title": "The cleanup trap: Stop asking RAG to fix bad data",
-      "link": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
-      "summary": "<p>The enterprise technology ecosystem is caught in a costly cycle. Over the past two years, millions of dollars have been funneled into generative AI pilots, yet many of these initiatives stall out before ever reaching a live production environment.</p><p>When a project fails, the immediate instinct of technical leadership is often to blame the model: The context window was too restrictive, the l",
-      "published": "2026-07-20T16:19:45+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Багато корпоративних ШІ-проєктів зазнають невдачі, бо компанії намагаються використовувати RAG-системи для компенсації низької якості даних. Технологічні лідери закликають припинити покладатися на моделі для виправлення внутрішніх системних недоліків.",
-      "ai_title": "Чому RAG не вирішує проблему поганих даних",
-      "video_keywords": "data center, server rack, digital analytics, software interface"
-    },
-    {
-      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-      "link": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
-      "summary": "<p>Hugging Face’s incident response team first turned to frontier AI models to analyze a breach of the company’s production infrastructure, and the models refused to help. Commercial safety guardrails built to stop attackers blocked every forensic query because they treated the IR team’s real exploit data the same way they would treat a live attack.</p><p>The attacker, an autonomous AI agent runni",
-      "published": "2026-07-20T15:49:20+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Під час розслідування злому інфраструктури Hugging Face комерційні захисні механізми ШІ помилково заблокували запити власної команди безпеки. Система сприйняла дані про реальний злом як нову атаку, що створило непередбачувані перешкоди для спеціалістів.",
-      "ai_title": "ШІ-захист Hugging Face заблокував власну команду безпеки",
-      "video_keywords": "computer screens, security engineer, network monitoring, technology failure"
-    },
-    {
-      "title": "Judge pauses $110B Paramount-Warner Bros merger",
-      "link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
-      "summary": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
-      "published": "2026-07-20T17:58:50+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Американські штати подали позов, стверджуючи, що медіа-угода завдасть шкоди кінотеатрам та дистриб'юторам контенту. Суд тимчасово заблокував процес, щоб розглянути ризики для ринку та глядачів.",
-      "ai_title": "Суд призупинив злиття Paramount та Warner Bros на 110 мільярдів доларів",
-      "video_keywords": "courthouse, judge gavel, legal document, business meeting"
-    },
     {
       "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
       "link": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
@@ -1346,29 +1286,39 @@
       "ai_summary": "Експерти зробили огляд найперспективніших альтернативних браузерів, які кидають виклик домінуючим на ринку Chrome та Safari. Нові продукти фокусуються на конфіденційності, швидкості роботи та унікальних функціях для користувачів.",
       "ai_title": "Битва браузерів: найкращі альтернативи для Chrome та Safari у 2024 році",
       "video_keywords": "laptop screen, typing on keyboard, web browsing, code on monitor"
+    },
+    {
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+      "published": "2026-07-22T16:23:09+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа Substack надає читачам можливість оцінювати, яка частина розсилки була написана за допомогою штучного інтелекту. Це нововведення відображає загальну тенденцію до більшої прозорості у створенні контенту за участі нейромереж.",
+      "ai_title": "Substack запускає інструмент для виявлення штучного інтелекту в текстах",
+      "video_keywords": "person typing laptop, reading newsletter, digital screen, content creation"
+    },
+    {
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "published": "2026-07-22T16:13:30+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія OpenAI планує інвестувати у розвиток інфраструктури суму, яка дорівнює ВВП Швеції, і ці витрати розраховані до 2030 року. Такий масштаб фінансування демонструє колосальні потреби ринку штучного інтелекту в обчислювальних потужностях.",
+      "ai_title": "Витрати OpenAI на інфраструктуру сягнули астрономічних 750 мільярдів доларів",
+      "video_keywords": "server rack, data center, blinking lights, modern technology"
+    },
+    {
+      "title": "If you pay a hacker’s ransom, chances are that they’ll come back for more",
+      "link": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
+      "summary": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
+      "published": "2026-07-22T15:29:41+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Дослідники кібербезпеки нагадують, що переговори з кіберзлочинцями не мають сенсу, оскільки вони майже завжди повертаються за новими виплатами. Злочинці не зацікавлені в дотриманні домовленостей після отримання грошей.",
+      "ai_title": "Викуп даних хакерам: чому платити вимагачам марно",
+      "video_keywords": "hacker typing keyboard, dark room, glowing code screen, cyber attack"
     }
   ],
   "Крипта": [
-    {
-      "title": "IREN jumps 16% after raising AI cloud revenue target above $4B",
-      "link": "https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IREN jumps 16% after raising AI cloud revenue target above $4B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trading-white-lady-up.png\" /></p><p>The Bitcoin miner raised its year-end AI cloud revenue target to more than $4 billion after signing $2.8 billion in new contracts with AI developer",
-      "published": "2026-07-20T15:20:25+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Майнер біткоїнів IREN підвищив цільовий показник доходу від хмарних сервісів для AI до 4 мільярдів доларів. Цей оптимістичний прогноз став наслідком підписання нових контрактів на суму 2,8 мільярда доларів.",
-      "ai_title": "Акції IREN злетіли на 16% на фоні успіхів у сфері AI",
-      "video_keywords": "stock market graph, trading screen, green growth arrow, digital dashboard"
-    },
-    {
-      "title": "Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-btc-is-doing-great-but-is-an-altseason-emerging.png\" /></p><p>Bitcoin faced troublesome resistance at $65,000 while traders still saw a potential BTC price brea",
-      "published": "2026-07-20T15:47:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Курс біткоїна зустрів сильний опір на рівні $65 000 через загальний негативний тренд на фондовому ринку. Великі інституційні інвестори розпочали масштабний розпродаж технологічних акцій, що посилило тиск на криптовалюту.",
-      "ai_title": "Біткоїн застряг на позначці $65 000 на тлі розпродажу техсектору",
-      "video_keywords": "bitcoin graph, stock market board, trading terminal, financial chart"
-    },
     {
       "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
       "link": "https://cointelegraph.com/news/hut-8-iren-deals-lift-ai-focused-bitcoin-mining-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2118,6 +2068,56 @@
       "ai_summary": "Платформа прогнозування Kalshi презентувала оновлені хаби напередодні проміжних виборів у Сполучених Штатах. Користувачі отримують нові інструменти для ставок та аналізу політичних подій у реальному часі.",
       "ai_title": "Kalshi запустила спеціальні хаби для виборів у США",
       "video_keywords": "voting booth, American flag, ballot box, election news"
+    },
+    {
+      "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+      "link": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+      "summary": "",
+      "published": "2026-07-22T15:53:54+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фінтех-гігант Revolut продемонстрував стрімке зростання під час продажу акцій співробітниками. Завдяки цьому ринкова вартість компанії сягнула вражаючої позначки у 115 мільярдів доларів.",
+      "ai_title": "Оцінка Revolut досягла $115 мільярдів",
+      "video_keywords": "smartphone app, financial district, business handshake, stock exchange"
+    },
+    {
+      "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+      "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+      "summary": "",
+      "published": "2026-07-22T15:37:36+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Представниця Комісії з цінних паперів і бірж США Гестер Пірс заявила, що деякі DeFi-протоколи та платформи ончейн-кредитування можуть підпадати під суворе регулювання як цінні папери. Це створює нові правові виклики для ринку децентралізованих фінансів.",
+      "ai_title": "SEC попереджає про ризики для DeFi та ончейн-кредитування",
+      "video_keywords": "computer screen, financial charts, businessman working, legal document"
+    },
+    {
+      "title": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
+      "link": "https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Chamber sues Illinois officials over new state 0.2% crypto tax\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/lawsuit-litigation-court-tax.png\" /></p><p>The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be b",
+      "published": "2026-07-22T16:28:10+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Digital Chamber подала позов проти чиновників штату Іллінойс через запровадження спірного податку на криптотранзакції у розмірі 0,2%. На думку позивачів, цей закон є дискримінаційним щодо користувачів цифрових активів.",
+      "ai_title": "Асоціація Digital Chamber судиться через новий податок на крипту в Іллінойсі",
+      "video_keywords": "courtroom gavel, courthouse exterior, lawyer speaking, legal paperwork"
+    },
+    {
+      "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
+      "link": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitGo, OTC Markets plan tokenized securities access for broker-dealers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/handshake-agreement-partnership-merger.png\" /></p><p>The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC L",
+      "published": "2026-07-22T16:10:22+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанії BitGo та OTC Markets оголосили про партнерство задля надання брокерам-дилерам доступу до токенізованих активів. Нова ініціатива дозволить понад 150 фінансовим посередникам торгувати цифровими цінними паперами.",
+      "ai_title": "BitGo та OTC Markets готують доступ до токенізованих цінних паперів",
+      "video_keywords": "business meeting, handshake, computer trading terminals, modern office"
+    },
+    {
+      "title": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price avoids major Iran jitters as S&amp;P 500 ‘short squeeze’ on horizon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-we-talk-to-industry-participants.jpg\" /></p><p>Bitcoin and US stocks stayed strong in the face of US-Iran escalation as analysis predicted B",
+      "published": "2026-07-22T15:55:20+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс біткоїна та американські фондові індекси демонструють стійкість попри ескалацію напруженості між США та Іраном. Трейдери продовжують стежити за ринковими тенденціями на тлі прогнозованих рухів на біржі.",
+      "ai_title": "Біткоїн утримав позиції на тлі геополітичної напруги",
+      "video_keywords": "bitcoin coins, digital currency charts, stock market ticker, city skyline background"
     }
   ]
 }
