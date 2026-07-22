@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming [&#8230;]",
-      "published": "2026-07-20T10:16:33+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанії Moonshot та Alibaba представили нові мовні моделі, що здатні конкурувати з розробками OpenAI та Anthropic за значно меншу вартість. Це створює серйозну конкуренцію американському домінуванню на ринку штучного інтелекту.",
-      "ai_title": "Китайські технологічні гіганти кидають виклик лідерам ШІ зі США",
-      "video_keywords": "artificial intelligence, server racks, global map, technology innovation"
-    },
-    {
       "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
       "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
       "summary": "<p>Article URL: <a href=\"https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/\">https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48977711\">https://news.ycombinator.com/item?id=48977711</a></p>\n<p>Points: 93</p>\n<p># Comm",
@@ -19,16 +9,6 @@
       "ai_summary": "Нові правила для безвізових подорожей можуть змусити ЄС ділитися чутливими даними громадян з американськими спецслужбами. Експерти з прав людини висловлюють серйозне занепокоєння щодо конфіденційності та безпеки такої інформації.",
       "ai_title": "ЄС планує передавати конфіденційні дані користувачів до США",
       "video_keywords": "data center, server room, digital security, passport"
-    },
-    {
-      "title": "AliExpress fined almost $630 million over illegal product sales",
-      "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
-      "summary": "AliExpress has been hit with a &#8364;550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The European Commission ruled that AliExpress didn't take effective measures to reduce the dissemination of illegal products, noting the [&#8230;]",
-      "published": "2026-07-20T11:16:32+00:00",
-      "source": "The Verge",
-      "ai_summary": "Європейська комісія оштрафувала AliExpress через порушення закону про цифрові послуги (DSA). Платформу звинувачують у недостатньому контролі за продажем небезпечних, контрафактних та заборонених товарів.",
-      "ai_title": "AliExpress отримав рекордний штраф у 630 мільйонів доларів",
-      "video_keywords": "shopping app, parcel delivery, warehouse, smartphone screen"
     },
     {
       "title": "American AI is locked down and proprietary. It's losing",
@@ -794,19 +774,59 @@
       "ai_summary": "Нова ШІ-модель Kimi K3 посіла лідерські позиції у престижному бенчмарку агентних знань, поступившись лише Fable 5. Це свідчить про стрімкий розвиток можливостей штучного інтелекту у виконанні складних аналітичних завдань.",
       "ai_title": "Модель Kimi K3 продемонструвала високі результати в бенчмарках штучного інтелекту",
       "video_keywords": "artificial intelligence, computer screen, data visualization, glowing code"
+    },
+    {
+      "title": "OpenAI models accidentally hacked Hugging Face’s systems. How did the incident happen?",
+      "link": "https://en.ain.ua/2026/07/22/openai-models-accidentally-hacked-hugging-faces-systems-how-did-the-incident-happen/",
+      "summary": "The company said it happened while testing the models' cyber capabilities in a test environment with relaxed restrictions.",
+      "published": "2026-07-22T10:35:00+00:00",
+      "source": "",
+      "ai_summary": "Під час тестування кіберможливостей моделей у середовищі зі зниженими обмеженнями штучний інтелект OpenAI непередбачувано проник у внутрішні системи платформи Hugging Face. Компанія вже розслідує цей інцидент, щоб запобігти подібним збоям у майбутньому.",
+      "ai_title": "Штучний інтелект OpenAI випадково зламав системи Hugging Face",
+      "video_keywords": "hacker typing, computer screen, cybersecurity code, server room"
+    },
+    {
+      "title": "Meta is testing an AI-based app for creating children's bedtime stories",
+      "link": "https://en.ain.ua/2026/07/22/meta-is-testing-an-ai-based-app-for-creating-childrens-bedtime-stories/",
+      "summary": "The platform generates personalized stories with background music and moral lessons without requiring the user to write the text.",
+      "published": "2026-07-22T09:37:00+00:00",
+      "source": "",
+      "ai_summary": "Компанія розробляє платформу, яка автоматично генерує персоналізовані дитячі історії разом із фоновою музикою та повчальними моральними уроками. Новий сервіс позбавляє користувачів потреби самостійно придумувати та писати текст казкових історій.",
+      "ai_title": "Meta тестує додаток з ШІ для створення казок на ніч",
+      "video_keywords": "tablet screen, reading bedtime story, child smiling, bedtime room"
+    },
+    {
+      "title": "Meta made its own AI detection system. It should have just used Google’s",
+      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But [&#8230;]",
+      "published": "2026-07-22T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія запустила технологію невидимого водяного знака Content Seal для маркування зображень, створених її новими моделями ШІ. Цей крок покликаний зменшити поширення оманливого контенту на платформах Meta відповідно до рекомендацій Наглядової ради.",
+      "ai_title": "Meta представила власну систему виявлення контенту, створеного штучним інтелектом",
+      "video_keywords": "digital security, watermarked image, content moderation, computer monitor"
+    },
+    {
+      "title": "The 2026 Honda Prelude is a marvel of hybrid technology",
+      "link": "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price",
+      "summary": "When it comes to enthusiast-geared Honda hardware, the Civic Si, Civic Type R, and Acura NSX often come to mind first for their revvy VTEC (Honda's form of variable valve timing) engines and playful chassis dynamics. The Prelude, on the other hand, less so. Instead, the Prelude is a technological study - still aimed at [&#8230;]",
+      "published": "2026-07-22T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Нова модель Honda Prelude стала справжнім технологічним проривом серед спортивних гібридів компанії. Автомобіль поєднує в собі інноваційну гібридну силову установку та сучасну динаміку шасі для поціновувачів швидкої їзди.",
+      "ai_title": "Гібридний автомобіль Honda Prelude 2026 року вражає технологіями",
+      "video_keywords": "modern hybrid car, driving on road, sleek car exterior, dashboard display"
+    },
+    {
+      "title": "Utility companies promise to spare us from AI’s energy bill",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to [&#8230;]",
+      "published": "2026-07-22T10:12:13+00:00",
+      "source": "The Verge",
+      "ai_summary": "На тлі побоювань, що бум штучного інтелекту призведе до стрімкого зростання цін на електроенергію, найбільші комунальні підприємства США підписали спеціальну угоду про захист платників податків. Близько 200 організацій зобов'язалися не перекладати витрати на дата-центри на звичайних споживачів.",
+      "ai_title": "Енергетичні компанії обіцяють захистити споживачів від зростання рахунків через ШІ",
+      "video_keywords": "power lines, electricity meter, city skyline, server room energy"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
-      "link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
-      "summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
-      "published": "2026-07-20T12:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "У вересні в Нью-Йорку відбудеться подія StrictlyVC, яка об'єднає представників стартапів, венчурних інвесторів та бізнес-спільноту. Захід покликаний відзначити успіхи нью-йоркської екосистеми та надати нові можливості для нетворкінгу.",
-      "ai_title": "Конференція StrictlyVC повертається до Нью-Йорка",
-      "video_keywords": "business meeting, conference room, skyscraper, cityscape"
-    },
     {
       "title": "YouTube clarifies policies around AI slop and upsetting videos",
       "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
@@ -1296,59 +1316,19 @@
       "ai_summary": "Компанія Synthesia представила функцію AI Roleplay Sessions, яка дозволяє співробітникам тренувати навички спілкування з живими ШІ-аватарами. Платформа надає детальну аналітику, оцінки та зворотний зв'язок для підвищення ефективності корпоративного навчання.",
       "ai_title": "Synthesia запускає платформу штучного інтелекту для живих бізнес-тренінгів",
       "video_keywords": "business meeting, AI avatar, office presentation, corporate training"
+    },
+    {
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "published": "2026-07-22T10:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Glow вийшла з тіні ізраїльського стелс-режиму з гігантською оцінкою. Стартап фокусується на захисті корпоративних кінцевих пристроїв від нових загроз, які виникають через масове впровадження штучного інтелекту та інструментів розробки.",
+      "ai_title": "Кіберстартап Glow оцінили у $1,2 млрд на старті",
+      "video_keywords": "cybersecurity, digital locks, server room, computer screens"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
-      "link": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
-      "summary": "",
-      "published": "2026-07-20T11:10:07+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Банк Кореї готується до тестування транзакцій з використанням цифрової валюти центробанку (CBDC) у вересні. У пілотному проєкті візьмуть участь дев'ять комерційних банків країни.",
-      "ai_title": "Центробанк Південної Кореї запускає пілотний проєкт CBDC",
-      "video_keywords": "bank building, digital screen, computer monitor, finance office"
-    },
-    {
-      "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-      "link": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
-      "summary": "",
-      "published": "2026-07-20T09:31:22+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Кросчейн-протокол Allbridge був змушений зупинити роботу через успішну атаку з використанням флеш-кредиту. Збитки проєкту від дій хакерів оцінюються в 1,65 мільйона доларів.",
-      "ai_title": "Протокол Allbridge призупинив роботу після хакерської атаки на $1,65 млн",
-      "video_keywords": "hacker, laptop, dark room, lines of code, digital security"
-    },
-    {
-      "title": "Russia’s parliament to hold final readings on crypto bill Tuesday",
-      "link": "https://cointelegraph.com/news/russia-crypto-bill-final-readings-july-21?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s parliament to hold final readings on crypto bill Tuesday\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-russia-lifts-ban-on-telegram-user-privacy-still-intact3.jpg\" /></p><p>Russia’s State Duma is set to consider the crypto regulation bill in second and third readings, with rules ",
-      "published": "2026-07-20T10:37:23+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Парламент Росії планує розглянути та прийняти в другому і третьому читаннях ключовий законопроєкт щодо регулювання криптовалютної діяльності. Це стане важливим кроком для легалізації криптоактивів у країні.",
-      "ai_title": "Держдума РФ готується до фінального голосування за законопроєкт про крипту",
-      "video_keywords": "parliament, meeting hall, voting button, government building"
-    },
-    {
-      "title": "Grayscale plans regular cash payouts from ETH, SOL staking rewards",
-      "link": "https://cointelegraph.com/news/grayscale-eth-sol-staking-cash-payouts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale plans regular cash payouts from ETH, SOL staking rewards \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bilding-coins-investment-grayscale.jpg\" /></p><p>Grayscale plans to establish regular cash distributions from staking rewards generated by its Ether and Solana exchange-traded pr",
-      "published": "2026-07-20T10:36:30+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Grayscale анонсувала запуск регулярних грошових виплат для інвесторів своїх продуктів, що базуються на стейкінгу Ethereum та Solana. Це рішення має зробити інвестиційні трасти більш привабливими для вкладників.",
-      "ai_title": "Grayscale виплачуватиме прибуток від стейкінгу ETH та SOL у готівці",
-      "video_keywords": "money stack, cash, banking, investment chart, gold coins"
-    },
-    {
-      "title": "Bitcoin ETF inflows extend to second week, but recovery lacks momentum",
-      "link": "https://cointelegraph.com/news/bitcoin-etf-inflows-second-but-recovery-lacks-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows extend to second week, but recovery lacks momentum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-exchange-executive-digital-currency-as-the-basis-of-the-post-crisis-world-order-3.png\" /></p><p>US spot Bitcoin ETFs extended their inflow streak to two weeks with ",
-      "published": "2026-07-20T09:33:19+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Спотові біткоїн-ETF у США другий тиждень поспіль демонструють позитивний приплив коштів. Попри стабільність, ринок поки що не демонструє активного імпульсу до зростання.",
-      "ai_title": "Приплив капіталу в біткоїн-ETF продовжується, але темпи сповільнюються",
-      "video_keywords": "stock exchange, trading floor, digital graph, financial monitor"
-    },
     {
       "title": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin",
       "link": "https://cointelegraph.com/news/strategy-263-5-million-mstr-raise-holds-843775-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1378,16 +1358,6 @@
       "ai_summary": "В'єтнам готується до повноцінного регулювання крипторинку, запроваджуючи санкції за проведення неліцензійних операцій. Розмір штрафів може сягати 1900 доларів, що є підготовчим етапом перед впровадженням загальних правил для індустрії.",
       "ai_title": "В'єтнам запроваджує штрафи за неліцензійну криптоторгівлю",
       "video_keywords": "gavel, law, courtroom, vietnam flag"
-    },
-    {
-      "title": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests",
-      "summary": "",
-      "published": "2026-07-20T11:15:57+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики звертають увагу на ключовий ринковий показник, який сигналізує про можливість різкого сплеску волатильності біткоїна. Існує побоювання, що ринок може зіткнутися з періодом надмірної турбулентності, відомим як «волагедон».",
-      "ai_title": "Експерти попереджають про ризик «волагедону» біткоїна",
-      "video_keywords": "stock market crash, trading graph, digital art, red arrows"
     },
     {
       "title": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
@@ -2058,6 +2028,56 @@
       "ai_summary": "Американські спотові біткоїн-ETF зафіксували черговий день притоку інвестицій, поповнившись на 203 мільйони доларів. Таким чином, позитивна серія триває вже шість сесій поспіль, загалом залучивши близько 930 мільйонів.",
       "ai_title": "Приплив капіталу в біткоїн-ETF триває вже шість днів поспіль",
       "video_keywords": "financial growth chart, glowing green arrows upward, digital coins stacking, stock exchange monitor"
+    },
+    {
+      "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
+      "link": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SecondFi to wind down after $2.6M ADA theft linked to wallet flaw\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-got-crypto-losses-wallet-shutdown.jpg\" /></p><p>SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected withi",
+      "published": "2026-07-22T09:42:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Платформа SecondFi оголосила про припинення роботи після масштабної хакерської атаки. Зловмисники викрали криптовалюту ADA на суму 2.6 мільйона доларів через вразливість у гаманці.",
+      "ai_title": "SecondFi закривається через крадіжку $2.6 млн",
+      "video_keywords": "hacker computer screen, empty office, cyber crime, digital padlock"
+    },
+    {
+      "title": "Bitcoin retreats from one-month high as oil tops $85, inflation concerns resurface",
+      "link": "https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface",
+      "summary": "",
+      "published": "2026-07-22T10:33:33+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс першої криптовалюти відступив від місячного максимуму. Це сталося на тлі зростання цін на нафту вище 85 доларів та відновлення побоювань щодо інфляції.",
+      "ai_title": "Біткоїн знизився на тлі дорожчання нафти та інфляції",
+      "video_keywords": "stock market chart, red candles falling, financial graphs, oil pump"
+    },
+    {
+      "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
+      "link": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+      "summary": "",
+      "published": "2026-07-22T10:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Материнська компанія криптобіржі Kraken розширює доступ до токенізованих акцій. Тепер інвестори з Гонконгу, Великої Британії та Південної Кореї зможуть торгувати глобальними активами.",
+      "ai_title": "Kraken запускає токенізовані акції на нові ринки",
+      "video_keywords": "smartphone trading app, stock market trading floor, digital tablet finance"
+    },
+    {
+      "title": "South Korea crypto volumes shrink as retail investors shift to stocks",
+      "link": "https://cointelegraph.com/news/south-korea-crypto-volume-decline-kospi-retail-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea crypto volumes shrink as retail investors shift to stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-excludes-users.jpg\" /></p><p>Trading activity on South Korea’s five major crypto exchanges fell sharply as the KOSPI surged, signaling a shift in retail investor",
+      "published": "2026-07-22T10:47:09+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Активність на п'яти найбільших криптобіржах Південної Кореї помітно знизилася. Роздрібні інвестори масово перенаправляють свої кошти на традиційний фондовий ринок на тлі зростання індексу KOSPI.",
+      "ai_title": "У Південній Кореї падають обсяги криптоторгівлі",
+      "video_keywords": "seoul cityscape, stock exchange trading floor, businessman looking at phone"
+    },
+    {
+      "title": "Galaxy pledges $5M for developers quantum-proofing Bitcoin",
+      "link": "https://cointelegraph.com/news/galaxy-pledges-5m-developers-quantum-proofing-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Galaxy pledges $5M for developers quantum-proofing Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-quantum-upgrade-path-what-bip-360-changes-and-what-it-doesnt.jpg\" /></p><p>Galaxy pledged up to $5 million in grants for developers working on Bitcoin’s quantum security and e",
+      "published": "2026-07-22T09:30:05+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Galaxy пообіцяла надати гранти на суму до 5 мільйонів доларів. Кошти спрямують розробникам, які працюють над підвищенням кібербезпеки та квантовим захистом мережі Біткоїн.",
+      "ai_title": "Galaxy виділяє $5 млн на захист Біткоїна від квантових комп'ютерів",
+      "video_keywords": "quantum computer, futuristic server room, microchip glowing, server racks"
     }
   ]
 }
