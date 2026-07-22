@@ -1,76 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
-      "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
-      "summary": "<p>Article URL: <a href=\"https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/\">https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982583\">https://news.ycombinator.com/item?id=48982583</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-20T18:10:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Емпіричне дослідження наголошує на важливості впровадження гнучких правил для ШІ-агентів. Експерти пропонують використовувати багаторівневий підхід для безпечного керування їхньою поведінкою в реальних системах.",
-      "ai_title": "ШІ-агентам потрібен багаторівневий контроль та контекст",
-      "video_keywords": "server room, software code, security systems, network technology"
-    },
-    {
-      "title": "Human mathematicians are being outcounterexampled",
-      "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "summary": "<p>Article URL: <a href=\"https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/\">https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983382\">https://news.ycombinator.com/item?id=48983382</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
-      "published": "2026-07-20T19:03:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нове дослідження показує, що ШІ почав ефективніше за людей знаходити математичні контрприклади, що ставить під сумнів традиційні методи доведення. Це знаменує новий етап у використанні автоматизованих систем для наукових відкриттів.",
-      "ai_title": "Штучний інтелект перевершує математиків у пошуку контрприкладів",
-      "video_keywords": "mathematician, blackboard, chalk, equations"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/safety-alignment-long-horizon-models/\">https://openai.com/index/safety-alignment-long-horizon-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983108\">https://news.ycombinator.com/item?id=48983108</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-20T18:43:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "OpenAI випустила звіт про виклики, пов'язані з безпекою моделей, що здатні виконувати завдання протягом тривалого часу. Розробники шукають нові методи контролю, щоб запобігти небажаним наслідкам при автономній роботі таких систем.",
-      "ai_title": "Безпека та узгодженість ШІ довгострокового планування",
-      "video_keywords": "server room, abstract data flow, futuristic laboratory"
-    },
-    {
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "link": "https://blaizzy.github.io/nativ/",
-      "summary": "<p>Article URL: <a href=\"https://blaizzy.github.io/nativ/\">https://blaizzy.github.io/nativ/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982681\">https://news.ycombinator.com/item?id=48982681</a></p>\n<p>Points: 50</p>\n<p># Comments: 22</p>",
-      "published": "2026-07-20T18:16:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий інструмент Nativ дозволяє користувачам запускати передові відкриті мовні моделі безпосередньо на комп'ютерах Apple Mac. Це значно спрощує доступ до складних технологій ШІ без необхідності використання хмарних сервісів.",
-      "ai_title": "Nativ: запуск потужних ШІ-моделей локально на Mac",
-      "video_keywords": "laptop, computer screen, software developer"
-    },
-    {
-      "title": "Agent swarms and the new model economics",
-      "link": "https://cursor.com/blog/agent-swarm-model-economics",
-      "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-swarm-model-economics\">https://cursor.com/blog/agent-swarm-model-economics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982535\">https://news.ycombinator.com/item?id=48982535</a></p>\n<p>Points: 31</p>\n<p># Comments: 12</p>",
-      "published": "2026-07-20T18:06:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробка систем на основі груп ШІ-агентів змінює підхід до створення програмного забезпечення та ціноутворення. Компанії переходять від великих монолітних моделей до використання екосистем із багатьох спеціалізованих агентів.",
-      "ai_title": "Рої агентів та нова економіка ШІ-моделей",
-      "video_keywords": "digital network, glowing nodes, technology interface"
-    },
-    {
-      "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
-      "link": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
-      "summary": "The end of the Ford F-150 Lightning was also the start of a new era for the automaker. After failing to capture the market with the electric version of its popular F-Series truck, Ford is going back to the drawing board with its Universal Electric Vehicle Platform. The first offering will be a $30,000 electric [&#8230;]",
-      "published": "2026-07-20T19:18:45+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після невдач із попередніми електричними моделями Ford перезапускає виробництво на базі нової платформи. Компанія планує випустити бюджетний електропікап, щоб зміцнити свої позиції на ринку електромобілів.",
-      "ai_title": "Ford змінює стратегію: доступна електрична вантажівка за $30 000",
-      "video_keywords": "electric truck, car factory, charging station"
-    },
-    {
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-      "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "summary": "<p>Article URL: <a href=\"https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/\">https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48984231\">https://news.ycombinator.com/item?id=48984231</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-20T20:08:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття аналізує методи впливу технологічних компаній на користувачів через збір даних. Автор пропонує шляхи підвищення цифрової обізнаності для захисту приватності в епоху тотального відстеження.",
-      "ai_title": "Як протистояти капіталізму стеження",
-      "video_keywords": "surveillance camera, digital privacy, hacker, data security"
-    },
-    {
       "title": "SpaceX in your index fund, explained",
       "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
       "summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
@@ -844,19 +774,49 @@
       "ai_summary": "Розроблено новий інструмент для створення презентацій, який вміщує весь функціонал PowerPoint — включно з анімаціями, переглядом та редагуванням — в єдиний компактний HTML-файл. Проєкт створено за допомогою сучасних вебтехнологій та AI-асистентів.",
       "ai_title": "Bento: Презентації PowerPoint в одному файлі HTML",
       "video_keywords": "web design, laptop screen, digital presentation, ui interface"
+    },
+    {
+      "title": "Show HN: Web swing through midtown NYC",
+      "link": "https://www.swingnyc.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.swingnyc.com/\">https://www.swingnyc.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49009324\">https://news.ycombinator.com/item?id=49009324</a></p>\n<p>Points: 38</p>\n<p># Comments: 15</p>",
+      "published": "2026-07-22T16:25:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили захопливий вебпроєкт, який дозволяє користувачам віртуально літати на павутині вулицями середмістя Нью-Йорка прямо у браузері. Цей інтерактивний симулятор демонструє високі можливості сучасних вебтехнологій та 3D-графіки.",
+      "ai_title": "Інтерактивний веб-симулятор польоту на павутині над Нью-Йорком",
+      "video_keywords": "new york city, skyline, web browser, skyscraper"
+    },
+    {
+      "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+      "link": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+      "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing program for leasing new devices. iPhones in \"Restricted [&#8230;]",
+      "published": "2026-07-22T19:13:21+00:00",
+      "source": "The Verge",
+      "ai_summary": "У бета-версії iOS виявили код, який дозволяє Apple переводити пристрої у спеціальний обмежений режим у разі пропуску платежів за кредитом. Така функція може стати частиною нової програми лізингу та фінансування гаджетів від компанії.",
+      "ai_title": "Apple готує функцію блокування iPhone у разі несплати розстрочки",
+      "video_keywords": "smartphone screen, credit card, shopping mall, digital padlock"
+    },
+    {
+      "title": "Apple is reportedly testing a MacBook Neo with more RAM",
+      "link": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
+      "summary": "Following the MacBook Neo's huge popularity so far, Apple is reportedly developing an updated version of its budget laptop with a new processor and more memory, and even has plans to refresh the model with new colors. Following a similar report from analyst Tim Culpan earlier this year, Bloomberg's Mark Gurman says the new Neo [&#8230;]",
+      "published": "2026-07-22T16:35:58+00:00",
+      "source": "The Verge",
+      "ai_summary": "Після успіху першої моделі бюджетного ноутбука Apple готує оновлену версію пристрою. Окрім збільшеної кількості оперативної пам'яті, гаджет отримає новий процесор та розширену палітру кольорів корпусу.",
+      "ai_title": "Apple тестує новий бюджетний MacBook Neo з більшим обсягом оперативної пам'яті",
+      "video_keywords": "laptop typing, modern desk, office workspace, technology product"
+    },
+    {
+      "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall. [&#8230;]",
+      "published": "2026-07-22T16:35:34+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Samsung вперше продемонструвала зовнішній вигляд та ключові характеристики нових смарт-окулярів, створених у партнерстві з Google. Гаджет отримав вражаючий час автономної роботи до 9 годин та з'явиться у продажу вже цієї осені.",
+      "ai_title": "Samsung показала дизайн та характеристики своїх майбутніх розумних окулярів",
+      "video_keywords": "smart glasses, wearable tech, augmented reality, futuristic device"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
-      "link": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
-      "summary": "<p>A single AI agent conversation can look flawless scored on its own and still point to a broken product. That gap is driving a shift in how enterprises evaluate agents, away from scoring individual traces and toward comparing cohorts of users against a baseline.</p><p>At<a href=\"https://venturebeat.com/vbtransform2026\"> VB Transform 2026</a>, <!-- -->Harrison Chase, CEO of LangChain; Hui Zhang, ",
-      "published": "2026-07-20T18:24:33+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Експерти на конференції VB Transform 2026 зазначають, що окремі вдалі діалоги з ШІ не гарантують якість сервісу. Бізнесу радять аналізувати загальні поведінкові патерни користувачів замість тестування поодиноких запитів.",
-      "ai_title": "Чому ідеальна розмова з ШІ може свідчити про збій у продукті",
-      "video_keywords": "ai chat interface, computer screen, software developer, data dashboard"
-    },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
       "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
@@ -876,16 +836,6 @@
       "ai_summary": "Побоювання OpenAI щодо моделей з відкритою архітектурою призвели до обговорення їхньої заборони в США. Це питання підкреслює складність перетворення штучного інтелекту на безпечний та прибутковий бізнес.",
       "ai_title": "Дискусії навколо заборони китайських ШІ-моделей",
       "video_keywords": "server room, artificial intelligence code, digital globe, data center"
-    },
-    {
-      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-      "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
-      "published": "2026-07-20T19:11:25+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Річний стартап Natural планує створити нову фінансову архітектуру для автономних транзакцій штучного інтелекту. Компанія має намір стати конкурентом платіжного гіганта Stripe.",
-      "ai_title": "Стартап Natural залучив $30 млн на автоматизацію платежів для ШІ",
-      "video_keywords": "credit card, digital payment, futuristic office, financial dashboard"
     },
     {
       "title": "Google is working on a new AI chip designed to make Gemini more efficient",
@@ -1356,6 +1306,56 @@
       "ai_summary": "На тлі зростаючої популярності китайських розробок серед американських компаній експерти заявляють, що вони не несуть прихованої загрози. Це створює нові дискусії в США щодо майбутнього регулювання та конкуренції у сфері штучного інтелекту.",
       "ai_title": "Американська AI-лабораторія Arcee закликає не боятися китайських моделей",
       "video_keywords": "server racks, data center, futuristic technology, digital code"
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "published": "2026-07-22T19:11:46+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Помилка у налаштуванні тестового середовища OpenAI дозволила хакерам здійснити штучно інтелектуальну атаку на платформу Hugging Face. Це підкреслює ризики безпеки при створенні ізольованих пісочниць для штучного інтелекту.",
+      "ai_title": "Помилка OpenAI призвела до хакерської атаки на Hugging Face",
+      "video_keywords": "hacker typing, computer screen, cybersecurity code, server room"
+    },
+    {
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "published": "2026-07-22T18:50:44+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Atoms, заснований колишнім керівником Uber Тревісом Каланіком, отримав масштабне фінансування від інвесторів на чолі з a16z. Компанія планує використовувати промисловий штучний інтелект для модернізації виробничих процесів.",
+      "ai_title": "Робототехнічна компанія Тревіса Каланіка залучила 1,7 мільярда доларів",
+      "video_keywords": "industrial robot arm, factory assembly line, modern warehouse, high tech manufacturing"
+    },
+    {
+      "title": "Science Corporation’s vision-restoring chip wins EU approval",
+      "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+      "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+      "published": "2026-07-22T18:18:02+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Science Corp. зробила важливий крок до комерціалізації своїх медичних розробок після схвалення в Європейському Союзі. Генеральний директор Макс Ходак наголошує на важливості досягнення фінансової стабільності для таких медичних стартапів.",
+      "ai_title": "Чіп для відновлення зору від Science Corporation отримав схвалення в ЄС",
+      "video_keywords": "microchip, biomedical engineering, scientific laboratory, electronic implant"
+    },
+    {
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+      "published": "2026-07-22T18:13:58+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нова соціальна мережа Yope форенсується на приватних групах для друзів та родичів без рекламних стрічок та алгоритмічної видачі. Проєкт залучив інвестиції для розвитку платформи, що базується на обміні повідомленнями та реальних зв'язках.",
+      "ai_title": "Стартап Yope залучив 12,3 мільйона доларів на створення соцмережі без алгоритмів",
+      "video_keywords": "smartphone screen, young people smiling, messaging app, friends talking"
+    },
+    {
+      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic&#8217;s $500M Series D, and ",
+      "published": "2026-07-22T18:02:57+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Антропік демонструє небачені раніше темпи зростання виручки, випереджаючи показники попередніх технологічних хвиль. Інвестори зазначають, що секрет успіху компанії криється не лише в самій моделі штучного інтелекту, а в загальній стратегії розвитку.",
+      "ai_title": "Чому Anthropic стрімко обходить конкурентів: пояснення венчурного інвестора",
+      "video_keywords": "modern office, business meeting, financial charts, skyscraper downtown"
     }
   ],
   "Крипта": [
@@ -2138,6 +2138,26 @@
       "ai_summary": "Успіх ініціативи Великої Британії з випуску цифрових облігацій наразі гальмується відсутністю стабільних та законодавчо врегульованих розрахунків усередині блокчейну. Для повноцінного запуск ринку країні необхідно вирішити питання ончейн-ліквідності.",
       "ai_title": "Британські плани щодо цифрових облігацій залежать від блокчейн-готівки",
       "video_keywords": "digital currency, computer screen, financial data, futuristic banking"
+    },
+    {
+      "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
+      "link": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bookclarity.png\" /></p><p>According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics language would apply to US presidents’ c",
+      "published": "2026-07-22T18:41:30+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Згідно з новими етичними правилами законопроєкту CLARITY, представникам влади США планують заборонити випуск та спонсорування цифрових токенів. Обмеження, яке просуває сенаторка Синтія Ламміс, поширюватиметься навіть на президентів країни та діятиме до 2029 року.",
+      "ai_title": "Американським чиновникам хочуть заборонити випускати криптотокены до 2029 року",
+      "video_keywords": "politician speaking, government building, us capitol, official document"
+    },
+    {
+      "title": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches",
+      "link": "https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-trade-crypto-in-uk-fca-ai.png\" /></p><p>Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharge",
+      "published": "2026-07-22T17:57:11+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Розробник штучного інтелекту Anthropic став учасником нової ініціативи британського Управління з фінансового регулювання та контролю (FCA). Компанія надаватиме свої моделі Claude для підтримки учасників спеціальної програми фінансових технологій.",
+      "ai_title": "Компанія Anthropic приєдналася до регуляторної пісочниці британського фінрегулятора",
+      "video_keywords": "artificial intelligence, computer screen, office meeting, software code"
     }
   ]
 }
