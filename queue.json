@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Kimi Work",
-      "link": "https://www.kimi.com/products/kimi-work",
-      "summary": "<p>Article URL: <a href=\"https://www.kimi.com/products/kimi-work\">https://www.kimi.com/products/kimi-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981703\">https://news.ycombinator.com/item?id=48981703</a></p>\n<p>Points: 65</p>\n<p># Comments: 26</p>",
-      "published": "2026-07-20T17:13:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили Kimi Work, платформу, спрямовану на оптимізацію робочих процесів за допомогою інтелектуальних алгоритмів. Сервіс обіцяє змінити підхід до організації завдань та підвищити продуктивність команд.",
-      "ai_title": "Представлено Kimi Work — новий ШІ-інструмент для роботи",
-      "video_keywords": "office workplace, digital interface, professional using computer, artificial intelligence"
-    },
-    {
       "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
       "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
       "summary": "<p>Article URL: <a href=\"https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/\">https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982583\">https://news.ycombinator.com/item?id=48982583</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
@@ -19,26 +9,6 @@
       "ai_summary": "Емпіричне дослідження наголошує на важливості впровадження гнучких правил для ШІ-агентів. Експерти пропонують використовувати багаторівневий підхід для безпечного керування їхньою поведінкою в реальних системах.",
       "ai_title": "ШІ-агентам потрібен багаторівневий контроль та контекст",
       "video_keywords": "server room, software code, security systems, network technology"
-    },
-    {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "link": "https://jelly-ui.com/",
-      "summary": "<p>Article URL: <a href=\"https://jelly-ui.com/\">https://jelly-ui.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981620\">https://news.ycombinator.com/item?id=48981620</a></p>\n<p>Points: 70</p>\n<p># Comments: 25</p>",
-      "published": "2026-07-20T17:07:39+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова бібліотека Jelly UI впроваджує ефекти «м'яких тіл» для стандартних HTML-елементів форм. Це дозволяє розробникам створювати більш живі та інтерактивні інтерфейси з реалістичною фізикою об'єктів.",
-      "ai_title": "Jelly UI: м’яка фізика для веб-інтерфейсів",
-      "video_keywords": "web design, user interface, motion graphics, computer screen"
-    },
-    {
-      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
-      "link": "https://hypr.land/news/update55/",
-      "summary": "<p>Article URL: <a href=\"https://hypr.land/news/update55/\">https://hypr.land/news/update55/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982011\">https://news.ycombinator.com/item?id=48982011</a></p>\n<p>Points: 48</p>\n<p># Comments: 27</p>",
-      "published": "2026-07-20T17:31:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярний віконний менеджер Hyprland оголосив про перехід на мову Lua для керування файлами конфігурації. Це оновлення має зробити налаштування середовища більш гнучким та зручним для користувачів.",
-      "ai_title": "Hyprland переходить на Lua для налаштування конфігурацій",
-      "video_keywords": "programming, computer code, developer workplace, linux desktop"
     },
     {
       "title": "Human mathematicians are being outcounterexampled",
@@ -834,6 +804,46 @@
       "ai_summary": "Компанія Philips випустила смартщітку Sonicare DiamondClean 9900 Prestige із новим алгоритмом штучного інтелекту. Пристрій надає користувачам зворотний зв'язок у реальному часі про пропущені зони під час чищення зубів.",
       "ai_title": "Нова зубна щітка Philips використовує ШІ для аналізу якості чищення",
       "video_keywords": "smart toothbrush, bathroom sink, daily routine, person brushing teeth"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "link": "https://github.com/marcelroed/gigatoken/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/marcelroed/gigatoken/\">https://github.com/marcelroed/gigatoken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010167\">https://news.ycombinator.com/item?id=49010167</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-22T17:20:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий метод токенізації під назвою GigaToken, який працює приблизно в 1000 разів швидше за поточні аналоги. Це суттєво оптимізує процеси підготовки даних для сучасних великих мовних моделей.",
+      "ai_title": "GigaToken: значне прискорення токенізації в мовних моделях",
+      "video_keywords": "computer code, fast typing, matrix screen, data stream"
+    },
+    {
+      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "link": "https://cruciblebench.ai/",
+      "summary": "<p>I'm the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We've spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits.<p>Our experiment did have an interesting leaderboard but even more surprising wa",
+      "published": "2026-07-22T15:39:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники створили бюджетний експеримент вартістю 99 доларів, використовуючи текстові рольові ігри у стилі MUD із 1970-х років. Такий підхід дозволяє ефективно тестувати та оцінювати рівень розвитку сучасних LLM.",
+      "ai_title": "Оцінка можливостей штучного інтелекту за допомогою текстових ігор",
+      "video_keywords": "retro computer, vintage keyboard, neon text, arcade screen"
+    },
+    {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "summary": "<p>Article URL: <a href=\"https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56\">https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010345\">https://news.ycombinator.com/item?id=49010345</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-22T17:30:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відомий математик Теренс Тао поділився своєю розмовою з ChatGPT щодо пошуку контрприкладу до відомої гіпотези Якобіана. Це демонструє поточні можливості використання штучного інтелекту у вирішенні складних математичних завдань.",
+      "ai_title": "Обговорення гіпотези Якобіана з ChatGPT від Теренса Тао",
+      "video_keywords": "mathematical formulas, whiteboard, scientist writing, glowing equations"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "link": "https://bento.page/slides/",
+      "summary": "<p>Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and s",
+      "published": "2026-07-22T15:19:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий інструмент для створення презентацій, який вміщує весь функціонал PowerPoint — включно з анімаціями, переглядом та редагуванням — в єдиний компактний HTML-файл. Проєкт створено за допомогою сучасних вебтехнологій та AI-асистентів.",
+      "ai_title": "Bento: Презентації PowerPoint в одному файлі HTML",
+      "video_keywords": "web design, laptop screen, digital presentation, ui interface"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1316,49 +1326,39 @@
       "ai_summary": "Дослідники кібербезпеки нагадують, що переговори з кіберзлочинцями не мають сенсу, оскільки вони майже завжди повертаються за новими виплатами. Злочинці не зацікавлені в дотриманні домовленостей після отримання грошей.",
       "ai_title": "Викуп даних хакерам: чому платити вимагачам марно",
       "video_keywords": "hacker typing keyboard, dark room, glowing code screen, cyber attack"
+    },
+    {
+      "title": "Monday.com lays off hundreds to focuses on AI",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "published": "2026-07-22T17:54:14+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія скорочує штат приблизно на 20% або близько 630 співробітників, щоб оптимізувати роботу та повністю зосередитися на розвитку власної платформи зі штучним інтелектом. Це рішення відображає загальну тенденцію в технологічній індустрії перерозподіляти ресурси на користь AI-проєктів.",
+      "ai_title": "Monday.com звільняє сотні працівників заради штучного інтелекту",
+      "video_keywords": "office workers, stressed employee, computer screen, modern office"
+    },
+    {
+      "title": "Google is making it easier to switch from iPhone to Android",
+      "link": "https://techcrunch.com/2026/07/22/google-is-making-it-easier-to-switch-from-iphone-to-android/",
+      "summary": "The new feature lets users wirelessly transfer more data types from an iPhone without needing to download a separate app.",
+      "published": "2026-07-22T17:08:03+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія випустила нову функцію, яка дозволяє користувачам бездротовим шляхом передавати значно більші обсяги даних зі старого iPhone на новий Android-смартфон. Процес тепер не потребує завантаження додаткових сторонніх додатків.",
+      "ai_title": "Google спростив перехід з iPhone на Android",
+      "video_keywords": "smartphone screen, mobile phone, touching screen, setting up phone"
+    },
+    {
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      "published": "2026-07-22T16:24:08+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі зростаючої популярності китайських розробок серед американських компаній експерти заявляють, що вони не несуть прихованої загрози. Це створює нові дискусії в США щодо майбутнього регулювання та конкуренції у сфері штучного інтелекту.",
+      "ai_title": "Американська AI-лабораторія Arcee закликає не боятися китайських моделей",
+      "video_keywords": "server racks, data center, futuristic technology, digital code"
     }
   ],
   "Крипта": [
-    {
-      "title": "Hut 8, IREN deals lift AI-focused Bitcoin mining stocks",
-      "link": "https://cointelegraph.com/news/hut-8-iren-deals-lift-ai-focused-bitcoin-mining-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hut 8, IREN deals lift AI-focused Bitcoin mining stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-miners-unaffected-by-heat-waves-still-plan-to-establish-operations-in-texas-ai-1.jpg\" /></p><p>Bitcoin miners rallied as investors cheered multi-billion-dollar AI infrastructure c",
-      "published": "2026-07-20T17:27:31+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Майнери біткоїна демонструють стрімке зростання на фондовому ринку після укладання багатомільярдних угод у сфері інфраструктури для штучного інтелекту. Інвестори оптимістично оцінюють диверсифікацію бізнесу компаній у бік ШІ-технологій.",
-      "ai_title": "Акції майнінгових компаній злетіли на тлі інвестицій в ШІ",
-      "video_keywords": "server farm, bitcoin mining rig, data center, computer hardware"
-    },
-    {
-      "title": "Nigerian president signs order on approach to crypto regulation, taxes",
-      "link": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nigerian president signs order on approach to crypto regulation, taxes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-crypto-act-explained-nigeria.jpg\" /></p><p>The West African country’s executive order established a virtual asset council and addressed the fragmentation of crypto regu",
-      "published": "2026-07-20T16:59:50+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Президент Нігерії підписав указ, що створює спеціальну раду з віртуальних активів для впорядкування регулювання та оподаткування криптоіндустрії. Це рішення спрямоване на усунення фрагментації законодавства та стабілізацію фінансового сектору країни.",
-      "ai_title": "Нігерія запроваджує нові правила для крипторинку",
-      "video_keywords": "government building, official document, business meeting, bank office"
-    },
-    {
-      "title": "Bernstein raises Robinhood price target, cites tokenization and prediction markets",
-      "link": "https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein raises Robinhood price target, cites tokenization and prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-robinhood-and-how-does-it-work-1.jpg\" /></p><p>The brokerage’s blockchain strategy, including tokenized equities and its Arbitrum-based Robinhood Chain,",
-      "published": "2026-07-20T16:53:25+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінансова компанія Bernstein підвищила цільовий показник вартості акцій Robinhood, відзначивши успіхи брокера у впровадженні блокчейн-стратегій. Зокрема, йдеться про запуск токенізованих активів та розвиток власної мережі на базі Arbitrum.",
-      "ai_title": "Аналітики Bernstein прогнозують зростання акцій Robinhood через токенізацію",
-      "video_keywords": "stock market chart, mobile app, smartphone screen, digital finance"
-    },
-    {
-      "title": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
-      "link": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ponzi-vs-pyramid-schemes-whats-the-difference.png\" /></p><p>The SEC alleges Mining Automatic and its founder raised $22 million from investors by promising guaranteed",
-      "published": "2026-07-20T20:27:54+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Комісія з цінних паперів і бірж США звинувачує компанію Mining Automatic та її засновника у створенні шахрайської схеми. Інвесторів ошукали, обіцяючи гарантовані прибутки від майнінгу, яких насправді не існувало.",
-      "ai_title": "SEC подала до суду на Mining Automatic через крипто-піраміду на $22 мільйони",
-      "video_keywords": "courtroom, judge gavel, handcuffs, fraud investigation"
-    },
     {
       "title": "Exodus to cut 25% of staff in company reorganization",
       "link": "https://cointelegraph.com/news/crypto-wallet-exodus-cut-staff-company-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2118,6 +2118,26 @@
       "ai_summary": "Курс біткоїна та американські фондові індекси демонструють стійкість попри ескалацію напруженості між США та Іраном. Трейдери продовжують стежити за ринковими тенденціями на тлі прогнозованих рухів на біржі.",
       "ai_title": "Біткоїн утримав позиції на тлі геополітичної напруги",
       "video_keywords": "bitcoin coins, digital currency charts, stock market ticker, city skyline background"
+    },
+    {
+      "title": "SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws",
+      "link": "https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-staking-lending-service.png\" /></p><p>The SEC commissioner said crypto vaults, onchain lending products and other asset management tools may trigger",
+      "published": "2026-07-22T17:39:57+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Комісарка SEC заявила, що криптосховища, продукти для ончейн-кредитування та інші інструменти управління активами можуть підпадати під дію суворих законів про цінні папери. Це створить нові регуляторні виклики для учасників ринку децентралізованих фінансів.",
+      "ai_title": "SEC планує поширити закони про цінні папери на криптосховища та ончейн-кредитування",
+      "video_keywords": "financial documents, digital tablet, stock market graph, handcuffs"
+    },
+    {
+      "title": "UK digital bond plans hinge on one missing piece: onchain cash",
+      "link": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
+      "summary": "",
+      "published": "2026-07-22T15:36:49+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Успіх ініціативи Великої Британії з випуску цифрових облігацій наразі гальмується відсутністю стабільних та законодавчо врегульованих розрахунків усередині блокчейну. Для повноцінного запуск ринку країні необхідно вирішити питання ончейн-ліквідності.",
+      "ai_title": "Британські плани щодо цифрових облігацій залежать від блокчейн-готівки",
+      "video_keywords": "digital currency, computer screen, financial data, futuristic banking"
     }
   ]
 }
