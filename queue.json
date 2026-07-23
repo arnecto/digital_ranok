@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The [&#8230;]",
-      "published": "2026-07-21T19:22:28+00:00",
-      "source": "The Verge",
-      "ai_summary": "Платформа Substack додає новий інструмент, який допомагає читачам виявляти тексти, написані або згенеровані за допомогою штучного інтелекту. Функція сканує пости, нотатки та коментарі, надаючи оцінку ймовірності участі нейромереж у створенні контенту. Це рішення покликане зберегти автентичність авторських матеріалів на платформі.",
-      "ai_title": "Substack впроваджує детектор штучного інтелекту для блогів",
-      "video_keywords": "reading article on tablet, scrolling social media, person reading screen"
-    },
-    {
       "title": "OpenAI and Hugging Face partner to address security incident",
       "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "summary": "<p>Article URL: <a href=\"https://openai.com/index/hugging-face-model-evaluation-security-incident/\">https://openai.com/index/hugging-face-model-evaluation-security-incident/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997548\">https://news.ycombinator.com/item?id=48997548</a></p>\n<p>Points: 124</p>\n<p># Comments: 45</p>",
@@ -19,16 +9,6 @@
       "ai_summary": "Компанії об'єднали зусилля для реагування на інцидент безпеки, пов'язаний з оцінкою моделей. Партнерство спрямоване на підвищення захисту користувачів та виявлення вразливостей в інфраструктурі.",
       "ai_title": "OpenAI та Hugging Face об'єдналися задля розслідування інциденту безпеки",
       "video_keywords": "cybersecurity, server room, code on screen, hacker typing"
-    },
-    {
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-      "summary": "<p>Article URL: <a href=\"https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling\">https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997221\">https://news.ycombi",
-      "published": "2026-07-21T19:43:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У рамках важливої справи щодо авторського права Європейський суд постановив, що технології VPN є легальними інструментами. Це рішення зміцнює позиції захисту приватності в інтернеті та користувачів мережі.",
-      "ai_title": "Суд ЄС визнав VPN законними технічними інструментами",
-      "video_keywords": "person typing on laptop, lock icon on screen, internet security, digital privacy"
     },
     {
       "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
@@ -849,59 +829,29 @@
       "ai_summary": "Amazon робить крок до розширення своєї ігрової екосистеми, додаючи хмарний сервіс Luna безпосередньо у застосунок Prime Video на пристроях Fire TV. Нова стратегія спрямована на залучення ширшої касової аудиторії користувачів до хмарних відеоігор. Підрозділи Prime Gaming та Amazon Game Studios об'єднують зусилля для реалізації цього проєкту.",
       "ai_title": "Amazon інтегрує хмарний геймінг у Prime Video",
       "video_keywords": "television screen, video game controller, living room, streaming media"
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "link": "https://news.ycombinator.com/item?id=49026810",
+      "summary": "<p>I’ve been building Echo (<a href=\"https://echo.tracerml.ai/\" rel=\"nofollow\">https://echo.tracerml.ai/</a>), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.<p>It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I",
+      "published": "2026-07-23T19:26:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив експериментальну систему Echo, яка об'єднує кілька відкритих ШІ-моделей замість використання однієї універсальної. Такий підхід дозволяє досягти високих результатів, порівнянних із дорогими аналогами, витрачаючи втричі менше коштів.",
+      "ai_title": "Нова система Echo поєднує відкриті ШІ-моделі заради економії",
+      "video_keywords": "server racks, computer screens, artificial intelligence, glowing code"
+    },
+    {
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering [&#8230;]",
+      "published": "2026-07-23T19:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Anthropic розширила можливості голосового управління, додавши його до потужніших моделей Opus і Sonnet. Окрім цього, функція тепер інтегрується в популярні сервіси на кшталт Gmail, Slack та Canva.",
+      "ai_title": "Голосовий режим Claude став доступний для моделей Opus і Sonnet",
+      "video_keywords": "person wearing headphones, microphone, typing on laptop, modern office"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "published": "2026-07-21T19:43:41+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Команда Джека Дорсі створює робочий чат Buzz, який об'єднує в одному діалозі людей та штучний інтелект. Нова платформа покликана конкурувати з популярними корпоративними месенджерами на кшталт Slack.",
-      "ai_title": "Jack Dorsey запускає платформу Buzz для спілкування людей та AI-агентів",
-      "video_keywords": "office workers, typing on laptop, modern workspace, group chat"
-    },
-    {
-      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-      "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
-      "summary": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
-      "published": "2026-07-21T19:36:35+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Sila отримала масштабне фінансування для розширення заводу з виробництва кремній-вуглецевих анодів. Ці матеріали дозволять забезпечити батареями понад 100 000 електромобілів.",
-      "ai_title": "Виробник акумуляторів Sila залучив 300 мільйонів доларів попри спад на ринку електромобілів",
-      "video_keywords": "factory machinery, lithium battery, industrial manufacturing, laboratory research"
-    },
-    {
-      "title": "AI and the rise of the universal entertainment app",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-      "published": "2026-07-21T19:39:30+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Завдяки розвитку штучного інтелекту межі між стрімінговими сервісами музики, відео та подкастів зникають. Такі компанії, як Spotify, Netflix, YouTube та TikTok, еволюціонують у багатоцільові розважальні екосистеми, що об'єднують усі формати контенту.",
-      "ai_title": "Штучний інтелект перетворює платформи на універсальні додатки розваг",
-      "video_keywords": "smartphone screen, typing, streaming app, person scrolling feed"
-    },
-    {
-      "title": "Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way",
-      "link": "https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way",
-      "summary": "<p>Google DeepMind<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content=\"> today released three new proprietary AI models</a> it says are among its most token-efficient yet: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber. </p><p>The m",
-      "published": "2026-07-21T19:59:58+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Google DeepMind представила нові ефективні моделі серії Gemini, зокрема Gemini 3.6 Flash. Технологія здатна знизити витрати на токени для складних інженерних завдань до 65%, роблячи розробку ШІ-агентів доступнішою.",
-      "ai_title": "Нова модель Gemini від Google суттєво знижує витрати на ШT-агентів",
-      "video_keywords": "server room, data center, flashing lights, computer monitor, code"
-    },
-    {
-      "title": "These are the countries moving to ban social media for children",
-      "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "published": "2026-07-21T20:57:35+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Австралія стала першою країною, яка наприкінці 2025 року запровадила заборону на використання соціальних мереж неповнолітніми. Цей крок спрямований на зменшення ризиків кібербулінгу, інтернет-залежності та захисту дітей від небезпек в онлайн-середовищі.",
-      "ai_title": "Країни масово забороняють соцмережі для дітей",
-      "video_keywords": "smartphone, children, worried parent, social media, internet scrolling"
-    },
     {
       "title": "OpenAI says Hugging Face was breached by its own pre-release models",
       "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
@@ -1411,29 +1361,49 @@
       "ai_summary": "Дослідження виявило проблему довіри до автоматизованих оцінок ШІ: половина підприємств випустила у виробництво агентів, які пройшли внутрішні тести, але згодом провалилися перед клієнтами. Лише 5% повністю покладаються на поточні методи перевірки.",
       "ai_title": "Половина компаній випускає автономні ШІ-агенти попри провал тестів",
       "video_keywords": "business meeting, office desk, frustrated worker, computer error"
+    },
+    {
+      "title": "Tesla’s door handles may spur new U.S. safety rules",
+      "link": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
+      "summary": "The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars.",
+      "published": "2026-07-23T20:06:21+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Американські регулятори розпочнуть процес створення нових правил безпеки після низки інцидентів, зокрема й смертельних, коли люди застрягали всередині електромобілів через несправність ручок.",
+      "ai_title": "Tesla може зіткнутися з новими правилами безпеки через дверні ручки",
+      "video_keywords": "car door handle, electric car interior, vehicle safety test, modern automobile"
+    },
+    {
+      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+      "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
+      "summary": "Meta has made significant investments in natural gas over the past year. Now, it's dropping out of an industry renewable energy group.",
+      "published": "2026-07-23T19:41:54+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Meta за останній рік зробила значні інвестиції у видобуток та використання природного газу. Через це технологічний гігант вирішив припинити участь у галузевій групі з відновлюваних джерел енергії.",
+      "ai_title": "Meta виходить із глобальної угоди про чисту енергію через розширення використання газу",
+      "video_keywords": "data center exterior, natural gas pipeline, industrial power plant, modern corporate campus"
+    },
+    {
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "published": "2026-07-23T19:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Оновлена версія голосової моделі Claude тепер здатна виконувати складніші повсякденні завдання, наприклад, переносити зустрічі в календарі чи складати чернетки електронних листів.",
+      "ai_title": "Anthropic оновила голосовий режим штучного інтелекту Claude",
+      "video_keywords": "person talking on smartphone, using virtual assistant, modern office desk, audio waveform"
+    },
+    {
+      "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
+      "link": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
+      "summary": "An updated government advisory warns that Iranian hackers are exploiting systems used by water and energy providers.",
+      "published": "2026-07-23T17:27:08+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Урядове відомство США випустило попередження про те, що хакери, пов'язані з Іраном, активно атакують системи управління на підприємствах водного та енергетичного забезпечення країни.",
+      "ai_title": "Кібератаки на енергосистеми США пов'язають з хакерами з Ірану",
+      "video_keywords": "computer hackers typing, dark server room, cyber security dashboard, digital surveillance"
     }
   ],
   "Крипта": [
-    {
-      "title": "Pakistan steps up crypto enforcement with dedicated federal unit",
-      "link": "https://cointelegraph.com/news/pakistan-crypto-enforcement-dedicated-unit-crimes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pakistan steps up crypto enforcement with dedicated federal unit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-pakistan-looks-toward-crypto-regulation.jpg\" /></p><p>A senior official with Pakistan’s Federal Investigation Agency reportedly recommended other agencies establish similar units",
-      "published": "2026-07-21T19:19:22+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Федеральне агентство розслідувань Пакистану створює спеціалізований підрозділ для боротьби з криптозлочинністю. Інші державні відомства також закликають наслідувати цей приклад задля ефективнішого регулювання цифрових активів.",
-      "ai_title": "Пакистан посилює контроль за криптовалютою через спецпідрозділ",
-      "video_keywords": "police badge, computers in office, cyber security, digital surveillance"
-    },
-    {
-      "title": "Bitcoin rally faces key test at $68,000 as 'summer slumber' grips crypto, analysts say",
-      "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say",
-      "summary": "",
-      "published": "2026-07-21T20:05:33+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курс біткоїна зіткнувся з важливою перешкодою на шляху до 68 тисяч доларів на тлі традиційного літнього затишшя на ринку. Аналітики зазначають, що подальший рух ціни залежить від макроекономічних факторів та активності трейдерів у найближчі тижні.",
-      "ai_title": "Біткоїн готується до нового випробування на позначці $68 000",
-      "video_keywords": "bitcoin chart, cryptocurrency trading, trading screen, financial market"
-    },
     {
       "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
       "link": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2213,6 +2183,26 @@
       "ai_summary": "Американські політики висловлюють підтримку новому законодавству про крипторинки, проте дискусія затягується. Головними каменями спотикання стали суперечливі етичні правила та визначення регуляторів.",
       "ai_title": "Чому досягти компромісу щодо закону CLARITY надзвичайно складно",
       "video_keywords": "washington dc, us capitol, politicians meeting, courtroom gavel"
+    },
+    {
+      "title": "Crypto industry to contribute $55B to US economy in 2026: NCA study",
+      "link": "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto industry to contribute $55B to US economy in 2026: NCA study\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-coin.jpg\" /></p><p>The research released by the organization said that crypto companies will directly or indirectly lead to 232,000 jobs across the entire US economy in 2026.<",
+      "published": "2026-07-23T19:41:10+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Згідно з новим дослідженням NCA, до 2026 року криптовалютний сектор забезпечить створення понад 230 тисяч робочих місць у Сполучених Штатах. Індустрія демонструє значне зростання та стає важливим драйвером американської економіки.",
+      "ai_title": "Криптоіндустрія принесе економіці США $55 мільярдів у 2026 році",
+      "video_keywords": "us flag, stock market trading floor, business skyscrapers, corporate office"
+    },
+    {
+      "title": "As BitMEX exits, analysts warn crypto consolidation is accelerating",
+      "link": "https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"As BitMEX exits, analysts warn crypto consolidation is accelerating\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/arthur-hayes3.png\" /></p><p>BitMEX’s shutdown marks the end of one of crypto’s earliest derivatives exchanges as analysts point to rising regulatory costs, market concentration a",
+      "published": "2026-07-23T19:30:17+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Закриття легендарної біржі похідних інструментів BitMEX знаменує завершення цілої епохи в криптоіндустрії. Аналітики попереджають, що через зростання регуляторного тиску та витрат на комплаєнс ринок рухається до жорсткої монополізації великими гравцями.",
+      "ai_title": "Відхід BitMEX сигналізує про прискорення консолідації на крипторинку",
+      "video_keywords": "computer monitor, financial charts, stock market crash, empty office"
     }
   ]
 }
