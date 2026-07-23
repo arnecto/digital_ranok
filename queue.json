@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI and Hugging Face partner to address security incident",
-      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/hugging-face-model-evaluation-security-incident/\">https://openai.com/index/hugging-face-model-evaluation-security-incident/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997548\">https://news.ycombinator.com/item?id=48997548</a></p>\n<p>Points: 124</p>\n<p># Comments: 45</p>",
-      "published": "2026-07-21T20:09:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанії об'єднали зусилля для реагування на інцидент безпеки, пов'язаний з оцінкою моделей. Партнерство спрямоване на підвищення захисту користувачів та виявлення вразливостей в інфраструктурі.",
-      "ai_title": "OpenAI та Hugging Face об'єдналися задля розслідування інциденту безпеки",
-      "video_keywords": "cybersecurity, server room, code on screen, hacker typing"
-    },
-    {
       "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
       "link": "https://www.getcomputable.com/",
       "summary": "<p>Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everything trades through private bilateral leases, there’s no visible price, and nothing can be resold. The same H100 rents at a 2x spread depending on who’s asking, and once you sign a 24-month lease, it can never change ha",
@@ -19,16 +9,6 @@
       "ai_summary": "Колишні інженери з Jump Trading та Coinbase запустили сервіс Computable, який має на меті зробити ринок обчислювальної потужності більш прозорим. Платформа дозволяє купувати, продавати та перепродувати оренду GPU на конкретні тижні, вирішуючи проблему негнучких довгострокових контрактів.",
       "ai_title": "Лт/хмарний ринок: запуск платформи Computable для торгівлі потужностями GPU",
       "video_keywords": "server rack, microchip, data center, computer hardware"
-    },
-    {
-      "title": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
-      "link": "https://orate.to/",
-      "summary": "<p>Hey friends! Brad here - long time HN user, founder, engineer (Coinbase, Soothe, Jeevz, Release, Hired, GrowthX, etc)...<p>I have been struggling recently with too many tabs, emails, articles, etc sitting unread while I swap between Claude code sessions all day.  So I decided to build Orate to help me work through the backlog by listening to it all like I would a podcast.<p>Orate allows you to ",
-      "published": "2026-07-21T20:38:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив утиліту Orate, яка перетворює нечитані тексти, листи та статті на аудіоформат прямо на пристрої. Це дозволяє користувачам слухати накопичену інформацію у вигляді подкасту, не відволікаючись від основної роботи за комп'ютером.",
-      "ai_title": "Orate: новий локальний генератор мови для Mac",
-      "video_keywords": "person typing laptop, headphones, office desk, workspace"
     },
     {
       "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
@@ -51,16 +31,6 @@
       "video_keywords": "film set, camera monitor, director, editing suite"
     },
     {
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "summary": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\">https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998404\">https://news.ycombinator.com/item?id=48998404</a></p>\n<p>Points: 46</p>\n<p># Comments: 14</p>",
-      "published": "2026-07-21T21:13:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти порівняли, як сучасні моделі штучного інтелекту, зокрема GPT, Claude, Gemini та Grok, справляються зі складним творчим завданням. Експеримент демонструє поточні можливості генеративних систем у створенні деталізованих художніх зображень.",
-      "ai_title": "Штучний інтелект у ролі художника: як провідні моделі справляються з малюванням Мони Лізи",
-      "video_keywords": "digital artist, drawing tablet, computer screen, creative studio"
-    },
-    {
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
       "link": "https://fireworks.ai/blog/kimik3-fable",
       "summary": "<p>Article URL: <a href=\"https://fireworks.ai/blog/kimik3-fable\">https://fireworks.ai/blog/kimik3-fable</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999291\">https://news.ycombinator.com/item?id=48999291</a></p>\n<p>Points: 46</p>\n<p># Comments: 9</p>",
@@ -69,26 +39,6 @@
       "ai_summary": "Нова мовна модель Kimi K3 демонструє продуктивність на рівні найкращих сучасних аналогів у галузі. Це значний крок вперед для розробників, що підтверджує високу конкурентоспроможність нових архітектур ШІ.",
       "ai_title": "Модель Kimi K3 кидає виклик лідерам ринку штучного інтелекту",
       "video_keywords": "server room, data center, blinking lights, computer code"
-    },
-    {
-      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-      "link": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "summary": "<p>Article URL: <a href=\"https://ai.google.dev/gemini-api/docs/latest-model\">https://ai.google.dev/gemini-api/docs/latest-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998606\">https://news.ycombinator.com/item?id=48998606</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-21T21:27:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У новій документації API для моделей Gemini розробники повідомили про застарілість та ігнорування класичних параметрів управління креативністю. Це змінює підхід до налаштування генерації текстів та вимагає адаптації існуючого програмного забезпечення.",
-      "ai_title": "Google відмовляється від параметрів temperature та top_p у нових моделях Gemini",
-      "video_keywords": "programmer hands, typing code, laptop screen, software developer"
-    },
-    {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\">https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a></p>\n<p>Points: 85</p>\n<p># Comments: 23</p>",
-      "published": "2026-07-21T21:09:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомий математик Теренс Тао опублікував детальний розбір нещодавнього контрприкладу до знаменитої гіпотези Якобіана. Цей матеріал привернув велику увагу наукової спільноти та викликав активні обговорення серед фахівців.",
-      "ai_title": "Математичний прорив: аналіз контрприкладу до гіпотези Якобіана",
-      "video_keywords": "chalkboard, mathematical formulas, university classroom, scientist writing"
     },
     {
       "title": "An Engineer's Guide to USB Type-C [pdf]",
@@ -849,19 +799,37 @@
       "ai_summary": "Компанія Anthropic розширила можливості голосового управління, додавши його до потужніших моделей Opus і Sonnet. Окрім цього, функція тепер інтегрується в популярні сервіси на кшталт Gmail, Slack та Canva.",
       "ai_title": "Голосовий режим Claude став доступний для моделей Opus і Sonnet",
       "video_keywords": "person wearing headphones, microphone, typing on laptop, modern office"
+    },
+    {
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "link": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public\">https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49027892\">https://news.ycombinator.com/item?id=49027892</a></p>\n<p>Points: 22</p>\n<",
+      "published": "2026-07-23T20:52:19+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Selfie for sign-in: a new, easy way to access your Google Account",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/",
+      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/\">https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026482\">https://news.ycombinator.com/item?id=49026482</a></p>\n<p>Points: 32</p>\n<p># Comments: 23</p>",
+      "published": "2026-07-23T19:00:34+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
+      "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+      "summary": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes, watch TV shows, and more. Currently, Best Buy and Home [&#8230;]",
+      "published": "2026-07-23T20:36:40+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "FCC Chairman Brendan Carr’s war on the First Amendment",
+      "link": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+      "summary": "As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wielded that power to threaten broadcasters that have exercised their free speech rights to make jokes about the president. He was even able to [&#8230;]",
+      "published": "2026-07-23T19:46:11+00:00",
+      "source": "The Verge"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "published": "2026-07-21T20:56:55+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія OpenAI взяла на себе відповідальність за нещодавній інцидент безпеки на платформі Hugging Face. За словами розробників, витік стався внаслідок внутрішнього тестування нових попередніх моделей ШІ, що пішло не за планом.",
-      "ai_title": "OpenAI зізналася у злитті даних Hugging Face через власний ШІ",
-      "video_keywords": "hacker typing, computer screen, cybersecurity code, data breach, server room"
-    },
     {
       "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
       "link": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
@@ -871,16 +839,6 @@
       "ai_summary": "ШІ-лабораторія Poolside представила модель Laguna S 2.1, яка перевершує конкурентів, що у десять разів перевищують її за розміром. Компанія робить ставку на радикальну прозорість замість масштабів для конкуренції на ринку.",
       "ai_title": "Стартап Poolside випустив потужну відкриту модель для програмування",
       "video_keywords": "developer coding, dual monitors, software engineering, tech office, typing code"
-    },
-    {
-      "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
-      "link": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
-      "summary": "<p>GPU memory is the most expensive resource in production AI, and it&#x27;s also the one running out fastest. </p><p>Long context windows and multi-turn conversations force AI models to repeatedly recompute information they&#x27;ve already processed, consuming GPU memory and compute that could otherwise serve additional users or generate new responses.</p><p>Instead of treating GPU memory as the ",
-      "published": "2026-07-21T21:19:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Компанія Weka представила систему зберігання даних, яка кешує попередньо обчислені токени моделей штучного інтелекту. Це дозволяє суттєво знизити навантаження на дорогі графічні процесори та оптимізувати роботу серверів.",
-      "ai_title": "Нова платформа Weka економить ресурс GPU для штучного інтелекту",
-      "video_keywords": "server racks, data center, flashing lights, IT engineer, supercomputer hardware"
     },
     {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
@@ -1401,49 +1359,49 @@
       "ai_summary": "Урядове відомство США випустило попередження про те, що хакери, пов'язані з Іраном, активно атакують системи управління на підприємствах водного та енергетичного забезпечення країни.",
       "ai_title": "Кібератаки на енергосистеми США пов'язають з хакерами з Ірану",
       "video_keywords": "computer hackers typing, dark server room, cyber security dashboard, digital surveillance"
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "published": "2026-07-23T20:33:02+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія AMD анонсувала випуск масштабної стійкової системи Helios для прискорення штучного інтелекту. Новинка стане прямим конкурентом рішень від Nvidia, а її постачання клієнтам розпочнуться вже цього року.",
+      "ai_title": "AMD кидає виклик Nvidia новою системою для штучного інтелекту",
+      "video_keywords": "server rack, data center, computer hardware, blinking lights"
+    },
+    {
+      "title": "Patreon lays off 20% of its workforce",
+      "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "summary": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+      "published": "2026-07-23T20:30:07+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Керівництво Patreon оголосило про звільнення 20% співробітників через необхідність адаптуватися до ринкових змін. Попри стабільність основного бізнесу, компанія змушена оптимізувати витрати для фінансової стійкості.",
+      "ai_title": "Платформа Patreon скорочує п'яту частину штату",
+      "video_keywords": "person working on laptop, office desk, stressed employee, modern workspace"
+    },
+    {
+      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+      "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "summary": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
+      "published": "2026-07-23T20:13:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі ажіотажу навколо штучного інтелекту стартап Corgi зміг закрити третій раунд фінансування всього за 8 тижнів. Оцінка компанії сягнула 4 мільярдів доларів, що вражає навіть за мірками сучасного венчурного ринку.",
+      "ai_title": "Страховий стартап Corgi залучив мільярди за лічені тижні",
+      "video_keywords": "startup office, hand shake, business meeting, financial growth chart"
+    },
+    {
+      "title": "Agentic coding goes hands free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+      "link": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+      "summary": "<p>Two weeks after debuting its <a href=\"https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person\">more naturalistic GPT-Live audio AI model</a> with full-duplex capabilities (listening and speaking at the same time), OpenAI is bringing it directly into developer workflows. </p><p>The company announced that <a href=\"https://x",
+      "published": "2026-07-23T21:17:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "OpenAI додала можливості повнодуплексного голосового керування GPT-Live у свої десктопні інструменти для розробників Codex та ChatGPT. Це дозволяє програмістам взаємодіяти зі штучним інтелектом голосом у реальному часі без допомоги рук.",
+      "ai_title": "OpenAI інтегрувала голосове управління у середовище розробки",
+      "video_keywords": "developer typing on keyboard, dual monitors, computer screen, programmer office"
     }
   ],
   "Крипта": [
-    {
-      "title": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
-      "link": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gym-up-eth.jpg\" /></p><p>Ether’s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100.</p>",
-      "published": "2026-07-21T20:26:13+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалюта Ether успішно пробила опір на рівні 1900 доларів, привернувши увагу биків. Зростання інтересу до стейкінгу та позитивні ринкові настрої можуть штовхнути ціну до наступної мети у 2100 доларів.",
-      "ai_title": "Ethereum подолав психологічний бар'єр у $1900",
-      "video_keywords": "ethereum coin, digital currency, crypto graph, computer monitor"
-    },
-    {
-      "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
-      "link": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news.png\" /></p><p>The blockchain developer will continue operating under court supervision as it rest",
-      "published": "2026-07-21T20:59:32+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Блокчейн-розробник Movement Labs подав заяву про банкрутство за главою 11 після місяців фінансових труднощів навколо токена MOVE. Компанія продовжуватиме свою діяльність під наглядом суду під час процесу реструктуризації.",
-      "ai_title": "Movement Labs оголосила про банкрутство через проблеми з токеном",
-      "video_keywords": "bankruptcy documents, corporate office, stressed businessman, closing business"
-    },
-    {
-      "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
-      "link": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act could help CFTC deal with prediction markets: Lawyer \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule.jpg\" /></p><p>According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to ",
-      "published": "2026-07-21T21:36:43+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Згідно з показаннями юриста перед підкомітетом Палати представників, новий законопроєкт може надати Комісії з торгівлі товарними ф'ючерсами США необхідні повноваження. Це допоможе ефективно регулювати сектор ринків прогнозів, який стрімко розвивається.",
-      "ai_title": "Закон CLARITY може розширити повноваження CFTC щодо ринків прогнозів",
-      "video_keywords": "us capitol building, lawyers meeting, court gavel, business handshake"
-    },
-    {
-      "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
-      "link": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
-      "summary": "",
-      "published": "2026-07-21T21:14:03+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ухвалення закону Crypto Clarity Act гальмується через етичні суперечки та небажання демократів підтримати угоду з командою Трампа. Політичні протистояння продовжують затримувати створення чітких правил для криптоіндустрії в США.",
-      "ai_title": "Доля закону про криптопрозорість під загрозою через політичні розбіжності",
-      "video_keywords": "politicians arguing, us flag, government building, meeting room negotiation"
-    },
     {
       "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
       "link": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
@@ -2203,6 +2161,36 @@
       "ai_summary": "Закриття легендарної біржі похідних інструментів BitMEX знаменує завершення цілої епохи в криптоіндустрії. Аналітики попереджають, що через зростання регуляторного тиску та витрат на комплаєнс ринок рухається до жорсткої монополізації великими гравцями.",
       "ai_title": "Відхід BitMEX сигналізує про прискорення консолідації на крипторинку",
       "video_keywords": "computer monitor, financial charts, stock market crash, empty office"
+    },
+    {
+      "title": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
+      "link": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-analysis-falling-1.jpg\" /></p><p>Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil and bond-market surge, while July Fed rate",
+      "published": "2026-07-23T20:32:22+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Вартість біткоїна різко знизилася на тлі напруженості у відносинах між США та Іраном. Геополітичний конфликт спричинив стрибок цін на нефть до 100 доларів та зростання прибутковості облігацій, що негативно вплинуло на ринок криптовалют.",
+      "ai_title": "Біткоїн впав нижче 65 000 доларів на тлі ескалації конфлікту на Близькому Сході",
+      "video_keywords": "stock market crash, red candles chart, bitcoin trading screen, financial panic"
+    },
+    {
+      "title": "Coinbase lets businesses accept USDC payments from AI agents",
+      "link": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase lets businesses accept USDC payments from AI agents\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-facebook-x.png\" /></p><p>The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial infrastructure for a",
+      "published": "2026-07-23T20:51:27+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптобіржа запровадила інструменти для інтеграції штучного інтелекту у фінансову систему. Тепер компанії можуть приймати стейблкоїни USDC безпосередньо від автономних AI-агентів.",
+      "ai_title": "Coinbase дозволила бізнесу приймати платежі у USDC від штучного інтелекту",
+      "video_keywords": "artificial intelligence, robotic hand, futuristic computer interface, digital payment"
+    },
+    {
+      "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
+      "link": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
+      "summary": "",
+      "published": "2026-07-23T18:29:31+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Сторінку Влада Тенєва в соцмережі X було зламано зловмисниками. Хакви використали профіль для маніпуляцій на тлі ажіотажу навколо мемкоїнів та просування сумнівного криптоактиву.",
+      "ai_title": "Акаунт гендиректора Robinhood зламали для просування фейкового токена",
+      "video_keywords": "hacker typing on laptop, glowing cyber security screen, smartphone security breach, data theft"
     }
   ]
 }
