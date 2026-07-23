@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
-      "link": "https://exsitu.app/map",
-      "summary": "<p>Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at western/euro-american institutions and maps their collection categorised by them under Islamic art, Asian/African art, ethnological collections, Middle East, South America etc.<p>Started as my MA thesis in",
-      "published": "2026-07-21T04:48:32+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив інтерактивний просторовий індекс, що візуалізує переміщення артефактів із місць їхнього походження до західних музеїв. Проєкт демонструє зв'язок між культурними об'єктами та інституціями, що їх утримують, охоплюючи колекції з Азії, Африки, Близького Сходу та Південної Америки.",
-      "ai_title": "Ex Situ: відкритий проєкт для відстеження переміщених культурних цінностей",
-      "video_keywords": "world map, digital interface, historical artifacts, data visualization"
-    },
-    {
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "link": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-3.0\">https://qwen.ai/blog?id=qwen-image-3.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989701\">https://news.ycombinator.com/item?id=48989701</a></p>\n<p>Points: 40</p>\n<p># Comments: 20</p>",
-      "published": "2026-07-21T08:44:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Alibaba представила оновлену модель Qwen-Image-3.0, яка демонструє високу точність у відтворенні деталей та розумінні складних візуальних контекстів. Розробники зосередилися на покращенні якості генерації тексту на зображеннях та глибшій роботі зі знаннями.",
-      "ai_title": "Alibaba випустила нову модель Qwen-Image-3.0 для генерації зображень",
-      "video_keywords": "artificial intelligence, digital art, abstract technology, futuristic interface"
-    },
-    {
       "title": "America needs to stop getting shocked by Chinese AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
       "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. In one headline, The Associated Press said a [&#8230;]",
@@ -824,6 +804,26 @@
       "ai_summary": "Дослідники розробили нову систему для відстеження стану бджолиних сімей на основі аудіодатчиків Інтернету речей (IoT), тензограм та рекурентних нейронних мереж (RNN). Технологія дозволяє аналізувати звуки вуликів для раннього виявлення хвороб або стресу у пчелосім'ях. Це відкриває нові можливості для автоматизованого догляду за пасіками.",
       "ai_title": "Моніторинг бджолиних сімей за допомогою аудіо-IoT та нейромереж",
       "video_keywords": "beehive, honey bees, microphobe, computer graphs"
+    },
+    {
+      "title": "Ukrainian UForce and American ReconCraft agree on joint production of marine drones in the US",
+      "link": "https://en.ain.ua/2026/07/23/uforce-and-reconcraft-agree-on-joint-production/",
+      "summary": "The parties plan to produce unmanned surface vessels in the US using Ukrainian technologies and American manufacturing capacity.",
+      "published": "2026-07-23T07:19:00+00:00",
+      "source": "",
+      "ai_summary": "Український виробник UForce та американська компанія ReconCraft домовилися про спільне виробництво безпілотних надводних суден. Проєкт поєднає передові українські технології з американськими виробничими потужностями безпосередньо на території США.",
+      "ai_title": "Українські та американські компанії спільно вироблятимуть морські дрони в США",
+      "video_keywords": "marine drone, military boat, ocean water, remote control"
+    },
+    {
+      "title": "Local AI that finds sensitive files on your Mac before attackers do",
+      "link": "https://www.vaultsort.com/guardian",
+      "summary": "<p>Article URL: <a href=\"https://www.vaultsort.com/guardian\">https://www.vaultsort.com/guardian</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49017170\">https://news.ycombinator.com/item?id=49017170</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-23T05:06:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено спеціальний локальний інструмент на базі штучного інтелекту, який сканує комп'ютери Mac у пошуках чутливих файлів. Програма допомагає користувачам знайти та захистити приватні дані раніше, ніж до них доберуться зловмисники.",
+      "ai_title": "Новий локальний ШІ захистить Mac від витоку конфіденційних даних",
+      "video_keywords": "laptop screen, cyber security, digital code, hacker typing"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1356,39 +1356,19 @@
       "ai_summary": "Після різкого падіння акцій через слабкі продажі серверів керівництво IBM заявило, що інтерес компаній до штучного інтелекту лише тимчасово перерозподілив бюджети на обладнання. У компанії переконані у відновленні попиту на традиційні корпоративні системи найближчим часом.",
       "ai_title": "В IBM запевняють, що штучний інтелект не знищує ринок мейнфреймів",
       "video_keywords": "server room, data center, computer hardware, technician working"
+    },
+    {
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "published": "2026-07-23T06:09:13+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Американська компанія ServiceNow вкладає 40 мільйонів доларів в індійського розробника фінансового софту BusinessNext. Це партнерство спрямоване на глобальне розширення послуг компанії на ринку банківських технологій за допомогою штучного інтелекту.",
+      "ai_title": "ServiceNow інвестує 40 мільйонів у розробника банківського софту",
+      "video_keywords": "software engineer, computer screen, office meeting, financial charts"
     }
   ],
   "Крипта": [
-    {
-      "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-      "link": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-      "summary": "",
-      "published": "2026-07-21T06:15:26+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Британські законодавці вивчають проблеми, з якими стикаються криптовалютні компанії при відкритті банківських рахунків. Влада намагається з'ясувати, чи не створюють фінансові установи штучних бар'єрів для розвитку індустрії.",
-      "ai_title": "Парламент Великої Британії розпочав розслідування щодо банківських обмежень для криптобізнесу",
-      "video_keywords": "parliament building, bank vault, legal documents, meeting room"
-    },
-    {
-      "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
-      "link": "https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind",
-      "summary": "",
-      "published": "2026-07-21T05:34:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курс головної криптовалюти наблизився до позначки 65 500 доларів завдяки відновленню інтересу до технологічних активів та виробників чіпів. Оптимізм на фондовому ринку позитивно вплинув на динаміку цифрових активів.",
-      "ai_title": "Біткоїн сягнув двотижневого максимуму на тлі зростання технологічного сектору",
-      "video_keywords": "bitcoin logo, digital currency ticker, computer processor, trading desk"
-    },
-    {
-      "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-      "link": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
-      "summary": "",
-      "published": "2026-07-21T07:21:04+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Вартість XRP підскочила на 4%, оскільки трейдери очікують прориву графічного паттерна «трикутник». Аналітики прогнозують можливе зростання ціни активу до позначки 1,35 долара.",
-      "ai_title": "XRP демонструє зростання на фоні технічного прориву",
-      "video_keywords": "cryptocurrency chart, trading screen, rising graph"
-    },
     {
       "title": "UK parliamentary group probes banking barriers for crypto firms",
       "link": "https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1408,16 +1388,6 @@
       "ai_summary": "Спотові біткоїн-ETF у США залучили 227 мільйонів доларів протягом п'яти днів поспіль. Це стало найдовшою серією притоку інвестицій з травня, що збіглося зі зростанням ціни BTC вище 65 000 доларів.",
       "ai_title": "Біткоїн-ETF відзначають п'ятиденний приплив капіталу",
       "video_keywords": "stock market ticker, digital gold, financial analysis"
-    },
-    {
-      "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-      "link": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-base-coinbase-l2-network-2.jpg\" /></p><p>The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-",
-      "published": "2026-07-21T07:06:12+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Мережа другого рівня Base від Coinbase планує розширити свій фінансовий функціонал шляхом запуску активів, забезпечених реальними акціями у співвідношенні 1:1. Це знаменує стратегічний розворот платформи від соціальних застосунків до фінансових інструментів.",
-      "ai_title": "Base готується до запуску токенізованих акцій",
-      "video_keywords": "digital interface, network connection, blockchain technology"
     },
     {
       "title": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
@@ -2158,6 +2128,56 @@
       "ai_summary": "Зловмисники зламали міжмережевий міст стороннього протоколу AFX, викранувши криптовалюту на мільйони доларів. Розробники запевнили, що інцидент не торкнувся основної інфраструктури мережі Arbitrum.",
       "ai_title": "Протокол AFX втратив 24 мільйони доларів через хакерську атаку",
       "video_keywords": "hacker code, computer screen matrix, cyber security shield, digital lock breach"
+    },
+    {
+      "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
+      "link": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
+      "summary": "",
+      "published": "2026-07-23T07:05:42+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Одна з перших криптовалютних бірж Південної Кореї приєдналася до багатотрильйонної корпорації Mirae Group. Цей крок свідчить про глибоку інтеграцію цифрових активів у традиційний макрофінансовий сектор країни.",
+      "ai_title": "Найстаріша криптобіржа Південної Кореї увійшла до складу фінансового гіганта Mirae Group",
+      "video_keywords": "stock exchange, corporate building, financial charts, digital screens"
+    },
+    {
+      "title": "Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart",
+      "link": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
+      "summary": "",
+      "published": "2026-07-23T06:38:18+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Децентралізовані платформи, пов'язані з біткоїном та ефіріумом, зазнали масштабних зломів з інтервалом у кілька годин. Зловмисники вивели загалом 35 мільйонів доларів користувачів, що спричинило новий занепокоєння щодо безпеки DeFi.",
+      "ai_title": "Криптопротоколи втратили 35 мільйонів доларів через серію хакерських атак",
+      "video_keywords": "hacker, computer screen, red code, cybersecurity threat"
+    },
+    {
+      "title": "Bitcoin ETFs approach $1B in 7-session inflow run",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-1-billion-7-session-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs approach $1B in 7-session inflow run\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf.jpg\" /></p><p>US spot Bitcoin ETFs recorded $69 million in inflows on Wednesday, extending their inflow streak to seven sessions",
+      "published": "2026-07-23T07:08:25+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американські спотові біткоїн-фонди зафіксували черговий день притоку інвестицій, продовживши свою переможну серію до семи сесій поспіль. Загальний обсяг за цей період впритул наблизився до одного мільярда доларів, демонструючи стійкий інтерес інституцій.",
+      "ai_title": "Спотові біткоїн-ETF наблизилися до позначки в 1 мільярд доларів притоку капіталу",
+      "video_keywords": "stock market ticker, financial charts, trading floor, business graphs"
+    },
+    {
+      "title": "Kakao taps Circle to explore won stablecoin payment infrastructure",
+      "link": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kakao taps Circle to explore won stablecoin payment infrastructure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-staking-lending-service-1.png\" /></p><p>Kakao Group and Circle signed an MOU to explore won stablecoin payments, remittances, merchant settlement and tokenized fina",
+      "published": "2026-07-23T06:46:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Південнокорейський гігант Kakao Group уклав партнерство з емітентом стейблкоїнів Circle для розробки інфраструктури цифрових платежів. Сторони вивчатимуть можливості розрахунків у національній валюті та токенізації активів.",
+      "ai_title": "Техногігант Kakao спільно з Circle досліджуватиме платежі у стейблкоїнах",
+      "video_keywords": "smartphone, digital wallet, contactless payment, handshake"
+    },
+    {
+      "title": "Swiss bank BancaStato launches regulated crypto trading with Sygnum",
+      "link": "https://cointelegraph.com/news/bancastato-regulated-crypto-trading-sygnum-avaloq?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Swiss bank BancaStato launches regulated crypto trading with Sygnum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-u-banks-have-deeper-interest-in-digital-than-previously-thought-switzerland.jpg\" /></p><p>Swiss cantonal bank BancaStato integrated Sygnum’s crypto trading and custody service",
+      "published": "2026-07-23T06:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Швейцарський кантональний банк BancaStato інтегрував регульовані сервіси для торгівлі та зберігання криптовалют від компанії Sygnum. Це дозволить клієнтам банку безпечно працювати з цифровими активами в межах правового поля.",
+      "ai_title": "Швейцарський банк BancaStato за підтримки Sygnum запустив торгівлю криптою",
+      "video_keywords": "swiss bank, modern interior, banking lobby, ATM screen"
     }
   ]
 }
