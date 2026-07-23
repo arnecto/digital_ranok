@@ -1,47 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Claude Is Not a Compiler",
-      "link": "https://blog.exe.dev/claude-is-not-a-compiler",
-      "summary": "<p>Article URL: <a href=\"https://blog.exe.dev/claude-is-not-a-compiler\">https://blog.exe.dev/claude-is-not-a-compiler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48993059\">https://news.ycombinator.com/item?id=48993059</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-21T14:49:18+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Sarah's Wager",
-      "link": "https://colossus.com/article/sarah-guo-conviction/",
-      "summary": "<p>Article URL: <a href=\"https://colossus.com/article/sarah-guo-conviction/\">https://colossus.com/article/sarah-guo-conviction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992960\">https://news.ycombinator.com/item?id=48992960</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-21T14:40:52+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
-      "link": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-      "summary": "<p>Article URL: <a href=\"https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm\">https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48992",
-      "published": "2026-07-21T14:31:41+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48993414\">https://news.ycombinator.com/item?id=48993414</a></",
-      "published": "2026-07-21T15:17:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Google випустила нові версії своїх штучних інтелектів, зокрема Gemini 3.6 Flash, 3.5 Flash-Lite та спеціалізовану модель Flash Cyber. Ці новинки покликані забезпечити швидшу та ефективнішу роботу розробників із різними завданнями.",
-      "ai_title": "Google представила нову лінійку моделей Gemini Flash",
-      "video_keywords": "artificial intelligence, server room, glowing code, technology"
-    },
-    {
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such as the one offered by Anthropic's Mythos. The cybersecurity model [&#8230;]",
-      "published": "2026-07-21T15:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Google анонсувала Gemini 3.5 Flash Cyber як доступну та потужну альтернативу дорожчим системам безпеки на ринку. Нова модель створена для того, щоб допомагати компаніям швидко знаходити та усувати вразливості в коді.",
-      "ai_title": "Google випустила бюджетну AI-модель для кібербезпеки",
-      "video_keywords": "cybersecurity, hacker code, digital shield, computer screen"
-    },
-    {
       "title": "Tesla Robotaxis go to Florida",
       "link": "https://www.theverge.com/transportation/968624/tesla-robotaxis-orlando-tampa-florida-earnings",
       "summary": "It must be earnings day, because Tesla is making a Robotaxi announcement. The company said in a post on X that it was launching its Robotaxi service in Orlando and Tampa, attaching a pair of maps that show each city's service area. No word on fleet size or whether interested customers would be able to [&#8230;]",
@@ -50,26 +9,6 @@
       "ai_summary": "Компанія Tesla оголосила про запуск свого сервісу роботаксі в американських містах Орландо та Тампа. Поки що деталі про розмір автопарку не розголошуються, але компанія вже опублікувала карти із зонами обслуговування.",
       "ai_title": "Роботаксі від Tesla запускають у Флориді",
       "video_keywords": "autonomous car, driving steering wheel, electric vehicle, city street"
-    },
-    {
-      "title": "Stellantis taps Mobileye for hands-free driving assist",
-      "link": "https://www.theverge.com/transportation/968525/stellantis-taps-mobileye-for-hands-free-driving-assist",
-      "summary": "Stellantis will use technology from Intel's Mobileye to power its Level 2 hands-free driving features for its vehicle brands, the companies announced Tuesday. Starting in 2027, Stellantis will begin using Mobileye's EyeQ system-on-a-chip and a data crowdsourcing program called the Road Experience Management, or REM, which uses real-time data from Mobileye-equipped vehicles to build out [&#8230;]",
-      "published": "2026-07-21T14:42:38+00:00",
-      "source": "The Verge",
-      "ai_summary": "Автомобільний концерн Stellantis уклав партнерство з Mobileye для впровадження систем напівавтономного водіння рівня 2. Починаючи з 2027 року, автомобілі концерну використовуватимуть чіпи EyeQ та технологію збору дорожніх даних у реальному часі.",
-      "ai_title": "Stellantis інтегрує систему автопілота від Mobileye",
-      "video_keywords": "driverless car, vehicle dashboard, smart highway, microchip"
-    },
-    {
-      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-      "link": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "summary": "<p>Article URL: <a href=\"https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/\">https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48993637\">https://news.ycombinator.com/item?id=48993637</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-21T15:31:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Apple виправила критичну помилку безпеки у своїй популярній функції після того, як про неї публічно повідомило видання 404 Media. Виправлення захистило користувачів від потенційного витоку персональних даних.",
-      "ai_title": "Apple оперативно усунула вразливість у функції «Приховати мою пошту»",
-      "video_keywords": "smartphone security, typing keyboard, hacker attack, data breach"
     },
     {
       "title": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
@@ -890,79 +829,59 @@
       "ai_summary": "Мешканці американських міст масово виходять на акції протесту проти будівництва масштабних центрів обробки даних. Екологічні та інфраструктурні побоювання знаходять підтримку як у лівих, так і у правих активістів.",
       "ai_title": "Протести проти дата-центрів об'єднують людей різних політичних поглядів",
       "video_keywords": "protest crowd, holding signs, industrial building exterior, community gathering"
+    },
+    {
+      "title": "OLED displays and a touchscreen. Apple prepares Mac refresh to meet AI demand — Bloomberg",
+      "link": "https://en.ain.ua/2026/07/23/oled-displays-and-a-touchscreen-apple-prepares-mac-refresh-to-meet-ai-demand-bloomberg/",
+      "summary": "Apple is looking to capitalize on rising demand for powerful computers driven by advances in artificial intelligence.",
+      "published": "2026-07-23T14:30:00+00:00",
+      "source": "",
+      "ai_summary": "Компанія Apple планує суттєво оновити лінійку своїх комп'ютерів Mac, додавши OLED-дисплеї та сенсорні екрани. Ці зміни спрямовані на те, щоб задовольнити зростаючий попит користувачів на потужні пристрої для роботи зі штучним інтелектом.",
+      "ai_title": "Apple готує оновлення комп'ютерів Mac заради штучного інтелекту",
+      "video_keywords": "apple laptop, oled screen, person typing, desk setup"
+    },
+    {
+      "title": "US accuses Chinese AI startup Moonshot of stealing Anthropic technology",
+      "link": "https://en.ain.ua/2026/07/23/us-accuses-chinese-ai-startup-moonshot-of-stealing-anthropic-technology/",
+      "summary": "Washington also said it is considering imposing sanctions on the Chinese company that developed the model.",
+      "published": "2026-07-23T14:21:00+00:00",
+      "source": "",
+      "ai_summary": "Американська влада заявила, що китайський розробник штучного інтелекту Moonshot міг незаконно скопіювати технології компанії Anthropic. У зв'язку з цим Вашингтон розглядає можливість запровадження жорстких санкцій проти цього стартапу.",
+      "ai_title": "Штат Вашингтон звинуватив китайський стартап у крадіжці технологій Anthropic",
+      "video_keywords": "server room, data center, cybersecurity, hacker computer"
+    },
+    {
+      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "summary": "<p><a href=\"https://littletech.org/\" rel=\"nofollow\">https://littletech.org/</a><p><a href=\"https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0e5/lta-open-weight-ai-letter-7-22-26.pdf\" rel=\"nofollow\">https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49023016\">https://news.ycombinator.com/item?id=490",
+      "published": "2026-07-23T15:18:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Група розробників та засновників технологічних компаній звернулася з петицією, закликаючи не обмежувати доступ до китайських моделей штучного інтелекту з відкритими вагами. Вони наголошують, що збереження відкритого коду критично важливе для глобальних інновацій у галузі.",
+      "ai_title": "Засновники стартапів просять Трампа зберегти відкриті моделі ШІ",
+      "video_keywords": "developers meeting, startup office, modern workspace, coding on laptop"
+    },
+    {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "summary": "<p>Article URL: <a href=\"https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16\">https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49021597\">https://news.ycombinator.com/item?id=49021597</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-23T13:51:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Агентство передових оборонних дослідницьких проєктів США спільно з військовими успішно провело випробувальні польоти винищувача F-16, яким керував штучний інтелект. Цей крок демонструє прорив у впровадженні автономних систем в авіацію.",
+      "ai_title": "DARPA та ВПС США випробували винищувач F-16 під управлінням штучного інтелекту",
+      "video_keywords": "fighter jet, military aircraft, cockpit display, flying airplane"
+    },
+    {
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]",
+      "published": "2026-07-23T14:13:35+00:00",
+      "source": "The Verge",
+      "ai_summary": "Американські законодавці планують представити новий законопроєкт, який зобов'яже компанії-розробники ШІ впровадити функцію негайного припинення роботи систем. Така «кнопка вимкнення» може бути активована за наказом Міністерства внутрішньої безпеки у разі загрози.",
+      "ai_title": "У США готують законопроєкт про кнопку екстреного вимкнення штучного інтелекту",
+      "video_keywords": "emergency button, red button, server racks, control room"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "What to know about the landmark Warner Bros. Discovery sale",
-      "link": "https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-      "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
-      "published": "2026-07-21T14:15:39+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Paramount планує історичне поглинання Warner Bros. Discovery, вартість якого оцінюється у 111 мільярдів доларів. Ця операція може радикально змінити структуру медіаринку та індустрії розваг.",
-      "ai_title": "Мегаугода в Голлівуді: Paramount готується до купівлі Warner Bros. Discovery",
-      "video_keywords": "movie studio, corporate meeting, skyscraper office, television broadcast"
-    },
-    {
-      "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
-      "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
-      "summary": "A hacker took names, phone numbers, and physical addresses of millions of customers who used AI music generator Suno.",
-      "published": "2026-07-21T14:48:18+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Хакери отримали доступ до імен, номерів телефонів та адрес мільйонів клієнтів сервісу штучного інтелекту Suno. Це створює серйозні ризики для приватності користувачів платформи.",
-      "ai_title": "Масштабний витік даних у сервісі генерації музики Suno: постраждало 55 млн користувачів",
-      "video_keywords": "hacker, computer screen, binary code, data security"
-    },
-    {
-      "title": "After TikTok, Snap settles social media addiction case",
-      "link": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
-      "summary": "Snap is the latest big tech company to settle a lawsuit that claimed social media platforms are harmful to children and young adults. The company has reached a &#8220;tentative&#8221; agreement in a case that was set to go to trial later this month. TikTok recently settled its portion of the case with the plaintiff, known [&#8230;]",
-      "published": "2026-07-21T14:54:19+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Snap досягла попередньої домовленості у справі щодо шкоди соціальних мереж для дітей та підлітків. Раніше подібну угоду підписав TikTok, намагаючись уникнути повноцінного судового розгляду.",
-      "ai_title": "Snap слідом за TikTok врегулювала судовий позов щодо залежності від соцмереж",
-      "video_keywords": "smartphone, teenager, courtroom, social media icon"
-    },
-    {
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-      "published": "2026-07-21T15:37:05+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Міністерство фінансів США заявило про можливі санкції проти китайських відкритих моделей штучного інтелекту. Це рішення є частиною ширшої стратегії адміністрації США, спрямованої на стримування розвитку технологій у Китаї та захист авторських прав.",
-      "ai_title": "США погрожують санкціями проти китайських ШІ-моделей через крадіжку інтелектуальної власності",
-      "video_keywords": "server room, data center, microchip, computer screen"
-    },
-    {
-      "title": "Instagram now lets you swap out the music in your old posts",
-      "link": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
-      "summary": "With the new \"Replace Audio\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact.",
-      "published": "2026-07-21T16:15:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий інструмент \"Replace Audio\" дає змогу користувачам оновлювати музичний супровід у вже опублікованих постах. При цьому всі лайки, коментарі, поширення та загальне охоплення публікації залишаються незмінними.",
-      "ai_title": "Instagram дозволив змінювати музику в старих публікаціях",
-      "video_keywords": "smartphone screen, typing text, scrolling feed, young woman"
-    },
-    {
-      "title": "Threads rolls out parental supervision tools",
-      "link": "https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/",
-      "summary": "With the new tools, parents and guardians will be able to view their teen's time spent on Threads, set daily time limits, adjust sleep mode, and manage their privacy settings.",
-      "published": "2026-07-21T16:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа впроваджує нові функції безпеки для підлітків та їхніх опікунів. Відтепер батьки можуть відстежувати час перебування в додатку, встановлювати щоденні ліміти, налаштовувати нічний режим та керувати конфіденційністю.",
-      "ai_title": "Соціальна мережа Threads запускає інструменти батьківського контролю",
-      "video_keywords": "parent and teenager, looking at smartphone, digital tablet, living room"
-    },
-    {
-      "title": "Light made a flip phone — it’s colorful and it’s cheap",
-      "link": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
-      "summary": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over 20 years later, the flip phone is relevant again.",
-      "published": "2026-07-21T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Співзасновник компанії Light долучився до створення яскравої та бюджетної розкладайки. Автори проєкту зазначають, що через 20 років класичні мобільні телефони знову повертають свою актуальність на ринку.",
-      "ai_title": "Створено новий яскравий та доступний телефон-розкладайку",
-      "video_keywords": "flip phone, opening phone, vintage mobile, colorful device"
-    },
     {
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
       "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
@@ -1422,19 +1341,59 @@
       "ai_summary": "Компанія Ford стала першим автовиробником, який використав нові інструменти розробника для інтеграції навігації Apple Maps безпосередньо в мультимедійну систему своїх майбутніх електромобілів. Це партнерство має на меті покращити цифрові можливості водіїв та забезпечити більш плавний зв'язок між смартфоном і автомобілем.",
       "ai_title": "Ford інтегрує карти Apple у свої нові електромобілі",
       "video_keywords": "car dashboard, touch screen, maps navigation, electric vehicle"
+    },
+    {
+      "title": "Google will now let you sign in to your account with a selfie video",
+      "link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/",
+      "summary": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer.",
+      "published": "2026-07-23T16:01:03+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Технологічний гігант запроваджує новий спосіб авторизації через відеоселфі. Це допоможе користувачам відновити доступ до акаунта, якщо вони втратили телефон чи комп'ютер.",
+      "ai_title": "Google дозволить входити в акаунт за допомогою відеоселфі",
+      "video_keywords": "person looking at smartphone, facial recognition, biometric scan, mobile phone selfie"
+    },
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "published": "2026-07-23T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Etched розробила нові чіпи для прискорення штучного інтелекту без використання графічних процесорів (GPU). Стартап зміг залучити великих інвесторів попри скептицизм ринку.",
+      "ai_title": "Стартап зі створення ШІ-чіпів Etched досяг оцінки в $10,3 мільярда",
+      "video_keywords": "microchip manufacturing, computer hardware, circuit board, modern laboratory"
+    },
+    {
+      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "link": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
+      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.",
+      "published": "2026-07-23T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа Imagi залучила фінансування від низки венчурних фондів та відомого артиста Will.i.am. Стартап допомагає учням освоювати кодування в інтерактивній формі.",
+      "ai_title": "Освітня платформа залучила $4,5 мільйона на навчання програмуванню",
+      "video_keywords": "children using laptops, coding on computer, classroom technology, student learning"
+    },
+    {
+      "title": "Nvidia is sending GPUs to the moon",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "published": "2026-07-23T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Nvidia готує до запуску місію з доставки графічних процесорів у позаземний простір. Чіпи вирушать на Місяць у межах нового космічного проєкту.",
+      "ai_title": "Nvidia відправляє свої графічні процесори на Місяць",
+      "video_keywords": "space rocket launch, moon surface, computer processor in space, astronaut in suit"
+    },
+    {
+      "title": "Amazon is bringing games to Prime Video",
+      "link": "https://techcrunch.com/2026/07/23/amazon-is-bringing-games-to-prime-video/",
+      "summary": "Amazon is hoping the addition of games can turn Prime Video into a one-stop entertainment destination, borrowing a strategy from Netflix, which has increasingly embraced party games over the past several years.",
+      "published": "2026-07-23T14:49:05+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Amazon вирішила розширити можливості Prime Video за допомогою інтеграції відеоігор. Стратегія покликана перетворити стримінговий сервіс на універсальну розважальну платформу за прикладом Netflix.",
+      "ai_title": "Amazon додає відеоігри у свій сервіс Prime Video",
+      "video_keywords": "person holding game controller, playing video games on tv, streaming entertainment, living room couch"
     }
   ],
   "Крипта": [
-    {
-      "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
-      "link": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
-      "summary": "",
-      "published": "2026-07-21T14:27:03+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінтех-стартап Augustus отримав значне фінансування для розробки інфраструктури, що об'єднає можливості штучного інтелекту та стейблкоїнів. Проєкт прагне спростити фінансові транзакції, зробивши їх такими ж швидкими та доступними, як надсилання електронної пошти.",
-      "ai_title": "Augustus залучив $180 мільйонів для створення розрахункового банку майбутнього",
-      "video_keywords": "bank building, futuristic office, data center, digital interface"
-    },
     {
       "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
       "link": "https://www.coindesk.com/tech/2026/07/21/claude-s-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitcoin",
@@ -1456,16 +1415,6 @@
       "video_keywords": "quantum computer, futuristic server, cyber security, lock glowing"
     },
     {
-      "title": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
-      "link": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
-      "summary": "",
-      "published": "2026-07-21T15:19:44+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Російський парламент ухвалив закон про регулювання крипторинку, який встановлює річний ліміт витрат для роздрібних інвесторів на рівні 3800 доларів. Нові правила покликані контролювати обіг цифрових активів у країні.",
-      "ai_title": "У Росії легалізували крипторинок із жорстким лімітом для простих інвесторів",
-      "video_keywords": "russian parliament, official building, meeting room, gaveling"
-    },
-    {
       "title": "BIS warns stablecoins could weaken capital controls in emerging markets",
       "link": "https://cointelegraph.com/news/bis-study-says-stablecoins-bypass-capital-controls-more-easily-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS warns stablecoins could weaken capital controls in emerging markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-significance-of-bis-statement-that-fiat-and-stablecoins-can-co-exist.jpg\" /></p><p>Researchers found dollar-backed stablecoins are less affected by capital con",
@@ -1474,16 +1423,6 @@
       "ai_summary": "Експерти БМР заявляють, що популярні доларові стейблкоїни здатні підірвати традиційний контроль капіталу в країнах із ринками, що розвиваються. Це створює нові ризики для фінансової стабільності національних валют.",
       "ai_title": "Банк міжнародних розрахунків попередив про загрозу стейблкоїнів для ринків, що розвиваються",
       "video_keywords": "global map, financial crisis, stock market graphs, digital currency"
-    },
-    {
-      "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
-      "link": "https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-crypto-price-rise-step-growth-stairs-ladder-investment-western-union.png\" /></p><p>Bitcoin and crypto joined US stocks in brushing off US-Iran war escalat",
-      "published": "2026-07-21T15:14:37+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютний ринок та Біткоїн демонструють стійкість, ігноруючи загострення конфлікту на Близькому Сході та нові плани щодо мит від Трампа. Курс активу стрімко наближається до найвищих показників за останній місяць.",
-      "ai_title": "Біткоїн підбирається до семитижневого максимуму попри геополітичні ризики",
-      "video_keywords": "bitcoin chart, rising graph, financial trading screen, bull market"
     },
     {
       "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal and strategic overhaul",
@@ -1514,16 +1453,6 @@
       "ai_summary": "Курс біткоїна піднявся до семитижневого максимуму вище 66 000 доларів. Це сталося після появи повідомлень про досягнення компромісу з Білим домом щодо ключових етичних положень нового регуляторного закону.",
       "ai_title": "Білий дім погодив етичні норми у законопроєкті про структуру кринкоринку",
       "video_keywords": "white house exterior, politicians meeting, handshake, legal document"
-    },
-    {
-      "title": "MEXC adds Bittensor TAO staking for its global user base",
-      "link": "https://cointelegraph.com/news/mexc-adds-bittensor-tao-staking-for-its-global-user-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MEXC adds Bittensor TAO staking for its global user base\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-staking-explained.png\" /></p><p>The integration with validator Yuma gives millions of MEXC users access to Bittensor, an AI-focused blockchain whose ecosystem now spans 128 specialized s",
-      "published": "2026-07-21T15:53:08+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Глобальні користувачі біржі MEXC тепер мають прямий доступ до стейкінгу AI-токена TAO завдяки інтеграції з валідатором Yuma. Це розширює можливості пасивного заробітку на стику блокчейну та штучного інтелекту.",
-      "ai_title": "Біржа MEXC запустила стейкінг для токенів Bittensor (TAO)",
-      "video_keywords": "cryptocurrency trading platform, smartphone screen, digital coins, tech interface"
     },
     {
       "title": "Pavel Durov says Telegram to roll out native Gram crypto wallet",
@@ -2244,6 +2173,46 @@
       "ai_summary": "Експерти інвестиційної компанії позитивно оцінюють перспективи сектору видобутку біткоїна завдяки співпраці з енергетичними компаніями. Інфраструктура майнінгових ферм стає критично важливою для забезпечення енергією центрів обробки даних штучного інтелекту. Такі партнерства допомагають вирішувати проблеми з нестачею електроенергії.",
       "ai_title": "Аналітики Bernstein вважають угоди майнерів спасінням для енергокризового штучного інтелекту",
       "video_keywords": "server racks, power station, industrial power lines, glowing microchips"
+    },
+    {
+      "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
+      "link": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
+      "summary": "",
+      "published": "2026-07-23T15:36:39+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Комісія з цінних паперів і бірж США врегулювала суперечку з біржею Coinbase. Предметом обговорення були втрачені текстові повідомлення колишнього очільника регулятора Гері Генслера.",
+      "ai_title": "SEC досягла мирової угоди з Coinbase щодо зниклих повідомлень Гері Генслера",
+      "video_keywords": "courtroom, legal document, businessman, office desk"
+    },
+    {
+      "title": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
+      "link": "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules",
+      "summary": "",
+      "published": "2026-07-23T13:53:19+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керівник інвестиційного гіганта Goldman Sachs висловився на підтримку нового законопроєкту про криптовалюти. Це сталося попри побоювання традиційного банківського сектору щодо майбутніх правил регулювання стейблкоїнів.",
+      "ai_title": "Голова Goldman Sachs підтримав закон Clarity Act попри занепокоєння банків",
+      "video_keywords": "skyscraper, businessman, handshake, financial district"
+    },
+    {
+      "title": "Fears of AI-driven DeFi hack epidemic overstated for now — but not for long",
+      "link": "https://cointelegraph.com/magazine/ai-hasnt-unleashed-a-defi-hackpocalypse-but-its-making-every-weakness-more-dangerous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fears of AI-driven DeFi hack epidemic overstated for now — but not for long \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-ai-driven-hacks-are-testing-whether-defi-can-still-be-trusted.jpg\" /></p><p>Are the fears of an AI driven hacking epidemic totally overblown, or is this just the ",
+      "published": "2026-07-23T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Експерти зазначають, що побоювання щодо епідемії хакерських атак на децентралізовані фінанси за участю штучного інтелекту наразі перебільшені. Проте аналітики попереджають, що ситуація може швидко змінитися в майбутньому.",
+      "ai_title": "Загроза масових зломів DeFi за допомогою штучного інтелекту поки перебільшена",
+      "video_keywords": "matrix code, cyber security, computer screen, hacker"
+    },
+    {
+      "title": "Strategy-led group pledges $15M to quantum-proof Bitcoin network",
+      "link": "https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy-led group pledges $15M to quantum-proof Bitcoin network\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-who-is-michael-j-saylor-quantum-computer-1.jpg\" /></p><p>A consortium led by Strategy and BlackRock has pledged $15 million to secure the Bitcoin network from the threat of a qua",
+      "published": "2026-07-23T13:03:18+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Консорціум за підтримки великих інвестиційних фондів пообіцяв направити 15 мільйонів доларів на забезпечення безпеки мережі Біткоїн. Головна мета — захистити криптовалюту від потенційних загроз з боку майбутніх квантових комп'ютерів.",
+      "ai_title": "Інвестори виділили 15 мільйонів доларів на захист Біткоїна від квантових комп'ютерів",
+      "video_keywords": "quantum computer, futuristic server, microchip, glowing cables"
     }
   ]
 }
