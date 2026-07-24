@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "link": "https://unlayer.com",
-      "summary": "<p>Hi HN, We’re Adeel and Umair, co-founders of Unlayer (<a href=\"https://unlayer.com/\">https://unlayer.com/</a>). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.<p>Here’s a de",
-      "published": "2026-07-22T16:02:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники запустили платформу Unlayer, яка дозволяє додавати створення електронних листів, вебсторінок та документів без необхідності будувати власний редактор. Інструмент підтримує роботу через код, візуальний інтерфейс або за допомогою штучного інтелекту.",
-      "ai_title": "Unlayer дозволяє легко інтегрувати конструктори контенту у ваші застосунки",
-      "video_keywords": "software development, typing code, computer screen, dashboard"
-    },
-    {
-      "title": "OpenAI Presence",
-      "link": "https://openai.com/index/introducing-openai-presence/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-openai-presence/\">https://openai.com/index/introducing-openai-presence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008089\">https://news.ycombinator.com/item?id=49008089</a></p>\n<p>Points: 39</p>\n<p># Comments: 16</p>",
-      "published": "2026-07-22T15:12:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI опублікувала інформацію про новий проєкт чи ініціативу під назвою OpenAI Presence. Деталі розкривають нові можливості взаємодії користувачів із сучасними моделями штучного інтелекту.",
-      "ai_title": "OpenAI представила концепцію OpenAI Presence",
-      "video_keywords": "artificial intelligence, futuristic interface, glowing lights, server room"
-    },
-    {
-      "title": "How the Galaxy Z Fold 8 and Z Flip 8 phones compare",
-      "link": "https://www.theverge.com/gadgets/968682/samsung-galaxy-z-fold-flip-8-specs-features-hardware-comparison",
-      "summary": "Samsung's latest round of folding Galaxy Z phones and updated smartwatches were announced at its July 2026 Unpacked event and set to launch on August 7th. The Galaxy Z Flip 8, Fold 8, and Fold 8 Ultra don't seem geared toward people who bought last year's model; Aside from a few design updates and AI [&#8230;]",
-      "published": "2026-07-22T15:47:10+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Samsung офіційно анонсувала нове покоління складаних пристроїв та оновлені смартгодинники на події Unpacked. Новинки отримали покращений дизайн та розширені можливості штучного інтелекту.",
-      "ai_title": "Samsung презентувала нові складані смартфони Galaxy Z Fold 8 та Z Flip 8",
-      "video_keywords": "folding smartphone, modern gadget, touchscreen, unboxing"
-    },
-    {
-      "title": "Philips’ new smart toothbrush shows you where you didn’t properly brush",
-      "link": "https://www.theverge.com/tech/969271/philip-sonicare-next-generation-diamondclean-9900-prestige-ai-electric-toothbrush",
-      "summary": "The latest addition to Philips' Sonicare line of smart electric toothbrushes could take the guesswork out of your brushing routine. The Next-Generation DiamondClean 9900 Prestige uses a third-generation AI model to provide real-time feedback on how you're brushing through a glowing ring on its base, while a touchscreen highlights areas of your mouth that may [&#8230;]",
-      "published": "2026-07-22T15:09:44+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Philips випустила смартщітку Sonicare DiamondClean 9900 Prestige із новим алгоритмом штучного інтелекту. Пристрій надає користувачам зворотний зв'язок у реальному часі про пропущені зони під час чищення зубів.",
-      "ai_title": "Нова зубна щітка Philips використовує ШІ для аналізу якості чищення",
-      "video_keywords": "smart toothbrush, bathroom sink, daily routine, person brushing teeth"
-    },
-    {
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "link": "https://github.com/marcelroed/gigatoken/",
       "summary": "<p>Article URL: <a href=\"https://github.com/marcelroed/gigatoken/\">https://github.com/marcelroed/gigatoken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010167\">https://news.ycombinator.com/item?id=49010167</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
@@ -49,16 +9,6 @@
       "ai_summary": "Розроблено новий метод токенізації під назвою GigaToken, який працює приблизно в 1000 разів швидше за поточні аналоги. Це суттєво оптимізує процеси підготовки даних для сучасних великих мовних моделей.",
       "ai_title": "GigaToken: значне прискорення токенізації в мовних моделях",
       "video_keywords": "computer code, fast typing, matrix screen, data stream"
-    },
-    {
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "link": "https://cruciblebench.ai/",
-      "summary": "<p>I'm the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We've spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits.<p>Our experiment did have an interesting leaderboard but even more surprising wa",
-      "published": "2026-07-22T15:39:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники створили бюджетний експеримент вартістю 99 доларів, використовуючи текстові рольові ігри у стилі MUD із 1970-х років. Такий підхід дозволяє ефективно тестувати та оцінювати рівень розвитку сучасних LLM.",
-      "ai_title": "Оцінка можливостей штучного інтелекту за допомогою текстових ігор",
-      "video_keywords": "retro computer, vintage keyboard, neon text, arcade screen"
     },
     {
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
@@ -71,26 +21,6 @@
       "video_keywords": "mathematical formulas, whiteboard, scientist writing, glowing equations"
     },
     {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "link": "https://bento.page/slides/",
-      "summary": "<p>Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and s",
-      "published": "2026-07-22T15:19:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий інструмент для створення презентацій, який вміщує весь функціонал PowerPoint — включно з анімаціями, переглядом та редагуванням — в єдиний компактний HTML-файл. Проєкт створено за допомогою сучасних вебтехнологій та AI-асистентів.",
-      "ai_title": "Bento: Презентації PowerPoint в одному файлі HTML",
-      "video_keywords": "web design, laptop screen, digital presentation, ui interface"
-    },
-    {
-      "title": "Show HN: Web swing through midtown NYC",
-      "link": "https://www.swingnyc.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.swingnyc.com/\">https://www.swingnyc.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49009324\">https://news.ycombinator.com/item?id=49009324</a></p>\n<p>Points: 38</p>\n<p># Comments: 15</p>",
-      "published": "2026-07-22T16:25:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили захопливий вебпроєкт, який дозволяє користувачам віртуально літати на павутині вулицями середмістя Нью-Йорка прямо у браузері. Цей інтерактивний симулятор демонструє високі можливості сучасних вебтехнологій та 3D-графіки.",
-      "ai_title": "Інтерактивний веб-симулятор польоту на павутині над Нью-Йорком",
-      "video_keywords": "new york city, skyline, web browser, skyscraper"
-    },
-    {
       "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
       "link": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
       "summary": "Code found in an iOS 27 beta would allow Apple to put a financed iPhone in \"Restricted Mode\" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier this week claiming Apple is preparing to launch a new \"Apple Upgrade\" financing program for leasing new devices. iPhones in \"Restricted [&#8230;]",
@@ -99,26 +29,6 @@
       "ai_summary": "У бета-версії iOS виявили код, який дозволяє Apple переводити пристрої у спеціальний обмежений режим у разі пропуску платежів за кредитом. Така функція може стати частиною нової програми лізингу та фінансування гаджетів від компанії.",
       "ai_title": "Apple готує функцію блокування iPhone у разі несплати розстрочки",
       "video_keywords": "smartphone screen, credit card, shopping mall, digital padlock"
-    },
-    {
-      "title": "Apple is reportedly testing a MacBook Neo with more RAM",
-      "link": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
-      "summary": "Following the MacBook Neo's huge popularity so far, Apple is reportedly developing an updated version of its budget laptop with a new processor and more memory, and even has plans to refresh the model with new colors. Following a similar report from analyst Tim Culpan earlier this year, Bloomberg's Mark Gurman says the new Neo [&#8230;]",
-      "published": "2026-07-22T16:35:58+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після успіху першої моделі бюджетного ноутбука Apple готує оновлену версію пристрою. Окрім збільшеної кількості оперативної пам'яті, гаджет отримає новий процесор та розширену палітру кольорів корпусу.",
-      "ai_title": "Apple тестує новий бюджетний MacBook Neo з більшим обсягом оперативної пам'яті",
-      "video_keywords": "laptop typing, modern desk, office workspace, technology product"
-    },
-    {
-      "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
-      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The glasses, developed in collaboration with Google and the eyewear brands Gentle Monster and Warby Parker, are due to launch this fall. [&#8230;]",
-      "published": "2026-07-22T16:35:34+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Samsung вперше продемонструвала зовнішній вигляд та ключові характеристики нових смарт-окулярів, створених у партнерстві з Google. Гаджет отримав вражаючий час автономної роботи до 9 годин та з'явиться у продажу вже цієї осені.",
-      "ai_title": "Samsung показала дизайн та характеристики своїх майбутніх розумних окулярів",
-      "video_keywords": "smart glasses, wearable tech, augmented reality, futuristic device"
     },
     {
       "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
@@ -787,29 +697,59 @@
       "ai_summary": "Білий дім оголосив про старт ініціативи «Genesis Mission», спрямувавши мільярди доларів на сотні досліджень під керівництвом штучного інтелекту. Масштаб проєкту порівнюють із відомим «Мангеттенським проєктом».",
       "ai_title": "Адміністрація США виділила 5 мільярдів доларів на наукові проєкти з ШІ",
       "video_keywords": "white house, politician speaking, press conference, washington dc"
+    },
+    {
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "link": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "summary": "<p>Article URL: <a href=\"https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece\">https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece</a></p>\n<p>Comments URL: <a href=\"https://news.yco",
+      "published": "2026-07-24T14:41:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Через міркування безпеки урядові органи наказали платформі GitHub видалити децентралізований месенджер Bitchat, який працює через Bluetooth. Про це повідомив засновник платформи Джек Дорсі, що викликало нову хвилю дискусій про свободу софту та цензуру.",
+      "ai_title": "Уряд вимагає від GitHub видалити Bluetooth-месенджер",
+      "video_keywords": "smartphone, bluetooth, mobile screen, app notification"
+    },
+    {
+      "title": "Tesla’s car door defect could lead to tougher rules for everyone",
+      "link": "https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules",
+      "summary": "Tesla's electronic door handles that have been linked to several deaths could lead to tougher safety rules for the entire auto industry. In a notice published today, the National Highway Traffic Safety Administration said that complaints about Tesla's mechanical door release don't warrant a defect investigation. Instead, the issue is better addressed through a broader [&#8230;]",
+      "published": "2026-07-24T15:14:04+00:00",
+      "source": "The Verge",
+      "ai_summary": "Електронні ручки автомобілів Tesla, які раніше пов'язували з нещасними випадками, можуть стати причиною введення жорсткіших стандартів безпеки для всієї автомобільної галузі. Національна адміністрація безпеки дорожнього руху розглядає ширші регуляторні заходи для вирішення цієї проблеми з механізмами відкриття.",
+      "ai_title": "Проблема з дверцятами Tesla може змінити правила безпеки авто",
+      "video_keywords": "car door, vehicle safety, electronic handle, automotive testing"
+    },
+    {
+      "title": "The front end framework for correctness: built on Effect, architected like Elm",
+      "link": "https://foldkit.dev/",
+      "summary": "<p>Article URL: <a href=\"https://foldkit.dev/\">https://foldkit.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49037031\">https://news.ycombinator.com/item?id=49037031</a></p>\n<p>Points: 30</p>\n<p># Comments: 12</p>",
+      "published": "2026-07-24T15:24:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили новий фронтенд-фреймворк, створений на базі Effect та архітектурно подібний до Elm. Проєкт націлений на підвищення надійності вебдодатків та спрощення написання безпомилкового коду.",
+      "ai_title": "Новий вебфреймворк для надійного коду",
+      "video_keywords": "coding, programmer working, computer monitor, lines of code"
+    },
+    {
+      "title": "Writing a Debugger from Scratch",
+      "link": "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/",
+      "summary": "<p>Article URL: <a href=\"https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/\">https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49035864\">https://news.ycombinator.com/item?id=49035864</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-24T14:06:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Опубліковано детальний технічний посібник про те, як самостійно написати власний відладчик програмного забезпечення (debugger) з перших рядків коду. Матеріал глибоко занурює у внутрішню будову системного програмування та роботу низькорівневих інструментів.",
+      "ai_title": "Створення відладчика коду з нуля",
+      "video_keywords": "software development, programming code, dual monitor, developer typing"
+    },
+    {
+      "title": "WebGPU Unleashed: A Practical Tutorial",
+      "link": "https://shi-yan.github.io/webgpuunleashed/",
+      "summary": "<p>Article URL: <a href=\"https://shi-yan.github.io/webgpuunleashed/\">https://shi-yan.github.io/webgpuunleashed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49035845\">https://news.ycombinator.com/item?id=49035845</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-24T14:04:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився новий всеосяжний туторіал для розробників, присвячений технології WebGPU. Він допомагає освоїти сучасну графіку та швидкісні обчислення прямо у веббраузері на практичних прикладах.",
+      "ai_title": "Практичний посібник з WebGPU",
+      "video_keywords": "computer graphics, 3d rendering, screen display, software coding"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-      "published": "2026-07-22T16:13:30+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія OpenAI планує інвестувати у розвиток інфраструктури суму, яка дорівнює ВВП Швеції, і ці витрати розраховані до 2030 року. Такий масштаб фінансування демонструє колосальні потреби ринку штучного інтелекту в обчислювальних потужностях.",
-      "ai_title": "Витрати OpenAI на інфраструктуру сягнули астрономічних 750 мільярдів доларів",
-      "video_keywords": "server rack, data center, blinking lights, modern technology"
-    },
-    {
-      "title": "If you pay a hacker’s ransom, chances are that they’ll come back for more",
-      "link": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
-      "summary": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
-      "published": "2026-07-22T15:29:41+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Дослідники кібербезпеки нагадують, що переговори з кіберзлочинцями не мають сенсу, оскільки вони майже завжди повертаються за новими виплатами. Злочинці не зацікавлені в дотриманні домовленостей після отримання грошей.",
-      "ai_title": "Викуп даних хакерам: чому платити вимагачам марно",
-      "video_keywords": "hacker typing keyboard, dark room, glowing code screen, cyber attack"
-    },
     {
       "title": "Monday.com lays off hundreds to focuses on AI",
       "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
@@ -829,16 +769,6 @@
       "ai_summary": "Компанія випустила нову функцію, яка дозволяє користувачам бездротовим шляхом передавати значно більші обсяги даних зі старого iPhone на новий Android-смартфон. Процес тепер не потребує завантаження додаткових сторонніх додатків.",
       "ai_title": "Google спростив перехід з iPhone на Android",
       "video_keywords": "smartphone screen, mobile phone, touching screen, setting up phone"
-    },
-    {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-      "published": "2026-07-22T16:24:08+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На тлі зростаючої популярності китайських розробок серед американських компаній експерти заявляють, що вони не несуть прихованої загрози. Це створює нові дискусії в США щодо майбутнього регулювання та конкуренції у сфері штучного інтелекту.",
-      "ai_title": "Американська AI-лабораторія Arcee закликає не боятися китайських моделей",
-      "video_keywords": "server racks, data center, futuristic technology, digital code"
     },
     {
       "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
@@ -1289,79 +1219,49 @@
       "ai_summary": "Настільний застосунок ChatGPT отримав новий голосовий режим. Він інтегрується з робочими інструментами та агентами для виконання повсякденних завдань.",
       "ai_title": "ChatGPT на десктопах тепер розуміє голос",
       "video_keywords": "person talking microphone, computer desktop screen, modern office workspace"
+    },
+    {
+      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
+      "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "summary": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
+      "published": "2026-07-24T16:11:56+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Проєкт Сема Альтмана, який сканує очі людей для створення унікальних цифрових ідентифікаторів, отримав нове фінансування. Кошти вдалося залучити завдяки успішному продажу криптовалюти.",
+      "ai_title": "Біометричний стартап Сема Альтмана World залучив $52,5 мільйона через продаж криптовалюти",
+      "video_keywords": "futuristic scanner, eyeball scanning, biometric eye, digital iris"
+    },
+    {
+      "title": "Rivian sues the US government for ‘full refund’ of Trump tariffs",
+      "link": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/",
+      "summary": "The automaker joins a long line of companies seeking such refunds. In April, Rivian CFO Claire McDonough said she expected the company stood to reap a refund in the \"tens of millions of dollars.\"",
+      "published": "2026-07-24T15:16:31+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Rivian приєдналася до низки інших корпорацій, які вимагають повного відшкодування тарифів. Фіндиректорка компанії раніше заявляла, що йдеться про десятки мільйонів доларів.",
+      "ai_title": "Виробник електромобілів Rivian судиться з урядом США через мита часів Трампа",
+      "video_keywords": "electric car factory, courtroom judge, signing documents, industrial warehouse"
+    },
+    {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+      "published": "2026-07-24T15:13:57+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Користувачі тепер можуть ставити асистенту запитання щодо свіжих новин, трендів та обговорень у соцмережі Bluesky. Інструмент працює на базі протоколу AT та охоплює інші сумісні додатки.",
+      "ai_title": "ШІ-асистент Attie від Bluesky перетворився на відкритий інструмент для соціальних досліджень",
+      "video_keywords": "smartphone screen, social media feed, typing on phone, digital network"
+    },
+    {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+      "published": "2026-07-24T15:09:55+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Midjourney активно розширює свій вплив за межі генерації картинок та відео. Новим придбанням став популярний додаток з астрології Co-Star.",
+      "ai_title": "Розробник генеративного штучного інтелекту Midjourney придбав астрологічний застосунок Co-Star",
+      "video_keywords": "mobile app screen, futuristic technology, digital art studio, modern office"
     }
   ],
   "Крипта": [
-    {
-      "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
-      "link": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
-      "summary": "",
-      "published": "2026-07-22T15:53:54+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінтех-гігант Revolut продемонстрував стрімке зростання під час продажу акцій співробітниками. Завдяки цьому ринкова вартість компанії сягнула вражаючої позначки у 115 мільярдів доларів.",
-      "ai_title": "Оцінка Revolut досягла $115 мільярдів",
-      "video_keywords": "smartphone app, financial district, business handshake, stock exchange"
-    },
-    {
-      "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
-      "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
-      "summary": "",
-      "published": "2026-07-22T15:37:36+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Представниця Комісії з цінних паперів і бірж США Гестер Пірс заявила, що деякі DeFi-протоколи та платформи ончейн-кредитування можуть підпадати під суворе регулювання як цінні папери. Це створює нові правові виклики для ринку децентралізованих фінансів.",
-      "ai_title": "SEC попереджає про ризики для DeFi та ончейн-кредитування",
-      "video_keywords": "computer screen, financial charts, businessman working, legal document"
-    },
-    {
-      "title": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
-      "link": "https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Chamber sues Illinois officials over new state 0.2% crypto tax\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/lawsuit-litigation-court-tax.png\" /></p><p>The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be b",
-      "published": "2026-07-22T16:28:10+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Digital Chamber подала позов проти чиновників штату Іллінойс через запровадження спірного податку на криптотранзакції у розмірі 0,2%. На думку позивачів, цей закон є дискримінаційним щодо користувачів цифрових активів.",
-      "ai_title": "Асоціація Digital Chamber судиться через новий податок на крипту в Іллінойсі",
-      "video_keywords": "courtroom gavel, courthouse exterior, lawyer speaking, legal paperwork"
-    },
-    {
-      "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
-      "link": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitGo, OTC Markets plan tokenized securities access for broker-dealers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/handshake-agreement-partnership-merger.png\" /></p><p>The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC L",
-      "published": "2026-07-22T16:10:22+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанії BitGo та OTC Markets оголосили про партнерство задля надання брокерам-дилерам доступу до токенізованих активів. Нова ініціатива дозволить понад 150 фінансовим посередникам торгувати цифровими цінними паперами.",
-      "ai_title": "BitGo та OTC Markets готують доступ до токенізованих цінних паперів",
-      "video_keywords": "business meeting, handshake, computer trading terminals, modern office"
-    },
-    {
-      "title": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price avoids major Iran jitters as S&amp;P 500 ‘short squeeze’ on horizon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-we-talk-to-industry-participants.jpg\" /></p><p>Bitcoin and US stocks stayed strong in the face of US-Iran escalation as analysis predicted B",
-      "published": "2026-07-22T15:55:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Курс біткоїна та американські фондові індекси демонструють стійкість попри ескалацію напруженості між США та Іраном. Трейдери продовжують стежити за ринковими тенденціями на тлі прогнозованих рухів на біржі.",
-      "ai_title": "Біткоїн утримав позиції на тлі геополітичної напруги",
-      "video_keywords": "bitcoin coins, digital currency charts, stock market ticker, city skyline background"
-    },
-    {
-      "title": "SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws",
-      "link": "https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-staking-lending-service.png\" /></p><p>The SEC commissioner said crypto vaults, onchain lending products and other asset management tools may trigger",
-      "published": "2026-07-22T17:39:57+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Комісарка SEC заявила, що криптосховища, продукти для ончейн-кредитування та інші інструменти управління активами можуть підпадати під дію суворих законів про цінні папери. Це створить нові регуляторні виклики для учасників ринку децентралізованих фінансів.",
-      "ai_title": "SEC планує поширити закони про цінні папери на криптосховища та ончейн-кредитування",
-      "video_keywords": "financial documents, digital tablet, stock market graph, handcuffs"
-    },
-    {
-      "title": "UK digital bond plans hinge on one missing piece: onchain cash",
-      "link": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
-      "summary": "",
-      "published": "2026-07-22T15:36:49+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Успіх ініціативи Великої Британії з випуску цифрових облігацій наразі гальмується відсутністю стабільних та законодавчо врегульованих розрахунків усередині блокчейну. Для повноцінного запуск ринку країні необхідно вирішити питання ончейн-ліквідності.",
-      "ai_title": "Британські плани щодо цифрових облігацій залежать від блокчейн-готівки",
-      "video_keywords": "digital currency, computer screen, financial data, futuristic banking"
-    },
     {
       "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
       "link": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2111,6 +2011,26 @@
       "ai_summary": "Розробка дорожньої карти для захисту біткоїна від ризиків квантових обчислень може спричинити стрімке зростання його ціни. На думку експерта Чарльза Едвардса, вартість першої криптовалюти здатна підскочити на двозначні показники.",
       "ai_title": "План захисту від квантових комп'ютерів здатен суттєво підняти ціну біткоїна",
       "video_keywords": "quantum computer, server rack, glowing microchip, futuristic technology"
+    },
+    {
+      "title": "Crypto Biz: Is the AI-to-crypto rotation underway?",
+      "link": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Is the AI-to-crypto rotation underway?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sad-bitcoin-delayed.jpg\" /></p><p>Bitcoin ETF inflows, cooling AI momentum and potential regulatory progress under the CLARITY Act are fueling speculation that capital is rotating back into crypt",
+      "published": "2026-07-24T15:15:57+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Зростання притоку коштів у біткоїн-ETF, охолодження інтересу до ШІ та можливі регуляторні зміни посилюють чутки про повернення інвесторів на ринок криптовалют. Аналітики обговорюють потенційну зміну ринкових трендів та перерозподіл капіталу між цими секторами.",
+      "ai_title": "Чи перетікає капітал з штучного інтелекту в крипту?",
+      "video_keywords": "cryptocurrency trading, stock market charts, financial graphs, computer screen"
+    },
+    {
+      "title": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
+      "link": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-fundraising-ripple-a-beginners-guide-on-raising-funds-using-cryptocurrencies.png\" /></p><p>The organization sold locked WLD tokens to strategic investors a",
+      "published": "2026-07-24T15:09:33+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Організація залучила значне фінансування під керівництвом фонду Pantera для розширення інфраструктури проєкту World ID. Інвестиції були залучені через продаж заблокованих токенів WLD стратегічним партнерам.",
+      "ai_title": "World Foundation залучила $52,5 мільйона на розвиток World ID",
+      "video_keywords": "digital identity, biometric scanner, futuristic technology, cyber security"
     }
   ]
 }
