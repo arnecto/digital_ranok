@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Tesla’s revenues are bouncing back after a dismal two years",
-      "link": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
-      "summary": "After a dismal two years of weakening demand, falling sales, and damage to its brand by Elon Musk's political activities, Tesla's road to recovery continues apace. On the heels of an impressive delivery report, the company released its earnings for the second quarter of 2026 - giving us the latest glimpse at the EV company [&#8230;]",
-      "published": "2026-07-22T20:17:46+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після двох складних років падіння продажів та репутаційних втрат через політичну активність Ілона Маска фінансові показники Tesla почали стрімко зростати. Компанія продемонструвала вражаючі результати постачань електромобілів у звіті за другий квартал 2026 року.",
-      "ai_title": "Доходи Tesla відновлюються після дворічного спаду",
-      "video_keywords": "electric car, charging station, modern factory, futuristic vehicle"
-    },
-    {
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "link": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "summary": "<p>Article URL: <a href=\"https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/\">https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013036\">https://news.ycombinator.com/item?id=49013036</a></p>\n<p>Points: 123</p>\n<p># Comments: 22</p>",
-      "published": "2026-07-22T20:33:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник під час аналізу тестового завдання для співбесіди виявив повноцінну шкідливу операцію. Завдання містило приховані git-хуки з шкідливим програмним забезпеченням, що загрожує безпеці розробників.",
-      "ai_title": "Фейкове тестове завдання приховало небезпечний вірус",
-      "video_keywords": "developer typing, code on screen, hacker computer, cybersecurity"
-    },
-    {
       "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
       "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
       "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\">https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013995\">https://news.ycombinator.com/item?id=49013995</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
@@ -39,16 +19,6 @@
       "ai_summary": "Команда WebKit випустила чергове оновлення для розробників — Safari Technology Preview 248. Нова версія містить численні виправлення помилок та покращення сумісності з сучасними вебстандартами. Розробники можуть тестувати нові функції майбутніх версій браузера вже сьогодні.",
       "ai_title": "Вийшов Safari Technology Preview 248",
       "video_keywords": "laptop screen, web browsing, developer hands, finger clicking mouse"
-    },
-    {
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "summary": "<p>Article URL: <a href=\"https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/\">https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012777\">https://news.ycombinator.com/item?id=49012777</a></p>\n<p>Points: 23</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-22T20:16:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти та розробники додали експериментальну підтримку широкої камери смартфона Fairphone 6 в операційній системі Linux. Це крок уперед для екосистеми відкритих мобільних ОС та ентузіастів контролю над власним залізом. Тепер власники пристрою можуть розраховувати на кращу функціональність камери без залежності від пропрієтарного софту.",
-      "ai_title": "Експериментальна підтримка Linux для камери Fairphone 6",
-      "video_keywords": "smartphone repair, circuit board, soldering iron, tech workshop"
     },
     {
       "title": "Meta won’t have to face the next planned social media addiction trial",
@@ -787,29 +757,49 @@
       "ai_summary": "Компанія Anthropic випустила нову модель штучного інтелекту Claude Opus 5. Реліз відбувся на тлі активного обговорення безпеки систем ІІ в індустрії та обіцяє значний прорив у можливостях обробки даних.",
       "ai_title": "Anthropic представила модель Claude Opus 5",
       "video_keywords": "futuristic AI interface, typing on laptop, glowing neural network, tech dashboard"
+    },
+    {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "summary": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/postgres-listen-notify-scalability\">https://www.dbos.dev/blog/postgres-listen-notify-scalability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49040296\">https://news.ycombinator.com/item?id=49040296</a></p>\n<p>Points: 90</p>\n<p># Comments: 16</p>",
+      "published": "2026-07-24T19:05:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нове дослідження показує, що механізм LISTEN/NOTIFY у базах даних Postgres здатний ефективно масштабуватися під високими навантаженнями. Це відкриває нові можливості для створення швидких та реактивних додатків без складних сторонніх брокерів повідомлень.",
+      "ai_title": "Postgres LISTEN/NOTIFY демонструє високу масштабованість",
+      "video_keywords": "server room, data center, flashing lights, computer screen"
+    },
+    {
+      "title": "DJI camera clone company Xtra is halting and refunding all preorders",
+      "link": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
+      "summary": "After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has abruptly removed the new Xtra Muse 2 Pro from its website landing page, is [&#8230;]",
+      "published": "2026-07-24T18:27:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Xtra Technology раптово зупинила продажі та почала повертати кошти за передзамовлення нової камери Xtra Muse 2 Pro. Раніше цей виробник прославився продажем у США практично точної копії популярної камери DJI Osmo Pocket 3.",
+      "ai_title": "Компанія Xtra скасовує передзамовлення на свій клон камери DJI",
+      "video_keywords": "holding camera, unboxing, technology product, hands typing"
+    },
+    {
+      "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
+      "link": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
+      "summary": "In response to a report that Nothing is planning to \"exit 12 markets as global shipments decline,\" Nothing cofounder Akis Evangelidis said the company is \"reorganizing\" and laying off some of its staff, but that \"the reported numbers are way overblown.\" Evangelidis disputed a claim about underwhelming sales for Nothing's Phone 4B, saying it \"sold [&#8230;]",
+      "published": "2026-07-24T18:10:22+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Nothing оголосила про внутрішню реорганізацію та звільнення частини співробітників через глобальне падіння постачань. Водночас керівництво назвало чутки про повний вихід з 12 ринків перебільшеними та фейковими.",
+      "ai_title": "Nothing підтверджує скорочення штату, але заперечує вихід з ринку",
+      "video_keywords": "modern office, business meeting, professional working, stressed worker"
+    },
+    {
+      "title": "Roku raises streaming hardware prices by up to $50",
+      "link": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
+      "summary": "Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as $50. Here's a rundown of the changes: Roku is currently [&#8230;]",
+      "published": "2026-07-24T18:07:19+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Roku підняла вартість своєї лінійки пристроїв для стрімінгу через економічні зміни на ринку. Наприклад, найдешевіший стрімінговий стік тепер коштує майже на третину дорожче, а окремі моделі подорожчали одразу на 50 доларів.",
+      "ai_title": "Roku підвищує ціни на стрімінгові пристрої на суму до 50 доларів",
+      "video_keywords": "living room, television screen, holding remote control, watching tv"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
-      "published": "2026-07-22T20:49:03+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Міністерство фінансів США розглядає можливість введення санкцій проти китайських AI-компаній. Це сталося після звинувачень Білого дому на адресу компанії Moonshot у несанкціонованому копіюванні моделі Fable від Anthropic.",
-      "ai_title": "США погрожують санкціями через крадіжку технологій Anthropic",
-      "video_keywords": "server room, data center, microchip, computer screen"
-    },
-    {
-      "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
-      "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
-      "summary": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
-      "published": "2026-07-22T20:43:38+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Попри зростання доходів на 26%, компанія Ілона Маска зіткнулася зі збільшенням операційних витрат. Запуски нових моделей, зокрема Cybercab та Semi, зсуваються за часовими рамками.",
-      "ai_title": "Витрати Tesla стрімко зростають на тлі затримки нових продуктів",
-      "video_keywords": "electric car assembly line, robotics factory, modern manufacturing, futuristic vehicle"
-    },
     {
       "title": "Google justifies its massive AI spending with a booming cloud business",
       "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
@@ -1279,39 +1269,29 @@
       "ai_summary": "Масове впровадження корпоративних агентів зі штучним інтелектом випередило появу необхідних систем контролю та регулювання. Тепер компанії змушені терміново інвестувати в безпеку та розробку нових стандартів управління.",
       "ai_title": "Бізнес поспіхом наздоганяє правила безпеки для корпоративного ШІ",
       "video_keywords": "business meeting, corporate boardroom, data security, digital dashboard"
+    },
+    {
+      "title": "Waymo reportedly mulling a breakup with Uber",
+      "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+      "summary": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
+      "published": "2026-07-24T20:43:35+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Waymo розглядає можливість припинення співпраці з Uber після завершення чинного контракту у 2028 році. Таке рішення може суттєво вплинути на ринок автономних таксі та майбутні плани обох техногігантів.",
+      "ai_title": "Waymo може розірвати партнерство з Uber",
+      "video_keywords": "autonomous car, driverless taxi, smartphone map, modern city traffic"
+    },
+    {
+      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
+      "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
+      "summary": "The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.",
+      "published": "2026-07-24T19:56:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Прокуратура розсекретила обвинувачення проти інженерів Volkswagen, які нібито використали конфіденційну інформацію про спільне підприємство з Rivian для купівлі акцій. Цей скандал загрожує репутації автоконцерну та розслідується фінансовими регуляторами.",
+      "ai_title": "Інженерів Volkswagen звинуватили в інсайдерській торгівлі через угоду з Rivian",
+      "video_keywords": "stock market trading screen, german flag, digital stock charts, modern office computer"
     }
   ],
   "Крипта": [
-    {
-      "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
-      "link": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
-      "summary": "",
-      "published": "2026-07-22T20:40:24+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Tesla вирішила не продавати свої криптовалютні резерви у звітному періоді. Водночас автовиробник зафіксував паперовий збиток від знецінення активів на суму 112 мільйонів доларів.",
-      "ai_title": "Tesla зберегла свої біткоїн-активи попри збитки",
-      "video_keywords": "electric car charging, stock market chart, computer screen, corporate office"
-    },
-    {
-      "title": "S&P launches blockchain fundamentals index for digital assets",
-      "link": "https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"S&amp;P launches blockchain fundamentals index for digital assets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq-crypto-etf.png\" /></p><p>The benchmark tracks blockchain networks using protocol revenue, offering an alternative to traditional market capitalization-we",
-      "published": "2026-07-22T21:09:59+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Агентство S&P презентувало новий еталонний індекс, який оцінює блокчейн-мережі на основі їхніх реальних прибутків. Цей інструмент покликаний стати альтернативою традиційному аналізу ринкової капіталізації.",
-      "ai_title": "S&P випустив блокчейн-індекс для цифрових активів",
-      "video_keywords": "financial chart, digital network graphic, stock exchange screen, modern office"
-    },
-    {
-      "title": "Crypto PAC pours $1M into Michigan Democratic primary race",
-      "link": "https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC pours $1M into Michigan Democratic primary race\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-polymarket-and-augur-predict-the-next-us-elections-crypto.jpg\" /></p><p>Donavan McKinney, running against Michigan incumbent Shri Thanedar, said that “the crypto lobby is paying my",
-      "published": "2026-07-22T20:38:08+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Політичний комітет, пов'язаний з криптовалютною індустрією, спрямував мільйон доларів у виборчу кампанію в Мічигані. Це викликало запеклі дискусії про вплив криптолобі на американську політику.",
-      "ai_title": "Криптокомітет інвестував мільйон у праймеріз у Мічигані",
-      "video_keywords": "voting booth, ballot box, political campaign, press conference"
-    },
     {
       "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
       "link": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
@@ -2051,6 +2031,16 @@
       "ai_summary": "Огляд найважливіших тенденцій та подій у світі криптовалют, що вплинули на ціну Біткоїна, блокчейн-індустрію, DeFi та сектор Web3. Аналітики підбивають підсумки щоденних коливань ринку та ключових технологічних оновлень.",
       "ai_title": "Головні події на криыторинку за день",
       "video_keywords": "bitcoin chart, cryptocurrency trading, financial graph, digital currency screen"
+    },
+    {
+      "title": "House passes bill on lawmakers using insider information for stock trading",
+      "link": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"House passes bill on lawmakers using insider information for stock trading \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-market-trading-1-breaking-news.jpg\" /></p><p>According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as l",
+      "published": "2026-07-24T20:05:50+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Палата представників ухвалила новий законопроєкт, що регулює використання конгресменами інсайдерської інформації для торгівлі на фондовому ринку. Водночас критики, зокрема сенаторка Елізабет Воррен, вважають цей документ недостатньо ефективним для повного вирішення проблеми.",
+      "ai_title": "Палата представників схвалила законопроєкт щодо інсайдерської торгівлі",
+      "video_keywords": "stock market, trading floor, politicians meeting, financial chart"
     }
   ]
 }
