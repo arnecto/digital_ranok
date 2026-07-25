@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
-      "link": "https://arxiv.org/abs/2507.09369",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2507.09369\">https://arxiv.org/abs/2507.09369</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49029133\">https://news.ycombinator.com/item?id=49029133</a></p>\n<p>Points: 40</p>\n<p># Comments: 23</p>",
-      "published": "2026-07-23T22:51:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Вчені опублікували наукову роботу, що класифікує потенційні апокаліптичні сценарії, пов'язані з розвитком штучного інтелекту. Дослідження детально розглядає ризики, які можуть загрожувати існуванню людства через неконтрольовані технології. Автори намагаються систематизувати ці загрози для кращого розуміння та запобігання майбутнім кризам.",
-      "ai_title": "Таксономія загроз: нове дослідження аналізує ризики знищення людства через штучний інтелект",
-      "video_keywords": "artificial intelligence, futuristic server room, digital warning, data visualization"
-    },
-    {
       "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
       "link": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
       "summary": "<p>Article URL: <a href=\"https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/\">https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49030547\">https://news.ycombinator.com/item?id=49030547</a></p>\n<p>Po",
@@ -629,29 +619,59 @@
       "ai_summary": "Представлено утиліту Awsmux, яка паралельно обробляє команди AWS CLI для сотень акаунтів і регіонів, забезпечуючи значний приріст швидкості. Інструмент також містить вбудований сервер для агентів ШІ, що дозволяє суттєво економити токени та час виконання завдань.",
       "ai_title": "Awsmux: новий інструмент для прискорення мультиакаунтного AWS CLI",
       "video_keywords": "terminal window, command line, digital dashboard, data processing"
+    },
+    {
+      "title": "Kimi K3 built a Windows XP in browser",
+      "link": "https://windows-xp.kimi.site/",
+      "summary": "<p>Article URL: <a href=\"https://windows-xp.kimi.site/\">https://windows-xp.kimi.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052074\">https://news.ycombinator.com/item?id=49052074</a></p>\n<p>Points: 18</p>\n<p># Comments: 11</p>",
+      "published": "2026-07-25T22:03:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники запустили повноцінну роботу легендарної операційної системи Windows XP безпосередньо у веб-переглядачі. Проєкт демонструє можливості сучасних веб-технологій та штучного інтелекту у відтворенні класичного програмного забезпечення.",
+      "ai_title": "Windows XP тепер працює прямо в браузері завдяки Kimi K3",
+      "video_keywords": "computer monitor, retro computer, typing on keyboard, web browser"
+    },
+    {
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/sodium-ion-battery-peak-energy\">https://spectrum.ieee.org/sodium-ion-battery-peak-energy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051947\">https://news.ycombinator.com/item?id=49051947</a></p>\n<p>Points: 58</p>\n<p># Comments: 13</p>",
+      "published": "2026-07-25T21:48:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія GM робить ставку на натрій-іонні акумулятори як перспективне рішення для накопичення енергії в національних електромережах. Ця технологія може зменшити залежність від дефіцитного літію та знизити витрати на зберігання електроенергії.",
+      "ai_title": "General Motors підтримує натрій-іонні батареї для енергомереж США",
+      "video_keywords": "battery pack, industrial warehouse, solar panels, electrical substation"
+    },
+    {
+      "title": "Fly.io CEO Kurt Mackey is stepping down",
+      "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "summary": "<p>Article URL: <a href=\"https://fly.io/blog/kurt-scott-money-sprites/\">https://fly.io/blog/kurt-scott-money-sprites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051369\">https://news.ycombinator.com/item?id=49051369</a></p>\n<p>Points: 109</p>\n<p># Comments: 60</p>",
+      "published": "2026-07-25T20:43:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Керівник та співзасновник облачної платформи Fly.io Курт МакКей оголосив про відхід з поста генерального директора. Компанія готується до нових етапів розвитку та зміни управлінської команди.",
+      "ai_title": "Курт МакКей залишає посаду генерального директора Fly.io",
+      "video_keywords": "business meeting, office handshake, corporate executive, laptop typing"
+    },
+    {
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "link": "https://news.ycombinator.com/item?id=49051130",
+      "summary": "<p>I like writing Markdown, but do not like writing it inside a plain textarea.<p>I wanted something I could use anywhere by dropping in a single web component:<p>```<p><p>```<p>That became Writemark.<p>It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, split, and preview modes, along with slash commands, tables, task lists, code bl",
+      "published": "2026-07-25T20:18:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено легкий вебкомпонент без сторонніх залежностей для інтерактивного редагування Markdown-тексту. Він дозволяє бачити форматування прямо під час введення, пропонуючи режими поділу екрана та зручні слеш-команди.",
+      "ai_title": "Writemark — новий зручний інструмент для редагування Markdown у веб",
+      "video_keywords": "coding on laptop, software developer, hands typing keyboard, computer screen"
+    },
+    {
+      "title": "Did They Ghost You?",
+      "link": "https://didtheyghostyou.com/",
+      "summary": "<p>Article URL: <a href=\"https://didtheyghostyou.com/\">https://didtheyghostyou.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051120\">https://news.ycombinator.com/item?id=49051120</a></p>\n<p>Points: 116</p>\n<p># Comments: 44</p>",
+      "published": "2026-07-25T20:18:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У мережі набирає популярності жартівливий чи практичний сайт, який допомагає користувачам зрозуміти, чим закінчилося мовчання після онлайн-спілкування. Проєкт викликав жваве обговорення серед користувачів щодо етики сучасних комунікацій.",
+      "ai_title": "Новий вебсервіс перевіряє, чи вас «заігнорили»",
+      "video_keywords": "person looking at phone, sad expression, texting smartphone, empty room"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-      "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-      "summary": "Shashua has been invited to take the chairman of the board seat.",
-      "published": "2026-07-23T22:40:08+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Амнон Шашуа залишає посаду керівника Mobileye, оскільки компанія активно розвиває напрямок безпілотних таксі та робототехніки. Йому запропонували обійняти посаду голови ради директорів.",
-      "ai_title": "Голова Mobileye покидає посаду на тлі переходу компанії до роботаксі",
-      "video_keywords": "autonomous car, robotaxi, modern technology, boardroom"
-    },
-    {
-      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
-      "link": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
-      "summary": "<p><a href=\"https://microsoft.ai/\">Microsoft AI</a> released two new in-house models into public preview on Wednesday — <a href=\"https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/\">MAI-Image-2.5-Pro</a>, its highest-fidelity image generator to date, and <a href=\"https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash/\">MAI-Voice-2-Flash</a>, a spee",
-      "published": "2026-07-23T23:37:05+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Підрозділ Microsoft AI презентував дві нові моделі — генератор зображень MAI-Image-2.5-Pro та голосовий інструмент MAI-Voice-2-Flash. За словами розробників, ці рішення здатні суттєво скоротити витрати порівняно з аналогами від OpenAI.",
-      "ai_title": "Microsoft випустила власні AI-моделі зі зниженням витрат на 89%",
-      "video_keywords": "data center, server racks, computer monitors, artificial intelligence"
-    },
     {
       "title": "Meet the judges who will crown Australia’s next breakout startup",
       "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
@@ -1393,6 +1413,16 @@
       "ai_summary": "Інститут політики біткоїна та партійні організації отримали можливість відрядити своїх фахівців для роботи спільно з представниками Держдепартаменту США. Це партнерство спрямоване на просування технологій цифрової свободи та посилення ролі криптовалют у державній політиці. Очікується, що ініціатива сприятиме кращому розумінню децентралізованих фінансів на міжнародному рівні.",
       "ai_title": "Біткоїн-асоціація приєднається до програми цифрової свободи Держдепу США",
       "video_keywords": "government building, diplomats meeting, laptop typing, cryptocurrency symbols"
+    },
+    {
+      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+      "link": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood in talks with Crypto.com over prediction markets: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg\" /></p><p>While prediction market companies in the US continue to face legal battles between state and fe",
+      "published": "2026-07-25T21:01:44+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Фінтех-гігант Robinhood розглядає можливість партнерства або інтеграції з платформою Crypto.com для запуску ринків прогнозів. Цей крок свідчить про зростаючий інтерес традиційних фінансових платформ до сектора ставок на реальні події.",
+      "ai_title": "Robinhood веде переговори з Crypto.com щодо ринків прогнозів",
+      "video_keywords": "smartphone app, financial charts, trading interface, modern office"
     }
   ]
 }
