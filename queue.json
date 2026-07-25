@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Patreon is laying off 20 percent of workers",
-      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
-      "published": "2026-07-23T18:20:30+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Patreon оголосила про звільнення 20 відсотків своїх працівників, що становить приблизно 93 співробітники. Керівництво зазначило, що хоча штучний інтелект не замінює людей напряму, він фундаментально змінив усю технологічну галузь та підходи до роботи.",
-      "ai_title": "Patreon скорочує п'яту частину своєї команди через трансформацію ринку",
-      "video_keywords": "office workers, sad employees, laptop computer, corporate layoff"
-    },
-    {
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "link": "https://news.ycombinator.com/item?id=49026810",
-      "summary": "<p>I’ve been building Echo (<a href=\"https://echo.tracerml.ai/\" rel=\"nofollow\">https://echo.tracerml.ai/</a>), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.<p>It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I",
-      "published": "2026-07-23T19:26:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив експериментальну систему Echo, яка об'єднує кілька відкритих ШІ-моделей замість використання однієї універсальної. Такий підхід дозволяє досягти високих результатів, порівнянних із дорогими аналогами, витрачаючи втричі менше коштів.",
-      "ai_title": "Нова система Echo поєднує відкриті ШІ-моделі заради економії",
-      "video_keywords": "server racks, computer screens, artificial intelligence, glowing code"
-    },
-    {
       "title": "Claude’s voice mode is now available for Opus and Sonnet",
       "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
       "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering [&#8230;]",
@@ -617,29 +597,29 @@
       "ai_summary": "Популярні мінімалістичні синтезатори та грувбокси від відомого бренду тепер доступні на третину дешевше. Пристрої поєднують у собі функції музичних інструментів та сучасних арт-об'єктів для створення треків наживо.",
       "ai_title": "Музичні гаджети Teenage Engineering продаються зі знижкою 30%",
       "video_keywords": "synthesizer, music studio, electronic music equipment"
+    },
+    {
+      "title": "The Dark Night of Mathematics",
+      "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+      "summary": "<p>Article URL: <a href=\"https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics\">https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048681\">https://news.ycombinator.com/item?id=49048681</a></p>\n<p>Points: 57</p>\n<p># Comments: 42</p>",
+      "published": "2026-07-25T15:54:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття досліджує сучасні виклики, з якими стикається математична наука та її спільнота. Автор аналізує складність нових теоретичних концепцій і те, як змінився підхід до досліджень у цифрову епоху. Цей філософський погляд викликав жваві обговорення серед науковців.",
+      "ai_title": "Темна ніч математики: роздуми про кризу та майбутнє науки",
+      "video_keywords": "blackboard, equations, chalk, mathematician writing"
+    },
+    {
+      "title": "Rauno's Field Notes #2",
+      "link": "https://rauno.me/notes/2",
+      "summary": "<p>Article URL: <a href=\"https://rauno.me/notes/2\">https://rauno.me/notes/2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49049066\">https://news.ycombinator.com/item?id=49049066</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-25T16:39:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Черговий випуск авторського блогу присвячено практичним аспектам програмування та розробки інтерфейсів. Автор ділиться корисними спостереженнями щодо оптимізації коду та нових технологічних інструментів. Матеріал буде цікавим для веб-розробників, які прагнуть вдосконалити свої навички.",
+      "ai_title": "Нотатки розробника: свіжі інсайти та експерименти від Рауно",
+      "video_keywords": "coding, laptop screen, developer hands, typing code"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "summary": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
-      "published": "2026-07-23T18:38:34+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія AegisAI, заснована колишніми топменеджерами з безпеки Google, залучила 36 мільйонів доларів у раунді фінансування Серії А. Загальна сума інвестицій у проєкт досягла 49 мільйонів доларів.",
-      "ai_title": "Стартап AegisAI залучив $36 млн для боротьби з фішингом на базі ШІ",
-      "video_keywords": "cybersecurity office, typing on laptop, hacker screen"
-    },
-    {
-      "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio — but in limited release to start",
-      "link": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
-      "summary": "<p>Black Forest Labs (BFL) is expanding its FLUX family beyond image generation with <a href=\"https://bfl.ai/blog/flux-3\">today&#x27;s launch of FLUX 3</a>, a multimodal frontier model trained to understand and generate images, or combined audio/video clips up to 20 seconds from a single prompt — and to extend the same underlying architecture to robotic vision and actions.</p><p>The Freiburg, Germ",
-      "published": "2026-07-23T17:58:07+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Розробник Black Forest Labs випустив мультимодальну модель FLUX 3, здатну створювати зображення, а також 20-секундні відеоролики зі звуком за текстовим запитом. Наразі новинка доступна обмеженому колу користувачів.",
-      "ai_title": "Black Forest Labs презентувала модель FLUX 3 для генерації відео та аудіо",
-      "video_keywords": "futuristic interface, computer screen, artificial intelligence graphic"
-    },
     {
       "title": "Tesla’s door handles may spur new U.S. safety rules",
       "link": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
@@ -1003,16 +983,6 @@
   ],
   "Крипта": [
     {
-      "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
-      "link": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
-      "summary": "",
-      "published": "2026-07-23T18:10:02+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінтех-компанія прагне допомогти регіональним банкам долучитися до багатотрильйонного ринку стейблкоїнів. Це має завадити Волл-стріт повністю монополізувати цей перспективний фінансовий напрямок.",
-      "ai_title": "Tassat хоче відкрити невеликим банкам доступ до ринку стейблкоїнів",
-      "video_keywords": "bank building, digital currency, financial district, trading terminal"
-    },
-    {
       "title": "Crypto industry to contribute $55B to US economy in 2026: NCA study",
       "link": "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto industry to contribute $55B to US economy in 2026: NCA study\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-coin.jpg\" /></p><p>The research released by the organization said that crypto companies will directly or indirectly lead to 232,000 jobs across the entire US economy in 2026.<",
@@ -1051,16 +1021,6 @@
       "ai_summary": "Криптобіржа запровадила інструменти для інтеграції штучного інтелекту у фінансову систему. Тепер компанії можуть приймати стейблкоїни USDC безпосередньо від автономних AI-агентів.",
       "ai_title": "Coinbase дозволила бізнесу приймати платежі у USDC від штучного інтелекту",
       "video_keywords": "artificial intelligence, robotic hand, futuristic computer interface, digital payment"
-    },
-    {
-      "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
-      "link": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
-      "summary": "",
-      "published": "2026-07-23T18:29:31+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Сторінку Влада Тенєва в соцмережі X було зламано зловмисниками. Хакви використали профіль для маніпуляцій на тлі ажіотажу навколо мемкоїнів та просування сумнівного криптоактиву.",
-      "ai_title": "Акаунт гендиректора Robinhood зламали для просування фейкового токена",
-      "video_keywords": "hacker typing on laptop, glowing cyber security screen, smartphone security breach, data theft"
     },
     {
       "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
@@ -1501,6 +1461,16 @@
       "ai_summary": "Компанія готується оновити свою заявку на отримання американського банківського статусу згідно з новими вимогами Акту GENIUS. Раніше регулятори відхилили запит через занепокоєння щодо процедур боротьби з відмиванням грошей. Тепер Wise намагається адаптуватися до чинного законодавства для роботи з цифровими активами.",
       "ai_title": "Фінтех-гігант Wise повторно подасть заявку на банківську ліцензію у США",
       "video_keywords": "smartphone banking, financial app, office building, business handshake"
+    },
+    {
+      "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
+      "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-state-department.png\" /></p><p>The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department o",
+      "published": "2026-07-25T18:15:44+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Інститут політики біткоїна та партійні організації отримали можливість відрядити своїх фахівців для роботи спільно з представниками Держдепартаменту США. Це партнерство спрямоване на просування технологій цифрової свободи та посилення ролі криптовалют у державній політиці. Очікується, що ініціатива сприятиме кращому розумінню децентралізованих фінансів на міжнародному рівні.",
+      "ai_title": "Біткоїн-асоціація приєднається до програми цифрової свободи Держдепу США",
+      "video_keywords": "government building, diplomats meeting, laptop typing, cryptocurrency symbols"
     }
   ]
 }
