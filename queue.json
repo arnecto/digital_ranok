@@ -21,16 +21,6 @@
       "video_keywords": "computer screen, typing keyboard, developer workspace, software coding"
     },
     {
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "link": "https://github.com/onecli/onecli",
-      "summary": "<p>hey HN, Jonathan and Guy here, creators of OneCLI (<a href=\"https://onecli.sh/\">https://onecli.sh/</a>). OneCLI is an open source vault for AI Agents.<p>Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe. We figured that in the agent's world, this is not the case, as you don't know what happens with th",
-      "published": "2026-07-23T15:42:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили OneCLI — відкрите сховище облікових даних, розроблене спеціально для захисту секретів від потенційних витоків через AI-агентів. Інструмент вирішує проблему безпеки в екосистемі автономних агентів, які потребують доступу до чутливої інформації.",
-      "ai_title": "OneCLI: відкритий шлюз для безпеки даних AI-агентів",
-      "video_keywords": "cyber security, digital lock, computer code, password protection"
-    },
-    {
       "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
       "link": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
       "summary": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and larger, more demanding datasets for CPUs and GPUs to crunch through. It otherwise looks and acts just like Geekbench 6, and a Pro license will [&#8230;]",
@@ -637,6 +627,46 @@
       "ai_summary": "Експерти заспокоюють: попри стрімкий розвиток технологій штучного інтелекту, масове витіснення людей з ринку праці навряд чи станеться найближчим часом. Людська праця залишатиметься затребуваною завдяки необхідності емпатії, стратегічного мислення та креативності, які ШІ поки що не здатен повноцінно замінити.",
       "ai_title": "Масового звільнення через штучний інтелект найближчим часом не буде",
       "video_keywords": "office workers, computer screens, professional working, modern workplace"
+    },
+    {
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+      "summary": "<p>Article URL: <a href=\"https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/\">https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048689\">https://news.ycombinator.com/item?id=49048689</a></p>\n<p>Points: 3</p>\n<p",
+      "published": "2026-07-25T15:55:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники інтегрували фреймворк PyTorch Monarch для роботи з графічними процесорами AMD через екосистему ROCm. Це дозволить виконувати розподілене навчання моделей за допомогою єдиного контролера на обладнанні від AMD.",
+      "ai_title": "PyTorch Monarch тепер підтримує відеокарти AMD",
+      "video_keywords": "computer hardware, microchip, servers, technology"
+    },
+    {
+      "title": "The whole premise of checking for human writing is daft",
+      "link": "https://mohammedshehu.com/checking-for-human-writing-is-daft/",
+      "summary": "<p>Article URL: <a href=\"https://mohammedshehu.com/checking-for-human-writing-is-daft/\">https://mohammedshehu.com/checking-for-human-writing-is-daft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048584\">https://news.ycombinator.com/item?id=49048584</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-25T15:46:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор статті критикує саму концепцію інструментів для детекції штучного інтелекту в текстах. Він вважає перевірку на «людське письмо» марною тратою часу через постійне вдосконалення мовних моделей.",
+      "ai_title": "Безглуздість спроб виявити людський текст",
+      "video_keywords": "typing on keyboard, laptop screen, person writing, office desk"
+    },
+    {
+      "title": "Engineering management after the cost of code collapsed",
+      "link": "https://karimjedda.com/engineering-management-after-cost-of-code-collapse/",
+      "summary": "<p>Article URL: <a href=\"https://karimjedda.com/engineering-management-after-cost-of-code-collapse/\">https://karimjedda.com/engineering-management-after-cost-of-code-collapse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048212\">https://news.ycombinator.com/item?id=49048212</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-25T15:10:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З розвитком штучного інтелекту вартість створення коду стрімко знизилася, що змінило роль інженерних менеджерів. Тепер фокус зміщується з кількості написаних рядків на архітектуру та управління якістю.",
+      "ai_title": "Інженерний менеджмент після падіння вартості написання коду",
+      "video_keywords": "software developer, coder at desk, dual monitors, programming code"
+    },
+    {
+      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "summary": "<p>Article URL: <a href=\"https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/\">https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048034\">https://news.ycombinator.com/item?id=49048034</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-25T14:49:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Штучний інтелект із відкритими вагами стрімко завойовує ринок, нагадуючи масовий зліт платформи Kubernetes. Експерти закликають спільноту зберегти цю відкритість та не допустити монополізації технології.",
+      "ai_title": "Відкриті моделі ШІ переживають свій момент Kubernetes",
+      "video_keywords": "server room, data center, blinking lights, network cables"
     }
   ],
   "Бізнес / Стартапи": [
@@ -659,16 +689,6 @@
       "ai_summary": "Користувачі у Сполучених Штатах тепер можуть користуватися медичним сервісом від OpenAI. Окрім цього, з'явилася можливість інтегрувати персональні дані з таких популярних платформ, як Apple Health, Function та MyFitnessPal.",
       "ai_title": "OpenAI відкриває доступ до ChatGPT Health для всіх користувачів у США",
       "video_keywords": "smartphone health app, fitness tracking, digital heartbeat, modern medical tech"
-    },
-    {
-      "title": "Tesla’s robotaxis are moving in reverse",
-      "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
-      "summary": "The number of paid robotaxi miles traveled fell 36% in the second quarter, despite expanding to new cities, according to Tesla's own figures.",
-      "published": "2026-07-23T16:29:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Згідно з власними даними компанії Tesla, кількість платных миль, пройдених їхніми роботаксі, скоротилася на 36% у другому кварталі. Це сталося попри розширення послуги на нові міста.",
-      "ai_title": "Показники роботаксі Tesla демонструють несподіваний спад",
-      "video_keywords": "autonomous car driving, electric vehicle interior, steering wheel moving alone, city street"
     },
     {
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -1079,6 +1099,16 @@
       "ai_summary": "Інцидент у Північній Вірджинії продемонстрував неготовність сучасних центрів обробки даних до перебоїв у електромережі. Експерти пропонують нові технічні рішення для стабілізації енергопостачання штучного інтелекту.",
       "ai_title": "Як одна аварія оголила кричущу проблему енергопостачання AI-датацентрів",
       "video_keywords": "power lines, electrical substation, data center, server racks"
+    },
+    {
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "published": "2026-07-25T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "По всій країні бібліотекарі запускають спеціальні семінари \"Як уникати штучного інтелекту\" через величезний попит з боку людей, втомлених від засилля великих технологічних компаній. Такі заходи збирають рекордну кількість відвідувачів, які шукають способи обмежити вплив алгоритмів на своє повсякденне життя.",
+      "ai_title": "Бібліотеки США проводять популярні воркшопи проти штучного інтелекту",
+      "video_keywords": "library, books, people reading, workshop"
     }
   ],
   "Крипта": [
@@ -1111,16 +1141,6 @@
       "ai_summary": "Компанія Empery Digital спрямувала 20 мільйонів доларів у розробника дата-центрів Cardinal Data Power. Таким чином фірма диверсифікує капітал, переходячи від стратегії лише біткоїн-скарбниці до інвестицій в інфраструктуру штучного інтелекту. Це демонструє злиття криптоіндустрії з технологіями дата-центрів та ШІ.",
       "ai_title": "Криптофірма Empery Digital інвестує 20 мільйонів у розробника дата-центрів для ШІ",
       "video_keywords": "server room, data center, supercomputer, glowing cables"
-    },
-    {
-      "title": "Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant",
-      "link": "https://cointelegraph.com/news/ethereum-nears-market-bottom-against-bitcoin-key-signals-remain-unconfirmed-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-is-now-superior-over-gold2-1.jpg\" /></p><p>Ether trades below its realized price while onchain indicators point to easing selling pressure",
-      "published": "2026-07-23T16:26:43+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Аналітики CryptoQuant зазначають, що курс Ethereum опустився нижче за реалізовану ціну відносно біткоїна. Водночас ончейн-індикатори вказують на поступове зниження тиску з боку продавців. Попри це, остаточні сигнали розвороту ринку поки що залишаються неподтвердженими.",
-      "ai_title": "Ethereum наблизився до риночного дна відносно біткоїна",
-      "video_keywords": "cryptocurrency charts, financial graphs, stock market monitor, digital trading"
     },
     {
       "title": "Robinhood CEO’s X account hacked in apparent memecoin scam",
@@ -1611,6 +1631,16 @@
       "ai_summary": "Експерти вважають, що переведення погодних контрактів у блокчейн може стати одним із найважливіших практичних застосувань криптовалютних технологій. Це дозволить ефективно захистити агросектор та інші індустрії від кліматичних ризиків.",
       "ai_title": "Токенізація погодних деривативів може стати проривом для крипти в реальному секторі",
       "video_keywords": "weather forecast screen, stock market charts, digital token, financial graphs"
+    },
+    {
+      "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+      "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+      "summary": "",
+      "published": "2026-07-25T15:46:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Правоохоронні органи Північної Кореї затримали групу хакерів, яких звинувачують у відмиванні викрадених з банків країни коштів за допомогою криптовалютних транзакцій. Це рідкісний випадок офіційного переслідування кіберзлочинців усередині заблокованої держави. Операція демонструє спроби влади контролювати нелегальні потоки цифрових активів.",
+      "ai_title": "Північна Корея заарештувала хакерів за відмивання вкрадених коштів через криптовалюту",
+      "video_keywords": "police arrest, handcuffs, digital code, server room"
     }
   ]
 }
