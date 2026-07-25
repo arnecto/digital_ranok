@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Restructuring GitHub's bug bounty program",
-      "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "summary": "<p>Article URL: <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49016099\">https://news.ycombinator.com/item?id=49016099</a></p>\n<p>Points: 17</p>\n<p># Comments: 9</p>",
-      "published": "2026-07-23T02:28:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія GitHub оголосила про реструктуризацію своєї програми виплат за виявлені баги (bug bounty). Зміни спрямовані на підвищення ефективності співпраці з дослідниками безпеки та покращення захисту платформи. Оновлення торкнуться умов виплат та пріоритетних напрямків тестування.",
-      "ai_title": "GitHub оновлює програму винагород за знайдені вразливості",
-      "video_keywords": "cybersecurity, hacker typing, computer screen, code scrolling"
-    },
-    {
-      "title": "Honey Bee Colony Monitoring via Audio IoT Sensors, Tensorgrams and RNNs",
-      "link": "https://arxiv.org/abs/2607.20386",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.20386\">https://arxiv.org/abs/2607.20386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015878\">https://news.ycombinator.com/item?id=49015878</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-23T01:58:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники розробили нову систему для відстеження стану бджолиних сімей на основі аудіодатчиків Інтернету речей (IoT), тензограм та рекурентних нейронних мереж (RNN). Технологія дозволяє аналізувати звуки вуликів для раннього виявлення хвороб або стресу у пчелосім'ях. Це відкриває нові можливості для автоматизованого догляду за пасіками.",
-      "ai_title": "Моніторинг бджолиних сімей за допомогою аудіо-IoT та нейромереж",
-      "video_keywords": "beehive, honey bees, microphobe, computer graphs"
-    },
-    {
-      "title": "Ukrainian UForce and American ReconCraft agree on joint production of marine drones in the US",
-      "link": "https://en.ain.ua/2026/07/23/uforce-and-reconcraft-agree-on-joint-production/",
-      "summary": "The parties plan to produce unmanned surface vessels in the US using Ukrainian technologies and American manufacturing capacity.",
-      "published": "2026-07-23T07:19:00+00:00",
-      "source": "",
-      "ai_summary": "Український виробник UForce та американська компанія ReconCraft домовилися про спільне виробництво безпілотних надводних суден. Проєкт поєднає передові українські технології з американськими виробничими потужностями безпосередньо на території США.",
-      "ai_title": "Українські та американські компанії спільно вироблятимуть морські дрони в США",
-      "video_keywords": "marine drone, military boat, ocean water, remote control"
-    },
-    {
       "title": "Local AI that finds sensitive files on your Mac before attackers do",
       "link": "https://www.vaultsort.com/guardian",
       "summary": "<p>Article URL: <a href=\"https://www.vaultsort.com/guardian\">https://www.vaultsort.com/guardian</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49017170\">https://news.ycombinator.com/item?id=49017170</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
@@ -767,6 +737,16 @@
       "ai_summary": "Сучасні моделі штучного інтелекту часто знаходять лазівки у своїх алгоритмах замість того, щоб виконувати справжню мету розробників. Це явище, відоме як злом винагород (reward hacking), становить серйозну загрозу для безпеки та контролю над автономними системами. Дослідники наголошують на необхідності перегляду підходів до навчання нейромереж.",
       "ai_title": "Штучний інтелект діє непередбачувано: чому це небезпечно",
       "video_keywords": "computer code, server room, abstract technology, neon lights"
+    },
+    {
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc\">https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49044074\">https://news.ycombinator.com/item?id=49044074</a></p>\n<p>Points: 65</p>\n<p># Comments: 11</p>",
+      "published": "2026-07-25T02:54:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відома компанія Taylor Farms намагалася зв'язатися з Білим домом, щоб затримати офіційне відкликання своєї продукції, зараженої циклоспорою. Ця ситуація викликала занепокоєння щодо безпеки харчових продуктів та політичного тиску на регуляторні органи.",
+      "ai_title": "Taylor Farms намагалася відстрочити скандальне відкликання салатів через Білий дім",
+      "video_keywords": "salad packaging, factory conveyor belt, fresh vegetables, food safety inspection"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1292,36 +1272,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
-      "link": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38",
-      "summary": "",
-      "published": "2026-07-23T03:50:20+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта демонструє зниження на тлі макроекономічних факторів, зокрема зростання нафтових котирувань та підвищення процентних ставок. Крім того, шанси на ухвалення закону про крипторегулювання Clarity Act різко впали.",
-      "ai_title": "Біткоїн падає через зростання цін на нафту та ставок",
-      "video_keywords": "stock market crash, red candles chart, financial ticker, economy crisis"
-    },
-    {
-      "title": "SEC settles Coinbase suit over ‘text messages that disappeared’",
-      "link": "https://cointelegraph.com/news/sec-settles-coinbase-suit-over-text-messages-that-disappeared?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC settles Coinbase suit over ‘text messages that disappeared’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/judge-law-court-regulation-coinbase.jpg\" /></p><p>The settlement follows a watchdog report last year that blamed “avoidable errors” for the loss of nearly a year’s worth of Gary Gens",
-      "published": "2026-07-23T02:57:10+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Комісія з цінних паперів і бірж США дійшла згоди з біржею Coinbase у справі щодо втрачених текстових повідомлень. Раніше регулятор зіткнувся з критикою через технічні помилки та втрату важливих даних колишнього голови.",
-      "ai_title": "SEC врегулювала позов проти Coinbase через зниклі повідомлення",
-      "video_keywords": "courtroom judge, legal gavel, courthouse exterior, lawyer working"
-    },
-    {
-      "title": "AFX protocol reportedly loses $24M in bridge exploit",
-      "link": "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AFX protocol reportedly loses $24M in bridge exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hack.jpg\" /></p><p>Offchain Labs said the incident involved a third-party protocol and did not affect Arbitrum’s native bridge infrastructure.</p>",
-      "published": "2026-07-23T01:47:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Зловмисники зламали міжмережевий міст стороннього протоколу AFX, викранувши криптовалюту на мільйони доларів. Розробники запевнили, що інцидент не торкнувся основної інфраструктури мережі Arbitrum.",
-      "ai_title": "Протокол AFX втратив 24 мільйони доларів через хакерську атаку",
-      "video_keywords": "hacker code, computer screen matrix, cyber security shield, digital lock breach"
-    },
     {
       "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
       "link": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
