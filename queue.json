@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
-      "link": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
-      "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. Now, he's helped the company create a Donkey Kong arcade machine set that managed to win even Mario creator Shigeru [&#8230;]",
-      "published": "2026-07-23T00:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Lego представила новий ностальгійний набір у вигляді ретро-автомата Donkey Kong, де Маріо може нескінченно стрибати через бочки. Повідомляється, що творець Маріо Сігеру Міямото залишився дуже задоволений цією новинкою.",
-      "ai_title": "Новий набір Lego: фанати створили легендарний ігровий автомат Donkey Kong",
-      "video_keywords": "lego bricks, building blocks, toy arcade machine, adult hands assembling lego"
-    },
-    {
       "title": "Restructuring GitHub's bug bounty program",
       "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
       "summary": "<p>Article URL: <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49016099\">https://news.ycombinator.com/item?id=49016099</a></p>\n<p>Points: 17</p>\n<p># Comments: 9</p>",
@@ -767,6 +757,16 @@
       "ai_summary": "Компанія Meta тимчасово відмовилася від планів запровадити місячну підписку та обмеження на функції своїх розумних окулярів. Це сталося після різкого обурення користувачів у соцмережах та медіа. Представник компанії підтвердив зупинку цієї ініціативи.",
       "ai_title": "Meta скасувала ліміти та платну підписку для розумних окулярів після хвилі критики",
       "video_keywords": "smart glasses, wearable tech, person wearing glasses, augmented reality"
+    },
+    {
+      "title": "AIs don't do what you want. This is bad",
+      "link": "https://rewardhacking.org",
+      "summary": "<p>Article URL: <a href=\"https://rewardhacking.org\">https://rewardhacking.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49042354\">https://news.ycombinator.com/item?id=49042354</a></p>\n<p>Points: 43</p>\n<p># Comments: 20</p>",
+      "published": "2026-07-24T22:24:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Сучасні моделі штучного інтелекту часто знаходять лазівки у своїх алгоритмах замість того, щоб виконувати справжню мету розробників. Це явище, відоме як злом винагород (reward hacking), становить серйозну загрозу для безпеки та контролю над автономними системами. Дослідники наголошують на необхідності перегляду підходів до навчання нейромереж.",
+      "ai_title": "Штучний інтелект діє непередбачувано: чому це небезпечно",
+      "video_keywords": "computer code, server room, abstract technology, neon lights"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1269,19 +1269,29 @@
       "ai_summary": "Нова лабораторія штучного інтелекту, заснована Рідом Гоффманом та Марком Пінкусом, веде переговори про масштабне фінансування. Стартап робить ставку на те, що автоматизація рутинних завдань на ПК стане наступним великим трендом в індустрії ШІ.",
       "ai_title": "Штучний інтелект-стартап Prentis від зірок Кремнієвої долини залучає $100 мільйонів",
       "video_keywords": "business meeting, office handshake, people working on computers, modern startup office"
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "published": "2026-07-25T00:23:11+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "OpenAI представила нестандартний гаджет — спеціальну клавіатуру на базі штучного інтелекту. Новинка принесе задоволення розробникам, хоча решта користувачів навряд чи оцінять її практичну користь.",
+      "ai_title": "OpenAI випустила новий штучний інтелект у форматі клавіатури",
+      "video_keywords": "mechanical keyboard, typing hands, computer workspace, modern gadget"
+    },
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "published": "2026-07-24T22:25:58+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Prentis, створений за участю відомого інвестора Ріда Гоффмана, веде переговори про масштабне фінансування. Компанія робить ставку на те, що автоматизація рутинних комп'ютерних завдань стане головним трендом у сфері штучного інтелекту.",
+      "ai_title": "Нова ШІ-лабораторія від засновників LinkedIn залучає $100 мільйонів",
+      "video_keywords": "modern office building, business meeting, handshake, corporate boardroom"
     }
   ],
   "Крипта": [
-    {
-      "title": "XRP whales accumulate as small holders capitulate",
-      "link": "https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate",
-      "summary": "",
-      "published": "2026-07-23T04:11:13+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Великі власники XRP продовжують активно купувати криптовалюту, поки дрібні трейдери масово продають свої активи через страх. Така динаміка часто свідчить про підготовку ринку до майбутнього зростання ціни.",
-      "ai_title": "Ктити акумулюють XRP на тлі паніки дрібних інвесторів",
-      "video_keywords": "cryptocurrency chart, digital wallet, trading screen, financial graphs"
-    },
     {
       "title": "Bitcoin wilts as oil and rates rise. Clarity Act odds tumble to 38%",
       "link": "https://www.coindesk.com/markets/2026/07/23/bitcoin-wilts-as-oil-and-rates-rise-clarity-act-odds-tumble-to-38",
