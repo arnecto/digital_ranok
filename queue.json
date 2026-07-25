@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]",
-      "published": "2026-07-23T21:15:06+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Amazon випускає оновлення для голосового помічника Alexa Plus, яке дозволить йому глибше інтегруватися з розумним будинком. Нова версія зможе працювати з пристроями від провідних виробників побутової техніки та автоматично обробляти складні багатоступеневі запити користувачів.",
-      "ai_title": "Alexa Plus отримує масштабне оновлення з підтримкою складних команд",
-      "video_keywords": "smart home, smart speaker, voice assistant, modern living room"
-    },
-    {
-      "title": "Building watchable digital twins of 64 World Cup games",
-      "link": "https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/",
-      "summary": "<p>Article URL: <a href=\"https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/\">https://rogerdickey.com/building-watchable-digital-twins-of-64-world-cup-games/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49028922\">https://news.ycombinator.com/item?id=49028922</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-23T22:30:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники створили технологію для генерації детальних та видовищних цифрових копій усіх 64 матчів Чемпіонату світу. Проєкт використовує сучасні алгоритми моделювання для відтворення ігрових ситуацій у віртуальному середовищі. Це відкриває нові можливості для аналізу спортивних подій та їхнього перегляду у новому форматі.",
-      "ai_title": "Створення цифрових близнюків для всіх матчів Чемпіонату світу з футболу",
-      "video_keywords": "soccer stadium, digital simulation, 3d animation, computer graphics"
-    },
-    {
       "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
       "link": "https://arxiv.org/abs/2507.09369",
       "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2507.09369\">https://arxiv.org/abs/2507.09369</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49029133\">https://news.ycombinator.com/item?id=49029133</a></p>\n<p>Points: 40</p>\n<p># Comments: 23</p>",
@@ -619,19 +599,39 @@
       "ai_summary": "Розроблено новий інструмент для платформи Proxmox, який дозволяє спільно використовувати Bluetooth-адаптер хоста з віртуальною машиною через локальну мережу. Це спрощує налаштування бездротових пристроїв у віртуалізованому середовищі без прямого підключення модулів.",
       "ai_title": "Передавання Bluetooth-сигналу на віртуальну машину через мережу",
       "video_keywords": "server rack, blinking lights, datacenter, ethernet cable"
+    },
+    {
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "summary": "<p>Article URL: <a href=\"https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh\">https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051692\">https://news.ycombinator.com/item?id=49051692</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-25T21:18:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти критикують сліпу манію навколо штучного інтелекту, яка негативно впливає на стратегічне мислення та глобальні процеси ухвалення рішень. Незважаючи на технологічний прогрес, ризики від поспішного впровадження ШІ стають дедалі помітнішими у світовій економіці та політиці.",
+      "ai_title": "Штучний інтелект руйнує глобальне прийняття рішень",
+      "video_keywords": "server room, data center, glowing screens, digital brain"
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "summary": "<p>Article URL: <a href=\"https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051361\">https://news.ycombinator.com/item?id=49051361</a></p>\n<p>Points: 41</p>\n<p># Comments: 17</p>",
+      "published": "2026-07-25T20:42:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили оновлені рекомендації та техніки контекстного інжинірингу для новітніх моделей генерації Claude 5. Ці зміни дозволяють точніше контролювати відповіді штучного інтелекту та підвищують ефективність роботи з великими обсягами даних.",
+      "ai_title": "Нові правила інжинірингу контексту для моделей Claude 5",
+      "video_keywords": "person typing on laptop, computer screen, code scrolling, developer working"
+    },
+    {
+      "title": "Show HN: Awsmux – Multi-account AWS CLI, up to 5.4x faster, 7.4x fewer tokens",
+      "link": "https://github.com/0hardik1/awsmux",
+      "summary": "<p>awsmux fans one AWS CLI command out across hundreds of accounts and regions in\nparallel and merges the results into a single stream. There's an MCP server\nbuilt in for agents.<p>In a 150-session benchmark, agents using awsmux beat agents using the raw AWS\nCLI in every test: up to 5.4x faster, up to 2.9x cheaper, up to 7.4x fewer\ntokens.<p>Single Go binary, stdlib plus cobra only. Feedback welco",
+      "published": "2026-07-25T20:09:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено утиліту Awsmux, яка паралельно обробляє команди AWS CLI для сотень акаунтів і регіонів, забезпечуючи значний приріст швидкості. Інструмент також містить вбудований сервер для агентів ШІ, що дозволяє суттєво економити токени та час виконання завдань.",
+      "ai_title": "Awsmux: новий інструмент для прискорення мультиакаунтного AWS CLI",
+      "video_keywords": "terminal window, command line, digital dashboard, data processing"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Agentic coding goes hands free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
-      "link": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
-      "summary": "<p>Two weeks after debuting its <a href=\"https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person\">more naturalistic GPT-Live audio AI model</a> with full-duplex capabilities (listening and speaking at the same time), OpenAI is bringing it directly into developer workflows. </p><p>The company announced that <a href=\"https://x",
-      "published": "2026-07-23T21:17:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "OpenAI додала можливості повнодуплексного голосового керування GPT-Live у свої десктопні інструменти для розробників Codex та ChatGPT. Це дозволяє програмістам взаємодіяти зі штучним інтелектом голосом у реальному часі без допомоги рук.",
-      "ai_title": "OpenAI інтегрувала голосове управління у середовище розробки",
-      "video_keywords": "developer typing on keyboard, dual monitors, computer screen, programmer office"
-    },
     {
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
       "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
