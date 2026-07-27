@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Folding and flipping phones are getting seriously good",
-      "link": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Google Zero and armored cars for rich people, watching a [&#8230;]",
-      "published": "2026-07-25T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Сучасні гнучкі та складані телефони досягли нового рівня надійності та функціональності. Ринок пропонує все більше вдосконалених пристроїв із покращеними екранами та ергономікою.",
-      "ai_title": "Складані смартфони стають дійсно якісними",
-      "video_keywords": "folding smartphone, flexible screen, mobile phone tech"
-    },
-    {
       "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
       "link": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
       "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/china-us-ai-model-costs-53a12e96\">https://www.wsj.com/business/china-us-ai-model-costs-53a12e96</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047448\">https://news.ycombinator.com/item?id=49047448</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
@@ -599,6 +589,56 @@
       "ai_summary": "Компанія Moonshot AI презентувала свою нову штучну мовну модель Kimi-K3 на платформі HuggingFace. Реліз викликав значний інтерес серед розробників та дослідників у сфері штучного інтелекту.",
       "ai_title": "Moonshot AI випустила нову модель Kimi-K3 на HuggingFace",
       "video_keywords": "computer screen, typing code, artificial intelligence, glowing interface"
+    },
+    {
+      "title": "How is the Bun Rewrite in Rust going?",
+      "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "summary": "<p>Article URL: <a href=\"https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html\">https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067854\">https://news.ycombinator.com/item?id=49067854</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-27T11:12:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розглядається прогрес та поточний статус амбітного переписування швидкого JavaScript-рантайму Bun на мову програмування Rust. Цей процес покликаний підвищити продуктивність, надійність та безпеку інструменту для розробників. Автор аналізує ключові технічні труднощі та досягнення команди під час міграції кодової бази.",
+      "ai_title": "Стан переписування Bun на мові Rust",
+      "video_keywords": "programmer typing code, computer screen, software development, code editor"
+    },
+    {
+      "title": "If digital computers are conscious, they are conscious at the hardware level",
+      "link": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
+      "summary": "<p>Article URL: <a href=\"https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html\">https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067556\">https://news.ycombinator.com/item?id=49067556</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-27T10:33:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор досліджує філософські та технічні аспекти потенційної свідомості цифрових пристроїв. У статті висувається гіпотеза про те, що якщо цифрові комп'ютери й здатні мати свідомість, то вона виникає безпосередньо на рівні апаратного забезпечення, а не лише у програмній обробці. Це ставить нові питання перед дослідниками штучного інтелекту та нейронауки.",
+      "ai_title": "Чи мають цифрові комп'ютери свідомість на рівні апаратного забезпечення?",
+      "video_keywords": "microchip, computer hardware, circuit board, glowing electronic components"
+    },
+    {
+      "title": "Why I Left Google DeepMind",
+      "link": "https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind",
+      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind\">https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067285\">https://news.ycombinator.com/item?id=49067285</a></p>\n<p>Points: 45</p>\n<p># Comments: 7</p>",
+      "published": "2026-07-27T09:56:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Колишній співробітник провідної лабораторії штучного інтелекту Google DeepMind поділився відвертими причинами свого звільнення. У публікації обговорюються внутрішні процеси компанії, етичні виклики при розробці передових AI-систем та загальний напрямок індустрії. Цей допис викликав значний резонанс у професійній спільноті.",
+      "ai_title": "Чому я пішов з Google DeepMind",
+      "video_keywords": "office desk, modern corporate office, person working on laptop, thoughtful person"
+    },
+    {
+      "title": "Chinese chipmaker shares surge 470%",
+      "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c9q9w3x9qn2o\">https://www.bbc.com/news/articles/c9q9w3x9qn2o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066962\">https://news.ycombinator.com/item?id=49066962</a></p>\n<p>Points: 78</p>\n<p># Comments: 62</p>",
+      "published": "2026-07-27T09:11:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ринкова вартість однієї з провідних китайських напівпровідникових компаній стрімко зросла на фоні глобального попиту на мікрочипи. Акції продемонстрували рекордний стрибок у 470 відсотків, що відображає напругу та конкуренцію на світовому ринку технологій. Експерти пов'язують це з прагненням країни до технологічної незалежності.",
+      "ai_title": "Акції китайського виробника чіпів злетіли на 470%",
+      "video_keywords": "stock market chart, financial trading floor, digital numbers glowing, investors looking at screens"
+    },
+    {
+      "title": "With smart glasses, Meta holds all the cards but fails to play them well",
+      "link": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+      "summary": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another transposes the words \"mass surveillance predator glasses\" over influencer Kylie Jenner's face, calling her out for partnering [&#8230;]",
+      "published": "2026-07-27T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Рекламна кампанія розумних окулярів Meta у великих містах зіткнулася з хвилею сатиричного активізму та протестів. Активісти розклеюють критичні плакати, називаючи пристрій технологією для масового стеження та переслідування. Це підсвічує серйозні проблеми з публічним сприйняттям пристроїв доповненої реальності та приватності даних.",
+      "ai_title": "Розумні окуляри Meta: великий потенціал і провальний маркетинг",
+      "video_keywords": "person wearing smart glasses, augmented reality display, urban street, protest posters"
     }
   ],
   "Бізнес / Стартапи": [
@@ -721,49 +761,19 @@
       "ai_summary": "Розробники фізичного штучного інтелекту стикаються з дефіцитом даних і тепер планують використовувати не лише багатокамерні відео та детальну розмітку, а й зчитування мозкових хвиль. Цей інноваційний підхід має допомогти роботам краще розуміти та відтворювати дії людини у реальному світі.",
       "ai_title": "Штучний інтелект майбутнього вчитимуть за допомогою мозкових хвиль",
       "video_keywords": "brainwaves, EEG headset, humanoid robot, artificial intelligence laboratory"
+    },
+    {
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital, the network is announcing its largest expansion yet.",
+      "published": "2026-07-27T10:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Європейська медіамережа залучила 1,6 мільйона доларів посівного фінансування від відомих гравців ринку, включно з фондом Powerhouse Capital та медіагігантом Axel Springer. Завдяки новим інвестиціям компанія оголосила про свій найбільший етап розширення.",
+      "ai_title": "Європейський аналог шоу TBPN залучив 1,6 мільйона доларів інвестицій",
+      "video_keywords": "television studio, live broadcast, podcast recording, media interview"
     }
   ],
   "Крипта": [
-    {
-      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "link": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-      "summary": "",
-      "published": "2026-07-25T10:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Реальні активи на блокчейні Robinhood показали п'ятиразове зростання завдяки запуску масштабної торгівлі токенізованими акціями. Це свідчить про підвищений інтерес інвесторів до поєднання傳統 фінансів та блокчейн-технологій. Нова тенденція приваблює все більше капіталу в сектор цифрових активів.",
-      "ai_title": "Токенізовані акції на Robinhood Chain стрімко зростають у п'ять разів",
-      "video_keywords": "smartphone trading app, stock market charts, digital currency, financial growth"
-    },
-    {
-      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
-      "link": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dango’s perp DEX taps out nearly 4 months after launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-perpetual-dex-closure.jpg\" /></p><p>Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.</p>",
-      "published": "2026-07-25T10:01:26+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Платформа Dango оголосила про закриття своєї мережі 13 серпня, поповнивши хвилю останніх закриттів у криптоіндустрії. Разом із BitMEX, Odos та Satori Finance цей проєкт припиняє роботу на тлі ринкових труднощів. Така тенденція демонструє високі ризики та конкуренцію у сфері децентралізованих фінансів.",
-      "ai_title": "Децентралізована біржа Dango закривається через чотири місяці після запуску",
-      "video_keywords": "empty office, computer monitor error, cryptocurrency crash, financial failure"
-    },
-    {
-      "title": "Fidelity joins push for Senate passage of CLARITY Act",
-      "link": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fidelity joins push for Senate passage of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.jpg\" /></p><p>Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.<",
-      "published": "2026-07-25T11:30:15+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінансовий гігант Fidelity долучився до криптокомпаній та галузевих асоціацій, які вимагають від Сенату США швидкого ухвалення закону CLARITY Act. Цей законопроєкт має чітко визначити правила регулювання ринку цифрових активів та забезпечити прозорість для інвесторів.",
-      "ai_title": "Fidelity закликає Сенат США ухвалити закон CLARITY Act",
-      "video_keywords": "us capitol building, businessman in suit, legal documents, signing contract"
-    },
-    {
-      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
-      "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea arrests bank hacking ring tied to crypto laundering: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-crypto-relationship2.jpg\" /></p><p>Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering f",
-      "published": "2026-07-25T13:14:18+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "У Північній Кореї заарештували колишніх державних кібероператорів. Їх звинувачують у зламі двох національних банків та подальшому відмиванні вкрадених коштів через криптовалюту.",
-      "ai_title": "У Північній Кореї затримали хакерів за відмивання криптовалюти",
-      "video_keywords": "police handcuffs, prison bars, digital server room, suspect interrogation"
-    },
     {
       "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
       "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
@@ -1003,6 +1013,56 @@
       "ai_summary": "Розвиток квантових технологій може становити серйозну небезпеку для безпеки блокчейн-мереж та криптографічного захисту. Фахівці закликають розробників заздалегідь готуватися до цих кіберзагроз, які здатні зламати поточні алгоритми шифрування.",
       "ai_title": "Експерти попереджають про загрозу квантових комп'ютерів для криптовалют",
       "video_keywords": "quantum computer, server rack, glowing circuits, cybersecurity matrix"
+    },
+    {
+      "title": "Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
+      "summary": "",
+      "published": "2026-07-27T11:15:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "На тлі стрімкого збільшення державного боргу Сполучених Штатів інвестори все частіше обирають біткоїн та золото як надійне прихистковий актив. Це допомагає захистити капітал від можливого знецінення американського долара.",
+      "ai_title": "Зростання держборгу США штовхає інвесторів до біткоїна та золота",
+      "video_keywords": "gold bars, us currency, financial charts, digital coin"
+    },
+    {
+      "title": "Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses",
+      "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
+      "summary": "",
+      "published": "2026-07-27T11:04:39+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Біткоїн-фонди продемонстрували позитивний тижневий приток капіталу вже третій тиждень поспіль. Попри значні відтоки наприкінці тижня на суму 465 мільйонів доларів, загальний баланс залишився позитивним.",
+      "ai_title": "Спотові біткоїн-ETF залучили кошти третій тиждень поспіль",
+      "video_keywords": "stock market graphs, financial trading, computer screens, green charts"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
+      "link": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
+      "summary": "",
+      "published": "2026-07-27T10:39:22+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Браян Армстронг висловив невдоволення стартапами з криптосфери, які змінюють брендинг заради популярності штучного інтелекту. На його думку, такий ребрендинг відволікає увагу від реальних інновацій у блокчейн-індустрії.",
+      "ai_title": "Голова Coinbase розкритикував криптостартапи, які маскуються під ШІ",
+      "video_keywords": "person talking, modern office, tech conference, businessman portrait"
+    },
+    {
+      "title": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
+      "link": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
+      "summary": "",
+      "published": "2026-07-27T09:15:43+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Провідна хмарна платформа Storj ініціювала процедуру банкрутства за статтею 11, поповнивши низку невдач у криптосекторі цього тижня. На тлі цих новин власний токен компанії обвалився на 16%.",
+      "ai_title": "Фхмарна компанія Storj подала на банкрутство після падіння токена",
+      "video_keywords": "falling graph, bankruptcy document, broken computer screen, red charts"
+    },
+    {
+      "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+      "link": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO touts agentic finance as Base tops 100M AI payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/portraitbrian-armstrong1.jpg\" /></p><p>Coinbase CEO Brian Armstrong says AI agents will expand crypto adoption, pointing to Base, USDC and x402 as key pieces of agentic finance.</p>",
+      "published": "2026-07-27T09:01:05+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Керівник Coinbase Браян Армстронг прогнозує масове впровадження штучного інтелекту у фінансову сферу завдяки блокчейну. Мережа Base вже зафіксувала понад 100 мільйонів транзакцій, здійснених за допомогою автономних AI-агентів.",
+      "ai_title": "Coinbase інтегрує штучний інтелект у криптоплатежі",
+      "video_keywords": "artificial intelligence, futuristic interface, digital payments, mobile app tapping"
     }
   ]
 }
