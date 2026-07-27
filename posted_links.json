@@ -1,9 +1,4 @@
 {
-  "https://www.bbc.com/news/articles/c79gw4lj89eo": {
-    "title": "Trump Media пропонує платний доступ до ексклюзивних постів",
-    "category": "IT / AI",
-    "posted_at": "2026-07-19T07:32:49.502266+03:00"
-  },
   "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/": {
     "title": "Amazon виправила баг, через який клієнти AWS отримували рахунки на мільярди доларів",
     "category": "Бізнес / Стартапи",
@@ -823,5 +818,13 @@
     "summary": "Біржові фонди на базі Ethereum закрили тиждень у мінусі, перервавши п'ятиденну серію припливу інвестицій. Тим часом фонди на основі Bitcoin також зафіксували відтік капіталу другий день поспіль, хоча тижневі показники обох активів залишилися позитивними.",
     "video_keywords": "stock market chart, financial trading floor, computer screen graphs, red downward arrows",
     "link": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/": {
+    "title": "Android може заблокувати роботу ADB безпосередньо на пристрої",
+    "category": "IT / AI",
+    "posted_at": "2026-07-27T08:06:04.787024+03:00",
+    "summary": "Компанія Google планує запровадити обмеження на використання інструменту налагодження Android Debug Bridge (ADB) безпосередньо всередині самої ОС. Це може ускладнити життя розробникам та ентузіастам, які звикли керувати пристроєм без підключення до ПК. Зміни спрямовані на підвищення загальної безпеки системи, але викликають занепокоєння у спільноти.",
+    "video_keywords": "smartphone screen, programmer hands, mobile phone, coding",
+    "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"
   }
 }
