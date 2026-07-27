@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "link": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/business/china-us-ai-model-costs-53a12e96\">https://www.wsj.com/business/china-us-ai-model-costs-53a12e96</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047448\">https://news.ycombinator.com/item?id=49047448</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
-      "published": "2026-07-25T13:33:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Корпоративна Америка почала раптово економити кошти та зупиняти надмірні інвестиції у сферу штучного інтелекту. Компанії переглядають свої бюджети на тлі пошуку реальної окупності таких технологій. Це свідчить про перехід ринку від сліпого захоплення новими трендами до прагматичного фінансового планування.",
-      "ai_title": "Бізнес у США різко скорочує витрати на штучний інтелект",
-      "video_keywords": "office boardroom, calculator, financial charts, business meeting"
-    },
-    {
-      "title": "The AI jobs apocalypse probably isn't coming anytime soon",
-      "link": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor\">https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49047969\">https://news.ycombinator.com/item?id=49047969</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-25T14:41:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти заспокоюють: попри стрімкий розвиток технологій штучного інтелекту, масове витіснення людей з ринку праці навряд чи станеться найближчим часом. Людська праця залишатиметься затребуваною завдяки необхідності емпатії, стратегічного мислення та креативності, які ШІ поки що не здатен повноцінно замінити.",
-      "ai_title": "Масового звільнення через штучний інтелект найближчим часом не буде",
-      "video_keywords": "office workers, computer screens, professional working, modern workplace"
-    },
-    {
-      "title": "Bringing PyTorch Monarch to AMD GPUs",
-      "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "summary": "<p>Article URL: <a href=\"https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/\">https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048689\">https://news.ycombinator.com/item?id=49048689</a></p>\n<p>Points: 3</p>\n<p",
-      "published": "2026-07-25T15:55:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники інтегрували фреймворк PyTorch Monarch для роботи з графічними процесорами AMD через екосистему ROCm. Це дозволить виконувати розподілене навчання моделей за допомогою єдиного контролера на обладнанні від AMD.",
-      "ai_title": "PyTorch Monarch тепер підтримує відеокарти AMD",
-      "video_keywords": "computer hardware, microchip, servers, technology"
-    },
-    {
       "title": "The whole premise of checking for human writing is daft",
       "link": "https://mohammedshehu.com/checking-for-human-writing-is-daft/",
       "summary": "<p>Article URL: <a href=\"https://mohammedshehu.com/checking-for-human-writing-is-daft/\">https://mohammedshehu.com/checking-for-human-writing-is-daft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048584\">https://news.ycombinator.com/item?id=49048584</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
@@ -51,16 +21,6 @@
       "video_keywords": "software developer, coder at desk, dual monitors, programming code"
     },
     {
-      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-      "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "summary": "<p>Article URL: <a href=\"https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/\">https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048034\">https://news.ycombinator.com/item?id=49048034</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-25T14:49:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Штучний інтелект із відкритими вагами стрімко завойовує ринок, нагадуючи масовий зліт платформи Kubernetes. Експерти закликають спільноту зберегти цю відкритість та не допустити монополізації технології.",
-      "ai_title": "Відкриті моделі ШІ переживають свій момент Kubernetes",
-      "video_keywords": "server room, data center, blinking lights, network cables"
-    },
-    {
       "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
       "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
       "summary": "<p>Article URL: <a href=\"https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/\">https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49048819\">https://news.ycombinator.com/item?id=49048819</a></p>\n<p>Points: 52</p>\n<p># Comments: 30</p>",
@@ -69,16 +29,6 @@
       "ai_summary": "Новий інноваційний метод використовує енергію вітряних турбін для створення зеленого аміаку без викидів вуглецю. Це прорив у виробництві добрив, який може суттєво зменшити екологічний слід сільського господарства.",
       "ai_title": "Вітряні турбіни виробляють екологічно чисте добриво",
       "video_keywords": "wind turbine, green energy, agriculture field"
-    },
-    {
-      "title": "Teenage Engineering’s unique music machines are 30 percent off",
-      "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-      "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of the brand’s offerings are 30 percent off [&#8230;]",
-      "published": "2026-07-25T15:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Популярні мінімалістичні синтезатори та грувбокси від відомого бренду тепер доступні на третину дешевше. Пристрої поєднують у собі функції музичних інструментів та сучасних арт-об'єктів для створення треків наживо.",
-      "ai_title": "Музичні гаджети Teenage Engineering продаються зі знижкою 30%",
-      "video_keywords": "synthesizer, music studio, electronic music equipment"
     },
     {
       "title": "The Dark Night of Mathematics",
@@ -639,6 +589,56 @@
       "ai_summary": "Рекламна кампанія розумних окулярів Meta у великих містах зіткнулася з хвилею сатиричного активізму та протестів. Активісти розклеюють критичні плакати, називаючи пристрій технологією для масового стеження та переслідування. Це підсвічує серйозні проблеми з публічним сприйняттям пристроїв доповненої реальності та приватності даних.",
       "ai_title": "Розумні окуляри Meta: великий потенціал і провальний маркетинг",
       "video_keywords": "person wearing smart glasses, augmented reality display, urban street, protest posters"
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2 \"Price of Hope\" launches August 20. What is known about the game's first major story expansion?",
+      "link": "https://en.ain.ua/2026/07/27/stalker-2-price-of-hope-launches-august-20/",
+      "summary": "Alongside the \"Price of Hope\" expansion, GSC Game World will release a free 2.0 update for all owners of the game.",
+      "published": "2026-07-27T14:02:00+00:00",
+      "source": "",
+      "ai_summary": "Розробники GSC Game World анонсували реліз першого великого сюжетного доповнення \"Ціна надії\" на 20 серпня. Разом із DLC вийде масштабне безплатне оновлення 2.0 для всіх власників гри.",
+      "ai_title": "Вихід сюжетного доповнення для S.T.A.L.K.E.R. 2",
+      "video_keywords": "video game, post-apocalyptic, gaming setup, digital screen"
+    },
+    {
+      "title": "AI companies spend record sums on Washington lobbying",
+      "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db\">https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49069939\">https://news.ycombinator.com/item?id=49069939</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-27T14:07:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Провідні компанії у сфері штучного інтелекту витрачають безпрецедентні кошти на вплив на політиків та регуляторів у США. Це пов'язано з посиленням уваги уряду до безпеки та етики новітніх технологій.",
+      "ai_title": "Рекордні витрати AI-компаній на лобіювання у Вашингтоні",
+      "video_keywords": "capitol building, washington dc, politician talking, business meeting"
+    },
+    {
+      "title": "AI companies are shredding rare books",
+      "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+      "summary": "<p>Article URL: <a href=\"https://xcancel.com/HedgieMarkets/status/2081534588485296565\">https://xcancel.com/HedgieMarkets/status/2081534588485296565</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49068738\">https://news.ycombinator.com/item?id=49068738</a></p>\n<p>Points: 380</p>\n<p># Comments: 221</p>",
+      "published": "2026-07-27T12:32:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У мережі розгортається скандал навколо того, як компанії, що розробляють AI, знищують рідкісні друковані видання для оцифрування та навчання нейромереж. Такі дії викликають різку критику з боку бібліотекарів та колекціонерів.",
+      "ai_title": "Штучний інтелект знищує рідкісні книги заради навчання",
+      "video_keywords": "shredder, destroying paper, old books, library interior"
+    },
+    {
+      "title": "Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99",
+      "link": "https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale",
+      "summary": "The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model costs exactly that much thanks to a recent $50 discount at Amazon. Finding a good QD-OLED monitor under $500 these days is [&#8230;]",
+      "published": "2026-07-27T14:56:38+00:00",
+      "source": "The Verge",
+      "ai_summary": "Ринок ігрових моніторів стає дешевшим завдяки зниженню цін на OLED-технології. Нова 27-дюймова модель від Samsung коштує всього 300 доларів, що робить її надзвичайно привабливою для геймерів з обмеженим бюджетом.",
+      "ai_title": "Samsung випустила доступний QD-OLED монітор за $300",
+      "video_keywords": "computer monitor, gaming setup, rgb lights, desk workspace"
+    },
+    {
+      "title": "Chinese RAM company CXMT makes a $484 billion stock market debut",
+      "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
+      "summary": "The China-based memory firm ChangXin Memory Technologies (CXMT) had a massive first day on the Shanghai stock exchange after its shares surged 466 percent, as reported earlier by The Wall Street Journal and CNBC. The stock market frenzy boosted CXMT's valuation to $484 billion, making it the most valuable Chinese company listed on the exchange. [&#8230;]",
+      "published": "2026-07-27T14:27:16+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія ChangXin Memory Technologies дебютувала на Шанхайській фондовій біржі зі стрімким зростанням акцій на 466 відсотків. Завдяки цьому ринкова вартість гіганта пам'яті сягнула 484 мільярдів доларів.",
+      "ai_title": "Китайський виробник оперативної пам'яті CXMT злетів на біржі",
+      "video_keywords": "stock market, trading floor, digital charts, financial graphs"
     }
   ],
   "Бізнес / Стартапи": [
@@ -771,19 +771,59 @@
       "ai_summary": "Європейська медіамережа залучила 1,6 мільйона доларів посівного фінансування від відомих гравців ринку, включно з фондом Powerhouse Capital та медіагігантом Axel Springer. Завдяки новим інвестиціям компанія оголосила про свій найбільший етап розширення.",
       "ai_title": "Європейський аналог шоу TBPN залучив 1,6 мільйона доларів інвестицій",
       "video_keywords": "television studio, live broadcast, podcast recording, media interview"
+    },
+    {
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+      "published": "2026-07-27T15:01:50+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Safe Superintelligence уклала довгострокове партнерство з Nvidia після двох років роботи в режимі секретності. Це партнерство допоможе стартапу розширити свої потужності та прискорити розробку безпечного штучного інтелекту.",
+      "ai_title": "AI-стартап Іллі Суцкевера об'єднується з Nvidia для масштабування досліджень",
+      "video_keywords": "data center, server racks, computer chips, artificial intelligence"
+    },
+    {
+      "title": "Snapchat now lets you share what you’re listening to in real time",
+      "link": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
+      "summary": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
+      "published": "2026-07-27T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Користувачі Snapchat тепер можуть зв'язати свої акаунти з музичними сервісами, починаючи зі Spotify. Це дозволяє транслювати свою музичну активність друзям та бачити, що саме вони слухають у цю хвилину.",
+      "ai_title": "Snapchat дозволив ділитися музикою, яку ви слухаєте в реальному часі",
+      "video_keywords": "smartphone screen, young people using phone, social media app, smiling friends"
+    },
+    {
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "published": "2026-07-27T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія отримала масштабне початкове фінансування від провідних венчурних фондів, включаючи Index Ventures та Ribbit Capital. Їхня технологія покликана зробити процес контролю над робототехнікою настільки ж простим, як і налаштування звуку.",
+      "ai_title": "Стартап Enigma залучив 70 мільйонів доларів для керування роботами за допомогою повзунка гучності",
+      "video_keywords": "robotic arm, industrial factory, engineer operating machine, futuristic technology"
+    },
+    {
+      "title": "Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search",
+      "link": "https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search",
+      "summary": "<p>Over the weekend, Reddit user <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/\">-void1 posted an alarming discovery on the r/ClaudeAI</a> subreddit: some conversations that users of Anthropic&#x27;s Claude AI chatbot had made &quot;shareable&quot; via a link were being indexed by Google Search, and could be clicked on and accessed by se",
+      "published": "2026-07-27T15:02:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Користувачі Reddit виявили серйозну вразливість: посилання на спільні чати та артефакти Anthropic Claude індексувалися пошуковою системою Google. Будь-хто міг знайти ці приватні діалоги через звичайний пошук.",
+      "ai_title": "Приватні розмови з чат-ботом Claude випадково потрапили у відкритий доступ Google",
+      "video_keywords": "computer monitor, typing on keyboard, error screen, cybersecurity threat"
+    },
+    {
+      "title": "Why SAP says enterprise AI agents need knowledge graphs and governance",
+      "link": "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance",
+      "summary": "<p><i>Presented by SAP </i></p><hr /><p>At <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a>, Max McPhee, senior solution advisor at SAP, spoke with Rob Stretchay, lead analyst at VentureBeat Research, about what it takes for enterprises to move beyond chatbots to autonomous AI agents that can execute real business processes. He argued that the difference comes down to ground",
+      "published": "2026-07-27T14:00:12+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "На конференції VB Transform експерти SAP обговорили перехід бізнесу від звичайних чат-ботів до автономних ШІ-агентів. Для виконання реальних бізнес-процесів компаніям необхідні надійні графи знань та суворе управління.",
+      "ai_title": "SAP назвала головні умови для успішного впровадження корпоративного ШІ",
+      "video_keywords": "business meeting, corporate presentation, modern office, data dashboard"
     }
   ],
   "Крипта": [
-    {
-      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
-      "link": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
-      "summary": "",
-      "published": "2026-07-25T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Експерти вважають, що переведення погодних контрактів у блокчейн може стати одним із найважливіших практичних застосувань криптовалютних технологій. Це дозволить ефективно захистити агросектор та інші індустрії від кліматичних ризиків.",
-      "ai_title": "Токенізація погодних деривативів може стати проривом для крипти в реальному секторі",
-      "video_keywords": "weather forecast screen, stock market charts, digital token, financial graphs"
-    },
     {
       "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
       "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
@@ -1063,6 +1103,56 @@
       "ai_summary": "Керівник Coinbase Браян Армстронг прогнозує масове впровадження штучного інтелекту у фінансову сферу завдяки блокчейну. Мережа Base вже зафіксувала понад 100 мільйонів транзакцій, здійснених за допомогою автономних AI-агентів.",
       "ai_title": "Coinbase інтегрує штучний інтелект у криптоплатежі",
       "video_keywords": "artificial intelligence, futuristic interface, digital payments, mobile app tapping"
+    },
+    {
+      "title": "Circle buys nearly 1,000 blockchain patents from IBM",
+      "link": "https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm",
+      "summary": "",
+      "published": "2026-07-27T12:47:04+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Емітент стейблкоїна USDC компанія Circle укладає масштабну угоду щодо придбання близько тисячі блокчейн-патентів у корпорації IBM. Це суттєво посилить інтелектуальну власність компанії та її позиції на ринку цифрових активів.",
+      "ai_title": "Circle купує тисячу блокчейн-патентів у IBM",
+      "video_keywords": "server room, digital documents, handshake, business office"
+    },
+    {
+      "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
+      "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
+      "summary": "",
+      "published": "2026-07-27T13:32:16+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Регулятор Таїланду стверджує, що криптовалютна біржа Bitkub намагалася приховати кібератаку, яка призвела до крадіжки 50 мільйонів доларів. Це викликало серйозну занепокоєність щодо безпеки користувачів на платформі.",
+      "ai_title": "Комісія з цінних паперів Таїланду звинувачує біржа Bitkub у приховуванні хакерської атаки",
+      "video_keywords": "hacker monitor, cybersecurity, computer code, police investigation"
+    },
+    {
+      "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price eyes $66K as US stocks rise on Iran-strike pause\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gym-up-bitcoin.jpg\" /></p><p>Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session.</p>",
+      "published": "2026-07-27T14:51:26+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс біткоїна демонструє висхідну динаміку та наближається до позначки 66 тисяч доларів. Ринки відреагували зростанням на паузу в конфлікті на Близькому Сході та загальне покращення настроїв інвесторів.",
+      "ai_title": "Біткоїн прагне досягти 66 000 доларів на тлі зростання американських ринків",
+      "video_keywords": "stock market chart, trading floor, digital currency graph, financial district"
+    },
+    {
+      "title": "Binance disappears from Google Play in certain EU countries",
+      "link": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance disappears from Google Play in certain EU countries\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world2-1.jpg\" /></p><p>Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.</p>",
+      "published": "2026-07-27T13:24:17+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Мобільний додаток криптовалютної біржі Binance раптово став недоступним у магазині Google Play в окремих європейських країнах. Це відбувається на тлі посилення контролю за дотриманням нових європейських правил MiCA.",
+      "ai_title": "Додаток Binance зник із Google Play у деяких країнах Євросоюзу",
+      "video_keywords": "smartphone screen, mobile app store, touching phone, digital device"
+    },
+    {
+      "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
+      "link": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
+      "summary": "",
+      "published": "2026-07-27T14:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Платформа ліквідного стейкінгу Lido переміщує активи на мільярди доларів для оптимізації своєї мережі. Метою цього кроку є скорочення кількості валідаторів приблизно на третину задля підвищення децентралізації.",
+      "ai_title": "Lido розпочала масштабне переміщення 16,5 мільярдів доларів у стейкінгу",
+      "video_keywords": "data center, server lights, digital network, glowing graphics"
     }
   ]
 }

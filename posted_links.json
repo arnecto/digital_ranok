@@ -1,17 +1,4 @@
 {
-  "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/": {
-    "title": "Patreon починає активно блокувати AI-ботів замість того, щоб просто просити їх не збирати дані",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-07-19T15:41:59.653976+03:00"
-  },
-  "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance": {
-    "title": "Robinhood прагне залучити 10 мільйонів нових користувачів у DeFi",
-    "category": "Крипта",
-    "posted_at": "2026-07-19T17:15:05.031323+03:00",
-    "summary": "Популярна торгова платформа робить масштабну ставку на децентралізовані фінанси, намагаючись спростити доступ до них для звичайних користувачів. Компанія планує інтегрувати складні DeFi-інструменти у свій інтерфейс, щоб зробити їх зрозумілими для масового інвестора.",
-    "video_keywords": "Крипта",
-    "link": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance"
-  },
   "https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest": {
     "title": "Криптовалютне шахрайство через шкідливе ПЗ у Steam",
     "category": "IT / AI",
@@ -827,5 +814,13 @@
     "summary": "У Північній Кореї заарештували колишніх державних кібероператорів. Їх звинувачують у зламі двох національних банків та подальшому відмиванні вкрадених коштів через криптовалюту.",
     "video_keywords": "police handcuffs, prison bars, digital server room, suspect interrogation",
     "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/": {
+    "title": "PyTorch Monarch тепер підтримує відеокарти AMD",
+    "category": "IT / AI",
+    "posted_at": "2026-07-27T18:08:29.608004+03:00",
+    "summary": "Розробники інтегрували фреймворк PyTorch Monarch для роботи з графічними процесорами AMD через екосистему ROCm. Це дозволить виконувати розподілене навчання моделей за допомогою єдиного контролера на обладнанні від AMD.",
+    "video_keywords": "computer hardware, microchip, servers, technology",
+    "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/"
   }
 }
