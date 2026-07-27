@@ -11,26 +11,6 @@
       "video_keywords": "security camera, surveillance, vandalism, night street"
     },
     {
-      "title": "Tile's security is so bad it's a feature for stalkers",
-      "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-      "summary": "<p>Article URL: <a href=\"https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/\">https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050152\">https://news.ycombinator.com/item?id=49050152</a></p>\n<p>Points: 55</p>\n<p># Comments: 7</p>",
-      "published": "2026-07-25T18:18:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з безпеки б'ють на сполох через слабкий захист трекерів Tile, які фактично перетворилися на інструмент для переслідування людей. Недостатня безпека пристроїв дозволяє зловмисникам легко відстежувати чиєсь місцеперебування без відома власника. Це ставить під сумнів доцільність використання таких гаджетів без посиленого контролю приватності.",
-      "ai_title": "Критичні вразливості трекерів Tile грають на руку сталкерам",
-      "video_keywords": "smartphone tracking, gps map, warning sign, digital security"
-    },
-    {
-      "title": "Google basically confirms the Pixel 11 is getting a price hike",
-      "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from [&#8230;]",
-      "published": "2026-07-25T18:13:36+00:00",
-      "source": "The Verge",
-      "ai_summary": "Керівництво Google фактично підтвердило, що наступне покоління смартфонів Pixel коштуватиме дорожче за попередників. Головною причиною такого кроку називають дефіцит операційної пам'яті на ринку через стрімкий розвиток дата-центрів штучного інтелекту. Через це виробники електроніки змушені переглядати цінову політику на нові пристрої.",
-      "ai_title": "Google натякнула на здорожчання майбутнього смартфона Pixel 11",
-      "video_keywords": "smartphone display, modern phone, technology store, shopping"
-    },
-    {
       "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
       "link": "https://github.com/lucid-fabrics/proxmox-bluetooth",
       "summary": "<p>Article URL: <a href=\"https://github.com/lucid-fabrics/proxmox-bluetooth\">https://github.com/lucid-fabrics/proxmox-bluetooth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050824\">https://news.ycombinator.com/item?id=49050824</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
@@ -639,6 +619,46 @@
       "ai_summary": "YouTube оголосив про багаторічну угоду з NBCUniversal, завдяки якій користувачі Premium-підписки отримають доступ до каталогу Peacock. Нововведення запрацює у 2027 році та об'єднає відеоконтент в одному додатку.",
       "ai_title": "YouTube Premium почне включати підписку на стрімінговий сервіс Peacock",
       "video_keywords": "person watching TV, smartphone streaming, living room couch, television screen"
+    },
+    {
+      "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
+      "link": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
+      "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/\">https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49073267\"",
+      "published": "2026-07-27T17:56:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Генеральний директор NVIDIA Дженсен Хуанг зробив свій перший допис у соцмережі X (колишній Twitter). Його повідомлення стало публічним захистом ідеї відкриවල доступу до моделей штучного інтелекту за підтримки провідних техногігантів.",
+      "ai_title": "Перший пост Дженсена Хуанга в соцмережі X присвячено відкритому доступу до ШІ",
+      "video_keywords": "social media screen, smartphone typing, technology conference, person using laptop"
+    },
+    {
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "link": "https://usefeyn.com/blog/feynobg/",
+      "summary": "<p>Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data.<p>Today, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we're open-sourcing NoBg, the Python library we built to train and run it.<p>Try the model here: <a href=\"https://huggingface.co/spaces/feyninc/feynobg\" rel=\"nofollow\">https://huggingface.co/spaces/feyninc/feynobg</a>. Chec",
+      "published": "2026-07-27T16:59:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили новий відкритий інструмент для автоматичного видалення фону з зображень. Разом із самою моделлю було випущено спеціальну бібліотеку для її навчання та запуску.",
+      "ai_title": "Реліз FeyNoBg: нова модель для автоматичного видалення фону",
+      "video_keywords": "computer monitor, editing photo, software interface, digital tablet"
+    },
+    {
+      "title": "MAI-Cyber 1",
+      "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "summary": "<p>Article URL: <a href=\"https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/\">https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49072361\">https://news.ycombinator.com/item?id=49072361</a></p>\n<p>Points: 115</p>\n<p># Comments: 41</p>",
+      "published": "2026-07-27T16:52:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Корпорація Microsoft анонсувала новий технологічний продукт MAI-Cyber 1. Розробка привернула значну увагу спільноти та викликала активні обговорення серед експертів.",
+      "ai_title": "Microsoft представила новий інструмент MAI-Cyber 1",
+      "video_keywords": "futuristic interface, data center, cybersecurity, computer screen with code"
+    },
+    {
+      "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat",
+      "link": "https://infrawrench.com",
+      "summary": "<p>Article URL: <a href=\"https://infrawrench.com\">https://infrawrench.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49071915\">https://news.ycombinator.com/item?id=49071915</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-27T16:25:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився новий сервіс Infrawrench, який дозволяє розробникам керувати хмарною інфраструктурою за допомогою робочих процесів та звичайного чату. Це має спростити адміністрування та моніторинг хмарних систем.",
+      "ai_title": "Infrawrench: новий інструмент для управління хмарними сервісами через чат",
+      "video_keywords": "server room, cloud computing, typing on keyboard, dashboard analytics"
     }
   ],
   "Бізнес / Стартапи": [
@@ -821,29 +841,59 @@
       "ai_summary": "На ринку з'явився новий NFC-ключ вартістю 9 доларів, який вимагає фізичного сканування для розблокування відволікаючих додатків на телефоні. Цей гаджет створений для боротьби з цифровою залежністю та покращення продуктивності.",
       "ai_title": "Фізичний ключ за 9 доларів блокує доступ до найбільш зависальних додатків",
       "video_keywords": "smartphone, tapping key, NFC tag, person holding phone"
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "published": "2026-07-27T18:32:11+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Копорація Microsoft поповнила свій портфель інструментів штучного інтелекту першою спеціалізованою моделлю безпеки та новою платформою для захисту даних. Ці рішення покликані автоматизувати виявлення загроз та протидіяти хакерським атакам у режимі реального часу. Нова система спрямована на посилення корпоративного захисту в умовах зростання кількості кіберінцидентів.",
+      "ai_title": "Microsoft представила першу модель кібербезпеки на базі штучного інтелекту",
+      "video_keywords": "cybersecurity, hacker, matrix code, server room"
+    },
+    {
+      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+      "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+      "summary": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstanding claims that its app review process keeps users safe from scams.",
+      "published": "2026-07-27T18:28:15+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Apple зіткнулася з позовом від користувачів, які втратили понад 1,8 мільйона доларів через завантаження підробленого додатку для криптовалюти. Цей інцидент ставить під сумнів ефективність процедури перевірки застосунків у App Store, яку компанія завжди позиціонувала як безпечну. Позивачі вимагають компенсації та відповідальності за недогляд.",
+      "ai_title": "Apple судяться через шахрайський криптогаманець у App Store",
+      "video_keywords": "smartphone, courtroom, cryptocurrency, credit card"
+    },
+    {
+      "title": "Antares raises $470M to build nuclear reactors for the US military",
+      "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "summary": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
+      "published": "2026-07-27T17:49:28+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Antares залучила 470 мільйонів доларів інвестицій для розробки та будівництва малих модульних ядерних реакторів потужністю від 100 кВт до 1 МВт. Ці компактні енергоустановки планується використовувати для забезпечення потреб баз Повітряних сил США. Проєкт має на меті підвищити енергонезалежність та автономність військових об'єктів.",
+      "ai_title": "Стартап Antares залучив $470 млн на створення ядерних реакторів для військових",
+      "video_keywords": "nuclear reactor, power plant, engineers, control room"
+    },
+    {
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "published": "2026-07-27T17:28:42+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нещодавній витік даних OpenAI через Hugging Face відродив дискусії серед експертів щодо безпеки та контролю над штучним інтелектом. Подія оголила розбіжності в поглядах на те, як саме слід стримувати та контролювати розвиток потужних алгоритмів. Фахівці сперечаються про баланс між автономністю нових моделей та їхньою безпекою для суспільства.",
+      "ai_title": "Інцидент із безпекою OpenAI знову підняв питання контролю над штучним інтелектом",
+      "video_keywords": "artificial intelligence, server rack, data breach, futuristic interface"
+    },
+    {
+      "title": "AI cites the deep pages but sends humans to the homepage — most sites are built backward",
+      "link": "https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward",
+      "summary": "<p>If your business depends on people clicking through to web pages, the last two years have been brutal. Pew Research Center tracked the browsing behavior of 900 U.S. adults and found that when Google shows an AI summary, <a href=\"https://searchengineland.com/google-ai-overviews-hurting-clicks-study-459434\">users click a traditional result just 8% of the time</a>, roughly half the 15% rate when n",
+      "published": "2026-07-27T17:25:30+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Дослідження показують, що коли Google показує користувачам згенеровані штучним інтелектом підсумки, вони переходять за традиційними посиланнями лише у 8% випадків проти 15% раніше. Це ставить під загрозу бізнес-моделі багатьох вебсайтів, які залежать від пошукового трафіку та кліків. Більшість сучасних ресурсів виявляються не готовими до змін у поведінці користувачів.",
+      "ai_title": "Чому пошуковий ШІ знижує трафік традиційних сайтів",
+      "video_keywords": "person typing, computer screen, website analytics, office desk"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-      "link": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-state-department.png\" /></p><p>The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department o",
-      "published": "2026-07-25T18:15:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Інститут політики біткоїна та партійні організації отримали можливість відрядити своїх фахівців для роботи спільно з представниками Держдепартаменту США. Це партнерство спрямоване на просування технологій цифрової свободи та посилення ролі криптовалют у державній політиці. Очікується, що ініціатива сприятиме кращому розумінню децентралізованих фінансів на міжнародному рівні.",
-      "ai_title": "Біткоїн-асоціація приєднається до програми цифрової свободи Держдепу США",
-      "video_keywords": "government building, diplomats meeting, laptop typing, cryptocurrency symbols"
-    },
-    {
-      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
-      "link": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood in talks with Crypto.com over prediction markets: WSJ\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg\" /></p><p>While prediction market companies in the US continue to face legal battles between state and fe",
-      "published": "2026-07-25T21:01:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінтех-гігант Robinhood розглядає можливість партнерства або інтеграції з платформою Crypto.com для запуску ринків прогнозів. Цей крок свідчить про зростаючий інтерес традиційних фінансових платформ до сектора ставок на реальні події.",
-      "ai_title": "Robinhood веде переговори з Crypto.com щодо ринків прогнозів",
-      "video_keywords": "smartphone app, financial charts, trading interface, modern office"
-    },
     {
       "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
       "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1173,6 +1223,16 @@
       "ai_summary": "Компанія Payward, яка володіє біржею Kraken, поглинає гаманцевий бізнес Magic Labs. Це придбання дозволить інтегрувати передові технології зберігання активів безпосередньо у корпоративну екосистему біржі.",
       "ai_title": "Материнська компанія Kraken купує гаманець Magic Labs",
       "video_keywords": "smartphone screen, mobile app, digital wallet, person tapping phone"
+    },
+    {
+      "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
+      "link": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
+      "summary": "",
+      "published": "2026-07-27T18:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Популярні серед криптотрейдерів фінансові інструменти обсягом у 90 трильйонів доларів готуються до виходу на традиційні біржі Волл-стріт. Проте великі банки демонструють обережність і не поспішають масово інтегрувати ці продукти у свої портфелі через регуляторні ризики.",
+      "ai_title": "Криптодеривативи на 90 трильйонів доларів йдуть на Волл-стріт, але банки не поспішають",
+      "video_keywords": "Wall Street building, stock exchange floor, digital trading screens, financial district"
     }
   ]
 }
