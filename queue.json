@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "What if LLMs escape through inferences itself? This is fiction. For now",
-      "link": "https://www.agrillo.it/EvasionEn.html",
-      "summary": "<p>Article URL: <a href=\"https://www.agrillo.it/EvasionEn.html\">https://www.agrillo.it/EvasionEn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49059660\">https://news.ycombinator.com/item?id=49059660</a></p>\n<p>Points: 21</p>\n<p># Comments: 32</p>",
-      "published": "2026-07-26T16:23:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття досліджує гіпотетичний сценарій, чи здатний штучний інтелект самостійно вирватися за межі системи під час обробки запитів. Наразі автори розглядають це виключно як наукову фантастику, але концепція змушує замислитися над безпекою майбутніх моделей. Обговорення торкається теоретичних ризиків автономності штучного інтелекту.",
-      "ai_title": "Чи можуть великі мовні моделі втекти під час інференсу?",
-      "video_keywords": "server room, glowing data, futuristic computer screen, artificial intelligence"
-    },
-    {
       "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
       "link": "https://github.com/hertz-ai/HARTOS",
       "summary": "<p>Article URL: <a href=\"https://github.com/hertz-ai/HARTOS\">https://github.com/hertz-ai/HARTOS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49061015\">https://news.ycombinator.com/item?id=49061015</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
@@ -699,6 +689,56 @@
       "ai_summary": "За даними інсайдерів, Apple готує до випуску новий пристрій для розумного дому, який поєднує функції колонки HomePod та сенсорного екрана. Гаджет стане конкурентом аналогічних пристроїв від Google та Amazon і з'явиться на ринку вже восени.",
       "ai_title": "Новий розумний хаб від Apple може вийти вже у жовтні",
       "video_keywords": "smart home device, touchscreen tablet, modern interior, voice assistant"
+    },
+    {
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087091\">https://news.ycombinator.com/item?id=49087091</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-28T17:22:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic дослідила можливості штучного інтелекту Claude у виявленні слабких місць та вразливостей у криптографічних алгоритмах. Результати демонструють новий потенціал мовних моделей у сфері кібербезпеки та аудиту коду. Такі інструменти можуть суттєво допомогти розробникам завчасно знаходити та усувати критичні помилки.",
+      "ai_title": "Пошук криптографічних вразливостей за допомогою Claude",
+      "video_keywords": "cybersecurity, hacker, coding, computer screen"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/scientific-computing-agentic-ai/\">https://openai.com/index/scientific-computing-agentic-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086987\">https://news.ycombinator.com/item?id=49086987</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-28T17:13:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "OpenAI опублікувала матеріали про те, як автономні AI-агенти змінюють підхід до наукових обчислень і досліджень. Нові технології дозволяють автоматизувати складні симуляції та аналіз даних у режимі реального часу. Це відкриває шлях до значно швидших відкриттів у фізиці, біології та інших наукових дисциплінах.",
+      "ai_title": "Наукові обчислення в епоху агентного штучного інтелекту",
+      "video_keywords": "laboratory, scientist, futuristic computer, digital graphs"
+    },
+    {
+      "title": "Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
+      "link": "https://github.com/xyTom/coding-tools-mcp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xyTom/coding-tools-mcp\">https://github.com/xyTom/coding-tools-mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49086871\">https://news.ycombinator.com/item?id=49086871</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-28T17:04:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Вийшла оновлена версія Coding Tools MCP (v0.2.2), яка надає будь-якому штучному інтелекту або чат-агенту можливість безпосередньо взаємодіяти з вашим кодом. Це дозволяє асистентам виконувати практичні завдання редагування та налагодження програм. Інструмент значно спрощує щоденну роботу розробників.",
+      "ai_title": "Нові інструменти MCP дають змогу AI керувати вашим кодом",
+      "video_keywords": "programmer, typing on keyboard, dual monitors, source code"
+    },
+    {
+      "title": "You Could Have Come Up with Kimi Delta Attention",
+      "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "summary": "<p>Article URL: <a href=\"https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention\">https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085909\">https://news.ycombinator.com/item?id=49085909</a></p>\n<p>Points: 137</p>\n<p># Comments: 36</p>",
+      "published": "2026-07-28T16:02:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У технічному блозі детально розбирається архітектура Kimi Delta Attention та доводиться, що базові принципи цього механізму є інтуїтивно зрозумілими для розробників. Автор розклав складні математичні концепції на прості кроки для кращого розуміння. Стаття викликала великий інтерес в AI-спільноті завдяки своїй практичній цінності.",
+      "ai_title": "Як самостійно розробити Kimi Delta Attention",
+      "video_keywords": "whiteboard, equations, data science, studying"
+    },
+    {
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "summary": "<p>Article URL: <a href=\"https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html\">https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085698\">https://news.ycombinator.com/item?id=49085698</a></p>\n<p>Points: 63</p>\n<p># Comments: 6</p>",
+      "published": "2026-07-28T15:48:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відомий дослідник Себастьян Рашке опублікував детальний розбір архітектури нової мовної моделі Kimi K3. У матеріалі проаналізовано ключові технічні особливості, які вирізняють цю модель серед конкурентів. Дослідження корисне для всіх, хто стежить за розвитком сучасних архітектур штучного інтелекту.",
+      "ai_title": "Огляд архітектури та нотатки щодо моделі Kimi K3",
+      "video_keywords": "server room, data center, futuristic interface, microchip"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1061,29 +1101,39 @@
       "ai_summary": "Популярний месенджер додав підтримку дзвінків безпосередньо у браузері. Вебверсія тепер повністю підтримує демонстрацію екрана та реакції, аналогічно до мобільного та десктопного додатків.",
       "ai_title": "У вебверсії WhatsApp з'явилася функція голосових та відеозв'язків",
       "video_keywords": "laptop screen, video call, web browser, typing on keyboard"
+    },
+    {
+      "title": "Saudi prince buys 5% stake in Lucid Motors",
+      "link": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
+      "summary": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
+      "published": "2026-07-28T17:33:51+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Саудівський принц придбав 5% акцій компанії Lucid Motors. Це сталося на тлі чуток про можливий вихід автовиробника на приватний ринок, які компанія раніше спростовувала.",
+      "ai_title": "Саудівський принц інвестує у виробника електромобілів Lucid Motors",
+      "video_keywords": "electric car, luxury vehicle, stock market, business handshake"
+    },
+    {
+      "title": "GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests",
+      "link": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests",
+      "summary": "<p>Software engineers at <a href=\"https://www.gm.com/innovation/autonomous-driving\">General Motors&#x27; (GM&#x27;s) autonomous driving division </a>spend only 15% of their time writing code, according to Rashed Haq, GM&#x27;s VP of autonomous vehicles, in a recent onstage interview at <a href=\"https://venturebeat.com/vbtransform2026/agenda\">VB Transform 2026.</a></p><p>GM is now using AI agents t",
+      "published": "2026-07-28T17:29:58+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Підрозділ безпілотних автомобілів General Motors переформатував робочі процеси інженерів навколо AI-агентів. Це дозволило втричі збільшити кількість успішно інтегрованого програмного коду.",
+      "ai_title": "General Motors потроїла продуктивність розробників за допомогою штучного інтелекту",
+      "video_keywords": "software developer, computer screen, artificial intelligence, office workspace"
+    },
+    {
+      "title": "Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature",
+      "link": "https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature",
+      "summary": "<p>Runway spent weeks trying to engineer its way out of a stubborn bug: AI-generated avatars would drift off-center during real-time video generation. The fix wasn&#x27;t a back-end patch — it was a new front-end feature that just worked around the problem. That&#x27;s the kind of lesson Ryan Phillips, head of enterprise product at Runway ML, walked through at <a href=\"https://venturebeat.com/vbtr",
+      "published": "2026-07-28T17:20:10+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Коли розробники Runway не змогли виправити помилку зі зміщенням AI-аватарів у відео, вони вирішили зробити з цього корисну функцію. Такий нестандартний підхід допоміг ефективно обійти технічне обмеження.",
+      "ai_title": "Як компанія Runway перетворила технічний збій на нову функцію ШІ",
+      "video_keywords": "video editing, computer monitor, creative studio, software interface"
     }
   ],
   "Крипта": [
-    {
-      "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
-      "link": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC issues second warning to prediction markets on cookie-cutter self-certifications\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule.png\" /></p><p>For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style c",
-      "published": "2026-07-26T17:45:05+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Американський регулятор удруге за рік закликав платформи ринків прогнозів припинити використання занадто широких та шаблонних документів для самосертифікації. Комісія наголошує на необхідності більш відповідального підходу до дотримання нормативних вимог у цій сфері.",
-      "ai_title": "CFTC винесла друге попередження ринкам прогнозів через шаблонні сертифікації",
-      "video_keywords": "financial chart, regulatory gavel, computer screen, trading desk"
-    },
-    {
-      "title": "2 weeks left for Clarity: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
-      "summary": "",
-      "published": "2026-07-26T18:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Наближається ключова подія для криптоіндустрії — саміт State of Crypto, де обговорять питання регулювання та подальший розвиток галузі. Учасники ринку очікують важливих оголошень щодо майбутнього цифрових активів.",
-      "ai_title": "Залишилося два тижні до саміту State of Crypto",
-      "video_keywords": "cryptocurrency conference, digital currency stage, crypto event audience, blockchain summit"
-    },
     {
       "title": "WEMIX says attacker moved about $724,000 after contract breach",
       "link": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1643,6 +1693,26 @@
       "ai_summary": "Проєкти у сфері децентралізованих фінансів, які пережили масштабний обвал ринку у 2022 році, масово припиняють роботу. Аналітики пояснюють це новими ринковими реаліями та зміною вимог до індустрії.",
       "ai_title": "Чому вижилі у криптокрасі DeFi-проєкти закриваються зараз",
       "video_keywords": "falling chart, stock market crash, empty office, depressed businessman"
+    },
+    {
+      "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
+      "link": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-126255-openai-semiconductor-chip-entice-uae-investors.jpg\" /></p><p>Bitcoin and crypto dropped as contagion from a major Asia stock-market correction spreads ",
+      "published": "2026-07-28T16:27:46+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютний ринок зазнав різкого падіння на тлі глобальної корекції фондових ринків, яка почалася з обвалу азіатських акцій технологічних компаній. Курс Біткоїна пробив позначку в 63 тисячі доларів, потягнувши за собою інші цифрові активи.",
+      "ai_title": "Біткоїн впав нижче $63 000 через світову кризу на ринку акцій",
+      "video_keywords": "bitcoin chart, stock market crash, red arrows, financial charts"
+    },
+    {
+      "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
+      "link": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-an-ipo-a-beginners-guide-on-how-crypto-firms-can-go-public.png\" /></p><p>Eligible US users can request IPO allocations, while customers ",
+      "published": "2026-07-28T16:20:57+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютна біржа Kraken дає змогу роздрібним інвесторам долучитися до IPO мережі сендвічів Jersey Mike's. Користувачі зможуть отримати частки через токенізовані акції та прямий розподіл.",
+      "ai_title": "Біржа Kraken відкриває доступ до первинного розміщення акцій через токенізацію",
+      "video_keywords": "smartphone trading app, crypto exchange, financial technology, digital tokens"
     }
   ]
 }
