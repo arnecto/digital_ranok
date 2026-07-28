@@ -1,12 +1,4 @@
 {
-  "https://arxiv.org/abs/2607.14587": {
-    "title": "Безпека Qubes OS: аналіз публічних даних",
-    "category": "IT / AI",
-    "posted_at": "2026-07-20T11:08:01.612697+03:00",
-    "summary": "Дослідження фокусується на методах забезпечення безпеки в операційній системі Qubes OS. Робота аналізує архітектурні підходи, що роблять систему стійкою до сучасних кіберзагроз.",
-    "video_keywords": "IT / AI",
-    "link": "https://arxiv.org/abs/2607.14587"
-  },
   "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/": {
     "title": "Електромобілі стали зручнішими для дальніх подорожей",
     "category": "Бізнес / Стартапи",
@@ -822,5 +814,13 @@
     "summary": "Вийшла нова версія популярного інструменту для аналізу коду Ruff з номером 0.16.0. Головною новою фішечкою стало різке збільшення кількості стандартних правил перевірки — тепер їх аж 413 замість попередніх 59.",
     "video_keywords": "programmer typing code, computer screen, software development, office desk",
     "link": "https://astral.sh/blog/ruff-v0.16.0"
+  },
+  "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/": {
+    "title": "Заклик до «радикальної прозорості» після зльому OpenAI",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-07-28T13:02:07.745472+03:00",
+    "summary": "Генеральний директор Hugging Face різко відреагував на першу автономну кібератаку на системи OpenAI. На його думку, ця безпрецедентна подія вимагає від індустрії екстремальних заходів безпеки та повної відкритості.",
+    "video_keywords": "hacker typing, glowing screens, digital code, cybersecurity, server room",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
   }
 }
