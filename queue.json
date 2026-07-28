@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "We have proof automation now",
-      "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "summary": "<p>Article URL: <a href=\"https://www.imperialviolet.org/2026/07/26/zstd-lean.html\">https://www.imperialviolet.org/2026/07/26/zstd-lean.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49062291\">https://news.ycombinator.com/item?id=49062291</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-26T20:53:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти обговорюють сучасні прориви у сфері автоматичного доведення математичних теорем та програмного коду. Нові підходи дозволяють суттєво підвищити надійність та безпеку складних програмних систем завдяки новим інструментам верифікації.",
-      "ai_title": "Автоматизація доведень у програмуванні стає реальністю",
-      "video_keywords": "computer screen, programming code, typing, office desk"
-    },
-    {
       "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
       "link": "https://github.com/hkc5/cursor-bridge",
       "summary": "<p>Article URL: <a href=\"https://github.com/hkc5/cursor-bridge\">https://github.com/hkc5/cursor-bridge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063186\">https://news.ycombinator.com/item?id=49063186</a></p>\n<p>Points: 6</p>\n<p># Comments: 5</p>",
@@ -719,6 +709,56 @@
       "ai_summary": "Команда розробників представила чергове оновлення швидкого та ефективного менеджеру пакетів uv. Нова версія містить покращення стабільності, продуктивності та виправлення помилок для розробників на Python.",
       "ai_title": "Вийшов новий реліз пакету менеджера uv 0.12.0",
       "video_keywords": "coding on laptop, software development, programmer typing, terminal screen"
+    },
+    {
+      "title": "OpenAI just open-sourced Codex Security",
+      "link": "https://github.com/openai/codex-security",
+      "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex-security\">https://github.com/openai/codex-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089755\">https://news.ycombinator.com/item?id=49089755</a></p>\n<p>Points: 110</p>\n<p># Comments: 19</p>",
+      "published": "2026-07-28T20:52:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія OpenAI вирішила зробити у відкритому доступі свій інструмент Codex Security. Це дозволить розробникам ефективніше перевіряти код на вразливості та підвищити загальний рівень безпеки програмного забезпечення.",
+      "ai_title": "OpenAI відкрила вихідний код Codex Security",
+      "video_keywords": "programmer typing code, computer monitor, cybersecurity, software interface"
+    },
+    {
+      "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+      "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+      "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a [&#8230;]",
+      "published": "2026-07-28T21:11:11+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія eBay та її колишні керівники погодилися виплатити понад 55 мільйонів доларів для врегулювання гучного судового позову. Справа стосується кампанії з переслідування та погроз подружжю з Массачусетсу, яку влаштували колишні топменеджери корпорації.",
+      "ai_title": "eBay виплатить 56 мільйонів через скандал з кіберслідкуванням",
+      "video_keywords": "courtroom, legal document, corporate building, modern office interior"
+    },
+    {
+      "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+      "link": "https://github.com/ghaziwali/Hulios",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ghaziwali/Hulios\">https://github.com/ghaziwali/Hulios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089045\">https://news.ycombinator.com/item?id=49089045</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-28T19:54:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено новий інструмент Hulios, який забезпечує роботу мережі Tor на Linux за допомогою технології eBPF. Це рішення дозволяє створити швидкий та непомітний шлюз для безпечного анонімного серфінгу в інтернеті.",
+      "ai_title": "Hulios: новий прозорий шлюз Tor для Linux на базі eBPF",
+      "video_keywords": "server room, flashing lights, computer terminal, data center"
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "summary": "<p>Article URL: <a href=\"https://mac-classic.com/news/half-life-ported-to-mac-os-9/\">https://mac-classic.com/news/half-life-ported-to-mac-os-9/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49089814\">https://news.ycombinator.com/item?id=49089814</a></p>\n<p>Points: 17</p>\n<p># Comments: 8</p>",
+      "published": "2026-07-28T20:58:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти змогли запустити легендарний шутер Half-Life на застарілій операційній системі Mac OS 9. Цей неочікуваний порт продемонстрував можливості ентузіастів у запуску сучасного коду на дуже старому апаратному забезпеченні Apple.",
+      "ai_title": "Культову гру Half-Life портували на стару ОС Mac OS 9",
+      "video_keywords": "retro computer, old desktop monitor, vintage technology, typing on keyboard"
+    },
+    {
+      "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
+      "link": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
+      "summary": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at airports: He was an activist. Unlike others who have had their phones seized with no explanation, Tunick was told [&#8230;]",
+      "published": "2026-07-28T19:35:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Мешканець Джорджії отримав кримінальне звинувачення за те, що дистанційно видалив дані зі свого телефона під час опитування митною службою. Цей випадок піднімає важливі питання щодо конфіденційності даних та законності перевірок гаджетів на кордоні.",
+      "ai_title": "Жителя США звинуватили в оцифровуванні та стиранні даних під час перевірки на кордоні",
+      "video_keywords": "airport security, customs checkpoint, smartphone screen, police questioning"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1181,19 +1221,29 @@
       "ai_summary": "Технічний директор компанії вважає, що більшість рутинної роботи інженерів мають виконувати машини. Завдяки ШІ-агентам команди розробників можуть зосередитися на вирішенні важливих завдань замість виправлення старого коду.",
       "ai_title": "В Instacart заявили, що штучний інтелект допоміг забути про технічний борг",
       "video_keywords": "software developer typing, multiple computer screens, data center, futuristic interface"
+    },
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "published": "2026-07-28T21:29:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Spur Intelligence отримала масштабне фінансування у розмірі 200 мільйонів доларів. Їхня технологія допомагає веб-сайтам відрізняти реальних користувачів від шкідливих ботів. Інвестиції дозволять стартапу прискорити розвиток своєї платформи кібербезпеки.",
+      "ai_title": "Стартап із виявлення ботів Spur залучив $200 мільйонів від Insight Partners",
+      "video_keywords": "cybersecurity dashboard, hacker screen, data analytics, server room"
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "published": "2026-07-28T20:45:12+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Runlayer звинувачує компанію Rippling у копіюванні їхнього шлюзу Model Context Protocol (MCP). За словами позивача, Rippling спершу оцінила їхню технологію під час переговорів, а потім створила власний аналог. Тепер конфликт вирішуватиметься у судовому порядку.",
+      "ai_title": "Стартап Runlayer подав до суду на Rippling через крадіжку ідеї продукту",
+      "video_keywords": "courtroom gavel, business handshake, corporate meeting, law office"
     }
   ],
   "Крипта": [
-    {
-      "title": "WEMIX says attacker moved about $724,000 after contract breach",
-      "link": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"WEMIX says attacker moved about $724,000 after contract breach \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-company-hits-vulnerability.png\" /></p><p>WEMIX suspended bridges, liquidity-pool trading and several services after an attacker compromised a WEMIX$-linked contract and moved 724,",
-      "published": "2026-07-26T22:53:55+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Екосистема WEMIX була змушена тимчасово зупинити мости та роботу ліквідних пулів через хакерську атаку. Зловмисник скористався вразливістю у смартконтракті та перевів криптовалюту на суму близько 724 000 доларів.",
-      "ai_title": "Хакі вивели понад 700 тисяч доларів після зльому протоколу WEMIX",
-      "video_keywords": "hacker typing on laptop, digital security alert, red warning screen, crypto charts falling"
-    },
     {
       "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
       "link": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
