@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "An ESP32 based plane radar for my desk",
-      "link": "https://blog.ktz.me/esp32-plane-radar/",
-      "summary": "<p>Article URL: <a href=\"https://blog.ktz.me/esp32-plane-radar/\">https://blog.ktz.me/esp32-plane-radar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054107\">https://news.ycombinator.com/item?id=49054107</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
-      "published": "2026-07-26T02:35:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіаст створив компактний радар для відстеження літаків, який поміщається на робочому столі. Пристрій працює на базі популярного чіпа ESP32 та в реальному часі відображає повітряний рух поблизу. Це цікавий проєкт для любителів електроніки та авіації у форматі «зроби сам».",
-      "ai_title": "Настільний авіарадар на базі мікроконтролера ESP32",
-      "video_keywords": "microchip, circuit board, soldering iron, electronic components"
-    },
-    {
-      "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-      "link": "https://golfcoursebrowser.com/",
-      "summary": "<p>I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https://golfcoursebrowser.com/\" rel=\"nofollow\">https://golfcoursebrowser.com/</a><p>It's a work in progress and mostly US for now, but I want to expand to the rest of North ",
-      "published": "2026-07-26T02:22:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив зручний безкоштовний каталог понад 16 тисяч полів для гольфу в США без необхідності реєстрації. Проєкт базується на даних OpenStreetMap та вирішує проблему поганої фільтрації таких локацій у звичайних пошукових системах. Автор планує розширювати географію сервісу на інші країни Північної Америки.",
-      "ai_title": "Безкоштовна інтерактивна карта всіх гольф-полів США",
-      "video_keywords": "golf course, aerial drone shot, green grass, holding golf club"
-    },
-    {
-      "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
-      "link": "https://synaptale.com/graph?ch=100",
-      "summary": "<p>The graph is free to explore and requires no registration.<p>SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships).\nThe graph is not a visualization of the wiki. The wiki, timelines, relationship histories, and analytics are projections of the graph.<p>The current demo contains 232 entities, 1,852 edges, and a snapshot of",
-      "published": "2026-07-26T02:18:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився новий проєкт, який перетворює великі літературні твори на часові графи знань із вузлами та зв'язками. На прикладі серії книг про Чарівника Оз можна досліджувати взаємозв'язки між персонажами та їхні дії в динаміці. Така модель сюжету дає змогу по-новому аналізувати художні тексти за допомогою технологій.",
-      "ai_title": "Візуалізація книг у вигляді інтерактивних графів знань",
-      "video_keywords": "futuristic interface, glowing nodes, data visualization, network connections"
-    },
-    {
-      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
-      "link": "https://github.com/mulfyx/w4me-station",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mulfyx/w4me-station\">https://github.com/mulfyx/w4me-station</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054697\">https://news.ycombinator.com/item?id=49054697</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
-      "published": "2026-07-26T04:19:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили W4ME Station — спеціальне середовище виконання, яке дозволяє запускати ігри з мінімалістичної віртуальної машини WASM-4 на класичних мобільних телефонах із підтримкою Java ME. Цей проєкт поєднує сучасні ретро-технології з ностальгією за старими мобільними пристроями. Це цікавий експеримент з оптимізації та запуску сучасного коду на застарілому залізі.",
-      "ai_title": "Запуск W4ME Station: як запустити ігри WASM-4 на старих телефонях Java ME",
-      "video_keywords": "vintage mobile phone, old keypad phone, retro gaming, hands typing"
-    },
-    {
       "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
       "link": "https://astral.sh/blog/ruff-v0.16.0",
       "summary": "<p>Article URL: <a href=\"https://astral.sh/blog/ruff-v0.16.0\">https://astral.sh/blog/ruff-v0.16.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056112\">https://news.ycombinator.com/item?id=49056112</a></p>\n<p>Points: 55</p>\n<p># Comments: 7</p>",
@@ -689,6 +649,46 @@
       "ai_summary": "Анонсовано нову незалежну гру Hard Road із процедурно згенерованим світом у постапокаліптичному сеттинзі. Проєкт вирізняється унікальною візуальною стилістикою та динамічним середовищем.",
       "ai_title": "Hard Road — атмосферна процедурна постапокаліптична гра",
       "video_keywords": "video game playing, joystick, dark room, screen glow"
+    },
+    {
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "link": "https://fermisense.com/when-machines-take-the-wheel/",
+      "summary": "<p>Article URL: <a href=\"https://fermisense.com/when-machines-take-the-wheel/\">https://fermisense.com/when-machines-take-the-wheel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078454\">https://news.ycombinator.com/item?id=49078454</a></p>\n<p>Points: 54</p>\n<p># Comments: 10</p>",
+      "published": "2026-07-28T02:18:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники довели, що відкрита модель із 9 мільярдами параметрів за допомогоюreinforcement learning коштом лише у 500 доларів змогла перевершити передові комерційні моделі у задачах перевірки каталогів. Це свідчить про те, що спеціалізоване налаштування відкритих систем може конкурувати з дорогими флагманськими рішеннями. Дослідження демонструє новий шлях до створення ефективного та дешевого штучного інтелекту.",
+      "ai_title": "Бюджетна донавчена відкрита модель перевершила провідні аналоги",
+      "video_keywords": "computer screen, lines of code, data center, servers blinking"
+    },
+    {
+      "title": "EYG: A Programming Language for Humans",
+      "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "summary": "<p>Article URL: <a href=\"https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/\">https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078463\">https://news.ycombinator.com/item?id=49078463</a></p>\n<p>Points: 28</p>\n<p># Comments: 10</p>",
+      "published": "2026-07-28T02:21:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено мову програмування EYG, розроблену з акцентом на простоту та зручність для розробників. Автори прагнуть зробити написання коду інтуїтивно зрозумілим і доступним для широкого кола людей. Проєкт пропонує свіжий погляд на синтаксис та взаємодію користувача з комп'ютером.",
+      "ai_title": "EYG: нова мова програмування для людей",
+      "video_keywords": "programmer typing, laptop keyboard, office workspace, coding close up"
+    },
+    {
+      "title": "Using an open model feels surprisingly good",
+      "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "summary": "<p>Article URL: <a href=\"https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/\">https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078583\">https://news.ycombinator.com/item?id=49078583</a></p>\n<p>Points: 88</p>\n<p># Comments: 37</p>",
+      "published": "2026-07-28T02:37:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти та розробники все частіше звертають увагу на переваги роботи з відкритими моделями ШІ. На відміну від закритих комерційних систем, вони дають більше свободи, контролю та прозорості у роботі. Такий підхід змінює досвід взаємодії користувачів із сучасними технологіями.",
+      "ai_title": "Чому використання відкритих моделей штучного інтелекту приносить задоволення",
+      "video_keywords": "person smiling, using laptop, modern office, typing on computer"
+    },
+    {
+      "title": "Residential Proxies Are a National Security Threat",
+      "link": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
+      "summary": "<p>Article URL: <a href=\"https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/\">https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078266\">https://news.ycombinator.com/item?id=49078266</a></p>\n<p>Points: 24</p>\n<p># Comments: 22</p>",
+      "published": "2026-07-28T01:51:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти з кібербезпеки попереджають про небезпеку використання резидентних проксі-серверів у глобальному масштабі. Вони можуть використовуватися зловмисниками для приховування кібератак та обходу захисних систем. Це ставить під загрозу цифрову інфраструктуру цілих держав.",
+      "ai_title": "Резидентні проксі як загроза національній безпеці",
+      "video_keywords": "hacker typing, dark room, glowing screens, cybersecurity matrix"
     }
   ],
   "Бізнес / Стартапи": [
@@ -951,19 +951,19 @@
       "ai_summary": "Співзасновник та генеральний директор Anthropic Даріо Амодей висловив своє ставлення до моделей із відкритими вагами. Він наголосив, що не виступає проти самого підходу, проте серйозно побоюється стрімкого розвитку штучного інтелекту в Китаї.",
       "ai_title": "Голова Anthropic назвав головну загрозу відкритих моделей ШІ",
       "video_keywords": "artificial intelligence, server room, businessman talking, data center"
+    },
+    {
+      "title": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
+      "link": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
+      "summary": "<p>Chinese AI startup Moonshot AI, creators of the increasingly famous &quot;Kimi K&quot; family of powerful, open AI models, today released the full weights for its largest and most performant version yet — <a href=\"https://www.kimi.com/blog/kimi-k3\">Kimi K3</a>. But enterprises evaluating the model should read the attached custom <a href=\"https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICEN",
+      "published": "2026-07-28T02:08:51+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Китайський стартап Moonshot AI презентував повну вагу своєї нової потужної моделі Kimi K3. Проте компаніям варто ретельно вивчити спеціальні ліцензійні умови перед використанням технології у комерційних цілях.",
+      "ai_title": "Moonshot AI випустила модель Kimi K3 із застереженнями для бізнесу",
+      "video_keywords": "server room, data center, computer screen, artificial intelligence"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
-      "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
-      "summary": "",
-      "published": "2026-07-26T06:59:51+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Відома криптовалютна біржа BitMart оголосила про згортання своєї діяльності після того, як її нативний токен BMX обвалився на 58%. Користувачі почали масово повідомляти про затримки з виведенням коштів, а остаточне припинення торгівлі заплановане на серпень.",
-      "ai_title": "Криптобіржа BitMart закривається після 9 років роботи",
-      "video_keywords": "closed storefront, security gate, padlock, empty office"
-    },
     {
       "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
       "link": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
@@ -1353,6 +1353,26 @@
       "ai_summary": "Сенат США вирішив тимчасово відкласти розгляд законопроєкту Clarity Act щодо регулювання криптовалют. Законодавці вирішили сфокусувати обмежені ресурсні можливості на інших пріоритетних державних питаннях.",
       "ai_title": "Сенат США відклав розгляд закону про регулятори крипторинку",
       "video_keywords": "us capitol building, politicians meeting, documents signing"
+    },
+    {
+      "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
+      "link": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong prepares banks for quantum threats amid tokenization push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg\" /></p><p>The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks b",
+      "published": "2026-07-28T02:21:04+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Валютне управління Гонконгу зобов'язує місцеві банки готуватися до потенційних кібератак на основі квантових технологій. Це відбувається на тлі активного розвитку токенізації та цифровізації фінансового сектору регіону.",
+      "ai_title": "Банки Гонконгу готуються до квантових загроз",
+      "video_keywords": "bank building, futuristic data center, digital security, glowing servers"
+    },
+    {
+      "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
+      "link": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zimbabwe admits seven fintech projects to regulatory sandbox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coinsavanna.jpg\" /></p><p>Sandbox participation permits supervised testing but does not guarantee full commercial registration.</p>",
+      "published": "2026-07-28T03:17:10+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Центральний банк Зімбабве дозволив семи новим фінансово-технологічним проєктам тестування у спеціальній регуляторній пісочниці. Проте таке схвалення ще не гарантує компаніям повноцінну комерційну реєстрацію в країні.",
+      "ai_title": "Зімбабве запускає сім нових фінтех-проєктів",
+      "video_keywords": "financial district, modern office building, business handshake, mobile banking"
     }
   ]
 }
