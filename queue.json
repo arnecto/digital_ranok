@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3",
-      "summary": "<p>Article URL: <a href=\"https://huggingface.co/moonshotai/Kimi-K3\">https://huggingface.co/moonshotai/Kimi-K3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49065752\">https://news.ycombinator.com/item?id=49065752</a></p>\n<p>Points: 171</p>\n<p># Comments: 55</p>",
-      "published": "2026-07-27T06:18:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Moonshot AI презентувала свою нову штучну мовну модель Kimi-K3 на платформі HuggingFace. Реліз викликав значний інтерес серед розробників та дослідників у сфері штучного інтелекту.",
-      "ai_title": "Moonshot AI випустила нову модель Kimi-K3 на HuggingFace",
-      "video_keywords": "computer screen, typing code, artificial intelligence, glowing interface"
-    },
-    {
-      "title": "How is the Bun Rewrite in Rust going?",
-      "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "summary": "<p>Article URL: <a href=\"https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html\">https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067854\">https://news.ycombinator.com/item?id=49067854</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-27T11:12:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розглядається прогрес та поточний статус амбітного переписування швидкого JavaScript-рантайму Bun на мову програмування Rust. Цей процес покликаний підвищити продуктивність, надійність та безпеку інструменту для розробників. Автор аналізує ключові технічні труднощі та досягнення команди під час міграції кодової бази.",
-      "ai_title": "Стан переписування Bun на мові Rust",
-      "video_keywords": "programmer typing code, computer screen, software development, code editor"
-    },
-    {
       "title": "If digital computers are conscious, they are conscious at the hardware level",
       "link": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
       "summary": "<p>Article URL: <a href=\"https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html\">https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067556\">https://news.ycombinator.com/item?id=49067556</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
@@ -809,6 +789,36 @@
       "ai_summary": "Дослідники представили Transformer Transformer — уніфіковану модель на основі архітектури трансформерів, яка оптимізує створення роботів під конкретні рухи та завдання. Це значний крок вперед у галузі робототехніки та штучного інтелекту.",
       "ai_title": "Універсальна модель для спільного проєктування роботів",
       "video_keywords": "robot arm, laboratory, engineering, futuristic technology"
+    },
+    {
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "summary": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093435\">https://news.ycombinator.com/item?id=49093435</a></p>\n<p>Points: 29</p>\n<p># Commen",
+      "published": "2026-07-29T04:30:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники здійснили важливий технічний крок, перенісши драйвер RADV на платформу Win32. Це дозволяє покращити підтримку сучасних графічних стандартів та відкриває нові перспективи для оптимізації ігор і додатків на Windows.",
+      "ai_title": "Портування драйвера RADV на Windows відкриває нові можливості для графіки",
+      "video_keywords": "computer screen, programming code, electronics workbench, soldering iron"
+    },
+    {
+      "title": "User Interfaces of the Demo Scene",
+      "link": "https://www.datagubbe.se/scenegui/",
+      "summary": "<p>Article URL: <a href=\"https://www.datagubbe.se/scenegui/\">https://www.datagubbe.se/scenegui/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093434\">https://news.ycombinator.com/item?id=49093434</a></p>\n<p>Points: 88</p>\n<p># Comments: 11</p>",
+      "published": "2026-07-29T04:30:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналіз унікальних та експериментальних користувацьких інтерфейсів, які створені ентузіастами демосцени. Стаття досліджує нестандартні підходи до дизайну та програмування візуальних елементів на обмеженому залізі.",
+      "ai_title": "Еволюція інтерфейсів у світі демосцени",
+      "video_keywords": "retro computer, neon lights, glowing screen, hacker typing"
+    },
+    {
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093569\">https://news.ycombinator.com/item?id=49093569</a></p>\n<p>Points: 96</p>\n<p># Comments: 17</p>",
+      "published": "2026-07-29T04:58:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти знайшли новий спосіб використання VPN-сервісу Tailscale на модифікованих пристроях Kindle. Це дозволяє об'єднувати гаджети в захищену віртуальну мережу та використовувати їх у нестандартних сценаріях.",
+      "ai_title": "Як налаштувати Tailscale на зламаному електронному рідері Kindle",
+      "video_keywords": "e-reader, reading book, glowing tablet, hacker workspace"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1294,26 +1304,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
-      "link": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
-      "summary": "",
-      "published": "2026-07-27T06:43:34+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалютний ринок демонструє висхідну динаміку, де лідером стає Ethereum. Тим часом попит на золоті злитки та імпорт дорогоцінного металу в Китаї досягають нових рекордів, що сигналізує про зміни у глобальних інвестиційних трендах.",
-      "ai_title": "Ефір очолює зростання крипторинку на тлі зростання імпорту золота в Китаї",
-      "video_keywords": "cryptocurrency charts, gold bars, financial trading screens, stock market graphs"
-    },
-    {
-      "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
-      "link": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
-      "summary": "",
-      "published": "2026-07-27T06:37:54+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Розвиток квантових технологій може становити серйозну небезпеку для безпеки блокчейн-мереж та криптографічного захисту. Фахівці закликають розробників заздалегідь готуватися до цих кіберзагроз, які здатні зламати поточні алгоритми шифрування.",
-      "ai_title": "Експерти попереджають про загрозу квантових комп'ютерів для криптовалют",
-      "video_keywords": "quantum computer, server rack, glowing circuits, cybersecurity matrix"
-    },
     {
       "title": "Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation",
       "link": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
@@ -1943,6 +1933,56 @@
       "ai_summary": "Компанія Tether підписала стратегічну угоду про співпрацю з Найробійською фондовою біржею. Партнерство передбачає розвиток токенізованих цінних паперів, створення інфраструктури на базі блокчейну та можливе інтегрування стейблкоїна USDT у місцеві ринки.",
       "ai_title": "Tether уклала угоду про токенізацію з фондовою біржею Найробі",
       "video_keywords": "stock exchange building, handshake, business meeting, financial district"
+    },
+    {
+      "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
+      "link": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
+      "summary": "",
+      "published": "2026-07-29T06:25:21+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс біткоїна піднявся вище 64 тисяч доларів під час азійської сесії на тлі очікування ключового рішення Федеральної резервної системи США щодо процентних ставок. Ринки уважно стежать за цим засіданням, оскільки воно може суттєво вплинути на подальшу динаміку криптовалютного ринку.",
+      "ai_title": "Біткоїн перевищив позначку в 64 000 доларів напередодні рішення ФРС",
+      "video_keywords": "bitcoin price chart, financial trading screen, cryptocurrency exchange, green candles"
+    },
+    {
+      "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs extend outflow streak as BTC fails to hold $65K\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-exchange-executive-digital-currency-as-the-basis-of-the-post-crisis-world-order-4.jpg\" /></p><p>US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526",
+      "published": "2026-07-29T07:16:47+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американські спотові біткоїн-ETF продемонстрували кілька днів відтоку інвестицій поспіль. Це сталося через нездатність першої криптовалюти втримати психологічний рівень у 65 000 доларів, що охолодило інтерес інституційних інвесторів.",
+      "ai_title": "Спотові біткоїн-ETF фіксують відтік капіталу на тлі падіння ціни BTC",
+      "video_keywords": "stock market crash, red trading charts, financial graphs falling, digital currency loss"
+    },
+    {
+      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
+      "link": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK policy sprint finds cross-border payments are stablecoins’ top use case\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2.jpg\" /></p><p>Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption i",
+      "published": "2026-07-29T07:11:27+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Британські регулятори та учасники ринку дійшли висновку, що транскордонні платежі є найкращим сценарієм використання стейблкоїнів на сьогодні. Дослідження показало, що саме міжнародні перекази приносять найбільшу користь фінансовій системі.",
+      "ai_title": "У Великій Британії назвали головне призначення стейблкоїнів",
+      "video_keywords": "global map, international money transfer, digital banking, mobile payment"
+    },
+    {
+      "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
+      "link": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Telegram founder Pavel Durov internationally wanted, Russia’s FSB says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/durov-sitting-in-office-2.jpg\" /></p><p>Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate F",
+      "published": "2026-07-29T06:32:25+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Російська ФСБ стверджує, що засновник месенджера Telegram Павло Дуров нібито перебуває у міжнародному розшуку та стикається з обвинуваченнями, пов'язаними з тероризмом. Ця заява викликала широкий резонанс у медіапросторі щодо безпеки платформи.",
+      "ai_title": "ФСБ РФ заявила про міжнародний розшук засновника Telegram Павла Дурова",
+      "video_keywords": "smartphone with messenger app, digital security, cyberpunk hacker, news broadcast screen"
+    },
+    {
+      "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
+      "link": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/wall-warning-hyperliquid-1.jpg\" /></p><p>Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the",
+      "published": "2026-07-29T05:29:48+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Trade.xyz погодилася покрити всі збитки користувачів, які постраждали від масштабної ліквідації через цінову аномалію. Проблема виникла через технічний збій оракула даних щодо акцій SK Hynix, але платформа вирішила відшкодувати втрати трейдерам.",
+      "ai_title": "Платформа Trade.xyz компенсує збитки трейдерів після аномального збою",
+      "video_keywords": "angry trader, computer monitor glitch, financial loss, stock market panic"
     }
   ]
 }
