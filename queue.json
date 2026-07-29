@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing\">https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49071512\">https://news.ycombinator.com/item?id=49071512</a></p>\n<p>Points",
-      "published": "2026-07-27T16:02:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Масштабні угоди Nvidia на суму 750 мільярдів доларів знову привернули увагу ринку до проблеми циклічного фінансування в галузі ШІ. Експерти занепокоєні тим, що інвестиції у технологічний сектор можуть створювати штучний фінансовий бум.",
-      "ai_title": "Мільярдні угоди Nvidia знову викликають побоювання щодо циклічного фінансування штучного інтелекту",
-      "video_keywords": "stock market, financial charts, corporate boardroom, business handshake"
-    },
-    {
       "title": "Why China is giving away its best AI models",
       "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between [&#8230;]",
@@ -19,26 +9,6 @@
       "ai_summary": "Силіконова долина опинилася в стані тривоги через появу нової китайської моделі Kimi K3 від Moonshot AI. Ця система демонструє результати, що перевершують американські аналоги, при цьому коштуючи значно дешевше.",
       "ai_title": "Чому Китай безкоштовно роздає свої найкращі моделі штучного інтелекту",
       "video_keywords": "server room, glowing data center, computer code, artificial intelligence"
-    },
-    {
-      "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
-      "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
-      "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it plans to partner with mobile network operators to offer direct-to-device satellite [&#8230;]",
-      "published": "2026-07-27T15:40:38+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія подала заявку до FCC на запуск супутникового угруповання для прямого зв'язку зі смартфонами. Проєкт має на меті забезпечення голосового зв'язку, обміну повідомленнями та екстрених послуг по всьому світу.",
-      "ai_title": "Amazon планує запустити глобальну супутникову мережу для мобільних телефонів у 2028 році",
-      "video_keywords": "satellite launch, rocket in space, earth from orbit, smartphone in hand"
-    },
-    {
-      "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
-      "link": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
-      "summary": "<p>Article URL: <a href=\"https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition\">https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49070820\">https://news.ycombinator.com/item?id=49070820</a></p>\n<p>Points: 36</",
-      "published": "2026-07-27T15:11:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярна гра Minecraft готується до переходу на графічний API Vulkan, через що системні вимоги суттєво зросли. Розробники рекомендують гравцям оновити апаратне забезпечення для стабільної роботи.",
-      "ai_title": "Minecraft Java підвищує рекомендований обсяг оперативної пам'яті до 16 ГБ",
-      "video_keywords": "gaming pc, computer motherboard, RAM sticks, playing video games"
     },
     {
       "title": "YouTube Premium will include Peacock starting next year",
@@ -839,49 +809,59 @@
       "ai_summary": "Найбільший американський сервіс доставки їжі отримав офіційний дозвіл Федерального авіаційного управління США. Нова програма DoorDash Air відкриває шлях до масового використання безпілотників для швидкого транспортування замовлень.",
       "ai_title": "DoorDash запускає власний підрозділ доставки за допомогою дронів",
       "video_keywords": "delivery drone, flying quadcopter, package delivery, aerial shot"
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "link": "https://usetokenless.com/",
+      "summary": "<p>Hi HN, Rohit here from Tokenless (<a href=\"https://usetokenless.com/\" rel=\"nofollow\">https://usetokenless.com/</a>), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.<p>The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been c",
+      "published": "2026-07-29T15:55:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили шлюз API Tokenless, який автоматично маршрутизує запити агентів між різними модельними провайдерами крок за кроком. Це дозволяє компаніям суттєво оптимізувати витрати на штучний інтелект без втрати якості виконання завдань.",
+      "ai_title": "Tokenless: динамічне перемикання AI-моделей для економії коштів",
+      "video_keywords": "server rack, data center, financial charts, coding screen"
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "link": "https://github.com/drumih/turbo-fieldfare",
+      "summary": "<p>Hi HN,<p>I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.<p>I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.<p>The",
+      "published": "2026-07-29T15:05:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Програмне забезпечення TurboFieldfare дозволяє запускати велику модель Gemma 4 26B, використовуючи лише 2 ГБ оперативної пам'яті на будь-якому комп'ютері Mac із процесором серії M. Проєкт демонструє можливості оптимізації локального штучного інтелекту на побутовому залізі.",
+      "ai_title": "Запуск Gemma 4 на Mac із мінімальним обсягом оперативної пам'яті",
+      "video_keywords": "macbook typing, programmer workspace, code editor, computer desk"
+    },
+    {
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "link": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "summary": "<p>Article URL: <a href=\"https://juliahub.com/blog/frontier-models-physical-ai-evaluation\">https://juliahub.com/blog/frontier-models-physical-ai-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098388\">https://news.ycombinator.com/item?id=49098388</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-29T14:56:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти порівняли ефективність передових мовних моделей GPT-5.6 та Claude Fable 5 для завдань, пов'язаних із фізичним штучним інтелектом та робототехнікою. Тести показують різницю в продуктивності новітніх систем під час взаємодії з реальним середовищем.",
+      "ai_title": "Порівняння GPT-5.6 та Claude Fable 5 у сфері фізичного AI",
+      "video_keywords": "robot arm, automated manufacturing, futuristic laboratory, electronics testing"
+    },
+    {
+      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "link": "https://github.com/VladUZH/qwen-scribe",
+      "summary": "<p>Article URL: <a href=\"https://github.com/VladUZH/qwen-scribe\">https://github.com/VladUZH/qwen-scribe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098260\">https://news.ycombinator.com/item?id=49098260</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+      "published": "2026-07-29T14:47:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився новий open-source інструмент Qwen Scribe, створений спеціально для чіпів Apple Silicon для локального розпізнавання мови та диктування. Усі процеси обробки аудіо відбуваються безпосередньо на пристрої, гарантуючи конфденциальність користувача.",
+      "ai_title": "Qwen Scribe: локальна диктування та транскрипція для Apple Silicon",
+      "video_keywords": "person typing, laptop keyboard, audio waveform, sound mixing"
+    },
+    {
+      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html\">https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098198\">https://news.ycombinator.com/item?id=49098198</a></p>\n<p>Points: 43</p>\n<p># Comments: 18</p>",
+      "published": "2026-07-29T14:43:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стрімкий розвиток індустрії штучного інтелекту призвів до небаченого попиту на робітничі спеціальності. Технологічні гіганти масово залучають тисячі електриків та будівельників для зведення та обслуговування нових потужних дата-центрів.",
+      "ai_title": "Компанії, що створюють AI, масово наймають електриків та теслярів",
+      "video_keywords": "construction worker, electrical wiring, data center building, hard hat"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search",
-      "link": "https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search",
-      "summary": "<p>Over the weekend, Reddit user <a href=\"https://www.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/\">-void1 posted an alarming discovery on the r/ClaudeAI</a> subreddit: some conversations that users of Anthropic&#x27;s Claude AI chatbot had made &quot;shareable&quot; via a link were being indexed by Google Search, and could be clicked on and accessed by se",
-      "published": "2026-07-27T15:02:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Користувачі Reddit виявили серйозну вразливість: посилання на спільні чати та артефакти Anthropic Claude індексувалися пошуковою системою Google. Будь-хто міг знайти ці приватні діалоги через звичайний пошук.",
-      "ai_title": "Приватні розмови з чат-ботом Claude випадково потрапили у відкритий доступ Google",
-      "video_keywords": "computer monitor, typing on keyboard, error screen, cybersecurity threat"
-    },
-    {
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-      "published": "2026-07-27T16:45:24+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Meta оголосила про запуск чат-бота Meta AI у приватних повідомленнях соцмережі Threads. Тепер користувачі зможуть напряму спілкуватися зі штучним інтелектом прямо в месенджері.",
-      "ai_title": "Meta інтегрує штучний інтелект у особисті повідомлення Threads",
-      "video_keywords": "smartphone screen, chatting app, mobile notification, typing hands"
-    },
-    {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "published": "2026-07-27T15:57:12+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Нові дані показують, що функція AI Overviews від Google з'являється вже у 43% пошукових запитів. Це демонструє, як швидко згенеровані штучним інтелектом відповіді стають новим стандартом для пошуку інформації в інтернеті.",
-      "ai_title": "Штучний інтелект від Google стрімко захоплює пошуковий ринок",
-      "video_keywords": "computer monitor, typing on keyboard, web browser, digital analytics"
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "published": "2026-07-27T15:25:37+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На ринку з'явився новий NFC-ключ вартістю 9 доларів, який вимагає фізичного сканування для розблокування відволікаючих додатків на телефоні. Цей гаджет створений для боротьби з цифровою залежністю та покращення продуктивності.",
-      "ai_title": "Фізичний ключ за 9 доларів блокує доступ до найбільш зависальних додатків",
-      "video_keywords": "smartphone, tapping key, NFC tag, person holding phone"
-    },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
@@ -1331,19 +1311,39 @@
       "ai_summary": "Виробник із Сан-Франциско анонсував гібридну робототехнічну ячейку Hybrid BRC. Технологія покликана усунути вузькі місця у виробництві, мінімізуючи людський фактор і забезпечуючи високу якість збирання техніки.",
       "ai_title": "Bright Machines представляє новий робототехнічний комплекс для вирішення проблем з інфраструктурою ШІ",
       "video_keywords": "industrial robot, manufacturing line, factory assembly, robotic arm"
+    },
+    {
+      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+      "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+      "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network",
+      "published": "2026-07-29T15:36:48+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія X досягла мирової угоди у багаторічному судовому процесі проти Всесвітньої федерації рекламодавців. Позов було подано через нібито незаконний бойкот платформи рекламодавцями після зміни її власника.",
+      "ai_title": "Соцмережа X Елона Маска завершила судовий конфликт з рекламною асоціацією",
+      "video_keywords": "smartphone, social media, handshake, business meeting"
+    },
+    {
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "published": "2026-07-29T15:35:09+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Hint розробляє штучний інтелект, який допомагає власникам нерухомості керувати домашніми справами. Додаток об'єднує документи на житло, графіки обслуговування та інтелектуального помічника в єдиній системі.",
+      "ai_title": "Марта Стюарт співзаснувала новий ШІ-стартап для керування будинком",
+      "video_keywords": "smart home, tablet, modern house, living room"
+    },
+    {
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
+      "published": "2026-07-29T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Polar представив браузер на базі штучного інтелекту, орієнтований на працівників розумової праці. Проєкт уже залучив 5,7 мільйона доларів інвестицій у раунді фінансування під керівництвом Madrona.",
+      "ai_title": "Колишній співробітник Perplexity запустив новий ШІ-браузер для інтелектуальної праці",
+      "video_keywords": "person working, laptop, office desk, typing"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price eyes $66K as US stocks rise on Iran-strike pause\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gym-up-bitcoin.jpg\" /></p><p>Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session.</p>",
-      "published": "2026-07-27T14:51:26+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Курс біткоїна демонструє висхідну динаміку та наближається до позначки 66 тисяч доларів. Ринки відреагували зростанням на паузу в конфлікті на Близькому Сході та загальне покращення настроїв інвесторів.",
-      "ai_title": "Біткоїн прагне досягти 66 000 доларів на тлі зростання американських ринків",
-      "video_keywords": "stock market chart, trading floor, digital currency graph, financial district"
-    },
     {
       "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
       "link": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
@@ -1353,16 +1353,6 @@
       "ai_summary": "Популярна торгова платформа Uphold змушена звільнити майже п'яту частину свого глобального штату. Це рішення стало наслідком затяжного спаду на ринку цифрових активів та складних економічних умов у галузі.",
       "ai_title": "Платформа Uphold скорочує 17% співробітників через криптозиму",
       "video_keywords": "office workers, stressed employees, computer screen, modern office"
-    },
-    {
-      "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
-      "link": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
-      "summary": "",
-      "published": "2026-07-27T14:46:10+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Fanatics розширює свій бізнес у сфері прогнозів та ставок шляхом придбання ліцензованої біржі. Цей крок дозволить їй зайняти міцніші позиції на швидкозростаючому ринку регульованих фінансових передбачень.",
-      "ai_title": "Fanatics купує регульовану біржу для розвитку ринку прогнозів",
-      "video_keywords": "stock exchange trading floor, financial charts, business handshake, digital graphs"
     },
     {
       "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
@@ -2033,6 +2023,56 @@
       "ai_summary": "Попри те, що фундаментальні показники крипторинка ніколи не були сильнішими, трейдери продовжують ганятися за сумнівними новинками заради прибутку в 100 разів. Поведінкова економіка пояснює цю одержимість легкими грошима.",
       "ai_title": "Осесія швидкого збагачення: чому інвестори переглядають крипторинкові тренди",
       "video_keywords": "stock market chart, trading screens, stressed trader, digital coins"
+    },
+    {
+      "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
+      "summary": "",
+      "published": "2026-07-29T15:13:07+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналіз криптозламів на майже мільярд доларів розкриває головні вразливості сучасної блокчейн-індустрії. Статистика цього року показує, що хакери все частіше знаходять нові шляхи обходу систем безпеки, змушуючи розробників переглянути підходи до захисту активів.",
+      "ai_title": "Масштабні злами у крипті: про що говорять мільйонні збитки року",
+      "video_keywords": "hacker, computer screen, cybersecurity, digital code"
+    },
+    {
+      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "link": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+      "summary": "",
+      "published": "2026-07-29T15:27:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Brale презентувала новий протокол, покликаний усунути головну перешкоду для масштабування власних токенів. Це рішення може значно прискорити впровадження кастомних цифрових активів у реальному секторі.",
+      "ai_title": "Новий протокол від Brale спрощує створення кастомних токенів",
+      "video_keywords": "blockchain technology, digital currency, computer monitor, code scrolling"
+    },
+    {
+      "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+      "link": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
+      "summary": "",
+      "published": "2026-07-29T15:15:08+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "На тлі помітного зниження активності на спотовому ринку фінансові аналітики з Волл-стріт знизили свої очікування щодо майбутніх доходів Coinbase. Це свідчить про загальне охолодження інтересу роздрібних трейдерів до криптовалют у поточному періоді.",
+      "ai_title": "Падіння обсягів торгівлі: Волл-стріт погіршує прогнози для Coinbase",
+      "video_keywords": "stock market chart, financial dashboard, trading terminal, office workspace"
+    },
+    {
+      "title": "The inside story of how a hike in Hong Kong changed crypto trading forever",
+      "link": "https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
+      "summary": "",
+      "published": "2026-07-29T13:53:01+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Історія про те, як локальні зміни фінансової політики в Гонконзі спричинили ефект доміно для глобальних ринків цифрових активів. Це рішення змусило трейдерів та біржі перерозподілити капітал і шукати нові юрисдикції для роботи.",
+      "ai_title": "Як одне підвищення податків у Гонконзі назавжди змінило криптоторгівлю",
+      "video_keywords": "hong kong skyline, financial district, skyscraper, city traffic"
+    },
+    {
+      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+      "link": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
+      "summary": "",
+      "published": "2026-07-29T16:09:32+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керівники Morgan Stanley заявляють про остаточний занепад класичного банківського дня з 9 до 5 на тлі цифровізації та поширення криптовалют. Фінансова індустрія переходить на цілодобовий режим роботи завдяки технологіям блокчейну.",
+      "ai_title": "Традиційний банківський графік відходить у минуле, вважають у Morgan Stanley",
+      "video_keywords": "modern office, business people, working late, digital tablet"
     }
   ]
 }
