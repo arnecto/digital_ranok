@@ -11,16 +11,6 @@
       "video_keywords": "computer code, programming screen, modern dashboard, data visualization"
     },
     {
-      "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
-      "link": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
-      "summary": "<p>Article URL: <a href=\"https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search\">https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085236\">https://news.ycombinator.com/item?id=49085236</a></p>\n<p>Points: 62</p>\n<p># Comments: 40</p>",
-      "published": "2026-07-28T15:17:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники безпечної мобільної операційної системи GrapheneOS стали на захист своєї функції знищення даних, яка допомогла користувачам блокувати перевірки пристроїв на американському кордоні. Ця можливість викликала дискусії щодо приватності та повноважень прикордонних служб.",
-      "ai_title": "GrapheneOS захистила функцію видалення даних на кордоні",
-      "video_keywords": "smartphone, security, airport security, typing on phone"
-    },
-    {
       "title": "HBO Max is putting on vertical shorts",
       "link": "https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts",
       "summary": "Warner Bros. Discovery is bringing a vertical video feed to HBO Max to help you find something new to watch. Streaming platforms like Netflix, Disney Plus, and Peacock already offer TikTok-like vertical video feeds to surface content that might be interesting to users, and now HBO Max will have a similar feed of its own. [&#8230;]",
@@ -39,16 +29,6 @@
       "ai_summary": "На тлі зростання цін на комплектуючі та дефіциту пам'яті на ринку знову з'являються сучасні відеокарти з об'ємом пам'яті 4GB. Зокрема, компанія AMD готує до випуску бюджетні моделі на кшталт Radeon RX 9050.",
       "ai_title": "Графічні карти з 4GB пам'яті повертаються на ринок",
       "video_keywords": "computer hardware, graphics card, microchip, motherboard"
-    },
-    {
-      "title": "Apple’s reported ‘HomePad’ may launch as early as October",
-      "link": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
-      "summary": "For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides \"HomePod with a screen,\" details have been sparse. But now, a new report from Bloomberg's Mark Gurman sheds some light on the alleged device, [&#8230;]",
-      "published": "2026-07-28T14:39:42+00:00",
-      "source": "The Verge",
-      "ai_summary": "За даними інсайдерів, Apple готує до випуску новий пристрій для розумного дому, який поєднує функції колонки HomePod та сенсорного екрана. Гаджет стане конкурентом аналогічних пристроїв від Google та Amazon і з'явиться на ринку вже восени.",
-      "ai_title": "Новий розумний хаб від Apple може вийти вже у жовтні",
-      "video_keywords": "smart home device, touchscreen tablet, modern interior, voice assistant"
     },
     {
       "title": "Discovering Cryptographic Weaknesses with Claude",
@@ -829,79 +809,59 @@
       "ai_summary": "Компанія DJI випустила компактну камеру Osmo Pocket 4P, оснащену додатковим другим об'єктивом для ще якіснішої зйомки. Експерти оцінюють, чи виправдовує додаткова оптика невелике збільшення ваги та розміру пристрою.",
       "ai_title": "Нова камера DJI Osmo Pocket 4P отримала другий об'єктив",
       "video_keywords": "holding compact camera, filming video outdoors, device close up, vlogger recording"
+    },
+    {
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "link": "https://github.com/n67094/sdl_gp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/n67094/sdl_gp\">https://github.com/n67094/sdl_gp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110655\">https://news.ycombinator.com/item?id=49110655</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-30T14:36:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розгорнуто мінімалістичну бібліотеку SDL_GPU з одним заголовочним файлом для створення швидкої 2D-графіки. Вона спрощує процес малювання та підвищує продуктивність рендерингу для розробників ігор.",
+      "ai_title": "Нова бібліотека SDL_GPU для високопродуктивної 2D-графіки",
+      "video_keywords": "coding on screen, programmer workspace, software development, computer monitor"
+    },
+    {
+      "title": "Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points",
+      "link": "https://agiranker.com/",
+      "summary": "<p>Article URL: <a href=\"https://agiranker.com/\">https://agiranker.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110215\">https://news.ycombinator.com/item?id=49110215</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+      "published": "2026-07-30T14:04:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор платформи AGI Ranker провів аудит власної шкали оцінки ШІ, в результаті чого всі результати моделей знизилися на 6-15 пунктів. Це свідчить про проблеми з об'єктивним тестуванням сучасних великих мовних моделей.",
+      "ai_title": "Аудит шкал оцінювання штучного інтелекту виявив завищення балів",
+      "video_keywords": "artificial intelligence, data analytics, futuristic dashboard, screen metrics"
+    },
+    {
+      "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+      "link": "https://prized.dev",
+      "summary": "<p>Hi HN, we're Marinos and Hudson, founders of Prized (<a href=\"https://prized.dev\">https://prized.dev</a>)! Prized lets non-engineer employees describe the internal tool they need and get a full-stack app, wired to their company’s data and deployed behind the company’s sign-in, without them ever juggling API keys or connectors.<p>Here's a demo: <a href=\"https://www.youtube.com/watch?v=730MuYOfZT",
+      "published": "2026-07-30T13:29:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стартап Prized випустив платформу, яка дає змогу нетехнічним співробітникам описувати потрібні внутрішні інструменти звичайними словами. Система автоматично генерує повноцінні додатки, підключені до корпоративних баз даних.",
+      "ai_title": "Новий інструмент Prized дозволяє створювати додатки без програмістів",
+      "video_keywords": "office worker typing, business software, collaborative workspace, laptop screen"
+    },
+    {
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "link": "https://remysharp.com/links/2026-07-23-35890312",
+      "summary": "<p>Article URL: <a href=\"https://remysharp.com/links/2026-07-23-35890312\">https://remysharp.com/links/2026-07-23-35890312</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49109440\">https://news.ycombinator.com/item?id=49109440</a></p>\n<p>Points: 326</p>\n<p># Comments: 124</p>",
+      "published": "2026-07-30T13:03:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У своєму важливому рішенні щодо авторського права Європейський суд постановив, що використання VPN є повністю легальним. Це важливий прецедент для захисту конфіденційності в інтернеті на території Євросоюзу.",
+      "ai_title": "Суд ЄС визнав VPN законними технічними інструментами",
+      "video_keywords": "cyber security, lock icon on screen, digital privacy, internet server"
+    },
+    {
+      "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
+      "link": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
+      "summary": "Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next two years, as reported earlier by Reuters. The NHTSA's decision exempts [&#8230;]",
+      "published": "2026-07-30T14:35:43+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Zoox, що належить Amazon, отримала дозвіл на комерційні перевезення пасажирів у своїх унікальних роботаксі без керма та педалей. Регулятори дозволили розгорнути до 2,5 тисяч таких автомобілів на дорогах.",
+      "ai_title": "Безпілотні роботаксі Zoox отримали дозвіл на платні перевезення",
+      "video_keywords": "autonomous vehicle, driverless car, futuristic transport, smart city traffic"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
-      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-      "published": "2026-07-28T14:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап зі створення голосових моделей на базі штучного інтелекту залучив значне фінансування у раунді seed. Продуктами компанії вже користуються понад 8 мільйонів людей, а її річний регулярний дохід сягнув $21 мільйона.",
-      "ai_title": "Fish Audio залучила $50 мільйонів інвестицій для розвитку ШІ-голосів",
-      "video_keywords": "recording studio, microphone, sound wave, audio mixing console"
-    },
-    {
-      "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
-      "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-      "summary": "Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad.",
-      "published": "2026-07-28T13:50:27+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Технологічний гігант запропонував нові умови оренди пристроїв у партнерстві з сервісом Klarna. Вартість місячного лізингу стартує від $11.99 для Apple Watch та iPad, і від $17.99 для iPhone.",
-      "ai_title": "Apple та Klarna запустили програму лізингу гаджетів Upgrade",
-      "video_keywords": "smartphone, apple watch, modern retail store, credit card payment"
-    },
-    {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
-      "published": "2026-07-28T13:19:17+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія спрямувала більшу частину залученого на сьогодні фінансування на придбання обчислювальних потужностей. Цей крок підкреслює зростаючу потребу стартапів у величезних ресурсах для тренування штучного інтелекту.",
-      "ai_title": "Recursive Superintelligence підписала угоду з Amazon на $410 мільйонів",
-      "video_keywords": "server room, data center, supercomputer, rack servers"
-    },
-    {
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "published": "2026-07-28T15:42:26+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стрімке будівництво нових дата-центрів створює величезне навантаження на енергосистему США. Оператори найбільшої електромережі розглядають можливість тимчасових обмежень електропостачання для серверів, щоб уникнути масштабних блекаутів.",
-      "ai_title": "Дата-центрам у США загрожують відключення світла через дефіцит енергії",
-      "video_keywords": "server room, data center, flickering lights, electrical substation"
-    },
-    {
-      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
-      "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
-      "published": "2026-07-28T15:10:10+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На тлі кращих, ніж очікувалося, фінансових результатів за другий квартал, керівництво PayPal заявило про готовність розглянути вигідні пропозиції про поглинання. Компанія продовжує фокусуватися на впровадженні штучного інтелекту, але відкрита до створення додаткової вартості для акціонерів.",
-      "ai_title": "PayPal відкритий до продажу компанії після сильного квартального звіту",
-      "video_keywords": "person using smartphone, online banking, financial charts, business handshake"
-    },
-    {
-      "title": "Elon Musk’s X Money app is rolling out in the US",
-      "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
-      "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
-      "published": "2026-07-28T14:57:12+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Користувачі нової платіжної системи отримають дебетову картку X Visa з інтеграцією в Apple Pay. Додаток дозволяє здійснювати миттєві перекази між користувачами без комісій та лімітів.",
-      "ai_title": "Додаток X Money від Ілона Маска запускається у США",
-      "video_keywords": "credit card, contactless payment, smartphone screen, digital wallet"
-    },
-    {
-      "title": "WhatsApp now lets you make calls using its web app",
-      "link": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
-      "summary": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions.",
-      "published": "2026-07-28T14:53:22+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярний месенджер додав підтримку дзвінків безпосередньо у браузері. Вебверсія тепер повністю підтримує демонстрацію екрана та реакції, аналогічно до мобільного та десктопного додатків.",
-      "ai_title": "У вебверсії WhatsApp з'явилася функція голосових та відеозв'язків",
-      "video_keywords": "laptop screen, video call, web browser, typing on keyboard"
-    },
     {
       "title": "Saudi prince buys 5% stake in Lucid Motors",
       "link": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
@@ -1321,19 +1281,59 @@
       "ai_summary": "Дослідження показало, що походження більшості відкритих моделей раніше не перевірялося належним чином, оскільки платформи спиралися лише на слова розробників. У відповідь на це фахівці Cisco безкорисливо просканували майже 900 моделей для визначення їхньої істинної структури.",
       "ai_title": "Cisco перевірила походження сотень відкритих моделей штучного інтелекту",
       "video_keywords": "cyber security, data center, server racks, digital code"
+    },
+    {
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "published": "2026-07-30T15:19:15+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Британська компанія Nscale придбала стартап Anyscale, який допомагає підприємствам масштабувати свої робочі навантаження штучного інтелекту. Ця угода дозволяє Nscale зміцнити свої позиції в інфраструктурному сегменті ринку ШІ.",
+      "ai_title": "Британський хмарний стартап Nscale купує розробника ПЗ для штучного інтелекту Anyscale",
+      "video_keywords": "server racks, data center, computer screens, technology office"
+    },
+    {
+      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "summary": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
+      "published": "2026-07-30T15:17:39+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Commonwealth Fusion Systems успішно залучила 1 мільярд доларів інвестицій. Стартап стрімко просувається до запуску своєї першої комерційної станції термоядерного синтезу.",
+      "ai_title": "Стартап у сфері термоядерного синтезу Commonwealth Fusion Systems залучив ще один мільярд доларів",
+      "video_keywords": "scientific laboratory, nuclear reactor, control room, glowing plasma"
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "published": "2026-07-30T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нове дослідження показує гостру нехватку експертів, здатних ефективно впроваджувати штучний інтелект у бізнес-процеси. Компанії масово полюють на профільних інженерів, щоб отримати реальну віддачу від інвестицій у ШІ.",
+      "ai_title": "Інженери із впровадження ШІ стали найбажанішими фахівцями на ринку праці",
+      "video_keywords": "software developers, office teamwork, coding on laptops, modern workspace"
+    },
+    {
+      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
+      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "summary": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
+      "published": "2026-07-30T13:30:52+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Регулятор звинуватив медичний сервіс Hims & Hers у використанні трекерів для передачі конфіденційної інформації користувачів рекламним гігантам Meta та Snap. Компанія надавала послуги у сфері ментального здоров'я та сексології.",
+      "ai_title": "Федеральна торгова комісія США позивається проти компанії Hims & Hers через передачу даних пацієнтів",
+      "video_keywords": "smartphone screen, typing credit card, worried person, digital security"
+    },
+    {
+      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+      "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+      "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
+      "published": "2026-07-30T13:09:03+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Zoox, що належить Amazon, подолала останні федеральні регуляторні перешкоди. Тепер вона може офіційно стягувати плату з пасажирів за поїздки у своїх унікальних роботаксі без водія.",
+      "ai_title": "Безпілотні таксі Zoox отримали дозвіл на запуску платних перевезень",
+      "video_keywords": "autonomous car, futuristic vehicle, street traffic, passenger inside"
     }
   ],
   "Крипта": [
-    {
-      "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
-      "link": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
-      "summary": "",
-      "published": "2026-07-28T14:30:57+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Слідом за успіхом біткоїн-фондів фінансовий гігант Morgan Stanley презентував нові біржові продукти (ETF) на базі Ethereum та Solana. Це свідчить про подальше розширення інституційних інвестицій у криптовалюти та зростання інтересу Волл-стріт до альткоїнів.",
-      "ai_title": "Morgan Stanley запускає фонди на Ethereum та Solana",
-      "video_keywords": "stock market, trading floor, digital screens, financial charts"
-    },
     {
       "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
@@ -1343,16 +1343,6 @@
       "ai_summary": "Фінансові гіганти Волл-стріт, зокрема BlackRock та Fidelity, висловили підтримку новому законопроєкту Clarity Act. Це рішення може суттєво вплинути на регулювання цифрових активів у США та посилити довіру інституційних інвесторів до крипторинку.",
       "ai_title": "Волл-стріт підтримує закон про криптопрозорість",
       "video_keywords": "wall street, financial district, businessman shaking hands, stock exchange"
-    },
-    {
-      "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
-      "link": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
-      "summary": "",
-      "published": "2026-07-28T14:35:28+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Внаслідок активації оновлення Ironwood обсяг захищеного пулу в мережі Zcash досяг 1,7 мільярда доларів. Це свідчить про зростання попиту на конфіденційність та анонімність транзакцій серед користувачів криптовалюти.",
-      "ai_title": "Zcash оновив мережу та зафіксував рекордний захищений пул",
-      "video_keywords": "digital shield, glowing padlock, cybersecurity lock, matrix code"
     },
     {
       "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
@@ -1373,16 +1363,6 @@
       "ai_summary": "Розробники Ethereum-стартапу EthSystems переконані, що збереження приватності транзакцій є ключем до інтеграції банківської системи у публічні блокчейни. Новий підхід має вирішити головні побоювання традиційних фінансових інститутів.",
       "ai_title": "Стартап EthSystems робить ставку на конфіденційність для залучення банків",
       "video_keywords": "hands typing laptop, abstract blockchain network, bank vault digital, secure transaction"
-    },
-    {
-      "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
-      "link": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"The real reason DeFi projects that survived 2022 crash are shutting down now\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bear.jpg\" /></p><p>DeFi projects that survived the fallout from the Terra and FTX collapses in 2022 are dying out in 2026. But analysts say it’s not a case of industry c",
-      "published": "2026-07-28T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Проєкти у сфері децентралізованих фінансів, які пережили масштабний обвал ринку у 2022 році, масово припиняють роботу. Аналітики пояснюють це новими ринковими реаліями та зміною вимог до індустрії.",
-      "ai_title": "Чому вижилі у криптокрасі DeFi-проєкти закриваються зараз",
-      "video_keywords": "falling chart, stock market crash, empty office, depressed businessman"
     },
     {
       "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
@@ -2053,6 +2033,56 @@
       "ai_summary": "Месенджер Telegram отримав нові юридичні звинувачення в Австралії через недостатню модерування контенту, пов'язаного з тероризмом. Це сталося одразу після того, як проти засновника платформи висунули звинувачення в іншій країні.",
       "ai_title": "Telegram стикнувся з позовом в Австралії через терористичний контент",
       "video_keywords": "smartphone screen, typing message, court gavel, digital security"
+    },
+    {
+      "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
+      "link": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
+      "summary": "",
+      "published": "2026-07-30T13:55:18+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Волл-стріт допомагає стабілізувати ринок цифрових активів, зменшуючи його дику волатильність. Частка інституційних трейдерів стрімко зростає і вже становить 72% від загального обсягу.",
+      "ai_title": "Інституційна торгівля криптою досягла рекордних 72%",
+      "video_keywords": "wall street, trading floor, stock exchange, computer screens"
+    },
+    {
+      "title": "Ethereum enters its second decade after a year of upheaval at the foundation",
+      "link": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
+      "summary": "",
+      "published": "2026-07-30T13:52:37+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна альткоїн-платформа офіційно перейшла у свій другий десяток існування. Це сталося після року значних потрясінь та кадрових змін у фундації проєкту.",
+      "ai_title": "Ethereum святкує початок другого десятиліття",
+      "video_keywords": "ethereum logo, digital currency, blockchain technology, glowing crypto"
+    },
+    {
+      "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
+      "link": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
+      "summary": "",
+      "published": "2026-07-30T13:35:51+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Десятки інвесторів втратили свої заощадження на підробленому сайті, який обіцяв високу та легку прибутковість. Зловмисники використали популярну схему обману з обіцянками пасивного доходу.",
+      "ai_title": "Шахраї викрали 8,5 мільйонів XRP через фейковий стейкінг",
+      "video_keywords": "cyber crime, hacker computer, laptop screen, credit card fraud"
+    },
+    {
+      "title": "South Korean crypto trading surges amid stock market plunge",
+      "link": "https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean crypto trading surges amid stock market plunge\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.png\" /></p><p>South Korean crypto exchanges saw a fresh spike in trading activity as the country’s stock market had sever",
+      "published": "2026-07-30T14:10:31+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "На фоні різкого обвалу традиційного фондового ринку в країні місцеві криптобіржі зіткнулися з новим потужним сплеском активності. Інвестори масово переводять капітал у цифрові активи.",
+      "ai_title": "У Південній Кореї зафіксували бум криптоторгівлі на тлі падіння фондового ринку",
+      "video_keywords": "seoul skyline, stock market crash, panic trading, mobile phone trading"
+    },
+    {
+      "title": "BitRiver founder charged in Russia over alleged $8M fraud",
+      "link": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitRiver founder charged in Russia over alleged $8M fraud\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-oracle-attack.jpg\" /></p><p>Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied to a $8 million crypto mining equipment deal involving Russian billionaire O",
+      "published": "2026-07-30T13:26:06+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Російські правоохоронці висунули офіційні звинувачення Ігорю Рунцу через оборудки з обладнанням для майнінгу. Справа стосується контракту на суму 8 мільйонів доларів із місцевим мільярдером.",
+      "ai_title": "Засновника майнінгової компанії BitRiver звинуватили у шахрайстві на 8 мільйонів",
+      "video_keywords": "police handcuffs, courtroom gavel, arrested handcuffed, russian police"
     }
   ]
 }
