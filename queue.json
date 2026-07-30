@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from [&#8230;]",
-      "published": "2026-07-28T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Революція великих мовних моделей значно покращила технології диктування та голосового керування. На цьому тлі розумні каблучки перетворюються на зручні та непомітні гаджети для взаємодії зі штучним інтелектом.",
-      "ai_title": "Розумні каблучки стають новими помічниками зі штучним інтелектом",
-      "video_keywords": "smart ring, wearable technology, hand gesture, modern gadget"
-    },
-    {
-      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-      "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
-      "summary": "<p>Article URL: <a href=\"https://github.com/ctrlb-hq/ctrlb-decompose\">https://github.com/ctrlb-hq/ctrlb-decompose</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49083336\">https://news.ycombinator.com/item?id=49083336</a></p>\n<p>Points: 30</p>\n<p># Comments: 3</p>",
-      "published": "2026-07-28T13:13:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили утиліту Ctrlb-decompose, яка видаляє зайвий шум із технічних логів. Це дозволяє суттєво економити токени та підвищувати ефективність роботи великих мовних моделей.",
-      "ai_title": "Новий інструмент Ctrlb-decompose очищує логи перед відправкою в LLM",
-      "video_keywords": "programming code, computer screen, terminal text"
-    },
-    {
-      "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
-      "link": "https://segue.ai/",
-      "summary": "<p>Article URL: <a href=\"https://segue.ai/\">https://segue.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49082779\">https://news.ycombinator.com/item?id=49082779</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
-      "published": "2026-07-28T12:27:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова платформа Segue дає змогу зберігати поточний діалог або контекст з однієї штучної інтелектності та завантажувати його в іншу за допомогою короткого ідентифікатора. Це спрощує роботу з різними чат-ботами одночасно.",
-      "ai_title": "Сервіс Segue дозволяє переносити контекст між різними AI-моделями",
-      "video_keywords": "typing on keyboard, futuristic interface, person using laptop"
-    },
-    {
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "summary": "<p>Article URL: <a href=\"https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/\">https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49082550\">https://news.ycombinator.com/item?id=49082550</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
-      "published": "2026-07-28T12:02:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанії JFrog та OpenAI повідомили про співпрацю у сфері безпеки після виявлення критичних вразливостей. Експерти наголошують, що швидке усунення таких загроз стає новою основою довіри в індустрії.",
-      "ai_title": "JFrog та OpenAI об'єдналися для боротьби з уразливістю нульового дня",
-      "video_keywords": "cyber security, hacker warning, digital lock code"
-    },
-    {
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform [&#8230;]",
-      "published": "2026-07-28T12:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Інструмент Personal Computer від Perplexity став доступним і для операційної системи Windows. Програма діє як цифровий помічник, що має доступ до локальних файлів та додатків для виконання різноманітних завдань.",
-      "ai_title": "Perplexity перетворює комп'ютери на повноцінні AI-агенти",
-      "video_keywords": "artificial intelligence, futuristic tech, using desktop computer"
-    },
-    {
       "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
       "link": "https://github.com/reflex-dev/xy",
       "summary": "<p>Article URL: <a href=\"https://github.com/reflex-dev/xy\">https://github.com/reflex-dev/xy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085798\">https://news.ycombinator.com/item?id=49085798</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
@@ -829,6 +779,56 @@
       "ai_summary": "Генеральний директор Meta переконаний, що штучний інтелект зможе безперервно допомагати користувачам керувати фінансами, піклуватися про здоров'я та вирішувати побутові завдання. За його словами, вже у найближчому майбутньому мільярди людей матимуть власних цифрових помічників.",
       "ai_title": "Марк Цукерберг прогнозує масову появу персональних ШІ-агентів за п'ять років",
       "video_keywords": "person using smartphone, AI assistant interface, holographic projection, futuristic technology"
+    },
+    {
+      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms\">https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108556\">https://news.ycombinator.com/item?id=49108556</a></p>\n<p>Points: 25",
+      "published": "2026-07-30T11:30:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Європейський Союз поширює свої найсуворіші регуляторні норми для цифрових платформ на популярні сервіси ChatGPT та Roblox. Це рішення посилить контроль за безпекою користувачів та дотриманням європейського законодавства у сфері технологій.",
+      "ai_title": "ChatGPT та Roblox підпадуть під найсуворіші правила ЄС",
+      "video_keywords": "smartphone screen, European Union flag, office building, internet browsing"
+    },
+    {
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "summary": "<p>Article URL: <a href=\"https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html\">https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49107950\">https://news.ycombinator.com/item?id=49107950</a></p>\n<p>Points: 144</p>\n<p># Comments: 169",
+      "published": "2026-07-30T10:13:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Google оголосила про розширення системи перевірки віку користувачів на пристроях з Android на глобальному рівні до кінця поточного року. Такі заходи спрямовані на створення безпечнішого цифрового середовища та захист неповнолітніх у Google Play.",
+      "ai_title": "Google запроваджує перевірку віку на Android у всьому світі",
+      "video_keywords": "smartphone in hand, typing on mobile, young person using phone, digital security"
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "link": "https://lwn.net/Articles/1086041/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1086041/\">https://lwn.net/Articles/1086041/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108685\">https://news.ycombinator.com/item?id=49108685</a></p>\n<p>Points: 92</p>\n<p># Comments: 66</p>",
+      "published": "2026-07-30T11:45:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Керівний комітет розробників GCC офіційно представив політику регламентації та використання технологій штучного інтелекту у своєму проєкті. Це важливий крок для інтеграції інструментів ШІ в процес створення та підтримки програмного забезпечення з відкритим кодом.",
+      "ai_title": "Керівний комітет GCC анонсував нову політику щодо штучного інтелекту",
+      "video_keywords": "programmer typing, code on monitor, office desk, software development"
+    },
+    {
+      "title": "Spotify Running Mode helps match tunes to tempo",
+      "link": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
+      "summary": "Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you \"spend less time hunting for the right music and more time moving,\" according to Spotify's announcement, providing customizable running presets and optional [&#8230;]",
+      "published": "2026-07-30T13:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Сервіс потокового аудіо Spotify представив нову функцію Running Mode, яка автоматично підбирає треки під темп вашого тренування. Налаштовувані пресети дозволяють витрачати менше часу на пошук музики та зосередитися на бігу.",
+      "ai_title": "Spotify запустив режим для бігу з підбором музики за темпом",
+      "video_keywords": "person running outdoors, runner with headphones, smartphone fitness app, athletic shoes"
+    },
+    {
+      "title": "A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera",
+      "link": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
+      "summary": "DJI's Osmo Pocket 4P is a pretty simple proposition: an Osmo Pocket 4 with a second camera lens slapped inside. But is that extra lens worth the added size, weight, and cost relative to the regular Pocket 4? And how does it compare to the only rival on the market, Insta360's dual-lens Luna Ultra? It [&#8230;]",
+      "published": "2026-07-30T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія DJI випустила компактну камеру Osmo Pocket 4P, оснащену додатковим другим об'єктивом для ще якіснішої зйомки. Експерти оцінюють, чи виправдовує додаткова оптика невелике збільшення ваги та розміру пристрою.",
+      "ai_title": "Нова камера DJI Osmo Pocket 4P отримала другий об'єктив",
+      "video_keywords": "holding compact camera, filming video outdoors, device close up, vlogger recording"
     }
   ],
   "Бізнес / Стартапи": [
@@ -861,26 +861,6 @@
       "ai_summary": "Компанія спрямувала більшу частину залученого на сьогодні фінансування на придбання обчислювальних потужностей. Цей крок підкреслює зростаючу потребу стартапів у величезних ресурсах для тренування штучного інтелекту.",
       "ai_title": "Recursive Superintelligence підписала угоду з Amazon на $410 мільйонів",
       "video_keywords": "server room, data center, supercomputer, rack servers"
-    },
-    {
-      "title": "Granola launches an Apple Watch app",
-      "link": "https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/",
-      "summary": "Granola debutes an Apple Watch app for in-person notetaking",
-      "published": "2026-07-28T13:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярний сервіс для ведення нотаток презентував додаток для розумного годинника Apple. Новинка створена спеціально для зручного записування та фіксації думок під час живих зустрічей.",
-      "ai_title": "Додаток для нотаток Granola випустив версію для Apple Watch",
-      "video_keywords": "smartwatch, wrist, tapping screen, business meeting"
-    },
-    {
-      "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
-      "link": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
-      "summary": "<p><a href=\"https://www.snowflake.com/en/\">Snowflake</a> announced <a href=\"https://www.snowflake.com/en/product/features/cortex/\">Cortex AI Gateway</a> on Tuesday, a centralized control layer designed to govern how AI agents — including those built by competitors like Anthropic&#x27;s <a href=\"https://code.claude.com/docs/en/overview\">Claude Code</a> and <a href=\"https://cursor.com/\">Cursor</a> —",
-      "published": "2026-07-28T13:00:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Новий централізований шлюз створений для управління роботою штучного інтелекту та запобігання неконтрольованим витратам компаній. Інструмент дозволяє ефективно контролювати ШІ-агентів від різних розробників.",
-      "ai_title": "Snowflake представила Cortex AI Gateway для контролю корпоративних витрат на ШІ",
-      "video_keywords": "dashboard screen, data analytics, graphs, office worker"
     },
     {
       "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
@@ -1311,6 +1291,36 @@
       "ai_summary": "Під час звітного засідання Марк Цукерберг заявив про масштабні можливості Meta на корпоративному ринку. Компанія планує розвивати не лише ШІ-агентів, а й власні API, обчислювальні потужності та корпоративне програмне забезпечення.",
       "ai_title": "Meta бачить великі перспективи для штучного інтелекту в бізнесі",
       "video_keywords": "corporate boardroom, business presentation, modern office, team collaboration"
+    },
+    {
+      "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+      "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+      "summary": "London-based Inforcer just closed a $50 million Series C round led by Insight Partners.",
+      "published": "2026-07-30T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Inforcer закрила раунд фінансування серії C на суму 50 мільйонів доларів під керівництвом Insight Partners. Кошти підуть на допомогу невеликим підприємствам у боротьбі з новими викликами в галузі штучного інтелекту та кібербезпеки.",
+      "ai_title": "Британський стартап Inforcer залучив 50 мільйонів доларів для захисту малого бізнесу",
+      "video_keywords": "startup office, business meeting, handshake, financial graphs"
+    },
+    {
+      "title": "Dili raises $21.7 million to bring AI compliance to the infrastructure boom",
+      "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
+      "published": "2026-07-30T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Dili успішно провела раунд фінансування серії A під керівництвом Khosla Ventures за участі відомих венчурних фондів та інвесторів. Стартап пропонує рішення на базі штучного інтелекту для дотримання нормативних вимог у сфері інфраструктурних проєктів.",
+      "ai_title": "Стартап Dili залучив понад 21 мільйон доларів для AI-комплаєнсу в інфраструктурі",
+      "video_keywords": "modern office, team collaboration, computer screen, data analytics"
+    },
+    {
+      "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
+      "link": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
+      "summary": "<p>A security team approving an open-source model for production today starts with a repository page. The page lists the model name, the license, and a tag identifying the base model it descended from. That tag is a string the uploader typed. Hugging Face does not require uploaders to substantiate the claim through weight-level analysis.</p><p>The <a href=\"https://arxiv.org/abs/2604.07190\">ATOM Re",
+      "published": "2026-07-30T13:00:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Дослідження показало, що походження більшості відкритих моделей раніше не перевірялося належним чином, оскільки платформи спиралися лише на слова розробників. У відповідь на це фахівці Cisco безкорисливо просканували майже 900 моделей для визначення їхньої істинної структури.",
+      "ai_title": "Cisco перевірила походження сотень відкритих моделей штучного інтелекту",
+      "video_keywords": "cyber security, data center, server racks, digital code"
     }
   ],
   "Крипта": [
@@ -1323,46 +1333,6 @@
       "ai_summary": "Слідом за успіхом біткоїн-фондів фінансовий гігант Morgan Stanley презентував нові біржові продукти (ETF) на базі Ethereum та Solana. Це свідчить про подальше розширення інституційних інвестицій у криптовалюти та зростання інтересу Волл-стріт до альткоїнів.",
       "ai_title": "Morgan Stanley запускає фонди на Ethereum та Solana",
       "video_keywords": "stock market, trading floor, digital screens, financial charts"
-    },
-    {
-      "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
-      "link": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
-      "summary": "",
-      "published": "2026-07-28T12:46:05+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Колишній криптомайнінговий гігант Core Scientific укладає масштабну угоду з AMD у сфері штучного інтелекту. Компанія поступово згортає видобуток біткоїна, перенаправляючи свої потужності на обслуговування високопродуктивних обчислень та ШІ.",
-      "ai_title": "Майнер біткоїна Core Scientific переходить на штучний інтелект",
-      "video_keywords": "server racks, data center, supercomputer, microchips"
-    },
-    {
-      "title": "Binance makes fighting crypto crime more difficult, says new report",
-      "link": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
-      "summary": "",
-      "published": "2026-07-28T12:24:02+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Мережа конфіденційної криптомонети Zcash успішно активувала оновлення Ironwood, зафіксувавши закритий пул коштів на рекордну суму в 1,7 мільярда доларів. Це знаменна подія для блокчейнів з акцентом на приватність транзакцій та шифрування даних.",
-      "ai_title": "Zcash закрив захищений пул на $1,7 мільярда після оновлення",
-      "video_keywords": "digital encryption, cybersecurity, matrix code, futuristic interface"
-    },
-    {
-      "title": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
-      "link": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum, Solana led crypto hack losses in H1 2026: Blockaid\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-solana-vs-ethereum-a-comprehensive-blockchain-comparison.jpg\" /></p><p>Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while Solana replaced Arbitrum as the n",
-      "published": "2026-07-28T13:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Аналітична компанія Blockaid підрахувала, що мережі Ethereum та Solana зазнали найбільших втрат від хакерських атак у першій половині 2026 року. Попри вдосконалення безпеки, блокчейни залишаються головною мішенню для зловмисників через великі обсяги ліквідності.",
-      "ai_title": "Ethereum та Solana очолили рейтинги збитків від криптозломів",
-      "video_keywords": "hacker typing, computer monitor, cybersecurity alarm, warning screen"
-    },
-    {
-      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
-      "link": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PayPal expands stablecoin push as crypto assets factor into Q2 results\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/paypal.jpg\" /></p><p>PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earn",
-      "published": "2026-07-28T12:07:51+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінтех-гігант PayPal демонструє значні успіхи у сфері цифрових активів, інтегруючи стейблкоїни у свої квартальні фінансові звіти. Компанія активно розвиває криптонапрямок на тлі зростання прибутків та впровадження нових платіжних інструментів.",
-      "ai_title": "PayPal активно розширює використання власної стейблкоїну",
-      "video_keywords": "smartphone payment, digital wallet, credit card, online shopping"
     },
     {
       "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
@@ -2053,6 +2023,36 @@
       "ai_summary": "Криптовалютна біржа Luno оголосила про звільнення 20% співробітників на тлі падіння обсягів роздрібної торгівлі та переходу до автоматизованих процесів. Компанія оптимізує витрати у період затяжної криптозими.",
       "ai_title": "Криптобіржа Luno скорочує п'яту частину штату через автоматизацію",
       "video_keywords": "empty office, stressed worker, computer monitor, modern workspace"
+    },
+    {
+      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
+      "link": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Samsung unit explores stablecoin infrastructure with Upbit’s operator\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-samsung-coin-coinbase-1.png\" /></p><p>Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchan",
+      "published": "2026-07-30T11:46:43+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Samsung SDS обговорює створення нової інфраструктури для стейблкоїнів та платіжних моделей на базі штучного інтелекту з оператором найбільшої криптобіржі Південної Кореї Dunamu. Ця співпраця може суттєво прискорити інтеграцію блокчейн-технологій у традиційні фінансові послуги регіону.",
+      "ai_title": "Підрозділ Samsung розробляє стейблкоїн-інфраструктуру спільно з оператором біржі Upbit",
+      "video_keywords": "smartphone payment, digital currency, office meeting, financial technology"
+    },
+    {
+      "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
+      "link": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ai-stocks-collapse-scene.png\" /></p><p>The FT said Situational Awareness has approached investors and lenders after borrowing amplified losses during July’s AI stoc",
+      "published": "2026-07-30T11:29:03+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Фонд Situational Awareness, який володіє акціями майнерів біткоїна на суму 1,1 мільярда доларів, змушений шукати нових інвесторів. Боргове фінансування посилило збитки фонду на тлі липневого розпродажу акцій технологічних компаній, пов'язаних зі штучним інтелектом.",
+      "ai_title": "Хедж-фонд із мільярдними інвестиціями у біткоїн-майнінг шукає додатковий капітал через спад на ринку AI",
+      "video_keywords": "stock market crash, computer screens with graphs, stressed trader, financial charts"
+    },
+    {
+      "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
+      "link": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
+      "summary": "",
+      "published": "2026-07-30T12:09:18+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Месенджер Telegram отримав нові юридичні звинувачення в Австралії через недостатню модерування контенту, пов'язаного з тероризмом. Це сталося одразу після того, як проти засновника платформи висунули звинувачення в іншій країні.",
+      "ai_title": "Telegram стикнувся з позовом в Австралії через терористичний контент",
+      "video_keywords": "smartphone screen, typing message, court gavel, digital security"
     }
   ]
 }
