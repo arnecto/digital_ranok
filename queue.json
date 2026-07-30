@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "link": "https://fermisense.com/when-machines-take-the-wheel/",
-      "summary": "<p>Article URL: <a href=\"https://fermisense.com/when-machines-take-the-wheel/\">https://fermisense.com/when-machines-take-the-wheel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078454\">https://news.ycombinator.com/item?id=49078454</a></p>\n<p>Points: 54</p>\n<p># Comments: 10</p>",
-      "published": "2026-07-28T02:18:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники довели, що відкрита модель із 9 мільярдами параметрів за допомогоюreinforcement learning коштом лише у 500 доларів змогла перевершити передові комерційні моделі у задачах перевірки каталогів. Це свідчить про те, що спеціалізоване налаштування відкритих систем може конкурувати з дорогими флагманськими рішеннями. Дослідження демонструє новий шлях до створення ефективного та дешевого штучного інтелекту.",
-      "ai_title": "Бюджетна донавчена відкрита модель перевершила провідні аналоги",
-      "video_keywords": "computer screen, lines of code, data center, servers blinking"
-    },
-    {
-      "title": "EYG: A Programming Language for Humans",
-      "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-      "summary": "<p>Article URL: <a href=\"https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/\">https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078463\">https://news.ycombinator.com/item?id=49078463</a></p>\n<p>Points: 28</p>\n<p># Comments: 10</p>",
-      "published": "2026-07-28T02:21:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено мову програмування EYG, розроблену з акцентом на простоту та зручність для розробників. Автори прагнуть зробити написання коду інтуїтивно зрозумілим і доступним для широкого кола людей. Проєкт пропонує свіжий погляд на синтаксис та взаємодію користувача з комп'ютером.",
-      "ai_title": "EYG: нова мова програмування для людей",
-      "video_keywords": "programmer typing, laptop keyboard, office workspace, coding close up"
-    },
-    {
-      "title": "Using an open model feels surprisingly good",
-      "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "summary": "<p>Article URL: <a href=\"https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/\">https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078583\">https://news.ycombinator.com/item?id=49078583</a></p>\n<p>Points: 88</p>\n<p># Comments: 37</p>",
-      "published": "2026-07-28T02:37:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти та розробники все частіше звертають увагу на переваги роботи з відкритими моделями ШІ. На відміну від закритих комерційних систем, вони дають більше свободи, контролю та прозорості у роботі. Такий підхід змінює досвід взаємодії користувачів із сучасними технологіями.",
-      "ai_title": "Чому використання відкритих моделей штучного інтелекту приносить задоволення",
-      "video_keywords": "person smiling, using laptop, modern office, typing on computer"
-    },
-    {
-      "title": "Residential Proxies Are a National Security Threat",
-      "link": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
-      "summary": "<p>Article URL: <a href=\"https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/\">https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078266\">https://news.ycombinator.com/item?id=49078266</a></p>\n<p>Points: 24</p>\n<p># Comments: 22</p>",
-      "published": "2026-07-28T01:51:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з кібербезпеки попереджають про небезпеку використання резидентних проксі-серверів у глобальному масштабі. Вони можуть використовуватися зловмисниками для приховування кібератак та обходу захисних систем. Це ставить під загрозу цифрову інфраструктуру цілих держав.",
-      "ai_title": "Резидентні проксі як загроза національній безпеці",
-      "video_keywords": "hacker typing, dark room, glowing screens, cybersecurity matrix"
-    },
-    {
       "title": "Neutrino-1 8B",
       "link": "https://www.fermionresearch.com/models/neutrino-8b/",
       "summary": "<p>Article URL: <a href=\"https://www.fermionresearch.com/models/neutrino-8b/\">https://www.fermionresearch.com/models/neutrino-8b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49079490\">https://news.ycombinator.com/item?id=49079490</a></p>\n<p>Points: 47</p>\n<p># Comments: 6</p>",
@@ -869,19 +829,19 @@
       "ai_summary": "Експерти аналізують, чому сучасні платформи для хостингу коду більше не відповідають потребам розробників у добу AI. Традиційні робочі процеси потребують серйозного переосмислення через появу автономних систем написання коду.",
       "ai_title": "GitHub застарів для нової епохи штучного інтелекту",
       "video_keywords": "programmer typing code, computer screen, software development office"
+    },
+    {
+      "title": "NSF pilots 4-year PhDs with industry research placements",
+      "link": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+      "summary": "<p>Article URL: <a href=\"https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four\">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105642\">https://news.ycombinator.com/item?id=49105642</a></p>\n<p>Points: 20</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-30T02:55:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Національний науковий фонд США започатковує новий формат докторантури. Програма поєднує академічне навчання з реальними дослідженнями на виробництві.",
+      "ai_title": "NSF запускає пілотну програму 4-річних аспірантур із залученням індустрії",
+      "video_keywords": "university classroom, students studying, modern laboratory, scientific research"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
-      "link": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
-      "summary": "<p>Chinese AI startup Moonshot AI, creators of the increasingly famous &quot;Kimi K&quot; family of powerful, open AI models, today released the full weights for its largest and most performant version yet — <a href=\"https://www.kimi.com/blog/kimi-k3\">Kimi K3</a>. But enterprises evaluating the model should read the attached custom <a href=\"https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICEN",
-      "published": "2026-07-28T02:08:51+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Китайський стартап Moonshot AI презентував повну вагу своєї нової потужної моделі Kimi K3. Проте компаніям варто ретельно вивчити спеціальні ліцензійні умови перед використанням технології у комерційних цілях.",
-      "ai_title": "Moonshot AI випустила модель Kimi K3 із застереженнями для бізнесу",
-      "video_keywords": "server room, data center, computer screen, artificial intelligence"
-    },
     {
       "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
       "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
@@ -1394,36 +1354,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
-      "link": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong prepares banks for quantum threats amid tokenization push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg\" /></p><p>The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks b",
-      "published": "2026-07-28T02:21:04+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Валютне управління Гонконгу зобов'язує місцеві банки готуватися до потенційних кібератак на основі квантових технологій. Це відбувається на тлі активного розвитку токенізації та цифровізації фінансового сектору регіону.",
-      "ai_title": "Банки Гонконгу готуються до квантових загроз",
-      "video_keywords": "bank building, futuristic data center, digital security, glowing servers"
-    },
-    {
-      "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
-      "link": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zimbabwe admits seven fintech projects to regulatory sandbox\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coinsavanna.jpg\" /></p><p>Sandbox participation permits supervised testing but does not guarantee full commercial registration.</p>",
-      "published": "2026-07-28T03:17:10+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Центральний банк Зімбабве дозволив семи новим фінансово-технологічним проєктам тестування у спеціальній регуляторній пісочниці. Проте таке схвалення ще не гарантує компаніям повноцінну комерційну реєстрацію в країні.",
-      "ai_title": "Зімбабве запускає сім нових фінтех-проєктів",
-      "video_keywords": "financial district, modern office building, business handshake, mobile banking"
-    },
-    {
-      "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
-      "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
-      "summary": "",
-      "published": "2026-07-28T04:32:39+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта втратила близько двох відсотків після закриття американських бірж. Водночас південнокорейський індекс Kospi обвалився аж на десять відсотків, що посилило загальну напругу на фінансових ринках.",
-      "ai_title": "Біткоїн та азіатські ринки падають на тлі тривожних новин",
-      "video_keywords": "stock market crash, red charts, trading floor panic"
-    },
     {
       "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
       "link": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2143,6 +2073,26 @@
       "ai_summary": "У Сенаті обговорюють можливість посилення контролю над криптоіндустрією в межах майбутнього законопроєкту Clarity Act. Це може вплинути на компромісні рішення, які раніше підтримував Дональд Трамп. Нові правки здатні суттєво змінити правила регулювання цифрових активів у США.",
       "ai_title": "Сенатори планують посилити позицію Трампа щодо обмежень у законопроєкті Clarity Act",
       "video_keywords": "us capitol, politicians meeting, documents signing, senate courtroom"
+    },
+    {
+      "title": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
+      "link": "https://cointelegraph.com/news/japanese-game-developer-bitcoin-altcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japanese game developer launches Bitcoin, altcoin fund with SBI\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-blockchain-puzzle-charity-donations-unite-ukraine.jpg\" /></p><p>The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nea",
+      "published": "2026-07-30T03:19:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Відома японська геймдев-компанія об'єднала зусилля з фінансовим гігантом SBI для запуску нового фонду, орієнтованого на Bitcoin та альткоїни. Цей крок розширює присутність розробника у криптоіндустрії на тлі його попередніх проєктів у сфері блокчейну.",
+      "ai_title": "Японський розробник ігор створив криптофонд спільно з SBI",
+      "video_keywords": "cryptocurrency trading, digital coins, financial chart, computer screen"
+    },
+    {
+      "title": "Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-digital-identity-management-and-why-is-it-important.jpg\" /></p><p>Pascal Caversaccio joins the Ethereum Foundation’s four-member board as the organization ele",
+      "published": "2026-07-30T01:34:26+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Співзасновник ініціативи безпеки SEAL 911 Паскаль Каверсаччо увійшов до складу ради директорів Ethereum Foundation. Це призначення підкреслює прагнення організації посилити заходи безпеки та фокус на конфіденційності даних у мережі.",
+      "ai_title": "Ethereum Foundation посилила захист конфіденційності новим призначенням",
+      "video_keywords": "cyber security, digital lock, hacker code, computer monitor"
     }
   ]
 }
