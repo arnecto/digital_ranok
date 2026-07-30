@@ -1,12 +1,4 @@
 {
-  "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/": {
-    "title": "Hugging Face повідомила про витік даних користувачів",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-07-22T06:46:30.636903+03:00",
-    "summary": "Платформа Hugging Face закликала користувачів негайно оновити токени доступу та перевірити активність своїх акаунтів. Це сталося через виявлений злам внутрішніх баз даних, який міг скомпрометувати облікові дані.",
-    "video_keywords": "cybersecurity, hacker, computer screen, data breach",
-    "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/"
-  },
   "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000": {
     "title": "Біткоїн впав нижче $64 000 через коливання на ринках",
     "category": "Крипта",
@@ -830,5 +822,13 @@
     "summary": "Головна криптовалюта втратила близько двох відсотків після закриття американських бірж. Водночас південнокорейський індекс Kospi обвалився аж на десять відсотків, що посилило загальну напругу на фінансових ринках.",
     "video_keywords": "stock market crash, red charts, trading floor panic",
     "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children": {
+    "title": "Hugging Face критикують за поширення додатків для створення відвертих діпфейків",
+    "category": "IT / AI",
+    "posted_at": "2026-07-30T09:12:48.515752+03:00",
+    "summary": "Згідно з новим звітом європейської організації AI Forensics, популярна платформа Hugging Face використовується для створення неканонічних відвертих зображень жінок і дітей. Дослідження показало, що більшість провідних моделей для редагування зображень на платформі легко створюють такий контент через відсутність належних захисних механізмів.",
+    "video_keywords": "computer screen, typing keyboard, hacker, dark room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children"
   }
 }
