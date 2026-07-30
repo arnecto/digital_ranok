@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: XY – Fast, composable, GPU-accelerated charts, written in Rust",
-      "link": "https://github.com/reflex-dev/xy",
-      "summary": "<p>Article URL: <a href=\"https://github.com/reflex-dev/xy\">https://github.com/reflex-dev/xy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085798\">https://news.ycombinator.com/item?id=49085798</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
-      "published": "2026-07-28T15:54:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий інструмент XY для створення швидких та гнучких графіків на мові програмування Rust, який прискорюється за допомогою графічного процесора. Це рішення дозволяє розробникам ефективно візуалізувати дані у реальному часі.",
-      "ai_title": "Нові швидкі графічні діаграми на Rust",
-      "video_keywords": "computer code, programming screen, modern dashboard, data visualization"
-    },
-    {
-      "title": "HBO Max is putting on vertical shorts",
-      "link": "https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts",
-      "summary": "Warner Bros. Discovery is bringing a vertical video feed to HBO Max to help you find something new to watch. Streaming platforms like Netflix, Disney Plus, and Peacock already offer TikTok-like vertical video feeds to surface content that might be interesting to users, and now HBO Max will have a similar feed of its own. [&#8230;]",
-      "published": "2026-07-28T15:59:37+00:00",
-      "source": "The Verge",
-      "ai_summary": "Стрімінговий сервіс HBO Max додає стрічку вертикальних коротких відео, щоб допомогти користувачам швидше знаходити цікавий контент. Слідом за іншими платформами компанія намагається залучити аудиторію за допомогою звичного формату коротких роликів.",
-      "ai_title": "HBO Max запускає вертикальні відео у стилі TikTok",
-      "video_keywords": "person swiping smartphone, vertical video, streaming app, mobile phone screen"
-    },
-    {
-      "title": "4GB graphics cards are back",
-      "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
-      "summary": "The first modern GPU with 4GB of VRAM has appeared, as RAM prices and component shortages push tech prices higher. As Digital Foundry reports, a listing for an AMD Radeon RX 9050 with 4GB of RAM was spotted on ASRock's website by a user on X, the same day ASRock also launched an 8GB version [&#8230;]",
-      "published": "2026-07-28T15:52:04+00:00",
-      "source": "The Verge",
-      "ai_summary": "На тлі зростання цін на комплектуючі та дефіциту пам'яті на ринку знову з'являються сучасні відеокарти з об'ємом пам'яті 4GB. Зокрема, компанія AMD готує до випуску бюджетні моделі на кшталт Radeon RX 9050.",
-      "ai_title": "Графічні карти з 4GB пам'яті повертаються на ринок",
-      "video_keywords": "computer hardware, graphics card, microchip, motherboard"
-    },
-    {
       "title": "Discovering Cryptographic Weaknesses with Claude",
       "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
       "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">https://www.anthropic.com/research/discovering-cryptographic-weaknesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49087091\">https://news.ycombinator.com/item?id=49087091</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
@@ -59,26 +29,6 @@
       "ai_summary": "Вийшла оновлена версія Coding Tools MCP (v0.2.2), яка надає будь-якому штучному інтелекту або чат-агенту можливість безпосередньо взаємодіяти з вашим кодом. Це дозволяє асистентам виконувати практичні завдання редагування та налагодження програм. Інструмент значно спрощує щоденну роботу розробників.",
       "ai_title": "Нові інструменти MCP дають змогу AI керувати вашим кодом",
       "video_keywords": "programmer, typing on keyboard, dual monitors, source code"
-    },
-    {
-      "title": "You Could Have Come Up with Kimi Delta Attention",
-      "link": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-      "summary": "<p>Article URL: <a href=\"https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention\">https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085909\">https://news.ycombinator.com/item?id=49085909</a></p>\n<p>Points: 137</p>\n<p># Comments: 36</p>",
-      "published": "2026-07-28T16:02:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У технічному блозі детально розбирається архітектура Kimi Delta Attention та доводиться, що базові принципи цього механізму є інтуїтивно зрозумілими для розробників. Автор розклав складні математичні концепції на прості кроки для кращого розуміння. Стаття викликала великий інтерес в AI-спільноті завдяки своїй практичній цінності.",
-      "ai_title": "Як самостійно розробити Kimi Delta Attention",
-      "video_keywords": "whiteboard, equations, data science, studying"
-    },
-    {
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "summary": "<p>Article URL: <a href=\"https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html\">https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49085698\">https://news.ycombinator.com/item?id=49085698</a></p>\n<p>Points: 63</p>\n<p># Comments: 6</p>",
-      "published": "2026-07-28T15:48:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомий дослідник Себастьян Рашке опублікував детальний розбір архітектури нової мовної моделі Kimi K3. У матеріалі проаналізовано ключові технічні особливості, які вирізняють цю модель серед конкурентів. Дослідження корисне для всіх, хто стежить за розвитком сучасних архітектур штучного інтелекту.",
-      "ai_title": "Огляд архітектури та нотатки щодо моделі Kimi K3",
-      "video_keywords": "server room, data center, futuristic interface, microchip"
     },
     {
       "title": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
@@ -859,6 +809,56 @@
       "ai_summary": "Компанія Zoox, що належить Amazon, отримала дозвіл на комерційні перевезення пасажирів у своїх унікальних роботаксі без керма та педалей. Регулятори дозволили розгорнути до 2,5 тисяч таких автомобілів на дорогах.",
       "ai_title": "Безпілотні роботаксі Zoox отримали дозвіл на платні перевезення",
       "video_keywords": "autonomous vehicle, driverless car, futuristic transport, smart city traffic"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111237\">https://news.ycombinator.com/item?id=49111237</a></p>\n<p>Points: 189</p>\n<p># Comments: 153</p>",
+      "published": "2026-07-30T15:15:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Google DeepMind анонсувала нову систему Gemini Robotics 2, яка наділяє роботів інтелектом усього тіла. Це дозволяє гуманоїдним та іншим роботам виконувати складні фізичні завдання з високою координацією рухів. Технологія значно наближає робототехніку до реального автономного середовища.",
+      "ai_title": "Google представила Gemini Robotics 2 для роботів",
+      "video_keywords": "humanoid robot, artificial intelligence, robotics laboratory, futuristic technology"
+    },
+    {
+      "title": "Pixel 11 Pro Fold design leaks ahead of Google launch event",
+      "link": "https://www.theverge.com/tech/973249/pixel-11-pro-fold-buds-watch-leaks-google-launch-event",
+      "summary": "Weeks ahead of Google's next Pixel hardware event, Leaker Evan Blass has shared what appear to be marketing renders of the unannounced Google Pixel 11 Pro Fold in a post on his Substack. The renders, if accurate, show that the new foldable will look fairly similar to last year's model - it has a tall [&#8230;]",
+      "published": "2026-07-30T16:57:39+00:00",
+      "source": "The Verge",
+      "ai_summary": "У мережі з'явилися маркетингові рендери неанонсованого складаного смартфона Google Pixel 11 Pro Fold. Судячи з витоку, дизайн новинки збереже основні риси попереднього покоління. Офіційна презентація пристрою очікується на найближчому заході компанії.",
+      "ai_title": "Злили дизайн нового Google Pixel 11 Pro Fold",
+      "video_keywords": "folding smartphone, tech gadget, mobile phone display, modern technology"
+    },
+    {
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Friend launched a new ad showing two [&#8230;]",
+      "published": "2026-07-30T16:33:32+00:00",
+      "source": "The Verge",
+      "ai_summary": "Проєкт Friend перезапустив свій гаджет у вигляді кулона з штучним інтелектом, який тепер оснащений динаміком для голосового спілкування. Нова версія коштує вдвічі дорожче за оригінальну модель. Гаджет позиціонується як персональний цифровий компаньйон.",
+      "ai_title": "Скандальний AI-кулон Friend повертається за вдвічі більшу ціну",
+      "video_keywords": "wearable technology, smart pendant, artificial intelligence device, person wearing necklace"
+    },
+    {
+      "title": "Best Buy is selling an RTX 5080 for more than the RTX 5090’s MSRP",
+      "link": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy",
+      "summary": "Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the RTX 5090, VideoCardz reports. The ROG Astral RTX 5080 OC now costs 40 percent more than its [&#8230;]",
+      "published": "2026-07-30T15:48:10+00:00",
+      "source": "The Verge",
+      "ai_summary": "Мережа Best Buy встановила цінник на кастомну відеокарту Asus ROG Astral RTX 5080 OC у 2099 доларів. Таким чином, вона коштує дорожче за офіційну рекомендовану ціну потужнішої флагманської моделі RTX 5090. Це викликало чимале здивування серед геймерів та експертів ринку.",
+      "ai_title": "Ціна на відеокарту RTX 5080 перевищила вартість флагмана",
+      "video_keywords": "computer graphics card, computer hardware, gaming pc, microchip installation"
+    },
+    {
+      "title": "Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior",
+      "link": "https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv",
+      "summary": "The SkyNomad N90 Max is the latest electric SUV from Xiaomi and its first extended-range EV, with a claimed range of over 1,705 km (about 1,059 miles). It will come in both five- and seven-seat configurations, as well as an N90 Max Camping Edition. One of the big features of the N90 is its highly [&#8230;]",
+      "published": "2026-07-30T15:05:09+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Xiaomi презентувала свій новий електричний позашляховик SkyNomad N90 Max із трансформацією салону. Автомобіль здатний подолати понад 1705 кілометрів на одному заряді завдяки системі збільшення дальності ходу. Модель також отримає спеціальну кемпінгову версію.",
+      "ai_title": "Xiaomi анонсувала електричний позашляховик SkyNomad",
+      "video_keywords": "electric vehicle, modern SUV, car interior, futuristic car"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1331,69 +1331,59 @@
       "ai_summary": "Компанія Zoox, що належить Amazon, подолала останні федеральні регуляторні перешкоди. Тепер вона може офіційно стягувати плату з пасажирів за поїздки у своїх унікальних роботаксі без водія.",
       "ai_title": "Безпілотні таксі Zoox отримали дозвіл на запуску платних перевезень",
       "video_keywords": "autonomous car, futuristic vehicle, street traffic, passenger inside"
+    },
+    {
+      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "published": "2026-07-30T16:09:42+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Okta посилює свої позиції у сфері виявлення загроз для ідентифікації. Угоду укладено на тлі зростаючої потреби підприємств захищати автономних ШІ-агентів у хмарних середовищах.",
+      "ai_title": "Okta купує стартап із безпеки штучного інтелекту Permiso приблизно за 200 мільйонів доларів",
+      "video_keywords": "cybersecurity dashboard, server room, cloud computing, code on screen"
+    },
+    {
+      "title": "Tesla made its 10 millionth EV",
+      "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+      "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
+      "published": "2026-07-30T16:00:25+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Tesla досягла знакового рубежу у виробництві електрокарів. Це наближає Ілона Маска до виконання цілей, необхідних для отримання масштабного пакета винагород.",
+      "ai_title": "Tesla випустила свій десятимільйонний електромобіль",
+      "video_keywords": "electric car assembly line, Tesla factory, robotic arm welding, new car driving out"
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+      "published": "2026-07-30T15:41:16+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "За словами генерального директора Марка Цукерберга, ШІ дозволяє набагато швидше розробляти та запускати нові споживчі продукти. Компанія планує випустити ще більше додатків для своїх платформ.",
+      "ai_title": "Meta заявляє, що штучний інтелект значно спрощує створення нових додатків",
+      "video_keywords": "person typing on laptop, smartphone app interface, office workspace, coding on screen"
+    },
+    {
+      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+      "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+      "summary": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
+      "published": "2026-07-30T15:27:08+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Netflix підписала ліцензійну угоду вартістю 500 мільйонів доларів. Це дозволить транслювати популярну франшизу на міжнародних ринках.",
+      "ai_title": "Netflix уклала масштабну глобальну угоду на стріминг всесвіту «Ходячих мерців»",
+      "video_keywords": "person watching television, streaming service logo, living room couch, TV screen glowing"
+    },
+    {
+      "title": "Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.",
+      "link": "https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying",
+      "summary": "<p>Every time a Mastercard gets tapped, the network has less than a tenth of a second to judge how likely the purchase is to be fraudulent. It made that call across 175 billion transactions last year. Now the buyer on the other side of that judgment is starting to change, and Greg Ulrich, the company&#x27;s chief AI and data officer, spelled out the consequence for the <a href=\"https://venturebeat",
+      "published": "2026-07-30T16:57:14+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Традиційні алгоритми захисту від шахрайства десятиліттями вчилися розпізнавати ботів як зловмисників. Тепер же штучний інтелект та боти самі здійснюють легальні покупні транзакції в мережі.",
+      "ai_title": "Mastercard адаптує свої системи безпеки через масовий перехід покупців на ботів",
+      "video_keywords": "credit card swipe, digital payment terminal, online shopping on laptop, data analytics charts"
     }
   ],
   "Крипта": [
-    {
-      "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-      "link": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-      "summary": "",
-      "published": "2026-07-28T16:08:19+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінансові гіганти Волл-стріт, зокрема BlackRock та Fidelity, висловили підтримку новому законопроєкту Clarity Act. Це рішення може суттєво вплинути на регулювання цифрових активів у США та посилити довіру інституційних інвесторів до крипторинку.",
-      "ai_title": "Волл-стріт підтримує закон про криптопрозорість",
-      "video_keywords": "wall street, financial district, businessman shaking hands, stock exchange"
-    },
-    {
-      "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
-      "link": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/blockchain-code-ai-bitcoin.jpg\" /></p><p>Core Scientific reported strong second-quarter revenue growth as AI colocation became its largest business, though a non-cash ac",
-      "published": "2026-07-28T15:47:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Core Scientific повідомила про значне зростання доходу у другому кварталі. Головним драйвером стало розширення інфраструктури для розміщення обчислювальних потужностей штучного інтелекту.",
-      "ai_title": "Доходи майнінгового гіганта Core Scientific подвоїлися завдяки штучному інтелекту",
-      "video_keywords": "server room, data center, computer servers blinking lights, tech engineer"
-    },
-    {
-      "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
-      "link": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
-      "summary": "",
-      "published": "2026-07-28T15:46:33+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Розробники Ethereum-стартапу EthSystems переконані, що збереження приватності транзакцій є ключем до інтеграції банківської системи у публічні блокчейни. Новий підхід має вирішити головні побоювання традиційних фінансових інститутів.",
-      "ai_title": "Стартап EthSystems робить ставку на конфіденційність для залучення банків",
-      "video_keywords": "hands typing laptop, abstract blockchain network, bank vault digital, secure transaction"
-    },
-    {
-      "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
-      "link": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-126255-openai-semiconductor-chip-entice-uae-investors.jpg\" /></p><p>Bitcoin and crypto dropped as contagion from a major Asia stock-market correction spreads ",
-      "published": "2026-07-28T16:27:46+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютний ринок зазнав різкого падіння на тлі глобальної корекції фондових ринків, яка почалася з обвалу азіатських акцій технологічних компаній. Курс Біткоїна пробив позначку в 63 тисячі доларів, потягнувши за собою інші цифрові активи.",
-      "ai_title": "Біткоїн впав нижче $63 000 через світову кризу на ринку акцій",
-      "video_keywords": "bitcoin chart, stock market crash, red arrows, financial charts"
-    },
-    {
-      "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
-      "link": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-an-ipo-a-beginners-guide-on-how-crypto-firms-can-go-public.png\" /></p><p>Eligible US users can request IPO allocations, while customers ",
-      "published": "2026-07-28T16:20:57+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна біржа Kraken дає змогу роздрібним інвесторам долучитися до IPO мережі сендвічів Jersey Mike's. Користувачі зможуть отримати частки через токенізовані акції та прямий розподіл.",
-      "ai_title": "Біржа Kraken відкриває доступ до первинного розміщення акцій через токенізацію",
-      "video_keywords": "smartphone trading app, crypto exchange, financial technology, digital tokens"
-    },
-    {
-      "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
-      "link": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AmericanFortress proposes quantum-safe crypto wallet protection without fund migration\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazineq-day-bitcoin-could-take-7-years-to-upgrade-to-post-quantum.png\" /></p><p>The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum ",
-      "published": "2026-07-28T18:47:26+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія AmericanFortress розробила новий криптографічний метод для захисту гаманців від атак квантових комп'ютерів. Технологія дозволяє убезпечити активи у мережах Bitcoin та Ethereum без необхідності переказувати кошти на нові адреси.",
-      "ai_title": "Захист криптовалюти від майбутніх квантових загроз",
-      "video_keywords": "cybersecurity lock, digital vault, glowing code, futuristic screen"
-    },
     {
       "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
       "link": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2083,6 +2073,46 @@
       "ai_summary": "Російські правоохоронці висунули офіційні звинувачення Ігорю Рунцу через оборудки з обладнанням для майнінгу. Справа стосується контракту на суму 8 мільйонів доларів із місцевим мільярдером.",
       "ai_title": "Засновника майнінгової компанії BitRiver звинуватили у шахрайстві на 8 мільйонів",
       "video_keywords": "police handcuffs, courtroom gavel, arrested handcuffed, russian police"
+    },
+    {
+      "title": "Ondo Finance weighs acquisition worth up to $500 million",
+      "link": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+      "summary": "",
+      "published": "2026-07-30T16:04:16+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Ondo Finance оцінює можливість здійснення стратегічного поглинання на суму до 500 мільйонів доларів. Цей крок може суттєво зміцнити позиції проєкту на ринку та розширити його присутність у секторі децентралізованих фінансів.",
+      "ai_title": "Ondo Finance розглядає масштабне поглинання на пів мільярда доларів",
+      "video_keywords": "corporate meeting, business handshake, finance office, handshake agreement"
+    },
+    {
+      "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
+      "link": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-bitcoin-a-hedge-against-inflation.jpg\" /></p><p>Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation dat",
+      "published": "2026-07-30T16:17:29+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс біткоїна залишається стабільним після того, як улюблений індикатор ФРС — інфляція PCE — продемонстрував перше місячне падіння за шість років. Це дарувало ринкам довгоочікуване полегшення та позитивну динаміку.",
+      "ai_title": "Біткоїн тримається стабільно на тлі зниження інфляції в США",
+      "video_keywords": "bitcoin coin, stock market graphs, trading terminal, financial charts"
+    },
+    {
+      "title": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
+      "link": "https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperscale Data sells 100 BTC to fund Michigan AI data center\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-rise-of-major-institutions-is-inevitable-data-centers-red.jpg\" /></p><p>The Bitcoin miner is using part of its treasury and a BTC-backed credit facility to fund an AI campus tie",
+      "published": "2026-07-30T15:53:16+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Hyperscale Data реалізувала 100 біткоїнів зі свого балансу, щоб профінансувати будівництво нового кампусу для штучного інтелекту в Мічигані. Для фінансування також залучено кредитну лінію, забезпечену першою криптовалютою.",
+      "ai_title": "Майнер Hyperscale Data продає біткоїни заради дата-центру штучного інтелекту",
+      "video_keywords": "server racks, data center, supercomputer, blinking lights"
+    },
+    {
+      "title": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
+      "link": "https://cointelegraph.com/news/tokenized-gold-defi-stress-test-collateral-adoption-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tokenized gold passes DeFi stress test, but less than 2% is used as collateral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gold-coin.jpg\" /></p><p>A RedStone report found tokenized bullion held up during gold’s sharp sell-off, but DeFi lending adoption remains limited despite surging marke",
+      "published": "2026-07-30T15:48:37+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Новий звіт показав, що токенізовані злитки золота витримали різкий розпродаж на ринку дорогоцінних металлів. Проте використання такого активу як застави у протоколах децентралізованих фінансів поки що залишається на низькому рівні.",
+      "ai_title": "Токенізоване золото успішно пройшло стрес-тест у DeFi",
+      "video_keywords": "gold bars, digital coins, crypto wallet, financial technology"
     }
   ]
 }
