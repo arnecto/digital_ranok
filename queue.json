@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "link": "https://learnvector.ai/",
-      "summary": "<p>Article URL: <a href=\"https://learnvector.ai/\">https://learnvector.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49092499\">https://news.ycombinator.com/item?id=49092499</a></p>\n<p>Points: 85</p>\n<p># Comments: 47</p>",
-      "published": "2026-07-29T01:49:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомий фахівець у галузі штучного інтелекту Ендрю Нґ представив компанію LearnVector. Вона розробляє інноваційні платформи для створення унікальних та адаптивних освітніх програм «один на один».",
-      "ai_title": "Ендрю Нґ запускає новий AI-проєкт для персоналізованого навчання",
-      "video_keywords": "student studying, laptop, online learning, classroom"
-    },
-    {
-      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-      "link": "https://github.com/jagg-ix/zil-lean",
-      "summary": "<p>Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure.<p>Google's Zanzibar paper:\n<a href=\"https://storage.googleapis.com/gweb",
-      "published": "2026-07-29T02:22:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив спеціалізовану мову (DSL), натхненну системою Google Zanzibar та інтегровану з Lean4. Вона дозволяє створювати та оцінювати бази знань без складних зовнішніх інфраструктур.",
-      "ai_title": "Нова мова для AI-проєктів на базі Google Zanzibar та Lean4",
-      "video_keywords": "computer screen, programming code, software developer, typing on keyboard"
-    },
-    {
-      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-      "link": "https://transformer-transformer.github.io/",
-      "summary": "<p>Article URL: <a href=\"https://transformer-transformer.github.io/\">https://transformer-transformer.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093232\">https://news.ycombinator.com/item?id=49093232</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-29T03:52:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники представили Transformer Transformer — уніфіковану модель на основі архітектури трансформерів, яка оптимізує створення роботів під конкретні рухи та завдання. Це значний крок вперед у галузі робототехніки та штучного інтелекту.",
-      "ai_title": "Універсальна модель для спільного проєктування роботів",
-      "video_keywords": "robot arm, laboratory, engineering, futuristic technology"
-    },
-    {
-      "title": "Cracking Windows Open: Porting RADV to Win32",
-      "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-      "summary": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\">https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093435\">https://news.ycombinator.com/item?id=49093435</a></p>\n<p>Points: 29</p>\n<p># Commen",
-      "published": "2026-07-29T04:30:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники здійснили важливий технічний крок, перенісши драйвер RADV на платформу Win32. Це дозволяє покращити підтримку сучасних графічних стандартів та відкриває нові перспективи для оптимізації ігор і додатків на Windows.",
-      "ai_title": "Портування драйвера RADV на Windows відкриває нові можливості для графіки",
-      "video_keywords": "computer screen, programming code, electronics workbench, soldering iron"
-    },
-    {
-      "title": "User Interfaces of the Demo Scene",
-      "link": "https://www.datagubbe.se/scenegui/",
-      "summary": "<p>Article URL: <a href=\"https://www.datagubbe.se/scenegui/\">https://www.datagubbe.se/scenegui/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093434\">https://news.ycombinator.com/item?id=49093434</a></p>\n<p>Points: 88</p>\n<p># Comments: 11</p>",
-      "published": "2026-07-29T04:30:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналіз унікальних та експериментальних користувацьких інтерфейсів, які створені ентузіастами демосцени. Стаття досліджує нестандартні підходи до дизайну та програмування візуальних елементів на обмеженому залізі.",
-      "ai_title": "Еволюція інтерфейсів у світі демосцени",
-      "video_keywords": "retro computer, neon lights, glowing screen, hacker typing"
-    },
-    {
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\">https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49093569\">https://news.ycombinator.com/item?id=49093569</a></p>\n<p>Points: 96</p>\n<p># Comments: 17</p>",
-      "published": "2026-07-29T04:58:46+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти знайшли новий спосіб використання VPN-сервісу Tailscale на модифікованих пристроях Kindle. Це дозволяє об'єднувати гаджети в захищену віртуальну мережу та використовувати їх у нестандартних сценаріях.",
-      "ai_title": "Як налаштувати Tailscale на зламаному електронному рідері Kindle",
-      "video_keywords": "e-reader, reading book, glowing tablet, hacker workspace"
-    },
-    {
       "title": "Over $5 trillion: Apple became the second company in the world with that market valuation",
       "link": "https://en.ain.ua/2026/07/29/over-5-trillion-apple-became-the-second-company-in-the-world-with-that-market-valuation/",
       "summary": "During trading the company's market capitalization exceeded the $5 trillion mark for the first time, although it later fell back below that level.",
@@ -779,6 +719,16 @@
       "ai_summary": "Стаття досліджує формування нового візуального стилю, який привносять інструменти штучного інтелекту в цифрові інтерфейси та медіа. Автор аналізує, як типові паттерни генеративного дизайну стають впізнаваними та формують нову культуру сприйняття контенту.",
       "ai_title": "Еволюція «AI-естетики» в сучасному дизайні",
       "video_keywords": "abstract digital art, glowing interface, futuristic graphics, screen animation"
+    },
+    {
+      "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+      "link": "https://greyswansignals.com/?theme=dark",
+      "summary": "<p>Article URL: <a href=\"https://greyswansignals.com/?theme=dark\">https://greyswansignals.com/?theme=dark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49118933\">https://news.ycombinator.com/item?id=49118933</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+      "published": "2026-07-31T04:15:04+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Сучасний ринок штучного інтелекту все більше залежить від позикових грошей, оскільки кредитори починають переоцінювати ризики та змінювати умови фінансування. Така ситуація може призвести до нестабільності в індустрії високих технологій та вплинути на подальший розвиток нових проєктів. Експерти закликають уважно стежити за борговим навантаженням ключових гравців ринку.",
+      "ai_title": "Штучний інтелект фінансується за рахунок боргових коштів",
+      "video_keywords": "financial charts, stock market, computer screens, data analytics"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1334,26 +1284,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
-      "link": "https://cointelegraph.com/markets/celsius-bitcoin-miner-ionic-digital-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ebang-goes-for-nasdaq-whos-next-and-why-only-mining-firms-go-public.jpg\" /></p><p>The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capital",
-      "published": "2026-07-29T03:26:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна майнінгова компанія Ionic Digital успішно вийшла на біржу Nasdaq, де її акції зросли на 26% у перший день торгів. Завдяки цьому ринкова капіталізація підприємства помітно зросла, попри його складне минуле, пов'язане з банкрутством Celsius.",
-      "ai_title": "Акції пов'язаного з Celsius майнера Ionic Digital зросли на 26% під час дебюту на Nasdaq",
-      "video_keywords": "nasdaq building, stock exchange floor, trading monitors, digital charts"
-    },
-    {
-      "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
-      "link": "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether signs tokenization deal with Nairobi Securities Exchange\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bank-building-hall-entrance-revolving-doorsthreetether.jpg\" /></p><p>The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT a",
-      "published": "2026-07-29T02:50:51+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Tether підписала стратегічну угоду про співпрацю з Найробійською фондовою біржею. Партнерство передбачає розвиток токенізованих цінних паперів, створення інфраструктури на базі блокчейну та можливе інтегрування стейблкоїна USDT у місцеві ринки.",
-      "ai_title": "Tether уклала угоду про токенізацію з фондовою біржею Найробі",
-      "video_keywords": "stock exchange building, handshake, business meeting, financial district"
-    },
     {
       "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
       "link": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
@@ -2083,6 +2013,16 @@
       "ai_summary": "Інвестиційна компанія 3iQ керуватиме частиною біткоїн-резервів спеціального адміністративного регіону Гелефу в Бутані. Цей крок є частиною стратегії розвитку місцевої «зеленої» економіки на базі криптовалюти.",
       "ai_title": "Бутан залучає компанію 3iQ до управління частиною своїх біткоїн-резервів",
       "video_keywords": "bitcoin, cryptocurrency, digital wallet, financial charts"
+    },
+    {
+      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+      "link": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.jpg\" /></p><p>Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately exa",
+      "published": "2026-07-31T02:38:09+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Розробники гаманців Coldcard закликали користувачів версії Mk3 терміново переказати свої кошти через виявлену вразливість генерації сід-фраз. Це сталося на тлі масштабного розслідування таємничого зникнення біткоїнів на суму 38 мільйонів доларів. Експерти з безпеки намагаються встановити точні причини та масштаби потенційної загрози для криптоінвесторів.",
+      "ai_title": "Апаратні гаманці Coldcard під загрозою: експерти розслідують крадіжку 38 мільйонів біткоїнів",
+      "video_keywords": "hardware wallet, cryptocurrency security, hacker computer screen, digital vault"
     }
   ]
 }
