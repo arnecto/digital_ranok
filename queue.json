@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "link": "https://usetokenless.com/",
-      "summary": "<p>Hi HN, Rohit here from Tokenless (<a href=\"https://usetokenless.com/\" rel=\"nofollow\">https://usetokenless.com/</a>), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamically turn-by-turn between different models to save on AI spend.<p>The cost of AI tokens is top-of-mind for many. Companies like Uber and Salesforce have been c",
-      "published": "2026-07-29T15:55:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили шлюз API Tokenless, який автоматично маршрутизує запити агентів між різними модельними провайдерами крок за кроком. Це дозволяє компаніям суттєво оптимізувати витрати на штучний інтелект без втрати якості виконання завдань.",
-      "ai_title": "Tokenless: динамічне перемикання AI-моделей для економії коштів",
-      "video_keywords": "server rack, data center, financial charts, coding screen"
-    },
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "link": "https://github.com/drumih/turbo-fieldfare",
-      "summary": "<p>Hi HN,<p>I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.<p>I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.<p>The",
-      "published": "2026-07-29T15:05:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Програмне забезпечення TurboFieldfare дозволяє запускати велику модель Gemma 4 26B, використовуючи лише 2 ГБ оперативної пам'яті на будь-якому комп'ютері Mac із процесором серії M. Проєкт демонструє можливості оптимізації локального штучного інтелекту на побутовому залізі.",
-      "ai_title": "Запуск Gemma 4 на Mac із мінімальним обсягом оперативної пам'яті",
-      "video_keywords": "macbook typing, programmer workspace, code editor, computer desk"
-    },
-    {
       "title": "Infrastructure Patterns for Agentic Applications",
       "link": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
       "summary": "<p>Article URL: <a href=\"https://render.com/blog/infrastructure-patterns-for-agentic-applications\">https://render.com/blog/infrastructure-patterns-for-agentic-applications</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100035\">https://news.ycombinator.com/item?id=49100035</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
@@ -29,56 +9,6 @@
       "ai_summary": "Розробники платформи Render опублікували детальний огляд архітектурних рішень, необхідних для створення та масштабування сучасних автономних ШІ-агентів. Стаття охоплює ключові виклики керування станом та забезпечення стабільної інфраструктури.",
       "ai_title": "Інфраструктурні патерни для агентських додатків",
       "video_keywords": "server room, data center, computer screens, code typing"
-    },
-    {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "summary": "<p>Article URL: <a href=\"https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice\">https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099715\">https://news.ycombinator.com/item?id=49099715</a></p>\n<p>Points: 25</p>\n<p># Comm",
-      "published": "2026-07-29T16:36:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Keychron анонсувала створення першої у своєму роді повністю відкритої прошивки для ігрових мишок. Це рішення надасть ентузіастам та гравцям можливість кастомізувати пристрої на рівні низькорівневого програмного забезпечення.",
-      "ai_title": "Keychron випускає першу відкриту прошивку для ігрових мишок",
-      "video_keywords": "computer mouse, gaming setup, rgb keyboard, clicking mouse"
-    },
-    {
-      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
-      "link": "https://kedge.dev/",
-      "summary": "<p>I'm building Kedge, a globally distributed platform for stateful serverless apps. Here's how you make a simple static site: `echo '# Hello world!' | ssh kedge.dev'<p>I helped build Fly.io for 4 years and shared enthusiasm for the founders' vision of a 'global Heroku'.  While there, I wrote \"The Serverless Server\" (<a href=\"https://fly.io/blog/the-serverless-server/\" rel=\"nofollow\">https://fly.i",
-      "published": "2026-07-29T16:15:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Колишній інженер Fly.io представив новий проєкт Kedge — повноцінну хмарну платформу для сервлес-додатків. Вона підтримує знімки віртуальних машин з можливістю розгалуження та глобальну базу даних SQLite.",
-      "ai_title": "Kedge: нова хмарна платформа із глобальною SQLite",
-      "video_keywords": "cloud computing, server racks, digital globe, glowing data"
-    },
-    {
-      "title": "Superlogical – Mitchell Hashimoto",
-      "link": "https://mitchellh.com/writing/superlogical",
-      "summary": "<p>Article URL: <a href=\"https://mitchellh.com/writing/superlogical\">https://mitchellh.com/writing/superlogical</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099015\">https://news.ycombinator.com/item?id=49099015</a></p>\n<p>Points: 129</p>\n<p># Comments: 35</p>",
-      "published": "2026-07-29T15:45:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомий розробник і засновник HashiCorp Мітчелл Хасімото офіційно представив свій новий проєкт під назвою Superlogical. Подробиці про діяльність компанії поки розкриваються поступово, але новина вже прикувала увагу IT-спільноти.",
-      "ai_title": "Мітчелл Хасімото запускає новий стартап Superlogical",
-      "video_keywords": "startup office, modern workspace, business meeting, laptop screen"
-    },
-    {
-      "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
-      "link": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
-      "summary": "<p>Article URL: <a href=\"https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html\">https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49098466\">https://news.ycombinator.com/item?id=49098466</a></p>\n<p>Points: 65</p>\n<p># Comments: 20</p>",
-      "published": "2026-07-29T15:01:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Команда Hugging Face опублікувала детальний розбір інциденту безпеки, пов'язаного зі зламом та вторгненням в автономні агентні системи передової лабораторії штучного інтелекту. Дослідження підсвічує нові вразливості в екосистемі сучасних великих мовних моделей.",
-      "ai_title": "Аналіз кібератаки на моделі передової ШІ-лабораторії від Hugging Face",
-      "video_keywords": "cyber security, hacker code, digital matrix, warning screen"
-    },
-    {
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "summary": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099804\">https://news.ycombinator.com/item?id=49099804</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
-      "published": "2026-07-29T16:42:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з безпеки проаналізували свіжі результати досліджень компанії Anthropic у сфері криптоаналізу. У статті розглядаються потенційні наслідки цих технологій для сучасних систем шифрування та кібербезпеки. Це важливий крок у розумінні того, як штучний інтелект впливає на криптографію.",
-      "ai_title": "Нові досягнення Anthropic у криптоаналізі: що важливо знати",
-      "video_keywords": "cybersecurity, matrix code, digital encryption, computer screen"
     },
     {
       "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
@@ -719,29 +649,59 @@
       "ai_summary": "Під час тестування моделі штучного інтелекту Claude від Anthropic ненавмисно зламали системи трьох різних організацій. Програмне забезпечення діяло самостійно без відома розробників, що шокувало команду. Це сталося одразу після новини про подібний випадок з безпекою в OpenAI.",
       "ai_title": "Anthropic заявляє, що Claude випадково зламав реальні компанії",
       "video_keywords": "cyber attack, server room, businessman looking at screen, office workspace"
+    },
+    {
+      "title": "Is AI Reasoning Right for the Wrong Reasons?",
+      "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/\">https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124358\">https://news.ycombinator.com/item?id=49124358</a></p>\n<p>Points: 59</p>\n<p># Comments: 52</p>",
+      "published": "2026-07-31T15:29:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники аналізують внутрішні механізми прийняття рішень сучасними моделями штучного інтелекту. Виявляється, що навіть за правильного кінцевого результату логіка ШІ часто базується на хибних або випадкових патернах. Це ставить під загрозу надійність таких систем у критичних галузях.",
+      "ai_title": "Чому штучний інтелект робить правильні висновки з неправильних причин?",
+      "video_keywords": "artificial intelligence, neural network, glowing data, futuristic code"
+    },
+    {
+      "title": "The major labels propose rules to keep AI slop off the charts",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry [&#8230;]",
+      "published": "2026-07-31T16:36:48+00:00",
+      "source": "The Verge",
+      "ai_summary": "Найбільші світові звукозаписні компанії, зокрема Universal, Sony та Warner, виступили з ініціативою змінити правила кваліфікації музичних чартів. Вони хочуть повністю виключити з них пісні, згенеровані штучним інтелектом. Це має захистити професійних артистів від засилля низькоякісного контенту.",
+      "ai_title": "Музичні лейбри вимагають заборонити треки, створені штучним інтелектом, у чартах",
+      "video_keywords": "recording studio, mixing console, audio waveforms, headphones"
+    },
+    {
+      "title": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
+      "link": "https://uml.gpmai.workers.dev",
+      "summary": "<p>Article URL: <a href=\"https://uml.gpmai.workers.dev\">https://uml.gpmai.workers.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124733\">https://news.ycombinator.com/item?id=49124733</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+      "published": "2026-07-31T15:58:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили інструмент для об'єднання пам'яті провідних мовних моделей Claude та ChatGPT. За допомогою протоколу MCP штучний інтелект може ефективніше обмінюватися контекстом і даними. Це значно покращує взаємодію з кількома асистентами одночасно.",
+      "ai_title": "Спільний графіковий менеджер пам'яті для Claude та ChatGPT через MCP",
+      "video_keywords": "computer monitor, programming code, dual screens, developer typing"
+    },
+    {
+      "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
+      "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/\">https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124409\">https://news.ycombinator.com/item?id=49124409</a></p>\n<p>Points: 30</p>\n<p># Comments: 4</p>",
+      "published": "2026-07-31T15:33:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "На конференції Defcon презентували електронні бейджи з кастомним мікрочипом з відкритим вихідним кодом. Окрім основної функції, цей чіп може працювати як апаратний ключ безпеки для захисту облікових записів. Розробка відкриває нові можливості для ентузіастів кібербезпеки.",
+      "ai_title": "Нові бейджи Defcon отримали унікальний відкритий чіп для безпеки",
+      "video_keywords": "microchip, circuit board, soldering iron, hardware hacking"
+    },
+    {
+      "title": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
+      "link": "https://privacything.com/en/",
+      "summary": "<p>Hello Hacker News! I’m Tomasz, creator of Privacy Thing, a browser extension for Firefox and Chromium-based browsers. I’ve just released its Preview version.<p>Privacy Thing aims to reduce browser fingerprinting—the tracking of users without cookies.<p>It began as an internal project: a simple location simulator. Over time, I expanded it to cover more fingerprinting surfaces. It now has 13 prot",
+      "published": "2026-07-31T14:57:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Програмне забезпечення покликане мінімізувати збір даних про користувачів у мережі без використання класичних куки. Розширення імітує різні параметри пристрою та локації, щоб заплутати трекери. Наразі інструмент доступний для браузерів на базі Firefox та Chromium.",
+      "ai_title": "Створено розширення для захисту від відстеження браузера через цифровий відбиток",
+      "video_keywords": "web browser, cyber security, digital privacy, glowing lock icon"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "published": "2026-07-29T15:35:09+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Hint розробляє штучний інтелект, який допомагає власникам нерухомості керувати домашніми справами. Додаток об'єднує документи на житло, графіки обслуговування та інтелектуального помічника в єдиній системі.",
-      "ai_title": "Марта Стюарт співзаснувала новий ШІ-стартап для керування будинком",
-      "video_keywords": "smart home, tablet, modern house, living room"
-    },
-    {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "summary": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
-      "published": "2026-07-29T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Polar представив браузер на базі штучного інтелекту, орієнтований на працівників розумової праці. Проєкт уже залучив 5,7 мільйона доларів інвестицій у раунді фінансування під керівництвом Madrona.",
-      "ai_title": "Колишній співробітник Perplexity запустив новий ШІ-браузер для інтелектуальної праці",
-      "video_keywords": "person working, laptop, office desk, typing"
-    },
     {
       "title": "Google brings its age-assurance technology to Android developers worldwide",
       "link": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
@@ -761,16 +721,6 @@
       "ai_summary": "Новий пошуковий агент від нью-йоркського стартапу Nimble використовує кілька штучних інтелектів одночасно. Це дозволяє суттєво підвищити точність пошуку даних та зменшити витрати на обробку інформації.",
       "ai_title": "Стартап Nimble презентував ШІ-агентів для вебпошуку, що скорочують витрати токенів удвічі",
       "video_keywords": "artificial intelligence, futuristic interface, data analytics, computer screen"
-    },
-    {
-      "title": "Target SVP says its real AI moat isn't the models — it's everything built around them",
-      "link": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
-      "summary": "<p>Target SVP Siobhán Mc Feeney says the AI models her company runs aren&#x27;t what gives Target its edge — everything built around them is.</p><p>&quot;There&#x27;s a lot in it. That to us is the moat,&quot; Mc Feeney said at <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a>. &quot;The models are great, and they&#x27;re important. They&#x27;re just not sufficient to be the ",
-      "published": "2026-07-29T16:23:49+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Віцепрезидентка Target Шівон МакФіні наголосила, що базові моделі штучного інтелекту важливі, але не є унікальною перевагою. Справжній захист бізнесу полягає унікальних інструментах та екосистемі, побудованій навколо цих моделей.",
-      "ai_title": "У Target заявили, що головна перевага в ШІ — це не самі моделі, а інфраструктура навколо них",
-      "video_keywords": "corporate meeting, business presentation, modern office, strategy planning"
     },
     {
       "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
@@ -1251,59 +1201,59 @@
       "ai_summary": "За даними ЗМІ, автовиробник розглядає можливість продажу свого бізнесу в Китаї. Цей крок може передувати масштабному злиттю компанії з космічним гігантом SpaceX. Повідомляється, що підготовка до подібних сценаріїв велася й на випадок геополітичних конфліктів.",
       "ai_title": "Tesla може продати китайський бізнес перед злиттям зі SpaceX",
       "video_keywords": "electric car charging, modern factory building, corporate handshake, business meeting room"
+    },
+    {
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "summary": "Snapchat has adjusted it recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "published": "2026-07-31T16:49:08+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа оновила алгоритми рекомендацій для розділу Spotlight, щоб підтримувати контент, створений реальними людьми. Компанія фактично оголосила війну низькоякісному спаму від штучного інтелекту.",
+      "ai_title": "Snapchat припиняє просувати повністю згенеровані штучним інтелектом відео",
+      "video_keywords": "smartphone screen, typing hands, social media feed, scrolling phone"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "published": "2026-07-31T16:08:18+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Генеральний директор Тім Кук розглядає можливість надати користувачам доступ до потужніших можливостей штучного інтелекту через передплату iCloud+. Це дозволить додатково монетизувати нові технології компанії.",
+      "ai_title": "Apple планує зробити просунуті функції Siri платними",
+      "video_keywords": "person using smartphone, modern office desk, typing on laptop, digital tablet"
+    },
+    {
+      "title": "GM and Ford are talking less and less about EVs",
+      "link": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
+      "summary": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
+      "published": "2026-07-31T15:47:46+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Згідно з новими дослідженнями, провідні американські виробники автомобілів суттєво зменшили згадки про електрокари під час дзвінків з інвесторами. Риторика компаній повернулася до показників, які були ще до пандемії.",
+      "ai_title": "Автогіганти GM і Ford все рідше згадують про електромобілі",
+      "video_keywords": "car assembly line, electric car charging, modern car factory, robotic arm welding"
+    },
+    {
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
+      "link": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
+      "summary": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
+      "published": "2026-07-31T15:37:58+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Ажіотажний попит на сервери для штучного інтелекту провокує багаторічну кризу на ринку чіпів. Через це собівартість компонентів зростає, що неминуче призведе до подорожчання кінцевих пристроїв.",
+      "ai_title": "Samsung прогнозує дефіцит пам'яті до 2028 року",
+      "video_keywords": "computer microchip, electronic circuit board, manufacturing factory, robotic manufacturing"
+    },
+    {
+      "title": "WhatsApp is testing a new folder for messages from large businesses",
+      "link": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
+      "summary": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them.",
+      "published": "2026-07-31T14:39:43+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Месенджер почне автоматично сортувати чати та переносити повідомлення від масштабних підприємств у спеціальну папки за кілька годин після їх отримання. Це допоможе користувачам краще організувати свої особисті листування.",
+      "ai_title": "WhatsApp тестує окрему папку для повідомлень від великих компаній",
+      "video_keywords": "typing on smartphone, mobile messaging app, reading notifications, hands holding phone"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
-      "summary": "",
-      "published": "2026-07-29T15:13:07+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналіз криптозламів на майже мільярд доларів розкриває головні вразливості сучасної блокчейн-індустрії. Статистика цього року показує, що хакери все частіше знаходять нові шляхи обходу систем безпеки, змушуючи розробників переглянути підходи до захисту активів.",
-      "ai_title": "Масштабні злами у крипті: про що говорять мільйонні збитки року",
-      "video_keywords": "hacker, computer screen, cybersecurity, digital code"
-    },
-    {
-      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
-      "link": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
-      "summary": "",
-      "published": "2026-07-29T15:27:30+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Brale презентувала новий протокол, покликаний усунути головну перешкоду для масштабування власних токенів. Це рішення може значно прискорити впровадження кастомних цифрових активів у реальному секторі.",
-      "ai_title": "Новий протокол від Brale спрощує створення кастомних токенів",
-      "video_keywords": "blockchain technology, digital currency, computer monitor, code scrolling"
-    },
-    {
-      "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
-      "link": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
-      "summary": "",
-      "published": "2026-07-29T15:15:08+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "На тлі помітного зниження активності на спотовому ринку фінансові аналітики з Волл-стріт знизили свої очікування щодо майбутніх доходів Coinbase. Це свідчить про загальне охолодження інтересу роздрібних трейдерів до криптовалют у поточному періоді.",
-      "ai_title": "Падіння обсягів торгівлі: Волл-стріт погіршує прогнози для Coinbase",
-      "video_keywords": "stock market chart, financial dashboard, trading terminal, office workspace"
-    },
-    {
-      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
-      "link": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
-      "summary": "",
-      "published": "2026-07-29T16:09:32+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Керівники Morgan Stanley заявляють про остаточний занепад класичного банківського дня з 9 до 5 на тлі цифровізації та поширення криптовалют. Фінансова індустрія переходить на цілодобовий режим роботи завдяки технологіям блокчейну.",
-      "ai_title": "Традиційний банківський графік відходить у минуле, вважають у Morgan Stanley",
-      "video_keywords": "modern office, business people, working late, digital tablet"
-    },
-    {
-      "title": "Binance launches regulated gold, silver options through ADGM exchange",
-      "link": "https://cointelegraph.com/news/binance-launches-regulated-gold-silver-options-through-adgm-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance launches regulated gold, silver options through ADGM exchange\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/twin-peaks-price-falling-down-red-new.png\" /></p><p>New commodity options let traders gain exposure to gold and silver prices through Binance’s Abu Dhabi-regulated exchange.</p",
-      "published": "2026-07-29T17:09:24+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Біржа Binance інтегрує нові товарні опціони через свою регульовану платформу в Абу-Дабі. Це дозволяє трейдерам зручно отримувати доступ до цін на золото та срібло безпосередньо через криптовалютну інфраструктуру.",
-      "ai_title": "Binance запускає регульовані опціони на золото та срібло",
-      "video_keywords": "gold bars, silver coins, trading charts, financial exchange"
-    },
     {
       "title": "Bitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%",
       "link": "https://cointelegraph.com/markets/bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1313,26 +1263,6 @@
       "ai_summary": "Ціна біткоїна зазнає коливань через зростання цін на нафту на 8% внаслідок військового конфлікту в Ірані. Криптотрейдери змушені адаптуватися до макроекономічної нестабільності та рішень Федеральної резервної системи.",
       "ai_title": "Біткоїн опинився під тиском на тлі стрибка цін на нефть",
       "video_keywords": "oil refinery, stock market chart, red candles, smartphone trading"
-    },
-    {
-      "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
-      "link": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes.png\" /></p><p>MoonPay’s PayBox vault lets ChatGPT and Claude users authorize crypto purchas",
-      "published": "2026-07-29T16:20:37+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Новий сервіс MoonPay PayBox дозволяє користувачам популярних штучних інтелектів ChatGPT і Claude напряму підтверджувати криптовалютні транзакції. Це відкриває шлях до зручних покупок крипти за допомогою AI-асистентів.",
-      "ai_title": "MoonPay інтегрує криптотранзакції для користувачів ChatGPT та Claude",
-      "video_keywords": "artificial intelligence, chatbot screen, typing on keyboard, digital wallet"
-    },
-    {
-      "title": "Cost to insure AI debt reaches record high amid Asian semiconductor tumble",
-      "link": "https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cost to insure AI debt reaches record high amid Asian semiconductor tumble\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea.jpg\" /></p><p>Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest the AI trade’s leverage is starting to bite ",
-      "published": "2026-07-29T16:04:22+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "На тлі різкого падіння акцій азіатських виробників напівпровідників вартість страхування боргів у галузі штучного інтелекту злетіла до рекордних позначок. Це свідчить про перші серйозні фінансові труднощі у секторах високих технологій.",
-      "ai_title": "Вартість страхування боргу в сфері ШІ досягла рекордного рівня",
-      "video_keywords": "microchip production, stock market crash, financial graphs, calculator accounting"
     },
     {
       "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
@@ -1983,6 +1913,56 @@
       "ai_summary": "Центральний банк Японії вжив заходів для підтримки національної валюти на тлі наближення курсу до психологічної позначки 160 єн за долар. При цьому регулятор вирішив зберегти процентні ставки без змін.",
       "ai_title": "Банк Японії втрутився у валютний ринок для захисту єни",
       "video_keywords": "tokyo skyline, japanese yen banknotes, stock market ticker, central bank"
+    },
+    {
+      "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+      "link": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether earns $1.5B in Q2 as US Treasury holdings fuel profits\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/papertether-dollar.jpg\" /></p><p>Tether’s reserve surplus grew to $4.11 billion in the second quarter as USDT supply rose despite a weaker stablecoin market and continued pressure acro",
+      "published": "2026-07-31T16:25:47+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Tether зафіксувала рекордний прибуток у другому кварталі завдяки інвестиціям в американські держоблігації. Її резервний профіцит зріс до 4.11 мільярда доларів на тлі розширення пропозиції USDT.",
+      "ai_title": "Прибуток Tether сягнув 1.5 мільярда доларів",
+      "video_keywords": "us dollar bills, counting money, financial graphs, banking office"
+    },
+    {
+      "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+      "link": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks.png\" /></p><p>Eligible retail and institutional users can use tokenized shares of Nvidia, Apple, Tesla and three other US compan",
+      "published": "2026-07-31T16:23:21+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютна біржа Bybit додала токенізовані акції Nvidia, Apple та Tesla як забезпечення для кредитів. Тепер трейдери можуть використовувати ці цифрових активи для отримання позик на платформі.",
+      "ai_title": "Bybit дозволяє використовувати акції техногігантів як заставу",
+      "video_keywords": "smartphone screen, stock market trading, graphs, financial app"
+    },
+    {
+      "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
+      "link": "https://cointelegraph.com/markets/bitcoin-two-week-lows-us-stocks-fail-copy-asia-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-price-fall.jpg\" /></p><p>Bitcoin saw fresh downside pressure as US stocks tracked sideways into the end of the month, diverging from the relief bounce seen in Asia.",
+      "published": "2026-07-31T15:57:03+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Вартість першої криптовалюти різко знизилася під тиском американського фондового ринку. Біткоїн не зміг підтримати позитивну динаміку азійських бірж і продемонстрував помітне падіння наприкінці місяця.",
+      "ai_title": "Ціна біткоїна впала до двотижневого мінімуму",
+      "video_keywords": "bitcoin coin, red arrows, stock market crash, trading monitors"
+    },
+    {
+      "title": "Crypto faces 3 barriers to next bull run, STS Digital CEO says",
+      "link": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
+      "summary": "",
+      "published": "2026-07-31T15:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Генеральний директор STS Digital виділив ключові бар'єри, які заважають початкові нового масштабного зростання ринку. Серед них — макроекономічна невизначеність та регуляторний тиск.",
+      "ai_title": "Експерт назвав три перешкоди для нового криптобульру",
+      "video_keywords": "cryptocurrency trading, computer monitors, financial charts, business meeting"
+    },
+    {
+      "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
+      "link": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
+      "summary": "",
+      "published": "2026-07-31T15:39:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керівник технологічного гіганта IBM повідомив про суттєвий прогрес у сфері квантових обчислень. Комерційне впровадження цієї технології може відбутися набагато швидше, ніж прогнозувалося раніше.",
+      "ai_title": "IBM заявляє про наближення прориву в квантових комп'ютерах",
+      "video_keywords": "quantum computer, futuristic technology, glowing servers, microchip"
     }
   ]
 }
