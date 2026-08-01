@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "GCC steering committee announces AI policy",
-      "link": "https://lwn.net/Articles/1086041/",
-      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1086041/\">https://lwn.net/Articles/1086041/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108685\">https://news.ycombinator.com/item?id=49108685</a></p>\n<p>Points: 92</p>\n<p># Comments: 66</p>",
-      "published": "2026-07-30T11:45:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Керівний комітет розробників GCC офіційно представив політику регламентації та використання технологій штучного інтелекту у своєму проєкті. Це важливий крок для інтеграції інструментів ШІ в процес створення та підтримки програмного забезпечення з відкритим кодом.",
-      "ai_title": "Керівний комітет GCC анонсував нову політику щодо штучного інтелекту",
-      "video_keywords": "programmer typing, code on monitor, office desk, software development"
-    },
-    {
       "title": "Spotify Running Mode helps match tunes to tempo",
       "link": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
       "summary": "Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you \"spend less time hunting for the right music and more time moving,\" according to Spotify's announcement, providing customizable running presets and optional [&#8230;]",
@@ -19,16 +9,6 @@
       "ai_summary": "Сервіс потокового аудіо Spotify представив нову функцію Running Mode, яка автоматично підбирає треки під темп вашого тренування. Налаштовувані пресети дозволяють витрачати менше часу на пошук музики та зосередитися на бігу.",
       "ai_title": "Spotify запустив режим для бігу з підбором музики за темпом",
       "video_keywords": "person running outdoors, runner with headphones, smartphone fitness app, athletic shoes"
-    },
-    {
-      "title": "A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera",
-      "link": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
-      "summary": "DJI's Osmo Pocket 4P is a pretty simple proposition: an Osmo Pocket 4 with a second camera lens slapped inside. But is that extra lens worth the added size, weight, and cost relative to the regular Pocket 4? And how does it compare to the only rival on the market, Insta360's dual-lens Luna Ultra? It [&#8230;]",
-      "published": "2026-07-30T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія DJI випустила компактну камеру Osmo Pocket 4P, оснащену додатковим другим об'єктивом для ще якіснішої зйомки. Експерти оцінюють, чи виправдовує додаткова оптика невелике збільшення ваги та розміру пристрою.",
-      "ai_title": "Нова камера DJI Osmo Pocket 4P отримала другий об'єктив",
-      "video_keywords": "holding compact camera, filming video outdoors, device close up, vlogger recording"
     },
     {
       "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
@@ -739,19 +719,19 @@
       "ai_summary": "Починаючи з 2 серпня, Європейський Союз запроваджує обов'язкове маркування для всього контенту, створеного штучним інтелектом, який виглядає автентично. Це нововведення покликане боротися з поширенням дипфейків та дезінформації в інтернет-просторі. Платформи та розробники повинні будуть чітко позначати такі матеріали для захисту користувачів.",
       "ai_title": "ЄС зобов'яже маркувати реалістичний штучний інтелект",
       "video_keywords": "smartphone screen, warning sign, digital security, cyber regulation"
+    },
+    {
+      "title": "The OG reading app just got a big update",
+      "link": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about microwave sounds and Meta glasses and Alex vs. Alix, testing the [&#8230;]",
+      "published": "2026-08-01T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Популярна платформа для читання випустила значне оновлення з новими функціями. Розробники покращили інтерфейс та додали можливості, які роблять процес читання ще зручнішим для користувачів.",
+      "ai_title": "Культовий додаток для читання отримав масштабне оновлення",
+      "video_keywords": "person reading tablet, digital book interface, mobile app screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
-      "link": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
-      "summary": "<p>A security team approving an open-source model for production today starts with a repository page. The page lists the model name, the license, and a tag identifying the base model it descended from. That tag is a string the uploader typed. Hugging Face does not require uploaders to substantiate the claim through weight-level analysis.</p><p>The <a href=\"https://arxiv.org/abs/2604.07190\">ATOM Re",
-      "published": "2026-07-30T13:00:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Дослідження показало, що походження більшості відкритих моделей раніше не перевірялося належним чином, оскільки платформи спиралися лише на слова розробників. У відповідь на це фахівці Cisco безкорисливо просканували майже 900 моделей для визначення їхньої істинної структури.",
-      "ai_title": "Cisco перевірила походження сотень відкритих моделей штучного інтелекту",
-      "video_keywords": "cyber security, data center, server racks, digital code"
-    },
     {
       "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
       "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
@@ -1234,36 +1214,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-      "link": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
-      "summary": "",
-      "published": "2026-07-30T11:17:56+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "У парламенті Південної Кореї розгортається політична боротьба навколо ініціативи оподаткування криптовалютних прибутків, що перевищують 1740 доларів. Нові правила можуть суттєво вплинути на місцеву роздрібну торгівлю цифмовими активами.",
-      "ai_title": "Південна Корея планує запровадити податок на криптоприбуток",
-      "video_keywords": "parliament building, politicians meeting, voting machine, government office"
-    },
-    {
-      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
-      "link": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Samsung unit explores stablecoin infrastructure with Upbit’s operator\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-samsung-coin-coinbase-1.png\" /></p><p>Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchan",
-      "published": "2026-07-30T11:46:43+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Samsung SDS обговорює створення нової інфраструктури для стейблкоїнів та платіжних моделей на базі штучного інтелекту з оператором найбільшої криптобіржі Південної Кореї Dunamu. Ця співпраця може суттєво прискорити інтеграцію блокчейн-технологій у традиційні фінансові послуги регіону.",
-      "ai_title": "Підрозділ Samsung розробляє стейблкоїн-інфраструктуру спільно з оператором біржі Upbit",
-      "video_keywords": "smartphone payment, digital currency, office meeting, financial technology"
-    },
-    {
-      "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
-      "link": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ai-stocks-collapse-scene.png\" /></p><p>The FT said Situational Awareness has approached investors and lenders after borrowing amplified losses during July’s AI stoc",
-      "published": "2026-07-30T11:29:03+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фонд Situational Awareness, який володіє акціями майнерів біткоїна на суму 1,1 мільярда доларів, змушений шукати нових інвесторів. Боргове фінансування посилило збитки фонду на тлі липневого розпродажу акцій технологічних компаній, пов'язаних зі штучним інтелектом.",
-      "ai_title": "Хедж-фонд із мільярдними інвестиціями у біткоїн-майнінг шукає додатковий капітал через спад на ринку AI",
-      "video_keywords": "stock market crash, computer screens with graphs, stressed trader, financial charts"
-    },
     {
       "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
       "link": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
