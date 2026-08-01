@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
-      "published": "2026-07-30T18:43:26+00:00",
-      "source": "The Verge",
-      "ai_summary": "Платформа LinkedIn вводить нову функцію боротьби з низькоякісним контентом, створеним за допомогою генеративного ШІ. Тепер користувачі зможуть офіційно поскаржитися на публікацію, позначивши її як «штучний непотріб». Це оновлення покликане зменшити кількість спаму в стрічці.",
-      "ai_title": "LinkedIn додає кнопку для скарг на контент зі штучного інтелекту",
-      "video_keywords": "smartphone screen, social media, scrolling feed, finger tapping"
-    },
-    {
-      "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
-      "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
-      "summary": "Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jumped 22 percent to $54.25 billion and Mac sales increased 29 percent to $10.35 billion, driving the company's overall revenue to $109.4 billion. This [&#8230;]",
-      "published": "2026-07-30T20:49:32+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Apple продемонструвала значне зростання фінансових показників у третьому кварталі. Попри глобальний дефіцит пам'яті на ринку, продажі iPhone та Mac суттєво збільшилися, забезпечивши загальний дохід корпорації на рівні 109,4 мільярда доларів.",
-      "ai_title": "Продажі iPhone та Mac стрімко зростають попри дефіцит оперативної пам'яті",
-      "video_keywords": "smartphone display, laptop typing, modern office, apple store"
-    },
-    {
       "title": "Tim Cook hints at iCloud Plus tier for AI power users",
       "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
       "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
@@ -679,6 +659,56 @@
       "ai_summary": "Автомобільний концерн BMW викликав обговорення в мережі через впровадження рекламних оголошень на екранах приладової панелі своїх машин. Компанія намагається подати це нововведення як приємний бонус для водіїв, проте користувачі скептично оцінили таку ідею. Наявність реклами прямо під час керування авто створює додаткові ризики для безпеки на дорозі.",
       "ai_title": "BMW почала показувати рекламу на приладових панелях своїх автомобілів",
       "video_keywords": "car dashboard, digital screen, advertising, driver"
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "summary": "<p>Article URL: <a href=\"https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/\">https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49137060\">https://news.ycombinator.com/item?id=49137060</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-01T18:32:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники опублікували детальний розбір причин виникнення та усунення складного збою безпеки в ядрі. Аналіз включає технічні кроки, які допомогли запобігти подібним вразливостям у майбутньому. Цей матеріал є важливим прикладом для інженерів, що працюють з низькорівневим програмним забезпеченням.",
+      "ai_title": "Розбір критичної помилки в ядрі системи",
+      "video_keywords": "computer screen, programmer typing, lines of code, debugging"
+    },
+    {
+      "title": "Tell HN: I hate your fuzzy search",
+      "link": "https://news.ycombinator.com/item?id=49136990",
+      "summary": "<p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching. I wish others would do the same.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=4",
+      "published": "2026-08-01T18:25:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У світі IT зростає невдоволення сучасними алгоритмами нечіткого пошуку, які часто замінюють точний збіг слів. Розробники закликають повертати класичний пошук за точним ключем, оскільки він набагато ефективніший для технічних завдань. Користувачі скаржаться на те, що сайти надто ускладнюють процес знаходження потрібної інформації.",
+      "ai_title": "Чому нечіткий пошук дратує користувачів",
+      "video_keywords": "person typing keyboard, computer monitor, web browsing, frustration"
+    },
+    {
+      "title": "NetBSD 11.0 Released",
+      "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "summary": "<p>Article URL: <a href=\"https://blog.netbsd.org/tnf/entry/netbsd_11_0_released\">https://blog.netbsd.org/tnf/entry/netbsd_11_0_released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136736\">https://news.ycombinator.com/item?id=49136736</a></p>\n<p>Points: 79</p>\n<p># Comments: 15</p>",
+      "published": "2026-08-01T17:56:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відбувся офіційний випуск мажорної версії вільної операційної системи NetBSD 11.0. Оновлення приносить значні покращення продуктивності, розширену підтримку сучасного апаратного забезпечення та оновлені компоненти безпеки. Система залишається одним із найстабільніших рішень для різноманітних пристроїв.",
+      "ai_title": "Офіційний реліз операційної системи NetBSD 11.0",
+      "video_keywords": "server room, flashing lights, data center, computer hardware"
+    },
+    {
+      "title": "A directory of people who love RSS",
+      "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+      "summary": "<p>Article URL: <a href=\"https://andrewshell.org/2026/07/i-%e2%99%a5-rss/\">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136063\">https://news.ycombinator.com/item?id=49136063</a></p>\n<p>Points: 116</p>\n<p># Comments: 65</p>",
+      "published": "2026-08-01T16:52:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У мережі набирає популярності новий каталог, створений спеціально для людей, які продовжують активно користуватися RSS-стрічками. Цей проєкт об'єднує прихильників децентралізованого споживання контенту без посередників у вигляді соціальних мереж. Автори ініціативи прагнуть відродити інтерес до класичних веб-стандартів.",
+      "ai_title": "Каталог ентузіастів RSS-технологій",
+      "video_keywords": "rss icon, computer screen, reading news, internet browsing"
+    },
+    {
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, [&#8230;]",
+      "published": "2026-08-01T18:20:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Трек відомого репера піднявся високо в чарті Billboard Hot 100, проте одразу викликав хвилю підозр щодо свого походження. Слухачі та експерти запідозрили, що пісня створена за допомогою генеративного штучного інтелекту. Це черговий випадок, коли межа між творчістю людини та алгоритмів стає розмитою.",
+      "ai_title": "Хіт у чарті Billboard створено за допомогою штучного інтелекту?",
+      "video_keywords": "mixing console, recording studio, music production, sound waves"
     }
   ],
   "Бізнес / Стартапи": [
@@ -691,26 +721,6 @@
       "ai_summary": "Носіння гаджетів зі штучним інтелектом виходить на новий рівень завдяки оновленню пристрою Friend. Тепер цей мініатюрний гаджет може спілкуватися з користувачем голосом, проте його вартість суттєво зросла.",
       "ai_title": "Штучний інтелект у кулоні Friend тепер отримав голос і значно подорожчав",
       "video_keywords": "wearable device, smart pendant, human holding gadget, futuristic tech"
-    },
-    {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "published": "2026-07-30T18:57:58+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Google заявила, що за один місяць за допомогою штучного інтелекту виправрила більше вразливостей у браузері Chrome, ніж за попередні два роки. Це демонструє ефективність мовних моделей у пошуку та усуненні програмних помилок.",
-      "ai_title": "Google використала штучний інтелект для виправлення рекордної кількості помилок у браузері Chrome",
-      "video_keywords": "programmer typing, computer screen, lines of code, software developer working"
-    },
-    {
-      "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-      "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-      "summary": "Florida wants to use federal EV charger funds to build an air taxi network connecting golf courses, luxury apartment buildings, and airports.",
-      "published": "2026-07-30T18:38:12+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Влада Флориди планує використати федеральні кошти, спочатку призначені для зарядних станцій електромобілів, на створення інфраструктури для аеротаксі. Нова мережа зв'яже аеропорти, елітні житлові комплекси та поля для гольфу.",
-      "ai_title": "Флорида спрямує мільйони доларів з зарядних станцій для електромобілів на будівництво майданчиків для аеротаксі",
-      "video_keywords": "flying car, electric aircraft, helipad, modern city skyline"
     },
     {
       "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
@@ -1061,6 +1071,16 @@
       "ai_summary": "Генеральний директор OpenAI розповів про новий практичний кейс застосування штучного інтелекту. За його словами, чат-бот може стати корисним помічником для сучасних батьків у повсякденних справах. Подібна ініціатива викликала чергову хвилю обговорень щодо етики використання технологій у вихованні.",
       "ai_title": "Сем Альтман пропонує використовувати ChatGPT для виховання дітей",
       "video_keywords": "parent using smartphone, mothering child indoors, modern family technology"
+    },
+    {
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "summary": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+      "published": "2026-08-01T18:47:27+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Програма оновлення від Apple свідчить про зміну парадигми на ринку мобільних пристроїв. Користувачі все частіше переходять від традиційної покупки до передплати та довгострокової оренди гаджетів. Це перетворює смартфони на послугу, подібну до хмарних сервісів чи стрімінгових платформ.",
+      "ai_title": "Нова модель володіння: чи варто орендувати смартфони замість покупки?",
+      "video_keywords": "smartphone store, credit card payment, modern phone, hand holding device"
     }
   ],
   "Крипта": [
