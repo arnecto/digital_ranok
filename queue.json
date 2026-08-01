@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
-      "published": "2026-07-30T22:29:45+00:00",
-      "source": "The Verge",
-      "ai_summary": "Генеральний директор Apple Тім Кук натякнув на появу нового тарифного плану в межах iCloud Plus. Ця підписка дозволить користувачам зняти стандартні ліміти на використання функцій Apple Intelligence та нового голосового помічника Siri.",
-      "ai_title": "Apple готує платну підписку на розширені можливості штучного інтелекту",
-      "video_keywords": "smartphone screen, credit card payment, cloud storage, person tapping phone"
-    },
-    {
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116922\">https://news.ycombinator.com/item?id=49116922</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
@@ -29,26 +19,6 @@
       "ai_summary": "Дослідник виявив серйозну проблему в академічному рецензуванні, навмисно позначивши фейкових авторів у двох наукових роботах. Обидві статті успішно пройшли перевірку та були прийняті до усних доповідей на конференції.",
       "ai_title": "Наукові журнали прийняли статті з вигаданими авторами",
       "video_keywords": "scientific laboratory, researcher, reviewing documents, laptop screen"
-    },
-    {
-      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-      "link": "https://rune.build/blog/rune-1-1-release",
-      "summary": "<p>Article URL: <a href=\"https://rune.build/blog/rune-1-1-release\">https://rune.build/blog/rune-1-1-release</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116272\">https://news.ycombinator.com/item?id=49116272</a></p>\n<p>Points: 26</p>\n<p># Comments: 8</p>",
-      "published": "2026-07-30T21:47:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Реліз нової версії платформи Rune приніс підтримку Python, інтегрований редактор Emacs та індекс символів. Крім того, розробники зробили продукт повністю безкоштовним для користувачів.",
-      "ai_title": "Вийшов оновлений редактор Rune 1.1",
-      "video_keywords": "programmer typing, coding, dual monitors, software development"
-    },
-    {
-      "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
-      "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-      "summary": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player [&#8230;]",
-      "published": "2026-07-30T22:10:13+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після масових звільнень та структурних змін керівництво Xbox націлене на повернення до активного росту. У внутрішньому листі співробітникам озвучено плани щодо відновлення позицій бренду на ринку до 2027 року.",
-      "ai_title": "Голова Xbox визначив нові пріоритети після масштабного перезавантаження",
-      "video_keywords": "video game controller, gaming setup, person playing console, modern office"
     },
     {
       "title": "The AI Aesthetic",
@@ -769,6 +739,26 @@
       "ai_summary": "Стаття описує жорстоку реальність створення технологічних бізнесів у Кремнієвій долині. Шалений темп, постійний тиск інвесторів та конкуренція перетворюють шлях підприємців на справжню м'ясорубку.",
       "ai_title": "Темний бік Кремнієвої долини: як стартапи ламають життя засновників",
       "video_keywords": "stressed businessman, office desk, typing on laptop, modern corporate office"
+    },
+    {
+      "title": "Seedance 2.5",
+      "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "summary": "<p>Article URL: <a href=\"https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5\">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138302\">https://news.ycombinator.com/item?id=49138302</a></p>\n<p>Points: 36</p>\n<p># Comments: 10</p>",
+      "published": "2026-08-01T20:45:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія ByteDance анонсувала оновлення Seedance 2.5, яке фокусується на гнучкому створенні контенту та покращених інструментах референсного редагування. Ця технологія розширює можливості генеративного відео та автоматизації для творців контенту. Новий реліз спрямований на підвищення якості та швидкості продакшну.",
+      "ai_title": "ByteDance представила мультимедійну платформу Seedance 2.5",
+      "video_keywords": "computer screen, video editing software, digital art, ai generator"
+    },
+    {
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB [&#8230;]",
+      "published": "2026-08-01T21:31:24+00:00",
+      "source": "The Verge",
+      "ai_summary": "Інсайдерські дані про лінійку Pixel 11 розкрили чимало деталей перед офіційним анонсом 12 серпня. Очікується підвищення стартової ціни на 100 доларів, проте базові моделі тепер пропонуватимуть 256 ГБ пам'яті. Загалом характеристики збігаються з попередніми витоками інформації.",
+      "ai_title": "В мережу злили специфікації та ціни на новий Pixel 11",
+      "video_keywords": "smartphone, unboxing, gadget, holding phone"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1134,36 +1124,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
-      "link": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senators sent revised ethics rules to White House for CLARITY Act: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/white-house-crypto3.jpg\" /></p><p>The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethic",
-      "published": "2026-07-30T21:54:38+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Американські сенатори передали оновлені правила етики до Білого дому для узгодження закону CLARITY Act. Час на ухвалення комплексного законопроекту про структуру ринку криптовалют стрімко спливає перед канікулами Сенату.",
-      "ai_title": "Сенатори США направили правила етики до Білого дому щодо закону про крипту",
-      "video_keywords": "White House, politicians meeting, US Capitol, documents signing"
-    },
-    {
-      "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
-      "link": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulation-office-document-paper-strategyb.png\" /></p><p>The Bitcoin treasury company said it has built a $3.75 billion cash reserve to support preferred stock payouts followi",
-      "published": "2026-07-30T21:36:39+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія зафіксувала квартальні збитки в розмірі 8,2 мільярда доларів на тлі падіння курсу першої криптовалюти. Попри нереалізовані збитки від обвалу біткоїна, компанія сформувала грошовий резерв на 3,75 мільярда доларів.",
-      "ai_title": "MicroStrategy зазнала мільярдних збитків через падіння біткоїна",
-      "video_keywords": "stock market crash, downward chart, businessman stressed, office analytics"
-    },
-    {
-      "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
-      "link": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up.jpg\" /></p><p>3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan devel",
-      "published": "2026-07-31T00:31:21+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Інвестиційна компанія 3iQ керуватиме частиною біткоїн-резервів спеціального адміністративного регіону Гелефу в Бутані. Цей крок є частиною стратегії розвитку місцевої «зеленої» економіки на базі криптовалюти.",
-      "ai_title": "Бутан залучає компанію 3iQ до управління частиною своїх біткоїн-резервів",
-      "video_keywords": "bitcoin, cryptocurrency, digital wallet, financial charts"
-    },
     {
       "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
       "link": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1613,6 +1573,16 @@
       "ai_summary": "Цього тижня у центрі уваги опинилися нові судові процеси та юридичні баталії у криптоіндустрії. Зокрема, просувається розгляд справи, пов'язаної з банкрутством біржі FTX. Крім того, військовослужбовець намагається закрити справу щодо ставки на платформі Polymarket.",
       "ai_title": "Головні судові баталії та правові новини у криптосвіті за тиждень",
       "video_keywords": "courtroom, judge gavel, law scales, legal documents"
+    },
+    {
+      "title": "Strategy holds STRC dividend at 12%",
+      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "summary": "",
+      "published": "2026-08-01T22:01:57+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Strategy ухвалила рішення залишити дивідендну виплату за цифровим активом STRC незмінною на позначці 12%. Це рішення демонструє стабільність виплат на тлі поточних коливань на криптовалютному ринку та приваблює інвесторів, які шукають прогнозований дохід.",
+      "ai_title": "Strategy зберігає дивіденди за токенами STRC на рівні 12%",
+      "video_keywords": "cryptocurrency chart, digital coins, financial dashboard, stock market screen"
     }
   ]
 }
