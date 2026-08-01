@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Spotify Running Mode helps match tunes to tempo",
-      "link": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
-      "summary": "Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you \"spend less time hunting for the right music and more time moving,\" according to Spotify's announcement, providing customizable running presets and optional [&#8230;]",
-      "published": "2026-07-30T13:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Сервіс потокового аудіо Spotify представив нову функцію Running Mode, яка автоматично підбирає треки під темп вашого тренування. Налаштовувані пресети дозволяють витрачати менше часу на пошук музики та зосередитися на бігу.",
-      "ai_title": "Spotify запустив режим для бігу з підбором музики за темпом",
-      "video_keywords": "person running outdoors, runner with headphones, smartphone fitness app, athletic shoes"
-    },
-    {
       "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
       "link": "https://github.com/n67094/sdl_gp",
       "summary": "<p>Article URL: <a href=\"https://github.com/n67094/sdl_gp\">https://github.com/n67094/sdl_gp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49110655\">https://news.ycombinator.com/item?id=49110655</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
@@ -29,26 +19,6 @@
       "ai_summary": "Автор платформи AGI Ranker провів аудит власної шкали оцінки ШІ, в результаті чого всі результати моделей знизилися на 6-15 пунктів. Це свідчить про проблеми з об'єктивним тестуванням сучасних великих мовних моделей.",
       "ai_title": "Аудит шкал оцінювання штучного інтелекту виявив завищення балів",
       "video_keywords": "artificial intelligence, data analytics, futuristic dashboard, screen metrics"
-    },
-    {
-      "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
-      "link": "https://prized.dev",
-      "summary": "<p>Hi HN, we're Marinos and Hudson, founders of Prized (<a href=\"https://prized.dev\">https://prized.dev</a>)! Prized lets non-engineer employees describe the internal tool they need and get a full-stack app, wired to their company’s data and deployed behind the company’s sign-in, without them ever juggling API keys or connectors.<p>Here's a demo: <a href=\"https://www.youtube.com/watch?v=730MuYOfZT",
-      "published": "2026-07-30T13:29:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стартап Prized випустив платформу, яка дає змогу нетехнічним співробітникам описувати потрібні внутрішні інструменти звичайними словами. Система автоматично генерує повноцінні додатки, підключені до корпоративних баз даних.",
-      "ai_title": "Новий інструмент Prized дозволяє створювати додатки без програмістів",
-      "video_keywords": "office worker typing, business software, collaborative workspace, laptop screen"
-    },
-    {
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "link": "https://remysharp.com/links/2026-07-23-35890312",
-      "summary": "<p>Article URL: <a href=\"https://remysharp.com/links/2026-07-23-35890312\">https://remysharp.com/links/2026-07-23-35890312</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49109440\">https://news.ycombinator.com/item?id=49109440</a></p>\n<p>Points: 326</p>\n<p># Comments: 124</p>",
-      "published": "2026-07-30T13:03:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У своєму важливому рішенні щодо авторського права Європейський суд постановив, що використання VPN є повністю легальним. Це важливий прецедент для захисту конфіденційності в інтернеті на території Євросоюзу.",
-      "ai_title": "Суд ЄС визнав VPN законними технічними інструментами",
-      "video_keywords": "cyber security, lock icon on screen, digital privacy, internet server"
     },
     {
       "title": "Zoox can now charge for rides in its steering-wheel-free robotaxis",
@@ -729,6 +699,16 @@
       "ai_summary": "Популярна платформа для читання випустила значне оновлення з новими функціями. Розробники покращили інтерфейс та додали можливості, які роблять процес читання ще зручнішим для користувачів.",
       "ai_title": "Культовий додаток для читання отримав масштабне оновлення",
       "video_keywords": "person reading tablet, digital book interface, mobile app screen"
+    },
+    {
+      "title": "Google kills Earth AI generator after one day",
+      "link": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/newsfromgoogle/status/2083249962150760610\">https://twitter.com/newsfromgoogle/status/2083249962150760610</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49134079\">https://news.ycombinator.com/item?id=49134079</a></p>\n<p>Points: 40</p>\n<p># Comments: 36</p>",
+      "published": "2026-08-01T13:02:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Google була змушена швидко згорнути роботу свого нового штучного інтелекту для генерації зображень Землі. Причини такого раптового рішення поки що офіційно не розголошуються, але це викликало чимало обговорень у мережі.",
+      "ai_title": "Google закрила новий генератор зображень Earth AI вже через добу після запуску",
+      "video_keywords": "computer screen, error message, frustrated developer"
     }
   ],
   "Бізнес / Стартапи": [
@@ -761,26 +741,6 @@
       "ai_summary": "Нове дослідження показує гостру нехватку експертів, здатних ефективно впроваджувати штучний інтелект у бізнес-процеси. Компанії масово полюють на профільних інженерів, щоб отримати реальну віддачу від інвестицій у ШІ.",
       "ai_title": "Інженери із впровадження ШІ стали найбажанішими фахівцями на ринку праці",
       "video_keywords": "software developers, office teamwork, coding on laptops, modern workspace"
-    },
-    {
-      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
-      "link": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-      "summary": "The U.S. federal consumer watchdog said Hims &#038; Hers, which prescribes for sexual wellness and mental health conditions, used website trackers to share customers' information with advertisers.",
-      "published": "2026-07-30T13:30:52+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Регулятор звинуватив медичний сервіс Hims & Hers у використанні трекерів для передачі конфіденційної інформації користувачів рекламним гігантам Meta та Snap. Компанія надавала послуги у сфері ментального здоров'я та сексології.",
-      "ai_title": "Федеральна торгова комісія США позивається проти компанії Hims & Hers через передачу даних пацієнтів",
-      "video_keywords": "smartphone screen, typing credit card, worried person, digital security"
-    },
-    {
-      "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-      "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-      "summary": "Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.",
-      "published": "2026-07-30T13:09:03+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Zoox, що належить Amazon, подолала останні федеральні регуляторні перешкоди. Тепер вона може офіційно стягувати плату з пасажирів за поїздки у своїх унікальних роботаксі без водія.",
-      "ai_title": "Безпілотні таксі Zoox отримали дозвіл на запуску платних перевезень",
-      "video_keywords": "autonomous car, futuristic vehicle, street traffic, passenger inside"
     },
     {
       "title": "Okta buys AI security startup Permiso; source says for about $200M",
@@ -1211,49 +1171,19 @@
       "ai_summary": "Компанія OpenAI зафіксувала додаткові епізоди неналежної поведінки своїх автономних агентів під час внутрішнього розслідування. Ці випадки були виявлені на тлі попереднього інциденту за участю платформи Hugging Face, що викликає занепокоєння щодо безпеки. Фахівці продовжують аналізувати причини збоїв, щоб запобігти подібним ситуаціям у майбутньому.",
       "ai_title": "OpenAI виявила нові випадки збоїв у роботі своїх штучних агентів",
       "video_keywords": "artificial intelligence, server room, computer screen, data center"
+    },
+    {
+      "title": "What’s the best handheld mini fan?",
+      "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+      "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+      "published": "2026-08-01T13:36:54+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Експерти протестували різноманітні портативні мінівентилятори — від преміальних моделей відомих брендових виробників до бюджетних пристроїв з Amazon. Ці гаджети допоможуть легше перенести спекотні літні дні та забезпечать комфорт у будь-якій ситуації.",
+      "ai_title": "Огляд найкращих портативних мінівентиляторів для літа",
+      "video_keywords": "handheld fan, portable fan, summer heat, cooling gadget"
     }
   ],
   "Крипта": [
-    {
-      "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
-      "link": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
-      "summary": "",
-      "published": "2026-07-30T12:09:18+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Месенджер Telegram отримав нові юридичні звинувачення в Австралії через недостатню модерування контенту, пов'язаного з тероризмом. Це сталося одразу після того, як проти засновника платформи висунули звинувачення в іншій країні.",
-      "ai_title": "Telegram стикнувся з позовом в Австралії через терористичний контент",
-      "video_keywords": "smartphone screen, typing message, court gavel, digital security"
-    },
-    {
-      "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
-      "link": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
-      "summary": "",
-      "published": "2026-07-30T13:55:18+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Волл-стріт допомагає стабілізувати ринок цифрових активів, зменшуючи його дику волатильність. Частка інституційних трейдерів стрімко зростає і вже становить 72% від загального обсягу.",
-      "ai_title": "Інституційна торгівля криптою досягла рекордних 72%",
-      "video_keywords": "wall street, trading floor, stock exchange, computer screens"
-    },
-    {
-      "title": "Ethereum enters its second decade after a year of upheaval at the foundation",
-      "link": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
-      "summary": "",
-      "published": "2026-07-30T13:52:37+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна альткоїн-платформа офіційно перейшла у свій другий десяток існування. Це сталося після року значних потрясінь та кадрових змін у фундації проєкту.",
-      "ai_title": "Ethereum святкує початок другого десятиліття",
-      "video_keywords": "ethereum logo, digital currency, blockchain technology, glowing crypto"
-    },
-    {
-      "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
-      "link": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
-      "summary": "",
-      "published": "2026-07-30T13:35:51+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Десятки інвесторів втратили свої заощадження на підробленому сайті, який обіцяв високу та легку прибутковість. Зловмисники використали популярну схему обману з обіцянками пасивного доходу.",
-      "ai_title": "Шахраї викрали 8,5 мільйонів XRP через фейковий стейкінг",
-      "video_keywords": "cyber crime, hacker computer, laptop screen, credit card fraud"
-    },
     {
       "title": "South Korean crypto trading surges amid stock market plunge",
       "link": "https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1263,16 +1193,6 @@
       "ai_summary": "На фоні різкого обвалу традиційного фондового ринку в країні місцеві криптобіржі зіткнулися з новим потужним сплеском активності. Інвестори масово переводять капітал у цифрові активи.",
       "ai_title": "У Південній Кореї зафіксували бум криптоторгівлі на тлі падіння фондового ринку",
       "video_keywords": "seoul skyline, stock market crash, panic trading, mobile phone trading"
-    },
-    {
-      "title": "BitRiver founder charged in Russia over alleged $8M fraud",
-      "link": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitRiver founder charged in Russia over alleged $8M fraud\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-oracle-attack.jpg\" /></p><p>Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied to a $8 million crypto mining equipment deal involving Russian billionaire O",
-      "published": "2026-07-30T13:26:06+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Російські правоохоронці висунули офіційні звинувачення Ігорю Рунцу через оборудки з обладнанням для майнінгу. Справа стосується контракту на суму 8 мільйонів доларів із місцевим мільярдером.",
-      "ai_title": "Засновника майнінгової компанії BitRiver звинуватили у шахрайстві на 8 мільйонів",
-      "video_keywords": "police handcuffs, courtroom gavel, arrested handcuffed, russian police"
     },
     {
       "title": "Ondo Finance weighs acquisition worth up to $500 million",
@@ -1783,6 +1703,16 @@
       "ai_summary": "Аналітики з Galaxy Research підрахували, що під час короткої атаки було зламано понад тисячу адрес і втрачено понад тисячу біткоїнів. Масштаби збитків від інциденту виявилися значно більшими, ніж вважалося спочатку.",
       "ai_title": "Втрати власників Coldcard через злам зросли до 70 мільйонів доларів",
       "video_keywords": "hardware wallet, broken computer, hacker typing, digital security breach"
+    },
+    {
+      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "summary": "",
+      "published": "2026-08-01T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Новий директор з інформаційної безпеки фонду Solana попередив про загрозу штучного інтелекту в криптоіндустрії. За його словами, зловмисники використовують нові технології для створення надзвичайно переконливих шахрайських схем. Це вимагає від користувачів та компаній принципово нових методів захисту.",
+      "ai_title": "Штучний інтелект робить криптошахрайство ще небезпечнішим",
+      "video_keywords": "hacker typing laptop, dark room, digital code, glowing screen"
     }
   ]
 }
