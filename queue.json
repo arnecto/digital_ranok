@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "DeepSeek-V4-Flash Update",
-      "link": "https://api-docs.deepseek.com/updates/",
-      "summary": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/updates/\">https://api-docs.deepseek.com/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119559\">https://news.ycombinator.com/item?id=49119559</a></p>\n<p>Points: 64</p>\n<p># Comments: 22</p>",
-      "published": "2026-07-31T06:08:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники випустили оновлення для мовного штучного інтелекту DeepSeek-V4-Flash. Зміни спрямовані на підвищення продуктивності обробки запитів та оптимізацію роботи API.",
-      "ai_title": "Оновлення DeepSeek-V4-Flash: що нового в моделі",
-      "video_keywords": "server room, flashing lights, data center, computer screen"
-    },
-    {
-      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-      "link": "https://github.com/mokshablr/gander",
-      "summary": "<p>Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. ",
-      "published": "2026-07-31T05:45:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив безпечний додаток для Android, який відкриває документи, медіафайли та код локально. Програма не вимагає жодних дозволів на доступ до пам'яті та не завантажує файли на сторонні сервери.",
-      "ai_title": "Gander — новий Android-переглядач файлів без жодних дозволів",
-      "video_keywords": "person holding smartphone, tapping screen, mobile app interface"
-    },
-    {
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "link": "https://marbleos.com/demo",
-      "summary": "<p>Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.<p>The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.\nBefore GUIs, interacting with a computer was limited to strange terminal commands:<p>C:\\> DIR<p>C:\\> COPY FILE.TXT A:<p>You had to remember the command, syntax, paths, and parameters.<p>The",
-      "published": "2026-07-31T05:17:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автори проєкту MarbleOS замислилися над створенням принципово нового графічного інтерфейсу для AI-агентів. За основу вони взяли класичні концепції Xerox PARC та Macintosh, намагаючись відійти від застарілих командних рядків.",
-      "ai_title": "Яким має бути інтерфейс для управління штучним інтелектом?",
-      "video_keywords": "person typing keyboard, computer monitor, abstract software interface"
-    },
-    {
-      "title": "Russian missile destroyed the drone factory of US company Terminal Autonomy in Kyiv — Guardian",
-      "link": "https://en.ain.ua/2026/07/31/russian-missile-destroyed-the-drone-factory-of-us-company-terminal-autonomy-in-kyiv-guardian/",
-      "summary": "The Terminal Autonomy facility that manufactures strike drones with AI guidance systems was hit.",
-      "published": "2026-07-31T07:55:00+00:00",
-      "source": "",
-      "ai_summary": "Російський ракетний удар зруйнував підприємство американської компанії Terminal Autonomy у Києві. На цьому заводі виробляли ударні безпілотники, оснащені сучасними системами наведення на базі штучного інтелекту.",
-      "ai_title": "У Києві російська ракета знищила завод американських дронів з штучним інтелектом",
-      "video_keywords": "factory ruins, military drone, explosion smoke, destroyed building"
-    },
-    {
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
       "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
       "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/deepseek-v4-flash-ga\">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120299\">https://news.ycombinator.com/item?id=49120299</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
@@ -809,6 +769,16 @@
       "ai_summary": "Платформа CostPerPrompt допомагає розробникам порівнювати ціни на API штучного інтелекту в реальному часі. Інструмент дозволяє точно розрахувати витрати на робочі навантаження з різними LLM.",
       "ai_title": "Новий сервіс розраховує реальну вартість використання AI-моделей",
       "video_keywords": "dashboard analytics, data charts, coder typing, dual monitors"
+    },
+    {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "summary": "<p>Article URL: <a href=\"https://www.wafer.ai/blog/kimi-k3-mi355x\">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141073\">https://news.ycombinator.com/item?id=49141073</a></p>\n<p>Points: 98</p>\n<p># Comments: 9</p>",
+      "published": "2026-08-02T04:21:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова мовна модель Kimi K3 демонструє високу ефективність на апаратній платформі MI355X. Завдяки оптимізації досягнуто кращого співвідношення продуктивності до ціни порівняно з рішеннями рівня B300.",
+      "ai_title": "Kimi K3 перевершує конкурентів у продуктивності на чіпах AMD",
+      "video_keywords": "server racks, glowing microchip, data center, computer hardware"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1094,26 +1064,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs post $233M inflows, pushing week back into the green\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/btc-etf-waiting-2.png\" /></p><p>BlackRock’s IBIT led $233.1 million in daily inflows as US spot Bitcoin ETFs turned positive for the week and July stayed on track to end in the gre",
-      "published": "2026-07-31T06:46:23+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Американські спотові біткоїн-фонди знову вийшли в плюс після значних притоків капіталу. Лідером за показниками став фонд від компанії BlackRock.",
-      "ai_title": "Біткоїн-ETF залучили понад 200 мільйонів доларів за день",
-      "video_keywords": "stock market graphs, trading charts, financial dashboard, green arrows up"
-    },
-    {
-      "title": "Crypto’s next altseason may have fewer winners: Wintermute",
-      "link": "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s next altseason may have fewer winners: Wintermute\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-has-the-new-altseason-begun-1.jpg\" /></p><p>Institutional investors accounted for 72% of Wintermute’s spot OTC flow in the first half of 2026 as capital clustered in fewer tokens and a",
-      "published": "2026-07-31T04:46:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Аналітики компанії Wintermute зазначають, що наступний сезон альткоїнів може принести прибуток набагато меншій кількості токенів. Левову частку капіталу на ринку зараз контролюють інституційні інвестори.",
-      "ai_title": "Експерти прогнозують зміни на ринку альткоїнів",
-      "video_keywords": "cryptocurrency coins, digital trading floor, financial analytics, modern computer screen"
-    },
     {
       "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
       "link": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
