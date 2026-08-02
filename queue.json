@@ -21,16 +21,6 @@
       "video_keywords": "computer screen, hacker, dark room, television"
     },
     {
-      "title": "Sony pushes forward with ditching discs, despite backlash",
-      "link": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
-      "summary": "Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision. During Sony's latest earnings call, chief financial officer Lin Tao said that while the company \"put in a lot of thought and time\" when considering the opposition put forward by [&#8230;]",
-      "published": "2026-07-31T10:40:54+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія ігнорує масову критику з боку спільноти PlayStation щодо припинення випуску фізичних носіїв інформації. Керівництво підтвердило намір повністю перейти на цифрову дистрибуцію ігор задля оптимізації бізнесу. Таке рішення значно змінює звичний ринок колекційних ігрових видань.",
-      "ai_title": "Sony продовжує відмовлятися від ігрових дисків попри обурення фанатів",
-      "video_keywords": "video game controller, modern console, living room, television"
-    },
-    {
       "title": "Situational Awareness Down 67% in July in AI Stock Rout",
       "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
       "summary": "<p>Article URL: <a href=\"https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f\">https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122994\">https://news.ycombinator.com/item?id=49122994</a></p>\n<p>Points: 71</p>\n<p># Comments: 75",
@@ -779,6 +769,46 @@
       "ai_summary": "Користувачі помітили технічну несправність у пошуковій системі Google, де тимчасово перестала коректно працювати фільтрація результатів за часом. Ця проблема ускладнила пошук свіжих новин та актуальних матеріалів за останні дні.",
       "ai_title": "Збій у роботі часового фільтра в пошуку Google",
       "video_keywords": "person typing, laptop screen, magnifying glass, searching internet"
+    },
+    {
+      "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "link": "https://github.com/syncular/syncular",
+      "summary": "<p>Article URL: <a href=\"https://github.com/syncular/syncular\">https://github.com/syncular/syncular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142794\">https://news.ycombinator.com/item?id=49142794</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-02T09:48:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розгорнуто новий проєкт Syncular, який фокусується на першочерговій офлайн-синхронізації баз даних SQL. Ядро інструменту написано на швидкодійних мовах TypeScript та Rust для забезпечення надійності. Це рішення спрощує роботу з локальними даними та їх подальшу синхронізацію в розподілених середовищах.",
+      "ai_title": "Syncular — офлайн-системи синхронізації SQL на TypeScript та Rust",
+      "video_keywords": "programmer typing, dual monitors, code editor, software development"
+    },
+    {
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "summary": "<p>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, ",
+      "published": "2026-08-02T09:06:33+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено реліз Bor 0.8 — відкриту систему для централізованого керування робочими столами Linux. Архітектура складається з легкого агента на Go та центрального сервера, які передають політики в реальному часі через mTLS/gRPC. Інструмент вже підтримує популярні браузери, середовища KDE та пакети оновлень.",
+      "ai_title": "Bor: новий відкритий інструмент для керування політиками в Linux",
+      "video_keywords": "linux terminal, computer screen, server rack, typing code"
+    },
+    {
+      "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
+      "link": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
+      "summary": "<p>Article URL: <a href=\"https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html\">https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143053\">https://news.ycombinator.com/item?id=49143053</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-02T10:25:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналізується історичний досвід Промислової революції як потенційний орієнтир для прогнозування стрімкого економічного та технологічного зростання. Дослідники порівнюють темпи минулих інновацій з епохою швидкого розвитку штучного інтелекту. Це допомагає зрозуміти можливі наслідки вибухового технологічного стрибка для суспільства.",
+      "ai_title": "Чи є Промислова революція прикладом для сучасного штучного інтелекту?",
+      "video_keywords": "factory gears, industrial machinery, historical steam engine, modern technology"
+    },
+    {
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "link": "https://publicdomainreview.org/essay/ars-notoria/",
+      "summary": "<p>Article URL: <a href=\"https://publicdomainreview.org/essay/ars-notoria/\">https://publicdomainreview.org/essay/ars-notoria/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143001\">https://news.ycombinator.com/item?id=49143001</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-02T10:18:24+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розглядається концепція «Ars Notoria» у контексті прагнення людства до миттєвого опанування знань. Автор проводить паралелі між середньовічними містичними практиками навчання та сучасними можливостями штучного інтелекту. Стаття досліджує одвічне бажання людей знайти швидкий шлях до інформації.",
+      "ai_title": "Штучний інтелект та ідея миттєвих знань крізь призму історії",
+      "video_keywords": "ancient book, turning pages, library shelves, old manuscript"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1055,26 +1085,6 @@
   ],
   "Крипта": [
     {
-      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
-      "link": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "summary": "",
-      "published": "2026-07-31T09:55:47+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Генеральна прокуратура Нью-Йорка звинуватила платформу прогнозів Kalshi у проведенні несанкціонованих азартних ігор. Цей позов загострює конфлікт між державними регуляторами та федеральними органами щодо контролю над ринками прогнозів.",
-      "ai_title": "Штат Нью-Йорк подав до суду на платформу Kalshi через нелегальні азартні ігри",
-      "video_keywords": "courtroom, gavel, judge, legal documents"
-    },
-    {
-      "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
-      "link": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-      "summary": "",
-      "published": "2026-07-31T12:00:26+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ринки прогнозів зафіксували історичний рекорд обсягів торгівлі, пов'язаних із Чемпіонатом світу з футболу. Загальна сума ставок перевищила 20 мільярдів доларів, що демонструє стрімке зростання популярності таких платформ.",
-      "ai_title": "Обсяги ставок на Чемпіонаті світу досягли рекордних $20 мільярдів",
-      "video_keywords": "sports betting, smartphone screen, betting app, financial chart"
-    },
-    {
       "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
       "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
       "summary": "",
@@ -1083,26 +1093,6 @@
       "ai_summary": "Провідні криптовалюти демонструють тимчасове зниження цін, тоді як фондові ринки зростають. Попри це, поточний місяць залишається найкращим для криптоіндустрії за останній рік.",
       "ai_title": "Біткоїн та ефір просідають на тлі загального місячного зростання крипторинку",
       "video_keywords": "stock market trading floor, cryptocurrency charts, computer monitors, trading terminal"
-    },
-    {
-      "title": "BIS Project Agorá settles $1 million in tokenized cross-border payment trials",
-      "link": "https://cointelegraph.com/news/bis-project-agor-tokenized-cross-border-payment-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS Project Agorá settles $1 million in tokenized cross-border payment trials\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/exchange-transfer-conversion-payment-map.jpg\" /></p><p>Twenty-eight financial institutions and central banks completed real-value settlements across six currencies usin",
-      "published": "2026-07-31T11:02:24+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Двадцять вісім фінансових інститутів та центральних банків завершили тестові розрахунки на мільйон доларів у шести валютах. Випробування проводилися за допомогою токенізованих активів для прискорення міжнародних переказів.",
-      "ai_title": "Проєкт Agorá від BIS успішно протестував токенізовані транскордонні платежі",
-      "video_keywords": "digital banking, international map, global network, computer screen"
-    },
-    {
-      "title": "New York sues Kalshi over alleged illegal gambling operation",
-      "link": "https://cointelegraph.com/news/new-york-sues-kalshi-gambling-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York sues Kalshi over alleged illegal gambling operation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/court-crypto-lawsuit.jpg\" /></p><p>The lawsuit adds to a growing clash between New York and the CFTC over whether federally regulated prediction markets are subject to state gambling la",
-      "published": "2026-07-31T10:05:01+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Генеральна прокуратура Нью-Йорка ініціювала позов проти платформи прогнозів Kalshi через звинувачення в організації незаконних азартних ігор. Цей судовий розгляд підкреслює конфлікт між державними регуляторами та федеральними правилами ринків прогнозів.",
-      "ai_title": "Влада Нью-Йорка подала до суду на платформу Kalshi через нелегальний азартний бізнес",
-      "video_keywords": "courtroom gavel, legal documents, judge desk, law office"
     },
     {
       "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
@@ -1443,6 +1433,16 @@
       "ai_summary": "Після інциденту з безпекою гаманця Coldcard власники біткоїна масово почали переказувати кошти невеликими транзакціями. Аналітики CryptoQuant зафіксували найбільший обсяг таких рухів ще з часів краху біржі FTX.",
       "ai_title": "Атака на Coldcard спровокувала масштабне переміщення біткоїнів",
       "video_keywords": "hardware wallet, computer hacker, digital security, cryptocurrency code"
+    },
+    {
+      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+      "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg\" /></p><p>Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with",
+      "published": "2026-08-02T09:29:15+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Trump Media перевела на біржу Crypto.com чергову партію біткоїнів. За останні місяці загальний обсяг проданих резервів суттєво зріс, залишивши на балансі компанії дещо більше чотирьох тисяч монет.",
+      "ai_title": "Trump Media продовжує розпродавати свої біткоїн-активи",
+      "video_keywords": "cryptocurrency trading, bitcoin graph, digital wallet, stock market crash"
     }
   ]
 }
