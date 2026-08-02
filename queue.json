@@ -11,16 +11,6 @@
       "video_keywords": "web browser, computer screen, coding, developer workspace"
     },
     {
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "link": "https://arxiv.org/abs/2607.28233",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.28233\">https://arxiv.org/abs/2607.28233</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128323\">https://news.ycombinator.com/item?id=49128323</a></p>\n<p>Points: 12</p>\n<p># Comments: 7</p>",
-      "published": "2026-07-31T20:44:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Опубліковано нове наукове дослідження, присвячене вивченню апаратних вразливостей динамічної пам'яті довільного доступу. Робота детально описує механізми виникнення ефектів RowHammer та RowPress, які можуть впливати на безпеку сучасних систем.",
-      "ai_title": "Дослідження вразливостей пам'яті DRAM: явища RowHammer та RowPress",
-      "video_keywords": "computer hardware, microchip, motherboard, electronics laboratory"
-    },
-    {
       "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
       "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
       "summary": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra. This isn't just a drive. It's a 4K HDMI dock [&#8230;]",
@@ -29,16 +19,6 @@
       "ai_summary": "Компанія Sharge випустила вдосконалену версію свого портативного SSD під назвою Disk Pro 2 Ultra. Окрім швидкого зберігання даних, новинка виконує роль повноцінного 4K HDMI-доку для різних пристроїв.",
       "ai_title": "Новий портативний накопичувач Sharge Disk Pro 2 отримав функцію хаба",
       "video_keywords": "portable SSD, USB cable, plugging in device, tech gadget"
-    },
-    {
-      "title": "Loops (YC W22) Is Hiring a Product Educator",
-      "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-31T21:00:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стартап Loops, який пройшов інкубатор Y Combinator, відкрив вакансію продуктового педагога та автора технічного контенту. Компанія розширює свою команду для створення освітніх матеріалів та роботи з користувачами.",
-      "ai_title": "Loops шукає продуктового педагога",
-      "video_keywords": "person working at computer, office desk, typing on keyboard"
     },
     {
       "title": "What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model",
@@ -709,29 +689,59 @@
       "ai_summary": "Європейський Союз починає повноцінне примусове виконання правил для моделей штучного інтелекту. Нове законодавство суттєво змінить підходи розробників до безпеки, прозорості та дотримання авторських прав на території ЄС.",
       "ai_title": "В ЄС набувають чинності нові правила регулювання штучного інтелекту",
       "video_keywords": "european union flag, digital courtroom, cyber law, server room"
+    },
+    {
+      "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
+      "link": "https://github.com/0xchasercat/draco/",
+      "summary": "<p>Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by Cloudflare.<p>I built Draco to fix this. It’s a fast, single-binary web scraper written in Rust. You point it at a URL, and it spits out perfectly clean Markd",
+      "published": "2026-08-02T20:48:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено альтернативу популярним сервісам вебскрапінгу на зразок Firecrawl. Інструмент написаний мовою Rust, працює у вигляді єдиного бінарного файлу та ефективно обходить захист Cloudflare без надмірного споживання пам'яті.",
+      "ai_title": "Draco: новий швидкий вебскрапер на Rust",
+      "video_keywords": "coding, laptop screen, programmer, terminal"
+    },
+    {
+      "title": "AI Mania: From Tulips to Tokens",
+      "link": "https://seanhelvey.com/tools-and-their-tools/",
+      "summary": "<p>Article URL: <a href=\"https://seanhelvey.com/tools-and-their-tools/\">https://seanhelvey.com/tools-and-their-tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49148159\">https://news.ycombinator.com/item?id=49148159</a></p>\n<p>Points: 21</p>\n<p># Comments: 9</p>",
+      "published": "2026-08-02T20:48:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітичний погляд на сучасний бум навколо штучного інтелекту. Автор порівнює поточну ситуацію на ринку технологій із історичними фінансовими бульбашками, зокрема тюльпаноманією.",
+      "ai_title": "Штучний інтелект: від манії до реальних токенів",
+      "video_keywords": "stock market, graphs, digital coins, financial chart"
+    },
+    {
+      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+      "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+      "summary": "<p>Article URL: <a href=\"https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/\">https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49148128\">https://news.ycombinator.com/item?id=49148128</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-02T20:44:24+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий проєкт ЄС передбачає впровадження апаратної прив'язки для підтвердження віку користувачів. Це може суттєво змінити підходи до безпеки та конфіденційності пристроїв на європейському ринку.",
+      "ai_title": "Євросоюз планує жорстку верифікацію віку на рівні апаратного забезпечення",
+      "video_keywords": "microchip, computer hardware, motherboard, electronics"
+    },
+    {
+      "title": "Adding Go's Defer to the TypeScript Compiler",
+      "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
+      "summary": "<p>Article URL: <a href=\"https://healeycodes.com/adding-defer-to-the-typescript-compiler\">https://healeycodes.com/adding-defer-to-the-typescript-compiler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147853\">https://news.ycombinator.com/item?id=49147853</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-02T20:12:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник поділився досвідом експериментального перенесення концепції відкладеного виконання (defer) із мови програмування Go до компілятора TypeScript. Це дозволяє оптимізувати роботу з ресурсами в коді.",
+      "ai_title": "Додавання оператора Defer до компілятора TypeScript",
+      "video_keywords": "typing on keyboard, software engineer, code editor, dual monitors"
+    },
+    {
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "link": "https://frogs.vaguespac.es/",
+      "summary": "<p>Article URL: <a href=\"https://frogs.vaguespac.es/\">https://frogs.vaguespac.es/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147622\">https://news.ycombinator.com/item?id=49147622</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>",
+      "published": "2026-08-02T19:42:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився новий креативний тест для оцінки генеративних моделей. Розробник пропонує штучному інтелекту створити SVG-зображення жаби з особливою анатомічною деталлю — щелепою Габсбургів.",
+      "ai_title": "Незвичайний бенчмарк для перевірки можливостей штучного інтелекту",
+      "video_keywords": "ai generation, digital art, computer screen, creative designer"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "India is starting to pay for apps, not just download them",
-      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "summary": "India's app market generated a record $345 million in Q2.",
-      "published": "2026-07-31T21:07:45+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "У другому кварталі індійський ринок мобільних додатків встановив історичний рекорд, згенерувавши 345 мільйонів доларів. Це свідчить про те, що користувачі в Індії все частіше готові платити за контент і послуги, а не лише завантажувати безкоштовні програми.",
-      "ai_title": "Індійський ринок додатків б'є рекорди з прибутків",
-      "video_keywords": "smartphone screen, mobile app, person using phone, app store"
-    },
-    {
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-      "published": "2026-07-31T22:00:08+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Після місяців затримок компанія Also готова доставити перші електровелосипеди покупцям. У планах амбітного стартапу також створення чотириколісних вантажних транспортних засобів для Amazon.",
-      "ai_title": "Стартап Also від колишніх творців Rivian починає постачання електровелосипедів",
-      "video_keywords": "electric bicycle, courier delivery, urban street, cargo bike"
-    },
     {
       "title": "Silicon Valley loves young founders. Until it doesn’t.",
       "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
@@ -741,16 +751,6 @@
       "ai_summary": "Сучасні інструменти зі штучним інтелектом дозволяють молодим підприємцям створювати успішні компанії рекордні терміни. Це змінює традиційний підхід венчурних інвесторів до оцінки досвіду засновників.",
       "ai_title": "Чому Кремнієва долина змінює ставлення до молодих засновників стартапів",
       "video_keywords": "young entrepreneur, modern office, laptop screen, startup meeting"
-    },
-    {
-      "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
-      "link": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
-      "summary": "<p>If you ask an AI coding agent to write a standalone Python script to parse a single JSON file, it will likely give you a perfect answer in seconds. But the same agent often breaks if you ask it to build a systematic data processing pipeline, like ingesting thousands of messy documents, chunking text, scoring quality, and filtering noise for a Retrieval-Augmented Generation (RAG) system that fit",
-      "published": "2026-07-31T21:19:09+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Штучний інтелект легко пише окремі скрипти, але часто помиляється у побудові масштабних систем обробки даних для RAG. Спеціалізований підхід допомагає подолати це відставання та покращити роботу агентів.",
-      "ai_title": "Новий фреймворк DataFlow-Harness вирішує проблеми ШІ у створенні дата-пайплайнів",
-      "video_keywords": "computer code, data center, server racks, programmer hands"
     },
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -891,19 +891,29 @@
       "ai_summary": "Розробники штучного інтелекту часто стикаються з вибором між різними методами пошуку даних для покращення генерації тексту. Стаття пояснює, в яких саме випадках складні граф-структури дають значно кращі результати, ніж традиційний векторний підхід. Це допомагає оптимізувати роботу корпоративних систем та заощадити ресурси на обробку даних.",
       "ai_title": "Коли GraphRAG перевершує векторний RAG: що треба знати розробникам",
       "video_keywords": "data visualization, network graph, computer screen, developer coding"
+    },
+    {
+      "title": "The global memory shortage hits the MacBook Air",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "published": "2026-08-02T21:33:59+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Світова нестача чіпів пам'яті почала негативно впливати на доступність найпопулярнішого ноутбука від Apple. Дефіцит компонентів створює виклики для ланцюжків постачання компанії та може призвести до затримок з поставками.",
+      "ai_title": "Глобальний дефіцит пам'яті зачепив виробництво MacBook Air",
+      "video_keywords": "laptop assembly, computer factory, microchip production, electronics manufacturing"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "published": "2026-08-02T20:54:22+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "В останньому епізоді подкасту Equity експерти обговорюють несподіваний заклик Сема Альтмана до індустрії знизити темпи розробки ШІ. Це викликає дискусії про безпеку нових технологій та готовність суспільства до таких масштабних змін.",
+      "ai_title": "Сем Альтман закликає уповільнити темпи розвитку штучного інтелекту",
+      "video_keywords": "modern office, business meeting, presentation screen, corporate boardroom"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-      "summary": "",
-      "published": "2026-07-31T20:50:58+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Біткоїн зміг зберегти позитивну динаміку за місяць, проте аналітики прогнозують волатильний серпень. Основна хвиля примусових продажів активів на ринку вже вичерпалася, що дає інвесторам надію на стабілізацію.",
-      "ai_title": "Біткоїн утримує місячний приріст на тлі завершення примусових продажів",
-      "video_keywords": "bitcoin chart, cryptocurrency trading, stock market monitor, digital currency"
-    },
     {
       "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
       "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
