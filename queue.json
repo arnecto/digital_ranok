@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border [&#8230;]",
-      "published": "2026-07-31T19:13:29+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Google була змушена зупинити роботу нової функції Google Earth всього через день після запуску. Інструмент дозволяв користувачам редагувати супутникові знімки за допомогою текстових запитів, що фактично призводило до створення переконливих штучних фейків.",
-      "ai_title": "Google закрила інструмент штучного інтелекту для створення фейкових супутникових знімків у Google Earth",
-      "video_keywords": "satellite map, computer screen, typing, ai generation"
-    },
-    {
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "link": "https://tailscale.com/blog/hugging-face-intrusion",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/hugging-face-intrusion\">https://tailscale.com/blog/hugging-face-intrusion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127306\">https://news.ycombinator.com/item?id=49127306</a></p>\n<p>Points: 44</p>\n<p># Comments: 20</p>",
-      "published": "2026-07-31T19:03:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розслідування інциденту безпеки на платформі Hugging Face показало, що популярна віртуальна приватна мережа Tailscale не змогла запобігти несанкціонованому проникненню. Подробиці інциденту викликали обговорення щодо надійності сучасних засобів захисту корпоративних мереж.",
-      "ai_title": "Злом платформи Hugging Face: сервіс Tailscale не зміг зупинити атаку",
-      "video_keywords": "server room, flashing lights, cybersecurity, hacker code"
-    },
-    {
-      "title": "AI companies destroy rare and non recoverable physical books",
-      "link": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
-      "summary": "<p>Article URL: <a href=\"https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/\">https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127284\">https://news.ycombinator.com/item?id=49127284</a></p>\n<p>Points: 36</p>\n<p>",
-      "published": "2026-07-31T19:01:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явилися тривожні повідомлення про те, що деякі компанії у сфері штучного інтелекту знищують фізичні та рідкісні паперові книги заради їх сканування. Критики порівнюють це з руйнуванням культурної спадщини задля тренування нейромереж.",
-      "ai_title": "Компанії, що розробляють штучний інтелект, масово знищують рідкісні паперові книги",
-      "video_keywords": "old library, burning books, shredder, paper destruction"
-    },
-    {
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "summary": "<p><a href=\"https://github.com/jwlaboratory/bite-the-bullet\" rel=\"nofollow\">https://github.com/jwlaboratory/bite-the-bullet</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127874\">https://news.ycombinator.com/item?id=49127874</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-07-31T19:55:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники представили новий підхід до предиктивної реплікації KV для оптимізації генерації відповідей великими мовними моделями в умовах високого навантаження. Ця технологія дозволяє суттєво зменшити затримки та підвищити ефективність обробки запитів. Інструмент уже доступний на GitHub для тестування.",
-      "ai_title": "Новий метод прискорення роботи мовних моделей",
-      "video_keywords": "server racks, data center, computer screens, blinking lights"
-    },
-    {
-      "title": "Golang proposal: container/: generic collection types",
-      "link": "https://github.com/golang/go/issues/80590",
-      "summary": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/80590\">https://github.com/golang/go/issues/80590</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127031\">https://news.ycombinator.com/item?id=49127031</a></p>\n<p>Points: 66</p>\n<p># Comments: 22</p>",
-      "published": "2026-07-31T18:39:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У світі мови програмування Go активно обговорюють свіжу пропозицію щодо впровадження стандартизованих генеричних колекцій у пакет container. Це нововведення має спростити написання повторюваного коду та покращити роботу розробників зі структурами даних. Обговорення на GitHub уже зібрало чимало відгуків спільноти.",
-      "ai_title": "Нова пропозиція для Golang: загальні типи колекцій",
-      "video_keywords": "programmer typing, computer monitor, code on screen, hands on keyboard"
-    },
-    {
-      "title": "The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports",
-      "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension",
-      "summary": "The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause \"a loss of vehicle directional control,\" as reported earlier by Reuters. The preliminary investigation includes the 2018-2020 Model 3 and 2021-2023 Model Y, according to a filing from the NHTSA's Office [&#8230;]",
-      "published": "2026-07-31T18:33:39+00:00",
-      "source": "The Verge",
-      "ai_summary": "Національне управління безпеки дорожнього руху США розпочало розслідування щодо майже 1,2 мільйона електромобілів Tesla. Причиною стали численні скарги власників на несправність підвіски, яка може призвести до втрати керування транспортним засобом. Під перевірку потрапили популярні моделі Model 3 та Model Y випуску різних років.",
-      "ai_title": "Масштабне розслідування NHTSA щодо підвіски Tesla",
-      "video_keywords": "tesla car driving, electric vehicle, car inspection, mechanic garage"
-    },
-    {
       "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
       "link": "https://code.intellios.ai/cwbrowser/",
       "summary": "<p>Article URL: <a href=\"https://code.intellios.ai/cwbrowser/\">https://code.intellios.ai/cwbrowser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128826\">https://news.ycombinator.com/item?id=49128826</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
@@ -759,39 +699,19 @@
       "ai_summary": "Інтерактивне дослідження демонструє еволюцію слів, які найчастіше викладають учням, що вивчають англійську як іноземну. Автори проаналізували, які лексичні мінімуми були актуальними радянськими чи минулими десятиліттями і які пріоритети панують сьогодні. Зміни показують адаптацію мови до сучасного глобального контексту.",
       "ai_title": "Як змінився словниковий запас для вивчення англійської мови",
       "video_keywords": "classroom, studying, dictionary, reading book"
+    },
+    {
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]",
+      "published": "2026-08-02T19:36:08+00:00",
+      "source": "The Verge",
+      "ai_summary": "Генеральний директор Fender Едвард «Бад» Коул під час інтерв'ю на честь 75-річчя гітари Telecaster порівняв учасників музичного гурту з «аналоговим штучним інтелектом». Ці слова викликали бурхливу дискусію в мережі та додали негативу до нещодавнього PR-скандалу навколо компанії.",
+      "ai_title": "Дивні заяви генерального директора Fender щодо музикантів та штучного інтелекту",
+      "video_keywords": "electric guitar, musician playing, recording studio, sound mixer"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-      "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
-      "published": "2026-07-31T19:39:51+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Венчурний фонд Index Ventures оголосив про залучення значного капіталу після успішного виходу з інвестиції у стартап Wiz. Нове фінансування збільшує загальний обсяг доступного для інвестицій капіталу компанії до 3,5 мільярда доларів.",
-      "ai_title": "Index Ventures залучив 2 мільярди доларів у три нові фонди",
-      "video_keywords": "handshake, business meeting, modern office, financial graphs"
-    },
-    {
-      "title": "VC-backed startups commit more fraud, and researchers think they know why",
-      "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
-      "published": "2026-07-31T19:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Нове дослідження європейських бізнес-шкіл проаналізувало причини, чому засновники кремнієвої долини йдуть на шахрайство. Науковці також дослідили роль, яку в цих порушеннях відіграють самі інвестори.",
-      "ai_title": "Чому стартапи з венчурним фінансуванням частіше вдаються до шахрайства",
-      "video_keywords": "handcuffs, courtroom, businessman stressed, police investigation"
-    },
-    {
-      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
-      "link": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
-      "summary": "<p>The AI agent observability space is taking off — but how can enterprises be sure what observability products and solutions they need?</p><p>Observability startup groudcover (lower case &quot;g&quot; intentional) <a href=\"https://www.groundcover.com/news/groundcover-raises-100-million-series-c\">announced this week </a>that it raised $100 million in a round led by One Peak, bringing its total fun",
-      "published": "2026-07-31T19:20:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "На тлі стрімкого розвитку сфери спостереження за ШІ-агентами компанія Groundcover залучила 100 мільйонів доларів інвестицій у раунді серії C. Стартап пропонує рішення, що дозволяє підприємствам контролювати роботу штучного інтелекту безпосередньо у власній хмарі.",
-      "ai_title": "Стартап Groundcover залучив 100 мільйонів доларів для моніторингу ШІ-агентів",
-      "video_keywords": "server room, data center, dashboard screens, coding on laptop"
-    },
     {
       "title": "India is starting to pay for apps, not just download them",
       "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
@@ -961,6 +881,16 @@
       "ai_summary": "З'явилися повідомлення про згортання амбітного проєкту \"Мережевої школи\" для техно-оптимістів у Малайзії. Ця ініціатива планувалася як новаторська спільнота майбутнього, однак зіткнулася з проблемами.",
       "ai_title": "У Малайзії закривають \"Мережеву школу\" Баладжі Срінівасана",
       "video_keywords": "empty office, closed sign, computer screen, frustrated person"
+    },
+    {
+      "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
+      "link": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+      "summary": "<p>If you have built anything with <a href=\"https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data?_gl=1*11in6e8*_up*MQ..*_ga*MTU3NzY5MzUzOS4xNzg1Njk1MzEy*_ga_SCH1J7LNKY*czE3ODU2OTUzMTEkbzEkZzAkdDE3ODU2OTUzMTEkajYwJGwwJGgyMDQ5NTU1MDM1*_ga_B8TDS1LEXQ*czE3ODU2OTUzMTEkbzEkZzAkdDE3ODU2OTUzMTEkajYwJGwwJGgxMTAwMzUxMjYx\">retrieval-augmented generation</a> (RAG) in the last",
+      "published": "2026-08-02T19:00:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Розробники штучного інтелекту часто стикаються з вибором між різними методами пошуку даних для покращення генерації тексту. Стаття пояснює, в яких саме випадках складні граф-структури дають значно кращі результати, ніж традиційний векторний підхід. Це допомагає оптимізувати роботу корпоративних систем та заощадити ресурси на обробку даних.",
+      "ai_title": "Коли GraphRAG перевершує векторний RAG: що треба знати розробникам",
+      "video_keywords": "data visualization, network graph, computer screen, developer coding"
     }
   ],
   "Крипта": [

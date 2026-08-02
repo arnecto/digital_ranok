@@ -1,12 +1,4 @@
 {
-  "https://news.ycombinator.com/item?id=49026810": {
-    "title": "Нова система Echo поєднує відкриті ШІ-моделі заради економії",
-    "category": "IT / AI",
-    "posted_at": "2026-07-25T21:40:01.795586+03:00",
-    "summary": "Розробник представив експериментальну систему Echo, яка об'єднує кілька відкритих ШІ-моделей замість використання однієї універсальної. Такий підхід дозволяє досягти високих результатів, порівнянних із дорогими аналогами, витрачаючи втричі менше коштів.",
-    "video_keywords": "server racks, computer screens, artificial intelligence, glowing code",
-    "link": "https://news.ycombinator.com/item?id=49026810"
-  },
   "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/": {
     "title": "Tesla може зіткнутися з новими правилами безпеки через дверні ручки",
     "category": "Бізнес / Стартапи",
@@ -838,5 +830,13 @@
     "summary": "Платформа Pump.fun провела скорочення штату співробітників якраз перед тим, як вони мали отримати мільйонні бонуси у власних токенах проєкту. Керівництво пояснило це занадто швидким зростанням компанії.",
     "video_keywords": "office computers, stressed employees, corporate layoffs, empty desk",
     "link": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://jwlabs.vercel.app/post/biting-the-bullet": {
+    "title": "Новий метод прискорення роботи мовних моделей",
+    "category": "IT / AI",
+    "posted_at": "2026-08-02T22:49:02.903327+03:00",
+    "summary": "Дослідники представили новий підхід до предиктивної реплікації KV для оптимізації генерації відповідей великими мовними моделями в умовах високого навантаження. Ця технологія дозволяє суттєво зменшити затримки та підвищити ефективність обробки запитів. Інструмент уже доступний на GitHub для тестування.",
+    "video_keywords": "server racks, data center, computer screens, blinking lights",
+    "link": "https://jwlabs.vercel.app/post/biting-the-bullet"
   }
 }
