@@ -759,19 +759,49 @@
       "ai_summary": "Цікаве дослідження аналізує особливості адаптації цифрових систем та моделей під культурний і мовний контекст Німеччини. Технології стикаються з унікальними викликами локалізації, де точність і дотримання місцевих стандартів грають вирішальну роль. Це демонструє, як штучний інтелект поступово опановує тонкощі європейських культур.",
       "ai_title": "Як алгоритми вчаться звучати і діяти \"по-німецькому\"",
       "video_keywords": "berlin street, german flag, europe city, digital tablet"
+    },
+    {
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "summary": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-03T11:28:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники виявили випадок, коли мовна модель згенерувала неіснуючу критичну вразливість для бази даних SQLite. Це яскравий приклад того, як штучний інтелект може вводити фахівців в оману галюцинаціями коду та помилковими звітами безпеки.",
+      "ai_title": "Штучний інтелект створив фейкову вразливість у базі даних",
+      "video_keywords": "cybersecurity screen, hacker typing, warning message, code terminal"
+    },
+    {
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "link": "https://github.com/garagehq/nightcrawler/",
+      "summary": "<p>Article URL: <a href=\"https://github.com/garagehq/nightcrawler/\">https://github.com/garagehq/nightcrawler/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154127\">https://news.ycombinator.com/item?id=49154127</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-03T11:06:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили Nightcrawler — локального автономного агента для тестування на проникнення, який працює безпосередньо на смартфоні. Цей інструмент дозволяє проводити перевірки безпеки мереж у польових умовах без потреби у потужному комп'ютері.",
+      "ai_title": "Мобільний ШІ-агент для тестування безпеки",
+      "video_keywords": "smartphone screen, mobile hacking, cybersecurity app, hacker holding phone"
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "summary": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 98</p>\n<p># Comments: 72</p>",
+      "published": "2026-08-03T09:32:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти радять розробникам вручну переписувати код, згенерований штучним інтелектом, замість простого копіювання. Такий підхід допомагає краще зрозуміти логіку програми та запобігти накопиченню технічного й когнітивного боргу в проєкті.",
+      "ai_title": "Як ручне переписування коду спасає від когнітивного боргу",
+      "video_keywords": "programmer typing, computer keyboard, hands typing code, office desk"
+    },
+    {
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
+      "published": "2026-08-03T11:01:11+00:00",
+      "source": "The Verge",
+      "ai_summary": "Китайський технологічний гігант Alibaba презентував свою найпотужнішу штучноінтелектуальну модель на сьогодні. Компанія запевняє, że нова розробка не поступається провідним американським аналогам від OpenAI та Anthropic.",
+      "ai_title": "Alibaba кидає виклик американським лідерам ШІ",
+      "video_keywords": "server room, data center, futuristic ai, glowing neon lights"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Apps that help you break free from doomscrolling and get active",
-      "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-      "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
-      "published": "2026-08-01T14:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "З'явилася добірка мобільних застосунків, створених для боротьби з цифровим вигоранням та залипанням у смартфоні. Ці інструменти мотивують користувачів скоротити час перед екраном і більше рухатися у реальному житті.",
-      "ai_title": "Нові додатки допоможуть подолати залежність від соцмереж та дофамінової голки",
-      "video_keywords": "smartphone screen, person walking outdoors, healthy lifestyle, hands typing phone"
-    },
     {
       "title": "This $9 key physically locks your most addictive apps",
       "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
@@ -901,39 +931,19 @@
       "ai_summary": "В останньому епізоді подкасту Equity експерти обговорюють несподіваний заклик Сема Альтмана до індустрії знизити темпи розробки ШІ. Це викликає дискусії про безпеку нових технологій та готовність суспільства до таких масштабних змін.",
       "ai_title": "Сем Альтман закликає уповільнити темпи розвитку штучного інтелекту",
       "video_keywords": "modern office, business meeting, presentation screen, corporate boardroom"
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "published": "2026-08-03T10:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап June вийшов із тіні з $20 мільйонами інвестицій у пре-насіннєвому раунді. Компанія розробляє технології штучного інтелекту, які мають розв'язати проблему складності впровадження ШІ-систем у бізнес.",
+      "ai_title": "Стартап за підтримки Марка Беніоффа залучив $20 млн для спрощення впровадження ШІ",
+      "video_keywords": "startup meeting, office computers, artificial intelligence, business presentation"
     }
   ],
   "Крипта": [
-    {
-      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-      "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-      "summary": "",
-      "published": "2026-08-01T09:01:08+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Після того, як апаратний гаманець Coldcard зазнав атаки і втратив криптовалюту на суму близько 70 мільйонів доларів, колишній очільник Binance Чанпен Чжао наголосив на важливості розподілу активів. Він порадив користувачам не тримати всі кошти в одному сервісі чи пристрої, щоб мінімізувати ризики. Цей інцидент знову підняв питання безпеки зберігання цифрових активів.",
-      "ai_title": "Засновник Binance CZ закликав диверсифікувати криптогаманці після масштабного злому",
-      "video_keywords": "cryptocurrency wallet, hardware security, hacker computer, digital security"
-    },
-    {
-      "title": "Russia expands crypto mining ban to Moscow through 2032",
-      "link": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia expands crypto mining ban to Moscow through 2032\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-china-mining-ban.jpg\" /></p><p>Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrict",
-      "published": "2026-08-01T10:23:41+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Російська влада розширила заборону на видобуток криптовалюти на Москву, Московську область та частину Курської області через серйозні проблеми з електропостачанням. Обмеження діятимуть аж до 2032 року з метою стабілізації енергосистеми регіонів.",
-      "ai_title": "Росія заборонила майнінг криптовалют у Москві до 2032 року",
-      "video_keywords": "datacenter, server racks, electrical transformers, power plant"
-    },
-    {
-      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-      "link": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hand-coin-laptop-hack-bitcoin.jpg\" /></p><p>Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldc",
-      "published": "2026-08-01T09:23:56+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Аналітики з Galaxy Research підрахували, що під час короткої атаки було зламано понад тисячу адрес і втрачено понад тисячу біткоїнів. Масштаби збитків від інциденту виявилися значно більшими, ніж вважалося спочатку.",
-      "ai_title": "Втрати власників Coldcard через злам зросли до 70 мільйонів доларів",
-      "video_keywords": "hardware wallet, broken computer, hacker typing, digital security breach"
-    },
     {
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
       "link": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
@@ -1203,6 +1213,56 @@
       "ai_summary": "Вартість біткоїна зафіксувалася на рівні 62 000 доларів, тоді як індикатор премії на біржі Coinbase демонструє негативну динаміку вже 77 днів поспіль. Це свідчить про низьку активність американських спотових покупців.",
       "ai_title": "Біткоїн тримається біля $62 000 на тлі падіння премії на Coinbase",
       "video_keywords": "trading terminal, stock exchange, financial markets, digital numbers"
+    },
+    {
+      "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
+      "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
+      "summary": "",
+      "published": "2026-08-03T10:51:37+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалютний ринок демонструє зниження цін на тлі триваючих технічних проблем і вразливостей апаратних гаманців Coldcard. Ситуація викликає занепокоєння серед інвесторів щодо безпеки зберігання цифрових активів.",
+      "ai_title": "Падіння курсу біткоїна та ефіру на тлі тривалої вразливості гаманців Coldcard",
+      "video_keywords": "cryptocurrency chart, red candles, trading screen, falling graphs"
+    },
+    {
+      "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
+      "link": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
+      "summary": "",
+      "published": "2026-08-03T09:38:53+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Платформа Robinhood успішно зареєструвалася для надання послуг з торгівлі криптоактивами у Великій Британії. Це сталося якраз напередодні введення в дію нового жорсткішого регуляторного режиму в країні.",
+      "ai_title": "Robinhood отримав ліцензію на криптодіяльність у Великій Британії",
+      "video_keywords": "smartphone app, digital wallet, person tapping screen, financial district"
+    },
+    {
+      "title": "Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss",
+      "link": "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us-1.jpg\" /></p><p>Trump-linked Bitcoin miner produced a record 932 BTC in the second quarter, lifting mining revenue 8% as its net loss narrowed from the",
+      "published": "2026-08-03T11:40:09+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Пов'язана з Дональдом Трампом компанія з видобутку біткоїнів зафіксувала рекордний показник у 932 видобуті монети за другий квартал. Завдяки цьому доходи зросли, а чисті збитки суттєво скоротилися.",
+      "ai_title": "Майнігова компанія Трампа звітує про рекордний видобуток біткоїнів",
+      "video_keywords": "computer servers, data center, mining rig, flashing lights"
+    },
+    {
+      "title": "Ripple invests in Zilo and Licuido to assist tokenized capital markets push",
+      "link": "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple invests in Zilo and Licuido to assist tokenized capital markets push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bankripple-new.jpg\" /></p><p>Ripple made a strategic investment in Zilo and Licuido as it looks to enable the use of tokenized funds as collateral from the point of issua",
+      "published": "2026-08-03T10:58:36+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Ripple здійснила стратегічні інвестиції у фірми Zilo та Licuido для розвитку інфраструктури токенізованих фондів. Це допоможе розширити використання цифрових активів як забезпечення на фінансових ринках.",
+      "ai_title": "Ripple інвестує в токенізовані ринки капіталу",
+      "video_keywords": "handshake, modern office, business meeting, corporate handshake"
+    },
+    {
+      "title": "HashKey receives JPMorgan approval to open client money account",
+      "link": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HashKey receives JPMorgan approval to open client money account\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-plans-to-become-hong-kongs-first-crypto-ipo.jpg\" /></p><p>HashKey Exchange said it received approval to open client money accounts with JPMorgan, weeks after it launch",
+      "published": "2026-08-03T09:14:38+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютна біржа HashKey Exchange отримала схвалення від американського гіганта JPMorgan на відкриття клієнтських грошових рахунків. Це важливий крок для інтеграції платформи з традиційною банківською системою.",
+      "ai_title": "Біржа HashKey домоглася дозволу від JPMorgan на відкриття рахунків",
+      "video_keywords": "bank building, skyscraper, corporate office, financial district"
     }
   ]
 }
