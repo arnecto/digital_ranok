@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-      "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-      "summary": "<p>Article URL: <a href=\"https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146605\">https://news.ycombinator.com/item?id=49146605</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-02T17:45:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідження базується на даних, зібраних за допомогою мережі ханіпотів (honeypot). Автор аналізує методи, якими зловмисники намагаються викрасти SSH-облікові дані. Отримані інсайди допомагають краще зрозуміти актуальні вектори атак на сервери.",
-      "ai_title": "Збір облікових даних SSH: аналіз роботи мережі пасток",
-      "video_keywords": "server room, matrix code, cyber attack, computer monitor"
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]",
-      "published": "2026-08-02T19:36:08+00:00",
-      "source": "The Verge",
-      "ai_summary": "Генеральний директор Fender Едвард «Бад» Коул під час інтерв'ю на честь 75-річчя гітари Telecaster порівняв учасників музичного гурту з «аналоговим штучним інтелектом». Ці слова викликали бурхливу дискусію в мережі та додали негативу до нещодавнього PR-скандалу навколо компанії.",
-      "ai_title": "Дивні заяви генерального директора Fender щодо музикантів та штучного інтелекту",
-      "video_keywords": "electric guitar, musician playing, recording studio, sound mixer"
-    },
-    {
       "title": "EU rules on AI models become enforceable. What's going to change?",
       "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
       "summary": "<p>Article URL: <a href=\"https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change\">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147606\">https://news.ycombinator.com/item?id=49147606</a></p>\n<p>Points: 22</p>\n<p>",
@@ -643,6 +623,56 @@
       "ai_summary": "Влада Техасу зобов'язала нові дата-центри проходити суворий аудит перед тим, як підключатися до загальної електромережі. Губернатор штату видав відповідне розпорядження на тлі стрімкого зростання енергоспоживання серверну інфраструктуру штучного інтелекту.",
       "ai_title": "Техас посилює правила для дата-центрів через навантаження на енергомережу",
       "video_keywords": "server room, data center, electricity cables, power station"
+    },
+    {
+      "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+      "link": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+      "summary": "<p>Article URL: <a href=\"https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where\">https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172433\">https://news.ycombinator.com/item?id=49172433</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-04T17:57:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Масштабне розгортання нових дата-центрів для потреб штучного інтелекту призводить до значного збільшення навантаження на енергосистему. Це безпосередньо впливає на зростання комунальних тарифів для звичайних споживачів у багатьох регіонах. Спеціальні карти та дослідження показують, де саме спостерігається найбільший стрибок цін.",
+      "ai_title": "Штучний інтелект спричиняє зростання рахунків за електроенергію",
+      "video_keywords": "power plant, electricity meter, server racks, data center"
+    },
+    {
+      "title": "The Warp Agent CLI",
+      "link": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "summary": "<p>Article URL: <a href=\"https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent\">https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171766\">https://news.ycombinator.com/item?id=49171766</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
+      "published": "2026-08-04T17:08:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Warp представила новий інтерфейс командного рядка (CLI) для розробників, який інтегрує можливості штучного інтелекту. Цей інструмент покликаний автоматизувати рутинні завдання з написання та оптимізації коду безпосередньо у терміналі. Новинка обіцяє суттєво підвищити продуктивність сучасних програмістів.",
+      "ai_title": "Warp випускає новий агентський інструмент для програмування",
+      "video_keywords": "developer typing, computer screen, terminal window, coding"
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "link": "https://mistral.ai/news/shieldstral/",
+      "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/shieldstral/\">https://mistral.ai/news/shieldstral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171268\">https://news.ycombinator.com/item?id=49171268</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-04T16:36:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Французький розробник штучного інтелекту Mistral презентував нову відкриту мультимодальну модель Shieldstral розміром 3 мільярди параметрів. Вона створена спеціально для ефективної модерації та фільтрації шкідливого чи небажаного контенту. Модель розрахована на легке впровадження у різноманітні цифрові продукти.",
+      "ai_title": "Mistral представляє легку модель для модерації контенту",
+      "video_keywords": "server room, matrix code, digital security, artificial intelligence"
+    },
+    {
+      "title": "‘Not healthy’ LLM use is more common than you think",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of [&#8230;]",
+      "published": "2026-08-04T17:33:46+00:00",
+      "source": "The Verge",
+      "ai_summary": "Відомий популяризатор науки Грін публічно зізнався у надмірному та «нездоровому» використанні штучного інтелекту у своїй роботі. Це викликало запеклі дискусії в інтернет-спільноті про етику та межі використання генеративних технологій. Ситуація підкреслює зростаючу психологічну залежність людей від сучасних чат-ботів.",
+      "ai_title": "Проблема нездорової залежності від великих мовних моделей",
+      "video_keywords": "person typing, smartphone screen, stressed person, laptop computer"
+    },
+    {
+      "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+      "link": "https://github.com/agentrust-io/cmcp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/agentrust-io/cmcp\">https://github.com/agentrust-io/cmcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172545\">https://news.ycombinator.com/item?id=49172545</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-04T18:06:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий проєкт cMCP, який дозволяє користувачам блокувати певні виклики інструментів штучного інтелекту та отримувати криптографічно підписану квитанцію. Це рішення підвищує рівень безпеки та прозорості під час взаємодії з автономними ШІ-агентами. Технологія дає розробникам більший контроль над виконанням задач.",
+      "ai_title": "Новий інструмент контролю дій штучного інтелекту",
+      "video_keywords": "cyber security, digital lock, computer code, data protection"
     }
   ],
   "Бізнес / Стартапи": [
@@ -965,6 +995,26 @@
       "ai_summary": "Роздрібний гігант Walmart офіційно завершив придбання платформи Vibe.co, про яке заявляли ще в червні. Цей крок інтегрує технології компанії у фірмову рекламну екосистему Walmart Connect дляconnected TV.",
       "ai_title": "Walmart завершив поглинання рекламної компанії Vibe.co",
       "video_keywords": "person watching smart tv, grocery store interior, digital advertising screen"
+    },
+    {
+      "title": "Waymo opens up robotaxi service in Dallas to everyone",
+      "link": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
+      "summary": "Waymo has dropped the waitlist for its robotaxi service in Dallas, the latest step in the company's bid to scale its self-driving technology across the United States, U.K., and Europe.",
+      "published": "2026-08-04T17:31:01+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Waymo скасувала лист очікування на свій сервіс безпілотних таксі в Далласі. Це важливий крок у масштабній стратегії з розширення автономних транспортних технологій у США та світі.",
+      "ai_title": "Waymo відкрила доступ до роботаксі в Далласі для всіх бажаючих",
+      "video_keywords": "autonomous car, robotaxi, street traffic, self driving"
+    },
+    {
+      "title": "AI coding agents are blowing through budgets — Replit, Kilo Code, and Symbotic explain how they're managing it",
+      "link": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
+      "summary": "<p>At Kilo Code, engineers are reading or writing code themselves only about 1% of the time now, according to co-founder Emilie Schario — the rest is agents. That shift is forcing new questions onto dev teams: which systems are safe to hand over, who cleans up when models goof up, how to support multi-model architectures, and whether skyrocketing token bills mean real progress or just burned IT bu",
+      "published": "2026-08-04T17:16:41+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Сучасні ШІ-агенти пишуть уже значну частину коду, проте це призводить до колосальних витрат на токени. Технологічні компанії змушені шукати баланс між ефективністю автоматизації та новими фінансовими ризиками.",
+      "ai_title": "Штучний інтелект у програмуванні стрімко виснажує бюджети компаній",
+      "video_keywords": "software engineer typing, computer monitor, office desk, programming code"
     }
   ],
   "Крипта": [
@@ -1532,6 +1582,46 @@
       "ai_summary": "Компанія Bitdeer уклала довгострокову угоду на суму 4,7 мільярда доларів щодо оренди дата-центру. Нові потужності в Норвегії дозволять значно розширити можливості компанії у сфері обчислень для штучного інтелекту.",
       "ai_title": "Bitdeer інвестує мільярди у розширення інфраструктури для штучного інтелекту",
       "video_keywords": "server racks, data center, supercomputer, technology hardware"
+    },
+    {
+      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+      "link": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "summary": "",
+      "published": "2026-08-04T17:14:13+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики прогнозують, що технологічний гігант Samsung має всі шанси займати домінуючі позиції у сфері розповсюдження стейблкоїнів. Це може суттєво вплинути на масове впровадження криптовалютних платежів через мобільні пристрої.",
+      "ai_title": "Samsung може стати одним із найбільших дистриб'юторів стейблкоїнів",
+      "video_keywords": "smartphone screen, digital wallet, contactless payment, modern office"
+    },
+    {
+      "title": "BNY to offer institutional crypto staking through Galaxy partnership",
+      "link": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNY to offer institutional crypto staking through Galaxy partnership\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-60958-bny-mellon-s-crypto-entrance-seeks-to-bridge-generational-adoption-gap.jpg\" /></p><p>The custody giant is expanding beyond safekeeping by adding staking ser",
+      "published": "2026-08-04T17:10:04+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Один із найбільших кастодіальних банків світу BNY розширює спектр послуг завдяки партнерству з компанією Galaxy. Тепер фінустанова пропонуватиме своїм клієнтам можливість заробляти на стейкінгу цифрових активів.",
+      "ai_title": "Банківський гігант BNY запустить криптостейкінг для інституційних інвесторів",
+      "video_keywords": "bank building, corporate office, business handshake, computer monitors"
+    },
+    {
+      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+      "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+      "summary": "",
+      "published": "2026-08-04T16:21:59+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Проходження важливого законопроєкту заблоковане через можливі конфлікти інтересів Дональда Трампа. Тим часом сенаторка Елізабет Воррен звернулася до Комісії з цінних паперів і бірж (SEC) із вимогою провести розслідування.",
+      "ai_title": "Доля закону Clarity Act зависла через етичні питання навколо Трампа",
+      "video_keywords": "government building, courtroom, politicians speaking, legal documents"
+    },
+    {
+      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "link": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+      "summary": "",
+      "published": "2026-08-04T17:55:23+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Незважаючи на ринкові коливання та тиск на акції емітента Circle, ключові гравці та інвестори продовжують демонструвати підтримку стейблкоїна USDC. Це свідчить про високу довіру до резервів компанії.",
+      "ai_title": "Стежте за підтримкою: чому інвестори не відмовляються від USDC попри коливання ринку",
+      "video_keywords": "stock market chart, digital coins, financial graphs, computer screen"
     }
   ]
 }
