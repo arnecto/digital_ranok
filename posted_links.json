@@ -1,12 +1,4 @@
 {
-  "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/": {
-    "title": "PyTorch Monarch тепер підтримує відеокарти AMD",
-    "category": "IT / AI",
-    "posted_at": "2026-07-27T18:08:29.608004+03:00",
-    "summary": "Розробники інтегрували фреймворк PyTorch Monarch для роботи з графічними процесорами AMD через екосистему ROCm. Це дозволить виконувати розподілене навчання моделей за допомогою єдиного контролера на обладнанні від AMD.",
-    "video_keywords": "computer hardware, microchip, servers, technology",
-    "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/"
-  },
   "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/": {
     "title": "Boring Company Елона Маска залучає інвестиції при оцінці в $20 мільярдів",
     "category": "Бізнес / Стартапи",
@@ -798,5 +790,13 @@
     "summary": "Ілюстратори роками виступають проти ШІ-компаній, які тренують свої моделі на їхніх роботах без дозволу, що призвело до масиву судових позовів. У відповідь техногіганти намагаються підкупити творців фінансовими виплатами, проте етичні та правові питання досі залишаються відкритими.",
     "video_keywords": "digital artist, drawing tablet, ai generation, upset person",
     "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties"
+  },
+  "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/": {
+    "title": "У Малайзії закривають \"Мережеву школу\" Баладжі Срінівасана",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-08-04T18:16:16.753237+03:00",
+    "summary": "З'явилися повідомлення про згортання амбітного проєкту \"Мережевої школи\" для техно-оптимістів у Малайзії. Ця ініціатива планувалася як новаторська спільнота майбутнього, однак зіткнулася з проблемами.",
+    "video_keywords": "empty office, closed sign, computer screen, frustrated person",
+    "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
   }
 }
