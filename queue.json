@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Linux Desktop Market Share Surpasses 10% in North America",
-      "link": "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/",
-      "summary": "<p>Article URL: <a href=\"https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/\">https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146122\">https://news.ycombinator.com/item?id=49146122</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-02T16:50:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Операційна система Linux продовжує завойовувати популярність серед звичайних користувачів. Згідно з останніми даними, її частка на ринку настільних ПК у Північній Америці вперше перетнула позначку в 10 відсотків.",
-      "ai_title": "Частка Linux на десктопах у Північній Америці перевищила 10%",
-      "video_keywords": "computer monitor, desktop screen, operating system"
-    },
-    {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "link": "https://github.com/wie-project/kakehashi",
-      "summary": "<p>Article URL: <a href=\"https://github.com/wie-project/kakehashi\">https://github.com/wie-project/kakehashi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145937\">https://news.ycombinator.com/item?id=49145937</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
-      "published": "2026-08-02T16:26:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили новий експериментальний проєкт Kakehashi, який дозволяє запускати бінарні файли macOS на системах Linux ARM у просторі користувача. Це відкриває цікаві можливості для кросплатформної сумісності.",
-      "ai_title": "Запуск програм macOS на Linux ARM за допомогою експериментальної утиліти Kakehashi",
-      "video_keywords": "programming code, typing on keyboard, dual monitor"
-    },
-    {
-      "title": "Xbox prices are increasing by up to €200 or £170",
-      "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-      "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to &#8364;200 or &#163;170. The 1TB Xbox Series X with a disc drive is [&#8230;]",
-      "published": "2026-08-02T16:14:20+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після оголошення чергового підвищення цін у США компанія Microsoft розкрила нові розцінки для Європейського Союзу та Великої Британії. Залежно від моделі, вартість ігрових консолей Xbox зросте суттєво — до 200 євро або 170 фунтів стерлінгів.",
-      "ai_title": "Microsoft підвищує ціни на ігрові консолі Xbox у Європі до 200 євро",
-      "video_keywords": "video game console, gaming controller, living room TV"
-    },
-    {
       "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
       "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
       "summary": "<p>Article URL: <a href=\"https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146605\">https://news.ycombinator.com/item?id=49146605</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
@@ -39,46 +9,6 @@
       "ai_summary": "Дослідження базується на даних, зібраних за допомогою мережі ханіпотів (honeypot). Автор аналізує методи, якими зловмисники намагаються викрасти SSH-облікові дані. Отримані інсайди допомагають краще зрозуміти актуальні вектори атак на сервери.",
       "ai_title": "Збір облікових даних SSH: аналіз роботи мережі пасток",
       "video_keywords": "server room, matrix code, cyber attack, computer monitor"
-    },
-    {
-      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-      "link": "https://github.com/graham33/nixos-dgx-spark",
-      "summary": "<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href=\"https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elI",
-      "published": "2026-08-02T17:05:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив новий проєкт NixOS-DGX-Spark, який дозволяє використовувати середовище Nix та операційну систему NixOS на обладнанні DGX Spark та сумісних пристроях Asus. У репозиторії доступні спеціальні USB-образи та модулі налаштування. Це полегшує керування конфігураціями на потужних робочих станціях.",
-      "ai_title": "Запуск NixOS на системах NVIDIA DGX Spark",
-      "video_keywords": "motherboard, microchip, soldering, computer hardware"
-    },
-    {
-      "title": "Pushes to arch AUR are suspendended right now.",
-      "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-      "summary": "<p>Article URL: <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/\">https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146238\">https://news.ycombinator.com/item?id=49146238</a></p>\n<p>Poin",
-      "published": "2026-08-02T17:03:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явилася інформація про зупинку пушів до репозиторію Arch User Repository (AUR). Користувачі тимчасово не можуть надсилати нові пакети чи оновлення. Адміністратори працюють над вирішенням технічних проблем платформи.",
-      "ai_title": "Тимчасове призупинення оновлень в архівах Arch AUR",
-      "video_keywords": "keyboard typing, programming screen, error message, computer desk"
-    },
-    {
-      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-      "summary": "<p>Article URL: <a href=\"https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/\">https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145883\">https://news.ycombinator.com/item?id=49145883</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-02T16:19:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор публікації ділиться досвідом зламу (rooting) та реверс-інжинірингу прошивки популярного роутера TP-Link TL-841N. Досліджено вразливості пристрою та способи збереження постійних облікових даних. Це корисний кейс для фахівців з кібербезпеки та вбудованих систем.",
-      "ai_title": "Отримання рут-прав та аналіз прошивки роутера TP-Link",
-      "video_keywords": "router, circuit board, electronics repair, magnifying glass"
-    },
-    {
-      "title": "How the words we teach English language learners changed",
-      "link": "https://pudding.cool/2026/07/essential-words/",
-      "summary": "<p>Article URL: <a href=\"https://pudding.cool/2026/07/essential-words/\">https://pudding.cool/2026/07/essential-words/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145590\">https://news.ycombinator.com/item?id=49145590</a></p>\n<p>Points: 112</p>\n<p># Comments: 53</p>",
-      "published": "2026-08-02T15:41:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інтерактивне дослідження демонструє еволюцію слів, які найчастіше викладають учням, що вивчають англійську як іноземну. Автори проаналізували, які лексичні мінімуми були актуальними радянськими чи минулими десятиліттями і які пріоритети панують сьогодні. Зміни показують адаптацію мови до сучасного глобального контексту.",
-      "ai_title": "Як змінився словниковий запас для вивчення англійської мови",
-      "video_keywords": "classroom, studying, dictionary, reading book"
     },
     {
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
@@ -663,6 +593,56 @@
       "ai_summary": "Месенджер Telegram ненадовго зник з App Store через проблеми з поширенням незаконного контенту, пов'язаного з насильством над дітьми. Додаток було відновлено після того, як розробники відреагували на вимоги модерації та усунули порушення.",
       "ai_title": "Apple тимчасово видалила Telegram з App Store через порушення",
       "video_keywords": "finger tapping smartphone screen, mobile phone interface, app store icon"
+    },
+    {
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "link": "https://arxiv.org/abs/2602.16763",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.16763\">https://arxiv.org/abs/2602.16763</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170915\">https://news.ycombinator.com/item?id=49170915</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-04T16:10:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники зафіксували систематичне насичення сучасних бенчмарків штучного інтелекту. Це означає, що існуючі тести більше не можуть адекватно оцінювати різницю в продуктивності між новітніми моделями, які досягають стелі можливостей у стандартних завданнях.",
+      "ai_title": "Штучний інтелект упирається в межі: чому сучасні бенчмарки втрачають актуальність",
+      "video_keywords": "computer screen, data chart, futuristic interface, analytics dashboard"
+    },
+    {
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "link": "https://toneyalexander.github.io/inclusive-color-space/",
+      "summary": "<p>Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the",
+      "published": "2026-08-04T15:16:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив простий алгоритм та спеціальний колірний простір для процедурної генерації різноманітних відтінків шкіри. Це рішення суттєво спрощує роботу над персонажами для інді-ігор та цифрових художників, які прагнуть до етнічного різноманіття у своїх проєктах.",
+      "ai_title": "Новий алгоритм для генерації реалістичних відтінків шкіри у цифровому мистецтві",
+      "video_keywords": "digital artist, drawing tablet, color palette, graphic design"
+    },
+    {
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "link": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "summary": "<p>Article URL: <a href=\"https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/\">https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170001\">https://news.ycombinator.com/item?id=491700",
+      "published": "2026-08-04T15:05:33+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Одна з найбільших онлайн-рекламних мереж Adform стала жертвою хакерської атаки. Цей інцидент знову підняв гостру дискусію в кіберспільноті про те, що рекламні мережі часто слугують вектором для впровадження шкідливого коду, роблячи блокувальники необхідністю.",
+      "ai_title": "Кібератака на рекламного гіганта Adform нагадує про важливість блокувачів реклами",
+      "video_keywords": "hacker typing, cybersecurity, warning screen, matrix code"
+    },
+    {
+      "title": "Samsung’s HDR10 Plus Advanced is launching this month on Prime Video",
+      "link": "https://www.theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video",
+      "summary": "After previewing HDR10 Plus Advanced late last year, Samsung's not-Dolby Vision 2 spec will launch globally on Amazon's Prime Video this month. The first TVs announced with support are Samsung's 2026 lineup, which will be able to make use of the extra metadata to deliver more precise HDR that is optimized for what you're watching, [&#8230;]",
+      "published": "2026-08-04T15:43:59+00:00",
+      "source": "The Verge",
+      "ai_summary": "Довгоочікуваний формат HDR10 Plus Advanced від Samsung офіційно дебютує на сервісі Amazon Prime Video вже цього місяця. Технологія використовує додаткові метадані для досягнення максимально точного та динамічного зображення на сутевих телевізорах бренду.",
+      "ai_title": "Samsung запускає новий формат HDR10 Plus Advanced на стрімінзі Prime Video",
+      "video_keywords": "smart tv, living room, watching movie, remote control"
+    },
+    {
+      "title": "Texas says data centers must pass an audit before connecting to the grid",
+      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [&#8230;]",
+      "published": "2026-08-04T15:33:21+00:00",
+      "source": "The Verge",
+      "ai_summary": "Влада Техасу зобов'язала нові дата-центри проходити суворий аудит перед тим, як підключатися до загальної електромережі. Губернатор штату видав відповідне розпорядження на тлі стрімкого зростання енергоспоживання серверну інфраструктуру штучного інтелекту.",
+      "ai_title": "Техас посилює правила для дата-центрів через навантаження на енергомережу",
+      "video_keywords": "server room, data center, electricity cables, power station"
     }
   ],
   "Бізнес / Стартапи": [
@@ -935,39 +915,59 @@
       "ai_summary": "Інфраструктурна компанія AI представила власний модульний дата-центр під назвою Sonic Inference Pod. Цей винахід має на меті перевірити, чи є мобільність майбутнім для сучасних центрів обробки даних.",
       "ai_title": "Runware створює портативний дата-центр для штучного інтелекту",
       "video_keywords": "server room, data center, computer hardware, glowing cables"
+    },
+    {
+      "title": "TV Time co-founder launches Bingers to revive the beloved TV tracking app",
+      "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
+      "summary": "After TV Time’s shutdown left millions of users searching for an alternative, one of the app’s original founders is back with Bingers, a new TV and movie tracker that revives the social features fans loved while adding support for importing their viewing history.",
+      "published": "2026-08-04T17:05:48+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Після закриття популярного сервісу TV Time один із його засновників повернувся з новою платформою Bingers для відстеження серіалів і фільмів. Застосунок відновлює улюблені соціальні функції фанатів та додає можливість імпортувати історію переглядів.",
+      "ai_title": "Співзасновник TV Time запускає новий застосунок Bingers",
+      "video_keywords": "smartphone app, person scrolling phone, watching television"
+    },
+    {
+      "title": "Hackers steal over $130 million by exploiting bug in offline hardware wallets",
+      "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+      "summary": "A security vulnerability in the cryptocurrency hardware wallet Coldcard is allowing hackers to drain the crypto from victims’ wallets. The total losses amount to more than $130 million, according to blockchain monitoring firms.",
+      "published": "2026-08-04T16:27:59+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Через уразливість безпеки в апаратних криптогаманцях Coldcard хакери отримали можливість виводити кошти користувачів. За даними блокчейн-аналітиків, загальна сума збитків уже перевищила 130 мільйонів доларів.",
+      "ai_title": "Хаккери вкрали понад $130 мільйонів через вразливість у криптогаманцях",
+      "video_keywords": "cryptocurrency hardware wallet, hacker typing on laptop, computer code on screen"
+    },
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+      "published": "2026-08-04T15:50:06+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Асоціація незалежних лейблів Merlin приєдналася до Universal Music Group у підтримці нового AI-продукту від Spotify. Платний інструмент дозволить фанатам створювати ремікси та кавери за допомогою штучного інтелекту зі збереженням авторських прав і виплат артистам.",
+      "ai_title": "Spotify розширює проєкт AI-реміксів завдяки партнерству з Merlin",
+      "video_keywords": "dj mixing music, music studio mixing console, person wearing headphones"
+    },
+    {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+      "published": "2026-08-04T15:42:35+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Через брак енергоресурсів та перевантаження енергосистеми влада Техасу вирішила призупинити появу нових дата-центрів. Губернатор штату вимагає проведення ретельних перевірок енергопостачання та інфраструктури.",
+      "ai_title": "Техас тимчасово зупиняє будівництво нових дата-центрів",
+      "video_keywords": "server racks, data center corridor, computer servers flashing lights"
+    },
+    {
+      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
+      "link": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
+      "summary": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
+      "published": "2026-08-04T15:38:22+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Роздрібний гігант Walmart офіційно завершив придбання платформи Vibe.co, про яке заявляли ще в червні. Цей крок інтегрує технології компанії у фірмову рекламну екосистему Walmart Connect дляconnected TV.",
+      "ai_title": "Walmart завершив поглинання рекламної компанії Vibe.co",
+      "video_keywords": "person watching smart tv, grocery store interior, digital advertising screen"
     }
   ],
   "Крипта": [
-    {
-      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-      "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-      "summary": "",
-      "published": "2026-08-02T16:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Генеральний директор компанії Fun зазначає, що наступне покоління криптоплатежів позбудеться технічних бар'єрів, таких як мережеві мости та платформи введення фіату. Це зробить використання криптовалюти для звичайних користувачів настільки ж простим, як і звичайні банківські перекази. Новий підхід має суттєво прискорити масове впровадження блокчейн-технологій у повсякденне життя.",
-      "ai_title": "Майбутнє криптоплатежів обійдеться без складних шлюзів та мостів",
-      "video_keywords": "smartphone, digital payment, credit card, modern office"
-    },
-    {
-      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
-      "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
-      "summary": "",
-      "published": "2026-08-02T17:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярний проєкт у сфері децентралізованих фінансів вирішив відмовитися від роботи з масовими користувачами. Тепер платформа фокусується на створенні «невидимого» бекенду для обслуговування великих технологічних компаній.",
-      "ai_title": "DeFi-платформа закриває споживчий додаток заради інфраструктури для техгігантів",
-      "video_keywords": "server room, data center, computer screens, glowing cables"
-    },
-    {
-      "title": "Counting down the days: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
-      "summary": "",
-      "published": "2026-08-02T18:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалютна індустрія на порозі важливих змін, які визначатимуть подальший розвиток технології блокчейн та ринку цифрових активів. Аналітики підбивають проміжні підсумки та оцінюють поточний стан екосистеми в очікуванні нових ринкових трендів.",
-      "ai_title": "Зворотний відлік до майбутнього: ключові тенденції у криптосвіті",
-      "video_keywords": "cryptocurrency chart, digital screen, financial dashboard, futuristic code"
-    },
     {
       "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
       "link": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1502,6 +1502,36 @@
       "ai_summary": "За даними компанії Galaxy, принаймні 15 різних груп хакерів використали вразливість у криптогаманцях Coldcard. Це ставить під загрозу безпеку користувачів, які покладаються на апаратне зберігання активів. Експерти закликають власників терміново оновити програмне забезпечення для захисту своїх коштів.",
       "ai_title": "Щонайменше 15 зловмисників скористалися вразливістю апаратних гаманців Coldcard",
       "video_keywords": "hardware wallet, USB device, computer security, hacker typing"
+    },
+    {
+      "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
+      "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+      "summary": "",
+      "published": "2026-08-04T15:47:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Банківський гігант Wells Fargo приєднався до JPMorgan та Citi у гонці за впровадження блокчейн-технологій у традиційні фінансові розрахунки. Це свідчить про поступову інтеграцію криптовалютних інструментів у класичну банківську систему.",
+      "ai_title": "Wells Fargo долучився до токенізації активів Волл-стріт",
+      "video_keywords": "bank building, financial district, stock exchange, digital screen"
+    },
+    {
+      "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
+      "link": "https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin coils at $64K as Hormuz reopening timeline sends S&amp;P 500 to $70T record\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-oil-firm-buys-into-blockchain-iran.png\" /></p><p>Bitcoin built on $64,000 as hopes of the Strait of Hormuz reopening to oil traffic sent the S&amp;P 500 index ",
+      "published": "2026-08-04T16:38:54+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс біткоїна стабілізувався близько 64 тисяч доларів, оскільки оптимізм щодо відкриття Ормузької протоки допоміг індексу S&P 500 досягти рекордних показників. Макроекономічні новини продовжують суттєво впливати на настрої криптовалютних інвесторів.",
+      "ai_title": "Біткоїн тримається біля позначки $64 000 на тлі рекордів фондового ринку",
+      "video_keywords": "bitcoin chart, cryptocurrency trading, stock market ticker, financial graphs"
+    },
+    {
+      "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
+      "link": "https://cointelegraph.com/news/bitdeer-ai-data-center-lease-norway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitdeer expands AI infrastructure with long-term $4.7B data center lease\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-137272-bitcoin-mining-company-bitdeer-lease-ohio-site.jpg\" /></p><p>A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting",
+      "published": "2026-08-04T15:50:20+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Bitdeer уклала довгострокову угоду на суму 4,7 мільярда доларів щодо оренди дата-центру. Нові потужності в Норвегії дозволять значно розширити можливості компанії у сфері обчислень для штучного інтелекту.",
+      "ai_title": "Bitdeer інвестує мільярди у розширення інфраструктури для штучного інтелекту",
+      "video_keywords": "server racks, data center, supercomputer, technology hardware"
     }
   ]
 }
