@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "EU rules on AI models become enforceable. What's going to change?",
-      "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change\">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147606\">https://news.ycombinator.com/item?id=49147606</a></p>\n<p>Points: 22</p>\n<p>",
-      "published": "2026-08-02T19:40:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Європейський Союз починає повноцінне примусове виконання правил для моделей штучного інтелекту. Нове законодавство суттєво змінить підходи розробників до безпеки, прозорості та дотримання авторських прав на території ЄС.",
-      "ai_title": "В ЄС набувають чинності нові правила регулювання штучного інтелекту",
-      "video_keywords": "european union flag, digital courtroom, cyber law, server room"
-    },
-    {
       "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
       "link": "https://github.com/0xchasercat/draco/",
       "summary": "<p>Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by Cloudflare.<p>I built Draco to fix this. It’s a fast, single-binary web scraper written in Rust. You point it at a URL, and it spits out perfectly clean Markd",
@@ -39,36 +29,6 @@
       "ai_summary": "Новий проєкт ЄС передбачає впровадження апаратної прив'язки для підтвердження віку користувачів. Це може суттєво змінити підходи до безпеки та конфіденційності пристроїв на європейському ринку.",
       "ai_title": "Євросоюз планує жорстку верифікацію віку на рівні апаратного забезпечення",
       "video_keywords": "microchip, computer hardware, motherboard, electronics"
-    },
-    {
-      "title": "Adding Go's Defer to the TypeScript Compiler",
-      "link": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-      "summary": "<p>Article URL: <a href=\"https://healeycodes.com/adding-defer-to-the-typescript-compiler\">https://healeycodes.com/adding-defer-to-the-typescript-compiler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147853\">https://news.ycombinator.com/item?id=49147853</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-02T20:12:39+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник поділився досвідом експериментального перенесення концепції відкладеного виконання (defer) із мови програмування Go до компілятора TypeScript. Це дозволяє оптимізувати роботу з ресурсами в коді.",
-      "ai_title": "Додавання оператора Defer до компілятора TypeScript",
-      "video_keywords": "typing on keyboard, software engineer, code editor, dual monitors"
-    },
-    {
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "link": "https://frogs.vaguespac.es/",
-      "summary": "<p>Article URL: <a href=\"https://frogs.vaguespac.es/\">https://frogs.vaguespac.es/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147622\">https://news.ycombinator.com/item?id=49147622</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>",
-      "published": "2026-08-02T19:42:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився новий креативний тест для оцінки генеративних моделей. Розробник пропонує штучному інтелекту створити SVG-зображення жаби з особливою анатомічною деталлю — щелепою Габсбургів.",
-      "ai_title": "Незвичайний бенчмарк для перевірки можливостей штучного інтелекту",
-      "video_keywords": "ai generation, digital art, computer screen, creative designer"
-    },
-    {
-      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-      "link": "https://github.com/paoloanzn/microcodex",
-      "summary": "<p>Article URL: <a href=\"https://github.com/paoloanzn/microcodex\">https://github.com/paoloanzn/microcodex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147842\">https://news.ycombinator.com/item?id=49147842</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-02T20:11:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий компактний асистент для написання коду на C++, розмір якого становить менше 1 мегабайта. Проєкт відтворює функціонал подібних інструментів, але вирізняється надзвичайно низькими системними вимогами. Це відкриває нові можливості для інтеграції штучного інтелекту в пристрої з обмеженими ресурсами.",
-      "ai_title": "Ультралегкий ШІ-агент MicroCodex",
-      "video_keywords": "computer screen, programming code, typing hands, minimalist workspace"
     },
     {
       "title": "AI poster wins Ohio State Fair contest",
@@ -673,29 +633,59 @@
       "ai_summary": "Розроблено новий проєкт cMCP, який дозволяє користувачам блокувати певні виклики інструментів штучного інтелекту та отримувати криптографічно підписану квитанцію. Це рішення підвищує рівень безпеки та прозорості під час взаємодії з автономними ШІ-агентами. Технологія дає розробникам більший контроль над виконанням задач.",
       "ai_title": "Новий інструмент контролю дій штучного інтелекту",
       "video_keywords": "cyber security, digital lock, computer code, data protection"
+    },
+    {
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "link": "https://edotenv.com/",
+      "summary": "<p>We are Rui and Michael and we’re building EdotEnv (<a href=\"https://edotenv.com\" rel=\"nofollow\">https://edotenv.com</a>): self-improving RL environments from Quant Trading workflows.<p>With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the ",
+      "published": "2026-08-04T18:36:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники запустили проєкт EdotEnv, який створює самовдосконалювані середовища навчання з підкріпленням на основі робочих процесів кількісної торгівлі. Це рішення покликане вирішити проблему насиченості сучасних бенчмарків та допомогти у тестуванні й покращенні великих мовних моделей.",
+      "ai_title": "Запуск EdotEnv: середовища навчання з підкріпленням для дослідження LLM",
+      "video_keywords": "artificial intelligence, computer screen, data charts, software code"
+    },
+    {
+      "title": "Waymo – Dallas Open to All",
+      "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "summary": "<p>Article URL: <a href=\"https://waymo.com/blog/shorts/dallas-open-to-all/\">https://waymo.com/blog/shorts/dallas-open-to-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172836\">https://news.ycombinator.com/item?id=49172836</a></p>\n<p>Points: 72</p>\n<p># Comments: 66</p>",
+      "published": "2026-08-04T18:29:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Waymo оголосила про розширення своєї послуги роботаксі у Далласі, зробивши її повністю доступною для широкої громадськості. Це черговий крок до масового впровадження автономного транспорту у великих містах США.",
+      "ai_title": "Waymo відкриває свої безпілотні таксі для всіх жителів Далласа",
+      "video_keywords": "autonomous car, self driving car, empty driver seat, street traffic"
+    },
+    {
+      "title": "Hop.earth – OpenStreetMap based car racing game",
+      "link": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+      "summary": "<p>Article URL: <a href=\"https://hop.earth/?server=lkhr7&amp;route=fQ5nuu9R\">https://hop.earth/?server=lkhr7&amp;route=fQ5nuu9R</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172405\">https://news.ycombinator.com/item?id=49172405</a></p>\n<p>Points: 40</p>\n<p># Comments: 24</p>",
+      "published": "2026-08-04T17:55:19+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явилася нова вебгра Hop.earth, яка перетворює реальні карткові дані OpenStreetMap на майданчик для автомобільних перегонів. Користувачі можуть змагатися на трасах, згенерованих на основі реальної географії.",
+      "ai_title": "Hop.earth — нова гоночна гра на основі OpenStreetMap",
+      "video_keywords": "video game, computer screen, racing game, keyboard playing"
+    },
+    {
+      "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
+      "link": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
+      "summary": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before contacting us,\" Durov says in a post on X. \"This creates a potential systemic risk for [&#8230;]",
+      "published": "2026-08-04T19:11:05+00:00",
+      "source": "The Verge",
+      "ai_summary": "Павло Дуров заявив, що тимчасове зникнення Telegram з App Store було спричинене діями зловмисників, які навмисно поширили заборонений контент у публічному чаті. За його словами, Apple видалила додаток без попереднього зв'язку з командою розробників.",
+      "ai_title": "Голова Telegram звинуватив вимагачів у спробі видалення застосунку з App Store",
+      "video_keywords": "smartphone screen, typing message, mobile app, person using phone"
+    },
+    {
+      "title": "How an OpenAI influencer trip backfired",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast [&#8230;]",
+      "published": "2026-08-04T17:46:41+00:00",
+      "source": "The Verge",
+      "ai_summary": "Організована OpenAI поїздка для блогерів та лідерів думок викликала хвилю критики в інтернет-спільноті. Подібні брендові заходи замість покращення репутації часто призводять до сусريльного засудження та заздрощів з боку незапрошених колег по цеху.",
+      "ai_title": "Як прес-тур OpenAI для інфлюенсерів обернувся скандалом",
+      "video_keywords": "influencer vlogging, smartphone camera, group of people talking, modern office"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
-      "link": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
-      "summary": "<p>If you have built anything with <a href=\"https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data?_gl=1*11in6e8*_up*MQ..*_ga*MTU3NzY5MzUzOS4xNzg1Njk1MzEy*_ga_SCH1J7LNKY*czE3ODU2OTUzMTEkbzEkZzAkdDE3ODU2OTUzMTEkajYwJGwwJGgyMDQ5NTU1MDM1*_ga_B8TDS1LEXQ*czE3ODU2OTUzMTEkbzEkZzAkdDE3ODU2OTUzMTEkajYwJGwwJGgxMTAwMzUxMjYx\">retrieval-augmented generation</a> (RAG) in the last",
-      "published": "2026-08-02T19:00:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Розробники штучного інтелекту часто стикаються з вибором між різними методами пошуку даних для покращення генерації тексту. Стаття пояснює, в яких саме випадках складні граф-структури дають значно кращі результати, ніж традиційний векторний підхід. Це допомагає оптимізувати роботу корпоративних систем та заощадити ресурси на обробку даних.",
-      "ai_title": "Коли GraphRAG перевершує векторний RAG: що треба знати розробникам",
-      "video_keywords": "data visualization, network graph, computer screen, developer coding"
-    },
-    {
-      "title": "The global memory shortage hits the MacBook Air",
-      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
-      "published": "2026-08-02T21:33:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Світова нестача чіпів пам'яті почала негативно впливати на доступність найпопулярнішого ноутбука від Apple. Дефіцит компонентів створює виклики для ланцюжків постачання компанії та може призвести до затримок з поставками.",
-      "ai_title": "Глобальний дефіцит пам'яті зачепив виробництво MacBook Air",
-      "video_keywords": "laptop assembly, computer factory, microchip production, electronics manufacturing"
-    },
     {
       "title": "Sam Altman and AI’s decel debate",
       "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
@@ -1015,6 +1005,46 @@
       "ai_summary": "Сучасні ШІ-агенти пишуть уже значну частину коду, проте це призводить до колосальних витрат на токени. Технологічні компанії змушені шукати баланс між ефективністю автоматизації та новими фінансовими ризиками.",
       "ai_title": "Штучний інтелект у програмуванні стрімко виснажує бюджети компаній",
       "video_keywords": "software engineer typing, computer monitor, office desk, programming code"
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "published": "2026-08-04T20:05:26+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий звіт показує, що нові відкриті ШІ-моделі наближаються за можливостями до передових систем, проте досі не мають необхідних запобіжників безпеки. Це відновлює побоювання експертів щодо того, що розвиток потужних відкритих технологій випереджає регулювання.",
+      "ai_title": "Відкриті ШІ-моделі наздогаждають лідерів, але створюють загрози безпеці",
+      "video_keywords": "server room, data center, artificial intelligence, computer screen"
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "published": "2026-08-04T19:48:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Anthropic продовжує активно розширювати партнерства у сфері хмарних технологій. Її черговим великим кроком стала угода на 10 мільярдів доларів із хмарним ШІ-стартапом Volta.",
+      "ai_title": "Anthropic інвестує 10 мільярдів у хмарний стартап Volta",
+      "video_keywords": "business handshake, corporate office, signing contract, financial district"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "published": "2026-08-04T19:34:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий мобільний додаток Wrinkles працює як персональний ШІ-гід. Він використовує штучний інтелект для створення аудіоекскурсій, які розкривають маловідомі історичні факти про локації поблизу.",
+      "ai_title": "Застосунок Wrinkles розповідає приховані історії про місця довкола вас",
+      "video_keywords": "smartphone screen, walking in city, tourist using phone, headphones walking"
+    },
+    {
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "published": "2026-08-04T19:28:49+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Створений за ініціативи Nvidia альянс Open Secure AI Alliance, що об'єднав понад 120 компаній, уже за тиждень після запуску представив перші пропозиції щодо захисту від автономних ШІ-агентів.",
+      "ai_title": "Альянс безпеки ШІ на чолі з Nvidia демонструє перші результати",
+      "video_keywords": "technology conference, business meeting, presentation screen, programmers collaborating"
     }
   ],
   "Крипта": [
@@ -1622,6 +1652,16 @@
       "ai_summary": "Незважаючи на ринкові коливання та тиск на акції емітента Circle, ключові гравці та інвестори продовжують демонструвати підтримку стейблкоїна USDC. Це свідчить про високу довіру до резервів компанії.",
       "ai_title": "Стежте за підтримкою: чому інвестори не відмовляються від USDC попри коливання ринку",
       "video_keywords": "stock market chart, digital coins, financial graphs, computer screen"
+    },
+    {
+      "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
+      "link": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom-1.jpg\" /></p><p>In a July 8 meeting, US and UK regulators highlighted the implement",
+      "published": "2026-08-04T19:58:48+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Під час спільних переговорів з фінансового регулювання представники США та Великої Британії підтвердили свою підтримку стейблкоїнів та токенізації активів. Це свідчить про поступову інтеграцію блокчейн-технологій у традиційну фінансову систему обох країн.",
+      "ai_title": "США та Велика Британія підтримали розвиток стейблкоїнів",
+      "video_keywords": "financial charts, digital currency, handshake, stock market screen"
     }
   ]
 }
