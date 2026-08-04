@@ -1,12 +1,4 @@
 {
-  "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/": {
-    "title": "Android може заблокувати роботу ADB безпосередньо на пристрої",
-    "category": "IT / AI",
-    "posted_at": "2026-07-27T08:06:04.787024+03:00",
-    "summary": "Компанія Google планує запровадити обмеження на використання інструменту налагодження Android Debug Bridge (ADB) безпосередньо всередині самої ОС. Це може ускладнити життя розробникам та ентузіастам, які звикли керувати пристроєм без підключення до ПК. Зміни спрямовані на підвищення загальної безпеки системи, але викликають занепокоєння у спільноти.",
-    "video_keywords": "smartphone screen, programmer hands, mobile phone, coding",
-    "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/"
-  },
   "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/": {
     "title": "Як одна аварія оголила кричущу проблему енергопостачання AI-датацентрів",
     "category": "Бізнес / Стартапи",
@@ -790,5 +782,13 @@
     "summary": "Після інциденту з безпекою гаманця Coldcard власники біткоїна масово почали переказувати кошти невеликими транзакціями. Аналітики CryptoQuant зафіксували найбільший обсяг таких рухів ще з часів краху біржі FTX.",
     "video_keywords": "hardware wallet, computer hacker, digital security, cryptocurrency code",
     "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/": {
+    "title": "Чому розробники радять уникати Tailwind CSS",
+    "category": "IT / AI",
+    "posted_at": "2026-08-04T08:33:04.704298+03:00",
+    "summary": "У новому технічному блозі автор детально пояснює причини, чому він більше не рекомендує використовувати популярний фреймворк Tailwind CSS у проєктах. Стаття викликала активне обговорення серед веб-розробників щодо зручності та ефективності сучасних інструментів стилізації.",
+    "video_keywords": "computer screen, programming code, typing keyboard, developer workspace",
+    "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/"
   }
 }
