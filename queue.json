@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-      "link": "https://github.com/0xchasercat/draco/",
-      "summary": "<p>Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by Cloudflare.<p>I built Draco to fix this. It’s a fast, single-binary web scraper written in Rust. You point it at a URL, and it spits out perfectly clean Markd",
-      "published": "2026-08-02T20:48:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено альтернативу популярним сервісам вебскрапінгу на зразок Firecrawl. Інструмент написаний мовою Rust, працює у вигляді єдиного бінарного файлу та ефективно обходить захист Cloudflare без надмірного споживання пам'яті.",
-      "ai_title": "Draco: новий швидкий вебскрапер на Rust",
-      "video_keywords": "coding, laptop screen, programmer, terminal"
-    },
-    {
-      "title": "AI Mania: From Tulips to Tokens",
-      "link": "https://seanhelvey.com/tools-and-their-tools/",
-      "summary": "<p>Article URL: <a href=\"https://seanhelvey.com/tools-and-their-tools/\">https://seanhelvey.com/tools-and-their-tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49148159\">https://news.ycombinator.com/item?id=49148159</a></p>\n<p>Points: 21</p>\n<p># Comments: 9</p>",
-      "published": "2026-08-02T20:48:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналітичний погляд на сучасний бум навколо штучного інтелекту. Автор порівнює поточну ситуацію на ринку технологій із історичними фінансовими бульбашками, зокрема тюльпаноманією.",
-      "ai_title": "Штучний інтелект: від манії до реальних токенів",
-      "video_keywords": "stock market, graphs, digital coins, financial chart"
-    },
-    {
-      "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
-      "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-      "summary": "<p>Article URL: <a href=\"https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/\">https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49148128\">https://news.ycombinator.com/item?id=49148128</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-02T20:44:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий проєкт ЄС передбачає впровадження апаратної прив'язки для підтвердження віку користувачів. Це може суттєво змінити підходи до безпеки та конфіденційності пристроїв на європейському ринку.",
-      "ai_title": "Євросоюз планує жорстку верифікацію віку на рівні апаратного забезпечення",
-      "video_keywords": "microchip, computer hardware, motherboard, electronics"
-    },
-    {
       "title": "AI poster wins Ohio State Fair contest",
       "link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
       "summary": "<p>Article URL: <a href=\"https://www.ohiostatefair.com/p/get-involved/arts/poster-contest\">https://www.ohiostatefair.com/p/get-involved/arts/poster-contest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149188\">https://news.ycombinator.com/item?id=49149188</a></p>\n<p>Points: 31</p>\n<p># Comments: 11</p>",
@@ -683,19 +653,39 @@
       "ai_summary": "Організована OpenAI поїздка для блогерів та лідерів думок викликала хвилю критики в інтернет-спільноті. Подібні брендові заходи замість покращення репутації часто призводять до сусريльного засудження та заздрощів з боку незапрошених колег по цеху.",
       "ai_title": "Як прес-тур OpenAI для інфлюенсерів обернувся скандалом",
       "video_keywords": "influencer vlogging, smartphone camera, group of people talking, modern office"
+    },
+    {
+      "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gaming revenue fell 31 [&#8230;]",
+      "published": "2026-08-04T20:57:49+00:00",
+      "source": "The Verge",
+      "ai_summary": "Доходи AMD від датацентрів подвоїлися порівняно з минулим роком і досягли 6,7 мільярда доларів на тлі шаленого попиту на обчислювальні потужності для ШІ. Водночас ігровий підрозділ компанії демонструє спад, оскільки всі зусилля спрямовуються на розвиток штучного інтелекту.",
+      "ai_title": "Датацентр-бізнес AMD стрімко зростає завдяки штучному інтелекту",
+      "video_keywords": "server room, microchip, computer hardware, glowing servers"
+    },
+    {
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
+      "published": "2026-08-04T20:47:55+00:00",
+      "source": "The Verge",
+      "ai_summary": "Згідно з квартальним звітом, доходи SpaceX від ШІ потроїлися і склали 2,6 мільярда доларів. Цього вдалося досягти завдяки наданню обчислювальних потужностей іншим компаніям, що тепер приносить більше прибутку, ніж традиційний космічний бізнес.",
+      "ai_title": "SpaceX заробляє на штучному інтелекті більше, ніж на космічних запусках",
+      "video_keywords": "server rack, satellite dish, rocket launch, computer monitors"
+    },
+    {
+      "title": "EA is now a private company",
+      "link": "https://www.theverge.com/games/974736/ea-private-company-deal-closed",
+      "summary": "Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners would be taking the company private in a $55 billion deal, and on Tuesday, EA said the deal successfully closed. The PIF will reportedly own 93.4 [&#8230;]",
+      "published": "2026-08-04T20:18:14+00:00",
+      "source": "The Verge",
+      "ai_summary": "Ігровий гігант Electronic Arts офіційно завершив перехід у статус приватної компанії. Угоду про викуп профінансувала група інвесторів, серед яких фонд із Саудівської Аравії та інвестиційні компанії Silver Lake і Affinity Partners.",
+      "ai_title": "Electronic Arts стала приватною компанією після угоди на 55 мільярдів",
+      "video_keywords": "person playing video game, glowing neon controller, gamer headset, gaming monitor"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "published": "2026-08-02T20:54:22+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "В останньому епізоді подкасту Equity експерти обговорюють несподіваний заклик Сема Альтмана до індустрії знизити темпи розробки ШІ. Це викликає дискусії про безпеку нових технологій та готовність суспільства до таких масштабних змін.",
-      "ai_title": "Сем Альтман закликає уповільнити темпи розвитку штучного інтелекту",
-      "video_keywords": "modern office, business meeting, presentation screen, corporate boardroom"
-    },
     {
       "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
       "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
@@ -1045,19 +1035,39 @@
       "ai_summary": "Створений за ініціативи Nvidia альянс Open Secure AI Alliance, що об'єднав понад 120 компаній, уже за тиждень після запуску представив перші пропозиції щодо захисту від автономних ШІ-агентів.",
       "ai_title": "Альянс безпеки ШІ на чолі з Nvidia демонструє перші результати",
       "video_keywords": "technology conference, business meeting, presentation screen, programmers collaborating"
+    },
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "published": "2026-08-04T21:07:26+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Цього року компанія Ілона Маска SpaceX інвестувала сотні мільйонів у закупівлю промислових акумуляторів Tesla Megapacks. Це черговий приклад тісного фінансового та операційного зв'язку між бізнесами американського мільярдера.",
+      "ai_title": "SpaceX придбала акумуляторів Tesla на понад 300 мільйонів доларів",
+      "video_keywords": "battery storage, industrial facility, solar energy, modern warehouse"
+    },
+    {
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+      "published": "2026-08-04T20:36:30+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Аерокосмічна компанія продемонструвала дворазове зростання прибутків порівняно з минулим роком. Головними драйверами стали угоди у сфері обчислювальних потужностей з Google та Anthropic, а також стрімке поширення супутникового інтернету.",
+      "ai_title": "SpaceX подвоїла доходи завдяки контрактам зі штучним інтелектом та розвитку Starlink",
+      "video_keywords": "satellite dish, server room, data center, rocket launch"
+    },
+    {
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app.",
+      "published": "2026-08-04T20:26:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Дослідження правозахисників виявили серйозну проблему у сторонньому коді, який використовують розробники. Через це рекламні мережі можуть отримувати доступ до даних про місцеперебування користувачів без їхнього відомого дозволу.",
+      "ai_title": "Додатки для Android можуть випадково зливати геолокацію користувачів",
+      "video_keywords": "smartphone screen, mobile app, person tapping phone, digital security"
     }
   ],
   "Крипта": [
-    {
-      "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
-      "link": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/1-august.jpg\" /></p><p>The “sickening” loss of $90 million of Bitcoin from cold storage weighs heavily on sentiment, as the Clarity Act stalls with ",
-      "published": "2026-08-02T23:44:04+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Масштабна крадіжка біткоїнів з холодних гаманців на 90 мільйонів доларів серйозно вплинула на настрої інвесторів. Водночас експерти відзначають загалом бичачу тенденцію до консолідації криптовалютного ринку на тлі затримки прийняття закону Clarity Act.",
-      "ai_title": "Вразливість Coldcard провокує відтік біткоїнів та консолідацію ринку",
-      "video_keywords": "hardware wallet, cryptocurrency coins, computer screen, security breach"
-    },
     {
       "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
       "link": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1662,6 +1672,16 @@
       "ai_summary": "Під час спільних переговорів з фінансового регулювання представники США та Великої Британії підтвердили свою підтримку стейблкоїнів та токенізації активів. Це свідчить про поступову інтеграцію блокчейн-технологій у традиційну фінансову систему обох країн.",
       "ai_title": "США та Велика Британія підтримали розвиток стейблкоїнів",
       "video_keywords": "financial charts, digital currency, handshake, stock market screen"
+    },
+    {
+      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+      "link": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+      "summary": "",
+      "published": "2026-08-04T20:26:21+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Ілона Маска SpaceX перевершила прогнози Волл-стріт щодо доходів, проте задекларувала збитки у розмірі 540 мільйонів доларів через знецінення своїх криптовалютних активів. Це підкреслює фінансові ризики, з якими стикаються корпорації, інвестуючи у волатильний біткоїн.",
+      "ai_title": "SpaceX зафіксувала збитки через інвестиції в біткоїн",
+      "video_keywords": "bitcoin coins, cryptocurrency trading screen, corporate finance office, rocket launch background"
     }
   ]
 }
