@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The time filter in Google Search broke a few days ago",
-      "link": "https://mastodon.online/@mwichary/117023736804129342",
-      "summary": "<p>Article URL: <a href=\"https://mastodon.online/@mwichary/117023736804129342\">https://mastodon.online/@mwichary/117023736804129342</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142458\">https://news.ycombinator.com/item?id=49142458</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-02T08:48:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі помітили технічну несправність у пошуковій системі Google, де тимчасово перестала коректно працювати фільтрація результатів за часом. Ця проблема ускладнила пошук свіжих новин та актуальних матеріалів за останні дні.",
-      "ai_title": "Збій у роботі часового фільтра в пошуку Google",
-      "video_keywords": "person typing, laptop screen, magnifying glass, searching internet"
-    },
-    {
-      "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-      "link": "https://github.com/syncular/syncular",
-      "summary": "<p>Article URL: <a href=\"https://github.com/syncular/syncular\">https://github.com/syncular/syncular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142794\">https://news.ycombinator.com/item?id=49142794</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
-      "published": "2026-08-02T09:48:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розгорнуто новий проєкт Syncular, який фокусується на першочерговій офлайн-синхронізації баз даних SQL. Ядро інструменту написано на швидкодійних мовах TypeScript та Rust для забезпечення надійності. Це рішення спрощує роботу з локальними даними та їх подальшу синхронізацію в розподілених середовищах.",
-      "ai_title": "Syncular — офлайн-системи синхронізації SQL на TypeScript та Rust",
-      "video_keywords": "programmer typing, dual monitors, code editor, software development"
-    },
-    {
-      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-      "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "summary": "<p>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, ",
-      "published": "2026-08-02T09:06:33+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено реліз Bor 0.8 — відкриту систему для централізованого керування робочими столами Linux. Архітектура складається з легкого агента на Go та центрального сервера, які передають політики в реальному часі через mTLS/gRPC. Інструмент вже підтримує популярні браузери, середовища KDE та пакети оновлень.",
-      "ai_title": "Bor: новий відкритий інструмент для керування політиками в Linux",
-      "video_keywords": "linux terminal, computer screen, server rack, typing code"
-    },
-    {
-      "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
-      "link": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
-      "summary": "<p>Article URL: <a href=\"https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html\">https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143053\">https://news.ycombinator.com/item?id=49143053</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-02T10:25:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналізується історичний досвід Промислової революції як потенційний орієнтир для прогнозування стрімкого економічного та технологічного зростання. Дослідники порівнюють темпи минулих інновацій з епохою швидкого розвитку штучного інтелекту. Це допомагає зрозуміти можливі наслідки вибухового технологічного стрибка для суспільства.",
-      "ai_title": "Чи є Промислова революція прикладом для сучасного штучного інтелекту?",
-      "video_keywords": "factory gears, industrial machinery, historical steam engine, modern technology"
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "link": "https://publicdomainreview.org/essay/ars-notoria/",
-      "summary": "<p>Article URL: <a href=\"https://publicdomainreview.org/essay/ars-notoria/\">https://publicdomainreview.org/essay/ars-notoria/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143001\">https://news.ycombinator.com/item?id=49143001</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-02T10:18:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розглядається концепція «Ars Notoria» у контексті прагнення людства до миттєвого опанування знань. Автор проводить паралелі між середньовічними містичними практиками навчання та сучасними можливостями штучного інтелекту. Стаття досліджує одвічне бажання людей знайти швидкий шлях до інформації.",
-      "ai_title": "Штучний інтелект та ідея миттєвих знань крізь призму історії",
-      "video_keywords": "ancient book, turning pages, library shelves, old manuscript"
-    },
-    {
       "title": "Generative AI floods and dilutes the market for books",
       "link": "https://arxiv.org/abs/2607.20349",
       "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.20349\">https://arxiv.org/abs/2607.20349</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143289\">https://news.ycombinator.com/item?id=49143289</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
@@ -653,6 +603,56 @@
       "summary": "<p>Article URL: <a href=\"https://openai.com/index/apple-is-getting-this-wrong/\">https://openai.com/index/apple-is-getting-this-wrong/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49164649\">https://news.ycombinator.com/item?id=49164649</a></p>\n<p>Points: 144</p>\n<p># Comments: 127</p>",
       "published": "2026-08-04T05:32:13+00:00",
       "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "link": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ryanzhou/deepseek-v4-flash-mi300x\">https://github.com/ryanzhou/deepseek-v4-flash-mi300x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166386\">https://news.ycombinator.com/item?id=49166386</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-04T10:00:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники оптимізували нову модель штучного інтелекту DeepSeek V4 Flash для запуску на єдиному апаратному прискорювачі AMD MI300X. Це значно спрощує розгортання потужних AI-систем без потреби у великих серверних кластерах.",
+      "ai_title": "DeepSeek V4 Flash адаптовано для роботи на одному чіпі AMD MI300X",
+      "video_keywords": "computer processor, microchip, servers, hardware engineering"
+    },
+    {
+      "title": "FFmpeg 9.0",
+      "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "summary": "<p>Article URL: <a href=\"https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES\">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166202\">https://news.ycombinator.com/item?id=49166202</a></p>\n<p>Points: 125</p>\n<p># Comments: 11</p>",
+      "published": "2026-08-04T09:30:33+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Вийшов новий реліз популярного інструменту для обробки відео та аудіо FFmpeg 9.0. Оновлення містить чисельні оптимізації, підтримку нових кодеків та покращення стабільності для розробників і системних адміністраторів.",
+      "ai_title": "Реліз нової мажорної версії мультимедійного пакету FFmpeg 9.0",
+      "video_keywords": "coding screen, programming, terminal, software developer"
+    },
+    {
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "link": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+      "summary": "<p>Article URL: <a href=\"https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal\">https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166182\">https://news.ycombinator.com/item?id=49166182</a></p>\n<p>Po",
+      "published": "2026-08-04T09:27:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Італійська технологічна компанія Bending Spoons оголосила про придбання платформи Airtable за 1,3 мільярда доларів. Це перша велика угода компанії після виходу на біржу, спрямована на розширення портфоліо бізнес-софту.",
+      "ai_title": "Bending Spoons купує платформу Airtable за 1,3 мільярда доларів",
+      "video_keywords": "business meeting, corporate office, handshake, financial graphs"
+    },
+    {
+      "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+      "link": "https://pedroth.github.io/?p=post/NoNeedReact",
+      "summary": "<p>Article URL: <a href=\"https://pedroth.github.io/?p=post/NoNeedReact\">https://pedroth.github.io/?p=post/NoNeedReact</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165665\">https://news.ycombinator.com/item?id=49165665</a></p>\n<p>Points: 40</p>\n<p># Comments: 30</p>",
+      "published": "2026-08-04T08:11:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники все частіше звертають увагу на альтернативи складним фреймворкам для веб-розробки. Нова стаття демонструє, як написати власну легку бібліотеку інтерфейсів на Vanilla JavaScript без використання важкого стека React.",
+      "ai_title": "Створення мінімалістичної UI-бібліотеки на чистому JavaScript без React",
+      "video_keywords": "web development, typing code, laptop screen, developer hands"
+    },
+    {
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't [&#8230;]",
+      "published": "2026-08-04T10:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Платформа Reddit зіткнулася зі зростаючою кількістю фейкових та згенерованих ботами коментарів з метою SEO-просування. Модератори та алгоритми намагаються стримати наплив штучного контенту, який імітує реальних користувачів.",
+      "ai_title": "Reddit бореться з новою хвилею спаму від штучного інтелекту",
+      "video_keywords": "typing on keyboard, social media feed, smartphone screen, security alert"
     }
   ],
   "Бізнес / Стартапи": [
@@ -888,26 +888,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
-      "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg\" /></p><p>Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with",
-      "published": "2026-08-02T09:29:15+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Trump Media перевела на біржу Crypto.com чергову партію біткоїнів. За останні місяці загальний обсяг проданих резервів суттєво зріс, залишивши на балансі компанії дещо більше чотирьох тисяч монет.",
-      "ai_title": "Trump Media продовжує розпродавати свої біткоїн-активи",
-      "video_keywords": "cryptocurrency trading, bitcoin graph, digital wallet, stock market crash"
-    },
-    {
-      "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-      "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
-      "summary": "",
-      "published": "2026-08-02T12:03:51+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "На тлі крадіжки 89 мільйонів доларів через вразливість апаратного гаманця Coldcard криптоінвестори почали масово виводити активи назад на централізовані біржі. Ця тенденція демонструє зростання занепокоєння щодо безпеки самостійного зберігання криптовалюти серед власників великих капіталів.",
-      "ai_title": "Втеча з холодних гаманців: інвестори масово повертають біткоїни на біржі після гучного злому",
-      "video_keywords": "bitcoin coins, cryptocurrency exchange, digital wallet, person typing on laptop"
-    },
     {
       "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
       "link": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1342,6 +1322,56 @@
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NY judge denies CFTC motion to halt enforcement action against Kalshi\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/b-lawsuit-kalshi-2.jpg\" /></p><p>The ruling leaves New York’s case against Kalshi in place while allowing the CFTC to renew its request before Judge Victor Marrero.</p>",
       "published": "2026-08-04T07:49:22+00:00",
       "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
+      "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
+      "summary": "",
+      "published": "2026-08-04T10:03:24+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фінансовий гігант BlackRock розширює можливості блокчейн-технологій, пропонуючи європейським інвесторам токенізований доступ до масштабних фондів грошового ринку. Це значний крок до інтеграції традиційних фінансів із цифровими активами.",
+      "ai_title": "BlackRock запускає токенізовані фонди в Європі на $311 мільярдів",
+      "video_keywords": "stock market graphs, digital currency screen, financial district, modern office building"
+    },
+    {
+      "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
+      "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
+      "summary": "",
+      "published": "2026-08-04T09:54:02+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Один із перших американських спотових біткоїн-фондів згортає свою роботу на тлі зниження інтересу інвесторів. Кошти масово перенаправляються в інші сектори, зокрема в перспективну галузь штучного інтелекту.",
+      "ai_title": "Перший спотовий біткоїн-ETF у США закривається через відтік капіталу",
+      "video_keywords": "stock exchange board, falling chart, modern computer screen, businessman worried"
+    },
+    {
+      "title": "Live updates: Bitcoin at $63,600 as rare US-Japan yen action tests carry-trade fears",
+      "link": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
+      "summary": "",
+      "published": "2026-08-04T08:41:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Різкі дії США та Японії щодо курсу єни створюють напругу на глобальних ринках і тестують стійкість трейдерів. Попри це, перша криптовалюта демонструє стабільність біля позначки у 63 600 доларів.",
+      "ai_title": "Біткоїн тримається на рівні $63 600 на тлі валютних інтервенцій",
+      "video_keywords": "bitcoin coin, glowing crypto chart, financial trading terminal, currency exchange"
+    },
+    {
+      "title": "Former FBI supervisor admits guilt in $1M crypto theft",
+      "link": "https://cointelegraph.com/news/former-fbi-supervisor-charged-1m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former FBI supervisor admits guilt in $1M crypto theft\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-nexfundai-the-fbis-trap-token-explained-2.jpg\" /></p><p>A former FBI supervisory agent pleaded guilty to stealing about $1 million worth of digital assets from an adversarial country and f",
+      "published": "2026-08-04T10:30:56+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Колишній високопоставлений співробітник ФБР зізнався у привласненні цифрових активів вартістю близько мільйона доларів. Крадіжка була здійснена під час розслідування у справі проти іноземної держави.",
+      "ai_title": "Екссупервізор ФБР визнав провину у крадіжці криптовалюти на мільйон доларів",
+      "video_keywords": "police badge, handcuffs, court gavel, digital security lock"
+    },
+    {
+      "title": "Apple briefly removes Telegram from App Store, Gram rebounds",
+      "link": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Apple briefly removes Telegram from App Store, Gram rebounds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-telegram-ban.jpg\" /></p><p>Apple restored Telegram after the messaging platform removed content that violated its child safety policies and banned the user who posted it.</p>",
+      "published": "2026-08-04T08:03:03+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Apple на короткий час заблокувала месенджер Telegram у своєму магазині додатків через порушення правил безпеки контенту. Після видалення проблемних матеріалів та блокування порушника доступ до додатку було відновлено.",
+      "ai_title": "Apple тимчасово видалила Telegram із App Store через політику безпеки",
+      "video_keywords": "smartphone screen, typing message, modern phone in hand, app store icon"
     }
   ]
 }
