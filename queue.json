@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "link": "https://github.com/johnsonjh/cpm386",
-      "summary": "<p>Article URL: <a href=\"https://github.com/johnsonjh/cpm386\">https://github.com/johnsonjh/cpm386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149898\">https://news.ycombinator.com/item?id=49149898</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-03T00:38:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У відкритому доступі з'явився новий проєкт CP/M-386, який переносить історичну операційну систему на архітектуру x86 у захищеному режимі. Це цікава спроба дати друге дихання застарілим концепціям програмування на сучаснішому «залізі».",
-      "ai_title": "Ентузіаст адаптував легендарну ОС CP/M для захищеного режиму процесорів 386",
-      "video_keywords": "vintage computer, retro electronics, circuit board, soldering"
-    },
-    {
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "summary": "<p>Article URL: <a href=\"https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/\">https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149746\">https://news.ycombinator.com/item?id=49149746</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
-      "published": "2026-08-03T00:12:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технічний блог розбирає проблеми інтеграції локальних фізичних ініціатив, таких як громадські полиці для обміну книгами, з глобальними картографічними сервісами. Автор пояснює складність оновлення даних та технічні бар'єри на шляху таких проєктів.",
-      "ai_title": "Чому вуличні книжкові полиці не синхронізуються з OpenStreetMap",
-      "video_keywords": "street map, GPS navigation, digital tablet, outdoor reading"
-    },
-    {
       "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
       "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
       "summary": "<p>Article URL: <a href=\"https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda\">https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda</a></p>\n<p>Comments URL: <a href=\"https://",
@@ -698,6 +678,56 @@
       "ai_summary": "Популярний месенджер Signal додав довгоочікувану функцію безпечного зв'язку кількох смартфонів з одним номером. Тепер користувачі можуть синхронізувати повідомлення на різних пристроях, включаючи додаткові смартфони на Android та iOS.",
       "ai_title": "Signal дозволив підключати кілька телефонів до одного акаунта",
       "video_keywords": "smartphone screens, messaging app, typing on phone, multiple phones"
+    },
+    {
+      "title": "Flowise Is Shutting Down",
+      "link": "https://flowiseai.com/sunset",
+      "summary": "<p>Article URL: <a href=\"https://flowiseai.com/sunset\">https://flowiseai.com/sunset</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176920\">https://news.ycombinator.com/item?id=49176920</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-05T00:02:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярна платформа для розробки штучного інтелекту Flowise офіційно припиняє свою роботу та закривається. Розробники повідомили користувачів прогортання проєкту та майбутній статус sunset.",
+      "ai_title": "Платформа Flowise оголосила про закриття проєкту",
+      "video_keywords": "computer screen, dashboard, error message, office desk"
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "link": "https://queue.acm.org/detail.cfm?id=3807963",
+      "summary": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3807963\">https://queue.acm.org/detail.cfm?id=3807963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176830\">https://news.ycombinator.com/item?id=49176830</a></p>\n<p>Points: 38</p>\n<p># Comments: 12</p>",
+      "published": "2026-08-04T23:50:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова стаття аналізує поширені омани щодо впливу генеративного штучного інтелекту на інженерію програмного забезпечення. Експерти розвінчують міфи про повну автоматизацію кодингу та реальні можливості сучасних моделей.",
+      "ai_title": "Вісім головних міфів про розробку ПЗ та генеративний ШІ",
+      "video_keywords": "developer typing, dual monitors, source code, abstract tech background"
+    },
+    {
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "summary": "<p>Article URL: <a href=\"https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\">https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176697\">https://news.ycombinator.com/item?id=49176697</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-04T23:31:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники виявили вразливість у WebKit, через яку відбувається витік реальних IP-адрес та DNS-даних. Це ставить під загрозу конфіденційність користувачів сервісів на кшталт iCloud Private Relay та спеціалізованих проксі-браузерів.",
+      "ai_title": "Витік IP та DNS у рушії WebKit загрожує проксі-браузерам і iCloud Private Relay",
+      "video_keywords": "cyber security, data leak, padlock icon, digital hacking"
+    },
+    {
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "summary": "<p>Article URL: <a href=\"https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/\">https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176644\">https://news.ycombinator.com/item?id=49176644</a></p>\n<p>Points: 31</p>\n<p># Comments: 21</p>",
+      "published": "2026-08-04T23:22:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти з безпеки з'ясували існування невідомого раніше поверхні атак у системах безпарольного входження за допомогою Passkeys. Стаття детально описує ризики та потенційні загрози для сучасних стандартів авторизації.",
+      "ai_title": "Новий вектор атак на безпарольну аутентифікацію через Passkeys",
+      "video_keywords": "smartphone fingerprint, facial recognition, login screen, security lock"
+    },
+    {
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "link": "https://seg6.space/posts/center-div/",
+      "summary": "<p>Article URL: <a href=\"https://seg6.space/posts/center-div/\">https://seg6.space/posts/center-div/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176055\">https://news.ycombinator.com/item?id=49176055</a></p>\n<p>Points: 47</p>\n<p># Comments: 34</p>",
+      "published": "2026-08-04T22:24:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Гумористична та водночас практична розвідка про вічні виклики вебдизайну. Автори іронізують над тим, що поки програмісти опановували вирівнювання елементів через CSS, самі браузери ускладнили інтерфейс новими боковими панелями.",
+      "ai_title": "Розробники нарешті навчилися центрувати div, але браузери додали сайдбари",
+      "video_keywords": "web designer, laptop screen, css code, user interface"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1103,16 +1133,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
-      "link": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-wallets-btc-wallet-inaccessible.jpg\" /></p><p>The five-year bug escaped detection because auditors verified that the intended random number generator e",
-      "published": "2026-08-03T04:09:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "П'ятирічний прихований дефект у популярному апаратному гаманці Coldcard залишався непоміченим через недосконалість процедур аудиту. Експерти з безпеки біржі Kraken наголошують на необхідності суворіших перевірок генераторів випадкових чисел.",
-      "ai_title": "Ув'язнена у гаманці Coldcard вразливість оголила проблеми тестування криптозахисту",
-      "video_keywords": "hardware wallet, circuit board, soldering iron, cybersecurity"
-    },
     {
       "title": "South Korean stablecoin outflows top $367M in June: Report",
       "link": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
