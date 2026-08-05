@@ -1,12 +1,4 @@
 {
-  "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58": {
-    "title": "Криптобіржа BitMart закривається після 9 років роботи",
-    "category": "Крипта",
-    "posted_at": "2026-07-28T07:29:29.100012+03:00",
-    "summary": "Відома криптовалютна біржа BitMart оголосила про згортання своєї діяльності після того, як її нативний токен BMX обвалився на 58%. Користувачі почали масово повідомляти про затримки з виведенням коштів, а остаточне припинення торгівлі заплановане на серпень.",
-    "video_keywords": "closed storefront, security gate, padlock, empty office",
-    "link": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58"
-  },
   "https://astral.sh/blog/ruff-v0.16.0": {
     "title": "Реліз Ruff v0.16.0: маштабне оновлення швидкого лінтера для Python",
     "category": "IT / AI",
@@ -798,5 +790,13 @@
     "summary": "П'ятирічний прихований дефект у популярному апаратному гаманці Coldcard залишався непоміченим через недосконалість процедур аудиту. Експерти з безпеки біржі Kraken наголошують на необхідності суворіших перевірок генераторів випадкових чисел.",
     "video_keywords": "hardware wallet, circuit board, soldering iron, cybersecurity",
     "link": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md": {
+    "title": "Нові цілі проекту Rust: нерухомі типи та деструктори",
+    "category": "IT / AI",
+    "posted_at": "2026-08-05T07:41:03.561967+03:00",
+    "summary": "Команда мови програмування Rust окреслила ключові плани на майбутнє, що стосуються роботи з пам'яттю та новими концептами типів. Зокрема, розглядається впровадження нерухомих типів та гарантованих деструкторів для покращення безпеки коду. Це допоможе розробникам створювати ще більш надійні системні застосунки.",
+    "video_keywords": "programming code, computer screen, software developer, typing",
+    "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
   }
 }
