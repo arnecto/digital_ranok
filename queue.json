@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Don't be a meat proxy",
-      "link": "https://gruhn.me/blog/2026-08-03/",
-      "summary": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-03/\">https://gruhn.me/blog/2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151933\">https://news.ycombinator.com/item?id=49151933</a></p>\n<p>Points: 322</p>\n<p># Comments: 137</p>",
-      "published": "2026-08-03T06:28:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття порушує важливу етичну та професійну проблему сучасної розробки з використанням AI. Автор закликає програмістів не сліпо копіювати згенерований штучним інтелектом код, а зберігати критичне мислення та глибоке розуміння архітектури. Автоматизація має допомагати інженеру, а не перетворювати його на просту ланку передачі чужих помилок.",
-      "ai_title": "Чому розробникам не варто перетворюватися на \"м'ясних проксі\" для штучного інтелекту",
-      "video_keywords": "frustrated worker, typing keyboard, modern office, stressed programmer"
-    },
-    {
-      "title": "More German than many Germans",
-      "link": "https://mertbulan.com/more-german-than-many-germans/",
-      "summary": "<p>Article URL: <a href=\"https://mertbulan.com/more-german-than-many-germans/\">https://mertbulan.com/more-german-than-many-germans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151734\">https://news.ycombinator.com/item?id=49151734</a></p>\n<p>Points: 166</p>\n<p># Comments: 61</p>",
-      "published": "2026-08-03T06:00:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Цікаве дослідження аналізує особливості адаптації цифрових систем та моделей під культурний і мовний контекст Німеччини. Технології стикаються з унікальними викликами локалізації, де точність і дотримання місцевих стандартів грають вирішальну роль. Це демонструє, як штучний інтелект поступово опановує тонкощі європейських культур.",
-      "ai_title": "Як алгоритми вчаться звучати і діяти \"по-німецькому\"",
-      "video_keywords": "berlin street, german flag, europe city, digital tablet"
-    },
-    {
       "title": "Critical CVE issued for hallucinated SQLite vulnerability",
       "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
       "summary": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
@@ -39,16 +19,6 @@
       "ai_summary": "Розробники представили Nightcrawler — локального автономного агента для тестування на проникнення, який працює безпосередньо на смартфоні. Цей інструмент дозволяє проводити перевірки безпеки мереж у польових умовах без потреби у потужному комп'ютері.",
       "ai_title": "Мобільний ШІ-агент для тестування безпеки",
       "video_keywords": "smartphone screen, mobile hacking, cybersecurity app, hacker holding phone"
-    },
-    {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "summary": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 98</p>\n<p># Comments: 72</p>",
-      "published": "2026-08-03T09:32:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти радять розробникам вручну переписувати код, згенерований штучним інтелектом, замість простого копіювання. Такий підхід допомагає краще зрозуміти логіку програми та запобігти накопиченню технічного й когнітивного боргу в проєкті.",
-      "ai_title": "Як ручне переписування коду спасає від когнітивного боргу",
-      "video_keywords": "programmer typing, computer keyboard, hands typing code, office desk"
     },
     {
       "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
@@ -698,19 +668,19 @@
       "ai_summary": "Гумористична та водночас практична розвідка про вічні виклики вебдизайну. Автори іронізують над тим, що поки програмісти опановували вирівнювання елементів через CSS, самі браузери ускладнили інтерфейс новими боковими панелями.",
       "ai_title": "Розробники нарешті навчилися центрувати div, але браузери додали сайдбари",
       "video_keywords": "web designer, laptop screen, css code, user interface"
+    },
+    {
+      "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
+      "link": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices\">https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180535\">https://news.ycombinator.com/item?id=49180535</a></p>\n<p>Points: 6</p>\n<p># Comment",
+      "published": "2026-08-05T09:36:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Попри мільйонні державні контракти, розробник програмного забезпечення Palantir у 2024 році сплатив мінімальний корпоративний податок у британський бюджет. Це викликало нову хвилю дискусій щодо податкових практик великих технологічних компаній та їхньої прозорості.",
+      "ai_title": "Palantir сплатила лише 2 мільйони фунтів податку у Великій Британії",
+      "video_keywords": "corporate building, businessman in suit, financial district, calculator"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-      "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
-      "published": "2026-08-03T12:50:46+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На тлі зростання загроз зі штучного інтелекту компанія Horizon3 провела новий раунд фінансування серії E. Інвестори оцінили стартап у $2 мільярди через високий попит на безперервну перевірку безпеки замість щорічних тестів на проникнення.",
-      "ai_title": "Стартап з кібербезпеки Horizon3 залучив $250 млн і досяг оцінки у $2 мільярди",
-      "video_keywords": "cybersecurity dashboard, server room, businessman looking at computer screen, data center"
-    },
     {
       "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
       "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
@@ -1100,49 +1070,19 @@
       "ai_summary": "Організатори виставки TechCrunch Disrupt 2026 об'єдналися з готелями поблизу Moscone West, щоб забезпечити учасникам найкращі ціни на проживання. Подія відбудеться з 13 по 15 жовтня, і відвідувачі вже можуть скористатися спеціальними пропозиціями.",
       "ai_title": "Як забронювати готель на TechCrunch Disrupt 2026 за вигідною ціною",
       "video_keywords": "hotel room, modern interior, booking computer, city skyline"
+    },
+    {
+      "title": "Wispr Flow launches a Granola-styled meeting notetaker",
+      "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "summary": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+      "published": "2026-08-05T07:15:49+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Сервіс Wispr Flow розширює функціонал і випускає інструмент для автоматичного створення нотаток та завдань під час нарад. Нововбачення спрямоване на конкуренцію з популярними аналогами на ринку.",
+      "ai_title": "Wispr Flow запускає власний сервіс для нотаток із зустрічей",
+      "video_keywords": "person typing laptop, online meeting, office workspace, taking notes"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
-      "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
-      "summary": "",
-      "published": "2026-08-03T06:15:38+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курס біткоїна опустився нижче позначки у 63 000 доларів. Це сталося попри надії на угоду щодо Ірану, тоді як ринок продовжує реагувати на збитки гаманців Coldcard.",
-      "ai_title": "Біткоїн впав нижче $63 000 на тлі ринкових побоювань",
-      "video_keywords": "cryptocurrency chart, falling graph, red candles, bitcoin trading screen"
-    },
-    {
-      "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
-      "link": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
-      "summary": "",
-      "published": "2026-08-03T05:52:29+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Trump Media перемістила значну кількість біткоїнів на суму 165 мільйонів доларів. Експерти припускають, що ці криптовалютні резерви тепер використовуються як заставне майно за позикою.",
-      "ai_title": "Біткоїн-активи Trump Media можуть піти на забезпечення за кредитом",
-      "video_keywords": "digital wallet, smartphone screen, cryptocurrency transfer, finance security"
-    },
-    {
-      "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
-      "link": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-company-buys-ethereum-expands-treasury-to-thousands-eth.png\" /></p><p>The Nasdaq-listed company relies largely on staking rewards to fund operations, while its 0G holdings ",
-      "published": "2026-08-03T07:15:56+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Казначейська криптофірма ZeroStack офіційно попередила про ризики для свого виживання. Причиною стали фінансові втрати у розмірі 82,5 мільйона доларів та залежність від винагород за стейкінг.",
-      "ai_title": "Криптокомпанія ZeroStack опинилася під загрозою закриття через величезні збитки",
-      "video_keywords": "stressed businessman, office desk, computer monitor, financial charts, modern office"
-    },
-    {
-      "title": "Bitcoin hits $62K while Coinbase premium hits 77-day negative streak",
-      "link": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $62K while Coinbase premium hits 77-day negative streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-3.jpg\" /></p><p>The persistent discount suggests US spot buyers have remained less aggressive than over",
-      "published": "2026-08-03T05:58:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Вартість біткоїна зафіксувалася на рівні 62 000 доларів, тоді як індикатор премії на біржі Coinbase демонструє негативну динаміку вже 77 днів поспіль. Це свідчить про низьку активність американських спотових покупців.",
-      "ai_title": "Біткоїн тримається біля $62 000 на тлі падіння премії на Coinbase",
-      "video_keywords": "trading terminal, stock exchange, financial markets, digital numbers"
-    },
     {
       "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
       "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
@@ -1152,16 +1092,6 @@
       "ai_summary": "Криптовалютний ринок демонструє зниження цін на тлі триваючих технічних проблем і вразливостей апаратних гаманців Coldcard. Ситуація викликає занепокоєння серед інвесторів щодо безпеки зберігання цифрових активів.",
       "ai_title": "Падіння курсу біткоїна та ефіру на тлі тривалої вразливості гаманців Coldcard",
       "video_keywords": "cryptocurrency chart, red candles, trading screen, falling graphs"
-    },
-    {
-      "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
-      "link": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-      "summary": "",
-      "published": "2026-08-03T09:38:53+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Платформа Robinhood успішно зареєструвалася для надання послуг з торгівлі криптоактивами у Великій Британії. Це сталося якраз напередодні введення в дію нового жорсткішого регуляторного режиму в країні.",
-      "ai_title": "Robinhood отримав ліцензію на криптодіяльність у Великій Британії",
-      "video_keywords": "smartphone app, digital wallet, person tapping screen, financial district"
     },
     {
       "title": "Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss",
@@ -1182,16 +1112,6 @@
       "ai_summary": "Компанія Ripple здійснила стратегічні інвестиції у фірми Zilo та Licuido для розвитку інфраструктури токенізованих фондів. Це допоможе розширити використання цифрових активів як забезпечення на фінансових ринках.",
       "ai_title": "Ripple інвестує в токенізовані ринки капіталу",
       "video_keywords": "handshake, modern office, business meeting, corporate handshake"
-    },
-    {
-      "title": "HashKey receives JPMorgan approval to open client money account",
-      "link": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HashKey receives JPMorgan approval to open client money account\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-plans-to-become-hong-kongs-first-crypto-ipo.jpg\" /></p><p>HashKey Exchange said it received approval to open client money accounts with JPMorgan, weeks after it launch",
-      "published": "2026-08-03T09:14:38+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна біржа HashKey Exchange отримала схвалення від американського гіганта JPMorgan на відкриття клієнтських грошових рахунків. Це важливий крок для інтеграції платформи з традиційною банківською системою.",
-      "ai_title": "Біржа HashKey домоглася дозволу від JPMorgan на відкриття рахунків",
-      "video_keywords": "bank building, skyscraper, corporate office, financial district"
     },
     {
       "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
@@ -1717,6 +1637,56 @@
       "ai_summary": "Опубліковано новий проєкт пропозиції EIP-8363, спрямований на скорочення винагород за консенсус в мережі Ethereum. Проте критики вважають, що такі зміни можуть мати зворотний ефект для блокчейна.",
       "ai_title": "Дослідники Ethereum пропонують обмежити стейкінг, але критики попереджають про ризики",
       "video_keywords": "computer code screen, crypto mining farm, server room, blockchain technology"
+    },
+    {
+      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+      "link": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+      "summary": "",
+      "published": "2026-08-05T09:55:32+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Недавній інцидент безпеки з апаратним гаманцем Coldcard викликав хвилю дискусій у криптовалютній спільноті. Експерти наголошують на необхідності перегляду стандартів безпеки для некастодіальних сховищ активів.",
+      "ai_title": "Іцидент з Coldcard змушує переглянути безпеку самостійного зберігання",
+      "video_keywords": "hardware wallet, cryptocurrency security, cyber attack, computer hacker"
+    },
+    {
+      "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
+      "link": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock brings tokenized money market funds to Europe via JPMorgan\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/news-crypto-studio-blackrock.jpg\" /></p><p>JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.</p>",
+      "published": "2026-08-05T09:24:03+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Фінансовий гігант BlackRock інтегрує токенізовані акції грошового ринку на європейський ринок. Проєкт реалізується за допомогою платформи Kinexys від JPMorgan та охоплює активи в фунтах, євро й доларах.",
+      "ai_title": "BlackRock запускає токенізовані фонди в Європі через JPMorgan",
+      "video_keywords": "financial district, stock market screen, digital banking, corporate handshake"
+    },
+    {
+      "title": "MiCA list expands with 12 companies in fourth post-deadline update",
+      "link": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA list expands with 12 companies in fourth post-deadline update\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/news-crypto-studio-mica-eu.jpg\" /></p><p>ESMA’s latest MiCA update brings the number of authorized CASPs to 321 and adds three entities to its non-compliant register.\n</p>",
+      "published": "2026-08-05T08:25:34+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Європейський регулятор оприлюднив чергове оновлення списку компаній, що відповідають вимогам регламенту MiCA. Кількість авторизованих постачальників криптопослуг в Євросоюзі стрімко зростає.",
+      "ai_title": "Регулювання MiCA: понад триста криптокомпаній отримали ліцензії в ЄС",
+      "video_keywords": "european union flag, office building, business meeting, official document"
+    },
+    {
+      "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
+      "link": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Missouri trio charged over alleged Bitcoin kidnapping plot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware.jpg\" /></p><p>The defendants allegedly traveled from Missouri to Connecticut to kidnap a Bitcoin holder and force him to transfer",
+      "published": "2026-08-05T07:34:12+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "У США правоохоронці затримали трьох підозрюваних у спробі викрадення власника криптовалюти. Зловмисники планували змусити потерпілого переказати їхні біткоїни під тиском.",
+      "ai_title": "Троє жителів Міссурі відповідей за змову з викраденням заради біткоїнів",
+      "video_keywords": "police lights, handcuffs, courtroom, criminal investigation"
+    },
+    {
+      "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+      "link": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cloudflare introduces wallets for AI agents, plans stablecoin payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-card-online-payment-cashless-payments-cloudflare-ai.jpg\" /></p><p>Cloudflare introduced programmable Wallets for AI agents and said payment features using stablecoins w",
+      "published": "2026-08-05T07:20:03+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Cloudflare анонсувала впровадження програмованих гаманців спеціально для автономних ШІ-агентів. У майбутньому планується повноцінна інтеграція платежів за допомогою стейблкоїнів.",
+      "ai_title": "Cloudflare створить криптовалютні гаманці для штучного інтелекту",
+      "video_keywords": "artificial intelligence, futuristic interface, digital wallet, server room"
     }
   ]
 }

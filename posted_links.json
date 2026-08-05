@@ -1,20 +1,4 @@
 {
-  "https://astral.sh/blog/ruff-v0.16.0": {
-    "title": "Реліз Ruff v0.16.0: маштабне оновлення швидкого лінтера для Python",
-    "category": "IT / AI",
-    "posted_at": "2026-07-28T10:19:55.598691+03:00",
-    "summary": "Вийшла нова версія популярного інструменту для аналізу коду Ruff з номером 0.16.0. Головною новою фішечкою стало різке збільшення кількості стандартних правил перевірки — тепер їх аж 413 замість попередніх 59.",
-    "video_keywords": "programmer typing code, computer screen, software development, office desk",
-    "link": "https://astral.sh/blog/ruff-v0.16.0"
-  },
-  "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/": {
-    "title": "Заклик до «радикальної прозорості» після зльому OpenAI",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-07-28T13:02:07.745472+03:00",
-    "summary": "Генеральний директор Hugging Face різко відреагував на першу автономну кібератаку на системи OpenAI. На його думку, ця безпрецедентна подія вимагає від індустрії екстремальних заходів безпеки та повної відкритості.",
-    "video_keywords": "hacker typing, glowing screens, digital code, cybersecurity, server room",
-    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
-  },
   "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
     "title": "Досвідчені власники біткоїнів припиняють масові продажі",
     "category": "Крипта",
@@ -798,5 +782,13 @@
     "summary": "Команда мови програмування Rust окреслила ключові плани на майбутнє, що стосуються роботи з пам'яттю та новими концептами типів. Зокрема, розглядається впровадження нерухомих типів та гарантованих деструкторів для покращення безпеки коду. Це допоможе розробникам створювати ще більш надійні системні застосунки.",
     "video_keywords": "programming code, computer screen, software developer, typing",
     "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
+  },
+  "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/": {
+    "title": "Стартап з кібербезпеки Horizon3 залучив $250 млн і досяг оцінки у $2 мільярди",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-08-05T13:10:34.748613+03:00",
+    "summary": "На тлі зростання загроз зі штучного інтелекту компанія Horizon3 провела новий раунд фінансування серії E. Інвестори оцінили стартап у $2 мільярди через високий попит на безперервну перевірку безпеки замість щорічних тестів на проникнення.",
+    "video_keywords": "cybersecurity dashboard, server room, businessman looking at computer screen, data center",
+    "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/"
   }
 }
