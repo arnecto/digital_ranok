@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "summary": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-03T11:28:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники виявили випадок, коли мовна модель згенерувала неіснуючу критичну вразливість для бази даних SQLite. Це яскравий приклад того, як штучний інтелект може вводити фахівців в оману галюцинаціями коду та помилковими звітами безпеки.",
-      "ai_title": "Штучний інтелект створив фейкову вразливість у базі даних",
-      "video_keywords": "cybersecurity screen, hacker typing, warning message, code terminal"
-    },
-    {
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "link": "https://github.com/garagehq/nightcrawler/",
-      "summary": "<p>Article URL: <a href=\"https://github.com/garagehq/nightcrawler/\">https://github.com/garagehq/nightcrawler/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154127\">https://news.ycombinator.com/item?id=49154127</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-03T11:06:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили Nightcrawler — локального автономного агента для тестування на проникнення, який працює безпосередньо на смартфоні. Цей інструмент дозволяє проводити перевірки безпеки мереж у польових умовах без потреби у потужному комп'ютері.",
-      "ai_title": "Мобільний ШІ-агент для тестування безпеки",
-      "video_keywords": "smartphone screen, mobile hacking, cybersecurity app, hacker holding phone"
-    },
-    {
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
-      "published": "2026-08-03T11:01:11+00:00",
-      "source": "The Verge",
-      "ai_summary": "Китайський технологічний гігант Alibaba презентував свою найпотужнішу штучноінтелектуальну модель на сьогодні. Компанія запевняє, że нова розробка не поступається провідним американським аналогам від OpenAI та Anthropic.",
-      "ai_title": "Alibaba кидає виклик американським лідерам ШІ",
-      "video_keywords": "server room, data center, futuristic ai, glowing neon lights"
-    },
-    {
       "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
       "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
       "summary": "<p>Article URL: <a href=\"https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui\">https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49155629\">https://news.ycombinator.com/item?id=49155629</a></p>\n<p>Points: 78</p>\n<p># Comments: 35</p>",
@@ -678,19 +648,44 @@
       "ai_summary": "Попри мільйонні державні контракти, розробник програмного забезпечення Palantir у 2024 році сплатив мінімальний корпоративний податок у британський бюджет. Це викликало нову хвилю дискусій щодо податкових практик великих технологічних компаній та їхньої прозорості.",
       "ai_title": "Palantir сплатила лише 2 мільйони фунтів податку у Великій Британії",
       "video_keywords": "corporate building, businessman in suit, financial district, calculator"
+    },
+    {
+      "title": "Ukrainian DoD Solution and Dutch Axelera AI will develop AI for defense systems",
+      "link": "https://en.ain.ua/2026/08/05/ukrainian-dod-solution-and-dutch-axelera-ai-will-develop-ai-for-defense-systems/",
+      "summary": "As part of the partnership, the companies will focus on creating high-performance architectures for high-speed interceptors and autonomous defense hardware.",
+      "published": "2026-08-05T12:00:00+00:00",
+      "source": ""
+    },
+    {
+      "title": "US court allowed Perplexity to use AI agents for shopping on Amazon",
+      "link": "https://en.ain.ua/2026/08/05/us-court-allowed-perplexity-to-use-ai-agents-for-shopping-on-amazon/",
+      "summary": "The appeals court vacated the prior ban, finding Amazon is unlikely to prove a violation of the federal law on unauthorized access to computer systems.",
+      "published": "2026-08-05T10:10:00+00:00",
+      "source": ""
+    },
+    {
+      "title": "Polling shows a growing political reckoning is coming for data centers",
+      "link": "https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799",
+      "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799\">https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181191\">https://news.ycombinator.com/item?id=49181191</a></p>\n<p>Points: 9</p>\n<p># Comments: 7</p>",
+      "published": "2026-08-05T11:13:19+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/\">https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181099\">https://news.ycombinator.com/item?id=49181099</a></p>\n<p>Points: 81</p>\n<p># Comments: 18</p>",
+      "published": "2026-08-05T11:03:13+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Position: LLMs Can't Jump",
+      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "summary": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181083\">https://news.ycombinator.com/item?id=49181083</a></p>\n<p>Points: 30</p>\n<p># Comments: 11</p>",
+      "published": "2026-08-05T11:01:37+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
-      "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
-      "summary": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
-      "published": "2026-08-03T12:10:41+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Нові дослідження безпеки розкрили роботу житлових проксі-мереж, які використовують сторонні додатки для переспрямування інтернет-трафіку користувачів. У відповідь на це компанія Samsung запровадила заборону на подібне програмне забезпечення у своїх телевізорах.",
-      "ai_title": "Samsung блокує на Smart TV додатки, які роздають інтернет стороннім особам",
-      "video_keywords": "smart tv remote control, living room couch, pressing buttons on remote, modern television screen"
-    },
     {
       "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
       "link": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
@@ -1080,49 +1075,30 @@
       "ai_summary": "Сервіс Wispr Flow розширює функціонал і випускає інструмент для автоматичного створення нотаток та завдань під час нарад. Нововбачення спрямоване на конкуренцію з популярними аналогами на ринку.",
       "ai_title": "Wispr Flow запускає власний сервіс для нотаток із зустрічей",
       "video_keywords": "person typing laptop, online meeting, office workspace, taking notes"
+    },
+    {
+      "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+      "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+      "summary": "River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production.",
+      "published": "2026-08-05T11:26:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient",
+      "link": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+      "summary": "Mitti Labs plans to expand beyond India and enter the Philippines and Indonesia while growing its carbon credits and agricultural data business.",
+      "published": "2026-08-05T11:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "published": "2026-08-05T11:00:00+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-      "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-      "summary": "",
-      "published": "2026-08-03T10:51:37+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалютний ринок демонструє зниження цін на тлі триваючих технічних проблем і вразливостей апаратних гаманців Coldcard. Ситуація викликає занепокоєння серед інвесторів щодо безпеки зберігання цифрових активів.",
-      "ai_title": "Падіння курсу біткоїна та ефіру на тлі тривалої вразливості гаманців Coldcard",
-      "video_keywords": "cryptocurrency chart, red candles, trading screen, falling graphs"
-    },
-    {
-      "title": "Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss",
-      "link": "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trumps’ American Bitcoin reports record BTC output, narrower Q2 loss\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us-1.jpg\" /></p><p>Trump-linked Bitcoin miner produced a record 932 BTC in the second quarter, lifting mining revenue 8% as its net loss narrowed from the",
-      "published": "2026-08-03T11:40:09+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Пов'язана з Дональдом Трампом компанія з видобутку біткоїнів зафіксувала рекордний показник у 932 видобуті монети за другий квартал. Завдяки цьому доходи зросли, а чисті збитки суттєво скоротилися.",
-      "ai_title": "Майнігова компанія Трампа звітує про рекордний видобуток біткоїнів",
-      "video_keywords": "computer servers, data center, mining rig, flashing lights"
-    },
-    {
-      "title": "Ripple invests in Zilo and Licuido to assist tokenized capital markets push",
-      "link": "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple invests in Zilo and Licuido to assist tokenized capital markets push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bankripple-new.jpg\" /></p><p>Ripple made a strategic investment in Zilo and Licuido as it looks to enable the use of tokenized funds as collateral from the point of issua",
-      "published": "2026-08-03T10:58:36+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Ripple здійснила стратегічні інвестиції у фірми Zilo та Licuido для розвитку інфраструктури токенізованих фондів. Це допоможе розширити використання цифрових активів як забезпечення на фінансових ринках.",
-      "ai_title": "Ripple інвестує в токенізовані ринки капіталу",
-      "video_keywords": "handshake, modern office, business meeting, corporate handshake"
-    },
-    {
-      "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-      "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
-      "summary": "",
-      "published": "2026-08-03T13:15:46+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія BlackRock запускає нові фінансові інвестиційні продукти на базі блокчейну. Це рішення зміцнює позиції традиційних фінансів у цифровій економіці та розширює доступ до токенізованої готівки.",
-      "ai_title": "BlackRock розширює токенізовані активи",
-      "video_keywords": "blockchain, digital currency, financial charts, corporate office"
-    },
     {
       "title": "Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases",
       "link": "https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1687,6 +1663,41 @@
       "ai_summary": "Компанія Cloudflare анонсувала впровадження програмованих гаманців спеціально для автономних ШІ-агентів. У майбутньому планується повноцінна інтеграція платежів за допомогою стейблкоїнів.",
       "ai_title": "Cloudflare створить криптовалютні гаманці для штучного інтелекту",
       "video_keywords": "artificial intelligence, futuristic interface, digital wallet, server room"
+    },
+    {
+      "title": "SpaceX extends decline to 11% on lockup expiration and capex spending fears",
+      "link": "https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings",
+      "summary": "",
+      "published": "2026-08-05T12:12:08+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
+      "link": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
+      "summary": "",
+      "published": "2026-08-05T12:09:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
+      "summary": "",
+      "published": "2026-08-05T11:20:58+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
+      "link": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+      "summary": "",
+      "published": "2026-08-05T11:13:17+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
+      "link": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
+      "summary": "",
+      "published": "2026-08-05T11:01:15+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
     }
   ]
 }
