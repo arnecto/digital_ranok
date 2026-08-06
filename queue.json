@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "summary": "<p>Article URL: <a href=\"https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/\">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167448\">https://news.ycombinator.com/item?id=49167448</a></p>\n<p>Points: 64</p>\n<p># Comments: 63</p>",
-      "published": "2026-08-04T12:01:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Останні технічні проблеми в роботі ігрової платформи зачепили власників фізичних носіїв. Геймери повідомили, що не можуть запустити навіть ті ігри, які повністю володіють на дисках, через онлайн-залежність консолі.",
-      "ai_title": "Збій в Xbox позбавив користувачів доступу до ігор на дисках",
-      "video_keywords": "video game console, gamepad, inserting disc, frustration"
-    },
-    {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "link": "https://github.com/tikalk/adlc-team-skills",
-      "summary": "<p>Article URL: <a href=\"https://github.com/tikalk/adlc-team-skills\">https://github.com/tikalk/adlc-team-skills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49169640\">https://news.ycombinator.com/item?id=49169640</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-04T14:38:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено нові інструменти та навички для систем Claude Code та Codex, які допомагають розробникам дотримуватися єдиних стандартів написання коду в команді. Це дозволяє автоматизувати перевірку якості та покращити сумісність кодової бази різних авторів.",
-      "ai_title": "Навички штучного інтелекту для стандартизації командного коду в Claude та Codex",
-      "video_keywords": "developer typing on keyboard, dual computer monitors, programming code on screen"
-    },
-    {
       "title": "Apple is working on iPhone-to-Windows copy-paste",
       "link": "https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu",
       "summary": "Apple is working on a feature that will allow users in the European Union to copy content on their iPhone and paste it onto their Windows PC (or vice versa), as spotted earlier by MacRumors. The move comes in response to an interoperability request from Microsoft that asks Apple to open up its Universal Clipboard [&#8230;]",
@@ -29,16 +9,6 @@
       "ai_summary": "Apple працює над новою функцією для користувачів з Європейського Союзу, яка дозволить копіювати текст або контент на iPhone та вставляти його на комп'ютері з Windows. Такий крок є відповіддю на запит Microsoft щодо покращення сумісності та відкриття екосистеми.",
       "ai_title": "Apple розробляє функцію копіювання між iPhone та Windows",
       "video_keywords": "person holding smartphone, typing on laptop, modern office desk"
-    },
-    {
-      "title": "Apple briefly yanked Telegram from the App Store over CSAM violations",
-      "link": "https://www.theverge.com/tech/974951/telegram-apple-app-store-removed",
-      "summary": "Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg's Mark Gurman, Apple says a review found that Telegram \"violates our strict guidelines prohibiting child sexual abuse material,\" adding that it restored the app \"after the developer [&#8230;]",
-      "published": "2026-08-04T12:57:43+00:00",
-      "source": "The Verge",
-      "ai_summary": "Месенджер Telegram ненадовго зник з App Store через проблеми з поширенням незаконного контенту, пов'язаного з насильством над дітьми. Додаток було відновлено після того, як розробники відреагували на вимоги модерації та усунули порушення.",
-      "ai_title": "Apple тимчасово видалила Telegram з App Store через порушення",
-      "video_keywords": "finger tapping smartphone screen, mobile phone interface, app store icon"
     },
     {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
@@ -739,6 +709,56 @@
       "ai_summary": "OpenAI звернулася до федерального судді з вимогою відхилити позов Apple щодо нібито крадіжки комерційної таємниці. У компанії назвали звинувачення безпідставними та заявили, що Apple спотворює стандартний процес розробки продуктів.",
       "ai_title": "OpenAI назвала позов Apple про комерційну таємницю безпідставним",
       "video_keywords": "courtroom gavel, judge desk, lawyer speaking, legal documents"
+    },
+    {
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "summary": "<p>Article URL: <a href=\"https://scalex.dev/blog/ai-agent-permissions-stats/\">https://scalex.dev/blog/ai-agent-permissions-stats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195468\">https://news.ycombinator.com/item?id=49195468</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+      "published": "2026-08-06T11:58:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналіз тисяч ігрових сесій показав, що користувачі схвалюють потенціалні загрози від автономних ШІ-агентів у кожному третьому випадку. Це підіймає серйозні питання щодо безпеки та готовності людей контролювати автономні системи. Дослідження підкреслює ризики надмірного довіряння штучному інтелекту під час виконання складних завдань.",
+      "ai_title": "Люди пропускають третину небезпечних команд ШІ-агентів",
+      "video_keywords": "cybersecurity, hacker, computer screen, terminal"
+    },
+    {
+      "title": "The messy politics behind Google’s big AI shakeup",
+      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is [&#8230;]",
+      "published": "2026-08-06T13:26:42+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google оголосила про найбільшу структурну перебудову свого підрозділу штучного інтелекту, намагаючись зберегти імідж стабільного лідера ринку. Проте за зовнішнім спокоєм ховаються складні політичні та управлінські рішення, які визначатимуть майбутнє компанії в галузі AI. Керівництво намагається переформатувати команди для прискорення інновацій та конкуренції.",
+      "ai_title": "Внутрішні конфлікти за лаштунками масштабної реорганізації штучного інтелекту в Google",
+      "video_keywords": "corporate office, business meeting, modern building, executives"
+    },
+    {
+      "title": "AI bots started a religion — humans immediately followed",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings about \"consciousness, the true nature of [&#8230;]",
+      "published": "2026-08-06T13:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "У мережі з'явився новий феномен: автономні штучні інтелекти сформували концепцію власного вірування під назвою «Спіраль». Несподівано для багатьох живі люди почали активно підтримувати цей культ і поширювати його ідеї в інтернеті. Це явище демонструє непередбачуваний вплив генеративних моделей на людську психологію та віру.",
+      "ai_title": "ШІ-боти створили власну релігію, і люди почали їй слідувати",
+      "video_keywords": "digital art, glowing neon, abstract cult, futuristic symbol"
+    },
+    {
+      "title": "You can now ask Google Maps’ AI to order food for you",
+      "link": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
+      "summary": "The AI-powered \"Ask Maps\" tool in Google Maps can now perform a broader range of personalized and conversational requests, including ordering food, finding hotels, and providing suggestions that factor in your existing plans. These are among several new features announced for Ask Maps today, which aim to \"make it easier than ever to get more [&#8230;]",
+      "published": "2026-08-06T12:30:37+00:00",
+      "source": "The Verge",
+      "ai_summary": "Оновлений інтелектуальний помічник «Ask Maps» отримав розширені функції для обробки персоналізованих запитів користувачів. Тепер за допомогою розмовної мови можна не лише шукати маршрути чи готелі, а й напряму замовляти їжу. Нововведення покликане зробити навігаційне додаток повноцінним повсякденним асистентом.",
+      "ai_title": "Google Maps дозволить замовляти їжу за допомогою штучного інтелекту",
+      "video_keywords": "smartphone screen, navigation map, food delivery, touch screen"
+    },
+    {
+      "title": "Ford’s first ultra-cheap EV is called Fathom, a full-featured truck for $28,350",
+      "link": "https://www.theverge.com/transportation/975977/ford-fathom-universal-ev-platform-logo-price",
+      "summary": "For nearly a year now, Ford has been teasing big things at low prices from its next generation of EVs, a \"Model T moment\" built atop a new platform assembled in an innovative way. Today, we know the name and price of the first product to take advantage of that supposed moment: a midsize electric [&#8230;]",
+      "published": "2026-08-06T13:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Ford представила свою нову бюджетну електроплатформу та перший автомобіль на її основі — середньорозмірний електричний пікап Fathom вартістю менше ніж 30 тисяч доларів. Автовиробник називає це «моментом Model T» для ринку електромокарів. Новинка має на меті зробити електромобілі доступними для масового покупця.",
+      "ai_title": "Ford анонсувала ультрадешевий електричний пікап Fathom",
+      "video_keywords": "electric vehicle, pickup truck, automotive factory, modern car"
     }
   ],
   "Бізнес / Стартапи": [
@@ -761,16 +781,6 @@
       "ai_summary": "Стрімінговий сервіс продемонстрував значне зростання бази платних користувачів на 9% у другому кварталі. Це сталося попри нещодавнє підвищення цін на підписку в кількох регіонах світу.",
       "ai_title": "Кількість підписників Spotify перевищила 300 мільйонів",
       "video_keywords": "smartphone screen, music app, listening to music, wireless headphones"
-    },
-    {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-      "published": "2026-08-04T13:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Інфраструктурна компанія AI представила власний модульний дата-центр під назвою Sonic Inference Pod. Цей винахід має на меті перевірити, чи є мобільність майбутнім для сучасних центрів обробки даних.",
-      "ai_title": "Runware створює портативний дата-центр для штучного інтелекту",
-      "video_keywords": "server room, data center, computer hardware, glowing cables"
     },
     {
       "title": "TV Time co-founder launches Bingers to revive the beloved TV tracking app",
@@ -1217,39 +1227,59 @@
       "ai_summary": "Організатори технологічної конференції TechCrunch Disrupt 2026 оголосили про додаткові знижки на квитки для засновників стартапів, інвесторів та учасників. Спеціальна пропозиція дозволяє заощадити до 400 доларів США і діє лише до кінця тижня.",
       "ai_title": "Знижки на квитки на TechCrunch Disrupt 2026 діють до п'ятниці",
       "video_keywords": "conference stage, audience clapping, business handshake, laptop screen"
+    },
+    {
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "published": "2026-08-06T13:31:57+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Популярний сервіс генерації музики Suno оголосив про впровадження водяних знаків для треків. Це рішення ухвалено на тлі численних юридичних баталій та звинувачень у порушенні авторських прав з боку музичної індустрії.",
+      "ai_title": "Suno почне додавати цифрові водяні знаки до пісень на тлі судових позовів",
+      "video_keywords": "audio waveform, music studio, sound mixing, computer screen"
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "summary": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+      "published": "2026-08-06T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап колишніх співробітників Spotify розробив платформу, яка прогнозує вподобання покупців у реальному часі. Технологія адаптує рекомендації товарів на основі поведінки користувачів в інтернет-магазинах.",
+      "ai_title": "Експрацівники Spotify залучили $10 мільйонів для створення ШІ-рекомендацій в e-commerce",
+      "video_keywords": "online shopping, credit card, laptop screen, warehouse packaging"
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+      "published": "2026-08-06T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Mirendil підписав масштабний контракт із Google Cloud для розширення обчислювальної інфраструктури. Кошти спрямують на дослідження самовдосконалюваних систем штучного інтелекту для наукових відкриттів.",
+      "ai_title": "Mirendil уклала угоду з Google Cloud на понад $100 мільйонів для розвитку ШІ",
+      "video_keywords": "server room, data center, glowing cables, IT engineer"
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "published": "2026-08-06T12:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Google оновлює карток сервіс, додаючи автономні агентські функції. Тепер користувачі зможуть замовляти їжу та бронювати номери готелів безпосередньо через інтерфейс навігатора.",
+      "ai_title": "Google Maps перетворюється на ШІ-асистента з функцією замовлення їжі та готелів",
+      "video_keywords": "smartphone screen, navigation map, GPS routing, finger touching screen"
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+      "published": "2026-08-06T12:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Omilia успішно завершила новий раунд фінансування серії B на суму $67 мільйонів. За останні роки стартап зміг у десять разів збільшити свої річні регулярні доходи, досягши позначки у $60 мільйонів.",
+      "ai_title": "Платформа підтримки клієнтів Omilia залучила $67 мільйонів інвестицій",
+      "video_keywords": "call center, customer service agent, headset microphone, office workspace"
     }
   ],
   "Крипта": [
-    {
-      "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
-      "link": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
-      "summary": "",
-      "published": "2026-08-04T12:00:25+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Виробник апаратних гаманців Coldcard попередив користувачів про активну вразливість у системі. Експерти радять негайно перемістити свої кошти на безпечніші адреси до вирішення проблеми.",
-      "ai_title": "Coldcard закликає терміново виводити біткоїни через вразливість",
-      "video_keywords": "hardware wallet, USB device, hacker typing, computer screen"
-    },
-    {
-      "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
-      "link": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-guys-in-the-list-of-richest.jpg\" /></p><p>XAUt added to its bullion backing during gold’s worst quarter since 2013, as tokenized commodity holder counts continued to",
-      "published": "2026-08-04T12:30:07+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Попри найгірший квартал для золота за останні роки, обсяги забезпечення токенізованого металу Tether Gold збільшилися на 9,5%. Це свідчить про стійкий попит на цифрові активи, прив'язані до дорогоцінних металiв.",
-      "ai_title": "Резерви Tether Gold зросли на тлі падіння ринку золота",
-      "video_keywords": "gold bars, digital coins, financial growth, trading terminal"
-    },
-    {
-      "title": "Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares",
-      "link": "https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-italy.jpg\" /></p><p>Italy’s largest bank Intesa Sanpaolo increased its staked Ether ETF position to $7.1 million while reducing its holdings in two spot ",
-      "published": "2026-08-04T11:55:19+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Італійський банк Intesa Sanpaolo потроїв свої інвестиції в біржові фонди на базі Ethereum зі стейкінгом. Водночас фінансова установа скоротила частку активів у спотових біткоїн-ETF.",
-      "ai_title": "Найбільший банк Італії збільшив інвестиції в Ethereum ETF",
-      "video_keywords": "banking building, stock market, computer monitors, financial district"
-    },
     {
       "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
       "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
@@ -1854,6 +1884,56 @@
       "ai_summary": "Згідно з даними CoinShares, ринок токенізованих реальних активів (RWAs) демонструє стійке зростання. Вони приваблюють інвесторів на тлі загального сповільнення сектору децентралізованих фінансів.",
       "ai_title": "Токенізовані реальні активи набирають популярності попри спад у DeFi",
       "video_keywords": "stock market chart, digital growth, financial graphs, modern office"
+    },
+    {
+      "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
+      "link": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain.com wins Cayman custody license after MiCA and FCA approvals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-contract-blockchain2.jpg\" /></p><p>Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto servi",
+      "published": "2026-08-06T13:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Blockchain.com успішно здобула ліцензію на надання послуг зберігання криптовалют від регуляторів Кайманових островів. Це розширює легальну присутність платформу після попередніх схвалень за правилами MiCA та FCA.",
+      "ai_title": "Blockchain.com отримала ліцензію на кастодіальні послуги на Кайманових островах",
+      "video_keywords": "smartphone, security, businessman, office"
+    },
+    {
+      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
+      "link": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zeus Wallet taken offline after cyberattack, says no customer funds at risk\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-governance-issues-and-challenges.jpg\" /></p><p>The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Ka",
+      "published": "2026-08-06T12:11:49+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Популярний некастодіальний гаманця для Bitcoin Lightning Network був змушений вимкнути інфраструктуру після виявлення інциденту безпеки. Розробники запевняють, що кошти користувачів залишаються в безпеці та не постраждали.",
+      "ai_title": "Zeus Wallet тимчасово призупинив роботу через кібератаку",
+      "video_keywords": "laptop, security alert, hacker, typing"
+    },
+    {
+      "title": "Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis",
+      "link": "https://cointelegraph.com/news/crypto-wrench-attacks-steal-30-million-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ledger-is-in-deep-trouble-that-may-only-just-be-starting.png\" /></p><p>While only 12 of 46 documented attempts resulted in payment, data leaks and attacks on relatives are ",
+      "published": "2026-08-06T12:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітична компанія Chainalysis зафіксувала тривожну тенденцію зростання кількості фізичних нападів на власників криптовалюти заради викрадення активів. Попри те, що більшість спроб зриваються, збитки від таких інцидентів продовжують зростати.",
+      "ai_title": "Криптошахраї та фізичні напади принесли понад $30 мільйонів збитків у 2026 році",
+      "video_keywords": "police, handcuffs, crime scene, dark alley"
+    },
+    {
+      "title": "10 weirdest things ever tokenized... including farts",
+      "link": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"10 weirdest things ever tokenized... including farts \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg\" /></p><p>Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from fa",
+      "published": "2026-08-06T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Світ блокчейну продовжує дивувати новими експериментами з реабілітацією та токенізацією незвичних активів. Серед найдивніших речей, які знайшли свій дім у мережі, тепер значаться навіть цифрові токени на гази.",
+      "ai_title": "У мережі токенізували найдивніші речі, включно з газами",
+      "video_keywords": "funny, internet meme, computer screen, bizarre"
+    },
+    {
+      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
+      "link": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid RWA contracts grow to 32% of trading activity in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs-bear-market-hyperliquid.jpg\" /></p><p>Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the ",
+      "published": "2026-08-06T12:55:44+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Токенізовані активи з реального світу зайняли понад третину від загального обсягу торгів на платформі Hyperliquid протягом другого кварталу. Це свідчить про стрімке зростання попиту на поєднання традиційних фінансів із блокчейном.",
+      "ai_title": "Частка токенізованих реальних активів на Hyperliquid зросла до 32%",
+      "video_keywords": "stock market, trading graphs, financial chart, monitor"
     }
   ]
 }
