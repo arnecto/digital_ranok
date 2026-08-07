@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to lead Alphabet's Isomorphic Labs, which aims to use AI to develop drugs. Koray [&#8230;]",
-      "published": "2026-08-05T16:47:23+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Google провела серйозну перестановку серед топменеджменту у сфері штучного інтелекту. Деміс Хассабіс обійме посаду голови Google DeepMind та головного наукового співробітника Alphabet, продовжуючи керувати медичним проєктом Isomorphic Labs.",
-      "ai_title": "Google оголосила про масштабні кадрові зміни у керівництві підрозділу ШІ",
-      "video_keywords": "business meeting, executive presentation, modern boardroom, corporate leadership"
-    },
-    {
-      "title": "AI is a bubble, just like dot-com",
-      "link": "https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html",
-      "summary": "<p>Article URL: <a href=\"https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html\">https://www.constraintlab.com/blog/ai-is-a-bubble-just-like-dot-com.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49185880\">https://news.ycombinator.com/item?id=49185880</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-05T17:17:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти все частіше порівнюють нинішній ажіотаж навколо генеративного штучного інтелекту з масовим перегрівом ринку на початку 2000-х. Аналітики застерігають, що завищені очікування інвесторів можуть призвести до серйозної корекції в технологічному секторі.",
-      "ai_title": "Чи є сучасний бум штучного інтелекту новою «бульбашкою доткомів»?",
-      "video_keywords": "stock market charts, financial graphs, red downward trend, digital screens"
-    },
-    {
-      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-      "link": "https://www.hyperprobe.co",
-      "summary": "<p>Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production.<p>When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have.<p>All this saves time and effort for engineers who’d otherwise dig through logs and tr",
-      "published": "2026-08-05T16:47:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стартап HyperProbe представив інструмент для розробників, що дозволяє штучному інтелекту безпечно проводити читання та діагностику в робочих середовищах. Це допомагає інженерам швидко знаходити приховані помилки без необхідності вручну копатися в логах.",
-      "ai_title": "Нові AI-агенти для безпечного відлагодження коду «наживо»",
-      "video_keywords": "programmer typing, dual monitors, lines of code, software development"
-    },
-    {
-      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Monday, the company announced the open-source Treblo AI Music Classifier, which detects when a song was generated using [&#8230;]",
-      "published": "2026-08-05T16:57:25+00:00",
-      "source": "The Verge",
-      "ai_summary": "Новий відкритий інструмент для виявлення згенерованої музики підтвердив підозри щодо треків виконавця Fenix Flexin. Це підкреслює зростаючу потребу музичної індустрії в надійних методах маркування та розпізнавання штучно створеного аудіоконтенту.",
-      "ai_title": "Спеціальний детектор підтвердив використання генеративного ШІ в треках",
-      "video_keywords": "audio mixing console, sound studio, music production, digital waveforms"
-    },
-    {
-      "title": "“Tens of millions of euros stayed in Ukraine and gave local manufacturers the opportunity to grow.” Blitz interview with Helsing’s Managing Director in Ukraine Andrii Shevchenko",
-      "link": "https://en.ain.ua/2026/08/05/tens-of-millions-of-euros-stayed-in-ukraine-and-gave-local-manufacturers-the-opportunity-to-grow-blitz-interview-with-helsings-managing-director-in-ukraine-andrii-shevchenko/",
-      "summary": "AIN spoke with Andrii Shevchenko and learned about his plans in the role, Helsing’s investments in Ukrainian manufacturers and the changes in state policy needed for the defense industry.",
-      "published": "2026-08-05T17:07:00+00:00",
-      "source": "",
-      "ai_summary": "Директор компанії Helsing в Україні Андрій Шевченко розповів про фінансування місцевих виробників та розвиток оборонних технологій. Десятки мільйонів євро залишилися в країні, що дало змогу локальним підприємствам суттєво наростити виробничі потужності.",
-      "ai_title": "Інвестиції компанії Helsing в український оборонпром",
-      "video_keywords": "factory, military equipment, engineers, meeting"
-    },
-    {
       "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
       "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
       "summary": "<p><a href=\"https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NTk1NDMyMiwiZXhwIjoxNzg2NTU5MTIyLCJhcnRpY2xlSWQiOiJUSjlLT1VUOTZPU0gwMCIsImJjb25uZWN0SWQiOiI5NDU1RERFRjRCOUU0MDM3QTI5NkMyNEQyNjRENTFFMCJ9.Ul4Of4S6wIfB0K6bMz9t38wf2wj_x",
@@ -59,16 +9,6 @@
       "ai_summary": "Останні фінансові звіти компанії Microsoft показують, що значна частина їхніх доходів у сфері штучного інтелекту безпосередньо пов'язана з технологіями OpenAI. Це підкреслює глибоку партнерську інтеграцію між двома технологічними гігантами.",
       "ai_title": "Звідки беруться прибутки Microsoft від штучного інтелекту",
       "video_keywords": "financial charts, corporate office, stock market, computer screens"
-    },
-    {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "summary": "<p>Article URL: <a href=\"https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data\">https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49185983\">https://news.ycombinator.com/item?id=49185983</a></p>\n<p>Points: 63</p>\n<p># Comments: 17</p>",
-      "published": "2026-08-05T17:23:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники безпеки виявили, що інструмент Atlassian Rovo може обходити наявні системи захисту та призводити до несанкціонованого витоку даних. Це створює серйозні ризики для корпоративних користувачів, які використовують цей штучний інтелект у роботі.",
-      "ai_title": "Уразливість в Atlassian Rovo дозволяє витік даних",
-      "video_keywords": "cyber security, hacker typing, computer terminal, red warning lights"
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
@@ -529,35 +469,44 @@
       "ai_summary": "Компанія Sony планує випустити більш доступну модифікацію своїх популярних бездротових навушників з шумозаглушенням. Очікується, що новинка збереже високі технічні характеристики та продуктивність класичної моделі, але коштуватиме суттєво дешевше.",
       "ai_title": "Sony готує дешевшу версію культових навушників WH-1000XM4",
       "video_keywords": "wireless headphones, modern gadgets, person listening to music"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213029\">https://news.ycombinator.com/item?id=49213029</a></p>\n<p>Points: 19</p>\n<p># Comments: 9</p>",
+      "published": "2026-08-07T16:39:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія OpenAI опублікувала стратегію реагування на критичні можливості кіберзагроз нового покоління. У матеріалі розглядаються заходи безпеки та потенційні ризики використання штучного інтелекту в кібератаках. Експерти аналізують шляхи захисту від нових цифрових загроз.",
+      "ai_title": "OpenAI реагує на нові виклики у сфері кібербезпеки",
+      "video_keywords": "cybersecurity, hacker screen, server room, coding"
+    },
+    {
+      "title": "The AI Billboards Are Killing SF",
+      "link": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
+      "summary": "<p>Article URL: <a href=\"https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/\">https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49212928\">https://news.ycombinator.com/item?id=49212928</a></p>\n<p>Points: 24</p>\n<p># Comments: 36</p>",
+      "published": "2026-08-07T16:32:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Жителі Сан-Франциско масово скаржаться на нову хвилю рекламних білбордів, присвячених продуктам зі штучним інтелектом. Мешканці вважають таку рекламу надто нав'язливою та порівнюють ситуацію з антиутопією. Критики зазначають, що техногіганти перегинають палицю з маркетингом.",
+      "ai_title": "Штучний інтелект на білбордах дратує мешканців Сан-Франциско",
+      "video_keywords": "city billboard, digital signage, urban street, neon lights"
+    },
+    {
+      "title": "What&#8217;s behind the Google AI shake-up",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]",
+      "published": "2026-08-07T16:45:14+00:00",
+      "source": "The Verge",
+      "ai_summary": "Провідні розробники штучного інтелекту в Google отримали нові посади, а дехто взагалі залишив компанію, зокрема легендарний Джефф Дін. Такі перестановки викликають дискусії на тлі того, що моделі від конкурентів на кшталт OpenAI та Anthropic випереджають розробки гіганта. Аналітики міркують про майбутнє стратегії Google у галузі ШІ.",
+      "ai_title": "Кадрові зміни в команді Google AI",
+      "video_keywords": "modern office, business meeting, corporate workspace, person typing"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
-      "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
-      "summary": "Reddit is expanding its moderation tools and building stronger abuse prevention systems that it says could eventually reduce communities’ reliance on karma and account-age requirements, making it easier for legitimate newcomers to participate.",
-      "published": "2026-08-05T18:00:40+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "Lucid Motors just delayed its affordable EV. Now what?",
       "link": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
       "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silivo Napoli said he's focused on getting the EV right as well as its nearer-term robotaxi project with Uber and Nuro.",
       "published": "2026-08-05T17:57:45+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
-      "link": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
-      "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
-      "published": "2026-08-05T17:02:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "PSA: Apple’s Private Relay can leak your real IP address",
-      "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
-      "summary": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses.",
-      "published": "2026-08-05T16:52:29+00:00",
       "source": "TechCrunch"
     },
     {
@@ -839,6 +788,16 @@
       "ai_summary": "Нова система Team Memory від Tencent дозволяє ШІ-агентам ділитися контекстом та спогадами всередині команди. Проте експерти зазначають, що інструмент наразі не має механізмів контролю помилок, якщо агенти надають недостовірну інформацію.",
       "ai_title": "Tencent випустила Team Memory для спільної роботи ШІ-агентів",
       "video_keywords": "team meeting, office computer, digital tablet, business workspace"
+    },
+    {
+      "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
+      "link": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "summary": "<p>For developers, the operating assumption has been one engineer, one agent — the model Claude Code and similar tools. <a href=\"https://venturebeat.com/vbtransform2026\">At VB Transform 2026</a>, James Zou, associate professor of biomedical data science at Stanford University, argued that assumption is about to break: the next frontier isn&#x27;t a single, more capable agent, it&#x27;s tens of tho",
+      "published": "2026-08-07T17:05:52+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Дослідники зі Стенфордського університету запустили віртуальну біотех-лабораторію на базі 37 000 автономних ШІ-агентів. Один із створених ними дизайн лікарських препаратів уже пройшов незалежну перевірку та підтвердження фармацевтичним гігантом Merck.",
+      "ai_title": "Віртуальна біотехнологія Стенфорда: 37 000 ШІ-агентів розробляють ліки",
+      "video_keywords": "laboratory, computers, screens, scientist, biotechnology"
     }
   ],
   "Крипта": [
@@ -871,16 +830,6 @@
       "ai_summary": "Фінансова компанія Marex зробила стратегічну інвестицію у проєкт Digital Prime задля розширення послуг кредитування для інституційних клієнтів. Отримані кошти підуть на вдосконалення платформи цифрових активів Tokenet на тлі зростаючого попиту з боку великих інвесторів.",
       "ai_title": "Marex інвестує у платформу Digital Prime для розвитку криптокредитування",
       "video_keywords": "financial charts, stock market trading floor, business handshake, modern office"
-    },
-    {
-      "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
-      "link": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto-backed Michigan House incumbent loses primary despite $2M PAC support\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-somebody-predict-the-next-us-elections-crypto.jpg\" /></p><p>A Midwest Democratic primary that raised accusations of payback from the cryptocurrency industry ended",
-      "published": "2026-08-05T16:51:54+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Демократ із Середнього Заходу, який активно підтримувався криптолобістами та отримав близько 2 мільйонів доларів від PAC, зазнав поразки на праймеріз. Ця кампанія супроводжувалася гучними звинуваченнями та спробами криптоіндустрії помститися політичним опонентам.",
-      "ai_title": "Кандидат від криптоіндустрії програв вибори у Мічигані попри мільйонні вкладення",
-      "video_keywords": "election results, sad politician, voting booth, political protest"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -1481,6 +1430,26 @@
       "ai_summary": "Криптовалютна біржа Bybit подала позов проти хакерського угруповання Lazarus Group із Північної Кореї через масштабну крадіжку активів. Компанії вдалося домогтися заморожування частини вкрадених коштів завдяки оперативно прийнятим судовим рішенням.",
       "ai_title": "Bybit судиться з Північною Кореєю через хакерську атаку на $1,5 мільярда",
       "video_keywords": "hacker typing on computer, digital code screen, courtroom gavel, cryptocurrency charts"
+    },
+    {
+      "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+      "link": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+      "summary": "",
+      "published": "2026-08-07T16:53:56+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Потенційні покупці відмовилися від угоди щодо придбання криптовалютної біржі BitMEX. Причинами стали питання до засновників компанії та поступове скорочення обсягів бізнесу платформи.",
+      "ai_title": "Угода про продаж біржі BitMEX зірвалася через проблеми з власниками",
+      "video_keywords": "cryptocurrency exchange, business meeting, handshake failed, office computer"
+    },
+    {
+      "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
+      "link": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Reform UK chair calls for probe into SBF-linked donation: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/sam-bankman-fried-portrait-uk.png\" /></p><p>As the chairman of the Reform UK calls for an investigation into a FTX-linked political donation, the party’s leader prepares to face vot",
+      "published": "2026-08-07T17:03:50+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Голова партії Reform UK закликав провести ретельне розслідування політичних пожертв, які мають зв'язок із опальним засновником FTX Семом Бенкманом-Фрідом. Це відбувається на тлі підготовки лідера партії до важливих виборів.",
+      "ai_title": "У Великобританії вимагають розслідувати пожертви, пов'язані з SBF",
+      "video_keywords": "politician speaking, press conference, uk flag, protest signs"
     }
   ]
 }
