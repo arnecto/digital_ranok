@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "summary": "<p>Article URL: <a href=\"https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/\">https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182041\">https://news.ycombinator.com/item?id=49182041</a></p>\n<p>Points: 95</p>\n<p># Comments: 32</p>",
-      "published": "2026-08-05T12:41:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Видання TIME почало надсилати спеціальну вебверсію сайту спеціально для ботів зі штучним інтелектом. Ця версія містить вбудовану рекламу, демонструючи нові методи монетизації контенту в епоху домінування AI-парсерів.",
-      "ai_title": "Журнал TIME показує штучному інтелекту спеціальну версію сайту з рекламою",
-      "video_keywords": "computer screen, typing, website browsing, server room"
-    },
-    {
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "link": "https://blog.cloudflare.com/cloudflare-os/",
       "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cloudflare-os/\">https://blog.cloudflare.com/cloudflare-os/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182996\">https://news.ycombinator.com/item?id=49182996</a></p>\n<p>Points: 40</p>\n<p># Comments: 15</p>",
@@ -29,16 +19,6 @@
       "ai_summary": "На платформі Hacker News презентували Vocab Top — інструмент для вивчення іноземних слів на базі AI. Сервіс створений для того, щоб покращити запам'ятовування та ефективність засвоєння нової лексики.",
       "ai_title": "Новий додаток Vocab Top допомагає вчити слова за допомогою штучного інтелекту",
       "video_keywords": "smartphone screen, typing, studying, learning online"
-    },
-    {
-      "title": "Universities would prefer no AI",
-      "link": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
-      "summary": "<p>Article URL: <a href=\"https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to\">https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182679\">https://news.ycombinator.com/item?id=49182679</a></p>\n<p>Points: 16</p>\n<p># Comments: 22</p>",
-      "published": "2026-08-05T13:32:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Вищі навчальні заклади дедалі більше висловлюють занепокоєння через поширення AI-інструментів серед студентів. Академічна спільнота дискутує про те, як зберегти чесність навчання в умовах розвитку технологій генеративного штучного інтелекту.",
-      "ai_title": "Університети прагнуть повністю відмовитися від штучного інтелекту",
-      "video_keywords": "university classroom, students studying, lecture hall, reading books"
     },
     {
       "title": "Google DeepMind CEO Demis Hassabis is stepping down",
@@ -539,29 +519,29 @@
       "ai_summary": "Нещодавнє зникнення Telegram з App Store викликало хвилю обговорень щодо подвійних стандартів компанії Apple. Месенджер, яким користуються понад мільярд людей, періодично стикається з обмеженнями, тоді як інші платформи залишаються недоторканними. Це ставить під загрозу безпечний зв'язок для користувачів у країнах із жорсткою цензурою.",
       "ai_title": "Чому Apple блокує Telegram, але не чіпає X?",
       "video_keywords": "smartphone screen, app store icon, typing on phone, mobile device"
+    },
+    {
+      "title": "The web server deployment model breaks at hobby scale",
+      "link": "https://w.on-t.work/web-deployment-model",
+      "summary": "<p>Article URL: <a href=\"https://w.on-t.work/web-deployment-model\">https://w.on-t.work/web-deployment-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209921\">https://news.ycombinator.com/item?id=49209921</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
+      "published": "2026-08-07T13:15:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує сучасні моделі розгортання веб-серверів та чому вони стають занадто складними для невеликих або аматорських проєктів. Традиційні підходи втрачають ефективність, створюючи зайві бар'єри для розробників-одинаків. Стаття викликала обговорення серед спільноти щодо пошуку простіших альтернатив.",
+      "ai_title": "Проблеми сучасних веб-серверів для хобі-проєктів",
+      "video_keywords": "server rack, glowing cables, programmer typing, modern office"
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "summary": "<p>Article URL: <a href=\"https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/\">https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208535\">https://news.ycombinator.com/item?id=49208535</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-07T11:00:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розглядаються технічні інновації у сфері баз даних, зокрема використання пакетної обробки, злиття операторів та інструкцій SIMD. Ці методи дозволяють досягти вражаючого прискорення виконання запитів для аналітичних завдань у PostgreSQL. Це відкриває нові можливості для роботи з великими масивами даних.",
+      "ai_title": "Як прискорити Postgres у 300 разів для аналітики",
+      "video_keywords": "data center, glowing screens, digital graphs, computer terminal"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
-      "link": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
-      "summary": "As streamers compete with social media giants for viewer attention, Disney+ is partnering with TikTok to bring creator content to its app.",
-      "published": "2026-08-05T13:21:43+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "У спробі конкурувати з гігантами соціальних мереж за увагу глядачів, стрімінговий сервіс укладає партнерство з TikTok. Тепер фанатський відеоконтент з'явиться у спеціальній стрічці платформи.",
-      "ai_title": "Disney+ інтегрує контент від творців TikTok у свій додаток",
-      "video_keywords": "smartphone screen, social media scrolling, young person watching video, app interface"
-    },
-    {
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-      "published": "2026-08-05T12:28:38+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відома українська компанія розробляє локальну версію свого AI-асистента Eney для розробників. Для цього використовуються передові моделі від Liquid AI, що забезпечують обробку даних безпосередньо на пристрої.",
-      "ai_title": "MacPaw інтегрує технології Liquid AI для локальної роботи штучного інтелекту",
-      "video_keywords": "programmer working on laptop, software code, modern office desk, developer typing"
-    },
     {
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
       "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
@@ -846,39 +826,19 @@
       "ai_summary": "Суд у Нью-Мексико ухвалив рішення про стягнення з корпорації Meta додаткового штрафу у розмірі 567 мільйонів доларів. Загальна сума штрафів для компанії у цій справі досягла 942 мільйонів доларів.",
       "ai_title": "Meta зобов'язали виплатити ще $567 млн у справі про безпеку дітей",
       "video_keywords": "courtroom, judge gavel, smartphone screen, business person stressed"
+    },
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "published": "2026-08-07T12:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Конференція TechCrunch Disrupt 2026 зосереджена на ключовому питанні сучасності — як побудувати стійкий бізнес в епоху штучного інтелекту. Організатори підготували оновлену програму та зірковий склад спікерів, які поділяться інсайтами індустрії.",
+      "ai_title": "TechCrunch Disrupt 2026: головний гід для засновників стартапів",
+      "video_keywords": "conference stage, business presentation, audience listening, speaker on stage"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
-      "link": "https://cointelegraph.com/markets/crypto-whales-buy-bear-market-late-stage-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto whales accumulate as bear market nears late stage: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-34555-analysts-laugh-off-recent-one-whale-theory-of-btcs-2017-bull-run.jpg\" /></p><p>Bitcoin, Ethereum and XRP whales increased balances during market weakness, ",
-      "published": "2026-08-05T14:08:27+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Аналітики CryptoQuant фіксують значне збільшення балансів великих гравців на ринку під час нещодавнього спаду. Це свідчить про те, що ведмежий ринок може наближатися до своєї завершальної стадії, оскільки інвестори накопичують актив.",
-      "ai_title": "Криптокити масово скуповують біткоїн на тлі ведмежого ринку",
-      "video_keywords": "cryptocurrency chart, whale swimming, trading terminal, financial graph"
-    },
-    {
-      "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
-      "link": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Do the Coldcard attacks mean all hardware wallets are now insecure?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg\" /></p><p>The Coldcard entropy flaw caused a crisis of confidence in hardware wallets. Here’s the details you need to kno",
-      "published": "2026-08-05T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Нещодавні проблеми з безпекою та вразливості в гаманцях Coldcard викликали серйозну кризу довіри серед користувачів криптогаманців. Експерти аналізують, чи означають ці інциденти глобальну загрозу для безпеки всього ринку апаратних сховищ.",
-      "ai_title": "Чи стали апаратні гаманці вразливими після атак на Coldcard?",
-      "video_keywords": "hardware wallet, USB flash drive, computer security, cybersecurity hacking"
-    },
-    {
-      "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
-      "link": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mastercard, Borderless test shared identity checks for stablecoin transfers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitlicense-approval-shines-fresh-light-on-new-york-crypto-mastercard.jpg\" /></p><p>Mastercard and Borderless are exploring ways to bring more trust into cross-border s",
-      "published": "2026-08-05T13:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанії об'єднали зусилля для впровадження спільних перевірок особи під час транскордонних переказів у стейблкоїнах. Це має підвищити рівень довіри та безпеки у секторі цифрових активів.",
-      "ai_title": "Mastercard та Borderless тестують перевірку ідентифікації для стейблкоїнів",
-      "video_keywords": "credit card payment, online shopping, financial transaction, smartphone payment"
-    },
     {
       "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
       "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
@@ -898,16 +858,6 @@
       "ai_summary": "Цінні папери Strategy продемонстрували стрибок на 30%, оскільки компанія змогла суттєво наростити свої готівкові резерви. Це стало можливим завдяки стабілізації курсу першої криптовалюти на ринку. Поліпшення фінансових показників повернуло довіру інвесторів до стратегії компанії.",
       "ai_title": "Акції Strategy стрімко відіграють падіння на тлі стабілізації біткоїна",
       "video_keywords": "stock market chart, trading floor, financial graphs, digital currency screen"
-    },
-    {
-      "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
-      "link": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-      "summary": "",
-      "published": "2026-08-05T13:25:04+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Laser Digital, що належить японському гіганту Nomura, інвестувала в мережу ZIGChain. Головна мета — розвиток ринку приватного кредитування на базі блокчейна в Об'єднаних Арабських Еміратах. Регіон продовжує активно залучати блокчейн-ініціативи завдяки сприятливому регулюванню.",
-      "ai_title": "Криптопідрозділ Nomura підтримав блокчейн-проєкт ZIGChain для розвитку кредитування в ОАЕ",
-      "video_keywords": "modern skyscraper, futuristic city, business handshake, digital tablet"
     },
     {
       "title": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
@@ -1438,6 +1388,56 @@
       "ai_summary": "Останнім часом коливання курсу біткоїна помітно зменшилися, що робить його схожим на традиційні активи. Проте фінансові експерти попереджають, що прихожені ризики на ринку криптовалют нікуди не зникли.",
       "ai_title": "Волатильність біткоїна зникла, але ризики залишилися",
       "video_keywords": "bitcoin chart, financial graph, trading screen, stock market"
+    },
+    {
+      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
+      "link": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+      "summary": "",
+      "published": "2026-08-07T12:31:51+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "У липні в США несподівано скоротили 23 000 робочих місць. Ця ситуація змушує експертів засумніватися у подальшому підвищенні процентних ставок Федеральною резервною системою.",
+      "ai_title": "В США несподівано скоротили робочі місця, що ставить під сумнів дії ФРС",
+      "video_keywords": "stock market, trading floor, financial charts, business people"
+    },
+    {
+      "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
+      "link": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fierce backlash to Ethereum’s EIP-8363 staking proposal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazineback-to-ethereum.jpg\" /></p><p>Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
+      "published": "2026-08-07T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Нова пропозиція щодо стейкінгу Ethereum EIP-8363 спрямована на зменшення емісії монет. Проте критики застерігають, що це може негативно вплинути на сектор DeFi, децентралізацію та інституційне впровадження.",
+      "ai_title": "Суперечлива пропозиція оновлення Ethereum зустріла жорстку критику",
+      "video_keywords": "ethereum logo, digital currency, crypto trading, computer monitors"
+    },
+    {
+      "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+      "link": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoiners turn to dice throws as self-custody setups are re-evaluated\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong.png\" /></p><p>Dice entropy may become the new gold standard after the Coldcard hack\n</p>",
+      "published": "2026-08-07T13:00:01+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Після злому холодних гаманців прихильники криптовалют почали використовувати випадковість гральних кісток для генерації ключів. Ентропія від кидків кубиків стає новим методом налаштування самостійного зберігання активів.",
+      "ai_title": "Власники біткоїнів переходять на кидки гральних кісток для безпеки",
+      "video_keywords": "rolling dice, casino table, hand throwing dice, macro shot"
+    },
+    {
+      "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
+      "link": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia cracks down on 9 crypto exchanges in Moscow City\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-russias-law-on-crypto-whats-the-latest.jpg\" /></p><p>Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through",
+      "published": "2026-08-07T12:28:41+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "У російській столиці припинено роботу дев'яти незареєстрованих криптообмінних пунктів. За версією ФСБ, через них виводили за кордон кошти, здобуті шахрайським шляхом.",
+      "ai_title": "У Москві силовики закрили дев'ять криптообмінників",
+      "video_keywords": "police raid, security officers, Moscow skyscrapers, arrest"
+    },
+    {
+      "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
+      "link": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CEX perpetual futures volume falls to $4T, lowest since late 2023\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-market-trading-trader-breaking-news.jpg\" /></p><p>Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on d",
+      "published": "2026-08-07T12:13:40+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Торгові обсяги безстроковими ф'ючерсами на централізованих криптобіржах знизилися до 4 трильйонів доларів. Це найнижчий показник активності трейдерів із кінця 2023 року.",
+      "ai_title": "Обсяги торгів безстроковими ф'ючерсами на біржах впали до мінімуму",
+      "video_keywords": "crypto trading terminal, computer screens, financial graphs, trader at work"
     }
   ]
 }
