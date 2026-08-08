@@ -549,19 +549,29 @@
       "ai_summary": "Компанія DeepMind представила нову погодні модель WeatherNext, яка значно покращила точність передбачення руйнівних циклонів. Це досягнення відкриває нові можливості для раннього попередження стихійних лих та захисту населення.",
       "ai_title": "Штучний інтелект від DeepMind здійснив прорив у прогнозуванні циклонів",
       "video_keywords": "hurricane satellite view, severe weather, storm clouds, meteorology radar"
+    },
+    {
+      "title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still [&#8230;]",
+      "published": "2026-08-08T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Ринок бюджетних ноутбуків переживає складні часи через дефіцит оперативної пам'яті та застарілі компоненти. На цьому тлі поява надзвичайно дешевих лептопів викликає чимало сумнівів щодо їхньої реальної якості та продуктивності. Експерти аналізують, чи здачні подібні пристрої конкурувати з відомими ринковими аналогами.",
+      "ai_title": "Чи варто купувати ультрадешевий ноутбук за 450 доларів від маловідомого бренду",
+      "video_keywords": "laptop unboxing, person typing on keyboard, tech review, computer store"
+    },
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/\">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220609\">https://news.ycombinator.com/item?id=49220609</a></p>\n<p>Points: 20</p>\n<p># Comments: 9</p>",
+      "published": "2026-08-08T10:57:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти опублікували детальний таймлайн інциденту, пов'язаного з випадковою атакою систем OpenAI на репозиторій Hugging Face. Ця подія викликала занепокоєння в спільноті розробників та підняла питання безпеки взаємодії між великими мовними моделями та відкритими платформами. Детальний розбір допомагає зрозуміти, як стався збій і яких заходів вжито для запобігання подібному в майбутньому.",
+      "ai_title": "Оприлюднено хронологію випадкової кібератаки OpenAI на платформу Hugging Face",
+      "video_keywords": "typing code on screen, hacker in dark room, server room flashing lights, cybersecurity monitor"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
-      "published": "2026-08-06T13:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Mirendil підписав масштабний контракт із Google Cloud для розширення обчислювальної інфраструктури. Кошти спрямують на дослідження самовдосконалюваних систем штучного інтелекту для наукових відкриттів.",
-      "ai_title": "Mirendil уклала угоду з Google Cloud на понад $100 мільйонів для розвитку ШІ",
-      "video_keywords": "server room, data center, glowing cables, IT engineer"
-    },
     {
       "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
       "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
@@ -571,16 +581,6 @@
       "ai_summary": "Компанія Google оновлює карток сервіс, додаючи автономні агентські функції. Тепер користувачі зможуть замовляти їжу та бронювати номери готелів безпосередньо через інтерфейс навігатора.",
       "ai_title": "Google Maps перетворюється на ШІ-асистента з функцією замовлення їжі та готелів",
       "video_keywords": "smartphone screen, navigation map, GPS routing, finger touching screen"
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
-      "published": "2026-08-06T12:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Omilia успішно завершила новий раунд фінансування серії B на суму $67 мільйонів. За останні роки стартап зміг у десять разів збільшити свої річні регулярні доходи, досягши позначки у $60 мільйонів.",
-      "ai_title": "Платформа підтримки клієнтів Omilia залучила $67 мільйонів інвестицій",
-      "video_keywords": "call center, customer service agent, headset microphone, office workspace"
     },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -770,26 +770,6 @@
       "ai_summary": "Компанія Blockchain.com успішно здобула ліцензію на надання послуг зберігання криптовалют від регуляторів Кайманових островів. Це розширює легальну присутність платформу після попередніх схвалень за правилами MiCA та FCA.",
       "ai_title": "Blockchain.com отримала ліцензію на кастодіальні послуги на Кайманових островах",
       "video_keywords": "smartphone, security, businessman, office"
-    },
-    {
-      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
-      "link": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zeus Wallet taken offline after cyberattack, says no customer funds at risk\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-governance-issues-and-challenges.jpg\" /></p><p>The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Ka",
-      "published": "2026-08-06T12:11:49+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Популярний некастодіальний гаманця для Bitcoin Lightning Network був змушений вимкнути інфраструктуру після виявлення інциденту безпеки. Розробники запевняють, що кошти користувачів залишаються в безпеці та не постраждали.",
-      "ai_title": "Zeus Wallet тимчасово призупинив роботу через кібератаку",
-      "video_keywords": "laptop, security alert, hacker, typing"
-    },
-    {
-      "title": "Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis",
-      "link": "https://cointelegraph.com/news/crypto-wrench-attacks-steal-30-million-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ledger-is-in-deep-trouble-that-may-only-just-be-starting.png\" /></p><p>While only 12 of 46 documented attempts resulted in payment, data leaks and attacks on relatives are ",
-      "published": "2026-08-06T12:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Аналітична компанія Chainalysis зафіксувала тривожну тенденцію зростання кількості фізичних нападів на власників криптовалюти заради викрадення активів. Попри те, що більшість спроб зриваються, збитки від таких інцидентів продовжують зростати.",
-      "ai_title": "Криптошахраї та фізичні напади принесли понад $30 мільйонів збитків у 2026 році",
-      "video_keywords": "police, handcuffs, crime scene, dark alley"
     },
     {
       "title": "10 weirdest things ever tokenized... including farts",
