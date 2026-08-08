@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is [&#8230;]",
-      "published": "2026-08-06T13:26:42+00:00",
-      "source": "The Verge",
-      "ai_summary": "Google оголосила про найбільшу структурну перебудову свого підрозділу штучного інтелекту, намагаючись зберегти імідж стабільного лідера ринку. Проте за зовнішнім спокоєм ховаються складні політичні та управлінські рішення, які визначатимуть майбутнє компанії в галузі AI. Керівництво намагається переформатувати команди для прискорення інновацій та конкуренції.",
-      "ai_title": "Внутрішні конфлікти за лаштунками масштабної реорганізації штучного інтелекту в Google",
-      "video_keywords": "corporate office, business meeting, modern building, executives"
-    },
-    {
       "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
       "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
       "summary": "<p>Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203059\">https://news.ycombinator.com/item?id=49203059</a></p>\n<p>Points: 33</p>\n<p># Comments: 13</p>",
@@ -549,6 +539,16 @@
       "ai_summary": "Експерти пропонують переглянути класичний розподіл завдань між CPU та GPU для прискорення інференсу штучного інтелекту. Такий підхід дозволяє ефективніше використовувати обчислювальні ресурси при запуску сучасних LLM. Це може суттєво знизити витрати на інфраструктуру дата-центрів.",
       "ai_title": "Повернення центральних процесорів: як оптимізувати роботу з великими мовними моделями",
       "video_keywords": "server room, cpu chip, motherboards, electronics repair"
+    },
+    {
+      "title": "My favorite feel-good show is back",
+      "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, [&#8230;]",
+      "published": "2026-08-08T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Щотижневий огляд цікавих подій у світі технологій та поп-культури від видання The Verge. Серед тем випуску — нові матеріали про Джонні Ноксвілла, проєкт Google Zero та історія виникнення велосипеда.",
+      "ai_title": "Повернення улюбленого шоу та огляд цікавих новин тижня",
+      "video_keywords": "reading magazine, browsing internet, person typing on laptop, modern office"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1230,6 +1230,26 @@
       "ai_summary": "Компанія T. Rowe Price, яка управляє активами на трильйони доларів, включила спекулятивні мемкоїни до свого нового криптовалютного ETF. Цей крок демонструє несподівану зміну стратегії консервативних інституційних гравців щодо високоризикових активів.",
       "ai_title": "Традиційний інвестиційний гігант додав мемкоїни до свого криптофонду",
       "video_keywords": "cryptocurrency trading, digital coins, stock market graphs, financial screens"
+    },
+    {
+      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "summary": "",
+      "published": "2026-08-08T14:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керівник компанії Bitwise Метт Хоуган заявив про неминучість масштабних інвестицій у першу криптовалюту з боку великих інституційних гравців. За його словами, ринок перебу на порозі припливу трильйонів доларів традиційного капіталу.",
+      "ai_title": "Bitwise прогнозує приплив трильйонів інституційного капіталу в біткоїн",
+      "video_keywords": "financial charts, stock market trading, digital currency, modern office skyscraper"
+    },
+    {
+      "title": "Bitcoin will never fall below $60K again: Nansen founder",
+      "link": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin will never fall below $60K again: Nansen founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/alex-svanevik-interview.jpg\" /></p><p>Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.</p",
+      "published": "2026-08-08T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Засновник аналітичної платформи Nansen Алекс Сваневік переконаний, що завдяки розвитку торгівлі реанімованими активами криптовалютна індустрія подорослішала. Це гарантує, що ціна біткоїна більше ніколи не опуститься нижче психологічної позначки у 60 тисяч доларів.",
+      "ai_title": "Основи крипторинку: біткоїн більше ніколи не впаде нижче 60 тисяч доларів",
+      "video_keywords": "bitcoin coins, cryptocurrency trading, trading monitors, financial graphs"
     }
   ]
 }
