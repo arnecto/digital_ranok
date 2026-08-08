@@ -1,12 +1,4 @@
 {
-  "https://status.claude.com/incidents/q2kg8n613kr3": {
-    "title": "Масштабний збій у роботі штучного інтелекту Claude",
-    "category": "IT / AI",
-    "posted_at": "2026-07-31T21:15:39.747000+03:00",
-    "summary": "Користувачі по всьому світу зіткнулися з тимчасовою недоступністю популярного чат-бота Claude через технічні проблеми на серверах. Компанія-розробник оперативно відреагувала на інцидент і працює над відновленням повноцінної роботи сервісу. Наразі офіційна сторінка статусу підтверджує наявність неполадок.",
-    "video_keywords": "server room, error screen, computer monitor, frustrated user",
-    "link": "https://status.claude.com/incidents/q2kg8n613kr3"
-  },
   "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that": {
     "title": "Нові стартапи вирішують проблему взаємодії та безпеки корпоративних ШT-агентів",
     "category": "Бізнес / Стартапи",
@@ -798,5 +790,13 @@
     "summary": "Новий технічний розбір детально описує внутрішню будову vLLM — системи для надшвидкого та ефективного виконання великих мовних моделей. Автор пояснює ключові механізми оптимізації пам'яті та пропускної здатності для сучасного штучного інтелекту.",
     "video_keywords": "server room, flashing lights, data center, computer monitor",
     "link": "https://www.aleksagordic.com/blog/vllm"
+  },
+  "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi": {
+    "title": "Революційний AI-комп'ютер Liquid AI працює навіть на Raspberry Pi",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-08-08T22:30:55.302601+03:00",
+    "summary": "Стартап Liquid AI представив нову компактну модель LFM2.5-2.6B, якій не потрібні хмарні сервери чи потужні відеокарти. Цей штучний інтелект здатний працювати безпосередньо на мініатюрних пристроях на кшталт Raspberry Pi.",
+    "video_keywords": "microchip, circuit board, single board computer, tech workspace",
+    "link": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi"
   }
 }
