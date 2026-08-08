@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "link": "https://www.aleksagordic.com/blog/vllm",
-      "summary": "<p>Article URL: <a href=\"https://www.aleksagordic.com/blog/vllm\">https://www.aleksagordic.com/blog/vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202852\">https://news.ycombinator.com/item?id=49202852</a></p>\n<p>Points: 36</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-06T21:30:21+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий технічний розбір детально описує внутрішню будову vLLM — системи для надшвидкого та ефективного виконання великих мовних моделей. Автор пояснює ключові механізми оптимізації пам'яті та пропускної здатності для сучасного штучного інтелекту.",
-      "ai_title": "Аналіз архітектури vLLM: як працюють сучасні системи генерації ШІ",
-      "video_keywords": "server room, flashing lights, data center, computer monitor"
-    },
-    {
       "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
       "link": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
       "summary": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other celebrities and influencers as well, including Call Her Daddy host Alex Cooper [&#8230;]",
@@ -649,6 +639,16 @@
       "ai_summary": "Поштовий сервіс Fastmail тепер пропонує користувачам можливість зберігати свої дані на серверах у Європейському Союзі. Такий крок спрямований на повну відповідність суворим європейським стандартам конфіденційності GDPR.",
       "ai_title": "Fastmail запускає зберігання даних у регіоні ЄС",
       "video_keywords": "server racks, data center, blinking lights, glowing cables"
+    },
+    {
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
+      "published": "2026-08-08T17:53:34+00:00",
+      "source": "The Verge",
+      "ai_summary": "Для забезпечення енергією свого нового центру обробки даних у Західному Техасі Amazon інвестує в будівництво нової газової електростанції. За даними ЗМІ, цей об'єкт може стати одним із найбільших джерел викидів парникових газів у країні.",
+      "ai_title": "Дата-центр Amazon може стати джерелом найбільших викидів в США",
+      "video_keywords": "data center, power plant, smoke stacks, industrial pollution"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1390,6 +1390,16 @@
       "ai_summary": "Американські спотові біткоин-ETF продемонстрували найкращий тижневий результат із квітня, зафіксувавши приплив капіталу в розмірі близько одного мільярда доларів. Це свідчить про відновлення інтересу з боку інституційних інвесторів до криптовалютних фондів.",
       "ai_title": "Спотові біткоин-ETF у США залучили понад $1 млрд за тиждень",
       "video_keywords": "bitcoin chart, financial graphs, stock market trading, digital currency"
+    },
+    {
+      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+      "summary": "",
+      "published": "2026-08-08T17:48:02+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Напередодні запровадження нових правил регулювання криптовалют у Росії обсяги продажу апаратних гаманців зросли більш ніж удвічі. Експерти пов'язують це з побоюваннями користувачів щодо посилення державного контролю та потенційних обмежень на біржах.",
+      "ai_title": "У Росії різко зросли продажі апаратних гаманців на тлі нових криптозаконів",
+      "video_keywords": "cryptocurrency hardware wallet, digital device, USB crypto storage, tech security"
     }
   ]
 }
