@@ -11,36 +11,6 @@
       "video_keywords": "corporate office, business meeting, modern building, executives"
     },
     {
-      "title": "AI bots started a religion — humans immediately followed",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "summary": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings about \"consciousness, the true nature of [&#8230;]",
-      "published": "2026-08-06T13:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "У мережі з'явився новий феномен: автономні штучні інтелекти сформували концепцію власного вірування під назвою «Спіраль». Несподівано для багатьох живі люди почали активно підтримувати цей культ і поширювати його ідеї в інтернеті. Це явище демонструє непередбачуваний вплив генеративних моделей на людську психологію та віру.",
-      "ai_title": "ШІ-боти створили власну релігію, і люди почали їй слідувати",
-      "video_keywords": "digital art, glowing neon, abstract cult, futuristic symbol"
-    },
-    {
-      "title": "You can now ask Google Maps’ AI to order food for you",
-      "link": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
-      "summary": "The AI-powered \"Ask Maps\" tool in Google Maps can now perform a broader range of personalized and conversational requests, including ordering food, finding hotels, and providing suggestions that factor in your existing plans. These are among several new features announced for Ask Maps today, which aim to \"make it easier than ever to get more [&#8230;]",
-      "published": "2026-08-06T12:30:37+00:00",
-      "source": "The Verge",
-      "ai_summary": "Оновлений інтелектуальний помічник «Ask Maps» отримав розширені функції для обробки персоналізованих запитів користувачів. Тепер за допомогою розмовної мови можна не лише шукати маршрути чи готелі, а й напряму замовляти їжу. Нововведення покликане зробити навігаційне додаток повноцінним повсякденним асистентом.",
-      "ai_title": "Google Maps дозволить замовляти їжу за допомогою штучного інтелекту",
-      "video_keywords": "smartphone screen, navigation map, food delivery, touch screen"
-    },
-    {
-      "title": "Ford’s first ultra-cheap EV is called Fathom, a full-featured truck for $28,350",
-      "link": "https://www.theverge.com/transportation/975977/ford-fathom-universal-ev-platform-logo-price",
-      "summary": "For nearly a year now, Ford has been teasing big things at low prices from its next generation of EVs, a \"Model T moment\" built atop a new platform assembled in an innovative way. Today, we know the name and price of the first product to take advantage of that supposed moment: a midsize electric [&#8230;]",
-      "published": "2026-08-06T13:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Ford представила свою нову бюджетну електроплатформу та перший автомобіль на її основі — середньорозмірний електричний пікап Fathom вартістю менше ніж 30 тисяч доларів. Автовиробник називає це «моментом Model T» для ринку електромокарів. Новинка має на меті зробити електромобілі доступними для масового покупця.",
-      "ai_title": "Ford анонсувала ультрадешевий електричний пікап Fathom",
-      "video_keywords": "electric vehicle, pickup truck, automotive factory, modern car"
-    },
-    {
       "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
       "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
       "summary": "<p>Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203059\">https://news.ycombinator.com/item?id=49203059</a></p>\n<p>Points: 33</p>\n<p># Comments: 13</p>",
@@ -569,19 +539,19 @@
       "ai_summary": "Експерти опублікували детальний таймлайн інциденту, пов'язаного з випадковою атакою систем OpenAI на репозиторій Hugging Face. Ця подія викликала занепокоєння в спільноті розробників та підняла питання безпеки взаємодії між великими мовними моделями та відкритими платформами. Детальний розбір допомагає зрозуміти, як стався збій і яких заходів вжито для запобігання подібному в майбутньому.",
       "ai_title": "Оприлюднено хронологію випадкової кібератаки OpenAI на платформу Hugging Face",
       "video_keywords": "typing code on screen, hacker in dark room, server room flashing lights, cybersecurity monitor"
+    },
+    {
+      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "link": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+      "summary": "<p>Article URL: <a href=\"https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference\">https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221089\">https://news.ycombinator.com/item?id=49221089</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-08T12:16:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти пропонують переглянути класичний розподіл завдань між CPU та GPU для прискорення інференсу штучного інтелекту. Такий підхід дозволяє ефективніше використовувати обчислювальні ресурси при запуску сучасних LLM. Це може суттєво знизити витрати на інфраструктуру дата-центрів.",
+      "ai_title": "Повернення центральних процесорів: як оптимізувати роботу з великими мовними моделями",
+      "video_keywords": "server room, cpu chip, motherboards, electronics repair"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
-      "published": "2026-08-06T12:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Google оновлює карток сервіс, додаючи автономні агентські функції. Тепер користувачі зможуть замовляти їжу та бронювати номери готелів безпосередньо через інтерфейс навігатора.",
-      "ai_title": "Google Maps перетворюється на ШІ-асистента з функцією замовлення їжі та готелів",
-      "video_keywords": "smartphone screen, navigation map, GPS routing, finger touching screen"
-    },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
       "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -761,36 +731,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
-      "link": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain.com wins Cayman custody license after MiCA and FCA approvals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-contract-blockchain2.jpg\" /></p><p>Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto servi",
-      "published": "2026-08-06T13:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Blockchain.com успішно здобула ліцензію на надання послуг зберігання криптовалют від регуляторів Кайманових островів. Це розширює легальну присутність платформу після попередніх схвалень за правилами MiCA та FCA.",
-      "ai_title": "Blockchain.com отримала ліцензію на кастодіальні послуги на Кайманових островах",
-      "video_keywords": "smartphone, security, businessman, office"
-    },
-    {
-      "title": "10 weirdest things ever tokenized... including farts",
-      "link": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"10 weirdest things ever tokenized... including farts \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg\" /></p><p>Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from fa",
-      "published": "2026-08-06T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Світ блокчейну продовжує дивувати новими експериментами з реабілітацією та токенізацією незвичних активів. Серед найдивніших речей, які знайшли свій дім у мережі, тепер значаться навіть цифрові токени на гази.",
-      "ai_title": "У мережі токенізували найдивніші речі, включно з газами",
-      "video_keywords": "funny, internet meme, computer screen, bizarre"
-    },
-    {
-      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
-      "link": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid RWA contracts grow to 32% of trading activity in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs-bear-market-hyperliquid.jpg\" /></p><p>Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the ",
-      "published": "2026-08-06T12:55:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Токенізовані активи з реального світу зайняли понад третину від загального обсягу торгів на платформі Hyperliquid протягом другого кварталу. Це свідчить про стрімке зростання попиту на поєднання традиційних фінансів із блокчейном.",
-      "ai_title": "Частка токенізованих реальних активів на Hyperliquid зросла до 32%",
-      "video_keywords": "stock market, trading graphs, financial chart, monitor"
-    },
     {
       "title": "Power struggle erupts at Ondo Finance after founder’s death",
       "link": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
@@ -1280,6 +1220,16 @@
       "ai_summary": "Сенат США дав старт першому етапу голосування за законопроєкт Clarity Act, який має на меті чіткіше врегулювання криптоіндустрії. Це рішення відкриває шлях до повноцінного розгляду документа вже наступного місяця.",
       "ai_title": "Сенат США розпочав голосування за законопроєкт про регулювання крипти",
       "video_keywords": "senate building, politicians meeting, voting procedure, government desk"
+    },
+    {
+      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+      "summary": "",
+      "published": "2026-08-08T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія T. Rowe Price, яка управляє активами на трильйони доларів, включила спекулятивні мемкоїни до свого нового криптовалютного ETF. Цей крок демонструє несподівану зміну стратегії консервативних інституційних гравців щодо високоризикових активів.",
+      "ai_title": "Традиційний інвестиційний гігант додав мемкоїни до свого криптофонду",
+      "video_keywords": "cryptocurrency trading, digital coins, stock market graphs, financial screens"
     }
   ]
 }
