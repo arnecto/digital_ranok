@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-      "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
-      "summary": "<p>Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203059\">https://news.ycombinator.com/item?id=49203059</a></p>\n<p>Points: 33</p>\n<p># Comments: 13</p>",
-      "published": "2026-08-06T21:49:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Класичну гру Pokémon Emerald успішно перенесли на новий мікроконтроллер RP2350 без використання емулятора. Проєкт працює зі швидкістю 60 кадрів за секунду з виведенням зображення через HDMI завдяки залученню двох ядер чіпа.",
-      "ai_title": "Гру в Pokémon Emerald запустили на мікроконтролері Raspberry Pi Pico 2",
-      "video_keywords": "microchip, circuit board, soldering iron, computer screen"
-    },
-    {
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
       "link": "https://www.aleksagordic.com/blog/vllm",
       "summary": "<p>Article URL: <a href=\"https://www.aleksagordic.com/blog/vllm\">https://www.aleksagordic.com/blog/vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202852\">https://news.ycombinator.com/item?id=49202852</a></p>\n<p>Points: 36</p>\n<p># Comments: 2</p>",
@@ -549,6 +539,46 @@
       "ai_summary": "Щотижневий огляд цікавих подій у світі технологій та поп-культури від видання The Verge. Серед тем випуску — нові матеріали про Джонні Ноксвілла, проєкт Google Zero та історія виникнення велосипеда.",
       "ai_title": "Повернення улюбленого шоу та огляд цікавих новин тижня",
       "video_keywords": "reading magazine, browsing internet, person typing on laptop, modern office"
+    },
+    {
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "summary": "<p>Article URL: <a href=\"https://social.treehouse.systems/@mgorny/117058483039362779\">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221864\">https://news.ycombinator.com/item?id=49221864</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-08T13:55:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники дистрибутива Gentoo зіткнулися з масовим перевантаженням своєї системи відстеження помилок Bugzilla. Причиною стали боти штучного інтелекту, які агресивно скачують дані, що змусило обмежити доступ.",
+      "ai_title": "Gentoo закриває Bugzilla через надмірне навантаження від ШІ-краулерів",
+      "video_keywords": "server room, flashing lights, computer terminal, data center"
+    },
+    {
+      "title": "Voyager 1 FDS Computer Emulator",
+      "link": "https://zaneham.github.io/voyager-fds-emulator/",
+      "summary": "<p>Article URL: <a href=\"https://zaneham.github.io/voyager-fds-emulator/\">https://zaneham.github.io/voyager-fds-emulator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221679\">https://news.ycombinator.com/item?id=49221679</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-08T13:28:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти створили робочий емулятор системи обробки даних (FDS) легендарного зонда Voyager 1. Тепер кожен може дослідити, як працює старе комп'ютерне залізо космічного апарата, що лежить на краю Сонячної системи.",
+      "ai_title": "Емулятор бортового комп'ютера космічного апарата Voyager 1",
+      "video_keywords": "retro computer, programming code, vintage hardware, computer screen"
+    },
+    {
+      "title": "A domain can now say it is for sale, in DNS",
+      "link": "https://specification.website/spec/foundations/for-sale-dns/",
+      "summary": "<p>Article URL: <a href=\"https://specification.website/spec/foundations/for-sale-dns/\">https://specification.website/spec/foundations/for-sale-dns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221668\">https://news.ycombinator.com/item?id=49221668</a></p>\n<p>Points: 40</p>\n<p># Comments: 16</p>",
+      "published": "2026-08-08T13:26:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено специфікацію, яка дає змогу власнику домену публікувати інформацію про його продаж через систему доменних імен (DNS). Це спрощує пошук вільних або доступних для купівлі адрес у мережі.",
+      "ai_title": "Новий стандарт дозволяє вказувати статус продажу домену прямо в DNS",
+      "video_keywords": "typing keyboard, internet browser, website interface, computer monitor"
+    },
+    {
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "link": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "summary": "<p>Article URL: <a href=\"https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/\">https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221220\">https://news.ycombinator.com/item?id=49221220</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-08T12:31:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технічні оглядачі опублікували другу частину ретро-розбору найдивніших і найсмішніших рекламних кампаній виробника ПК Gateway 2000. Реклама з минулого століття демонструє дивовижні маркетинг-підходи того часу до продажу техніки.",
+      "ai_title": "Добірка курйозної та дивної реклами комп'ютерів Gateway 2000 із 90-х",
+      "video_keywords": "vintage television, 90s style, old computer, retro advertising"
     }
   ],
   "Бізнес / Стартапи": [
