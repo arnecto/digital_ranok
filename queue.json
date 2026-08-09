@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The web server deployment model breaks at hobby scale",
-      "link": "https://w.on-t.work/web-deployment-model",
-      "summary": "<p>Article URL: <a href=\"https://w.on-t.work/web-deployment-model\">https://w.on-t.work/web-deployment-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209921\">https://news.ycombinator.com/item?id=49209921</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
-      "published": "2026-08-07T13:15:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує сучасні моделі розгортання веб-серверів та чому вони стають занадто складними для невеликих або аматорських проєктів. Традиційні підходи втрачають ефективність, створюючи зайві бар'єри для розробників-одинаків. Стаття викликала обговорення серед спільноти щодо пошуку простіших альтернатив.",
-      "ai_title": "Проблеми сучасних веб-серверів для хобі-проєктів",
-      "video_keywords": "server rack, glowing cables, programmer typing, modern office"
-    },
-    {
       "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
       "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
       "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/\">https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49210589\">https://news.ycombinator.com/item?i",
@@ -919,16 +909,6 @@
   ],
   "Крипта": [
     {
-      "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
-      "link": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-etf-hack-hacking-falling-jeans.jpg\" /></p><p>Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching",
-      "published": "2026-08-07T11:05:01+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "На біржі Binance зафіксовано рекордний розрив між спотовою та деривативною торгівлею біткоїном. Обсяги ф'ючерсів перевищили спотові показники у вісім разів, що свідчить про зростання спекулятивного інтересу трейдерів.",
-      "ai_title": "Обсяги ф'ючерсів на Binance у вісім разів перевищили спотові",
-      "video_keywords": "trading graphs, crypto exchange screens, financial charts, stock market monitors"
-    },
-    {
       "title": "Bitcoin’s volatility has nearly disappeared. The risk hasn’t.",
       "link": "https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t",
       "summary": "",
@@ -1337,6 +1317,16 @@
       "ai_summary": "З 2027 року в Бразилії почнуть діяти нові правила для криптотранзакцій на суму понад 10 000 доларів. Вони передбачають затримку переказів на закордонні біржі чи холодні гаманці терміном до 24 годин задля запобігання шахрайству.",
       "ai_title": "Бразилія вводить блокування криптопереказів до доби для боротьби з шахрайством",
       "video_keywords": "smartphone screen, cryptocurrency wallet, financial transaction, digital security"
+    },
+    {
+      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+      "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIP-110 Bitcoin branch stalls after two blocks as gap widens\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-seeks-ipo.png\" /></p><p>The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.</p>",
+      "published": "2026-08-09T11:00:53+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Експериментальний форк Біткоїна на базі BIP-110 застряг через відсутність достатньої підтримки з боку майнерів. Ланцюжок зупинився на другому блоці через високу складність мережі та брак обчислювальної потужності.",
+      "ai_title": "Нове хардфорк-відгалуження Біткоїна зупинилося після двох блоків",
+      "video_keywords": "bitcoin mining, crypto server room, computer code screen, data center"
     }
   ]
 }
