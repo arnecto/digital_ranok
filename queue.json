@@ -729,6 +729,36 @@
       "ai_summary": "Штат Іллінойс зобов'язує всі операційні системи впровадити механізми перевірки віку та звітувати про неповнолітніх користувачів. Це рішення викликало занепокоєння щодо конфіденційності даних та масового стеження за користувачами. Нові правила можуть стати прецедентом для інших регіонів США.",
       "ai_title": "В Іллінойсі вимагають від розробників ОС збирати дані про вік дітей",
       "video_keywords": "smartphone screen, teenager using phone, coding on laptop, data security"
+    },
+    {
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "link": "https://marketnow.site/",
+      "summary": "<p>Article URL: <a href=\"https://marketnow.site/\">https://marketnow.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228086\">https://news.ycombinator.com/item?id=49228086</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-09T03:13:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено інструмент для реального часу, який перехоплює дії автономних агентів. Він ефективно блокує читання конфіденційних файлів та виконання небезпечних команд у системі.",
+      "ai_title": "Захист ШІ-агентів: новий перехоплювач блокує небезпечні команди",
+      "video_keywords": "cybersecurity, firewall, computer terminal, hacker code"
+    },
+    {
+      "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+      "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+      "summary": "<p>Article URL: <a href=\"https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week\">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228166\">https://news.ycombinator.com/item?id=49228166</a></p>\n<p>Points: 88</p>\n<p># Comments: 6</p>",
+      "published": "2026-08-09T03:26:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відомий блог Daring Fireball опублікував спростування щодо недавнього інциденту з модерацією додатків. Виявилося, що рішення Apple видалити або відхилити програму було повністю обґрунтованим.",
+      "ai_title": "Гучне спростування: скандальна відмова в App Store виявилася правомірною",
+      "video_keywords": "smartphone screen, app store, mobile phone, touching screen"
+    },
+    {
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "link": "https://github.com/jmarshall23/msword",
+      "summary": "<p>Article URL: <a href=\"https://github.com/jmarshall23/msword\">https://github.com/jmarshall23/msword</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228663\">https://news.ycombinator.com/item?id=49228663</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-09T05:23:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти перенесли класичну версію текстового редактора Microsoft Word for Windows 1.1a на сучасну 64-бітну архітектуру. Це цікавий технічний експеримент, що поєднує ретро-програмне забезпечення з сучасними технологіями.",
+      "ai_title": "Microsoft Word 1.1a отримав рідну підтримку 64-бітних систем",
+      "video_keywords": "vintage computer, retro tech, typing on keyboard, computer monitor"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1407,6 +1437,16 @@
       "ai_summary": "Нещодавній суперечливий хардфорк біткоїна під назвою BIP-110 зміг видобути лише два блоки, після чого повністю припинив роботу. Ця подія викликала чимало обговорень у криптоспільноті щодо стабільності та безпеки подібних експериментальних оновлень мережі.",
       "ai_title": "Суперечливий форк біткоїна BIP-110 зупинився після видобутку двох блоків",
       "video_keywords": "blockchain code, cryptocurrency mining, computer screen, binary data"
+    },
+    {
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "link": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BTCPay restricts remote Lightning access after attackers steal funds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/thief-bitcoin.png\" /></p><p>Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.</p>",
+      "published": "2026-08-09T05:46:07+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Розробники BTCPay Server були змушені обмежити віддалений доступ до мережі Lightning Network після серії хакерських атак. Зловмисникам вдалося опустошити кілька Lightning-нод, проте точна сума збитків та кількість постраждалих користувачів наразі невідомі.",
+      "ai_title": "BTCPay обмежує віддалений доступ через крадіжку криптовалюти",
+      "video_keywords": "hacker typing laptop, dark room code screen, cryptocurrency security breach"
     }
   ]
 }
