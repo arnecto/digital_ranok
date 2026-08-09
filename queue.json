@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
-      "link": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
-      "summary": "Meta has been ordered to pay $567 million in the second phase of New Mexico's landmark child safety case, bringing total charges to nearly $1 billion for being a \"public nuisance.\" In a ruling published on Thursday, the Santa Fe district court found that Meta's platforms are a \"significant contributing cause\" of a teen mental [&#8230;]",
-      "published": "2026-08-07T09:10:01+00:00",
-      "source": "The Verge",
-      "ai_summary": "Суд у Нью-Мексико зобов'язав компанію Meta виплатити додаткові 567 мільйонів доларів через негативний вплив її платформ на психічне здоров'я підлітків. Загальна сума штрафів за цим позовом наблизилася до одного мільярда доларів, оскільки суд визнав соцмережі компанії суспільною небезпекою.",
-      "ai_title": "Meta зобов'язали виплатити ще $567 мільйонів у справі про дитячу безпеку",
-      "video_keywords": "courtroom, judge gavel, smartphone screen, concerned teenager"
-    },
-    {
       "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
       "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
       "summary": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to report that it does not [&#8230;]",
@@ -739,6 +729,16 @@
       "ai_summary": "Обговорення довгострокового прогнозу стосовно недоступності оригінальних посилань у майбутньому. Користувачі аналізують надійність посилань в інтернеті та проблеми збереження цифрових даних.",
       "ai_title": "Прогноз щодо зникнення оригінальних URL-адрес",
       "video_keywords": "broken link, computer screen, error message, internet archive"
+    },
+    {
+      "title": "There Are Magic Hexagons of Every Order",
+      "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+      "summary": "<p>Article URL: <a href=\"https://gukov.dev/math/2026/08/02/new-magic-hexagons.html\">https://gukov.dev/math/2026/08/02/new-magic-hexagons.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229174\">https://news.ycombinator.com/item?id=49229174</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-09T07:19:58+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники знайшли нові закономірності у створенні магічних шестикутників будь-якого порядку. Це відкриття розширює розуміння комбінаторної математики та геометричних патернів.",
+      "ai_title": "Математики відкрили нові властивості магічних шестикутників",
+      "video_keywords": "geometric patterns, mathematical equations, hexagon grid, abstract graphics"
     }
   ],
   "Бізнес / Стартапи": [
@@ -918,46 +918,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
-      "link": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
-      "summary": "",
-      "published": "2026-08-07T09:24:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "У блокчейні біткоїна помічено рух понад 210 000 монет зі старих гаманців. Ця активність пов'язана з останніми подіями навколо апаратних гаманців Coldcard та реакцією користувачів на них.",
-      "ai_title": "Масовий відтік біткоїнів зі старих гаманців зафіксовано в мережі",
-      "video_keywords": "blockchain network, cryptocurrency wallet, digital coins, computer code"
-    },
-    {
-      "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
-      "link": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CleanSpark misses Wall Street revenue estimates as shares sink\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-1.jpg\" /></p><p>CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly rev",
-      "published": "2026-08-07T09:25:56+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Майнінгова компанія CleanSpark продемонструвала квартальну виручку в розмірі 138 мільйонів доларів, що виявилося нижче очікувань Волл-стріт. На тлі цих новин вартість акцій підприємства знизилася.",
-      "ai_title": "Акції CleanSpark впали через невиконання прогнозу доходів",
-      "video_keywords": "computer servers, data center, cryptocurrency mining, cooling fans"
-    },
-    {
-      "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
-      "link": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stripe-owned Bridge joins EU MiCA register after Luxembourg approval\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-mica.jpg\" /></p><p>Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approval, joining regulated provid",
-      "published": "2026-08-07T09:14:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінтех-гігант Stripe завершив процедуру реєстрації свого сервісу Bridge за новими європейськими правилами MiCA після схвалення регуляторів у Люксембурзі. Це відкриває нові можливості для роботи на європейському ринку.",
-      "ai_title": "Компанія Bridge від Stripe увійшла до європейського реєстру MiCA",
-      "video_keywords": "modern office, European flag, digital tablet, business handshake"
-    },
-    {
-      "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
-      "link": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-clarity-act-coinbase.png\" /></p><p>Industry figures warned that continued legislative limbo could slow institutional adoption, revive regulation by enforcemen",
-      "published": "2026-08-07T09:01:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Затягування прийняття закону CLARITY Act створює регуляторну невизначеність у США, чим можуть скористатися фінансові центри Азії. Експерти попереджають про ризики уповільнення інституційного прийняття крипти.",
-      "ai_title": "Затримка законопроєкту CLARITY Act на руку азіатським ринкам",
-      "video_keywords": "skyscraper city, financial district, modern architecture, neon lights"
-    },
     {
       "title": "Bitcoin hovers below $68,000 as Middle East tensions escalate further",
       "link": "https://www.coindesk.com/markets/2026/08/07/cmt",
@@ -1377,6 +1337,16 @@
       "ai_summary": "Розробники BTCPay Server були змушені обмежити віддалений доступ до мережі Lightning Network після серії хакерських атак. Зловмисникам вдалося опустошити кілька Lightning-нод, проте точна сума збитків та кількість постраждалих користувачів наразі невідомі.",
       "ai_title": "BTCPay обмежує віддалений доступ через крадіжку криптовалюти",
       "video_keywords": "hacker typing laptop, dark room code screen, cryptocurrency security breach"
+    },
+    {
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "link": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Brazil targets crypto fraud with up to 24-hour transfer hold \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-latin-america-and-blockchain-2.jpg\" /></p><p>The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other",
+      "published": "2026-08-09T09:10:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "З 2027 року в Бразилії почнуть діяти нові правила для криптотранзакцій на суму понад 10 000 доларів. Вони передбачають затримку переказів на закордонні біржі чи холодні гаманці терміном до 24 годин задля запобігання шахрайству.",
+      "ai_title": "Бразилія вводить блокування криптопереказів до доби для боротьби з шахрайством",
+      "video_keywords": "smartphone screen, cryptocurrency wallet, financial transaction, digital security"
     }
   ]
 }
