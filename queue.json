@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Trying to explain One Night Only&#8217;s tech-enforced sex dystopia",
-      "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
-      "summary": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to report that it does not [&#8230;]",
-      "published": "2026-08-07T10:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Новий фільм розповідає про сучасний Нью-Йорк, де через жорсткі технологічні обмеження самотні люди можуть займатися сексом лише один раз на рік. Попри очікування класичної романтичної комедії, стрічка занурює глядачів у моторошну та абсурдну антиутопічну реальність.",
-      "ai_title": "Технологічна антиутопія та кохання у фільмі One Night Only",
-      "video_keywords": "futuristic city, couple talking, neon lights, modern cinema"
-    },
-    {
-      "title": "Why does Apple keep banning Telegram, but never X?",
-      "link": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
-      "summary": "For roughly an hour this week, Telegram vanished from Apple's App Store. Even during that blip, it was a stunning absence for such a major app: an avenue of communication for more than 1 billion users around the world, used widely as a secure platform for people who live in countries under censorship. Apple later [&#8230;]",
-      "published": "2026-08-07T11:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Нещодавнє зникнення Telegram з App Store викликало хвилю обговорень щодо подвійних стандартів компанії Apple. Месенджер, яким користуються понад мільярд людей, періодично стикається з обмеженнями, тоді як інші платформи залишаються недоторканними. Це ставить під загрозу безпечний зв'язок для користувачів у країнах із жорсткою цензурою.",
-      "ai_title": "Чому Apple блокує Telegram, але не чіпає X?",
-      "video_keywords": "smartphone screen, app store icon, typing on phone, mobile device"
-    },
-    {
       "title": "The web server deployment model breaks at hobby scale",
       "link": "https://w.on-t.work/web-deployment-model",
       "summary": "<p>Article URL: <a href=\"https://w.on-t.work/web-deployment-model\">https://w.on-t.work/web-deployment-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209921\">https://news.ycombinator.com/item?id=49209921</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
@@ -29,16 +9,6 @@
       "ai_summary": "Автор аналізує сучасні моделі розгортання веб-серверів та чому вони стають занадто складними для невеликих або аматорських проєктів. Традиційні підходи втрачають ефективність, створюючи зайві бар'єри для розробників-одинаків. Стаття викликала обговорення серед спільноти щодо пошуку простіших альтернатив.",
       "ai_title": "Проблеми сучасних веб-серверів для хобі-проєктів",
       "video_keywords": "server rack, glowing cables, programmer typing, modern office"
-    },
-    {
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "summary": "<p>Article URL: <a href=\"https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/\">https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208535\">https://news.ycombinator.com/item?id=49208535</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-07T11:00:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розглядаються технічні інновації у сфері баз даних, зокрема використання пакетної обробки, злиття операторів та інструкцій SIMD. Ці методи дозволяють досягти вражаючого прискорення виконання запитів для аналітичних завдань у PostgreSQL. Це відкриває нові можливості для роботи з великими масивами даних.",
-      "ai_title": "Як прискорити Postgres у 300 разів для аналітики",
-      "video_keywords": "data center, glowing screens, digital graphs, computer terminal"
     },
     {
       "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
@@ -749,6 +719,26 @@
       "ai_summary": "Німецький софтверний гігант SAP оголосив про зупинку більшості відряджень та нових наймів через значне зростання витрат на розробку та впровадження систем штучного інтелекту. Це свідчить про те, що інвестиції в AI стають важким фінансовим тягарем навіть для найбільших технологічних компаній. Експерти вбачають у цьому тривожний дзвіночок для всієї індустрії.",
       "ai_title": "SAP заморожує найм і поїздки через шалені витрати на штучний інтелект",
       "video_keywords": "office worker, stressed, computer screen, corporate meeting"
+    },
+    {
+      "title": "CSS: The bomb inside your inbox",
+      "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+      "summary": "<p>Article URL: <a href=\"https://portswigger.net/research/css-the-bomb-inside-your-inbox\">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230066\">https://news.ycombinator.com/item?id=49230066</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-09T10:17:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники виявили нову потенційну вразливість безпеки, яка використовує можливості CSS всередині електронних листів. Це дозволяє зловмисникам створювати приховані загрози безпосередньо у вхідних повідомленнях користувачів. Звіт наголошує на ризиках обробки стилів у сучасних поштових клієнтах.",
+      "ai_title": "Уразливість через CSS у поштових скриньках",
+      "video_keywords": "email inbox, hacker typing, computer screen, cybersecurity"
+    },
+    {
+      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+      "link": "https://halfhill.com/byte/1998-12_alpha.html",
+      "summary": "<p>Article URL: <a href=\"https://halfhill.com/byte/1998-12_alpha.html\">https://halfhill.com/byte/1998-12_alpha.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230022\">https://news.ycombinator.com/item?id=49230022</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-09T10:06:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Архівний матеріал нагадує про історичний процесор Alpha 21264, який свого часу вважався вершиною RISC-архітектури для операційної системи Windows NT. Стаття описує технічні характеристики та значення цього чіпа в еволюції комп'ютерного заліза наприкінці 1990-х років. Це ностальгійний погляд на інженерні досягнення минулого.",
+      "ai_title": "Легендарний процесор Alpha 21264 з 1998 року",
+      "video_keywords": "vintage computer, circuit board, microchip, old hardware"
     }
   ],
   "Бізнес / Стартапи": [
