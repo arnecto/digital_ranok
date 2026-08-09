@@ -11,16 +11,6 @@
       "video_keywords": "data analytics dashboard, computer screen, office meeting, business charts"
     },
     {
-      "title": "AI psychosis is the new leadership blind spot",
-      "link": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
-      "summary": "<p>Article URL: <a href=\"https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots\">https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49210077\">https://news.ycombinator.com/item?id=49210077</a></p>\n<p>Points: 81</p>\n<p>",
-      "published": "2026-08-07T13:27:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти попереджають про феномен «ШІ-психозу», який стає серйозною проблемою для сучасного менеджменту. Керівники компаній часто переоцінюють можливості штучного інтелекту або сліпо довіряють його результатам, ігноруючи реальні ризики.",
-      "ai_title": "Штучний інтелект як нова сліпа зона керівників",
-      "video_keywords": "stressed businessman, office desk, laptop screen, thoughtful executive"
-    },
-    {
       "title": "99% of My Website Traffic Is Bots",
       "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
       "summary": "<p>Article URL: <a href=\"https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/\">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211386\">https://news.ycombinator.com/item?id=49211386</a></p>\n<p>Points: 65</p>\n<p># Comments: 63</p>",
@@ -749,6 +739,56 @@
       "ai_summary": "Розробники представили новий підхід до обробки даних у DeepSeek-V4, де процес міркування штучного інтелекту відбувається всередині латентного простору. Це дозволяє суттєво оптимізувати продуктивність моделей та підвищити ефективність генерації відповідей.",
       "ai_title": "DeepSeek-V4 переносить логічне мислення в латентний простір",
       "video_keywords": "artificial intelligence, server racks, glowing data, futuristic code"
+    },
+    {
+      "title": "Dropbox is a PC builder’s best friend",
+      "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot [&#8230;]",
+      "published": "2026-08-09T13:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Автор розповідає про власний досвід створення складного ігрового проєкту на кастомному комп'ютері. Хмара Dropbox допомогла надійно зберегти локальні файли та врятувала від ризику втратити всю роботу через можливу несправність заліза.",
+      "ai_title": "Чому Dropbox незамінний для збирання ПК",
+      "video_keywords": "computer motherboard, technician repairing hardware, cloud storage interface"
+    },
+    {
+      "title": "Reviving a four year old reMarkable 2",
+      "link": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+      "summary": "<p>Article URL: <a href=\"https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html\">https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230514\">https://news.ycombinator.com/item?id=49230514</a></p>\n<p>Points: 52</p>\n<p># Comments: 36</p>",
+      "published": "2026-08-09T11:39:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти знайшли спосіб оновити та розширити можливості популярного планшета для читання й нотаток за допомогою протоколу SSH. Це дозволяє ефективно використовувати застаріле «залізо» та адаптувати його під сучасні потреби.",
+      "ai_title": "Друге життя для чотирирічного планшета reMarkable 2",
+      "video_keywords": "digital tablet, typing on keyboard, electronic paper"
+    },
+    {
+      "title": "Why Wall Street Is Ignoring Big Tech's Debt",
+      "link": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NufJ7g63KSY\">https://www.youtube.com/watch?v=NufJ7g63KSY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230630\">https://news.ycombinator.com/item?id=49230630</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-09T12:01:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітики досліджують феномен того, як інвестори заплющують очі на величезні боргові зобов'язання лідерів технологічного ринку. Основною причиною залишається віра у високі прибутки від розвитку штучного інтелекту та інновацій.",
+      "ai_title": "Чому Волл-стріт ігнорує гігантські борги технологічних компаній",
+      "video_keywords": "stock market chart, financial district, businessman looking at graphs"
+    },
+    {
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "link": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rochus-keller/OberonSystem/tree/op2-rv32\">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230891\">https://news.ycombinator.com/item?id=49230891</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-09T12:43:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники перенесли класичну операційну систему Oberon на сучасну відкриту архітектуру RISC-V замість застарілої RISC-5. Це цікавий експеримент з об'єднання історичних програмних концепцій з новими процесорними технологіями.",
+      "ai_title": "Проєкт Oberon System адаптовано під архітектуру RISC-V",
+      "video_keywords": "computer processor, circuit board, writing code"
+    },
+    {
+      "title": "Mea Culpa – Dark Hours",
+      "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "summary": "<p>Article URL: <a href=\"https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html\">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231154\">https://news.ycombinator.com/item?id=49231154</a></p>\n<p>Points: 33</p>\n<p># Comments: 14</p>",
+      "published": "2026-08-09T13:20:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор ділиться особистими міркуваннями про виклики, з якими стикаються розробники у складні періоди своєї кар'єри. Стаття торкається тем вигорання, пошуку натхнення та подолання кризових моментів у професійному житті.",
+      "ai_title": "Роздуми про темні часи в IT-індустрії",
+      "video_keywords": "programmer working at night, dark room computer screen, tired person"
     }
   ],
   "Бізнес / Стартапи": [
@@ -925,19 +965,19 @@
       "ai_summary": "Понад 20 років тому район Кінгс-Кросс у Лондоні вважався небезпечним та депресивним місцем із сумнівною репутацією. Сьогодні ж ця локація перетворилася на один із найпотужніших глобальних хабів для розвитку технологій штучного інтелекту.",
       "ai_title": "Як колишній кримінальний район Лондона став світовим центром ШІ",
       "video_keywords": "modern office building, london cityscape, technology hub, people working on computers"
+    },
+    {
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+      "published": "2026-08-09T14:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Дослідник безпеки розробив спеціальний алгоритм, який генерує візуальні патерни для маскування людей, облич і автомобілів від систем відеоспостереження. Ця технологія ставить під сумнів ефективність сучасних камер розпізнавання та порушує питання приватності в публічних місцях.",
+      "ai_title": "Новий алгоритм ховає людей від камер спостереження",
+      "video_keywords": "surveillance camera, security monitor, digital face, privacy mask"
     }
   ],
   "Крипта": [
-    {
-      "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
-      "link": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fierce backlash to Ethereum’s EIP-8363 staking proposal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazineback-to-ethereum.jpg\" /></p><p>Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
-      "published": "2026-08-07T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Нова пропозиція щодо стейкінгу Ethereum EIP-8363 спрямована на зменшення емісії монет. Проте критики застерігають, що це може негативно вплинути на сектор DeFi, децентралізацію та інституційне впровадження.",
-      "ai_title": "Суперечлива пропозиція оновлення Ethereum зустріла жорстку критику",
-      "video_keywords": "ethereum logo, digital currency, crypto trading, computer monitors"
-    },
     {
       "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
       "link": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
