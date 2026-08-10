@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Mythos social engineering AISI INC-2026-07-28-01",
-      "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-      "summary": "<p>Article URL: <a href=\"https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3\">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49218707\">https://news.ycombinator.com/item?id=49218707</a></p>\n<p>Points: 27</p>\n<p># Comments: 11</p>",
-      "published": "2026-08-08T03:41:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Обговорення нової загрози соціальної інженерії під назвою Mythos привернуло увагу спільноти на GitHub. Дослідники та розробники аналізують потенційні ризики безпеки та шляхи запобігання подібним атакам. Подробиці інциденту активно обговорюються на профільних платформах.",
-      "ai_title": "Вразливість Mythos у соціальній інженерії",
-      "video_keywords": "hacker typing, computer screen, cybersecurity code, server room"
-    },
-    {
-      "title": "Hardware backdoors in some x86 CPUs",
-      "link": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/rosenbridge\">https://github.com/xoreaxeaxeax/rosenbridge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49219508\">https://news.ycombinator.com/item?id=49219508</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-08T07:04:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники виявили потенційні апаратні вразливості та бекдори в архітектурі деяких популярних x86 процесорів. Це ставить під загрозу безпеку мільйонів комп'ютерів по всьому світу та вимагає термінового перегляду захисту на рівні заліза. Деталі проєкту та технічний опис опубліковані на GitHub.",
-      "ai_title": "Знайдено апаратні бекдори в деяких x86 процесорах",
-      "video_keywords": "computer motherboard, microchip, electronic circuit, hacker typing"
-    },
-    {
       "title": "Nitecore’s latest power bank is the lightest and most compact yet",
       "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
       "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few [&#8230;]",
@@ -869,6 +849,46 @@
       "ai_summary": "Інженери поділилися практичним досвідом інтеграції технології Change Data Capture (CDC) у середовище Postgres. У матеріалі описано архітектурні рішення, виклики під час реплікації даних та оптимізацію продуктивності системи.",
       "ai_title": "Технічний досвід впровадження CDC у базу даних Postgres",
       "video_keywords": "server room, data center, server racks, IT engineer"
+    },
+    {
+      "title": "Auto mode is now the default in Claude Code",
+      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "summary": "<p>Article URL: <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239021\">https://news.ycombinator.com/item?id=49239021</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
+      "published": "2026-08-10T03:50:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic зробила автоматичний режим типовим налаштуванням для свого інструменту розробки Claude Code. Це дозволяє штучному інтелекту виконувати складніші завдання програмування з мінімальним втручанням користувача. Оновлення покликане прискорити робочі процеси розробників.",
+      "ai_title": "Автоматичний режим тепер стандартний у Claude Code",
+      "video_keywords": "coding, laptop screen, programmer typing, developer"
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "link": "https://www.whodunnitai.com/",
+      "summary": "<p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speec",
+      "published": "2026-08-10T03:18:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив інтерактивну гру у жанрі детектива, де гравці можуть спілкуватися з віртуальними підозрюваними за допомогою голосу. Проєкт створено на основі сучасних голосових ШІ-агентів, які реагують на питання в реальному часі. Це демонструє новий рівень занурення в ігровий процес завдяки штучному інтелекту.",
+      "ai_title": "Голосовий детектив: допитуйте ШT-підозрюваних голосом",
+      "video_keywords": "microphone, person speaking, headphones, audio recording"
+    },
+    {
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "link": "https://github.com/shinyquagsire23/Klepton",
+      "summary": "<p>Article URL: <a href=\"https://github.com/shinyquagsire23/Klepton\">https://github.com/shinyquagsire23/Klepton</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238818\">https://news.ycombinator.com/item?id=49238818</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-10T03:12:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіаст розробив інструмент, який дозволяє запускати VR-додатки від Android на гарнітурі змішаної реальності Apple Vision Pro. Це розширює можливості сумісності програмного забезпечення для користувачів преміального пристрою. Проєкт вже доступний на GitHub для тестування.",
+      "ai_title": "Запуск Android ARM64 VR додатків на Apple Vision Pro",
+      "video_keywords": "virtual reality headset, vr goggles, futuristic tech, person wearing headset"
+    },
+    {
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "link": "https://foldingglobes.com/",
+      "summary": "<p>Article URL: <a href=\"https://foldingglobes.com/\">https://foldingglobes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238735\">https://news.ycombinator.com/item?id=49238735</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-10T02:57:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився цікавий вебсервіс, який перетворює реальні супутникові знімки поверхні Землі на розгортку для створення паперового глобуса. Користувачі можуть згенерувати та скласти власну мініатюрну модель планети звичним способом оригамі. Це поєднання географічних даних та творчого хобі.",
+      "ai_title": "Перетворення супутникових знімків на паперовий глобус своїми руками",
+      "video_keywords": "paper globe, hands folding paper, origami, satellite map"
     }
   ],
   "Бізнес / Стартапи": [
@@ -981,16 +1001,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
-      "link": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US court backs Bybit’s bid to trace funds from $1.5B North Korea hack \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-the-aftermath-of-bybit-ftx-consequences-of-cryptos-ongoing-regulatory-process.png\" /></p><p>Expedited discovery allows the exchange to seek account identities, balances and",
-      "published": "2026-08-08T04:11:53+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Суд у Сполучених Штатах підтримав запит криптовалютної біржі Bybit на прискорене розслідування. Це дозволить платформі відстежити рух вкрадених коштів та ідентифікувати облікові записи, пов'язані з масштабною хакерською атакою.",
-      "ai_title": "Суд США дозволив Bybit розслідувати перекази коштів після масштабного хакерського злому",
-      "video_keywords": "courtroom, judge gavel, cryptocurrency exchange, computer screen code"
-    },
     {
       "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
       "link": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1210,6 +1220,46 @@
       "ai_summary": "Колишній міністр оборони США Марк Еспер заявив, що закон про криптовалюти CLARITY виходить далеко за рамки фінансового сектору. На його думку, цей документ має вирішальне значення для забезпечення національної безпеки держави.",
       "ai_title": "Ексглава Пентагону назвав законопроєкт CLARITY питанням національної безпеки",
       "video_keywords": "us capitol building, washington dc, american flag, politician speaking, press conference"
+    },
+    {
+      "title": "Bitcoin tops $65,000 with US inflation data due this week",
+      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+      "summary": "",
+      "published": "2026-08-10T04:39:37+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта демонструє зростання та подолала важливий психологічний рубіж. Інвестори уважно стежать за макроекономічними показниками США, які можуть суттєво вплинути на подальшу динаміку ринку.",
+      "ai_title": "Біткоїн перевищив позначку в 65 000 доларів на тлі очікування даних щодо інфляції в США",
+      "video_keywords": "bitcoin chart, green trading candlestick, stock market screen, financial graph"
+    },
+    {
+      "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+      "link": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+      "summary": "",
+      "published": "2026-08-10T04:26:01+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Незважаючи на стабільний інтерес інвесторів до біржових фондів (ETF) на базі XRP, сама монета демонструє слабкіші темпи зростання порівняно з іншими цифровими активами. Аналітики намагаються зрозуміти причину такого розриву в динаміці.",
+      "ai_title": "XRP відстає від загального крипторинку попри приплив коштів в ETF",
+      "video_keywords": "cryptocurrency trading, digital coin, trading terminal, computer monitor"
+    },
+    {
+      "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
+      "link": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/atm.jpg\" /></p><p>Australia’s financial watchdog has suspended Cryptolink’s registration for three months, adding to a crackdown that previously saw the Bitcoin ATM ",
+      "published": "2026-08-10T04:32:36+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Фінансовий регулятор Австралії тимчасово зупинив реєстрацію мережі біткоїн-банкоматів Cryptolink через недотримання базових вимог щодо звітності. Це стало черговим кроком у посиленні нагляду за криптоінфраструктурою в країні.",
+      "ai_title": "В Австралії заблокували біткоїн-банкомати через порушення звітності",
+      "video_keywords": "atm machine, digital kiosk, man using atm, public terminal"
+    },
+    {
+      "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
+      "link": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s first quantum attack will look like unexplained breach: Quantus founder\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/quantum.jpg\" /></p><p>Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s",
+      "published": "2026-08-10T03:34:53+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "За словами засновника Quantus, зловмисники з доступом до квантових комп'ютерів навряд чи заявлятимуть про себе голосно. Найімовірніше, вони діятимуть непомітно, маскуючи кібератаки під звичайні технічні збої.",
+      "ai_title": "Перша квантова атака на криптовалюту виглядатиме як незрозумілий злам",
+      "video_keywords": "server room, quantum computer, glowing electronics, cyber security"
     }
   ]
 }
