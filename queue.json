@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Is this $450 laptop from an unknown brand too good to be true?",
-      "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-      "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still [&#8230;]",
-      "published": "2026-08-08T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Ринок бюджетних ноутбуків переживає складні часи через дефіцит оперативної пам'яті та застарілі компоненти. На цьому тлі поява надзвичайно дешевих лептопів викликає чимало сумнівів щодо їхньої реальної якості та продуктивності. Експерти аналізують, чи здачні подібні пристрої конкурувати з відомими ринковими аналогами.",
-      "ai_title": "Чи варто купувати ультрадешевий ноутбук за 450 доларів від маловідомого бренду",
-      "video_keywords": "laptop unboxing, person typing on keyboard, tech review, computer store"
-    },
-    {
-      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "link": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-      "summary": "<p>Article URL: <a href=\"https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference\">https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221089\">https://news.ycombinator.com/item?id=49221089</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-08T12:16:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти пропонують переглянути класичний розподіл завдань між CPU та GPU для прискорення інференсу штучного інтелекту. Такий підхід дозволяє ефективніше використовувати обчислювальні ресурси при запуску сучасних LLM. Це може суттєво знизити витрати на інфраструктуру дата-центрів.",
-      "ai_title": "Повернення центральних процесорів: як оптимізувати роботу з великими мовними моделями",
-      "video_keywords": "server room, cpu chip, motherboards, electronics repair"
-    },
-    {
-      "title": "My favorite feel-good show is back",
-      "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-      "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, [&#8230;]",
-      "published": "2026-08-08T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Щотижневий огляд цікавих подій у світі технологій та поп-культури від видання The Verge. Серед тем випуску — нові матеріали про Джонні Ноксвілла, проєкт Google Zero та історія виникнення велосипеда.",
-      "ai_title": "Повернення улюбленого шоу та огляд цікавих новин тижня",
-      "video_keywords": "reading magazine, browsing internet, person typing on laptop, modern office"
-    },
-    {
       "title": "Gentoo bugzilla closed due AI bot scraper overload",
       "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
       "summary": "<p>Article URL: <a href=\"https://social.treehouse.systems/@mgorny/117058483039362779\">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221864\">https://news.ycombinator.com/item?id=49221864</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
@@ -59,16 +29,6 @@
       "ai_summary": "Розроблено специфікацію, яка дає змогу власнику домену публікувати інформацію про його продаж через систему доменних імен (DNS). Це спрощує пошук вільних або доступних для купівлі адрес у мережі.",
       "ai_title": "Новий стандарт дозволяє вказувати статус продажу домену прямо в DNS",
       "video_keywords": "typing keyboard, internet browser, website interface, computer monitor"
-    },
-    {
-      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-      "link": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-      "summary": "<p>Article URL: <a href=\"https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/\">https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221220\">https://news.ycombinator.com/item?id=49221220</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-08T12:31:11+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технічні оглядачі опублікували другу частину ретро-розбору найдивніших і найсмішніших рекламних кампаній виробника ПК Gateway 2000. Реклама з минулого століття демонструє дивовижні маркетинг-підходи того часу до продажу техніки.",
-      "ai_title": "Добірка курйозної та дивної реклами комп'ютерів Gateway 2000 із 90-х",
-      "video_keywords": "vintage television, 90s style, old computer, retro advertising"
     },
     {
       "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
@@ -889,6 +849,56 @@
       "ai_summary": "Проєкти зі встановлення орбітальних дзеркал для відбиття сонячного світла на Землю обіцяють цілодобову сонячну енергію. Проте вчені попереджають, що такі сателіти створять серйозні перешкоди для телескопів та стануть загрозою для зору.",
       "ai_title": "Космічні дзеркала можуть назавжди зіпсувати астрономічні спостереження",
       "video_keywords": "satellite in space, telescope observing stars, night sky, starry sky"
+    },
+    {
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "link": "https://bobdahacker.com/blog/tldv-hack",
+      "summary": "<p>Article URL: <a href=\"https://bobdahacker.com/blog/tldv-hack\">https://bobdahacker.com/blog/tldv-hack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242739\">https://news.ycombinator.com/item?id=49242739</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-10T12:26:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У популярному застосунку для нотаток виявили масштабну вразливість, через яку конфіденційні аудіозаписи та стенограми зустрічей стали доступні стороннім особам. Помилка безпеки ставить під загрозу приватність користувачів, які покладалися на ШT-асистентів для фіксації робочих розмов. Експерти закликають компанії ретельніше перевіряти налаштування хмарних сховищ.",
+      "ai_title": "Витік даних: понад 180 тисяч записів розмов зі штучним інтелектом опинилися у відкритому доступі",
+      "video_keywords": "cybersecurity, hacker typing, laptop screen, data breach"
+    },
+    {
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "link": "https://twitter.com/finkd/status/2086754845218726027",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/finkd/status/2086754845218726027\">https://twitter.com/finkd/status/2086754845218726027</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242038\">https://news.ycombinator.com/item?id=49242038</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-10T10:55:03+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Meta анонсувала нову нейромережу з відкритими вагами, яка оптимізована для роботи безпосередньо на пристроях користувачів. Цей крок спрямований на розвиток автономних локальних ШІ-агентів, що зможуть виконувати складні завдання без потреби у хмарних обчисленнях. Нова модель обіцяє покращену конфіденційність та продуктивність для розробників.",
+      "ai_title": "Meta представила нову відкриту модель для локальних ШІ-агентів",
+      "video_keywords": "artificial intelligence, futuristic interface, programmer typing, data visualization"
+    },
+    {
+      "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+      "link": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+      "summary": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included customer names, addresses, phone numbers, and email addresses. The breach at CEVA occurred [&#8230;]",
+      "published": "2026-08-10T12:48:12+00:00",
+      "source": "The Verge",
+      "ai_summary": "Європейський логістичний партнер компанії Valve повідомив про кібератаку, внаслідок якої було скомпрометовано персональні дані клієнтів. Зловмисники могли отримати доступ до імен, адрес доставки, телефонних номерів та електронної пошти людей, які замовляли пристрої Steam. Компанія вже розсилає попереджувальні електронні листи постраждалим користувачам.",
+      "ai_title": "Масштабний витік даних у Steam: постраждали покупці обладнання",
+      "video_keywords": "data breach, hacker attack, computer screen, warning sign"
+    },
+    {
+      "title": "DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years",
+      "link": "https://twitter.com/thdxr/status/2086599224674681242",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/thdxr/status/2086599224674681242\">https://twitter.com/thdxr/status/2086599224674681242</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49242728\">https://news.ycombinator.com/item?id=49242728</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
+      "published": "2026-08-10T12:24:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти порівняли витрати на використання новітніх моделей на кшталт DeepSeek з класичною серверною інфраструктурою. Дослідження показує, що щоденні витрати на API залишаються низькими для окремих користувачів, тоді як покупка власних потужних серверів окупатиметься десятиліттями. Це ставить під сумнів доцільність побудови локальних суперкомп'ютерів для невеликих проєктів.",
+      "ai_title": "Аналіз витрат на ШІ: скільки коштують новітні мовні моделі",
+      "video_keywords": "server room, data center, computer hardware, glowing servers"
+    },
+    {
+      "title": "This great retro-inspired keyboard now comes preassembled",
+      "link": "https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review",
+      "summary": "You probably know just by looking at it if the Classic-TKL Underscore Edition is for you. Do you want a retro-looking wired keyboard without a number pad? Great. Do you care that it doesn't have wireless? Perfect. Do you want it preassembled? Buddy, you're in the right place. But Nathan, you might say, preassembled is [&#8230;]",
+      "published": "2026-08-10T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стильна провідна клавіатура у вінтажному дизайні без цифрового блоку тепер продається повністю готовою до використання. Раніше ентузіастам доводилося збирати подібні пристрої самостійно, витрачаючи час на пошук компонентів. Новинка орієнтована на поціновувачів естетики минулого століття та мінімалістичних робочих місць.",
+      "ai_title": "Популярна ретро-клавіатура тепер доступна у зібраному вигляді",
+      "video_keywords": "retro keyboard, mechanical keyboard, typing hands, desk setup"
     }
   ],
   "Бізнес / Стартапи": [
@@ -978,29 +988,39 @@
       "ai_summary": "Штучний інтелект продовжує залучати величезні капітали попри проблеми на ринку. Хедж-фонд Situational Awareness зробив масштабну інвестицію в новий апаратний стартап Source Foundry. Це свідчить про збереження інтересу інвесторів до розробки спеціалізованих чіпів для ШІ.",
       "ai_title": "Скандальний хедж-фонд інвестує 400 мільйонів у чіп-стартап",
       "video_keywords": "microchip, computer hardware, server room, investor meeting"
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "published": "2026-08-10T12:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Discovered Materials залучила 9 мільйонів доларів фінансування для розробки інноваційних матеріалів, які допоможуть зробити майбутні комп'ютерні чіпи більш ефективними та потужними. Інвестори активно підтримують стартапи, що вирішують фізичні обмеження сучасного апаратного забезпечення для ШІ.",
+      "ai_title": "Стартап Discovered Materials залучив $9 млн для пошуку матеріалів для нових чіпів",
+      "video_keywords": "microchip, laboratory, circuit board, scientist hands"
+    },
+    {
+      "title": "Google Play adds Venmo as a payment option",
+      "link": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+      "summary": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+      "published": "2026-08-10T12:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Користувачі магазину додатків Google Play тепер можуть використовувати платіжну систему Venmo для купівлі ігор та софту. Це оновлення з'явилося на тлі загального зростання витрат користувачів на мобільні додатки та цифрові розваги.",
+      "ai_title": "Google Play додав Venmo як новий спосіб оплати",
+      "video_keywords": "smartphone screen, mobile payment, credit card, shopping app"
+    },
+    {
+      "title": "Your agent didn’t hallucinate; it exceeded its authority",
+      "link": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
+      "summary": "<p>Content filters can block unsafe output. They cannot tell you whether an agent was authorized to issue that refund, touch that production system, or commit the company to an external action. Those are different problems, and most enterprises are only solving the first one.</p><p>An AI agent can follow its instructions perfectly and still take an action the business never sanctioned.</p><p>In co",
+      "published": "2026-08-10T12:00:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Навіть якщо штучний інтелект виконує інструкції без галюцинацій, він може прийняти рішення, на яке не мав бізнес-санкції. Сучасні компанії зосереджені на фільтрації контенту, але ігнорують проблему контролю за повноваженнями автономних агентів у робочих системах.",
+      "ai_title": "ШІ-агенти та перевищення повноважень: чому автономні системи роблять несанкціоновані дії",
+      "video_keywords": "office worker, computer screen, data security, analytics dashboard"
     }
   ],
   "Крипта": [
-    {
-      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
-      "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
-      "summary": "",
-      "published": "2026-08-08T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія T. Rowe Price, яка управляє активами на трильйони доларів, включила спекулятивні мемкоїни до свого нового криптовалютного ETF. Цей крок демонструє несподівану зміну стратегії консервативних інституційних гравців щодо високоризикових активів.",
-      "ai_title": "Традиційний інвестиційний гігант додав мемкоїни до свого криптофонду",
-      "video_keywords": "cryptocurrency trading, digital coins, stock market graphs, financial screens"
-    },
-    {
-      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
-      "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
-      "summary": "",
-      "published": "2026-08-08T14:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Керівник компанії Bitwise Метт Хоуган заявив про неминучість масштабних інвестицій у першу криптовалюту з боку великих інституційних гравців. За його словами, ринок перебу на порозі припливу трильйонів доларів традиційного капіталу.",
-      "ai_title": "Bitwise прогнозує приплив трильйонів інституційного капіталу в біткоїн",
-      "video_keywords": "financial charts, stock market trading, digital currency, modern office skyscraper"
-    },
     {
       "title": "Bitcoin will never fall below $60K again: Nansen founder",
       "link": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1350,6 +1370,26 @@
       "ai_summary": "Цього тижня учасники крипторинку пильно стежать за свіжими даними щодо споживчої інфляції (CPI) в США та можливим паузою у підвищенні процентної ставки ФРС. На тлі цих очікувань біткоїн вже продемонстрував локальне зростання до серпневих максимумів.",
       "ai_title": "Ринки готуються до даних щодо інфляції та рішення ФРС",
       "video_keywords": "stock exchange floor, digital ticker, financial news studio, trading terminal"
+    },
+    {
+      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+      "link": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
+      "summary": "",
+      "published": "2026-08-10T12:09:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Strategy реалізувала 1 690 біткоїнів для поповнення своїх фінансових резервів. Завдяки продажу криптовалюти та випуску нових акцій MSTR вдалося залучити сотні мільйонів доларів.",
+      "ai_title": "MicroStrategy продала частину біткоїнів та залучила мільйони через акції",
+      "video_keywords": "cryptocurrency trading, bitcoin graph, stock market, financial chart"
+    },
+    {
+      "title": "Strategy turns 1,690 BTC into $108.6M STRC buyback",
+      "link": "https://cointelegraph.com/markets/strategy-sells-1690-btc-buy-back-108-6-million-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy turns 1,690 BTC into $108.6M STRC buyback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy-2.jpg\" /></p><p>Strategy sold 1,690 Bitcoin to repurchase STRC shares as its US dollar reserve rose to $4.65 billion and",
+      "published": "2026-08-10T12:36:32+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія використала кошти від продажу 1 690 біткоїнів для масштабного зворотного викупу акцій STRC. На тлі цієї операції доларові резерви компанії зросли до рекордних 4,65 мільярда доларів.",
+      "ai_title": "Strategy конвертувала біткоїни у викуп власних акцій на мільйони доларів",
+      "video_keywords": "digital currency, computer screen, stock exchange, business office"
     }
   ]
 }
