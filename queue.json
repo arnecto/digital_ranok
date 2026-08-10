@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
-      "published": "2026-08-08T17:53:34+00:00",
-      "source": "The Verge",
-      "ai_summary": "Для забезпечення енергією свого нового центру обробки даних у Західному Техасі Amazon інвестує в будівництво нової газової електростанції. За даними ЗМІ, цей об'єкт може стати одним із найбільших джерел викидів парникових газів у країні.",
-      "ai_title": "Дата-центр Amazon може стати джерелом найбільших викидів в США",
-      "video_keywords": "data center, power plant, smoke stacks, industrial pollution"
-    },
-    {
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "summary": "<p>Article URL: <a href=\"https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224294\">https://news.ycombinator.com/item?id=49224294</a></p>\n<p>Points: 38</p>\n<p># Comments: 12</p>",
-      "published": "2026-08-08T18:09:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Уряд Данії запроваджує обов'язкові усні захисти студентських робіт через масове використання штучного інтелекту для написання текстів. Це нововведення покликане мінімізувати академічне шахрайство та перевірити справжні знання студентів. Освітні заклади змушені адаптувати системи оцінювання до ери генеративних нейромереж.",
-      "ai_title": "У Данії скасовують письмовий плагіат: студенти здаватимуть усні іспити через штучний інтелект",
-      "video_keywords": "classroom, student speaking, university lecture, modern auditorium"
-    },
-    {
-      "title": "TinySol, a tiny solitaire game for DOS",
-      "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
-      "summary": "<p>Article URL: <a href=\"https://classicbits.net/coding-and-software/my-software/monosol/\">https://classicbits.net/coding-and-software/my-software/monosol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224020\">https://news.ycombinator.com/item?id=49224020</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
-      "published": "2026-08-08T17:42:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено надзвичайно компактну версію класичного пасьянсу, яка запускається на операційних системах DOS. Проєкт демонструє ностальгійний підхід до програмування та створення ігор для застарілого «заліза». Це чудовий приклад того, як сучасні розробники надихаються ретро-технологіями.",
-      "ai_title": "TinySol: мініатюрна гра пасьянс для стареньких DOS-систем",
-      "video_keywords": "vintage computer, MS DOS, old monitor, retro gaming"
-    },
-    {
       "title": "Open-source interactive map for the Aug 12 total solar eclipse",
       "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
       "summary": "<p>Article URL: <a href=\"https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute\">https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8",
@@ -944,6 +914,36 @@
       "ai_summary": "Починаючи з 2027 року, платформа підвищує поріг для участі в Партнерській програмі YouTube. Авторам контенту знадобиться значно більше годин перегляду або мільйони переглядів Shorts для доступу до виплат.",
       "ai_title": "YouTube посилює вимоги для монетизації каналів",
       "video_keywords": "youtube studio, video editing, content creator, computer monitor"
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "link": "https://www.anthropic.com/research/riemann-zeta",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/riemann-zeta\">https://www.anthropic.com/research/riemann-zeta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247070\">https://news.ycombinator.com/item?id=49247070</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
+      "published": "2026-08-10T17:41:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic опублікувала дослідження, яке детально описує математичні здібності штучного інтелекту Claude. Зокрема, аналізується успішність вирішення складних наукових задач та гіпотези Рімана. Це демонструє значний прогрес у здатності мовних моделей виконувати точні обчислення.",
+      "ai_title": "Штучний інтелект Claude демонструє нові успіхи у вищій математиці",
+      "video_keywords": "computer screen, graphs, data visualization, office"
+    },
+    {
+      "title": "The Tragedy of the Cognitive Commons",
+      "link": "https://arxiv.org/abs/2607.29380",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29380\">https://arxiv.org/abs/2607.29380</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245359\">https://news.ycombinator.com/item?id=49245359</a></p>\n<p>Points: 33</p>\n<p># Comments: 6</p>",
+      "published": "2026-08-10T15:55:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова наукова робота під назвою «Трагедія когнітивного простору» аналізує вплив масової генерації контенту штучним інтелектом на інформаційне середовище. Автори застерігають про ризики перенасичення інтернету синтетичними даними, що може погіршити навчання майбутніх моделей. Це ставить під загрозу якість майбутніх технологій та доступ до надійних знань.",
+      "ai_title": "Дослідження попереджають про кризу «когнітивного простору» через розвиток ШT",
+      "video_keywords": "server room, data center, blinking lights, electronics"
+    },
+    {
+      "title": "What to expect from Google’s 2026 Pixel hardware launch event",
+      "link": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+      "summary": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and perhaps a brand [&#8230;]",
+      "published": "2026-08-10T17:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google готується до щорічної події Made by Google, де представить нові гаджети лінійки Pixel. Очікується анонс смартфонів класичної конструкції та складних моделей, а також оновлених смарт-годинників і навушників. Інсайдерські витоки вже розкрили частину деталей майбутніх новінок ще до офіційного старту.",
+      "ai_title": "Чого очікувати від презентації нових пристроїв Google Pixel у 2026 році",
+      "video_keywords": "smartphone, holding phone, electronic device, modern room"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1117,6 +1117,16 @@
       "ai_summary": "Випуск моделі Muse Glimmer демонструє прагнення Марка Цукерберга розвивати персональний надрозум та відкритий код. Це також підкреслює зростаючу прірву між закритими хмарними системами та доступним штучним інтелектом, який користувачі можуть контролювати самостійно.",
       "ai_title": "Нова модель Glimmer від Meta розкриває бачення Цукерберга щодо персонального штучного інтелекту",
       "video_keywords": "futuristic digital interface, businessman looking at screen, glowing holographic data, data center servers"
+    },
+    {
+      "title": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+      "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+      "summary": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use",
+      "published": "2026-08-10T18:00:39+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Clicks випустила чохол із висувною фізичною клавіатурою вартістю 99 доларів для смартфонів із підтримкою MagSafe та Qi2. Новинка дає змогу друкувати як на старих BlackBerry, проте суттєво збільшує габарити та вагу пристрою, роблячи його використання менш зручним.",
+      "ai_title": "Фізична клавіатура у стилі BlackBerry повернулася для сучасних смартфонів",
+      "video_keywords": "smartphone keyboard, mobile typing, tech gadget, hands using phone"
     }
   ],
   "Крипта": [
