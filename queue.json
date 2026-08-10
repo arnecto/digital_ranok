@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Buc-ee’s dodges John Oliver to sue another small business",
-      "link": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-      "summary": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads [&#8230;]",
-      "published": "2026-08-08T15:47:30+00:00",
-      "source": "The Verge",
-      "ai_summary": "Популярна американська мережа заправок продовжує практику агресивних судових позовів проти невеликих конкурентів замість того, щоб відповісти на публічний виклик відомого телеведучого Джона Олівера. Компанія уникає медійного скандалу, водночас продовжуючи тиснути на локальних підприємців через торгові марки.",
-      "ai_title": "Мережа Buc-ee's уникає позову від Джона Олівера та судиться з іншим малим бізнесом",
-      "video_keywords": "gas station, convenience store, storefront, legal documents"
-    },
-    {
       "title": "LinkedIn Feed Blocker",
       "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
       "summary": "<p>Article URL: <a href=\"https://github.com/andrewpollack/linkedin-feed-blocker\">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223475\">https://news.ycombinator.com/item?id=49223475</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
@@ -19,16 +9,6 @@
       "ai_summary": "Нове розширення допомагає користувачам LinkedIn позбутися відволікаючої стрічки новин. Це дозволяє зосередитися виключно на робочих чатах та професійних пошукових завданнях без зайвого інформаційного шуму.",
       "ai_title": "З'явився інструмент для блокування стрічки новин у LinkedIn",
       "video_keywords": "person typing computer, office desk, web browsing, close up screen"
-    },
-    {
-      "title": "Fastmail offers EU data region",
-      "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "summary": "<p>Article URL: <a href=\"https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223082\">https://news.ycombinator.com/item?id=49223082</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-08T16:04:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Поштовий сервіс Fastmail тепер пропонує користувачам можливість зберігати свої дані на серверах у Європейському Союзі. Такий крок спрямований на повну відповідність суворим європейським стандартам конфіденційності GDPR.",
-      "ai_title": "Fastmail запускає зберігання даних у регіоні ЄС",
-      "video_keywords": "server racks, data center, blinking lights, glowing cables"
     },
     {
       "title": "An Amazon data center could have the worst polluting power plant in the country",
@@ -59,16 +39,6 @@
       "ai_summary": "Стрімке зростання інфраструктури для штучного інтелекту та хмарних сервісів Amazon призвело до колосального збільшення викидів вуглекислого газу. Експерти б'ють на сполох через енергоємність дата-центрів, які зводяться швидше, ніж зелена енергетика встигає їх забезпечувати. Це стає серйозним викликом для екологічної політики корпорацій.",
       "ai_title": "Дата-центри Amazon стають найбільшим джерелом забруднення довкілля",
       "video_keywords": "industrial smoke stacks, server room, cooling towers, carbon pollution"
-    },
-    {
-      "title": "Can Intel finally beat ARM on performance per Watt?",
-      "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-      "summary": "<p>Article URL: <a href=\"https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/\">https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223079\">https://news.ycombinator.com/item?id=49223079</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-08T16:04:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нові технологічні виклики змушують Intel змагатися з домінуючою архітектурою ARM у категорії продуктивності на ват. Енергоефективність процесорів стає критичним показником як для мобільних пристроїв, так і для потужних серверів. Інженери шукають нові підходи до мікроархітектури, щоб зменшити споживання енергії.",
-      "ai_title": "Чи зможе Intel обійти архітектуру ARM за енергоефективністю?",
-      "video_keywords": "microchip manufacturing, computer hardware, soldering iron, motherboard circuit board"
     },
     {
       "title": "TinySol, a tiny solitaire game for DOS",
@@ -904,6 +874,56 @@
       "summary": "Starting on Friday, August 28th, Apple will begin streaming Friday Night Baseball in immersive video on Apple Vision Pro. The stream will feature commentary from various analysts and reporters, and live graphics will be anchored around the viewers space during the game. After the games conclude, replays will be made available in the Apple TV [&#8230;]",
       "published": "2026-08-10T15:00:00+00:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "link": "https://github.com/AntigmaLabs/ante",
+      "summary": "<p>Article URL: <a href=\"https://github.com/AntigmaLabs/ante\">https://github.com/AntigmaLabs/ante</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245437\">https://news.ycombinator.com/item?id=49245437</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-10T15:59:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий інструмент для розробників під назвою Ante, що функціонує як автономний агент для написання коду. Цей продукт запаковано в єдиний бінарний файл і він може працювати повністю без підключення до інтернету, забезпечуючи конфіденційність та зручність.",
+      "ai_title": "Ante — автономний агент для програмування, який працює офлайн",
+      "video_keywords": "programmer coding, laptop screen, dark mode code, typing hands"
+    },
+    {
+      "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
+      "link": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
+      "summary": "<p>Article URL: <a href=\"https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/\">https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49244783\">https://news.ycombinator.com/item?id=49244783</a></p>\n<p>Points: 75</p>\n<p>",
+      "published": "2026-08-10T15:13:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У суспільстві зростає негативна реакція на розумні окуляри від компанії Meta. Критики та користувачі занепокоєні потенційним порушенням приватності та прихованою зйомкою, що призвело до появи гострих прізвиськ для пристрою.",
+      "ai_title": "Хвиля обурення: смарт-окуляри Meta назвали «окулярами для збочинців»",
+      "video_keywords": "smart glasses, wearing glasses, person walking street, digital privacy"
+    },
+    {
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "link": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "summary": "<p>Article URL: <a href=\"https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/\">https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49244569\">https://news.ycombinator.com/item?id=49244569</a></p>\n<p>Points: 14</p>",
+      "published": "2026-08-10T14:56:32+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Мережа аптек Kinney Drugs була змушена призупинити використання свого телефонного ШІ-асистента. Причиною стали сотні негативних звернень та скарг від незадоволених клієнтів на роботу штучного інтелекту.",
+      "ai_title": "Аптека Kinney Drugs відмовилася від ШІ-асистента через скарги клієнтів",
+      "video_keywords": "customer service, phone call, pharmacy counter, frustrated person"
+    },
+    {
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "link": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "summary": "<p>Article URL: <a href=\"https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs\">https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49244085\">https://news.ycombinator.com/item?id=49244085</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-10T14:20:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився новий аналіз, що досліджує межі актуальності даних та хронологію попереднього навчання провідних мовних моделей, таких як Claude та GPT. Дослідники зазирають за лашку того, як формується база знань штучного інтелекту.",
+      "ai_title": "Дослідження часових шкал попереднього навчання та обмежень знань Claude і GPT",
+      "video_keywords": "data analysis, computer graphs, artificial intelligence, futuristic tech"
+    },
+    {
+      "title": "What happens to Bose when headphones become AI?",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both [&#8230;]",
+      "published": "2026-08-10T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Генеральна директорка компанії Bose Ліла Снайдер обговорює виклики, які постають перед легендарним аудіобрендами. У світі, де навушники стають розумними гаджетами з ШІ, компанія шукає нові шляхи для розвитку своїх технологій.",
+      "ai_title": "Майбутнє бренду Bose у добу штучного інтелекту",
+      "video_keywords": "wireless headphones, listening to music, person wearing headphones, modern audio tech"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1057,19 +1077,29 @@
       "summary": "<p><i>Presented by MongoDB </i></p><hr /><p>We have been building databases as an industry for roughly <a href=\"https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf\">60 years</a>. We have been building AI agents, in the form most people mean when they say the word today, for about 18 months.</p><p>Sit with that ratio for a second, because it explains almost everything about the state of agentic d",
       "published": "2026-08-10T14:30:00+00:00",
       "source": "VentureBeat"
+    },
+    {
+      "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
+      "link": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
+      "summary": "<p>Meta today<a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\"> released Muse Glimmer, a 30-billion-parameter open-weight model</a> designed to run autonomous AI agents directly on consumer hardware — pushing agentic workloads that normally depend on cloud infrastructure onto high-end Macs and PCs.</p><p>Just as notable as what the model does is how it&#x27;s lice",
+      "published": "2026-08-10T16:22:13+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Компанія Meta презентувала нову відкриту модель Muse Glimmer об'ємом 30 мільярдів параметрів з ліцензією Apache 2.0. Вона оптимізована для запуску автономних AI-агентів безпосередньо на споживчому залізові, переносячи важкі обчислення з хмари на звичайні потужні ПК та Mac.",
+      "ai_title": "Meta випустила потужну відкриту AI-модель Muse Glimmer для персональних комп'ютерів",
+      "video_keywords": "person typing on laptop, computer screen with code, modern office desk, artificial intelligence concept"
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+      "published": "2026-08-10T16:20:13+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Випуск моделі Muse Glimmer демонструє прагнення Марка Цукерберга розвивати персональний надрозум та відкритий код. Це також підкреслює зростаючу прірву між закритими хмарними системами та доступним штучним інтелектом, який користувачі можуть контролювати самостійно.",
+      "ai_title": "Нова модель Glimmer від Meta розкриває бачення Цукерберга щодо персонального штучного інтелекту",
+      "video_keywords": "futuristic digital interface, businessman looking at screen, glowing holographic data, data center servers"
     }
   ],
   "Крипта": [
-    {
-      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-      "link": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US spot Bitcoin ETFs post best week since April with $1B inflows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-part-2-where-oh-where-has-btc-volatility-gone-etf.jpg\" /></p><p>The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional dem",
-      "published": "2026-08-08T16:20:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Американські спотові біткоин-ETF продемонстрували найкращий тижневий результат із квітня, зафіксувавши приплив капіталу в розмірі близько одного мільярда доларів. Це свідчить про відновлення інтересу з боку інституційних інвесторів до криптовалютних фондів.",
-      "ai_title": "Спотові біткоин-ETF у США залучили понад $1 млрд за тиждень",
-      "video_keywords": "bitcoin chart, financial graphs, stock market trading, digital currency"
-    },
     {
       "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
       "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
@@ -1439,6 +1469,36 @@
       "ai_summary": "Платформа Solstice Finance запустила перший в історії екосистеми Solana структурований фінансовий продукт Strategy STRC. Ця подія відкриває нові можливості для інституційних та приватних інвесторів, які прагнуть диверсифікувати свої портфелі на базі блокчейну Solana. Запуск таких інструментів сприяє загальному зростанню зрілості ринку децентралізованих фінансів.",
       "ai_title": "Solana отримала свій перший інвестиційний продукт Strategy STRC",
       "video_keywords": "blockchain technology, glowing network, cryptocurrency charts, digital wallet"
+    },
+    {
+      "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
+      "link": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-shakes-market2.jpg\" /></p><p>Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the Strait of Hormuz oil route, while analysis ",
+      "published": "2026-08-10T16:14:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс першої криптовалюти знизився і нівелював усі вихідні прибутки через падіння на фондовому ринку США. Настрої інвесторів погіршилися після того, як Іран зруйнував надії на швидке відкриття судноплавства в Ормузькій протоці, що спровокувало стрибок цін на нафту на 5%.",
+      "ai_title": "Біткоїн втратив позиції на тлі стрибка цін на нефть через ситуацію в Ормузькій протоці",
+      "video_keywords": "bitcoin chart, stock market crash, oil refinery, trading terminal"
+    },
+    {
+      "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
+      "link": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-canada-crypto-regultion-bitcoin-etfs-strict-licensing-and-a-digital-dollar.png\" /></p><p>BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bitcoin a",
+      "published": "2026-08-10T15:59:06+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія BlackRock Canada презентувала два нові біржові фонди для інвесторів. Особливістю одного з них є пряма інтеграція криптовалюти — 3% портфеля фонду виділено на інвестиції в Біткоїн.",
+      "ai_title": "BlackRock запустила нові канадські ETF із часткою Біткоїна",
+      "video_keywords": "financial district, stock exchange, digital tablet, banking app"
+    },
+    {
+      "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
+      "link": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
+      "summary": "",
+      "published": "2026-08-10T13:50:51+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Тома Лі змінила свою інвестиційну стратегію та зменшила обсяги придбання криптовалюти Ethereum. Замість цього фірма почала активно спрямовувати капітал на викуп власних акцій на ринку.",
+      "ai_title": "Bitmine скоротила купівлю Ethereum на користь викупу власних акцій",
+      "video_keywords": "corporate office, business meeting, stock market graph, calculator"
     }
   ]
 }
