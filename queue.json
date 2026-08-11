@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "CSS: The bomb inside your inbox",
-      "link": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-      "summary": "<p>Article URL: <a href=\"https://portswigger.net/research/css-the-bomb-inside-your-inbox\">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230066\">https://news.ycombinator.com/item?id=49230066</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-09T10:17:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники виявили нову потенційну вразливість безпеки, яка використовує можливості CSS всередині електронних листів. Це дозволяє зловмисникам створювати приховані загрози безпосередньо у вхідних повідомленнях користувачів. Звіт наголошує на ризиках обробки стилів у сучасних поштових клієнтах.",
-      "ai_title": "Уразливість через CSS у поштових скриньках",
-      "video_keywords": "email inbox, hacker typing, computer screen, cybersecurity"
-    },
-    {
-      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-      "link": "https://halfhill.com/byte/1998-12_alpha.html",
-      "summary": "<p>Article URL: <a href=\"https://halfhill.com/byte/1998-12_alpha.html\">https://halfhill.com/byte/1998-12_alpha.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230022\">https://news.ycombinator.com/item?id=49230022</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-09T10:06:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Архівний матеріал нагадує про історичний процесор Alpha 21264, який свого часу вважався вершиною RISC-архітектури для операційної системи Windows NT. Стаття описує технічні характеристики та значення цього чіпа в еволюції комп'ютерного заліза наприкінці 1990-х років. Це ностальгійний погляд на інженерні досягнення минулого.",
-      "ai_title": "Легендарний процесор Alpha 21264 з 1998 року",
-      "video_keywords": "vintage computer, circuit board, microchip, old hardware"
-    },
-    {
       "title": "Everything You Do Is Being Recorded",
       "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
       "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/\">https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230477\">https://news.ycombinator.com/item?id=49230477</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
@@ -984,6 +964,26 @@
       "ai_summary": "Нові дослідження звертають увагу на величезні обсяги водних ресурсів, необхідних для охолодження потужних серверів та роботи моделей штучного інтелекту. Це ставить під загрозу екологічну стійкість індустрії в умовах глобального дефіциту води.",
       "ai_title": "Екологічний слід штучного інтелекту: скільки води витрачають дата-центри",
       "video_keywords": "server room, data center, blinking lights, cooling system"
+    },
+    {
+      "title": "US court allows consideration of thousands of lawsuits against Meta, Google, TikTok and Snapchat over social media addiction",
+      "link": "https://en.ain.ua/2026/08/11/us-court-allows-consideration-of-thousands-of-lawsuits-against-meta-google-tiktok-and-snapchat-over-social-media-addiction/",
+      "summary": "Companies tried to challenge the court's decision, citing a law that shields online platforms from liability for user-generated content.",
+      "published": "2026-08-11T10:35:00+00:00",
+      "source": "",
+      "ai_summary": "Американський суд відхилив спроби техногігантів закрити справи щодо негативного впливу платформ на молодь. Компанії намагалися використати закон про захист від відповідальності за контент, але суд вирішив продовжити розгляд тисяч позовів.",
+      "ai_title": "Суд дозволив позови проти соцмереж через залежність користувачів",
+      "video_keywords": "smartphone scrolling, depressed teenager, court gavel, social media addiction"
+    },
+    {
+      "title": "London Underground begins scanning passengers' faces",
+      "link": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+      "summary": "<p>Article URL: <a href=\"https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/\">https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49255496\">https://news.ycombinator.com/item?id=",
+      "published": "2026-08-11T09:40:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Британська транспортна поліція розширює випробування систем живого розпізнавання облич на станціях метрополітену. Це викликає занепокоєння щодо конфіденційності даних та масового стеження за громадянами в громадському транспорті.",
+      "ai_title": "У лондонському метро почали сканувати обличчя пасажирів",
+      "video_keywords": "subway station, facial recognition, security camera, commuters walking"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1819,6 +1819,46 @@
       "ai_summary": "Фірма Keel повністю згорнула свої американські операції з видобутку біткоїна на тлі падіння квартального доходу наполовину. Компанія вирішила змінити стратегію та перенаправити ресурси на розвиток штучного інтелекту та високопродуктивних обчислень.",
       "ai_title": "Компанія Keel закриває біткоїн-майнінг у США через падіння доходів",
       "video_keywords": "server room, data center, computer servers, cooling fans"
+    },
+    {
+      "title": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
+      "link": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
+      "summary": "",
+      "published": "2026-08-11T10:34:52+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Ринковий ентузіязм великих компаній поступово зміщується від криптовалют у бік технологій штучного інтелекту. На тлі цього інтересу біткоїн демонструє тимчасовий спад вартості та втрачає частку уваги корпоративних інвесторів.",
+      "ai_title": "Біткоїн дешевшає через перетік капіталу інвесторів у штучний інтелект",
+      "video_keywords": "cryptocurrency chart, digital screen, stock market trading, red arrows"
+    },
+    {
+      "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
+      "link": "https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
+      "summary": "",
+      "published": "2026-08-11T10:10:36+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Масштабні вкладення Nvidia у розвиток інфраструктури для штучного інтелекту створюють дефіцит обчислювальних потужностей. Через це криптоіндустрія та майнінгові компанії отримують все менше ресурсів для свого розвитку.",
+      "ai_title": "Мільярдні інвестиції Nvidia в штучний інтелект відтісняють майнінг на задній план",
+      "video_keywords": "server room, microchip, computer hardware, glowing data"
+    },
+    {
+      "title": "UK lawmakers question lenders over lack of banking for the country’s crypto firms",
+      "link": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
+      "summary": "",
+      "published": "2026-08-11T10:06:39+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Парламентарі Великої Британії розпочали перевірку місцевих фінансових установ через масову відмову відкривати рахунки криптокомпаніям. Така політика банків створює серйозні перешкоди для легального розвитку цифрових активів у країні.",
+      "ai_title": "Британські депутати вимагають від банків пояснень щодо ігнорування криптобізнесу",
+      "video_keywords": "modern bank building, business handshake, serious politicians, office meeting"
+    },
+    {
+      "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
+      "link": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hack losses: How investigators trace stolen Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coldcard-screen-edit.png\" /></p><p>The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and on-chain analysis that produce varying estimates.</p>",
+      "published": "2026-08-11T10:14:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Після масштабних атак на криптогаманці на кшталт Coldcard експерти використовують спеціальні методи ончейн-аналізу. Це дозволяє розслідувати кіберзлочини та вираховувати рух викрадених цифрових активів попри спроби їх приховати.",
+      "ai_title": "Як блокчейн-детективи відстежують вкрадені біткоїни після гучних зломів",
+      "video_keywords": "hacker typing on keyboard, glowing code, digital security lock, cryptocurrency wallet"
     }
   ]
 }
