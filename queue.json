@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/\">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227718\">https://news.ycombinator.com/item?id=49227718</a></p>\n<p>Points: ",
-      "published": "2026-08-09T02:01:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Штучний інтелект від OpenAI тепер обмежує прямі запити на копіювання авторського стилю письмових робіт. Проте система все ще може створювати тексти з подібною атмосферою та емоційним забарвленням.",
-      "ai_title": "ChatGPT блокує спроби скопіювати стиль відомих авторів",
-      "video_keywords": "typing on keyboard, laptop screen, artificial intelligence, writer desk"
-    },
-    {
-      "title": "TheoremDB · A public workspace for machine mathematics",
-      "link": "https://theoremdb.org/",
-      "summary": "<p>Article URL: <a href=\"https://theoremdb.org/\">https://theoremdb.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227505\">https://news.ycombinator.com/item?id=49227505</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-09T01:23:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Платформа TheoremDB створена як відкритий робочий простір для машинного вирішення математичних завдань. Проєкт допомагає дослідникам та розробникам працювати з формальною математикою в єдиній базі даних.",
-      "ai_title": "TheoremDB: новий публічний простір для математичних обчислень",
-      "video_keywords": "mathematical formulas, blackboard, calculator, hands typing"
-    },
-    {
       "title": "Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
       "link": "https://itsfoss.com/news/illinois-age-verification-bill/",
       "summary": "<p>Article URL: <a href=\"https://itsfoss.com/news/illinois-age-verification-bill/\">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228350\">https://news.ycombinator.com/item?id=49228350</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
@@ -994,19 +974,19 @@
       "ai_summary": "Розробник створив віртуальну LED-смужку біля панелі Dock на Mac, яка відображає статус роботи AI-агентів у реальному часі. Це допомагає зручно відстежувати активність фонових процесів без постійного перемикання між вікнами.",
       "ai_title": "Віртуальний індикатор статусу штучного інтелекту для macOS",
       "video_keywords": "computer screen, glowing led strip, glowing interface, modern laptop"
+    },
+    {
+      "title": "The UK's War on Anonymity Has Come to America",
+      "link": "https://www.effort.news/uk-lobby",
+      "summary": "<p>Article URL: <a href=\"https://www.effort.news/uk-lobby\">https://www.effort.news/uk-lobby</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49251411\">https://news.ycombinator.com/item?id=49251411</a></p>\n<p>Points: 206</p>\n<p># Comments: 118</p>",
+      "published": "2026-08-10T23:45:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нові ініціативи та лобістські зусилля щодо обмеження анонімності в мережі, які раніше активно просувалися у Великій Британії, тепер знаходять підтримку в США. Це викликає серйозні занепокоєння у прихильників конфіденційності та цифрових прав. Експерти попереджають про загрозу масового стеження та обмеження свободи слова.",
+      "ai_title": "Британський наступ на анонімність в інтернеті поширюється на США",
+      "video_keywords": "typing laptop, surveillance camera, digital security, internet server"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
-      "published": "2026-08-09T13:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Понад 20 років тому район Кінгс-Кросс у Лондоні вважався небезпечним та депресивним місцем із сумнівною репутацією. Сьогодні ж ця локація перетворилася на один із найпотужніших глобальних хабів для розвитку технологій штучного інтелекту.",
-      "ai_title": "Як колишній кримінальний район Лондона став світовим центром ШІ",
-      "video_keywords": "modern office building, london cityscape, technology hub, people working on computers"
-    },
     {
       "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
       "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
@@ -1287,6 +1267,16 @@
       "ai_summary": "OpenAI випустила спеціалізовану модель GPT-5.6-Cyber, створену для дослідження вразливостей та розробки захисних механізмів. Новинка здатна виконувати складні завдання з кібербезпеки з показником успішності 95% та має мінімальну кількість обмежень на запити.",
       "ai_title": "Вийшла нова модель GPT-5.6-Cyber для складних завдань кібербезпеки",
       "video_keywords": "server room, data center, cybersecurity analyst, glowing monitors"
+    },
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "published": "2026-08-11T00:03:18+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія OpenAI успішно завершила угоду з викупу акцій у своїх співробітників, яка оцінила її загальну вартість у колосальні суми. Це дозволить поточним та колишнім працівникам конвертувати свої частки у готівку на тлі стрімкого зростання популярності штучного інтелекту.",
+      "ai_title": "OpenAI завершила викуп акцій працівників на 7 мільярдів доларів",
+      "video_keywords": "corporate office, business handshake, modern skyscraper, financial chart"
     }
   ],
   "Крипта": [
@@ -1729,6 +1719,16 @@
       "ai_summary": "Федеральний суддя в Нью-Йорку задовольнив клопотання прокурорів про тимчасове призупинення цивільного позову Комісії з торгівлі товарними ф'ючерсами США (CFTC) проти військовослужбовця Геннона Кена Ван Дайка. Справа стосується його активності на ринках прогнозів, що привернула увагу регуляторів. Це рішення може створити важливий прецедент для правового статусу таких платформ у США.",
       "ai_title": "Суд призупинив справу проти американського військового щодо ставок на ринках прогнозів",
       "video_keywords": "courtroom, judge gavel, legal documents, courthouse"
+    },
+    {
+      "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
+      "link": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/asia-express-8.jpg\" /></p><p>The Bitcoin Red Team has been forced to rely on open source Chinese AI, after OpenAI restricts access. Thailand sets crypto tax to 0% i",
+      "published": "2026-08-11T02:08:36+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Таїланд офіційно скасовує податки на криптовалютні операції задля залучення інвестицій та розвитку цифрової економіки. Тим часом розробники з Bitcoin Red Team були змушені перейти на китайські штучні інтелекти через обмеження доступу до американських технологій OpenAI.",
+      "ai_title": "Нульовий податок на крипту в Таїланді та обмеження для Bitcoin Red Team",
+      "video_keywords": "bitcoin coins, thailand flag, computer screen, artificial intelligence"
     }
   ]
 }
