@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The AI Apocalypse Is Here",
-      "link": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-      "summary": "<p>Article URL: <a href=\"https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/\">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227521\">https://news.ycombinator.com/item?id=49227521</a></p>\n<p>Points: 25</p>\n<p># Comments: 16</p>",
-      "published": "2026-08-09T01:28:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти обговорюють сучасні виклики та наслідки стрімкого впровадження штучного інтелекту в усі сфери життя. Дискусія зосереджується на тому, чи справді ми вже переживаємо технологічну революцію та які ризики вона несе для суспільства.",
-      "ai_title": "Штучний інтелект змінює світ уже сьогодні",
-      "video_keywords": "futuristic data center, server racks, glowing screens, artificial intelligence"
-    },
-    {
       "title": "ChatGPT starts blocking direct requests to copy an author's style",
       "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
       "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/\">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227718\">https://news.ycombinator.com/item?id=49227718</a></p>\n<p>Points: ",
@@ -994,6 +984,16 @@
       "ai_summary": "Традиційний пошук Google стрімко втрачає свої позиції на тлі розвитку нових технологій. Експерти аналізують, яким буде майбутнє пошуку інформації в інтернеті та до яких наслідків це призведе.",
       "ai_title": "Смерть звичного пошуку Google: що прийде на зміну",
       "video_keywords": "person typing laptop, glowing screen, empty desk"
+    },
+    {
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "link": "https://github.com/leog/ai-pulse",
+      "summary": "<p>Hi HN!<p>I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There's a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :D<p>I hope you like it and find it useful as I do!</p>\n<hr />\n<p>Comments URL: <a href=\"https://ne",
+      "published": "2026-08-10T22:07:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив віртуальну LED-смужку біля панелі Dock на Mac, яка відображає статус роботи AI-агентів у реальному часі. Це допомагає зручно відстежувати активність фонових процесів без постійного перемикання між вікнами.",
+      "ai_title": "Віртуальний індикатор статусу штучного інтелекту для macOS",
+      "video_keywords": "computer screen, glowing led strip, glowing interface, modern laptop"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1267,6 +1267,26 @@
       "ai_summary": "Засновник Amazon Джефф Безос близький до завершення угоди щодо купівлі частки в одному з найвідоміших британських футбольних клубів — «Ліверпуль». Це стане першою інвестицією мільярдера у професійний спорт. Подібні угоди підкреслюють зростаючий інтерес технологічних магнатів до світової спортивної індустрії.",
       "ai_title": "Джефф Безос купує свою першу спортивну команду",
       "video_keywords": "football stadium, billionaire businessman, luxury box, soccer match"
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "published": "2026-08-10T23:56:15+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі зростання кількості кібератак за допомогою штучного інтелекту компанія OpenAI розширює свою оборонну програму Daybreak. У межах ініціативи представлено нову спеціалізовану модель, навчену протидіяти сучасним цифровим загрозам.",
+      "ai_title": "OpenAI презентувала нову модель штучного інтелекту для кіберзахисту",
+      "video_keywords": "cybersecurity, hackers working, computer screens, digital code"
+    },
+    {
+      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+      "link": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+      "summary": "<p>Earlier today, <a href=\"https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/\">OpenAI launched GPT-5.6-Cyber</a>, a specialized model designed to perform advanced vulnerability research and exploit development for approved defenders — including categories of work that its general-purpose models will often refuse.</p><p>GPT-5.6-Cyber is a fine-tuned version of OpenAI&#",
+      "published": "2026-08-10T23:53:23+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "OpenAI випустила спеціалізовану модель GPT-5.6-Cyber, створену для дослідження вразливостей та розробки захисних механізмів. Новинка здатна виконувати складні завдання з кібербезпеки з показником успішності 95% та має мінімальну кількість обмежень на запити.",
+      "ai_title": "Вийшла нова модель GPT-5.6-Cyber для складних завдань кібербезпеки",
+      "video_keywords": "server room, data center, cybersecurity analyst, glowing monitors"
     }
   ],
   "Крипта": [
