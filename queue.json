@@ -954,6 +954,26 @@
       "ai_summary": "Адміністратори Windows 11 висловили невдоволення тим, що компанія Microsoft без попередження встановила новий додаток Photos із інтеграцією OneDrive. Через хвилю критики техногіганту довелося реагувати на скарги користувачів та пояснювати свої дії.",
       "ai_title": "Microsoft змушена виправдовуватися через приховану установку бета-додатків у Windows 11",
       "video_keywords": "computer screen, windows interface, frustrated user, office desk"
+    },
+    {
+      "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+      "link": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+      "summary": "<p>Article URL: <a href=\"https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself\">https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253738\">https://news.ycombinator.com/item?id=49253738</a></p>\n<p>Points: 4</p>\n<p>#",
+      "published": "2026-08-11T05:30:24+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники знайшли новий спосіб реверс-інжинірингу для моделі DeepSeek, змусивши її інтерв'ювати саму себе. Це дозволяє розкрити внутрішню архітектуру та принципи роботи штучного інтелекту без прямих розкриттів від розробників.",
+      "ai_title": "Як розібрати штучний інтелект DeepSeek на складові через самоопитування",
+      "video_keywords": "programmer typing code, computer screen, glowing matrix, data analysis"
+    },
+    {
+      "title": "Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+      "link": "https://github.com/activeing123/mcptoon",
+      "summary": "<p>Article URL: <a href=\"https://github.com/activeing123/mcptoon\">https://github.com/activeing123/mcptoon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253721\">https://news.ycombinator.com/item?id=49253721</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-11T05:26:58+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив новий CLI-клієнт Mcptoon, який оптимізує роботу з інструментами штучного інтелекту. Завдяки унікальному підходу вдалося суттєво зменшити кількість токенів, необхідних для пошуку інструментів.",
+      "ai_title": "Новий клієнт Mcptoon скорочує витрати токенів ШІ на 97%",
+      "video_keywords": "terminal window, command line, developer workspace, software engineering"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1749,6 +1769,16 @@
       "ai_summary": "Адміністрація продовжує переговори з демократами напередодні важливого голосування в Сенаті щодо закону CLARITY. Влада налаштована довести цю ініціативу до фінальної стадії вже у вересні.",
       "ai_title": "Білий дім пообіцяв ухвалити закон CLARITY у вересні",
       "video_keywords": "white house exterior, government building, american flag, politicians meeting"
+    },
+    {
+      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
+      "link": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Payments platform Decta explores stablecoin-enabled treasury settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-stablecoins-turn-a-corner-driven-by-the-acceptance-of-financial-institutions.jpg\" /></p><p>Decta will use USDC through OpenPayd’s infrastructure for international treasury",
+      "published": "2026-08-11T06:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Decta інтегрує використання стейблкоїна USDC через інфраструктуру OpenPayd для проведення міжнародних казначейських розрахунків. Це дозволить прискорити транзакції та знизити витрати на валютні операції між фінансовими інститутами.",
+      "ai_title": "Платіжна платформа Decta тестує розрахунки в стейблкоїнах",
+      "video_keywords": "digital currency, smartphone payment, financial transaction, modern bank"
     }
   ]
 }
