@@ -944,6 +944,16 @@
       "ai_summary": "В інтернеті з'явилися фотографії неанонсованого геймпада Microsoft Xbox Elite Series 3, який оснащений крихітним вбудованим дисплеєм. Користувач придбав цей прототип на онлайн-платформі за 200 доларів. Раніше подібні пристрої вже помічали в документах регуляторних органів.",
       "ai_title": "В мережу «злили» прототип контролера Xbox Elite Series 3 із вбудованим екраном",
       "video_keywords": "video game controller, gaming setup, hands holding gamepad, electronics repair"
+    },
+    {
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "summary": "<p>Article URL: <a href=\"https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026\">https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49265031\">https://news.ycombinator.com/item?id=49265031</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-11T21:54:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Вийшла нова версія розширення pg_clickhouse v0.10, яка реалізує оптимізацію підзапитів (subquery pushdown). Завдяки цим архітектурним покращенням складні аналітичні запити за стандартом TPC-H тепер виконуються в тисячу разів швидше.",
+      "ai_title": "Оновлення pg_clickhouse прискорило аналітичні запити в тисячу разів",
+      "video_keywords": "server racks, flashing lights, data center, computer monitor code"
     }
   ],
   "Бізнес / Стартапи": [
