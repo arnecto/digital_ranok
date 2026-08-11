@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenChamber: An Agentic Development Environment",
-      "link": "https://openchamber.dev/",
-      "summary": "<p>Article URL: <a href=\"https://openchamber.dev/\">https://openchamber.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233448\">https://news.ycombinator.com/item?id=49233448</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-09T17:27:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено OpenChamber — спеціалізоване середовище розробки, адаптоване для роботи з автономними програмними агентами. Інструмент покликаний спростити створення та керування штучним інтелектом у девелоперських процесах. Це відкриває нові можливості для автоматизації написання коду.",
-      "ai_title": "OpenChamber: нове середовище для розробки за допомогою агентів",
-      "video_keywords": "coding, programmer, dual monitors, typing"
-    },
-    {
-      "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-      "link": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Z_O6Lwj1yjQ\">https://www.youtube.com/watch?v=Z_O6Lwj1yjQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233415\">https://news.ycombinator.com/item?id=49233415</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-09T17:22:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нове розслідування звертає увагу на те, як Google нібито використовує штучний інтелект для створення ілюзії творчої активності в американських офісах. Відео викликало широкий резонанс та обговорення в технологічній спільноті щодо етики застосування ШІ. Експерти аналізують можливі наслідки такого підходу для ринку праці.",
-      "ai_title": "Google викрили у використанні штучного інтелекту для імітації креативності в офісах",
-      "video_keywords": "modern office, computer screen, corporate worker, looking at monitor"
-    },
-    {
-      "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
-      "link": "https://frequal.com/aptera/ProductionImminent.html",
-      "summary": "<p>Article URL: <a href=\"https://frequal.com/aptera/ProductionImminent.html\">https://frequal.com/aptera/ProductionImminent.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233394\">https://news.ycombinator.com/item?id=49233394</a></p>\n<p>Points: 34</p>\n<p># Comments: 30</p>",
-      "published": "2026-08-09T17:19:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Aptera готує до випуску першу партію з 40 інноваційних електромобілів, які заряджаються від сонячної енергії. Це значний крок вперед для екологічного транспорту, що може змінити підхід до автономності майбутніх авто.",
-      "ai_title": "Електромобілі на сонячних батареях Aptera готуються до серійного виробництва",
-      "video_keywords": "electric car, solar panels, vehicle charging, modern automotive"
-    },
-    {
       "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
       "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
       "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html\">https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234393\">https://news.ycombinator.com/item?id=49234393</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
@@ -39,16 +9,6 @@
       "ai_summary": "Американці все частіше встановлюють на задніх дворах і балконах компактні сонячні панелі plug-and-play. Така технологія робить зелену енергію доступнішою для звичайних домогосподарств без складного монтажу.",
       "ai_title": "У США набирають популярності побутові сонячні панелі, що вмикаються в розетку",
       "video_keywords": "solar panels, backyard, green energy, house exterior"
-    },
-    {
-      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
-      "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-      "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted [&#8230;]",
-      "published": "2026-08-09T17:20:30+00:00",
-      "source": "The Verge",
-      "ai_summary": "Суперяхта Марка Цукерберга виявилася найближчим судном до застряглого без пального човна на Алясці. Проте врятувати людей вдалося пасажирському круїзному лайнеру, який прибув дещо пізніше.",
-      "ai_title": "Яхта Цукерберга опинилася поруч із човном, що зазнав лиха, але допомогу надали інші",
-      "video_keywords": "luxury yacht, ocean, rescue boat, cruise ship"
     },
     {
       "title": "How I use LLMs to learn complex topics",
@@ -69,26 +29,6 @@
       "ai_summary": "Розроблено новий інструмент для відлагодження баз даних SQLite, який не має зайвих залежностей. Він дозволяє розробникам ефективно відстежувати зміни та стани даних у часі.",
       "ai_title": "Ультралегкий інструмент подорожей у часі для баз даних SQLite",
       "video_keywords": "computer code screen, developer typing, dark mode terminal"
-    },
-    {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "link": "https://news.ycombinator.com/item?id=49233423",
-      "summary": "<p>What are you working on?  What have you been curious about lately?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233423\">https://news.ycombinator.com/item?id=49233423</a></p>\n<p>Points: 70</p>\n<p># Comments: 249</p>",
-      "published": "2026-08-09T17:23:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Спільнота Hacker News ділиться своїми новими проєктами та технологічними ідеями, над якими вони працюють останнім часом. Обговорення охоплює широкий спектр інновацій та цікавих експериментів.",
-      "ai_title": "Що розробляють айтівці: серпневий випуск Ask HN",
-      "video_keywords": "team meeting office, brainstorming whiteboard, modern workspace"
-    },
-    {
-      "title": "The Meme Factory: The Indonesians Making Money Off Facebook Outrage",
-      "link": "https://netbajura.blogspot.com/2026/08/inside-meme-factory-how-indonesians-are.html",
-      "summary": "<p>Article URL: <a href=\"https://netbajura.blogspot.com/2026/08/inside-meme-factory-how-indonesians-are.html\">https://netbajura.blogspot.com/2026/08/inside-meme-factory-how-indonesians-are.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233408\">https://news.ycombinator.com/item?id=49233408</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-09T17:22:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розслідування розповідає про мережі в Індонезії, які масово створюють провокативні меми для генерації трафіку та монетизації скандалів у соціальних мережах. Це демонструє темний бік сучасного контент-маркетингу та алгоритмів платформ.",
-      "ai_title": "Фабрика мемів: як в Індонезії заробляють на емоціях у Facebook",
-      "video_keywords": "social media feed scrolling, smartphone screen hands, computer monitors office"
     },
     {
       "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
@@ -934,19 +874,49 @@
       "ai_summary": "Компанія з мільйонними державними контрактами залишила портал для запитів непрацездатним протягом місяця. Це викликало занепокоєння щодо якості та надійності IT-послуг, які надаються державним структурам.",
       "ai_title": "Федеральний підрядник залишив важливий портал зламаним на місяць",
       "video_keywords": "broken computer screen, server room, frustrated worker, IT support"
+    },
+    {
+      "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
+      "link": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
+      "summary": "<p>Article URL: <a href=\"https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/\">https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261218\">https://news.ycombinator.com/item?id=49261218</a></p>\n<p>Points: 50</p>\n<p>",
+      "published": "2026-08-11T17:02:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Через технічну помилку в системі автоматичного розпізнавання автомобільних номерів жінку двічі зупиняли правоохоронці під дулом пістолета. Цей інцидент викликав серйозні занепокоєння щодо надійності та безпеки алгоритмів спостереження, які використовує поліція. Постраждала вимагає пояснень від розробників та правоохоронних органів щодо таких небезпечних системних збоїв.",
+      "ai_title": "Жіночу машину двічі зупиняли поліцейські через збій камер",
+      "video_keywords": "police car, flashing lights, highway patrol, traffic stop"
+    },
+    {
+      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "summary": "<p>Article URL: <a href=\"https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261133\">https://news.ycombinator.com/item?id=49261133</a></p>\n<p>Points: 45</p>\n<p># Comments: 35</p>",
+      "published": "2026-08-11T16:57:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Google назвав мову програмування Go однією з найкращих для створення програмного забезпечення за допомогою штучного інтелекту. Завдяки своїй простоті та ефективності вона чудово взаємодіє з сучасними AI-інструментами для написання коду. Це відкриває нові можливості для розробників, які прагнуть прискорити створення складних програм.",
+      "ai_title": "Чому мова програмування Go ідеально підходить для розробки з ШІ",
+      "video_keywords": "programmer typing, computer screen, code, software developer"
+    },
+    {
+      "title": "Another OpenAI executive takes off",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand [&#8230;]",
+      "published": "2026-08-11T17:50:01+00:00",
+      "source": "The Verge",
+      "ai_summary": "Бред Лайткеп, колишній операційний директор та керівник спецпроєктів OpenAI, оголосив про свій відхід після восьми років роботи в компанії. У своїй прощальній записці він зазначив, що планує займатися чимось новим та досліджувати нові горизонти. Це чергова кадрова зміна серед керівництва відомої лабораторії штучного інтелекту.",
+      "ai_title": "Ще один топменеджер залишає компанію OpenAI",
+      "video_keywords": "modern office, corporate boardroom, business handshake, executive meeting"
+    },
+    {
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
+      "published": "2026-08-11T16:19:15+00:00",
+      "source": "The Verge",
+      "ai_summary": "В останній бета-версії iOS виявили згадки нової системи верифікації справжності знімків, зроблених на iPhone. Технологія вбудовуватиме спеціальні метадані під час зйомки, що дозволить легко довести оригінальність фотографії. Це рішення має допомогти у боротьбі з поширенням підроблених зображень та діпфейків в інтернеті.",
+      "ai_title": "Apple розробляє функцію захисту від діпфейків для фотографій",
+      "video_keywords": "smartphone camera, taking a photo, hands holding phone, digital screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "published": "2026-08-09T19:20:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Anthropic оновлює свій інструмент Claude Code, роблячи автоматичний режим активним за замовчуванням. Це дозволить штучному інтелекту писати та виконувати код із мінімальним втручанням людини, прискорюючи процес розробки.",
-      "ai_title": "Anthropic вмикає автономний режим для Claude Code за замовчуванням",
-      "video_keywords": "software developer, typing on keyboard, computer screen, lines of code"
-    },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -1347,6 +1317,46 @@
       "ai_summary": "ШІ-асистенти генерують величезний потік покупців із високою готовністю придбати товар, проте існуюча комерційна інфраструктура виявляється неготовою до цього. Через технічні бар'єри та незручності користувачі часто не доводять покупку до кінця.",
       "ai_title": "Чому рекомендації штучного інтелекту рідко перетворюються на реальні покупки",
       "video_keywords": "online shopping, credit card, smartphone screen, e-commerce checkout"
+    },
+    {
+      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
+      "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
+      "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
+      "published": "2026-08-11T17:41:49+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий масштабний державно-приватний фонд Scaleup Europe здійснив свою першу інвестицію. Одержувачем коштів стала фінська компанія ICEYE, яка спеціалізується на виробництві супутників.",
+      "ai_title": "Фонд Scaleup Europe на 5,7 мільярда доларів інвестував у супутникову компанію ICEYE",
+      "video_keywords": "satellite in space, earth from space, rocket launch, technology control room"
+    },
+    {
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "published": "2026-08-11T17:41:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Один із найдавніших топменеджерів OpenAI йде з посади COO. За словами самого Лайткепа, він планує розпочати новий проєкт і продовжить підтримувати місію компанії з іншої позиції.",
+      "ai_title": "Операційний директор OpenAI Бред Лайткеп залишає компанію заради нового стартапу",
+      "video_keywords": "modern office building, businessman walking, corporate handshake, futuristic tech workspace"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "published": "2026-08-11T17:41:22+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий проєкт River AI, створений співзасновником xAI Ігорем Бабушкіним, вразив інвесторів своїм баченням персональних штучних інтелектів. Раунд очолив відомий фонд General Catalyst.",
+      "ai_title": "Стартап River AI залучив 1,1 мільярда доларів США у першому ж раунді фінансування",
+      "video_keywords": "artificial intelligence, server room, glowing data streams, programmers working on computers"
+    },
+    {
+      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
+      "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
+      "summary": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
+      "published": "2026-08-11T15:40:46+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Невідомі створили фальшиву мережу Wi-Fi прямо на борту літака. Через це екіпажу довелося вимкнути легітимний інтернет на пів години для з'ясування обставин.",
+      "ai_title": "Авіакомпанія Delta розслідує інцидент із підробленою Wi-Fi мережею під час польоту",
+      "video_keywords": "airplane interior, passenger using smartphone, flight attendant, airplane wing in flight"
     }
   ],
   "Крипта": [
@@ -2089,6 +2099,36 @@
       "ai_summary": "Вартість біткоїна опустилася до тижневих мінімумів перед публікацією даних щодо інфляції в США. Тим часом роздрібні інвестори масово скуповують золото, піднявши його ціну до найвищого рівня з червня.",
       "ai_title": "Біткоїн впав до тижневого мінімуму на тлі зростання попиту на золото",
       "video_keywords": "gold bars, falling chart, cryptocurrency graph, stock market crash"
+    },
+    {
+      "title": "ARP Digital secures Dubai VARA broker-dealer license",
+      "link": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ARP Digital secures Dubai VARA broker-dealer license\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-vat-law-in-uae-the-impact-on-stablecoins-and-digital-assets.png\" /></p><p>The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as it ex",
+      "published": "2026-08-11T17:53:51+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптоплатформа ARP Digital успішно здобула ліцензію регулятора VARA в Дубаї. Це дозволить компанії надавати послуги з легального обміну цифрових активів та стейблкоїнів на дирхами ОАЕ.",
+      "ai_title": "ARP Digital отримала ліцензію брокера у Дубаї",
+      "video_keywords": "dubai skyline, financial license, business handshake, digital tablet"
+    },
+    {
+      "title": "FlightAware sues Kalshi over flight cancellation data",
+      "link": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FlightAware sues Kalshi over flight cancellation data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-coin-moving-ahead-with-release-but-progress-delayed.jpg\" /></p><p>The legal action against Kalshi focused on trademark infringement and injury to its reputation in addition to citing state ",
+      "published": "2026-08-11T16:55:14+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія FlightAware розпочала судовий процес проти платформи передбачень Kalshi через несанкціоноване використання даних про скасування рейсів. Позов включає звинувачення у порушенні прав на торговельну марку та завданні шкоди діловій репутації.",
+      "ai_title": "FlightAware подала до суду на платформу Kalshi",
+      "video_keywords": "courtroom gavel, legal documents, airplane in sky, computer screen code"
+    },
+    {
+      "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
+      "link": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
+      "summary": "",
+      "published": "2026-08-11T17:12:11+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Інвестиційна платформа eToro повідомила про фінансові втрати від операцій із криптовалютами у другому кварталі. Водночас загальні показники прибутку компанії перевищили ринкові очікування аналітиків.",
+      "ai_title": "eToro зафіксувала збитки у криптосегменті попри загальний прибуток",
+      "video_keywords": "stock market chart, trading platform graphs, financial analytics, smartphone trading"
     }
   ]
 }
