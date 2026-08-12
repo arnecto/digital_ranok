@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "link": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-10T06:02:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Docker представила спеціальні середовища для запуску штучного інтелекту. Такі пісочниці дозволяють ізолювати процеси AI-агентів задля безпеки та легко знищувати їх після завершення задач.",
-      "ai_title": "Docker випустив ізольовані пісочниці для безпечної роботи AI-агентів",
-      "video_keywords": "server rack, computer code, developer screen, digital security"
-    },
-    {
       "title": "Memory shortage. Apple tests Chinese chips for iPhone and MacBook",
       "link": "https://en.ain.ua/2026/08/10/memory-shortage-apple-tests-chinese-chips-for-iphone-and-macbook/",
       "summary": "The American tech giant is seeking ways to overcome the chip shortage amid rising prices, but such cooperation requires approval from the Trump administration.",
@@ -944,6 +934,16 @@
       "ai_summary": "У статті розглядається зміна парадигми, де замість алгоритмів, що працюють під наглядом людини, тепер люди все частіше виконують допоміжну роль у процесах, які повністю контролюються штучним інтелектом. Автор аналізує етичні та практичні наслідки такого підходу для майбутнього праці й технологій.",
       "ai_title": "Людина в контурі управління: переосмислення ролі людини в епоху ШІ",
       "video_keywords": "person typing computer, futuristic interface, cybernetic control, hands on keyboard"
+    },
+    {
+      "title": "llama.cpp",
+      "link": "https://llama.app",
+      "summary": "<p>Article URL: <a href=\"https://llama.app\">https://llama.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267928\">https://news.ycombinator.com/item?id=49267928</a></p>\n<p>Points: 76</p>\n<p># Comments: 27</p>",
+      "published": "2026-08-12T04:51:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Вийшло нове оновлення для платформи llama.app, яке привернуло увагу спільноти розробників. Проєкт активно обговорюють на платформі Hacker News завдяки його можливостям у сфері локального запуску штучного інтелекту.",
+      "ai_title": "Оновлення платформи llama.app",
+      "video_keywords": "computer screen, programming code, typing hands, developer workspace"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1450,26 +1450,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
-      "link": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/ai-gut.jpg\" /></p><p>Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday. </p>",
-      "published": "2026-08-10T05:18:27+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Команда Bitcoin Red Team виявила майже 1,3 тисячі критичних вразливостей в екосистемі біткоїна станом на суботу. На тлі цього засновник проєкту був змушений звернутися до китайських розробок у сфері ШІ, що викликало в нього глибоке розчарування.",
-      "ai_title": "Засновник Bitcoin Red Team розчарований переходом на китайський штучний інтелект",
-      "video_keywords": "hacker typing keyboard, computer screen matrix, artificial intelligence server room"
-    },
-    {
-      "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
-      "link": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
-      "summary": "",
-      "published": "2026-08-10T07:52:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Платіжний гігант Mastercard готується поглинути перспективну фірму BVNK, що спеціалізується на стейблкоїнах. Ця угода підкреслює зростаючу інтеграцію традиційних фінансів та криптовалютних технологій.",
-      "ai_title": "Mastercard купує стейблкоїн-компанію BVNK за 1,8 мільярда доларів",
-      "video_keywords": "credit card payment, corporate handshake, financial office, digital currency"
-    },
     {
       "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
       "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
@@ -2269,6 +2249,36 @@
       "ai_summary": "Регулятор CFTC використав надзвичайні повноваження, щоб дозволити платформі прогнозів Kalshi продовжити роботу попри опір влади штату Нью-Йорк. Це рішення загострило конфлікт щодо того, чи мають штати право забороняти федерально регульовані контракти на події. Ситуація створює важливий прецедент для всього ринку деривативів та прогнозів у США.",
       "ai_title": "CFTC задіяла надзвичайні повноваження для захисту платформи Kalshi у Нью-Йорку",
       "video_keywords": "financial district new york, courthouse exterior, stock market trading floor, news room television"
+    },
+    {
+      "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+      "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
+      "summary": "",
+      "published": "2026-08-12T06:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Популярна криптовалютна біржа Crypto.com додає до своєї платформи токенізовані деривативи на акції. Цей крок відображає ширшу тенденцію на ринку, коли криптоплатформи прагнуть об'єднати торгівлю цифровими активами та традиційними цінними паперами.",
+      "ai_title": "Crypto.com запускає токенізовані акції на тлі зближення крирти та фондового ринку",
+      "video_keywords": "smartphone stock trading, crypto exchange office, digital tablet finance, person trading stocks"
+    },
+    {
+      "title": "Harmony’s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
+      "link": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
+      "summary": "",
+      "published": "2026-08-12T05:18:40+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалюта проєкту Harmony втратила понад чверть своєї вартості після того, як зловмисники випустили величезну кількість нових токенів. Обсяг несанкціонованої емісії склав майже чверть від загальної пропозиції монети, що спричинило паніку на ринку.",
+      "ai_title": "Токен Harmony (ONE обвалився на 26% через масштабну хакерську атаки",
+      "video_keywords": "red stock market graph, falling chart arrows, financial crisis monitor, panic trading screen"
+    },
+    {
+      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
+      "link": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony considers rollback after suspected exploit inflates ONE supply\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-top-hacks-so-far-4.jpg\" /></p><p>Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platf",
+      "published": "2026-08-12T06:02:52+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Розробники блокчейна Harmony співпрацюють з біржами для блокування вкрадених коштів та готують терміновий патч безпеки. Причиною став імовірний хакерський злам, через який на ринок потрапили мільярди нелегальних токенів ONE.",
+      "ai_title": "Harmony розглядає можливість відкату мережі після масштабного зльому емісії",
+      "video_keywords": "computer hacker typing, server room cyber attack, matrix code monitor, cybersecurity warning screen"
     }
   ]
 }
