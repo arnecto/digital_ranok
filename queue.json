@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "What Happened to HackerOne?",
-      "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "summary": "<p>Article URL: <a href=\"https://blog.teknogeek.io/posts/what-happened-to-hackerone/\">https://blog.teknogeek.io/posts/what-happened-to-hackerone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238561\">https://news.ycombinator.com/item?id=49238561</a></p>\n<p>Points: 38</p>\n<p># Comments: 9</p>",
-      "published": "2026-08-10T02:23:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття аналізує поточний стан та останні події навколо популярної платформи для етичного хакінгу та безпеки HackerOne. Автор розглядає виклики, з якими зіткнувся сервіс, та його можливі подальші перспективи у сфері кібербезпеки.",
-      "ai_title": "Куди рухається HackerOne: аналіз змін на платформі",
-      "video_keywords": "cybersecurity, hacker, computer screen, coding"
-    },
-    {
-      "title": "How We Pushed CDC into Postgres",
-      "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238050\">https://news.ycombinator.com/item?id=49238050</a></p>\n<p>Points: 36</p>\n<p># Comments: 4</p>",
-      "published": "2026-08-10T01:01:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інженери поділилися практичним досвідом інтеграції технології Change Data Capture (CDC) у середовище Postgres. У матеріалі описано архітектурні рішення, виклики під час реплікації даних та оптимізацію продуктивності системи.",
-      "ai_title": "Технічний досвід впровадження CDC у базу даних Postgres",
-      "video_keywords": "server room, data center, server racks, IT engineer"
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code",
-      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "summary": "<p>Article URL: <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239021\">https://news.ycombinator.com/item?id=49239021</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
-      "published": "2026-08-10T03:50:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic зробила автоматичний режим типовим налаштуванням для свого інструменту розробки Claude Code. Це дозволяє штучному інтелекту виконувати складніші завдання програмування з мінімальним втручанням користувача. Оновлення покликане прискорити робочі процеси розробників.",
-      "ai_title": "Автоматичний режим тепер стандартний у Claude Code",
-      "video_keywords": "coding, laptop screen, programmer typing, developer"
-    },
-    {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "link": "https://www.whodunnitai.com/",
-      "summary": "<p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speec",
-      "published": "2026-08-10T03:18:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив інтерактивну гру у жанрі детектива, де гравці можуть спілкуватися з віртуальними підозрюваними за допомогою голосу. Проєкт створено на основі сучасних голосових ШІ-агентів, які реагують на питання в реальному часі. Це демонструє новий рівень занурення в ігровий процес завдяки штучному інтелекту.",
-      "ai_title": "Голосовий детектив: допитуйте ШT-підозрюваних голосом",
-      "video_keywords": "microphone, person speaking, headphones, audio recording"
-    },
-    {
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "link": "https://github.com/shinyquagsire23/Klepton",
-      "summary": "<p>Article URL: <a href=\"https://github.com/shinyquagsire23/Klepton\">https://github.com/shinyquagsire23/Klepton</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238818\">https://news.ycombinator.com/item?id=49238818</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-10T03:12:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіаст розробив інструмент, який дозволяє запускати VR-додатки від Android на гарнітурі змішаної реальності Apple Vision Pro. Це розширює можливості сумісності програмного забезпечення для користувачів преміального пристрою. Проєкт вже доступний на GitHub для тестування.",
-      "ai_title": "Запуск Android ARM64 VR додатків на Apple Vision Pro",
-      "video_keywords": "virtual reality headset, vr goggles, futuristic tech, person wearing headset"
-    },
-    {
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "link": "https://foldingglobes.com/",
-      "summary": "<p>Article URL: <a href=\"https://foldingglobes.com/\">https://foldingglobes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238735\">https://news.ycombinator.com/item?id=49238735</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
-      "published": "2026-08-10T02:57:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився цікавий вебсервіс, який перетворює реальні супутникові знімки поверхні Землі на розгортку для створення паперового глобуса. Користувачі можуть згенерувати та скласти власну мініатюрну модель планети звичним способом оригамі. Це поєднання географічних даних та творчого хобі.",
-      "ai_title": "Перетворення супутникових знімків на паперовий глобус своїми руками",
-      "video_keywords": "paper globe, hands folding paper, origami, satellite map"
-    },
-    {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "link": "https://www.docker.com/products/docker-sandboxes/",
       "summary": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
@@ -964,6 +904,36 @@
       "ai_summary": "Генеральний директор компанії Saber заперечив заяву колишнього головного сценариста про те, що розробники використали штучний інтелект для створення гри Rideshare Stimulator. Водночас колишня працівниця наполягає, що її та колег замінили на чат-бот.",
       "ai_title": "Saber заперечує звинувачення у заміні сценаристів на ChatGPT",
       "video_keywords": "person typing on laptop, office worker, frustrated employee, computer monitor"
+    },
+    {
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/\">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267057\">https://news.ycombinator.com/item?id=49267057</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-12T02:05:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Журналістське розслідування викрило сервіс рецензування медичних статей, який позиціювався як на 100% створений людьми. На практиці ж усі матеріали та рецензії генерувалися за допомогою штучного інтелекту, що ставить під загрозу довіру до наукових публікацій.",
+      "ai_title": "Компанія, яка обіцяла медичні дослідження без штучного інтелекту, виявилася повністю створеною ШІ",
+      "video_keywords": "server room, computer screen, typing, ai generation"
+    },
+    {
+      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+      "link": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+      "summary": "<p>Article URL: <a href=\"https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/\">https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266899\">https://news.ycombinator.com/item?id=49",
+      "published": "2026-08-12T01:42:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Офіцера поліції міста Нью-Бедфорд звинувачують у незаконному використанні автоматизованих систем розпізнавання та стеження Flock. Він використовував дорожні камери не для служби, а щоб відстежувати пересування своєї колишньої дівчини.",
+      "ai_title": "Поліцейського звинуватили у використанні камер спостереження для стеження за колишньою",
+      "video_keywords": "security camera, cctv monitor, police badge, dashboard camera"
+    },
+    {
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/\">https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266560\">https://news.ycombinator.com/item?id=49266560</a></p>\n<",
+      "published": "2026-08-12T00:58:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Під час польоту літака авіакомпанії Delta сталася кібератака із використанням фальшивої точки доступу Wi-Fi. У причетності до інциденту підозрюють відвідувачів щорічної хакерської конференції DEF CON, які перебували на борту.",
+      "ai_title": "Учасників конференції DEF CON підозрюють у хакерській атаці на Wi-Fi під час авіарейсу",
+      "video_keywords": "airplane cabin, laptop screen, hacker, airport terminal"
     }
   ],
   "Бізнес / Стартапи": [
@@ -2289,6 +2259,16 @@
       "ai_summary": "Американські регулятори звинувачують компанію Goliath Ventures у створенні масштабної схеми Понці. Зловмисники обіцяли інвесторам високі прибутки від пулів ліквідності, проте натомість виплачували кошти попереднім вкладникам та фінансували власні витрати.",
       "ai_title": "SEC та CFTC подали до суду на організаторів криптопіраміди на $400 мільйонів",
       "video_keywords": "handcuffs, courtroom, police arrest, digital currency"
+    },
+    {
+      "title": "Ravencoin hits record low as network exploit puts transactions at risk",
+      "link": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ravencoin hits record low as network exploit puts transactions at risk \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-220m-was-stolen-in-minutes-understanding-the-cetus-dex-exploit-on-sui.jpg\" /></p><p>Mining pools controlling most of Ravencoin’s hash rate are building a competing cha",
+      "published": "2026-08-12T01:11:51+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалюта Ravencoin оновила свій мінімум після того, як хакерська вразливість поставила під загрозу безпеку транзакцій. Майнінгові пули наразі намагаються стабілізувати ситуацію, створюючи альтернативний ланцюжок блокчейну.",
+      "ai_title": "Ravencoin впав до історичного мінімуму через вразливість мережі",
+      "video_keywords": "cryptocurrency chart, digital screen, red graph dropping, hacker code"
     }
   ]
 }
