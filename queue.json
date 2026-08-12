@@ -11,36 +11,6 @@
       "video_keywords": "smartphone screen, social media feed, scrolling phone, person using app"
     },
     {
-      "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
-      "link": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
-      "summary": "The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a Nintendo Switch 2, a 256GB microSD Express card (usually $59), and [&#8230;]",
-      "published": "2026-08-10T19:14:27+00:00",
-      "source": "The Verge",
-      "ai_summary": "Мережа Costco пропонує спеціальний набір із новою консоллю Nintendo Switch 2 та картою пам'яті на 256GB за 499 доларів. Така пропозиція є особливо актуальною на тлі майбутнього підвищення цін на саму консоль із вересня.",
-      "ai_title": "Costco анонсувала вигідний комплект із Nintendo Switch 2 перед підвищенням цін",
-      "video_keywords": "gaming console, unboxing video, video game controller, retail store"
-    },
-    {
-      "title": "Security Vulnerability in Pioneer Rekordbox",
-      "link": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
-      "summary": "<p>Article URL: <a href=\"https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/\">https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247461\">https://news.ycombinator.com/item?id=49247461</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-10T18:11:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія AlphaTheta повідомила про критичну вразливість у системі Pro DJ Link програмного забезпечення Pioneer Rekordbox. Проблема зачіпає безпеку професійного DJ-обладнання, тому користувачам радять якнайшвидше ознайомитися з офіційним застереженням.",
-      "ai_title": "У програмному забезпеченні Pioneer Rekordbox виявили вразливість безпеки",
-      "video_keywords": "dj mixer, turntable, electronic equipment, audio engineer"
-    },
-    {
-      "title": "Rust SIMD on the GPU",
-      "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "summary": "<p>Article URL: <a href=\"https://www.vectorware.com/blog/simd-on-gpu/\">https://www.vectorware.com/blog/simd-on-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247477\">https://news.ycombinator.com/item?id=49247477</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-10T18:12:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У технічному блозі розібрано особливості застосування паралельних обчислень Rust SIMD безпосередньо на графічних процесорах (GPU). Підхід дозволяє суттєво підвищити продуктивність спеціалізованих обчислювальних завдань.",
-      "ai_title": "Використання Rust SIMD на графічних процесорах",
-      "video_keywords": "computer code, programming on screen, server rack, tech workspace"
-    },
-    {
       "title": "Attacker Takes over Zoom AI",
       "link": "https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai",
       "summary": "<p>Article URL: <a href=\"https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai\">https://www.promptarmor.com/resources/attacker-takes-over-zoom-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49248629\">https://news.ycombinator.com/item?id=49248629</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
@@ -979,39 +949,59 @@
       "ai_summary": "Користувачі Twitch отримали можливість відмовитися від участі їхнього контенту в навчанні генеративних моделей Amazon. Це стосується трансляцій, кліпів, записів та чатів каналу.",
       "ai_title": "Стрімери на Twitch тепер можуть заборонити використовувати свої дані для тренування штучного інтелекту",
       "video_keywords": "streaming setup, gaming pc, neon lights, microphone and headphones"
+    },
+    {
+      "title": "Zed: Delta",
+      "link": "https://zed.dev/blog/introducing-delta",
+      "summary": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 92</p>\n<p># Comments: 21</p>",
+      "published": "2026-08-12T18:19:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники редактора коду Zed представили оновлення Delta з новими функціями для покращення продуктивності та швидкості роботи. Це оновлення спрямоване на оптимізацію редагування коду в реальному часі.",
+      "ai_title": "Реліз Zed: Delta",
+      "video_keywords": "programmer typing code, computer monitor, software developer, office desk"
+    },
+    {
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275335\">https://news.ycombinator.com/item?id=49275335</a></p>\n<p>Points: 44</p>\n<p># Comments: 35</p>",
+      "published": "2026-08-12T16:51:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий підхід до розробки дозволяє створювати інтерактивні вебдодатки в реальному часі майже без використання JavaScript. Технологія базується на передачі HTML безпосередньо через WebSockets, що спрощує архітектуру.",
+      "ai_title": "Створення швидких вебдодатків через HTML та WebSockets",
+      "video_keywords": "web development, code on screen, laptop keyboard, programmer hands"
+    },
+    {
+      "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
+      "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+      "summary": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/76t89hbfb09h\">https://www.githubstatus.com/incidents/76t89hbfb09h</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274894\">https://news.ycombinator.com/item?id=49274894</a></p>\n<p>Points: 46</p>\n<p># Comments: 11</p>",
+      "published": "2026-08-12T16:22:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа GitHub повідомила про технічний інцидент, що вплинув на роботу систем Pull Requests та Issues. Розробники зіткнулися з тимчасовими затримками та помилками при обробці запитів.",
+      "ai_title": "Збій у роботі GitHub: проблеми з пул-реквестами",
+      "video_keywords": "server room, data center, flashing lights, IT engineer working"
+    },
+    {
+      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
+      "link": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
+      "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March [&#8230;]",
+      "published": "2026-08-12T16:58:29+00:00",
+      "source": "The Verge",
+      "ai_summary": "Міністерство внутрішньої безпеки США планує виділити до 20 мільйонів доларів на забезпечення офіцерів спеціальними рукавицями, що б'ють струмом. Цей пристрій призначений для примусового контролю та стримування порушників.",
+      "ai_title": "Американська міграційна служба планує закупити шокові рукавиці",
+      "video_keywords": "police officer, tactical gear, security guard, hands close up"
+    },
+    {
+      "title": "Amazon gets out of the MMO game",
+      "link": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
+      "summary": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting \"a significant amount\" of its work on first-party AAA games, \"specifically around MMOs,\" Amazon will be handing over live operations of Throne and Liberty and Lost Ark in the West to other companies, according to announcements on Wednesday. Throne [&#8230;]",
+      "published": "2026-08-12T16:46:05+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Amazon повністю виходить з ринку MMO-ігор, передаючи управління проєктами Lost Ark та Throne and Liberty іншим видавцям. Це рішення знаменує значний відступ корпорації від масштабного розроблення власних відеоігор.",
+      "ai_title": "Amazon закриває напрямок масових багатокористувацьких ігор",
+      "video_keywords": "person playing video game, gaming mouse, glowing keyboard, computer screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-      "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
-      "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
-      "published": "2026-08-10T18:31:54+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа Aptoide знову стала доступною у магазині Google Play вперше за понад десять років. Це стало можливим завдяки судовим рішенням, які зобов'язали Google відкрити Android для сторонніх магазинів додатків.",
-      "ai_title": "Aptoide повернувся до Google Play у США",
-      "video_keywords": "smartphone screen, app store, mobile phone, touching screen"
-    },
-    {
-      "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
-      "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
-      "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
-      "published": "2026-08-10T18:27:44+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Тепер творцям контенту потрібно набрати вдвічі більше годин перегляду для доступу до монетизації. Нові правила вимагають щонайменше 8 000 годин перегляду за рік або 20 мільйонів переглядів Shorts.",
-      "ai_title": "YouTube посилив вимоги для монетизації каналів",
-      "video_keywords": "video editing, computer monitor, content creator, youtube dashboard"
-    },
-    {
-      "title": "Brex assumes its AI agents could do anything — so it watches the network, not the code",
-      "link": "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code",
-      "summary": "<p>Brex CEO Pedro Franceschi offered a blueprint for one of the pressing challenges facing the enterprise today at <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a>: securely deploying AI agents, like the open-source OpenClaw, into production environments.</p><p>Unlocking this enterprise value requires a mindset shift. The industry needs to move past vague terminology and foc",
-      "published": "2026-08-10T18:31:04+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Фінтех-компанія Brex пропонує контролювати роботу мережі, а не програмний код при використанні автономних AI-агентів. Такий підхід має забезпечити безпечне впровадження штучного інтелекту в бізнес-середовищі.",
-      "ai_title": "Brex змінює підхід до безпеки корпоративного штучного інтелекту",
-      "video_keywords": "server room, data center, cybersecurity, matrix code"
-    },
     {
       "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
       "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
@@ -1041,16 +1031,6 @@
       "ai_summary": "Марк Цукерберг опублікував масштабний маніфест на 6,5 тисяч слів про персональний штучний інтелект та майбутні можливості 'персональних суперінтелектів', які розробляє Meta. Ця амбітна концепція зіткнулася з різким несприйняттям та побоюваннями з боку користувачів.",
       "ai_title": "Маніфест Марка Цукерберга про штучний інтелект викликав хвилю критики",
       "video_keywords": "server room, data center, futuristic interface, virtual reality headset"
-    },
-    {
-      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
-      "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
-      "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
-      "published": "2026-08-10T18:30:33+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Технологічні гіганти, зокрема Meta, TikTok, Snapchat та Google, продовжують стикатися з тисячами судових позовів через викликану у користувачів залежність. Після невдалих спроб оскарження компанії готуються до довготривалих та складних судових процесів.",
-      "ai_title": "Соцмережі програли апеляції у справах про залежність користувачів",
-      "video_keywords": "smartphone addiction, person scrolling social media, courtroom, judge gavel"
     },
     {
       "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
@@ -1651,29 +1631,49 @@
       "ai_summary": "Компанія Ілона Маска SpaceXAI представила передову модель штучного інтелекту Grok 4.6, орієнтовану на складні завдання, програмування та роботу з даними. Новинка демонструє високу продуктивність, змагаючись з кращими глобальними аналогами.",
       "ai_title": "SpaceXAI випустила нову модель Grok 4.6 на рівні провідних світових систем",
       "video_keywords": "futuristic technology, server room, coding screen, artificial intelligence animation"
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "published": "2026-08-12T18:19:12+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Cognition, що розробляє інструменти для написання коду за допомогою штучного інтелекту, веде переговори про новий масштабний раунд інвестицій. Це відбувається всього через кілька місяців після попереднього залучення мільярда доларів.",
+      "ai_title": "Штучний інтелект для програмування Cognition готується до раунду фінансування з оцінкою у 40 мільярдів доларів",
+      "video_keywords": "software developer, typing code, dual monitors, office workspace"
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "published": "2026-08-12T17:51:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На конференції Ai4 видатні фахівці Джеффрі Гінтон, Фей-Фей Лі та Ендрю Нг обговорили питання регулювання галузі. Вони наголосили на важливості відкритих технологій та конкуренції на глобальному ринку.",
+      "ai_title": "Провідні експерти зі штучного інтелекту захищають відкритий доступ до технологій на тлі занепокоєнь безпекою",
+      "video_keywords": "conference stage, panel discussion, speakers speaking, auditorium audience"
+    },
+    {
+      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+      "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
+      "published": "2026-08-12T17:15:41+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Відома група кіберзлочинців взяла на себе відповідальність за кібератаку на логістичний підрозділ Uber. Наразі компанія перевіряє інформацію про ймовірне зникнення конфіденційних даних.",
+      "ai_title": "Uber Freight розслідує можливий масштабний витік даних після заяви хакерського угруповання",
+      "video_keywords": "server rack, flashing lights, data center, hacker typing"
+    },
+    {
+      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+      "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+      "summary": "<p>Visa&#x27;s president of technology, Rajat Taneja, walked the <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a> audience through <a href=\"https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible\">aiming Anthropic&#x27;s Mythos at Visa&#x27;s own payment network</a>. The model stitched ",
+      "published": "2026-08-12T18:44:50+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Під час конференції VB Transform експерти обговорили впровадження штучного інтелекту у платіжні системи. Виявилося, що чотири з п'яти підприємств нездатні зупинити автономного агента, який вийшов з-під контролю.",
+      "ai_title": "Більшість компаній досі не можуть контролювати автономних AI-агентів у разі збою",
+      "video_keywords": "futuristic interface, digital security, analytics dashboard, cyber attack"
     }
   ],
   "Крипта": [
-    {
-      "title": "Coinsbuy offers $100K reward after Sunday security breach",
-      "link": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinsbuy offers $100K reward after Sunday security breach\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-got-crypto-losses-wallet-shutdown.png\" /></p><p>Coinsbuy said it covered all affected client funds after unauthorized withdrawals, while an onchain investigator estimated more than $7.9",
-      "published": "2026-08-10T18:43:26+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптоплатформа Coinsbuy стала жертвою хакерської атаки, через яку користувачі втратили кошти. Компанія пообіцяла покрити всі збитки та оголосила винагороду в розмірі 100 тисяч доларів за інформацію про зловмисників. Тим часом незалежні експерти оцінюють загальні збитки від ззлому майже у 8 мільйонів доларів.",
-      "ai_title": "Біржу Coinsbuy зламали: хакерам пропонують винагороду",
-      "video_keywords": "hacker typing keyboard, matrix code, cyber attack, computer monitor security"
-    },
-    {
-      "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-      "link": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-      "summary": "",
-      "published": "2026-08-10T20:03:24+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія створила резерв готівки на суму 4,75 мільярда доларів. Це рішення зумовлено тим, що інвесторам уже недостатньо лише інвестицій у біткоїн для диверсифікації ризиків.",
-      "ai_title": "MicroStrategy формує багатомільярдну подушку безпеки через зміну інтересів інвесторів",
-      "video_keywords": "financial charts, cash money, business office, businessman working"
-    },
     {
       "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
       "link": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2573,6 +2573,16 @@
       "ai_summary": "Компанія FlightAware вирішила закрити судову справу проти прогнозної платформи Kalshi всього через добу після її подачі. Причини такого стрімкого примирення поки що не розголошуються.",
       "ai_title": "FlightAware забрала позов проти Kalshi вже через день",
       "video_keywords": "courtroom, legal document, judge gavel, law office"
+    },
+    {
+      "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
+      "link": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken adds S&amp;P 500 to funded trading program, commodities to follow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sp-500-can-be-confusing-bitcoin.png\" /></p><p>Kraken’s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset of",
+      "published": "2026-08-12T18:55:56+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютна біржа Kraken розширює можливості своєї платформи, додаючи цілодобовий доступ до американського фондового індексу S&P 500. У майбутньому компанія планує додати до списку доступних активів також і сировинні товари.",
+      "ai_title": "Біржа Kraken додала індекс S&P 500 до своєї торгової програми",
+      "video_keywords": "stock market chart, digital trading screen, financial graphs, stock exchange"
     }
   ]
 }
