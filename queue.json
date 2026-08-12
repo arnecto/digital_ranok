@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Meta Muse Glimmer – open weights 30B local coding model",
-      "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 34</p>\n<p># Comments: 7</p>",
-      "published": "2026-08-10T10:10:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Meta представила відкриту модель Muse Glimmer об'ємом 30 мільярдів параметрів, створену для автономного написання коду. Цей інструмент дозволяє розробникам запускати потужну агентичну модель безпосередньо на локальних пристроях. Новинка значно розширює можливості локальної розробки та забезпечує високу конфіденційність даних.",
-      "ai_title": "Meta випустила нову відкриту модель Muse Glimmer для локального програмування",
-      "video_keywords": "developer typing code, laptop screen, digital interface, programming lines"
-    },
-    {
       "title": "Apple Is Preparing an Update to the Apple Watch. Ideas Include Screenless Models",
       "link": "https://en.ain.ua/2026/08/10/apple-is-preparing-an-update-to-the-apple-watch-ideas-include-screenless-models/",
       "summary": "The company is exploring new watch formats, including screenless devices, different display types, and more affordable and premium models",
@@ -954,6 +944,36 @@
       "ai_summary": "У мережі запустили жартівливий проект LinkedIn CringeBot 3000, який пародіює типові надмірно пафосні та показові дописи у професійній мережі LinkedIn. Інструмент висміює сучасну культуру корпоративного самопіару за допомогою генеративного ШІ.",
       "ai_title": "З'явився інструмент LinkedIn CringeBot 3000 для генерації «токсичного» контенту",
       "video_keywords": "person typing on laptop, office worker, social media feed, smiling at screen"
+    },
+    {
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "link": "https://woxi.ad-si.com",
+      "summary": "<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript / Mathematica, the main differences are:<p>- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds ",
+      "published": "2026-08-12T10:06:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили Woxi, швидку безплатну альтернативу Mathematica із відкритим кодом. Проєкт включає графічний інтерфейс Woxi Studio, а також підтримку Python, npm та Jupyter для зручності програмістів.",
+      "ai_title": "Woxi — відкритий інтерпретатор мови Wolfram, написаний на Rust",
+      "video_keywords": "programmer typing code, computer screen, software development"
+    },
+    {
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696\">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269818\">https://news.ycombinator.com/item?id=49269818</a></p>\n<p>Points: 57</p>\n<p># Comments",
+      "published": "2026-08-12T09:35:30+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'ясувалося, що соціальна мережа фінансово заохочує створення провокативних матеріалів, які викликають сильну емоційну реакцію та гнів у користувачів. Така стратегія спрямована на підвищення залученості аудиторії, попри етичні ризики.",
+      "ai_title": "Facebook платить контроверсійним авторам за токсичний контент",
+      "video_keywords": "person scrolling smartphone, angry expression, social media feed"
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "link": "https://discoveredmaterials.com/research/",
+      "summary": "<p>Hey HN, we're Advaith and Akash from Discovered Materials ( <a href=\"https://discoveredmaterials.com/\">https://discoveredmaterials.com/</a> ).  We build AI agents that discover new materials for the semiconductor industry.<p>GPUs today have a heat problem. Nvidia & AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Bla",
+      "published": "2026-08-12T07:51:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стартап Discovered Materials розробляє ШT-агентів для розв'язання проблеми перегріву сучасних чипів. Технологія допомагає створювати інноваційні матеріали, щоб знизити енергоспоживання потужних графічних процесорів.",
+      "ai_title": "Штучний інтелект шукає нові матеріали для напівпровідників",
+      "video_keywords": "microchip manufacturing, laboratory microscope, glowing circuit board"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1497,29 +1517,19 @@
       "ai_summary": "Типовий бізнес одночасно застосовує кілька платформ для оркестрації ШІ-агентів задля гнучкості. При цьому управління витратами та створення єдиного центру контролю досі залишаються складним викликом.",
       "ai_title": "Великі компанії використовують одразу кілька платформ для управління ШІ",
       "video_keywords": "multi monitors, software code, tech startup, teamwork"
+    },
+    {
+      "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+      "link": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+      "summary": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
+      "published": "2026-08-12T10:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Reservoir розробила надзвичайно ефективний водонагрівач, який здатен прогнозувати потреби в гарячій воді, накопичувати енергію та виявляти витоки води в будинку. Цей пристрій створений так, щоб бути привабливим як для споживачів, так і для загальної енергомережі.",
+      "ai_title": "Стартап Reservoir залучив 8 мільйонів на створення розумних водонагрівачів",
+      "video_keywords": "water heater, smart home, plumbing, modern basement"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
-      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
-      "summary": "",
-      "published": "2026-08-10T10:45:43+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта демонструє стабільність завдяки послабленню побоювань щодо ситуації в Ормузькій протоці. Це сприяло відновленню інтересу інвесторів до ризикових активів.",
-      "ai_title": "Біткоїн стабілізувався вище 65 000 доларів на тлі зниження геополітичної напруги",
-      "video_keywords": "bitcoin chart, green candles, stock market trading screens, cryptocurrency graphs"
-    },
-    {
-      "title": "H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal",
-      "link": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-heres-how-chamber-of-digital-commerce-wants-to-make-crypto-market-great2.jpg\" /></p><p>Sweden’s H100 more than tripled its Bitcoin holdings to 3,506 BTC after completing an acqu",
-      "published": "2026-08-10T10:14:30+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Після успішного завершення угоди на 2455 монет, компанія потроїла свої крипторезерви. Тепер на її балансі зберігається 3506 біткоїнів.",
-      "ai_title": "Шведська компанія H100 стала другим за величиною власником біткоїнів у Європі",
-      "video_keywords": "digital vault, gold bars, corporate finance meeting, modern office skyscraper"
-    },
     {
       "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
       "link": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
@@ -1539,16 +1549,6 @@
       "ai_summary": "Фінансовий регулятор Великої Британії розробляє спеціальний пакет нормативних актів для ринку токенізованого золота. Нові правила покликані забезпечити прозорість ринку, захистити інвесторів та інтегрувати цифрові активи в традиційну фінансову систему.",
       "ai_title": "Велика Британія готує нові правила для токенізованого золота",
       "video_keywords": "gold bars vault, financial district, business meeting, documents signing"
-    },
-    {
-      "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
-      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
-      "summary": "",
-      "published": "2026-08-10T10:13:58+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Рівень волатильності біткоїна помітно знизився на ринку, проте попит на страхування від падіння ціни залишається високим. Інвестори продовжують активно купувати опціони пут для захисту своїх портфелів від потенційних різких просідань.",
-      "ai_title": "Волатильність біткоїна падає, але трейдери досі купують захист",
-      "video_keywords": "stock market charts, trading graphs, financial monitors, businessman analyzing"
     },
     {
       "title": "Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered",
@@ -2339,6 +2339,56 @@
       "ai_summary": "Провідні організації, зокрема Bitcoin Policy Institute, звернулися до технологічних компаній із закликом. Вони вимагають надати розробникам біткоїна ранній доступ до передових моделей штучного інтелекту.",
       "ai_title": "Криптоіндустрія закликає розробників ШІ надати пріоритет біткоїну",
       "video_keywords": "futuristic server room, artificial intelligence matrix, programmer coding, glowing computer screens"
+    },
+    {
+      "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
+      "link": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
+      "summary": "",
+      "published": "2026-08-12T10:30:10+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс біткоїна стабільно тримається на позначці близько 64 000 доларів, оскільки трейдери очікують нових даних щодо інфляції в Сполучених Штатах. Водночас ринок альткоїнів зазнає тиску через нещодавній хакерський злам мережі Harmony.",
+      "ai_title": "Біткоїн тримається біля $64 000 на тлі очікування даних про інфляцію в США",
+      "video_keywords": "bitcoin chart, financial market, cryptocurrency trading, stock exchange screen"
+    },
+    {
+      "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+      "link": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
+      "summary": "",
+      "published": "2026-08-12T10:17:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Центральний банк Великої Британії планує протестувати використання стейблкоїнів та цифрової валюти у міжнародних фінансових операціях. Це дослідження покликане оцінити ефективність та безпеку блокчейн-технологій у традиційній банківській системі.",
+      "ai_title": "Банк Англії випробує стейблкоїни для транскордонних платежів",
+      "video_keywords": "british flag, digital currency, banking building, computer screen finance"
+    },
+    {
+      "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
+      "link": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
+      "summary": "",
+      "published": "2026-08-12T09:41:52+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія CoreWeave продемонструвала стрибок квартального доходу до 2,58 мільярда доларів завдяки буму інфраструктури для штучного інтелекту. Зростання інтересу до ШІ стрімко витісняє криптомайнінг як основний драйвер попиту на обчислювальні потужності.",
+      "ai_title": "Попит на штучний інтелект перевершив криптоіндустрію у доходах CoreWeave",
+      "video_keywords": "server rack, data center, supercomputer, glowing cables"
+    },
+    {
+      "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
+      "link": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, RedotPay clash over fate of Singapore lawsuit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-battle.png\" /></p><p>Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
+      "published": "2026-08-12T10:18:18+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "На тлі юридичного конфлікту на суму 473 мільйони доларів компанія RedotPay очікує закриття справи з боку Binance у Сінгапурі. Проте представники Binance запевняють, що їхні юридичні претензії досі залишаються чинними.",
+      "ai_title": "Binance та RedotPay сперечаються щодо судового позову в Сінгапурі",
+      "video_keywords": "courtroom, legal documents, lawyers meeting, handshake business"
+    },
+    {
+      "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
+      "link": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-staking-the-answer-to-cryptocurrencys-mining-problems.jpg\" /></p><p>Bitcoin miners showed a “concerning” trend of pivoting to AI amid a profit squeeze as transaction-fee",
+      "published": "2026-08-12T10:06:05+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Заробіток біткоїн-майнерів від транзакційних комісій скоротився нижче 0.7% від загального доходу, встановивши новий антирекорд за останнє десятиліття. Через таке звуження прибутковості майнери все частіше змушені переорієнтовуватися на сферу штучного інтелекту.",
+      "ai_title": "Доходи майнерів біткоїна від комісій впали до 10-річного мінімуму",
+      "video_keywords": "computer hardware, mining rig, electronic circuit board, cooling fans"
     }
   ]
 }
