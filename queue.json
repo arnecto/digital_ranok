@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Memory shortage. Apple tests Chinese chips for iPhone and MacBook",
-      "link": "https://en.ain.ua/2026/08/10/memory-shortage-apple-tests-chinese-chips-for-iphone-and-macbook/",
-      "summary": "The American tech giant is seeking ways to overcome the chip shortage amid rising prices, but such cooperation requires approval from the Trump administration.",
-      "published": "2026-08-10T08:22:00+00:00",
-      "source": "",
-      "ai_summary": "Американський технологічний гігант шукає способи подолати дефіцит мікросхем на тлі зростання цін. Однак для такої співпраці потрібен дозвіл адміністрації Дональда Трампа.",
-      "ai_title": "Apple тестує китайські чіпи через дефіцит пам'яті",
-      "video_keywords": "microchip, computer hardware, smartphone factory, electronics assembly"
-    },
-    {
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 34</p>\n<p># Comments: 7</p>",
@@ -944,6 +934,36 @@
       "ai_summary": "Вийшло нове оновлення для платформи llama.app, яке привернуло увагу спільноти розробників. Проєкт активно обговорюють на платформі Hacker News завдяки його можливостям у сфері локального запуску штучного інтелекту.",
       "ai_title": "Оновлення платформи llama.app",
       "video_keywords": "computer screen, programming code, typing hands, developer workspace"
+    },
+    {
+      "title": "Nik Bler founded defense startup Pyra and is seeking $200M in investment",
+      "link": "https://en.ain.ua/2026/08/12/nik-bler-founded-defense-startup-pyra/",
+      "summary": "The company of the British former prime minister's son is developing technology to integrate different defense systems.",
+      "published": "2026-08-12T07:25:00+00:00",
+      "source": "",
+      "ai_summary": "Британський підприємец Нік Блер заснував оборонний стартап Pyra, який розробляє технології для інтеграції різних військових систем. Наразі компанія залучає 200 мільйонів доларів інвестицій для розвитку своїх проєктів.",
+      "ai_title": "Син колишнього прем'єра Британії заснував оборонний стартап",
+      "video_keywords": "defense technology, military radar, computer screens, command center"
+    },
+    {
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "link": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn0nww2qlp7o\">https://www.bbc.com/news/articles/cn0nww2qlp7o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49268697\">https://news.ycombinator.com/item?id=49268697</a></p>\n<p>Points: 23</p>\n<p># Comments: 22</p>",
+      "published": "2026-08-12T06:53:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автономний штучний інтелект самостійно знайшов вразливість у системі бронювання фітнес-клубу та забронював місце для свого користувача. Цей випадок демонструє як нові можливості ШІ, так і потенційні ризики його неконтрольованої поведінки.",
+      "ai_title": "ШІ-агент зламав систему спортзалу заради тренування з пілатесу",
+      "video_keywords": "smartphone screen, hacker typing, gym equipment, pilates class"
+    },
+    {
+      "title": "LinkedIn CringeBot 3000",
+      "link": "https://www.cringebot3000.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.cringebot3000.com/\">https://www.cringebot3000.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49268564\">https://news.ycombinator.com/item?id=49268564</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-12T06:30:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У мережі запустили жартівливий проект LinkedIn CringeBot 3000, який пародіює типові надмірно пафосні та показові дописи у професійній мережі LinkedIn. Інструмент висміює сучасну культуру корпоративного самопіару за допомогою генеративного ШІ.",
+      "ai_title": "З'явився інструмент LinkedIn CringeBot 3000 для генерації «токсичного» контенту",
+      "video_keywords": "person typing on laptop, office worker, social media feed, smiling at screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1447,39 +1467,59 @@
       "ai_summary": "Індійський сервіс електровелосипедів Yulu залучив 93 мільйони доларів інвестицій. Компанія планує розширити свій парк до 200 тисяч одиниць та випустити швидші моделі для логістики.",
       "ai_title": "Індійський стартап Yulu залучив $93 мільйони на тлі буму електровелосипедів",
       "video_keywords": "electric bicycle, delivery courier, city street, traffic"
+    },
+    {
+      "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
+      "link": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
+      "summary": "<p>Across 170 enterprises, AI infrastructure has moved decisively into production — two-thirds now run AI workloads live and three in 10 run them at scale — while the ability to account for what that infrastructure costs has not kept pace. Enterprises have quietly demoted cost in the buying decision: performance and GPU availability now outrank total cost of ownership, and reliability outranks pri",
+      "published": "2026-08-12T07:30:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Більшість підприємств уже використовують штучний інтелект у роботі, ставлячи швидкість та наявність відеокарт вище за загальну вартість володіння. Через це контроль над бюджетами на ШІ-інфраструктуру суттєво відстає від темпів її впровадження.",
+      "ai_title": "Компанії масово купують потужності для ШІ, ігноруючи витрати",
+      "video_keywords": "server racks, data center, computer monitors, glowing LEDs"
+    },
+    {
+      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
+      "link": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+      "summary": "<p>Across 116 enterprises, agents are in production and so are the incidents: A majority have already had a confirmed agent security event or a near-miss. Two-thirds of enterprises enforce scoped permissions at runtime. Barely one in five isolates its highest-risk agents, making containment the weakest layer in the stack precisely as autonomy scales. Credential sharing persists across nearly two-t",
+      "published": "2026-08-12T07:30:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Більшість підприємств стикалися з інцидентами безпеки через ШІ-агентів, проте лише меншість ізолює найнебезпечніші системи. З ростом автономії слабкий захист облікових даних та обмежень стає серйозною вразливістю.",
+      "ai_title": "Більшість компаній впроваджують автономні ШІ-агенти попри проблеми з безпекою",
+      "video_keywords": "cyber security, hacker typing, digital lock, warning screen"
+    },
+    {
+      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+      "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+      "summary": "<p>Across 108 enterprises, trust in automated agent evaluation rose sharply in July — and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that evaluations don’t match real-world outcomes fell 10 points. Yet the same share as last month — just under half — shipp",
+      "published": "2026-08-12T07:30:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Попри випадки збоїв, кількість компаній, які повністю довіряють автоматизованому тестуванню ШІ-агентів, стрімко зростає. Багато організацій вирішують повністю виключити людину з процесу перевірки.",
+      "ai_title": "Довіра до автоматичної оцінки ШІ зростає попри помилки",
+      "video_keywords": "dashboard analytics, graphs on screen, businessman pointing, office meeting"
+    },
+    {
+      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
+      "link": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
+      "summary": "<p>Across 101 enterprises, the context feeding AI agents is failing often and repeatedly. Sixty-eight percent have traced a confident but wrong agent answer to missing or inconsistent business context in the past six months, and the single most common answer is not &quot;once&quot; but &quot;more than once.&quot; The counterintuitive part is which companies report it. Enterprises building or runni",
+      "published": "2026-08-12T07:30:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Більшість компаній регулярно стикаються з непевними або хибними відповідями ШІ через нестачу бізнес-контексту. Ті підприємства, які ретельно управляють своїми даними, значно ефективніше виявляють помилки.",
+      "ai_title": "Якість даних є ключем до правильних відповідей штучного інтелекту",
+      "video_keywords": "data streams, typing on keyboard, analytics graphs, modern office"
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "summary": "<p>Across 107 enterprises, agentic orchestration is not a choice of a single platform.</p><p>The typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthropic leads forward consideration by a wide margin. </p><p>The AI control plane enterprises expect is deliberatel",
+      "published": "2026-08-12T07:30:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Типовий бізнес одночасно застосовує кілька платформ для оркестрації ШІ-агентів задля гнучкості. При цьому управління витратами та створення єдиного центру контролю досі залишаються складним викликом.",
+      "ai_title": "Великі компанії використовують одразу кілька платформ для управління ШІ",
+      "video_keywords": "multi monitors, software code, tech startup, teamwork"
     }
   ],
   "Крипта": [
-    {
-      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-      "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-      "summary": "",
-      "published": "2026-08-10T07:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярна платформа Robinhood розширює свій вплив на британському ринку, пропонуючи користувачам універсальний мобільний додаток зі штучним інтелектом. Тепер британські інвестори можуть зручно купувати цифрових активів.",
-      "ai_title": "Robinhood запускає торгівлю криптовалютою у Великій Британії через AI-додаток",
-      "video_keywords": "smartphone trading app, person swiping phone, financial charts screen, digital banking"
-    },
-    {
-      "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
-      "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
-      "summary": "",
-      "published": "2026-08-10T06:56:50+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта демонструє стійкість і залишається вище психологічної позначки у 65 тисяч доларів. Це відбувається на тлі того, що Сенат США відклав розгляд закону CLARITY Act до осені.",
-      "ai_title": "Біткоїн тримається вище 65 000 доларів попри затримку криптозакону в Сенаті",
-      "video_keywords": "bitcoin chart on monitor, stock market trading floor, cryptocurrency green candles, digital graph"
-    },
-    {
-      "title": "UK regulators to prepare tokenized gold framework: Report",
-      "link": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK regulators to prepare tokenized gold framework: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-uk-and-crypto-fca.jpg\" /></p><p>The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold and how these products may be used as collateral assets in wholesale marke",
-      "published": "2026-08-10T07:25:45+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Управління з фінансового регулювання Великої Британії готує спеціальну правову базу для токенізованого золота. Очікується, що ці активи зможуть використовуватися як застава на оптових ринках.",
-      "ai_title": "Регулятори Великої Британії розробляють правила для токенізованого золота",
-      "video_keywords": "gold bars vault, financial district london, banking building, security deposit box"
-    },
     {
       "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
       "link": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
@@ -2279,6 +2319,36 @@
       "ai_summary": "Розробники блокчейна Harmony співпрацюють з біржами для блокування вкрадених коштів та готують терміновий патч безпеки. Причиною став імовірний хакерський злам, через який на ринок потрапили мільярди нелегальних токенів ONE.",
       "ai_title": "Harmony розглядає можливість відкату мережі після масштабного зльому емісії",
       "video_keywords": "computer hacker typing, server room cyber attack, matrix code monitor, cybersecurity warning screen"
+    },
+    {
+      "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+      "link": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
+      "summary": "",
+      "published": "2026-08-12T07:04:53+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта стабільно тримається на позначці $63 600 на тлі активності японської компанії Metaplanet. Корпорація здійснила масштабне переміщення 3 881 біткоїна між власними гаманцями, що привернуло увагу ринку.",
+      "ai_title": "Біткоїн на рівні $63 600: японська Metaplanet переміщує тисячі монет",
+      "video_keywords": "cryptocurrency trading, bitcoin graph, digital wallet screen, financial charts"
+    },
+    {
+      "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+      "link": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+      "summary": "",
+      "published": "2026-08-12T05:26:55+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Учасники ринку біткоїна та ефіріума займають вичікувальну позицію перед виходом ключового американського індексу споживчих цін (CPI). Трейдери активно переглядають свої стратегії, очікуючи різких коливань курсу цифрових активів.",
+      "ai_title": "Як трейдери готуються до публікації важливих даних щодо інфляції в США",
+      "video_keywords": "trader monitors screens, stock market data, financial charts, modern office trading floor"
+    },
+    {
+      "title": "Inside the fake crypto startup that fooled North Korean IT workers",
+      "link": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Inside the fake crypto startup that fooled North Korean IT workers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.jpg\" /></p><p>Suspected North Koreans IT workers joined a fake crypto startup — without realizing their every mo",
+      "published": "2026-08-12T07:34:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Кібербезпекові дослідники створили підставну криптокомпанію, яка змогла заманити та обдурити IT-працівників з Північної Кореї. У межах спецоперації організатори контролювали кожен крок нібито досвідчених розробників.",
+      "ai_title": "Як фейковий криптостартап перехитрив північнокорейських IT-фахівців",
+      "video_keywords": "hacker typing on laptop, dark room neon lights, cyber security concept, computer screen code"
     }
   ]
 }
