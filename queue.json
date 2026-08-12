@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
-      "link": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-      "summary": "<p>Article URL: <a href=\"https://linuxstans.com/illinois-hb5511-operating-system-age-verification/\">https://linuxstans.com/illinois-hb5511-operating-system-age-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49249150\">https://news.ycombinator.com/item?id=49249150</a></p>\n<p>Points: 57</p>\n<p># Comments: 36</p>",
-      "published": "2026-08-10T20:20:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Штат Іллінойс ухвалив законопроєкт, який покладає відповідальність за перевірку віку користувачів на розробників операційних систем, включаючи дистрибутиви Linux. Це нововведення викликало занепокоєння в IT-спільноті щодо приватності даних та технічної реалізації таких обмежень. Критики зазначають, що подібні вимоги можуть суттєво ускладнити поширення вільних операційних систем.",
-      "ai_title": "Новий закон в Іллінойсі вимагає вікової верифікації на рівні операційних систем",
-      "video_keywords": "operating system, server room, computer screen, typing code"
-    },
-    {
-      "title": "Stop Killing Games: It's time to sue Sony, join us",
-      "link": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
-      "summary": "<p>Article URL: <a href=\"https://www.massaschadeconsument.nl/collectieve-acties/playstation/\">https://www.massaschadeconsument.nl/collectieve-acties/playstation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49249481\">https://news.ycombinator.com/item?id=49249481</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
-      "published": "2026-08-10T20:47:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Європейські споживачі та геймери об'єднуються для колективного позову проти Sony через припинення підтримки та закриття доступу до придбаних відеоігор. Активісти вимагають законодавчо заборонити видавцям робити куплені ігри непрацездатними після завершення їхньої онлайн-підтримки.",
-      "ai_title": "Ініціатива Stop Killing Games готує позов проти Sony",
-      "video_keywords": "video game controller, angry gamer, television screen, courtroom"
-    },
-    {
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/\">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49249971\">https://news.ycombinator.com/item?id=49249971</a></p>\n<p>Points: 73</p>",
-      "published": "2026-08-10T21:26:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Amazon підтримала проєкт нової потужної газової електростанції у США, яка може стати значним джерелом викидів парникових газів. Це викликало критику екологів через розбіжність між реаліями енергоспоживання дата-центрів та публічними кліматичними цілями техногіганта.",
-      "ai_title": "Amazon фінансує будівництво газової електростанції попри кліматичні обіцянки",
-      "video_keywords": "power plant, smoke stacks, industrial smoke, energy production"
-    },
-    {
       "title": "Google Search Is Dying. What Comes Next Is Worse",
       "link": "https://thewalrus.ca/google-search-is-dying/",
       "summary": "<p>Article URL: <a href=\"https://thewalrus.ca/google-search-is-dying/\">https://thewalrus.ca/google-search-is-dying/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49250836\">https://news.ycombinator.com/item?id=49250836</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
@@ -989,19 +959,39 @@
       "ai_summary": "Згідно з останніми звітами постачальників Apple, базовий iPhone 18 може вийти не восени, а на початку наступного року. Водночас вихід лінійки iPhone 18 Pro очікується у традиційний осінній період.",
       "ai_title": "Apple може змінити графік виходу нових iPhone",
       "video_keywords": "smartphone factory, manufacturing line, mobile phone assembly"
+    },
+    {
+      "title": "Breaking the WAL",
+      "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
+      "summary": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/wal-reset-bug/\">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277799\">https://news.ycombinator.com/item?id=49277799</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
+      "published": "2026-08-12T20:00:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти виявили серйозний бага у механізмі скидання Write-Ahead Log, який може призвести до непередбачуваної поведінки баз даних. Помилка вимагає термінового оновлення та перегляду архітектури безпеки для багатьох сучасних систем зберігання даних. Розробники радять уважно стежити за патчами та тестувати свої сервіси.",
+      "ai_title": "Критичний вразливий момент у системі логування WAL",
+      "video_keywords": "server rack, flashing lights, data center, computer code"
+    },
+    {
+      "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+      "link": "https://cynative.com/blog/agent-trust-boundaries/",
+      "summary": "<p>Article URL: <a href=\"https://cynative.com/blog/agent-trust-boundaries/\">https://cynative.com/blog/agent-trust-boundaries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277437\">https://news.ycombinator.com/item?id=49277437</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-12T19:29:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники пропонують нові підходи до ізоляції штучного інтелекту, щоб автономні агенти не могли вийти за межі дозволених системних ресурсів. Це критично важливо для запобігання несанкціонованому доступу до конфіденційних даних корпоративних мереж. Стаття розглядає архітектурні межі та методи захисту від маніпуляцій з боку користувачів.",
+      "ai_title": "Як створити безпечних AI-агентів у межах довіри",
+      "video_keywords": "cyber security, lock icon, digital shield, computer screen"
+    },
+    {
+      "title": "The next big indie game publisher is taking some exciting swings",
+      "link": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
+      "summary": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's publishing the next game from Telling Lies and [&#8230;]",
+      "published": "2026-08-12T19:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Команда розробників хорору Phasmophobia запустила власне видавництво Kinetic Publishing та провела першу презентацію. Компанія планує випустити п'ять масштабних ігор до 2028 року, зокрема новий проєкт від авторів Telling Lies. Це значне поповнення на ринку незалежних ігрових студій.",
+      "ai_title": "Новий інді-видавець анонсував амбітні ігри",
+      "video_keywords": "video game controller, neon lights, gaming setup, person playing"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-      "published": "2026-08-10T20:53:02+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Марк Цукерберг опублікував масштабний маніфест на 6,5 тисяч слів про персональний штучний інтелект та майбутні можливості 'персональних суперінтелектів', які розробляє Meta. Ця амбітна концепція зіткнулася з різким несприйняттям та побоюваннями з боку користувачів.",
-      "ai_title": "Маніфест Марка Цукерберга про штучний інтелект викликав хвилю критики",
-      "video_keywords": "server room, data center, futuristic interface, virtual reality headset"
-    },
     {
       "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
       "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
@@ -1651,19 +1641,29 @@
       "ai_summary": "Компанія Grubhub почала розсилати чеки на компенсації користувачам та водіям після врегулювання претензій Федеральної торгової комісії США. Штраф у розмірі майже 24 мільйони доларів був накладений через оманливу практику ведення бізнесу та приховані комісії. Тепер постраждалі клієнти та кур'єри отримують свої законні виплати поштою.",
       "ai_title": "Grubhub виплачує мільйонні компенсації клієнтам та кур'єрам через штраф FTC",
       "video_keywords": "delivery person, check, mailbox, money refund"
+    },
+    {
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "published": "2026-08-12T20:53:41+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Космічний апарат Mission Robotic Vehicle готується вперше в історії встановити новий двигун на застарілий супутник на орбіті. Ця технологія дозволить значно подовжити термін експлуатації космічної інфраструктури та зменшити кількість сміття. Проєкт відкриває нову еру комерційного обслуговування супутників у космосі.",
+      "ai_title": "Роботизований механік від Northrop продовжить життя супутників",
+      "video_keywords": "satellite in space, robotic arm, spacecraft docking, earth orbit"
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "published": "2026-08-12T20:10:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Amazon автоматично задіє трансляції стримерів Twitch для тренування своїх штучних інтелектів, якщо користувачі самостійно не відмовляться від цього. Керівництво компанії відкрито визнало, що за умови добровільної згоди ніхто б не погодився на участь. Це рішення вже викликало нову хвилю обговорень щодо етики використання чужого контенту технологічними гігантами.",
+      "ai_title": "Amazon використовуватиме контент стримерів Twitch для навчання ІІ",
+      "video_keywords": "gamer streaming, computer monitor, live broadcast, streamer setup"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-      "link": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
-      "summary": "",
-      "published": "2026-08-10T20:20:06+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Керівник дослідницького відділу Bitwise Мэтт Расмуссен вважає, що компанія Circle наразі суттєво недооцінена ринком. Це пов'язано з прогнозами про стрімке зростання обсягу ринку стейблкоїнів до трильйонів доларів у найближчі роки.",
-      "ai_title": "Експерт Bitwise оцінив недооцінку компанії Circle на тлі зростання ринку стейблкоїнів",
-      "video_keywords": "digital currency, smartphone payment, stock market charts, financial data"
-    },
     {
       "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
       "link": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
@@ -1673,16 +1673,6 @@
       "ai_summary": "Компанія Trump Media зіткнулася зі значним зменшенням вартості своїх біткоїн-активів. На тлі ринкових коливань загальні криптозбитки досягли 361 мільйона доларів.",
       "ai_title": "Криптоінвестиції Trump Media зазнали збитків на $361 мільйон",
       "video_keywords": "bitcoin chart, red candlestick chart, stock market crash, cryptocurrency losses"
-    },
-    {
-      "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
-      "link": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Judge stays CFTC’s case against US soldier over prediction market bets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-cftc-1.jpg\" /></p><p>A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over m",
-      "published": "2026-08-10T20:50:59+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Федеральний суддя в Нью-Йорку задовольнив клопотання прокурорів про тимчасове призупинення цивільного позову Комісії з торгівлі товарними ф'ючерсами США (CFTC) проти військовослужбовця Геннона Кена Ван Дайка. Справа стосується його активності на ринках прогнозів, що привернула увагу регуляторів. Це рішення може створити важливий прецедент для правового статусу таких платформ у США.",
-      "ai_title": "Суд призупинив справу проти американського військового щодо ставок на ринках прогнозів",
-      "video_keywords": "courtroom, judge gavel, legal documents, courthouse"
     },
     {
       "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
@@ -2543,6 +2533,26 @@
       "ai_summary": "Криптовалютна біржа Kraken розширює можливості своєї платформи, додаючи цілодобовий доступ до американського фондового індексу S&P 500. У майбутньому компанія планує додати до списку доступних активів також і сировинні товари.",
       "ai_title": "Біржа Kraken додала індекс S&P 500 до своєї торгової програми",
       "video_keywords": "stock market chart, digital trading screen, financial graphs, stock exchange"
+    },
+    {
+      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+      "link": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Goldman Sachs to acquire ETF manager NEOS in $2.25B deal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.png\" /></p><p>The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.\n</p>",
+      "published": "2026-08-12T20:37:55+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Інвестиційний гігант Goldman Sachs досяг угоди про придбання компанії NEOS. Цей крок додасть до активів банку біткоїн- та ефіріум-фонди на $30 мільярдів.",
+      "ai_title": "Goldman Sachs купує керуючого ETF-фондами NEOS за $2,25 млрд",
+      "video_keywords": "financial skyscraper, stock exchange trading floor, businessman handshake"
+    },
+    {
+      "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+      "link": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NYC council announces probe into ‘predatory marketing practices’ on prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-us-takes-regulatory-steps-for-blockchain-technology-adoption-1.jpg\" /></p><p>Council Speaker Julie Menin sent letters to four companies offering prediction ",
+      "published": "2026-08-12T20:22:46+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Міська рада Нью-Йорка ініціювала перевірку через хижацький маркетинг на платформах прогнозів. Регулятори занепокоєні захистом прав споживачів та агресивною рекламою цих послуг.",
+      "ai_title": "Влада Нью-Йорка розслідує маніпуляції на ринках прогнозів",
+      "video_keywords": "city hall building, police investigation, neon financial charts"
     }
   ]
 }
