@@ -1,63 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [&#8230;]",
-      "published": "2026-08-10T15:19:05+00:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "link": "https://github.com/AntigmaLabs/ante",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AntigmaLabs/ante\">https://github.com/AntigmaLabs/ante</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245437\">https://news.ycombinator.com/item?id=49245437</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-10T15:59:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий інструмент для розробників під назвою Ante, що функціонує як автономний агент для написання коду. Цей продукт запаковано в єдиний бінарний файл і він може працювати повністю без підключення до інтернету, забезпечуючи конфіденційність та зручність.",
-      "ai_title": "Ante — автономний агент для програмування, який працює офлайн",
-      "video_keywords": "programmer coding, laptop screen, dark mode code, typing hands"
-    },
-    {
-      "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
-      "link": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
-      "summary": "<p>Article URL: <a href=\"https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/\">https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49244783\">https://news.ycombinator.com/item?id=49244783</a></p>\n<p>Points: 75</p>\n<p>",
-      "published": "2026-08-10T15:13:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У суспільстві зростає негативна реакція на розумні окуляри від компанії Meta. Критики та користувачі занепокоєні потенційним порушенням приватності та прихованою зйомкою, що призвело до появи гострих прізвиськ для пристрою.",
-      "ai_title": "Хвиля обурення: смарт-окуляри Meta назвали «окулярами для збочинців»",
-      "video_keywords": "smart glasses, wearing glasses, person walking street, digital privacy"
-    },
-    {
-      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-      "link": "https://www.stoaexchange.com",
-      "summary": "<p>Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (<a href=\"https://www.stoaexchange.com\">https://www.stoaexchange.com</a>), a marketplace for new and used GPUs and AI servers.<p>GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute.<p>If that company is a hyperscaler, the financi",
-      "published": "2026-08-10T16:35:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий стартап Stoa Markets пропонує спеціалізовану платформу для купівлі та продажу нових і вживаних GPU та AI-серверів. Проєкт покликаний спростити забезпечення потужностями для центрів обробки даних, які стрімко розвиваються.",
-      "ai_title": "Stoa Markets запускає маркетплейс для графічних процесорів та AI-серверів",
-      "video_keywords": "server racks, data center, computer hardware, microchips"
-    },
-    {
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii\">https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245491\">https://news.ycombinator.com/item?id=49245491</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
-      "published": "2026-08-10T16:03:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У мережі з'явився проєкт, що демонструє вразливість у режимі керування системою (SMM) за допомогою надзвичайно довгого переривання. Це відкриває нові вектори для аналізу безпеки низькорівневого програмного забезпечення та процесорів.",
-      "ai_title": "Дослідники знайшли новий спосіб експлуатації System Management Mode",
-      "video_keywords": "cyber security, hacker typing, computer code, motherboard"
-    },
-    {
-      "title": "Show HN: MergeImage – merge and stitch images locally in the browser",
-      "link": "https://mergeimage.app/",
-      "summary": "<p>Article URL: <a href=\"https://mergeimage.app/\">https://mergeimage.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245319\">https://news.ycombinator.com/item?id=49245319</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-10T15:53:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився зручний вебсервіс Show HN, який дозволяє локально зшивати та об'єднувати кілька зображень усередині браузера. Усі операції виконуються на стороні клієнта, що гарантує конфіденційність та швидку обробку файлів.",
-      "ai_title": "MergeImage: новий інструмент для об'єднання зображень прямо в браузері",
-      "video_keywords": "web browser, graphic design, computer screen, software interface"
-    },
-    {
       "title": "YouTube is making it harder to earn money on YouTube",
       "link": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
       "summary": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified Shorts views in the last 90 days. That's a sizeable jump from YouTube's current requirement of 1,000 subscribers with [&#8230;]",
@@ -76,16 +19,6 @@
       "ai_summary": "Компанія Anthropic опублікувала дослідження, яке детально описує математичні здібності штучного інтелекту Claude. Зокрема, аналізується успішність вирішення складних наукових задач та гіпотези Рімана. Це демонструє значний прогрес у здатності мовних моделей виконувати точні обчислення.",
       "ai_title": "Штучний інтелект Claude демонструє нові успіхи у вищій математиці",
       "video_keywords": "computer screen, graphs, data visualization, office"
-    },
-    {
-      "title": "The Tragedy of the Cognitive Commons",
-      "link": "https://arxiv.org/abs/2607.29380",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29380\">https://arxiv.org/abs/2607.29380</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245359\">https://news.ycombinator.com/item?id=49245359</a></p>\n<p>Points: 33</p>\n<p># Comments: 6</p>",
-      "published": "2026-08-10T15:55:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова наукова робота під назвою «Трагедія когнітивного простору» аналізує вплив масової генерації контенту штучним інтелектом на інформаційне середовище. Автори застерігають про ризики перенасичення інтернету синтетичними даними, що може погіршити навчання майбутніх моделей. Це ставить під загрозу якість майбутніх технологій та доступ до надійних знань.",
-      "ai_title": "Дослідження попереджають про кризу «когнітивного простору» через розвиток ШT",
-      "video_keywords": "server room, data center, blinking lights, electronics"
     },
     {
       "title": "What to expect from Google’s 2026 Pixel hardware launch event",
@@ -926,23 +859,59 @@
       "ai_summary": "Компанія Google представила мініатюрний трекер для пошуку речей під назвою Pixel Tag. Пристрій використовує ультраширокосмуговий зв'язок та нові технології Bluetooth для максимальної точності визначення місця розташування. Новинка надійде в продаж наприкінці осені.",
       "ai_title": "Google випустила власний трекер Pixel Tag як конкурента AirTag",
       "video_keywords": "small tracking device, keys on table, finding lost items, smartphone screen"
+    },
+    {
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273478\">https://news.ycombinator.com/item?id=49273478</a></p>\n<p>Points: 73</p>\n<p># Comments: 18</p>",
+      "published": "2026-08-12T15:01:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили нову масштабну штучну модель Qwen3.8-2.4T-A95B на платформі Hugging Face. Вона демонструє вражаючі технічні характеристики та розширює можливості сучасного відкритому ШІ. Це рішення привертає увагу дослідників своєю продуктивністю та архітектурою.",
+      "ai_title": "Реліз потужної мовної моделі Qwen",
+      "video_keywords": "server room, artificial intelligence, computer screen, coding"
+    },
+    {
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plugins like Autotune introducing [&#8230;]",
+      "published": "2026-08-12T15:52:07+00:00",
+      "source": "The Verge",
+      "ai_summary": "Відома гітарна компанія D’Addario після тижнів заперечень визнала, що використала згенеровану штучним інтелектом музику від Suno у своєму проморолику. Спочатку бренд намагався виправдовуватися технічними збоями та проблемами з експортом відео. Цей випадок викликав бурхливу дискусію в креативній спільноті щодо етики використання ШІ.",
+      "ai_title": "Скандал через ШІ-музику в рекламі D’Addario",
+      "video_keywords": "electric guitar, recording studio, frustrated musician, computer monitor"
+    },
+    {
+      "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+      "link": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators record, organize, edit, and publish content faster and more [&#8230;]",
+      "published": "2026-08-12T14:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Google націлилася на зростаючу аудиторію контент-мейкерів та блогерів, анонсувавши спеціальний набір інструментів. Нові функції в лінійці Pixel мають допомогти швидше записувати, організовувати, редагувати та публікувати відео. Це може стати важливим кроком для збільшення ринкової частки смартфонів Pixel серед творців контенту.",
+      "ai_title": "Google створює Pixel 11 Creator Suite для інфлюенсерів",
+      "video_keywords": "content creator, smartphone camera, vlogging, ring light"
+    },
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel [&#8230;]",
+      "published": "2026-08-12T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Новий розумний годинник Pixel Watch 5 отримав оновлений дизайн корпусу, нові ремінці та спеціальну версію для фанатів спорту. Головні зміни ховаються всередині: покращений процесор та розширені можливості штучного інтелекту для аналізу показників здоров'я. Пристрій також подорожчав на 50 доларів порівняно з попереднім поколінням.",
+      "ai_title": "Google представила Pixel Watch 5 з акцентом на здоров'я та ШІ",
+      "video_keywords": "smartwatch, fitness tracking, touching screen, healthy lifestyle"
+    },
+    {
+      "title": "Android now has a tap-to-share feature",
+      "link": "https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung",
+      "summary": "Android's AirDrop-like Quick Share feature will now let some devices exchange files and contact information when tapped together. The update is coming to Pixel 6 series phones and newer starting today, according to Google's announcement, and will roll out to Samsung's Galaxy Z Fold 8 Ultra, Fold 8, and Flip 8 \"soon.\" The tap-to-share feature [&#8230;]",
+      "published": "2026-08-12T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Google запускає функцію Quick Share, яка дозволяє обмінюватися файлами та контактами просто торкнувшись двома сумісними смартфонами один до одного. Оновлення вже починає надходити на пристрої серії Pixel 6 і новіші, а незабаром з'явиться і на нових складних телефонах від Samsung. Це аналог зручного бездротового обміну, який робить передачу даних ще простішою.",
+      "ai_title": "Android отримує нову функцію швидкого обміну дотиком",
+      "video_keywords": "smartphone tapping, NFC payment, wireless transfer, mobile phone screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
-      "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-      "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State.",
-      "published": "2026-08-10T15:22:42+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Archer buys former rival Wisk Aero",
-      "link": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
-      "summary": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.",
-      "published": "2026-08-10T15:09:39+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
       "link": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
@@ -1522,19 +1491,59 @@
       "ai_summary": "Популярний сервіс швидкого обміну файлами тепер дозволяє передавати контакти, фото та відео простим дотиком пристроїв один до одного. Оновлення суттєво спрощує повсякденний шеринг даних між гаджетами.",
       "ai_title": "Функція Quick Share від Google отримала режим tap-to-share",
       "video_keywords": "phones touching, sharing files, mobile screen tap"
+    },
+    {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "published": "2026-08-12T16:04:27+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія залучила ще 400 мільйонів доларів інвестицій на тлі стрімкого зростання доходів. Нова оцінка робить стартап одним із найуспішніших у своїй сфері цього року.",
+      "ai_title": "Стартап Lovable оцінили в $13,3 мільярда після нового раунду фінансування",
+      "video_keywords": "startup office, financial chart, business meeting, investors"
+    },
+    {
+      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
+      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+      "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
+      "published": "2026-08-12T15:56:13+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий мобільний застосунок оснащений штучним інтелектом, який допомагає авторам контенту аналізувати аудиторію. ШІ надає персоналізовані рекомендації щодо стилю та залученості користувачів.",
+      "ai_title": "Facebook випустив окремий додаток Creator Studio з вбудованим ШІ",
+      "video_keywords": "smartphone screen, content creator, social media app, typing on phone"
+    },
+    {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+      "published": "2026-08-12T15:44:56+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Придбання компанії на чверть мільярда доларів завершилося скандалом та судовими позовами через підроблені підписи. Інвестори досі намагаються повернути свої кошти.",
+      "ai_title": "Мільйонна угода VideoVerse обвалилася через звинувачення у шахрайстві",
+      "video_keywords": "courtroom, businessman worried, signing documents, stressed person"
+    },
+    {
+      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+      "summary": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
+      "published": "2026-08-12T15:18:55+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Відомий спеціалі з кібербезпеки проігнорував погрози юридичною відповідальністю від технологічного гіганта. Він оприлюднив інформацію про небезпечний нульовий день у системі Windows.",
+      "ai_title": "Дослідник безпеки опублікував нову вразливість Windows попри погрози Microsoft",
+      "video_keywords": "hacker typing, computer screen code, cybersecurity, server room"
+    },
+    {
+      "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
+      "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "summary": "The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.",
+      "published": "2026-08-12T14:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нова лінійка пристроїв пропонує мінімум апаратних змін, проте отримала значно ширшу інтеграцію платформи Gemini. Базова версія подорожчали на 100 доларів, але тепер має 256 ГБ пам'яті.",
+      "ai_title": "Смартфони Google Pixel 11 зроблять ставку на штучний інтелект замість «заліза»",
+      "video_keywords": "smartphone unboxing, mobile phone display, ai technology, holding device"
     }
   ],
   "Крипта": [
-    {
-      "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
-      "link": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-canada-crypto-regultion-bitcoin-etfs-strict-licensing-and-a-digital-dollar.png\" /></p><p>BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bitcoin a",
-      "published": "2026-08-10T15:59:06+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія BlackRock Canada презентувала два нові біржові фонди для інвесторів. Особливістю одного з них є пряма інтеграція криптовалюти — 3% портфеля фонду виділено на інвестиції в Біткоїн.",
-      "ai_title": "BlackRock запустила нові канадські ETF із часткою Біткоїна",
-      "video_keywords": "financial district, stock exchange, digital tablet, banking app"
-    },
     {
       "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
       "link": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2384,6 +2393,16 @@
       "ai_summary": "Словенія офіційно увійшла до європейського регуляторного поля MiCA завдяки першому емітенту електронних грошей Dinaro. Це крок до легалізації та безпечного обігу стейблкоїнів у країнах Євросоюзу.",
       "ai_title": "Словенія приєдналася до реєстру стейблкоїнів MiCA",
       "video_keywords": "european union flag, courthouse, official documents, signing contract"
+    },
+    {
+      "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+      "link": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-inflation-2.jpg\" /></p><p>Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as suppor",
+      "published": "2026-08-12T15:00:10+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Сповільнення темпів інфляції в США дещо знизило економічну напругу, проте ринок залишається обережним. Трейдери пильно стежать за рівнем підтримки у 63 000 доларів, від якого залежатиме подальший короткостроковий тренд першої криптовалюти.",
+      "ai_title": "Біткоїн націлився на позначку $63 000 на тлі новин про інфляцію в США",
+      "video_keywords": "bitcoin chart, financial graph, digital currency, stock market screen"
     }
   ]
 }
