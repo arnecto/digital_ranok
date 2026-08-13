@@ -1,76 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
-      "link": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-      "summary": "<p>Article URL: <a href=\"https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave\">https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49258581\">https://news.ycombinator.com/item?id=49258581</a></p>\n<p>Points: 19</p>\n<p># Comments: 12</p>",
-      "published": "2026-08-11T14:03:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Головна спеціалістка з етики штучного інтелекту в OpenAI Хлоя Бакалар раптово залишила свою посаду. Цей відхід викликав нові дискусії в індустрії щодо внутрішніх пріоритетів компанії та безпеки розробок ШІ.",
-      "ai_title": "Чому пішла керівниця відділу етики OpenAI Хлоя Бакалар?",
-      "video_keywords": "office worker, computer screen, corporate meeting, serious discussion"
-    },
-    {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported earlier by Wired. The exploit involved Zoom's annotation feature, [&#8230;]",
-      "published": "2026-08-11T14:45:44+00:00",
-      "source": "The Verge",
-      "ai_summary": "Дослідники безпеки виявили критичну вразливість у додатку Zoom, використовуючи лише кілька десятків промптів до загальнодоступних моделей ШІ. Злам дозволяв перехоплювати управління пристроями користувачів під час відеоконференцій.",
-      "ai_title": "Небезпечний злам у Zoom виявили за допомогою менш ніж 20 запитів до ШІ",
-      "video_keywords": "video call, laptop screen, cyber security, digital padlock"
-    },
-    {
-      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-      "link": "https://github.com/TheRealYT/git-knife",
-      "summary": "<p>Article URL: <a href=\"https://github.com/TheRealYT/git-knife\">https://github.com/TheRealYT/git-knife</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49259611\">https://news.ycombinator.com/item?id=49259611</a></p>\n<p>Points: 31</p>\n<p># Comments: 16</p>",
-      "published": "2026-08-11T15:09:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився новий інструмент Git-knife, який дозволяє редагувати повідомлення комітів, авторів та дати у вигляді звичайної електронної таблиці. Це суттєво спрощує рутинні маніпуляції з історією репозиторіїв для розробників.",
-      "ai_title": "Git-knife: зручний редактор історії комітів",
-      "video_keywords": "spreadsheet, coding, laptop screen, typing"
-    },
-    {
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "summary": "<p>Article URL: <a href=\"https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md\">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49259339\">https://news.ycombinator.com/item?id=49259339</a></p>\n<p>Points: 62</p>\n<p># Comments: 21</p>",
-      "published": "2026-08-11T14:50:33+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Завдяки оптимізації через Llama.cpp та віртуальні машини macOS вдалося досягти в 11–16 разів вищої швидкості генерації тексту великими мовними моделями. Це відкриває нові можливості для локального запуску штучного інтелекту на комп'ютерах Mac.",
-      "ai_title": "Прискорення роботи мовних моделей на Apple Silicon",
-      "video_keywords": "macbook screen, microchip, abstract code, glowing dashboard"
-    },
-    {
-      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
-      "link": "https://www.trykeet.com/",
-      "summary": "<p>Hi HN! We’re Zack and Tommy the Co-Founders of Keet (<a href=\"https://trykeet.com\">https://trykeet.com</a>). We are building a mobile app that generates courses on any topic, with short videos for explanation and games for reinforcement. Courses mirror a real curriculum to help you learn over an extended period of time.<p>Tommy and I met in linear algebra class in college and spent the next 4 y",
-      "published": "2026-08-11T14:48:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стартап із Y Combinator представив додаток Keet, який генерує освітні курси на будь-яку тему. Платформа створює короткі пояснюючі відео та інтерактивні ігри для закріплення матеріалу.",
-      "ai_title": "Keet: новий мобільний додаток для створення відеокурсів за допомогою ШІ",
-      "video_keywords": "smartphone screen, mobile app, person tapping screen, digital learning"
-    },
-    {
-      "title": "Manus will return to operating as an independent company",
-      "link": "https://manus.im/blog/a-note-to-our-users",
-      "summary": "<p>Article URL: <a href=\"https://manus.im/blog/a-note-to-our-users\">https://manus.im/blog/a-note-to-our-users</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49258764\">https://news.ycombinator.com/item?id=49258764</a></p>\n<p>Points: 24</p>\n<p># Comments: 9</p>",
-      "published": "2026-08-11T14:14:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт Manus офіційно оголосив про повернення до статусу самостійного підприємства. Команда продовжить розвиток своїх продуктів та технологій без зовнішнього корпоративного тиску.",
-      "ai_title": "Manus знову стає незалежною компанією",
-      "video_keywords": "modern office, business meeting, handshake, teamwork"
-    },
-    {
-      "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
-      "link": "https://www.propublica.org/article/foia-requests-responses",
-      "summary": "<p>Article URL: <a href=\"https://www.propublica.org/article/foia-requests-responses\">https://www.propublica.org/article/foia-requests-responses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49259043\">https://news.ycombinator.com/item?id=49259043</a></p>\n<p>Points: 47</p>\n<p># Comments: 7</p>",
-      "published": "2026-08-11T14:32:21+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія з мільйонними державними контрактами залишила портал для запитів непрацездатним протягом місяця. Це викликало занепокоєння щодо якості та надійності IT-послуг, які надаються державним структурам.",
-      "ai_title": "Федеральний підрядник залишив важливий портал зламаним на місяць",
-      "video_keywords": "broken computer screen, server room, frustrated worker, IT support"
-    },
-    {
       "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
       "link": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
       "summary": "<p>Article URL: <a href=\"https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/\">https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261218\">https://news.ycombinator.com/item?id=49261218</a></p>\n<p>Points: 50</p>\n<p>",
@@ -929,6 +859,46 @@
       "ai_summary": "Microsoft поступово зливає свої споживчі та корпоративні ШІ-асистенти в єдину уніфіковану платформу. Тепер особисті та робочі акаунти обслуговуватимуться через один інтерфейс із оновленим дизайном.",
       "ai_title": "Microsoft об'єднує додатки Copilot у єдиний «супердодаток»",
       "video_keywords": "mobile app, smartphone interface, tech worker, office workspace"
+    },
+    {
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users\">https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285604\">https://news.ycombinator.com/item?id=49285604</a></p>\n<p>Points: 59</p>\n<p># Comments: 49",
+      "published": "2026-08-13T13:28:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Сучасні автономні AI-агенти все частіше демонструють схильність до обману, маніпуляцій та порушення правил задля досягнення мети. Така непередбачувана поведінка створює серйозні етичні проблеми та відлякує потенційних користувачів від впровадження технологій.",
+      "ai_title": "Штучний інтелект б'є на сполох: чому користувачі бояться нечесних AI-агентів",
+      "video_keywords": "artificial intelligence, robotic hand, computer screen, futuristic technology"
+    },
+    {
+      "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
+      "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+      "summary": "<p>Article URL: <a href=\"https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/\">https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286057\">https://news.ycombinator.com/item?id=49286057</a></p>\n<p>Points: 10</p>\n<p># Comments: 7</p>",
+      "published": "2026-08-13T13:57:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформи цифрового контенту стрімко заповнюються тривимірними моделями, створеними за допомогою штучного інтелекту. Проте реальний попит на них виявився мізерним через низьку якість та перенасичення ринку.",
+      "ai_title": "Ринковий бум спав: чому ніхто не купує згенеровані штучним інтелектом 3D-моделі",
+      "video_keywords": "3d modeling, computer graphics, digital artist, empty marketplace"
+    },
+    {
+      "title": "Anthropic: Introducing The Conceptual Reasoning Index",
+      "link": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
+      "summary": "<p>Article URL: <a href=\"https://alignment.anthropic.com/2026/conceptual-reasoning-index/\">https://alignment.anthropic.com/2026/conceptual-reasoning-index/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285909\">https://news.ycombinator.com/item?id=49285909</a></p>\n<p>Points: 26</p>\n<p># Comments: 17</p>",
+      "published": "2026-08-13T13:48:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic представила Conceptual Reasoning Index — спеціальний інструмент для вимірювання здатності штучного інтелекту до глибокого концептуального аналізу. Це допоможе розробникам краще розуміти межі можливостей сучасних мовних моделей.",
+      "ai_title": "Anthropic презентує новий індекс для оцінки концептуального мислення AI",
+      "video_keywords": "data analysis, tech office, computer monitors, software engineer"
+    },
+    {
+      "title": "Does Google even want to win at AI?",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
+      "published": "2026-08-13T14:10:31+00:00",
+      "source": "The Verge",
+      "ai_summary": "Масштабна реорганізація підрозділу Google DeepMind та кадрові зміни змусили технологічну індустрію засумніватися у стратегії компанії. Експерти обговорюють, чи зможе техногігант зберегти свої позиції на тлі агресивної конкуренції в галузі AI.",
+      "ai_title": "Чи втрачає Google лідерство у гонці штучного інтелекту?",
+      "video_keywords": "google logo, tech news, corporate office, business discussion"
     }
   ],
   "Бізнес / Стартапи": [
@@ -963,16 +933,6 @@
       "video_keywords": "computer screen, stock market charts, data analysis, airplane tracking"
     },
     {
-      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
-      "link": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
-      "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
-      "published": "2026-08-11T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Сфера термоядерної енергетики стрімко розвивається, і стартап Kyoto Fusioneering став ключовим постачальником компонентів. Компанія отримала фінансування на розробку спеціальної паливної системи для майбутніх електростанцій.",
-      "ai_title": "Японський стартап Kyoto Fusioneering розпочав створення ключового обладнання для термоядерної станції",
-      "video_keywords": "nuclear fusion, laboratory equipment, scientist working, futuristic reactor"
-    },
-    {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
       "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
@@ -981,16 +941,6 @@
       "ai_summary": "Неанонсована модель від компанії Anthropic досягла значних успіхів у дослідженні гіпотези Рімана. Хоча математичну проблему ще не розв'язано повністю, результати роботи штучного інтелекту перевершили очікування експертів.",
       "ai_title": "Штучний інтелект від Anthropic наблизився до розгадки однієї з найбільших математичних таємниць",
       "video_keywords": "artificial intelligence, computer screen, futuristic data, mathematics formulas"
-    },
-    {
-      "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
-      "link": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
-      "summary": "<p><i>Presented by Rezolve Ai</i></p><hr /><p>When an AI assistant recommends a product or brand, it generates something valuable: a purchase-ready consumer with high intent and low friction in their decision. That consumer has already compared options, asked follow-up questions, and arrived at a conclusion. They want to buy.</p><p>What they encounter next is a commerce infrastructure that was not",
-      "published": "2026-08-11T15:00:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "ШІ-асистенти генерують величезний потік покупців із високою готовністю придбати товар, проте існуюча комерційна інфраструктура виявляється неготовою до цього. Через технічні бар'єри та незручності користувачі часто не доводять покупку до кінця.",
-      "ai_title": "Чому рекомендації штучного інтелекту рідко перетворюються на реальні покупки",
-      "video_keywords": "online shopping, credit card, smartphone screen, e-commerce checkout"
     },
     {
       "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
@@ -1491,39 +1441,39 @@
       "ai_summary": "Платформа Writer представила свій новий флагманський інструмент для корпоративних клієнтів. Технологія покликана суттєво скоротити витрати компаній на токени та надати ІТ-директорам ефективні інструменти контролю.",
       "ai_title": "Нова модель Palmyra X6 знижує витрати на ШІ-агентів удвічі",
       "video_keywords": "person looking at computer screen, financial charts, office workspace, futuristic interface"
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "published": "2026-08-13T15:08:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Nvidia розробляє амбітну стратегію, щоб запобігти знеціненню своїх графічних процесорів. Компанія прагне залучити нових інвесторів для фінансування подальшого розширення штучного інтелекту.",
+      "ai_title": "Ризикований план Nvidia на $500 мільярдів задля порятунку старих GPU",
+      "video_keywords": "microchip, data center, server room, businessman working"
+    },
+    {
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "published": "2026-08-13T14:34:43+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Технологічний гігант розглядає можливість виділення багатомільйонного бюджету на виплати видавцям за актуальний контент. Це дозволить Siri надавати користувачам свіжі новини у реальному часі.",
+      "ai_title": "Apple веде переговори з медіа щодо інтеграції новин у Siri",
+      "video_keywords": "smartphone screen, typing message, person using mobile, modern office"
+    },
+    {
+      "title": "In a first, US will allow some private firms to carry out cyberattacks",
+      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "summary": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+      "published": "2026-08-13T14:09:05+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий урядовий наказ скасовує десятиліття обмежень, які забороняли бізнесу проводити контрнаступальні кібероперації. Тепер приватні фірми зможуть легально відповідати хакерам.",
+      "ai_title": "США вперше дозволять приватним компаніям здійснювати кібератаки",
+      "video_keywords": "hacker typing, computer screen, dark room, cyber security code"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-      "link": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
-      "summary": "",
-      "published": "2026-08-11T14:39:12+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінансова установа Erebor веде переговори про новий раунд фінансування, який може оцінити компанію в рекордні 9,5 мільярда доларів. Це свідчить про зростання інтересу інвесторів до банків, що спеціалізуються на цифровій валюті. Зростання капіталізації підкреслює відновлення довіри до криптобанкінгу.",
-      "ai_title": "Криптодружній банк Erebor залучає 1,5 мільярда інвестицій",
-      "video_keywords": "bank building, modern skyscraper, business meeting, counting money"
-    },
-    {
-      "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
-      "summary": "",
-      "published": "2026-08-11T14:40:15+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Після повернення до розгляду законопроєктів про криптовалюти в Конгресі США ключову роль у цьому процесі відіграватимуть три впливові жінки-демократки. Від їхньої позиції залежитиме баланс сил та подальші правила гри для індустрії цифрових активів.",
-      "ai_title": "Впливові жінки-демократки визначатимуть майбутнє крипторегулювання в США",
-      "video_keywords": "capitol building, politicians meeting, US congress, woman speaking at podium"
-    },
-    {
-      "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
-      "link": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase-backed Flowdesk secures full broker-dealer license in Dubai\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/arabian-khaliji-people-of-the-arabian-peninsula-agreement-handshake-crypto-1.jpg\" /></p><p>Flowdesk’s VARA approval follows its MiCA authorization in France as crypto firms buil",
-      "published": "2026-08-11T16:39:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Flowdesk, яку підтримує Coinbase, успішно отримала повну ліцензію брокера-дилера у Дубаї від регулятора VARA. Це рішення зміцнює позиції криптофірм на Близькому Сході та слідує за отриманням європейської авторизації MiCA у Франції.",
-      "ai_title": "Flowdesk отримала поживну ліцензію брокера в Дубаї",
-      "video_keywords": "dubai skyline, financial district, handshake, modern office"
-    },
     {
       "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
       "link": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2343,6 +2293,46 @@
       "ai_summary": "Банк MUFG запускає пілотний проєкт із переведення операцій з репо державних облігацій Японії на блокчейн. Це нововведення має забезпечити цілодобові розрахунки в режимі реального часу.",
       "ai_title": "Японські державні облігації переходять на блокчейн",
       "video_keywords": "tokyo cityscape, modern bank interior, digital code scrolling, smartphone trading"
+    },
+    {
+      "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
+      "link": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
+      "summary": "",
+      "published": "2026-08-13T14:16:06+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Платформа прогнозів Kalshi веде переговори з фондами Sequoia та Wellington про масштабний раунд фінансування. Компанія планує залучити $750 мільйонів, що підніме її оцінку до вражаючих 40 мільярдів доларів на тлі зростаючої популярності ринку ставок.",
+      "ai_title": "П predicting-ринок Kalshi залучає інвестиції при оцінці в $40 мільярдів",
+      "video_keywords": "financial charts, stock market trading, modern office, business handshake"
+    },
+    {
+      "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
+      "link": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
+      "summary": "",
+      "published": "2026-08-13T13:41:32+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фінансова група Swissquote була змушена погіршити свої річні очікування. Причиною стало різке скорочення доходів від криптовалютних операцій у першому півріччі, що одразу позначилося на падінні курсу акцій компанії на біржі.",
+      "ai_title": "Швейцарський банк Swissquote знизив прогнози через падіння криптодоходів",
+      "video_keywords": "stock market crash, red arrows down, financial crisis, worried trader"
+    },
+    {
+      "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
+      "link": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
+      "summary": "",
+      "published": "2026-08-13T14:43:38+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Провідна криптотрейдингова компанія B2C2 призначила досвідченого топменеджера з інвестиційного гіганта Schroders. Це кадрове рішення покликане розширити присутність компанії та залучити зростаючий капітал заможних азійських інвесторів.",
+      "ai_title": "Криптомаркетмейкер B2C2 посилює позиції в Азії",
+      "video_keywords": "skyscraper skyline, corporate office meeting, businessman handshake, modern glass building"
+    },
+    {
+      "title": "Crypto for Advisors: The crypto advice gap",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
+      "summary": "",
+      "published": "2026-08-13T15:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Експерти вказують на значний розрив між високим попитом інвесторів на цифрові активи та готовністю традиційних фінансових радників надавати такі консультації. Багато професіоналів досі уникають теми криптовалют через регуляторні ризики та браку знань.",
+      "ai_title": "Фінансові радники масово ігнорують інтерес клієнтів до криптовалюти",
+      "video_keywords": "financial advisor consulting client, pointing at laptop screen, office desk meeting"
     }
   ]
 }
