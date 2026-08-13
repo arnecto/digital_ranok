@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "summary": "<p>Article URL: <a href=\"https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261133\">https://news.ycombinator.com/item?id=49261133</a></p>\n<p>Points: 45</p>\n<p># Comments: 35</p>",
-      "published": "2026-08-11T16:57:09+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Google назвав мову програмування Go однією з найкращих для створення програмного забезпечення за допомогою штучного інтелекту. Завдяки своїй простоті та ефективності вона чудово взаємодіє з сучасними AI-інструментами для написання коду. Це відкриває нові можливості для розробників, які прагнуть прискорити створення складних програм.",
-      "ai_title": "Чому мова програмування Go ідеально підходить для розробки з ШІ",
-      "video_keywords": "programmer typing, computer screen, code, software developer"
-    },
-    {
       "title": "Another OpenAI executive takes off",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
       "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand [&#8230;]",
@@ -19,16 +9,6 @@
       "ai_summary": "Бред Лайткеп, колишній операційний директор та керівник спецпроєктів OpenAI, оголосив про свій відхід після восьми років роботи в компанії. У своїй прощальній записці він зазначив, що планує займатися чимось новим та досліджувати нові горизонти. Це чергова кадрова зміна серед керівництва відомої лабораторії штучного інтелекту.",
       "ai_title": "Ще один топменеджер залишає компанію OpenAI",
       "video_keywords": "modern office, corporate boardroom, business handshake, executive meeting"
-    },
-    {
-      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the point of capture - enabling users to prove where [&#8230;]",
-      "published": "2026-08-11T16:19:15+00:00",
-      "source": "The Verge",
-      "ai_summary": "В останній бета-версії iOS виявили згадки нової системи верифікації справжності знімків, зроблених на iPhone. Технологія вбудовуватиме спеціальні метадані під час зйомки, що дозволить легко довести оригінальність фотографії. Це рішення має допомогти у боротьбі з поширенням підроблених зображень та діпфейків в інтернеті.",
-      "ai_title": "Apple розробляє функцію захисту від діпфейків для фотографій",
-      "video_keywords": "smartphone camera, taking a photo, hands holding phone, digital screen"
     },
     {
       "title": "Making holograms with a pen plotter",
@@ -59,16 +39,6 @@
       "ai_summary": "Опубліковано добірку сучасних CSS-властивостей, які допоможуть веб-розробникам покращити типографіку та візуальне оформлення текстів на сайтах. Ці поради спрощують створення естетичного та читабельного інтерфейсу.",
       "ai_title": "Корисні CSS-властивості для стилізації тексту",
       "video_keywords": "web development, laptop screen, code editor, typing hands"
-    },
-    {
-      "title": "Mojo 1.0",
-      "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "summary": "<p>Article URL: <a href=\"https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here\">https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261128\">https://news.ycombinator.com/item?id=49261128</a></p>\n<p>Points: 60</p>\n<p># Comments: 25</p>",
-      "published": "2026-08-11T16:56:46+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Команда Modular випустила стабільну версію 1.0 мови програмування Mojo, розробленої спеціально для штучного інтелекту та високих навантажень. Вона поєднує продуктивність C++ із простотою Python, відкриваючи нові можливості для розробників ШІ.",
-      "ai_title": "Офіційний реліз мови програмування Mojo 1.0",
-      "video_keywords": "artificial intelligence, programming code, futuristic computer, neural network"
     },
     {
       "title": "Google’s free streaming service now lets you pick shows and movies to watch",
@@ -939,29 +909,59 @@
       "ai_summary": "Розробники представили проєкт MCP Memory, який забезпечує швидку та ефективну пам'ять для штучного інтелекту. Система поєднує технології Google OKF та базу даних SQLite для кращої роботи агентів.",
       "ai_title": "Новий інструмент швидкої пам'яті для AI-агентів",
       "video_keywords": "server room, data center, futuristic interface, microchip"
+    },
+    {
+      "title": "I requested a copy of my data from McDonald’s loyalty program",
+      "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/\">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286662\">https://news.ycombinator.com/item?id=49286662</a></p>\n<p>Points: 93</p>\n<p># Comments: 96</p>",
+      "published": "2026-08-13T14:37:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Журналістське розслідування показало, як програма лояльності McDonald's збирає надзвичайно детальні дані про звички користувачів. Система аналізує кожен крок покупця, створюючи сотні сторінок персональної інформації про вподобання та поведінку.",
+      "ai_title": "Макдональдс зібрав величезне цифрове досьє на своїх клієнтів",
+      "video_keywords": "smartphone, fast food restaurant, scanning barcode, person ordering"
+    },
+    {
+      "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
+      "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+      "summary": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a [&#8230;]",
+      "published": "2026-08-13T16:38:15+00:00",
+      "source": "The Verge",
+      "ai_summary": "Ігровий видавець 2K запускає абсолютно нову AAA-студію під назвою Small Axe Studios. Головна мета команди — розробка нової амбітної спортивної франшизи світового рівня.",
+      "ai_title": "Компанія 2K відкрила нову студію для створення масштабної спортивної гри",
+      "video_keywords": "video game controller, game developer working, computer screen, office workspace"
+    },
+    {
+      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+      "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+      "summary": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling phase at the recently converted facility. Factory workers [&#8230;]",
+      "published": "2026-08-13T16:23:18+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Ford планує розпочати випуск свого електромобіля нового покоління під назвою Fathom на початку 2027 року. Це стало можливим завдяки багатомільярдній перенавішуванні та оновленню заводу в Луїсвіллі.",
+      "ai_title": "Ford готує до виробництва новий доступний електромокар після масштабної модернізації заводу",
+      "video_keywords": "electric car assembly line, robotic arm welding, car factory, modern manufacturing"
+    },
+    {
+      "title": "This is Instagram&#8217;s new logo",
+      "link": "https://www.theverge.com/tech/979583/this-is-instagrams-new-logo",
+      "summary": "Instagram has unveiled a new wordmark, moving away from the recognizable cursive typeface it's used over the last decade. The updated wordmark is a strange mix of half-cursive half-print that's somehow less legible than its predecessor. Like, that totally says \"Instagzam,\" right? \"The wordmark at the top of the app hasn't changed in 10 years, [&#8230;]",
+      "published": "2026-08-13T15:00:38+00:00",
+      "source": "The Verge",
+      "ai_summary": "Платформа Instagram представила новий текстовий логотип (wordmark), змінивши звичний рукописний шрифт, який використовувався понад десять років. Дизайн поєднує елементи друкованих та рукописних літер, проте викликав чимало дискусій щодо читабельності.",
+      "ai_title": "Instagram оновив свій легендарний логотип та шрифт",
+      "video_keywords": "smartphone screen, typing on phone, social media app, hands holding mobile"
+    },
+    {
+      "title": "Wolverine on the PS5 made me care about Marvel’s mutant for the first time",
+      "link": "https://www.theverge.com/games/977564/marvels-wolverine-ps5-preview-character-combat",
+      "summary": "Going into my demo of Marvel's Wolverine, I mainly wanted to try out the game's very bloody combat. And it is delightfully bloody. But after two-ish hours of slashing and stabbing (and parrying!) enemies with Wolverine's claws, I left surprised - despite no previous attachment to the character, I was deeply endeared to Logan himself. [&#8230;]",
+      "published": "2026-08-13T15:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Новий геймплейний демо-показ гри Marvel's Wolverine для PlayStation 5 приємно здивував критиків. Гра пропонує динамічну та жорстоку бойову систему разом із напрочуд глибоким розкриттям характеру головного героя.",
+      "ai_title": "Гра про Росомаху для PS5 вразила кривавим геймплеєм та сюжетом",
+      "video_keywords": "playing video game, playstation controller, gaming setup, glowing screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-      "published": "2026-08-11T16:25:20+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Неанонсована модель від компанії Anthropic досягла значних успіхів у дослідженні гіпотези Рімана. Хоча математичну проблему ще не розв'язано повністю, результати роботи штучного інтелекту перевершили очікування експертів.",
-      "ai_title": "Штучний інтелект від Anthropic наблизився до розгадки однієї з найбільших математичних таємниць",
-      "video_keywords": "artificial intelligence, computer screen, futuristic data, mathematics formulas"
-    },
-    {
-      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
-      "link": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
-      "summary": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
-      "published": "2026-08-11T17:41:49+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий масштабний державно-приватний фонд Scaleup Europe здійснив свою першу інвестицію. Одержувачем коштів стала фінська компанія ICEYE, яка спеціалізується на виробництві супутників.",
-      "ai_title": "Фонд Scaleup Europe на 5,7 мільярда доларів інвестував у супутникову компанію ICEYE",
-      "video_keywords": "satellite in space, earth from space, rocket launch, technology control room"
-    },
     {
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
       "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
@@ -1501,29 +1501,49 @@
       "ai_summary": "Пристрої від Bartesian працюють за принципом кавоварок Nespresso, але призначені для приготування алкогольних коктейлів у домашніх умовах. Вони викликають чималий інтерес на ринку побутових ґаджетів завдяки простоті використання.",
       "ai_title": "Домашні коктейльні робот-машини: новий тренд чи іграшка?",
       "video_keywords": "bartender mixing drink, cocktail glass, modern kitchen, pouring liquid"
+    },
+    {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "published": "2026-08-13T17:07:13+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія OpenAI продовжує оновлювати керівний склад і призначила нового головного фахівця з продажів. Далі Раджі займе ключову посаду для посилення комерційного напрямку бізнесу.",
+      "ai_title": "OpenAI призначила нового комерційного директора на тлі кадрових змін",
+      "video_keywords": "business meeting, handshake, corporate office, modern boardroom"
+    },
+    {
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "published": "2026-08-13T16:37:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Автогігант Ford наближається до завершення масштабної переоснащення свого підприємства вартістю 2 мільярди доларів. Випуск перших прототипів нової електричної вантажівки Fathom EV заплановано на початок 2027 року.",
+      "ai_title": "Ford завершує багатомільярдну модернізацію заводу заради виробництва електропікапів",
+      "video_keywords": "car factory, assembly line, robotic arm, automotive manufacturing"
+    },
+    {
+      "title": "Instagram introduces a redesigned wordmark",
+      "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
+      "summary": "The social media giant says it was time for a sharper and more modern look after a decade.",
+      "published": "2026-08-13T15:46:02+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Популярна соціальна мережа презентувала новий дизайн текстового логотипа вперше за десятиліття. Компанія прагне надати бренду більш сучасного, чіткого та впізнаваного вигляду.",
+      "ai_title": "Instagram оновив свій фірмовий логотип та текстовий напис",
+      "video_keywords": "smartphone screen, social media app, scrolling feed, mobile display"
+    },
+    {
+      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
+      "link": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+      "summary": "<p>DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.</p><p>The Chinese AI lab on Thursday <a href=\"https://x.com/deepseek_ai/status/2087864585504305397\">launched the official version of DeepSeek-V4-Pro</a>, an updated flagship model focused heavily on agentic workloads, alongside <a href=\"https://github.com/deepseek-ai/deepseek-harne",
+      "published": "2026-08-13T16:47:55+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Китайська лабораторія штучного інтелекту випустила оновлену модель V4-Pro разом з відкритим інструментом DeepSeek Harness. Компанія активно розширює свою присутність у сфері програмного забезпечення для створення ШІ-агентів.",
+      "ai_title": "DeepSeek представила новий флагманський ШІ-реліз та відкритий інструмент для розробників",
+      "video_keywords": "computer screen, programming code, software developer, futuristic technology"
     }
   ],
   "Крипта": [
-    {
-      "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
-      "link": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-goes-for-nasdaq.jpg\" /></p><p>Nasdaq’s acquisition of the third-largest US alternative trading system comes as the exchange operator expands into tokenized securities an",
-      "published": "2026-08-11T16:34:40+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Біржа Nasdaq оголосила про купівлю третьої за величиною альтернативної торгової системи США LeveL Markets. Цей крок є частиною стратегії біржового оператора з розширення діяльності у сфері токенізованих цінних паперів.",
-      "ai_title": "Nasdaq купує LeveL Markets задля переходу на безперервні ринки",
-      "video_keywords": "stock exchange floor, trading screens, financial charts, corporate boardroom"
-    },
-    {
-      "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
-      "link": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin drops to one-week low as retail buys gold at highest prices since June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-extreme-gold-net-longs-can-also-push-bitcoin-price-to-new-highs-in-2021.jpg\" /></p><p>Bitcoin price action sank to one-week lows ahead of US CPI data, while ret",
-      "published": "2026-08-11T16:24:48+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Вартість біткоїна опустилася до тижневих мінімумів перед публікацією даних щодо інфляції в США. Тим часом роздрібні інвестори масово скуповують золото, піднявши його ціну до найвищого рівня з червня.",
-      "ai_title": "Біткоїн впав до тижневого мінімуму на тлі зростання попиту на золото",
-      "video_keywords": "gold bars, falling chart, cryptocurrency graph, stock market crash"
-    },
     {
       "title": "ARP Digital secures Dubai VARA broker-dealer license",
       "link": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1533,26 +1553,6 @@
       "ai_summary": "Криптоплатформа ARP Digital успішно здобула ліцензію регулятора VARA в Дубаї. Це дозволить компанії надавати послуги з легального обміну цифрових активів та стейблкоїнів на дирхами ОАЕ.",
       "ai_title": "ARP Digital отримала ліцензію брокера у Дубаї",
       "video_keywords": "dubai skyline, financial license, business handshake, digital tablet"
-    },
-    {
-      "title": "FlightAware sues Kalshi over flight cancellation data",
-      "link": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FlightAware sues Kalshi over flight cancellation data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-coin-moving-ahead-with-release-but-progress-delayed.jpg\" /></p><p>The legal action against Kalshi focused on trademark infringement and injury to its reputation in addition to citing state ",
-      "published": "2026-08-11T16:55:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія FlightAware розпочала судовий процес проти платформи передбачень Kalshi через несанкціоноване використання даних про скасування рейсів. Позов включає звинувачення у порушенні прав на торговельну марку та завданні шкоди діловій репутації.",
-      "ai_title": "FlightAware подала до суду на платформу Kalshi",
-      "video_keywords": "courtroom gavel, legal documents, airplane in sky, computer screen code"
-    },
-    {
-      "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
-      "link": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
-      "summary": "",
-      "published": "2026-08-11T17:12:11+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Інвестиційна платформа eToro повідомила про фінансові втрати від операцій із криптовалютами у другому кварталі. Водночас загальні показники прибутку компанії перевищили ринкові очікування аналітиків.",
-      "ai_title": "eToro зафіксувала збитки у криптосегменті попри загальний прибуток",
-      "video_keywords": "stock market chart, trading platform graphs, financial analytics, smartphone trading"
     },
     {
       "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
@@ -2393,6 +2393,16 @@
       "ai_summary": "Курс біткоїна демонструє помірне зростання разом із американським фондовим ринком. Це відбувається через нові дані щодо інфляції в США, які вказують на її поступове охолодження та підтримують оптимізм трейдерів.",
       "ai_title": "Біткоїн тримається біля позначки $64 000 на тлі новин про інфляцію",
       "video_keywords": "stock market chart, financial graphs, crypto trading screen, digital currency"
+    },
+    {
+      "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
+      "link": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bullish shares jump 10% as Q2 adjusted EBITDA more than triples\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/trading-up.png\" /></p><p>The crypto exchange operator’s shares gained around 10% as adjusted EBITDA more than tripled and subscription and services revenue hit a record high.</p>",
+      "published": "2026-08-13T15:36:45+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Оператор криптобіржі повідомив про потроєння скоригованого показника EBITDA у другому кварталі. Доходи від підписок та сервісів також досягли рекордних показників, що позитивно вплинуло на вартість акцій компанії.",
+      "ai_title": "Акції Bullish зросли на 10% на тлі різкого зростання прибутків",
+      "video_keywords": "stock market, financial charts, trading floor, digital screens"
     }
   ]
 }
