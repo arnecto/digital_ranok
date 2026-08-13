@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Nvidia Nemotron 3.5 lightning and NeMo Switchyard",
-      "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "summary": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/\">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263340\">https://news.ycombinator.com/item?id=49263340</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
-      "published": "2026-08-11T19:35:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Nvidia представила нові технології Nemotron 3.5 lightning та NeMo Switchyard для оптимізації штучного інтелекту. Ці рішення покликані прискорити роботу великих мовних моделей та покращити їхню ефективність на апаратному рівні.",
-      "ai_title": "Nvidia презентувала нові інструменти Nemotron та Switchyard",
-      "video_keywords": "microchip, computer hardware, server room, electronics"
-    },
-    {
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
-      "published": "2026-08-11T19:41:42+00:00",
-      "source": "The Verge",
-      "ai_summary": "Обидва провідні штучні інтелекти — ChatGPT від OpenAI та Gemini від Google — досягли знакової віхи у мільярд активних користувачів щомісяця. Gemini стала найшвидше зростаючим продуктом в історії Google, хоча OpenAI досягла цього результату дещо раніше.",
-      "ai_title": "ChatGPT та Gemini подолали позначку в мільярд користувачів",
-      "video_keywords": "smartphone screen, typing hands, digital interface, abstract technology"
-    },
-    {
-      "title": "The brain may be about to have its Ozempic moment",
-      "link": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "summary": "<p>Article URL: <a href=\"https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment\">https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263658\">https://news.ycombinator.com/item?id=49263658</a></p>\n<p>Points: 44</p>\n<p># Comm",
-      "published": "2026-08-11T20:01:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У світі медицини та технологій обговорюють потенційну революцію у стимуляції когнітивних функцій. Нові підходи можуть мати такий самий масовий ефект, як свого часу препарати для схуднення типу Оземпік. Це відкриває нові можливості для покращення пам'яті та продуктивності людини.",
-      "ai_title": "Чи стане новий препарат прорвом для роботи мозку?",
-      "video_keywords": "human brain scan, futuristic medical laboratory, glowing neurons, laboratory scientist"
-    },
-    {
-      "title": "Compression Is Prediction",
-      "link": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "<p>Article URL: <a href=\"https://ngrok.com/blog/compression-is-prediction\">https://ngrok.com/blog/compression-is-prediction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263497\">https://news.ycombinator.com/item?id=49263497</a></p>\n<p>Points: 54</p>\n<p># Comments: 25</p>",
-      "published": "2026-08-11T19:49:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий технічний матеріал досліджує глибоку фундаментальну парадигму в інформатиці: ефективне стиснення даних фактично є еквівалентом точного прогнозування. Автори пояснюють, чому сучасні алгоритми штучного інтелекту покладаються на цей принцип для розуміння закономірностей. Це допомагає краще оптимізувати складні нейромережі.",
-      "ai_title": "Зв'язок між стисненням даних та алгоритмами прогнозування",
-      "video_keywords": "digital data stream, computer code scrolling, server rack blinking lights, abstract binary code"
-    },
-    {
       "title": "An FCC filing points to new Sonos headphones coming soon",
       "link": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
       "summary": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A. In addition to [&#8230;]",
@@ -979,29 +939,59 @@
       "ai_summary": "Популярний робот-пилосос Matic отримав масштабне оновлення з підтримкою жестів і голосу. Тепер користувачі можуть просто вказати рукою на бруд, і пристрій самостійно прибере цю ділянку.",
       "ai_title": "Новий робот-пилосос реагує на жести та голосові команди",
       "video_keywords": "robot vacuum, living room, cleaning floor, smart home"
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "summary": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290768\">https://news.ycombinator.com/item?id=49290768</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-13T19:25:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "OpenAI опублікувала офіційне дослідження про те, як різні організації інтегрують штучний інтелект у свої робочі процеси. Документ демонструє реальні приклади та статистику ефективності використання ChatGPT у бізнес-середовищі.",
+      "ai_title": "Як сучасні компанії використовують ChatGPT: звіт OpenAI",
+      "video_keywords": "office worker, laptop, charts, corporate presentation"
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "summary": "<p>Article URL: <a href=\"https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck\">https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290299\">https://news.ycombinator.com/item?id=49290299</a></p>\n<p>Points: 26</p>\n<p># Comments: 10</p>",
+      "published": "2026-08-13T18:47:19+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова стаття досліджує актуальні виклики розробки програмного забезпечення у світі, де генеративний ШІ пише код миттєво. Головною проблемою стає не створення коду, а здатність людини повністю зрозуміти та перевірити його логіку.",
+      "ai_title": "Розуміння як нове «вузьке горло» в епоху ШІ",
+      "video_keywords": "developer, computer screen, lines of code, thoughtful face"
+    },
+    {
+      "title": "Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin",
+      "link": "https://github.com/itsmeadarsh2008/opencode-senses",
+      "summary": "<p>The vision plugin for OpenCode that truly understands images. Inspect, read, and reason about any screenshot or picture with deeper understanding than any other plugin — fully local, private, and free.<p>Normally, it takes 300ms to analyse one image on my laptop, which is pretty fast for a local vision model. I use moondream2 as my vision model, you can set your custom model like moondream3.1 i",
+      "published": "2026-08-13T18:13:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розпочато тестування нового плагіна OpenCode Senses, який здатний аналізувати зображення та скріншоти зі швидкістю біля 300 мілсекунд на локальному пристрої. Інструмент працює повністю приватно, безкоштовно та не передає дані на зовнішні сервери.",
+      "ai_title": "OpenCode Senses: надзвичайно швидкий плагін комп'ютерного зору",
+      "video_keywords": "coding, software interface, developer typing, digital screen"
+    },
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
+      "published": "2026-08-13T19:28:39+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанію OpenAI залишає комерційна директорка Деніз Дрессер, яка перейшла туди з посади гендиректорки Slack менш ніж рік тому. Це вже друга гучна кадрова втрата компанії за останній тиждень, на її місце приходить колишній топменеджер Wiz.",
+      "ai_title": "OpenAI втрачає ще одного топменеджера за тиждень",
+      "video_keywords": "modern office, business meeting, professional handshake, corporate building"
+    },
+    {
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "summary": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But [&#8230;]",
+      "published": "2026-08-13T18:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Сучасні автономні газонокосарки досягли високого рівня якості й тепер здатні ефективно доглядати за газоном майже без участі людини. Попри автономність, експерти радять контролювати їхню роботу, щоб уникнути пошкоджень двору.",
+      "ai_title": "Надійні робот-газонокосарки нарешті стали реальністю",
+      "video_keywords": "robot lawn mower, green grass, backyard, garden maintenance"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Uber surprised robotics company Serve by selling its entire stake",
-      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-      "summary": "The divesture comes comes as the two once-tight companies have started to diverge on the business side.",
-      "published": "2026-08-11T20:02:02+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Uber повністю позбулася своєї частки в стартапі Serve Robotics. Цей крок свідчить про те, що колись тісні партнери почали розходитися у своїх бізнес-інтересах та стратегіях розвитку.",
-      "ai_title": "Uber раптово продав увесь свій пакет акцій робототехнічної компанії Serve",
-      "video_keywords": "delivery robot, sidewalk robot, stock market, business handshake"
-    },
-    {
-      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
-      "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-      "summary": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-      "published": "2026-08-11T19:38:23+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Злочинці зламують онлайн-акаунти дорослих та неповнолітніх користувачів, щоб викрасти особисті фотографії. Отримані знімки кіберзлочинці використовують для шантажу та вимагання грошей.",
-      "ai_title": "ФБР попередило про хвилю хакерських атак задля викрадення інтимних фото",
-      "video_keywords": "hacker typing on laptop, glowing code screen, stressed person looking at monitor, cybersecurity"
-    },
     {
       "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
       "link": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
@@ -1554,16 +1544,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Following Senate delay, crypto bill has a narrow window to become law",
-      "link": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Following Senate delay, crypto bill has a narrow window to become law\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-10k-report-clarity-act-1.jpg\" /></p><p>After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.<",
-      "published": "2026-08-11T19:42:08+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Після серпневих канікул у законодавців Сенату США залишилося всього 36 днів до кінця року для ухвалення законопроєкту CLARITY Act. Через затримки вікно можливостей для надання чіткого регулювання ринку стрімко звужується.",
-      "ai_title": "Сенат США має обмежений час для ухвалення закону про крипту",
-      "video_keywords": "government building, politicians talking, senate interior, us capitol"
-    },
     {
       "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
       "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
