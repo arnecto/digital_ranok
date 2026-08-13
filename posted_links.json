@@ -1,12 +1,4 @@
 {
-  "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md": {
-    "title": "Нові цілі проекту Rust: нерухомі типи та деструктори",
-    "category": "IT / AI",
-    "posted_at": "2026-08-05T07:41:03.561967+03:00",
-    "summary": "Команда мови програмування Rust окреслила ключові плани на майбутнє, що стосуються роботи з пам'яттю та новими концептами типів. Зокрема, розглядається впровадження нерухомих типів та гарантованих деструкторів для покращення безпеки коду. Це допоможе розробникам створювати ще більш надійні системні застосунки.",
-    "video_keywords": "programming code, computer screen, software developer, typing",
-    "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md"
-  },
   "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/": {
     "title": "Стартап з кібербезпеки Horizon3 залучив $250 млн і досяг оцінки у $2 мільярди",
     "category": "Бізнес / Стартапи",
@@ -870,5 +862,13 @@
     "summary": "Адміністратори Windows 11 висловили невдоволення тим, що компанія Microsoft без попередження встановила новий додаток Photos із інтеграцією OneDrive. Через хвилю критики техногіганту довелося реагувати на скарги користувачів та пояснювати свої дії.",
     "video_keywords": "computer screen, windows interface, frustrated user, office desk",
     "link": "https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/"
+  },
+  "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/": {
+    "title": "Anthropic запроваджує маркування штучного інтелекту",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-08-13T08:13:25.792633+03:00",
+    "summary": "Компанія Anthropic розширює підтримку водяних знаків для текстів, створених її штучним інтелектом, охоплюючи також і старіші моделі. Це нововведення допоможе користувачам та дослідникам легше ідентифікувати контент, згенерований нейромережами.",
+    "video_keywords": "typing on keyboard, digital code, abstract data, glowing text",
+    "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/"
   }
 }
