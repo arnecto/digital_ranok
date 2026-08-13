@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The UK's War on Anonymity Has Come to America",
-      "link": "https://www.effort.news/uk-lobby",
-      "summary": "<p>Article URL: <a href=\"https://www.effort.news/uk-lobby\">https://www.effort.news/uk-lobby</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49251411\">https://news.ycombinator.com/item?id=49251411</a></p>\n<p>Points: 206</p>\n<p># Comments: 118</p>",
-      "published": "2026-08-10T23:45:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нові ініціативи та лобістські зусилля щодо обмеження анонімності в мережі, які раніше активно просувалися у Великій Британії, тепер знаходять підтримку в США. Це викликає серйозні занепокоєння у прихильників конфіденційності та цифрових прав. Експерти попереджають про загрозу масового стеження та обмеження свободи слова.",
-      "ai_title": "Британський наступ на анонімність в інтернеті поширюється на США",
-      "video_keywords": "typing laptop, surveillance camera, digital security, internet server"
-    },
-    {
       "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
       "link": "https://github.com/antirez/h3.c",
       "summary": "<p>Article URL: <a href=\"https://github.com/antirez/h3.c\">https://github.com/antirez/h3.c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252179\">https://news.ycombinator.com/item?id=49252179</a></p>\n<p>Points: 81</p>\n<p># Comments: 7</p>",
@@ -1009,39 +999,29 @@
       "ai_summary": "Ентузіаст розробив інструмент на базі браузера для керування SysEx-даними та налаштуваннями культових синтезаторів із 80-х і 90-х років. Це рішення спрощує роботу з вінтажним музичним обладнанням без потреби в додатковому програмному забезпеченні.",
       "ai_title": "Розробник створив браузерну бібліотеку для старих синтезаторів",
       "video_keywords": "synthesizer, music studio, mixing console, electronic keyboard"
+    },
+    {
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "link": "https://www.ballet.dev/",
+      "summary": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-13T00:01:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розпочато тестування інструменту Ballet, який спрощує створення інтеграцій для будь-яких програмних інтерфейсів. Сервіс використовує автоматизацію робочих процесів, щоб зекономити час розробників на рутинних завданнях. Це рішення має прискорити зв'язування різних хмарних сервісів між собою.",
+      "ai_title": "Ballet: нова платформа для автоматизації робочих процесів та інтеграції API",
+      "video_keywords": "coding on laptop, software interface, developer typing, digital dashboard"
+    },
+    {
+      "title": "What's New in Flutter 3.47",
+      "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "summary": "<p>Article URL: <a href=\"https://flutter.dev/blog/whats-new-in-flutter-3-47\">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280061\">https://news.ycombinator.com/item?id=49280061</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-12T23:46:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили черговий мажорний апдейт популярного кросплатформного фреймворку Flutter. Версія 3.47 містить покращення продуктивності, виправлення бамів та нові можливості для створення інтерфейсів. Оновлення вже доступне для завантаження та впровадження в поточні проєкти.",
+      "ai_title": "Вийшов оновлений фреймворк Flutter 3.47 з новими функціями",
+      "video_keywords": "mobile app development, smartphone screen, programming code, tablet interface"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "published": "2026-08-10T23:56:15+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На тлі зростання кількості кібератак за допомогою штучного інтелекту компанія OpenAI розширює свою оборонну програму Daybreak. У межах ініціативи представлено нову спеціалізовану модель, навчену протидіяти сучасним цифровим загрозам.",
-      "ai_title": "OpenAI презентувала нову модель штучного інтелекту для кіберзахисту",
-      "video_keywords": "cybersecurity, hackers working, computer screens, digital code"
-    },
-    {
-      "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
-      "link": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
-      "summary": "<p>Earlier today, <a href=\"https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/\">OpenAI launched GPT-5.6-Cyber</a>, a specialized model designed to perform advanced vulnerability research and exploit development for approved defenders — including categories of work that its general-purpose models will often refuse.</p><p>GPT-5.6-Cyber is a fine-tuned version of OpenAI&#",
-      "published": "2026-08-10T23:53:23+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "OpenAI випустила спеціалізовану модель GPT-5.6-Cyber, створену для дослідження вразливостей та розробки захисних механізмів. Новинка здатна виконувати складні завдання з кібербезпеки з показником успішності 95% та має мінімальну кількість обмежень на запити.",
-      "ai_title": "Вийшла нова модель GPT-5.6-Cyber для складних завдань кібербезпеки",
-      "video_keywords": "server room, data center, cybersecurity analyst, glowing monitors"
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "published": "2026-08-11T00:03:18+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія OpenAI успішно завершила угоду з викупу акцій у своїх співробітників, яка оцінила її загальну вартість у колосальні суми. Це дозволить поточним та колишнім працівникам конвертувати свої частки у готівку на тлі стрімкого зростання популярності штучного інтелекту.",
-      "ai_title": "OpenAI завершила викуп акцій працівників на 7 мільярдів доларів",
-      "video_keywords": "corporate office, business handshake, modern skyscraper, financial chart"
-    },
     {
       "title": "Anthropic says it will watermark text generated by its AI models",
       "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
@@ -1674,16 +1654,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-      "link": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/asia-express-8.jpg\" /></p><p>The Bitcoin Red Team has been forced to rely on open source Chinese AI, after OpenAI restricts access. Thailand sets crypto tax to 0% i",
-      "published": "2026-08-11T02:08:36+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Таїланд офіційно скасовує податки на криптовалютні операції задля залучення інвестицій та розвитку цифрової економіки. Тим часом розробники з Bitcoin Red Team були змушені перейти на китайські штучні інтелекти через обмеження доступу до американських технологій OpenAI.",
-      "ai_title": "Нульовий податок на крипту в Таїланді та обмеження для Bitcoin Red Team",
-      "video_keywords": "bitcoin coins, thailand flag, computer screen, artificial intelligence"
-    },
     {
       "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
       "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
@@ -2593,6 +2563,16 @@
       "ai_summary": "Комісія з торгівлі товарними ф'ючерсами США (CFTC) вважає, що платформи прогнозів мають переглянути практику подачі некоректних заявок заради стимулювання обсягів торгівлі. Регулятор наголошує на необхідності підвищення прозорості та якості даних у цьому сегменті криптоіндустрії.",
       "ai_title": "CFTC закликає ринки прогнозів скоротити кількість помилкових заявок",
       "video_keywords": "trading floor, stock exchange, financial charts, computer screens"
+    },
+    {
+      "title": "Arizona crypto ATM law helps 35 scam victims recover $171K",
+      "link": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Arizona crypto ATM law helps 35 scam victims recover $171K \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor.png\" /></p><p>Qualifying new customers can receive full reimbursement, including fees, if they notify both the operator and law enforcement within 30 days.</p>",
+      "published": "2026-08-12T23:42:51+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Завдяки новому законодавству щодо криптоматів в Аризоні 35 постраждалих від шахрайства змогли повністю повернути свої кошти. Закон передбачає відшкодування збитків і комісій, якщо клієнт повідомив оператора та поліцію протягом 30 днів.",
+      "ai_title": "Новий закон в Аризоні допоміг жертвам криптошахраїв повернути $171 тисячу",
+      "video_keywords": "bitcoin ATM, cryptocurrency kiosk, police officer, smartphone screen"
     }
   ]
 }
