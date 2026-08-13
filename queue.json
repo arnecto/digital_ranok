@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
-      "link": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-      "summary": "<p>Article URL: <a href=\"https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself\">https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253738\">https://news.ycombinator.com/item?id=49253738</a></p>\n<p>Points: 4</p>\n<p>#",
-      "published": "2026-08-11T05:30:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники знайшли новий спосіб реверс-інжинірингу для моделі DeepSeek, змусивши її інтерв'ювати саму себе. Це дозволяє розкрити внутрішню архітектуру та принципи роботи штучного інтелекту без прямих розкриттів від розробників.",
-      "ai_title": "Як розібрати штучний інтелект DeepSeek на складові через самоопитування",
-      "video_keywords": "programmer typing code, computer screen, glowing matrix, data analysis"
-    },
-    {
-      "title": "Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
-      "link": "https://github.com/activeing123/mcptoon",
-      "summary": "<p>Article URL: <a href=\"https://github.com/activeing123/mcptoon\">https://github.com/activeing123/mcptoon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253721\">https://news.ycombinator.com/item?id=49253721</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-11T05:26:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив новий CLI-клієнт Mcptoon, який оптимізує роботу з інструментами штучного інтелекту. Завдяки унікальному підходу вдалося суттєво зменшити кількість токенів, необхідних для пошуку інструментів.",
-      "ai_title": "Новий клієнт Mcptoon скорочує витрати токенів ШІ на 97%",
-      "video_keywords": "terminal window, command line, developer workspace, software engineering"
-    },
-    {
       "title": "France to ban unsolicited telemarketing calls",
       "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
       "summary": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html\">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49254880\">https://news.ycombinator.com/item?id=",
@@ -999,6 +979,26 @@
       "ai_summary": "Розробники представили черговий мажорний апдейт популярного кросплатформного фреймворку Flutter. Версія 3.47 містить покращення продуктивності, виправлення бамів та нові можливості для створення інтерфейсів. Оновлення вже доступне для завантаження та впровадження в поточні проєкти.",
       "ai_title": "Вийшов оновлений фреймворк Flutter 3.47 з новими функціями",
       "video_keywords": "mobile app development, smartphone screen, programming code, tablet interface"
+    },
+    {
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "link": "https://openai.com/codex/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/codex/\">https://openai.com/codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281916\">https://news.ycombinator.com/item?id=49281916</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-13T04:53:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "OpenAI випустила десктопну версію свого інструменту для операційної системи Linux. Це дозволить розробникам зручніше користуватися можливостями платформи безпосередньо у своїй робочій системі.",
+      "ai_title": "ChatGPT Desktop для Linux",
+      "video_keywords": "linux terminal, computer screen, typing code, developer workstation"
+    },
+    {
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "link": "https://celld.dev/",
+      "summary": "<p>Article URL: <a href=\"https://celld.dev/\">https://celld.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281839\">https://news.ycombinator.com/item?id=49281839</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-13T04:37:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт Celld пропонує рішення для створення самохостингових та розподілених Durable Objects. Це допомагає розробникам ефективніше керувати станом додатків у розподіленому середовищі.",
+      "ai_title": "Celld — самохостингові та розподілені об'єкти",
+      "video_keywords": "server racks, data center, flashing lights, computer servers"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1624,46 +1624,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
-      "link": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Payments platform Decta explores stablecoin-enabled treasury settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-stablecoins-turn-a-corner-driven-by-the-acceptance-of-financial-institutions.jpg\" /></p><p>Decta will use USDC through OpenPayd’s infrastructure for international treasury",
-      "published": "2026-08-11T06:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Decta інтегрує використання стейблкоїна USDC через інфраструктуру OpenPayd для проведення міжнародних казначейських розрахунків. Це дозволить прискорити транзакції та знизити витрати на валютні операції між фінансовими інститутами.",
-      "ai_title": "Платіжна платформа Decta тестує розрахунки в стейблкоїнах",
-      "video_keywords": "digital currency, smartphone payment, financial transaction, modern bank"
-    },
-    {
-      "title": "A $2 trillion asset class is getting a new blockchain rail",
-      "link": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
-      "summary": "",
-      "published": "2026-08-11T07:19:09+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Масштабний клас активів готується до інтеграції з новою блокчейн-платформою. Це може суттєво змінити швидкість транзакцій та привабливість інструментів для інвесторів. Технологія відкриває нові можливості для токенізації.",
-      "ai_title": "Традиційний ринок вартістю 2 трильйони доларів переходить на новий блокчейн",
-      "video_keywords": "blockchain technology, digital currency, futuristic finance, data stream"
-    },
-    {
-      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
-      "link": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
-      "summary": "",
-      "published": "2026-08-11T06:19:07+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Платформа пропонує значну суму за інформацію або допомогу після того, як з їхніх біткоїн-серверів були викрадені кошти через вразливість. Розробники активно працюють над усуненням наслідків та посиленням безпеки. Іцидент підкреслює ризики децентралізованих платежів.",
-      "ai_title": "BTCPay оголосив винагороду після хакерської атаки на сервери",
-      "video_keywords": "hacker typing on laptop, cybersecurity alarm, digital code, server room"
-    },
-    {
-      "title": "South Korea drops Travel Rule threshold for crypto transfers",
-      "link": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea drops Travel Rule threshold for crypto transfers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/south-korea-coin.jpg\" /></p><p>South Korea will remove its 1 million won Travel Rule threshold and apply information-sharing requirements to all transfers between registered crypto serv",
-      "published": "2026-08-11T06:28:16+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Влада країни скасовує мінімальний поріг для застосування «Правила подорожей» щодо криптопереказів. Тепер вимоги про обмін інформацією поширюватимуться на абсолютно всі транзакції між зареєстрованими біржами. Це спрямовано на боротьбу з відмиванням грошей.",
-      "ai_title": "Південна Корея посилює правила для криптовалютних переказів",
-      "video_keywords": "smartphone with finance app, digital transaction, banking security, financial district"
-    },
     {
       "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
       "link": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2533,6 +2493,26 @@
       "ai_summary": "Генеральний директор компанії Metaplanet Саймон Герович офіційно заперечив інформацію про розпродаж цифрових активів. Це сталося після переказу компанією великої партії біткоїнів.",
       "ai_title": "Голова Metaplanet спростував чутки про продаж біткоїнів на $322 мільйони",
       "video_keywords": "bitcoin hardware wallet, businessman in office, digital transaction, computer screen"
+    },
+    {
+      "title": "Metaplanet denies selling bitcoin worth $320 million",
+      "link": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+      "summary": "",
+      "published": "2026-08-13T05:34:48+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Японська компанія Metaplanet офіційно заперечила інформацію про масовий продаж своїх криптовалютних активів. Керівництво підтвердило прихильність до стратегії накопичення першої криптовалюти попри ринкові коливання.",
+      "ai_title": "Metaplanet спростувала чутки про продаж біткоїнів на 320 мільйонів доларів",
+      "video_keywords": "bitcoin coins, cryptocurrency trading, corporate office, digital charts"
+    },
+    {
+      "title": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "link": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+      "summary": "",
+      "published": "2026-08-13T05:21:21+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Представники криптоіндустрії закликають провідні лабораторії штучного інтелекту надати їм ті самі інструменти безпеки, якими вже користуються хакери. Це необхідно для випередження загроз та захисту децентралізованих мереж від кібератак.",
+      "ai_title": "Блокчейн-компанії вимагають від розробників ШІ доступу до кіберзахисту",
+      "video_keywords": "hacker typing on keyboard, cybersecurity screens, futuristic interface, matrix code"
     }
   ]
 }
