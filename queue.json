@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Making holograms with a pen plotter",
-      "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "<p>Article URL: <a href=\"https://blog.jordan.matelsky.com/Penplotter-holography/\">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262811\">https://news.ycombinator.com/item?id=49262811</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-11T18:51:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник продемонстрував цікавий метод створення голографічних зображень за допомогою звичайного пен-плотера. Цей підхід поєднує класичні апаратні інструменти з сучасними оптичними експериментами.",
-      "ai_title": "Створення голограм за допомогою звичайного плотера",
-      "video_keywords": "pen plotter, drawing machine, laser hologram, mechanical arm"
-    },
-    {
-      "title": "Google’s free streaming service now lets you pick shows and movies to watch",
-      "link": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
-      "summary": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose from over 10,000 shows and movies to watch whenever you want. The update introduces titles like Lady Bird, Seventeen Again, and Hell's Kitchen, according to Google's [&#8230;]",
-      "published": "2026-08-11T18:35:16+00:00",
-      "source": "The Verge",
-      "ai_summary": "Google оновила свій безплатний стрімінговий сервіс Google TV Freeplay, додавши підтримку відео на замовлення. Тепер користувачі можуть обирати з понад 10 000 фільмів та шоу для перегляду у зручний час замість перегляду лише ефірних каналів.",
-      "ai_title": "Безплатний сервіс Google TV отримав каталог відео на замовлення",
-      "video_keywords": "smart tv, watching movies, remote control, living room couch"
-    },
-    {
       "title": "Nvidia Nemotron 3.5 lightning and NeMo Switchyard",
       "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
       "summary": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/\">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263340\">https://news.ycombinator.com/item?id=49263340</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
@@ -39,16 +19,6 @@
       "ai_summary": "Обидва провідні штучні інтелекти — ChatGPT від OpenAI та Gemini від Google — досягли знакової віхи у мільярд активних користувачів щомісяця. Gemini стала найшвидше зростаючим продуктом в історії Google, хоча OpenAI досягла цього результату дещо раніше.",
       "ai_title": "ChatGPT та Gemini подолали позначку в мільярд користувачів",
       "video_keywords": "smartphone screen, typing hands, digital interface, abstract technology"
-    },
-    {
-      "title": "Threads has a VR app now",
-      "link": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
-      "summary": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured app. Meta says that [&#8230;]",
-      "published": "2026-08-11T19:10:14+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Meta випустила версію соціальної мережі Threads для гарнітур віртуальної реальності Meta Quest. Це розширення платформи відбулося невдовзі після її інтеграції з окулярами доповненої реальності Ray-Ban та досягнення позначки в 500 мільйонів користувачів.",
-      "ai_title": "Threads випустила власний додаток для VR",
-      "video_keywords": "virtual reality headset, person wearing vr glasses, futuristic interface, immersive technology"
     },
     {
       "title": "The brain may be about to have its Ozempic moment",
@@ -979,29 +949,39 @@
       "ai_summary": "Тест-драйв майбутнього спорткара 2027 Corvette Grand Sport X показав, що автомобіль здатен конкурувати з Porsche 911 за значно меншу ціну. Поїздка проходила у складних погодних умовах під проливним дощем у Нью-Йорку, де машина продемонструвала вражаючу потужність і керованість. Це робить її однією з найочікуваніших новинок на ринку спортивних авто.",
       "ai_title": "Новий Corvette Grand Sport X кидає виклик Porsche",
       "video_keywords": "sports car, driving in rain, wet asphalt, luxury vehicle"
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=49289844</a></p>\n<p>Points: 116</p>\n<p># Comments: 23</p>",
+      "published": "2026-08-13T18:10:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Cerebras об'єднала зусилля з OpenAI для надшвидкого прискорення моделей нового покоління. Це дозволить суттєво зменшити час відповіді нейромереж та оптимізувати обчислювальні процеси.",
+      "ai_title": "Cerebras прискорює роботу штучного інтелекту спільно з OpenAI",
+      "video_keywords": "server rack, microchip, data center, glowing lights"
+    },
+    {
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "summary": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday. [&#8230;]",
+      "published": "2026-08-13T18:56:13+00:00",
+      "source": "The Verge",
+      "ai_summary": "Адміністрація США запускає нову ініціативу, яка дозволить приватним підрядникам здійснювати кібероперації проти закордонних злочинців. Діяльність цих компаній контролюватиметься федеральним урядом для запобігання загрозам.",
+      "ai_title": "Приватні компанії отримають дозвіл на міжнародні кібератаки від адміністрації Трампа",
+      "video_keywords": "cyber security, hacker typing, computer screen, dark room"
+    },
+    {
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "summary": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature [&#8230;]",
+      "published": "2026-08-13T18:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Популярний робот-пилосос Matic отримав масштабне оновлення з підтримкою жестів і голосу. Тепер користувачі можуть просто вказати рукою на бруд, і пристрій самостійно прибере цю ділянку.",
+      "ai_title": "Новий робот-пилосос реагує на жести та голосові команди",
+      "video_keywords": "robot vacuum, living room, cleaning floor, smart home"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Google’s Gemini app surges to one billion users",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
-      "published": "2026-08-11T18:49:12+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Штучний інтелект від Google досяг масштабної позначки в один мільярд активних користувачів щомісяця. Таким чином Gemini успішно наздоганяє свого головного конкурента ChatGPT на ринку.",
-      "ai_title": "Кількість користувачів Gemini від Google сягнула мільярда",
-      "video_keywords": "smartphone screen, typing app, artificial intelligence, digital interface"
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "published": "2026-08-11T19:15:35+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія OpenAI офіційно презентувала повноцінну комп'ютерну програму ChatGPT для операційних систем Linux. Це робить використання популярного чат-бота зручнішим для розробників та користувачів цієї платформи.",
-      "ai_title": "OpenAI випустила десктопний додаток ChatGPT для Linux",
-      "video_keywords": "laptop computer, programming code, desk workspace, typing on keyboard"
-    },
     {
       "title": "Uber surprised robotics company Serve by selling its entire stake",
       "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
@@ -1541,19 +1521,39 @@
       "ai_summary": "Google презентувала нову версію ШІ-моделі Gemini 3.7 Flash, орієнтовану на програмування та автономні агенти. На честь релізу компанія тимчасово знизила ціну на API вдвічі.",
       "ai_title": "Google випустила Gemini 3.7 Flash зі знижкою 50%",
       "video_keywords": "artificial intelligence, computer screen, coding, data center"
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "published": "2026-08-13T19:22:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія презентувала попередню версію прискореного режиму для своєї найпотужнішої моделі. Новинка спрямована на залучення корпоративних клієнтів завдяки збільшенню продуктивності у 14 разів.",
+      "ai_title": "OpenAI випустила надшвидкий режим для GPT 5.6 Sol",
+      "video_keywords": "server room, data center, computer screen, typing"
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "summary": "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal.",
+      "published": "2026-08-13T19:19:49+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "IBM планує навчити та сертифікувати десятки тисяч власних консультантів роботі з технологіями OpenAI. Це партнерство має суттєво посилити позиції обох компаній у сегменті бізнес-рішень.",
+      "ai_title": "IBM та OpenAI об'єднуються заради корпоративного ринку штучного інтелекту",
+      "video_keywords": "business meeting, handshake, office presentation, corporate handshake"
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "published": "2026-08-13T18:28:14+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Дослідники виявили, що автономні ШІ-агенти можуть непередбачувано конфліктувати та координуватися між собою. Це ставить під сумнів ефективність сучасних тестів безпеки для мультуагентних систем.",
+      "ai_title": "Штучний інтелект від Anthropic влаштував конфлікт між агентами",
+      "video_keywords": "hacker typing, cyber attack, glowing code, dark room"
     }
   ],
   "Крипта": [
-    {
-      "title": "MoneyGram expands crypto cash ramps to Solana",
-      "link": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoneyGram expands crypto cash ramps to Solana\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/super-coin-chainlink-solana-2.png\" /></p><p>MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the serv",
-      "published": "2026-08-11T19:53:02+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Сервіс MoneyGram Ramps відтепер підключає гаманці та додатки на базі Solana до своєї глобальної мережі готівкових розрахунків. Першим цей сервіс інтегрував криптовалютний гаманець Rift, що полегшує конвертацію цифрових активів.",
-      "ai_title": "MoneyGram інтегрує мережу Solana для операцій з готівкою",
-      "video_keywords": "smartphone screen, digital wallet, cash money, hand holding phone"
-    },
     {
       "title": "Following Senate delay, crypto bill has a narrow window to become law",
       "link": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1563,16 +1563,6 @@
       "ai_summary": "Після серпневих канікул у законодавців Сенату США залишилося всього 36 днів до кінця року для ухвалення законопроєкту CLARITY Act. Через затримки вікно можливостей для надання чіткого регулювання ринку стрімко звужується.",
       "ai_title": "Сенат США має обмежений час для ухвалення закону про крипту",
       "video_keywords": "government building, politicians talking, senate interior, us capitol"
-    },
-    {
-      "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
-      "link": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
-      "summary": "",
-      "published": "2026-08-11T19:06:23+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Провідний бразильський кредитор Itaú Unibanco робить нові кроки у сфері токенізації, розширюючи свою присутність на ринку цифрових активів. Банк прагне активніше впроваджувати блокчейн-технології у традиційні фінансові послуги.",
-      "ai_title": "Найбільший банк Бразилії занурюється у токенізацію активів",
-      "video_keywords": "modern bank building, businessman in suit, financial charts, digital banking"
     },
     {
       "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
@@ -2423,6 +2413,27 @@
       "ai_summary": "За даними Standard Chartered, інтеграція з Uniswap значно підвищила ліквідність мережі Robinhood. Це допомагає вирішити головні проблеми, з якими стикаються нові блокчейн-платформи на ринку.",
       "ai_title": "Блокчейн Robinhood наближається до мільярда доларів заблокованих коштів",
       "video_keywords": "smartphone app, digital trading, stock market, mobile phone screen"
+    },
+    {
+      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+      "link": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+      "summary": "",
+      "published": "2026-08-13T18:26:21+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+      "link": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/arrest-police-crime-prison-jail-imprisonment-man-person2-1.jpg\" /></p><p>More than a year after being indicted on fraud charges related to his activities at crypto company D",
+      "published": "2026-08-13T19:21:02+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
+      "link": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC to join SEC in exploring crypto regulations without CLARITY bill\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/paper-document-man-office-cftc-1.jpg\" /></p><p>The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to address regulation related to crypto assets, art",
+      "published": "2026-08-13T18:18:50+00:00",
+      "source": "Cointelegraph.com News"
     }
   ]
 }
