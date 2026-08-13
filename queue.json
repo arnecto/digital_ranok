@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
-      "link": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
-      "summary": "<p>Article URL: <a href=\"https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/\">https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261218\">https://news.ycombinator.com/item?id=49261218</a></p>\n<p>Points: 50</p>\n<p>",
-      "published": "2026-08-11T17:02:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Через технічну помилку в системі автоматичного розпізнавання автомобільних номерів жінку двічі зупиняли правоохоронці під дулом пістолета. Цей інцидент викликав серйозні занепокоєння щодо надійності та безпеки алгоритмів спостереження, які використовує поліція. Постраждала вимагає пояснень від розробників та правоохоронних органів щодо таких небезпечних системних збоїв.",
-      "ai_title": "Жіночу машину двічі зупиняли поліцейські через збій камер",
-      "video_keywords": "police car, flashing lights, highway patrol, traffic stop"
-    },
-    {
       "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
       "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "summary": "<p>Article URL: <a href=\"https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261133\">https://news.ycombinator.com/item?id=49261133</a></p>\n<p>Points: 45</p>\n<p># Comments: 35</p>",
@@ -899,39 +889,59 @@
       "ai_summary": "Масштабна реорганізація підрозділу Google DeepMind та кадрові зміни змусили технологічну індустрію засумніватися у стратегії компанії. Експерти обговорюють, чи зможе техногігант зберегти свої позиції на тлі агресивної конкуренції в галузі AI.",
       "ai_title": "Чи втрачає Google лідерство у гонці штучного інтелекту?",
       "video_keywords": "google logo, tech news, corporate office, business discussion"
+    },
+    {
+      "title": "Meta adds AI screening to detect WhatsApp scams",
+      "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "summary": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like [&#8230;]",
+      "published": "2026-08-13T16:10:06+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Meta випускає нову функцію попередження про шахрайство для месенджера WhatsApp. Система використовує машинне навчання прямо на пристрої користувача, щоб своєчасно виявляти та блокувати підозрілі повідомлення.",
+      "ai_title": "Meta запускає AI-фільтри для захисту від шахрайства у WhatsApp",
+      "video_keywords": "smartphone, texting, security, hacker alert"
+    },
+    {
+      "title": "Suno is trying to look more like a real music production tool",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
+      "published": "2026-08-13T16:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Платформа генеративного штучного інтелекту Suno представила оновлення Studio 2.0 із підтримкою MIDI. Це перетворює сервіс з простого редактора на повноцінну цифрову звукову станцію для музикантів.",
+      "ai_title": "Генератор музики Suno додали функції професійної студії",
+      "video_keywords": "recording studio, music production, synthesizer, computer screen"
+    },
+    {
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to [&#8230;]",
+      "published": "2026-08-13T15:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Аналіз створення повнометражних стрічок за допомогою штучного інтелекту показав цікаву тенденцію. Попри розвиток технологій, найяскравіші та найемоційніші моменти у таких фільмах все одно створюються людьми.",
+      "ai_title": "Штучний інтелект у кіно: чому люди залишаються найкращими",
+      "video_keywords": "film set, movie director, editing room, cinema production"
+    },
+    {
+      "title": "Text AI watermarks will always be trivial to remove",
+      "link": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "summary": "<p>Article URL: <a href=\"https://www.seangoedecke.com/text-ai-watermarks/\">https://www.seangoedecke.com/text-ai-watermarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49287153\">https://news.ycombinator.com/item?id=49287153</a></p>\n<p>Points: 16</p>\n<p># Comments: 12</p>",
+      "published": "2026-08-13T15:07:10+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти з безпеки довели, що текстові водяні знаки, які генерують штучним інтелектом, не є надійним захистом. Їх можна легко обійти або повністю видалити за допомогою мінімальних зусиль.",
+      "ai_title": "Водяні знаки для штучного інтелекту надто легко видалити",
+      "video_keywords": "typing on keyboard, code on screen, cyber security, digital data"
+    },
+    {
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "link": "https://github.com/fellowgeek/mcp-memory",
+      "summary": "<p>Article URL: <a href=\"https://github.com/fellowgeek/mcp-memory\">https://github.com/fellowgeek/mcp-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286073\">https://news.ycombinator.com/item?id=49286073</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
+      "published": "2026-08-13T13:57:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили проєкт MCP Memory, який забезпечує швидку та ефективну пам'ять для штучного інтелекту. Система поєднує технології Google OKF та базу даних SQLite для кращої роботи агентів.",
+      "ai_title": "Новий інструмент швидкої пам'яті для AI-агентів",
+      "video_keywords": "server room, data center, futuristic interface, microchip"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "2025’s most downloaded game, Block Blast!, is going ad-free on Apple Arcade",
-      "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
-      "summary": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September where it will be ad-free.",
-      "published": "2026-08-11T15:33:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Глобальний мобільний хіт Block Blast!, який став найзавантажуванішою грою, готується до релізу в Apple Arcade. У цій версії гравці зможуть насолоджуватися процесом без дратівливої реклами.",
-      "ai_title": "Найпопулярніша мобільна гра Block Blast! з'явиться в Apple Arcade без реклами",
-      "video_keywords": "mobile gaming, smartphone screen, person playing game, app store"
-    },
-    {
-      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-      "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-      "published": "2026-08-11T15:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Генеральний директор Rivian Рје Скарінж розкриє амбітну стратегію компанії на найближчі роки. Він пояснить, чому інвестиції в робототехніку та автопілот є ключем до майбутнього бренду.",
-      "ai_title": "Голова Rivian робить ставку на електромобілі, роботів та автономні системи",
-      "video_keywords": "electric vehicle, robotics factory, autonomous car, futuristic technology"
-    },
-    {
-      "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
-      "link": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
-      "summary": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
-      "published": "2026-08-11T15:23:58+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Сервіс відстеження польотів FlightAware звинувачує платформу Kalshi у незаконному використанні даних та бренду. Претензія стосується запуску фінансових ставок на затримки та скасування авіарейсів без дозволу.",
-      "ai_title": "FlightAware подає до суду на платформу прогнозів Kalshi через ставки на скасування рейсів",
-      "video_keywords": "computer screen, stock market charts, data analysis, airplane tracking"
-    },
     {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
       "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
@@ -971,16 +981,6 @@
       "ai_summary": "Новий проєкт River AI, створений співзасновником xAI Ігорем Бабушкіним, вразив інвесторів своїм баченням персональних штучних інтелектів. Раунд очолив відомий фонд General Catalyst.",
       "ai_title": "Стартап River AI залучив 1,1 мільярда доларів США у першому ж раунді фінансування",
       "video_keywords": "artificial intelligence, server room, glowing data streams, programmers working on computers"
-    },
-    {
-      "title": "Delta investigating after someone set up fake Wi-Fi network mid-flight",
-      "link": "https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/",
-      "summary": "The Delta flight crew switched off the aircraft's legitimate Wi-Fi network for around 30 minutes due to the incident, according to a spokesperson.",
-      "published": "2026-08-11T15:40:46+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Невідомі створили фальшиву мережу Wi-Fi прямо на борту літака. Через це екіпажу довелося вимкнути легітимний інтернет на пів години для з'ясування обставин.",
-      "ai_title": "Авіакомпанія Delta розслідує інцидент із підробленою Wi-Fi мережею під час польоту",
-      "video_keywords": "airplane interior, passenger using smartphone, flight attendant, airplane wing in flight"
     },
     {
       "title": "Google’s Gemini app surges to one billion users",
@@ -1471,6 +1471,36 @@
       "ai_summary": "Новий урядовий наказ скасовує десятиліття обмежень, які забороняли бізнесу проводити контрнаступальні кібероперації. Тепер приватні фірми зможуть легально відповідати хакерам.",
       "ai_title": "США вперше дозволять приватним компаніям здійснювати кібератаки",
       "video_keywords": "hacker typing, computer screen, dark room, cyber security code"
+    },
+    {
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "summary": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
+      "published": "2026-08-13T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія X оприлюднила вихідний код стрічки «Для вас» та додала інструменти прозорості. Тепер користувачі можуть бачити, чи потрапили їхні облікові записи або дописи під обмеження видимості.",
+      "ai_title": "Соцмережа X відкрила код алгоритму рекомендацій",
+      "video_keywords": "smartphone screen, social media feed, scrolling, code lines"
+    },
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "published": "2026-08-13T15:30:52+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Microsoft об'єднує споживчі та бізнес-версії Copilot в єдиний додаток для зручності користувачів. Водночас компанія відмовляється від деяких експериментальних AI-інструментів, зокрема автоматичних подкастів та групових чатів.",
+      "ai_title": "Microsoft спрощує додаток Copilot та закриває невдалі функції",
+      "video_keywords": "computer monitor, software interface, typing keyboard, office worker"
+    },
+    {
+      "title": "Who really needs a cocktail robot?",
+      "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+      "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
+      "published": "2026-08-13T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Пристрої від Bartesian працюють за принципом кавоварок Nespresso, але призначені для приготування алкогольних коктейлів у домашніх умовах. Вони викликають чималий інтерес на ринку побутових ґаджетів завдяки простоті використання.",
+      "ai_title": "Домашні коктейльні робот-машини: новий тренд чи іграшка?",
+      "video_keywords": "bartender mixing drink, cocktail glass, modern kitchen, pouring liquid"
     }
   ],
   "Крипта": [
@@ -2333,6 +2363,36 @@
       "ai_summary": "Експерти вказують на значний розрив між високим попитом інвесторів на цифрові активи та готовністю традиційних фінансових радників надавати такі консультації. Багато професіоналів досі уникають теми криптовалют через регуляторні ризики та браку знань.",
       "ai_title": "Фінансові радники масово ігнорують інтерес клієнтів до криптовалюти",
       "video_keywords": "financial advisor consulting client, pointing at laptop screen, office desk meeting"
+    },
+    {
+      "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+      "link": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-miners-as-energy-buyers-ai.jpg\" /></p><p>AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of mine",
+      "published": "2026-08-13T16:00:23+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Публічні компанії з майнінгу біткоїна скоротили свій загальний хешрейт на 13.4%. Це сталося тому, що оператори перепрофілюють свої потужності та дата-центри для забезпечення інфраструктури штучного інтелекту заради більших прибутків.",
+      "ai_title": "Майнери біткоїна масово переходять на штучний інтелект",
+      "video_keywords": "server racks, data center, computer servers, blinking lights"
+    },
+    {
+      "title": "Trezor reports data from 14K users exposed through shipping provider",
+      "link": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor reports data from 14K users exposed through shipping provider\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-wallet-info-sold-online-ledger-trezor.jpg\" /></p><p>The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that ",
+      "published": "2026-08-13T15:25:14+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Виробник криптогаманців Trezor повідомив про компрометацію даних 14 тисяч користувачів через стороннього постачальника доставки. Компанія попереджає клієнтів про підвищений ризик фішингових атак та закликає до максимальної пильності.",
+      "ai_title": "Витік даних: Trezor попередив про загрозу для 14 тисяч користувачів",
+      "video_keywords": "person typing on laptop, hacker screen, security breach, phishing warning"
+    },
+    {
+      "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
+      "link": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-budget-research-crypto-currency-traders-in-japan.jpg\" /></p><p>Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen ov",
+      "published": "2026-08-13T15:07:38+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс біткоїна демонструє помірне зростання разом із американським фондовим ринком. Це відбувається через нові дані щодо інфляції в США, які вказують на її поступове охолодження та підтримують оптимізм трейдерів.",
+      "ai_title": "Біткоїн тримається біля позначки $64 000 на тлі новин про інфляцію",
+      "video_keywords": "stock market chart, financial graphs, crypto trading screen, digital currency"
     }
   ]
 }
