@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-      "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
-      "summary": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more affordable iPhone 18e and a new iPhone Air [&#8230;]",
-      "published": "2026-08-12T19:27:47+00:00",
-      "source": "The Verge",
-      "ai_summary": "Згідно з останніми звітами постачальників Apple, базовий iPhone 18 може вийти не восени, а на початку наступного року. Водночас вихід лінійки iPhone 18 Pro очікується у традиційний осінній період.",
-      "ai_title": "Apple може змінити графік виходу нових iPhone",
-      "video_keywords": "smartphone factory, manufacturing line, mobile phone assembly"
-    },
-    {
       "title": "Breaking the WAL",
       "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
       "summary": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/wal-reset-bug/\">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277799\">https://news.ycombinator.com/item?id=49277799</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
@@ -19,26 +9,6 @@
       "ai_summary": "Експерти виявили серйозний бага у механізмі скидання Write-Ahead Log, який може призвести до непередбачуваної поведінки баз даних. Помилка вимагає термінового оновлення та перегляду архітектури безпеки для багатьох сучасних систем зберігання даних. Розробники радять уважно стежити за патчами та тестувати свої сервіси.",
       "ai_title": "Критичний вразливий момент у системі логування WAL",
       "video_keywords": "server rack, flashing lights, data center, computer code"
-    },
-    {
-      "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
-      "link": "https://cynative.com/blog/agent-trust-boundaries/",
-      "summary": "<p>Article URL: <a href=\"https://cynative.com/blog/agent-trust-boundaries/\">https://cynative.com/blog/agent-trust-boundaries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277437\">https://news.ycombinator.com/item?id=49277437</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-12T19:29:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники пропонують нові підходи до ізоляції штучного інтелекту, щоб автономні агенти не могли вийти за межі дозволених системних ресурсів. Це критично важливо для запобігання несанкціонованому доступу до конфіденційних даних корпоративних мереж. Стаття розглядає архітектурні межі та методи захисту від маніпуляцій з боку користувачів.",
-      "ai_title": "Як створити безпечних AI-агентів у межах довіри",
-      "video_keywords": "cyber security, lock icon, digital shield, computer screen"
-    },
-    {
-      "title": "The next big indie game publisher is taking some exciting swings",
-      "link": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
-      "summary": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's publishing the next game from Telling Lies and [&#8230;]",
-      "published": "2026-08-12T19:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Команда розробників хорору Phasmophobia запустила власне видавництво Kinetic Publishing та провела першу презентацію. Компанія планує випустити п'ять масштабних ігор до 2028 року, зокрема новий проєкт від авторів Telling Lies. Це значне поповнення на ринку незалежних ігрових студій.",
-      "ai_title": "Новий інді-видавець анонсував амбітні ігри",
-      "video_keywords": "video game controller, neon lights, gaming setup, person playing"
     },
     {
       "title": "Cats and dogs are missing meals after a popular smart feeder went down",
@@ -859,29 +829,19 @@
       "ai_summary": "Компанія Instagram раптово змінила свій класичний текстовий логотип (wordmark) на новий дизайн. Зміни настільки кардинальні, що напис тепер важко впізнати, і користувачі намагаються зрозуміти причину такого ребрендингу.",
       "ai_title": "Instagram оновив свій культовий логотип і шрифт",
       "video_keywords": "mobile phone, social media app, scrolling feed, graphic design"
+    },
+    {
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "link": "https://github.com/lajosdeme/mole",
+      "summary": "<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy bound",
+      "published": "2026-08-14T18:52:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий інструмент для глибоких досліджень через термінал, який вирішує проблеми високих витрат та неточних джерел традиційних ШІ-агентів. Програма працює з суворим контролем бюджету, перевіряє цитати та забезпечує повну конфіденційність локальних даних.",
+      "ai_title": "Новий AI-агент Mole для глибоких досліджень у терміналі",
+      "video_keywords": "terminal, coding, developer, computer screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-      "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-      "summary": "<p>Visa&#x27;s president of technology, Rajat Taneja, walked the <a href=\"https://venturebeat.com/vbtransform2026\">VB Transform 2026</a> audience through <a href=\"https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible\">aiming Anthropic&#x27;s Mythos at Visa&#x27;s own payment network</a>. The model stitched ",
-      "published": "2026-08-12T18:44:50+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Під час конференції VB Transform експерти обговорили впровадження штучного інтелекту у платіжні системи. Виявилося, що чотири з п'яти підприємств нездатні зупинити автономного агента, який вийшов з-під контролю.",
-      "ai_title": "Більшість компаній досі не можуть контролювати автономних AI-агентів у разі збою",
-      "video_keywords": "futuristic interface, digital security, analytics dashboard, cyber attack"
-    },
-    {
-      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
-      "link": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-      "summary": "Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.",
-      "published": "2026-08-12T18:34:21+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Grubhub почала розсилати чеки на компенсації користувачам та водіям після врегулювання претензій Федеральної торгової комісії США. Штраф у розмірі майже 24 мільйони доларів був накладений через оманливу практику ведення бізнесу та приховані комісії. Тепер постраждалі клієнти та кур'єри отримують свої законні виплати поштою.",
-      "ai_title": "Grubhub виплачує мільйонні компенсації клієнтам та кур'єрам через штраф FTC",
-      "video_keywords": "delivery person, check, mailbox, money refund"
-    },
     {
       "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
       "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
@@ -1228,29 +1188,19 @@
       "ai_summary": "Meta представила модель Glimmer, яку користувачі можуть завантажити та запустити на власному обладнанні. Цей крок супроводжувався заявою Цукерберга про те, що технології ШІ мають бути доступними для всіх, а не контролюватися лише кількома компаніями.",
       "ai_title": "Марк Цукерберг випустив нову відкриту модель штучного інтелекту",
       "video_keywords": "person working on laptop, server room, code on screen, office desk"
+    },
+    {
+      "title": "Read-it-later app Pocket shut down down — here are the best alternatives",
+      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+      "published": "2026-08-14T18:58:15+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Користувачі додатку Pocket мають час до 8 жовтня 2025 року, щоб експортувати всі свої збережені статті, нотатки та архіви. Сервіс припиняє свою роботу, тому розробники радять завчасно подбати про перенесення даних на інші платформи.",
+      "ai_title": "Популярний сервіс збереження статей Pocket закривається",
+      "video_keywords": "smartphone screen, digital tablet, reading app, user scrolling"
     }
   ],
   "Крипта": [
-    {
-      "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
-      "link": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken adds S&amp;P 500 to funded trading program, commodities to follow\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sp-500-can-be-confusing-bitcoin.png\" /></p><p>Kraken’s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset of",
-      "published": "2026-08-12T18:55:56+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна біржа Kraken розширює можливості своєї платформи, додаючи цілодобовий доступ до американського фондового індексу S&P 500. У майбутньому компанія планує додати до списку доступних активів також і сировинні товари.",
-      "ai_title": "Біржа Kraken додала індекс S&P 500 до своєї торгової програми",
-      "video_keywords": "stock market chart, digital trading screen, financial graphs, stock exchange"
-    },
-    {
-      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
-      "link": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Goldman Sachs to acquire ETF manager NEOS in $2.25B deal \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.png\" /></p><p>The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.\n</p>",
-      "published": "2026-08-12T20:37:55+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Інвестиційний гігант Goldman Sachs досяг угоди про придбання компанії NEOS. Цей крок додасть до активів банку біткоїн- та ефіріум-фонди на $30 мільярдів.",
-      "ai_title": "Goldman Sachs купує керуючого ETF-фондами NEOS за $2,25 млрд",
-      "video_keywords": "financial skyscraper, stock exchange trading floor, businessman handshake"
-    },
     {
       "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
       "link": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2001,6 +1951,26 @@
       "ai_summary": "Рішення Комісії з цінних паперів і бірж США відкласти розгляд нових криптоініціатив створило серйозні перешкоди для інтеграції цифрових активів у традиційну фінансову систему Волл-стріт. Це спричинило тимчасовий спад інтересу інвесторів та корекцію курсів пов'язаних акцій.",
       "ai_title": "Акції токенізованих активів падають через затримки від SEC",
       "video_keywords": "stock market chart, digital graphs, financial district, trading floor"
+    },
+    {
+      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+      "link": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dartmouth endowment’s crypto exposure drops by $2M amid falling prices\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg\" /></p><p>The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin",
+      "published": "2026-08-14T18:57:04+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Через падіння цін на ринку вартість криптовалютних інвестицій престижного університету зменшилася. Портфель фонду включає спеціалізовані біржові фонди на базі Solana, Ethereum та Bitcoin.",
+      "ai_title": "Криптоактиви фонду Дартмутського університету скоротилися на $2 мільйони",
+      "video_keywords": "university campus, stock chart falling, digital coins, financial graphs"
+    },
+    {
+      "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
+      "link": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward revenue rises 17% as trading volume falls in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-5-ways-to-make-money-with-cryptocurrency-ai.png\" /></p><p>Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of reve",
+      "published": "2026-08-14T18:44:21+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Payward збільшила свої доходи у другому кварталі завдяки значному приросту нових активних акаунтів. Це допомогло компенсувати загальне зниження активності на спотовому ринку криптовалют.",
+      "ai_title": "Виторг материнської компанії Kraken зріс попри падіння обсягів торгів",
+      "video_keywords": "cryptocurrency exchange, trading terminal, office workers, financial charts"
     }
   ]
 }
