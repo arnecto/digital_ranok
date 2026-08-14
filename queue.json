@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "<p>Article URL: <a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273478\">https://news.ycombinator.com/item?id=49273478</a></p>\n<p>Points: 73</p>\n<p># Comments: 18</p>",
-      "published": "2026-08-12T15:01:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили нову масштабну штучну модель Qwen3.8-2.4T-A95B на платформі Hugging Face. Вона демонструє вражаючі технічні характеристики та розширює можливості сучасного відкритому ШІ. Це рішення привертає увагу дослідників своєю продуктивністю та архітектурою.",
-      "ai_title": "Реліз потужної мовної моделі Qwen",
-      "video_keywords": "server room, artificial intelligence, computer screen, coding"
-    },
-    {
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plugins like Autotune introducing [&#8230;]",
@@ -29,26 +19,6 @@
       "ai_summary": "Розробники без зайвого галасу випустили оновлену версію мовної моделі DeepSeek V4 Pro 0813. Новинка вже доступна через API та спеціалізовані платформи для розробників штучного інтелекту.",
       "ai_title": "Неочікуваний реліз нової моделі DeepSeek V4 Pro",
       "video_keywords": "artificial intelligence, server room, coding on screen, digital interface"
-    },
-    {
-      "title": "Google launches Pixel 11 Pro Fold",
-      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/\">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273330\">https://news.ycombinator.com/item?id=49273330</a></p>\n<p>Points: 39</p>\n<p># Comments: 34</p>",
-      "published": "2026-08-12T14:52:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Google офіційно презентувала новий гнучкий смартфон Pixel 11 Pro Fold. Пристрій отримав покращені характеристики, оновлений дизайн та глибоку інтеграцію з фірмовими функціями штучного інтелекту.",
-      "ai_title": "Google анонсувала складаний смартфон Pixel 11 Pro Fold",
-      "video_keywords": "folding smartphone, modern phone, tech gadget, person holding device"
-    },
-    {
-      "title": "Hax – a minimalist, terminal-native coding agent written in C",
-      "link": "https://usehax.dev/",
-      "summary": "<p>Article URL: <a href=\"https://usehax.dev/\">https://usehax.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273175\">https://news.ycombinator.com/item?id=49273175</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
-      "published": "2026-08-12T14:43:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено новий інструмент Hax, який працює безпосередньо у терміналі та написаний мовою C. Цей компактний агент створений для того, щоб допомагати розробникам писати та оптимізувати код у зручному текстовому середовищі.",
-      "ai_title": "Hax — новий мінімалістичний агент для написання коду",
-      "video_keywords": "terminal screen, programming code, hacker typing, computer monitor"
     },
     {
       "title": "How Google’s new Pixel 11 phones compare to last year’s models",
@@ -849,6 +819,56 @@
       "ai_summary": "Нові навушники з дизайном-кліпсою пропонують комфортну альтернативу внутрішньоканальним моделям для тих, хто не любить вкладиші. Головною перевагою є гарна чутність навколишнього середовища без значної втрати якості звуку.",
       "ai_title": "Навушники-кліпси від CMF знайшли баланс між ціною та якістю",
       "video_keywords": "wireless earbuds, listening to music, person wearing headphones, modern gadget"
+    },
+    {
+      "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+      "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B-FP8\">https://huggingface.co/Qwen/Qwen3.8-27B-FP8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299605\">https://news.ycombinator.com/item?id=49299605</a></p>\n<p>Points: 36</p>\n<p># Comments: 5</p>",
+      "published": "2026-08-14T15:00:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розпочався реліз Qwen 3.8-27B — нової щільної моделі з відкритими вагами, яка демонструє вражаючі результати для локального використання. Це оновлення приваблює увагу розробників своєю ефективністю та високою продуктивністю серед відкритих рішень.",
+      "ai_title": "Вийшла нова потужна відкрита модель Qwen 3.8 27B",
+      "video_keywords": "artificial intelligence, server room, computer code, glowing screen"
+    },
+    {
+      "title": "Unsloth Qwen3.8-27B GGUF files",
+      "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "<p>Article URL: <a href=\"https://huggingface.co/unsloth/Qwen3.8-27B-GGUF\">https://huggingface.co/unsloth/Qwen3.8-27B-GGUF</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299688\">https://news.ycombinator.com/item?id=49299688</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-14T15:04:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Для нової моделі Qwen3.8-27B випустили оптимізовані файли формату GGUF від команди Unsloth. Це дозволяє ефективно запускати та квантувати модель на звичайному апаратному забезпеченні для локальних завдань.",
+      "ai_title": "Доступні файли Unsloth Qwen3.8-27B GGUF",
+      "video_keywords": "coding, software development, typing on keyboard, monitor display"
+    },
+    {
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "link": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "summary": "<p>Article URL: <a href=\"https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0\">https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299102\">https://news.ycombinator.com/item?id=49299102</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-14T14:22:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт AI Model Atlas пропонує унікальну можливість побачити популяції моделей машинного навчання у вигляді взаємопов'язаного тривимірного графа. Це інтерактивний інструмент для кращого розуміння зв'язків між сучасними AI-системами.",
+      "ai_title": "AI Model Atlas: візуалізація екосистеми штучного інтелекту у 3D",
+      "video_keywords": "3d animation, data visualization, glowing nodes, cyberspace"
+    },
+    {
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "link": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "summary": "<p>Article URL: <a href=\"https://weightythoughts.com/p/when-genius-failsthe-intellectual\">https://weightythoughts.com/p/when-genius-failsthe-intellectual</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299282\">https://news.ycombinator.com/item?id=49299282</a></p>\n<p>Points: 33</p>\n<p># Comments: 11</p>",
+      "published": "2026-08-14T14:34:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова стаття аналізує проблеми та помилки провідних дослідницьких лабораторій у сфері штучного інтелекту. Автор розглядає, як надмірна впевненість у власних силах та закритість впливають на розвиток індустрії.",
+      "ai_title": "Коли геніальність дає збій: інтелектуальна зарозумілість AI-лабораторій",
+      "video_keywords": "thoughtful person, modern office, futuristic interface, analytics"
+    },
+    {
+      "title": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+      "link": "https://apimart.ai/register?aff=yScTCM",
+      "summary": "<p>Article URL: <a href=\"https://apimart.ai/register?aff=yScTCM\">https://apimart.ai/register?aff=yScTCM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299000\">https://news.ycombinator.com/item?id=49299000</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-14T14:14:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явилася нова платформа APIMart, що пропонує агрегований доступ до API новітніх моделей зі знижками. Сервіс орієнтований на розробників, які шукають вигідні умови для інтеграції потужних інструментів.",
+      "ai_title": "APIMart: агрегатор знижок на API для передових моделей",
+      "video_keywords": "API integration, dashboard, digital neon, developer working"
     }
   ],
   "Бізнес / Стартапи": [
@@ -881,16 +901,6 @@
       "ai_summary": "Придбання компанії на чверть мільярда доларів завершилося скандалом та судовими позовами через підроблені підписи. Інвестори досі намагаються повернути свої кошти.",
       "ai_title": "Мільйонна угода VideoVerse обвалилася через звинувачення у шахрайстві",
       "video_keywords": "courtroom, businessman worried, signing documents, stressed person"
-    },
-    {
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-      "summary": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
-      "published": "2026-08-12T15:18:55+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відомий спеціалі з кібербезпеки проігнорував погрози юридичною відповідальністю від технологічного гіганта. Він оприлюднив інформацію про небезпечний нульовий день у системі Windows.",
-      "ai_title": "Дослідник безпеки опублікував нову вразливість Windows попри погрози Microsoft",
-      "video_keywords": "hacker typing, computer screen code, cybersecurity, server room"
     },
     {
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
@@ -931,16 +941,6 @@
       "ai_summary": "Компанія Form Energy зібрала значний капітал для розширення виробництва своїх інноваційних 100-годинних батарей для енергомереж. Серед ключових клієнтів стартапу вже є такі техногіганти, як Google.",
       "ai_title": "Виробник акумуляторів Form Energy залучив $750 мільйонів інвестицій",
       "video_keywords": "large industrial battery, energy storage, power station, electrical grid"
-    },
-    {
-      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
-      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
-      "summary": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
-      "published": "2026-08-12T15:02:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартував другий сезон конкурсу Road to Battlefield, мета якого — надати перспективним підприємцям із Центральної Євразії прямий вихід на міжнародну арену Startup Battlefield. Проєкт допомагає засновникам стартапів залучити глобальні інвестиції.",
-      "ai_title": "Silkroad Innovation Hub проводить конкурс для стартапів Центральної Євразії",
-      "video_keywords": "startup pitch, business presentation, audience clapping, tech conference"
     },
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -1308,19 +1308,29 @@
       "ai_summary": "Зростання цін на природний газ у США може призвести до колосальних витрат для великих технологічних компаній, які переходять на це паливо для живлення своїх AI-центрів обробки даних. Нові прогнози свідчать про ризик потроєння тарифів у деяких регіонах, що ставить під загрозу економічну ефективність таких інвестицій.",
       "ai_title": "Ціни на газ можуть вдарити по енергопостачанні дата-центрів штучного інтелекту",
       "video_keywords": "data center, server room, natural gas pipeline, industrial plant"
+    },
+    {
+      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "summary": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+      "published": "2026-08-14T14:54:48+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Apple звернулася до федерального судді з проханням дозволити стягувати комісію у розмірі до 15% на покупки, зроблені через зовнішні посилання в iOS-додатках. Це нововведення може суттєво змінити правила монетизації для розробників програм у США.",
+      "ai_title": "Apple хоче брати 15% комісії за покупки поза App Store",
+      "video_keywords": "smartphone screen, credit card payment, app store, digital transaction"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "published": "2026-08-14T14:50:11+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Французький стартап Kog доводить, що думка про непристосованість графічних процесорів для агентних робочих процесів є помилкою. Компанія знаходить нові способи вичавити максимум продуктивності з GPU для завдань штучного інтелекту.",
+      "ai_title": "Французький стартап Kog оптимізує роботу GPU для штучного інтелекту",
+      "video_keywords": "server room, computer processor, microchip, glowing hardware"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
-      "link": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/us-inflation-2.jpg\" /></p><p>Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as suppor",
-      "published": "2026-08-12T15:00:10+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Сповільнення темпів інфляції в США дещо знизило економічну напругу, проте ринок залишається обережним. Трейдери пильно стежать за рівнем підтримки у 63 000 доларів, від якого залежатиме подальший короткостроковий тренд першої криптовалюти.",
-      "ai_title": "Біткоїн націлився на позначку $63 000 на тлі новин про інфляцію в США",
-      "video_keywords": "bitcoin chart, financial graph, digital currency, stock market screen"
-    },
     {
       "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
       "link": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
@@ -2111,6 +2121,16 @@
       "ai_summary": "Криптовалютна біржа Binance оголосила про припинення обробки транзакцій, пов'язаних із 11 різними платформами, включаючи HTX. Це рішення ухвалене на тлі посилення регуляторних вимог та перевірок в Європейському Союзі.",
       "ai_title": "Binance обмежить транзакції з біржами HTX та ще десятком платформ",
       "video_keywords": "computer screen, hacker code, digital security, warning sign"
+    },
+    {
+      "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bungee-jumping-bitcoin-2.jpg\" /></p><p>Bitcoin falls further toward new August lows, ignoring positive US inflation trends while US stocks continue to circle all-tim",
+      "published": "2026-08-14T14:38:27+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Вартість першої криптовалюти продовжує знижуватися до нових серпневих мінімумів. Трейдери застерігають, що невдале закриття тижня може спровокувати ще більше падіння попри позитивні дані щодо інфляції в США.",
+      "ai_title": "Ціна Біткоїна впала до 62 500 доларів на тлі попереджень про подальші втрати",
+      "video_keywords": "bitcoin chart, downward graph, crypto trading screen, financial red candles"
     }
   ]
 }
