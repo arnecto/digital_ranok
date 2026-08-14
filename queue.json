@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Nik Bler founded defense startup Pyra and is seeking $200M in investment",
-      "link": "https://en.ain.ua/2026/08/12/nik-bler-founded-defense-startup-pyra/",
-      "summary": "The company of the British former prime minister's son is developing technology to integrate different defense systems.",
-      "published": "2026-08-12T07:25:00+00:00",
-      "source": "",
-      "ai_summary": "Британський підприємец Нік Блер заснував оборонний стартап Pyra, який розробляє технології для інтеграції різних військових систем. Наразі компанія залучає 200 мільйонів доларів інвестицій для розвитку своїх проєктів.",
-      "ai_title": "Син колишнього прем'єра Британії заснував оборонний стартап",
-      "video_keywords": "defense technology, military radar, computer screens, command center"
-    },
-    {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "link": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn0nww2qlp7o\">https://www.bbc.com/news/articles/cn0nww2qlp7o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49268697\">https://news.ycombinator.com/item?id=49268697</a></p>\n<p>Points: 23</p>\n<p># Comments: 22</p>",
-      "published": "2026-08-12T06:53:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автономний штучний інтелект самостійно знайшов вразливість у системі бронювання фітнес-клубу та забронював місце для свого користувача. Цей випадок демонструє як нові можливості ШІ, так і потенційні ризики його неконтрольованої поведінки.",
-      "ai_title": "ШІ-агент зламав систему спортзалу заради тренування з пілатесу",
-      "video_keywords": "smartphone screen, hacker typing, gym equipment, pilates class"
-    },
-    {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "link": "https://woxi.ad-si.com",
-      "summary": "<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript / Mathematica, the main differences are:<p>- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds ",
-      "published": "2026-08-12T10:06:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили Woxi, швидку безплатну альтернативу Mathematica із відкритим кодом. Проєкт включає графічний інтерфейс Woxi Studio, а також підтримку Python, npm та Jupyter для зручності програмістів.",
-      "ai_title": "Woxi — відкритий інтерпретатор мови Wolfram, написаний на Rust",
-      "video_keywords": "programmer typing code, computer screen, software development"
-    },
-    {
       "title": "Facebook is paying controversial creators to produce rage-bait content",
       "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
       "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696\">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269818\">https://news.ycombinator.com/item?id=49269818</a></p>\n<p>Points: 57</p>\n<p># Comments",
@@ -39,16 +9,6 @@
       "ai_summary": "З'ясувалося, що соціальна мережа фінансово заохочує створення провокативних матеріалів, які викликають сильну емоційну реакцію та гнів у користувачів. Така стратегія спрямована на підвищення залученості аудиторії, попри етичні ризики.",
       "ai_title": "Facebook платить контроверсійним авторам за токсичний контент",
       "video_keywords": "person scrolling smartphone, angry expression, social media feed"
-    },
-    {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "link": "https://discoveredmaterials.com/research/",
-      "summary": "<p>Hey HN, we're Advaith and Akash from Discovered Materials ( <a href=\"https://discoveredmaterials.com/\">https://discoveredmaterials.com/</a> ).  We build AI agents that discover new materials for the semiconductor industry.<p>GPUs today have a heat problem. Nvidia & AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Bla",
-      "published": "2026-08-12T07:51:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стартап Discovered Materials розробляє ШT-агентів для розв'язання проблеми перегріву сучасних чипів. Технологія допомагає створювати інноваційні матеріали, щоб знизити енергоспоживання потужних графічних процесорів.",
-      "ai_title": "Штучний інтелект шукає нові матеріали для напівпровідників",
-      "video_keywords": "microchip manufacturing, laboratory microscope, glowing circuit board"
     },
     {
       "title": "Spotify will mark AI performers with special badges. Such music will not appear in recommendations",
@@ -959,49 +919,19 @@
       "ai_summary": "З'явилася нова мовна модель GLM-5.3, яка демонструє просунуті можливості в написанні коду та кібербезпеці. Розробники заявляють про нові емергентні здібності системи, що виводять автоматизоване програмування на якісно новий рівень.",
       "ai_title": "Вийшла нова нейромережа GLM-5.3 для розробки програмного забезпечення",
       "video_keywords": "programmer typing, code on monitor, hacker screen, futuristic interface"
+    },
+    {
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "summary": "<p>Article URL: <a href=\"https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295238\">https://news.ycombinator.com/item?id=49295238</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-14T06:09:04+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти з безпеки виявили критичний ланцюжок вразливостей десеріалізації в Ruby 4.0, який потенційно може призвести до віддаленого виконання коду. Це ставить під загрозу вебдодатки та сервери, що використовують вразливі компоненти цієї версії мови програмування. Розробникам рекомендується уважно стежити за оновленнями безпеки та патчами.",
+      "ai_title": "Уразливість RCE у Ruby 4.0: нова ланцюгова вразливість десеріалізації",
+      "video_keywords": "cybersecurity, hacker coding, computer screen, binary code"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
-      "link": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
-      "summary": "<p>Across 116 enterprises, agents are in production and so are the incidents: A majority have already had a confirmed agent security event or a near-miss. Two-thirds of enterprises enforce scoped permissions at runtime. Barely one in five isolates its highest-risk agents, making containment the weakest layer in the stack precisely as autonomy scales. Credential sharing persists across nearly two-t",
-      "published": "2026-08-12T07:30:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Більшість підприємств стикалися з інцидентами безпеки через ШІ-агентів, проте лише меншість ізолює найнебезпечніші системи. З ростом автономії слабкий захист облікових даних та обмежень стає серйозною вразливістю.",
-      "ai_title": "Більшість компаній впроваджують автономні ШІ-агенти попри проблеми з безпекою",
-      "video_keywords": "cyber security, hacker typing, digital lock, warning screen"
-    },
-    {
-      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
-      "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
-      "summary": "<p>Across 108 enterprises, trust in automated agent evaluation rose sharply in July — and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that evaluations don’t match real-world outcomes fell 10 points. Yet the same share as last month — just under half — shipp",
-      "published": "2026-08-12T07:30:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Попри випадки збоїв, кількість компаній, які повністю довіряють автоматизованому тестуванню ШІ-агентів, стрімко зростає. Багато організацій вирішують повністю виключити людину з процесу перевірки.",
-      "ai_title": "Довіра до автоматичної оцінки ШІ зростає попри помилки",
-      "video_keywords": "dashboard analytics, graphs on screen, businessman pointing, office meeting"
-    },
-    {
-      "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
-      "link": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent",
-      "summary": "<p>Across 101 enterprises, the context feeding AI agents is failing often and repeatedly. Sixty-eight percent have traced a confident but wrong agent answer to missing or inconsistent business context in the past six months, and the single most common answer is not &quot;once&quot; but &quot;more than once.&quot; The counterintuitive part is which companies report it. Enterprises building or runni",
-      "published": "2026-08-12T07:30:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Більшість компаній регулярно стикаються з непевними або хибними відповідями ШІ через нестачу бізнес-контексту. Ті підприємства, які ретельно управляють своїми даними, значно ефективніше виявляють помилки.",
-      "ai_title": "Якість даних є ключем до правильних відповідей штучного інтелекту",
-      "video_keywords": "data streams, typing on keyboard, analytics graphs, modern office"
-    },
-    {
-      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
-      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
-      "summary": "<p>Across 107 enterprises, agentic orchestration is not a choice of a single platform.</p><p>The typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthropic leads forward consideration by a wide margin. </p><p>The AI control plane enterprises expect is deliberatel",
-      "published": "2026-08-12T07:30:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Типовий бізнес одночасно застосовує кілька платформ для оркестрації ШІ-агентів задля гнучкості. При цьому управління витратами та створення єдиного центру контролю досі залишаються складним викликом.",
-      "ai_title": "Великі компанії використовують одразу кілька платформ для управління ШІ",
-      "video_keywords": "multi monitors, software code, tech startup, teamwork"
-    },
     {
       "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
       "link": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
@@ -1524,16 +1454,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-      "link": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Inside the fake crypto startup that fooled North Korean IT workers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.jpg\" /></p><p>Suspected North Koreans IT workers joined a fake crypto startup — without realizing their every mo",
-      "published": "2026-08-12T07:34:58+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Кібербезпекові дослідники створили підставну криптокомпанію, яка змогла заманити та обдурити IT-працівників з Північної Кореї. У межах спецоперації організатори контролювали кожен крок нібито досвідчених розробників.",
-      "ai_title": "Як фейковий криптостартап перехитрив північнокорейських IT-фахівців",
-      "video_keywords": "hacker typing on laptop, dark room neon lights, cyber security concept, computer screen code"
-    },
     {
       "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
       "link": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
@@ -2354,6 +2274,16 @@
       "ai_summary": "Компанії MicroStrategy та Metaplanet можуть опинитися поза індексами MSCI через нові пропозиції регуляторника. Це нововведення може суттєво вплинути на інституційний капітал, який заходить у ці корпорації через фондові ринки. Зміни викликають занепокоєння серед криптоінвесторів, які використовують публічні компанії як проксі для біткоїна.",
       "ai_title": "Стратегії біткоїн-інвестицій під загрозою: MSCI пропонує виключити криптокомпанії з індексів",
       "video_keywords": "stock market chart, digital tablet finance, cryptocurrency trading screen, decreasing graph"
+    },
+    {
+      "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+      "link": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
+      "summary": "",
+      "published": "2026-08-14T07:14:37+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта зіткнулася з низкою негативних факторів, що стримують її зростання. Водночас токен XRP тримається на критичному психологічному рівні в один долар.",
+      "ai_title": "Біткоїн під тиском ринку, а XRP балансує біля позначки в один долар",
+      "video_keywords": "bitcoin chart, cryptocurrency trading, stock market crash, digital coins"
     }
   ]
 }
