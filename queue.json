@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Breaking the WAL",
-      "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
-      "summary": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/wal-reset-bug/\">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277799\">https://news.ycombinator.com/item?id=49277799</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
-      "published": "2026-08-12T20:00:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти виявили серйозний бага у механізмі скидання Write-Ahead Log, який може призвести до непередбачуваної поведінки баз даних. Помилка вимагає термінового оновлення та перегляду архітектури безпеки для багатьох сучасних систем зберігання даних. Розробники радять уважно стежити за патчами та тестувати свої сервіси.",
-      "ai_title": "Критичний вразливий момент у системі логування WAL",
-      "video_keywords": "server rack, flashing lights, data center, computer code"
-    },
-    {
       "title": "Cats and dogs are missing meals after a popular smart feeder went down",
       "link": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
       "summary": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that \"existing settings and schedules stored locally on your device will [&#8230;]",
@@ -839,6 +829,46 @@
       "ai_summary": "Розроблено новий інструмент для глибоких досліджень через термінал, який вирішує проблеми високих витрат та неточних джерел традиційних ШІ-агентів. Програма працює з суворим контролем бюджету, перевіряє цитати та забезпечує повну конфіденційність локальних даних.",
       "ai_title": "Новий AI-агент Mole для глибоких досліджень у терміналі",
       "video_keywords": "terminal, coding, developer, computer screen"
+    },
+    {
+      "title": "How Claude's text watermarking works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-text-watermark\">https://www.anthropic.com/news/claude-text-watermark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303350\">https://news.ycombinator.com/item?id=49303350</a></p>\n<p>Points: 15</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-14T19:15:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic розкрила технічні деталі впровадження водяних знаків у текстові моделі Claude. Цей інструмент допомагає надійно виявляти контент, згенерований штучним інтелектом, та боротися з поширенням дезінформації.",
+      "ai_title": "Як працює водяні знаки для тексту в Claude",
+      "video_keywords": "typing, keyboard, computer screen, digital matrix"
+    },
+    {
+      "title": "Samsung has new Galaxy headphones in the works",
+      "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+      "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make these the company's first pair of over-ear headphones [&#8230;]",
+      "published": "2026-08-14T19:18:45+00:00",
+      "source": "The Verge",
+      "ai_summary": "У коді застосунку Samsung Galaxy Wearable виявили згадки про майбутні навушники з кодовою назвою Galaxy H1. Вони мають стати прямими конкурентами для популярних AirPods Max і з'явитися на ринку у 2027 році.",
+      "ai_title": "Samsung готує до виходу нові навушники повнорозмірного типу",
+      "video_keywords": "headphones, over-ear, unboxing, person wearing headphones"
+    },
+    {
+      "title": "A RAMageddon guide to back-to-school laptop shopping",
+      "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? [&#8230;]",
+      "published": "2026-08-14T18:32:47+00:00",
+      "source": "The Verge",
+      "ai_summary": "Через глобальну кризу з виробництвом оперативної пам'яті та накопичувачів ціни на комп'ютерну техніку помітно зросли. Експерти радять ретельно зважувати характеристики бюджетних моделей під час вибору лептопа для студентів.",
+      "ai_title": "Як обрати ноутбук для навчання в умовах дефіциту пам'яті",
+      "video_keywords": "laptop, student studying, shopping, computer store"
+    },
+    {
+      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
+      "link": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+      "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker's tagline for the new Revuelto SV: [&#8230;]",
+      "published": "2026-08-14T18:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Італійський виробник представив нову модифікацію свого гіперкара Revuelto із пакетом SV. Автомобіль створений за концепцією повного занурення водія в процес керування, пропонуючи максимум емоцій на треку.",
+      "ai_title": "Флагманський суперкар Lamborghini Revuelto отримав нову версію SV",
+      "video_keywords": "supercar, luxury car, driving fast, racetrack"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1198,6 +1228,16 @@
       "ai_summary": "Користувачі додатку Pocket мають час до 8 жовтня 2025 року, щоб експортувати всі свої збережені статті, нотатки та архіви. Сервіс припиняє свою роботу, тому розробники радять завчасно подбати про перенесення даних на інші платформи.",
       "ai_title": "Популярний сервіс збереження статей Pocket закривається",
       "video_keywords": "smartphone screen, digital tablet, reading app, user scrolling"
+    },
+    {
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "summary": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "published": "2026-08-14T19:33:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Засновник Thrive Capital Джошуа Кушнер у своєму першому інвестиційному листі наголосив, що попри величезні перспективи штучного інтелекту, венчурним фондам не варто втрачати фінансову дисципліну на тлі загальної ейфорії. Він закликав інвесторів ретельніше зважувати ризики.",
+      "ai_title": "Джошуа Кушнер застеріг Кремнієву долину від втрати дисципліни через штучний інтелект",
+      "video_keywords": "business meeting, office handshake, modern boardroom, financial charts"
     }
   ],
   "Крипта": [
