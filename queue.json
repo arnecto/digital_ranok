@@ -21,16 +21,6 @@
       "video_keywords": "smartphone screen, hacker typing, gym equipment, pilates class"
     },
     {
-      "title": "LinkedIn CringeBot 3000",
-      "link": "https://www.cringebot3000.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.cringebot3000.com/\">https://www.cringebot3000.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49268564\">https://news.ycombinator.com/item?id=49268564</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-12T06:30:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У мережі запустили жартівливий проект LinkedIn CringeBot 3000, який пародіює типові надмірно пафосні та показові дописи у професійній мережі LinkedIn. Інструмент висміює сучасну культуру корпоративного самопіару за допомогою генеративного ШІ.",
-      "ai_title": "З'явився інструмент LinkedIn CringeBot 3000 для генерації «токсичного» контенту",
-      "video_keywords": "person typing on laptop, office worker, social media feed, smiling at screen"
-    },
-    {
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "link": "https://woxi.ad-si.com",
       "summary": "<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript / Mathematica, the main differences are:<p>- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds ",
@@ -959,6 +949,16 @@
       "ai_summary": "Президент США вводить загороджувальні мита на всі іноземні деталі літаків та безпілотники. Це рішення суттєво підвищить вартість імпортної техніки на американському ринку та посилить тиск на технологічні компанії.",
       "ai_title": "Трамп оголосив про 100-відсоткові мита на імпорт дронів та авіазапчастин",
       "video_keywords": "drone flying, airplane parts, shipping container, warehouse"
+    },
+    {
+      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "link": "https://z.ai/blog/glm-5.3",
+      "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.3\">https://z.ai/blog/glm-5.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49294997\">https://news.ycombinator.com/item?id=49294997</a></p>\n<p>Points: 180</p>\n<p># Comments: 63</p>",
+      "published": "2026-08-14T05:19:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явилася нова мовна модель GLM-5.3, яка демонструє просунуті можливості в написанні коду та кібербезпеці. Розробники заявляють про нові емергентні здібності системи, що виводять автоматизоване програмування на якісно новий рівень.",
+      "ai_title": "Вийшла нова нейромережа GLM-5.3 для розробки програмного забезпечення",
+      "video_keywords": "programmer typing, code on monitor, hacker screen, futuristic interface"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1524,56 +1524,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-      "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-      "summary": "",
-      "published": "2026-08-12T06:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярна криптовалютна біржа Crypto.com додає до своєї платформи токенізовані деривативи на акції. Цей крок відображає ширшу тенденцію на ринку, коли криптоплатформи прагнуть об'єднати торгівлю цифровими активами та традиційними цінними паперами.",
-      "ai_title": "Crypto.com запускає токенізовані акції на тлі зближення крирти та фондового ринку",
-      "video_keywords": "smartphone stock trading, crypto exchange office, digital tablet finance, person trading stocks"
-    },
-    {
-      "title": "Harmony’s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
-      "link": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-      "summary": "",
-      "published": "2026-08-12T05:18:40+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалюта проєкту Harmony втратила понад чверть своєї вартості після того, як зловмисники випустили величезну кількість нових токенів. Обсяг несанкціонованої емісії склав майже чверть від загальної пропозиції монети, що спричинило паніку на ринку.",
-      "ai_title": "Токен Harmony (ONE обвалився на 26% через масштабну хакерську атаки",
-      "video_keywords": "red stock market graph, falling chart arrows, financial crisis monitor, panic trading screen"
-    },
-    {
-      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-      "link": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony considers rollback after suspected exploit inflates ONE supply\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-top-hacks-so-far-4.jpg\" /></p><p>Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platf",
-      "published": "2026-08-12T06:02:52+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Розробники блокчейна Harmony співпрацюють з біржами для блокування вкрадених коштів та готують терміновий патч безпеки. Причиною став імовірний хакерський злам, через який на ринок потрапили мільярди нелегальних токенів ONE.",
-      "ai_title": "Harmony розглядає можливість відкату мережі після масштабного зльому емісії",
-      "video_keywords": "computer hacker typing, server room cyber attack, matrix code monitor, cybersecurity warning screen"
-    },
-    {
-      "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
-      "link": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-      "summary": "",
-      "published": "2026-08-12T07:04:53+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта стабільно тримається на позначці $63 600 на тлі активності японської компанії Metaplanet. Корпорація здійснила масштабне переміщення 3 881 біткоїна між власними гаманцями, що привернуло увагу ринку.",
-      "ai_title": "Біткоїн на рівні $63 600: японська Metaplanet переміщує тисячі монет",
-      "video_keywords": "cryptocurrency trading, bitcoin graph, digital wallet screen, financial charts"
-    },
-    {
-      "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
-      "link": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-      "summary": "",
-      "published": "2026-08-12T05:26:55+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Учасники ринку біткоїна та ефіріума займають вичікувальну позицію перед виходом ключового американського індексу споживчих цін (CPI). Трейдери активно переглядають свої стратегії, очікуючи різких коливань курсу цифрових активів.",
-      "ai_title": "Як трейдери готуються до публікації важливих даних щодо інфляції в США",
-      "video_keywords": "trader monitors screens, stock market data, financial charts, modern office trading floor"
-    },
     {
       "title": "Inside the fake crypto startup that fooled North Korean IT workers",
       "link": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2394,6 +2344,16 @@
       "ai_summary": "Проєкт Neutrl тимчасово призупинив викуп своїх стейблкоїнів NUSD через невизначені проблеми із забезпеченням. Експерти раніше застерігали про високі ризики, пов'язані з інтеграцією цього активу.",
       "ai_title": "Neutrl зупинила виведення стейблкоїна NUSD через проблеми з резервами",
       "video_keywords": "falling charts, economic crisis, digital currency, warning sign"
+    },
+    {
+      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
+      "summary": "",
+      "published": "2026-08-14T06:20:54+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанії MicroStrategy та Metaplanet можуть опинитися поза індексами MSCI через нові пропозиції регуляторника. Це нововведення може суттєво вплинути на інституційний капітал, який заходить у ці корпорації через фондові ринки. Зміни викликають занепокоєння серед криптоінвесторів, які використовують публічні компанії як проксі для біткоїна.",
+      "ai_title": "Стратегії біткоїн-інвестицій під загрозою: MSCI пропонує виключити криптокомпанії з індексів",
+      "video_keywords": "stock market chart, digital tablet finance, cryptocurrency trading screen, decreasing graph"
     }
   ]
 }
