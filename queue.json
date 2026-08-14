@@ -963,16 +963,6 @@
   ],
   "Бізнес / Стартапи": [
     {
-      "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
-      "link": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
-      "summary": "<p>Across 170 enterprises, AI infrastructure has moved decisively into production — two-thirds now run AI workloads live and three in 10 run them at scale — while the ability to account for what that infrastructure costs has not kept pace. Enterprises have quietly demoted cost in the buying decision: performance and GPU availability now outrank total cost of ownership, and reliability outranks pri",
-      "published": "2026-08-12T07:30:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Більшість підприємств уже використовують штучний інтелект у роботі, ставлячи швидкість та наявність відеокарт вище за загальну вартість володіння. Через це контроль над бюджетами на ШІ-інфраструктуру суттєво відстає від темпів її впровадження.",
-      "ai_title": "Компанії масово купують потужності для ШІ, ігноруючи витрати",
-      "video_keywords": "server racks, data center, computer monitors, glowing LEDs"
-    },
-    {
       "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
       "link": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
       "summary": "<p>Across 116 enterprises, agents are in production and so are the incidents: A majority have already had a confirmed agent security event or a near-miss. Two-thirds of enterprises enforce scoped permissions at runtime. Barely one in five isolates its highest-risk agents, making containment the weakest layer in the stack precisely as autonomy scales. Credential sharing persists across nearly two-t",
@@ -1534,26 +1524,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-      "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-      "summary": "",
-      "published": "2026-08-12T04:33:25+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Зловмисники вивели з мосту XRP близько 200 000 доларів після того, як програмне забезпечення сприйняло фальшиві депозити за справжні. Цей інцидент знову підкреслив вразливість кросчейн-мостів та смарт-контрактів до технічних збоїв. Розробники наразі розслідують причини помилки та працюють над посиленням безпеки.",
-      "ai_title": "Міст XRP втратив 200 тисяч доларів через помилку в коді",
-      "video_keywords": "hacker typing laptop, digital code screen, security breach, cryptocurrency failure"
-    },
-    {
-      "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-      "link": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC invokes emergency powers to keep Kalshi operating in New York fight\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/cftc-vs-binance.png\" /></p><p>The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.</p>",
-      "published": "2026-08-12T04:53:26+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Регулятор CFTC використав надзвичайні повноваження, щоб дозволити платформі прогнозів Kalshi продовжити роботу попри опір влади штату Нью-Йорк. Це рішення загострило конфлікт щодо того, чи мають штати право забороняти федерально регульовані контракти на події. Ситуація створює важливий прецедент для всього ринку деривативів та прогнозів у США.",
-      "ai_title": "CFTC задіяла надзвичайні повноваження для захисту платформи Kalshi у Нью-Йорку",
-      "video_keywords": "financial district new york, courthouse exterior, stock market trading floor, news room television"
-    },
     {
       "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
       "link": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
@@ -2404,6 +2374,26 @@
       "ai_summary": "Фінтех-компанія Figure повідомила про значне зростання обсягів кредитування на своєму маркетплейсі. На тлі цього її прибуток зріс майже втричі, а в наступному кварталі прогнозується подальше збільшення показників.",
       "ai_title": "Обсяги кредитування на платформі Figure сягнули 4,3 млрд доларів",
       "video_keywords": "financial charts, digital banking, office workspace, counting money"
+    },
+    {
+      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+      "summary": "",
+      "published": "2026-08-14T05:04:52+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Один із найбільших банків світу JPMorgan припинив співпрацю з популярною платформою прогнозів Polymarket. Це рішення може суттєво вплинути на операційну діяльність та фінансові потоки криптосервісу.",
+      "ai_title": "JPMorgan розірвав банківські відносини з платформою прогнозів Polymarket",
+      "video_keywords": "bank building, financial district, businessman working, computer screens"
+    },
+    {
+      "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
+      "link": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Neutrl pauses NUSD redemptions over undisclosed reserve issue \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-world-liberty-launches-34b-stablecoin-how-it-fits-into-onchain-credit-systems.jpg\" /></p><p>BA Labs had previously classified a proposed NUSD integration as higher risk because of ",
+      "published": "2026-08-14T04:44:31+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Проєкт Neutrl тимчасово призупинив викуп своїх стейблкоїнів NUSD через невизначені проблеми із забезпеченням. Експерти раніше застерігали про високі ризики, пов'язані з інтеграцією цього активу.",
+      "ai_title": "Neutrl зупинила виведення стейблкоїна NUSD через проблеми з резервами",
+      "video_keywords": "falling charts, economic crisis, digital currency, warning sign"
     }
   ]
 }
