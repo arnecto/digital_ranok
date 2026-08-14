@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-      "link": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-      "summary": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver faster performance. The [&#8230;]",
-      "published": "2026-08-12T17:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Google поповнила лінійку новими пристроями, серед яких Pixel 11, Pixel 11 Pro та версія Pro XL. Смартфони отримали потужніші камери, новий процесор Tensor G6 та покращену продуктивність порівняно з минулорічними моделями.",
-      "ai_title": "Огляд нових смартфонів лінійки Google Pixel 11",
-      "video_keywords": "new smartphone, unpacking tech, gadget review, holding mobile phone"
-    },
-    {
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-      "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275385\">https://news.ycombinator.com/item?id=49275385</a></p>\n<p>Points: 86</p>\n<p># Comments: 36</p>",
-      "published": "2026-08-12T16:54:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія xAI випустила нову ітерацію своєї мовної моделі Grok 4.6. Нейромережа продемонструвала результат у 61 бал згідно з незалежним тестуванням Artificial Analysis Intelligence Index.",
-      "ai_title": "Штучний інтелект Grok 4.6 від xAI набрав 61 бал в аналітичному індексі",
-      "video_keywords": "artificial intelligence, data analytics, futuristic interface, screen code"
-    },
-    {
       "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
       "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
       "summary": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and $1,299 respectively, and the Pro Fold starts at $1,899. The watch comes [&#8230;]",
@@ -31,16 +11,6 @@
       "video_keywords": "smartphone unboxing, modern gadget, holding mobile phone, tech store"
     },
     {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
-      "published": "2026-08-12T17:29:10+00:00",
-      "source": "The Verge",
-      "ai_summary": "Користувачі Twitch отримали можливість відмовитися від участі їхнього контенту в навчанні генеративних моделей Amazon. Це стосується трансляцій, кліпів, записів та чатів каналу.",
-      "ai_title": "Стрімери на Twitch тепер можуть заборонити використовувати свої дані для тренування штучного інтелекту",
-      "video_keywords": "streaming setup, gaming pc, neon lights, microphone and headphones"
-    },
-    {
       "title": "Zed: Delta",
       "link": "https://zed.dev/blog/introducing-delta",
       "summary": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 92</p>\n<p># Comments: 21</p>",
@@ -49,36 +19,6 @@
       "ai_summary": "Розробники редактора коду Zed представили оновлення Delta з новими функціями для покращення продуктивності та швидкості роботи. Це оновлення спрямоване на оптимізацію редагування коду в реальному часі.",
       "ai_title": "Реліз Zed: Delta",
       "video_keywords": "programmer typing code, computer monitor, software developer, office desk"
-    },
-    {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275335\">https://news.ycombinator.com/item?id=49275335</a></p>\n<p>Points: 44</p>\n<p># Comments: 35</p>",
-      "published": "2026-08-12T16:51:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий підхід до розробки дозволяє створювати інтерактивні вебдодатки в реальному часі майже без використання JavaScript. Технологія базується на передачі HTML безпосередньо через WebSockets, що спрощує архітектуру.",
-      "ai_title": "Створення швидких вебдодатків через HTML та WebSockets",
-      "video_keywords": "web development, code on screen, laptop keyboard, programmer hands"
-    },
-    {
-      "title": "ICE wants to give agents electrified gloves that shock people into compliance",
-      "link": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-      "summary": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March [&#8230;]",
-      "published": "2026-08-12T16:58:29+00:00",
-      "source": "The Verge",
-      "ai_summary": "Міністерство внутрішньої безпеки США планує виділити до 20 мільйонів доларів на забезпечення офіцерів спеціальними рукавицями, що б'ють струмом. Цей пристрій призначений для примусового контролю та стримування порушників.",
-      "ai_title": "Американська міграційна служба планує закупити шокові рукавиці",
-      "video_keywords": "police officer, tactical gear, security guard, hands close up"
-    },
-    {
-      "title": "Amazon gets out of the MMO game",
-      "link": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
-      "summary": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting \"a significant amount\" of its work on first-party AAA games, \"specifically around MMOs,\" Amazon will be handing over live operations of Throne and Liberty and Lost Ark in the West to other companies, according to announcements on Wednesday. Throne [&#8230;]",
-      "published": "2026-08-12T16:46:05+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Amazon повністю виходить з ринку MMO-ігор, передаючи управління проєктами Lost Ark та Throne and Liberty іншим видавцям. Це рішення знаменує значний відступ корпорації від масштабного розроблення власних відеоігор.",
-      "ai_title": "Amazon закриває напрямок масових багатокористувацьких ігор",
-      "video_keywords": "person playing video game, gaming mouse, glowing keyboard, computer screen"
     },
     {
       "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
@@ -859,49 +799,59 @@
       "ai_summary": "Вищий суд Франції визнав неконституційним законопроєкт про заборону соціальних мереж для неповнолітніх. Судді вирішили, що закон суперечить свободі слова, оскільки вимагає від усіх дорослих користувачів складного підтвердження віку.",
       "ai_title": "Франція заблокувала заборону соцмереж через проблему перевірки віку",
       "video_keywords": "smartphone screen, social media feed, courtroom gavel, legal document"
+    },
+    {
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "link": "https://arxiv.org/abs/2608.12700",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.12700\">https://arxiv.org/abs/2608.12700</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301417\">https://news.ycombinator.com/item?id=49301417</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-14T16:57:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники представили систему перевірки контрактного рівня для графічних ядер, що створюються штучним інтелектом. Це рішення допомагає автоматично знаходити помилки та гарантувати надійність коду.",
+      "ai_title": "Новий інструмент для верифікації графічних чипів",
+      "video_keywords": "microchip, circuit board, soldering, technology"
+    },
+    {
+      "title": "Maximizing the value of your Claude Code sessions",
+      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "summary": "<p>Article URL: <a href=\"https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\">https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300800\">https://news.ycombinator.com/item?id=49300800</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-14T16:15:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники поділилися порадами щодо ефективного використання штучного інтелекту для написання коду. Стаття описує найкращі практики керування сесіями та оптимізації робочого процесу за допомогою асистента.",
+      "ai_title": "Як отримати максимум від сесій Claude Code",
+      "video_keywords": "programmer typing, dual monitors, dark mode, code editor"
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "summary": "<p>Article URL: <a href=\"https://rustdesk.com/blog/unattended-remote-access-wayland/\">https://rustdesk.com/blog/unattended-remote-access-wayland/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300759\">https://news.ycombinator.com/item?id=49300759</a></p>\n<p>Points: 46</p>\n<p># Comments: 10</p>",
+      "published": "2026-08-14T16:12:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярний застосунок для віддаленого робочого столу додав повноцінну підтримку автономного доступу в середовищі Wayland. Це вирішує давню проблему багатьох користувачів Linux, яким потрібне стабільне керування системою без присутності оператора.",
+      "ai_title": "RustDesk тепер підтримує віддалений доступ для Wayland",
+      "video_keywords": "computer screen, linux terminal, typing, office desk"
+    },
+    {
+      "title": "Self-hosted web push Cloudflare Worker, works on iOS",
+      "link": "https://kukuroo.cc/",
+      "summary": "<p>Article URL: <a href=\"https://kukuroo.cc/\">https://kukuroo.cc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299667\">https://news.ycombinator.com/item?id=49299667</a></p>\n<p>Points: 32</p>\n<p># Comments: 10</p>",
+      "published": "2026-08-14T15:03:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явилося нове рішення для надсилання сповіщень через Cloudflare Worker, яке коректно працює навіть на пристроях від Apple. Розробники отримали зручний та автономний інструмент для інтеграції пуш-повідомлень у власні вебсайти.",
+      "ai_title": "Самохостингові вебпуші через Cloudflare Worker",
+      "video_keywords": "smartphone notification, mobile screen, app interface, tapping screen"
+    },
+    {
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+      "published": "2026-08-14T16:39:32+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Google додала налаштування, що дозволяє вимикати видимі водяні знаки на зображеннях, відео та музиці, створених за допомогою штучного інтелекту. Тепер користувачі можуть прибрати фірмову позначку у вигляді зірочки згенерованого медіаконтенту.",
+      "ai_title": "Google дозволила прибирати водяні знаки у Gemini",
+      "video_keywords": "ai generator, digital art, screen interface, pressing button"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic is now an Android app.",
-      "published": "2026-08-12T16:57:58+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярний додаток для управління контактами та взаєминами Mesh, створений на базі штучного інтелекту компанією Automattic, тепер випустив офіційну версію для користувачів Android. Сервіс допомагає ефективно керувати діловими та особистими зв'язками прямо зі смартфона.",
-      "ai_title": "CRM-система Mesh від Automattic стала доступною на Android",
-      "video_keywords": "smartphone screen, mobile app, person tapping screen, business contacts"
-    },
-    {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8",
-      "published": "2026-08-12T16:46:02+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Виробник розумних пристроїв Sandbar вважає, що майбутнє штучного інтелекту у носієнній електроніці належить голосовому керуванню. Нове покоління мініатюрних гаджетів у вигляді каблучок дозволяє зручно фіксувати випадкові думки та ідеї на ходу.",
-      "ai_title": "Стартап Sandbar робить ставку на голосові ШІ-пристрої у форм-факторі каблучки",
-      "video_keywords": "smart ring, person wearing ring, voice assistant, modern wearable"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
-      "published": "2026-08-12T17:41:29+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Підтримувана OpenAI компанія Thrive Holdings залучила два мільярди доларів інвестицій, досягнувши оцінки у 12 мільярдів доларів. Раунд фінансування очолили такі відомі інвестори, як SoftBank, D1 Capital Partners та Altimeter Capital.",
-      "ai_title": "Thrive Holdings залучила 2 мільярди доларів для впровадження штучного інтелекту в бізнес",
-      "video_keywords": "business meeting, financial charts, corporate office, investors handshake"
-    },
-    {
-      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
-      "link": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
-      "summary": "<p>Elon Musk&#x27;s company SpaceXAI, formerly known as xAI, has released <a href=\"https://x.ai/news/grok-4-6\">Grok 4.6</a>, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy designed to make those workloads cheaper to run.</p><p>The model scores 61 on the <a href=\"https://x.com/ArtificialAnlys/status/2087564648325530099/photo/1\">",
-      "published": "2026-08-12T17:26:58+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Компанія Ілона Маска SpaceXAI представила передову модель штучного інтелекту Grok 4.6, орієнтовану на складні завдання, програмування та роботу з даними. Новинка демонструє високу продуктивність, змагаючись з кращими глобальними аналогами.",
-      "ai_title": "SpaceXAI випустила нову модель Grok 4.6 на рівні провідних світових систем",
-      "video_keywords": "futuristic technology, server room, coding screen, artificial intelligence animation"
-    },
     {
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
       "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
@@ -921,16 +871,6 @@
       "ai_summary": "На конференції Ai4 видатні фахівці Джеффрі Гінтон, Фей-Фей Лі та Ендрю Нг обговорили питання регулювання галузі. Вони наголосили на важливості відкритих технологій та конкуренції на глобальному ринку.",
       "ai_title": "Провідні експерти зі штучного інтелекту захищають відкритий доступ до технологій на тлі занепокоєнь безпекою",
       "video_keywords": "conference stage, panel discussion, speakers speaking, auditorium audience"
-    },
-    {
-      "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-      "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-      "summary": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
-      "published": "2026-08-12T17:15:41+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відома група кіберзлочинців взяла на себе відповідальність за кібератаку на логістичний підрозділ Uber. Наразі компанія перевіряє інформацію про ймовірне зникнення конфіденційних даних.",
-      "ai_title": "Uber Freight розслідує можливий масштабний витік даних після заяви хакерського угруповання",
-      "video_keywords": "server rack, flashing lights, data center, hacker typing"
     },
     {
       "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
@@ -1302,36 +1242,6 @@
   ],
   "Крипта": [
     {
-      "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
-      "link": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
-      "summary": "",
-      "published": "2026-08-12T16:34:24+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Відомий криптомаркетмейкер Wintermute планує масштабне розширення за межі блокчейн-індустрії. Компанія спрямує близько 1 мільярда доларів на проєкти, пов'язані зі штучним інтелектом.",
-      "ai_title": "Wintermute інвестує мільярд доларів у розвиток штучного інтелекту",
-      "video_keywords": "artificial intelligence, server room, digital brain, futuristic technology"
-    },
-    {
-      "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
-      "link": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of England tests stablecoin, digital pound interoperability in cross-border payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-1.jpg\" /></p><p>The Digital Pound Lab is testing a cross-border trade finance flow combining stableco",
-      "published": "2026-08-12T16:50:25+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Британський регулятор розпочав випробування інтеграції стейблкоїнів та цифрового фунта. Тести спрямовані на покращення та прискорення транскордонних торговельних фінансових операцій.",
-      "ai_title": "Банк Англії тестує стейблкоїни для міжнародних платежів",
-      "video_keywords": "bank building, digital currency, mobile banking, international money transfer"
-    },
-    {
-      "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
-      "link": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
-      "summary": "",
-      "published": "2026-08-12T17:21:03+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Відомий банківський гігант Goldman Sachs купує біткоїн-фонди NEOS на суму 2,25 мільярда доларів. Це значний крок традиційних фінансів у бік криптовалютних інструментів отримання доходу.",
-      "ai_title": "Goldman Sachs інвестує понад 2 мільярди в біткоїн-ETF",
-      "video_keywords": "bitcoin, financial chart, stock exchange, computer screen"
-    },
-    {
       "title": "Bitwise cuts 14% of staff while still expecting growth",
       "link": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise cuts 14% of staff while still expecting growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-and-mainstream-media-bitwise.jpg\" /></p><p>Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a v",
@@ -1340,16 +1250,6 @@
       "ai_summary": "Криптофірма Bitwise зменшує кількість співробітників через оптимізацію витрат. Водночас керівництво компанії продовжує очікувати подальшого розвитку та розширення бізнесу.",
       "ai_title": "Криптокомпанія Bitwise скорочує 14% штату попри плани зростання",
       "video_keywords": "office worker, stressed person, modern office, laptop"
-    },
-    {
-      "title": "FlightAware drops Kalshi lawsuit one day after filing",
-      "link": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FlightAware drops Kalshi lawsuit one day after filing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news.jpg\" /></p><p>Following the initial lawsuit, at least one of Kalshi’s event contracts was changed to list “Primary Source Agency” as ",
-      "published": "2026-08-12T16:58:52+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія FlightAware вирішила закрити судову справу проти прогнозної платформи Kalshi всього через добу після її подачі. Причини такого стрімкого примирення поки що не розголошуються.",
-      "ai_title": "FlightAware забрала позов проти Kalshi вже через день",
-      "video_keywords": "courtroom, legal document, judge gavel, law office"
     },
     {
       "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
@@ -2101,6 +2001,16 @@
       "ai_summary": "Масштабний хакерський злам гаманця змусив криптоспільноту знову замислитися над ризиками некастодіального зберігання активів. Цей інцидент стався на тлі відновлення приток капіталу в спотові ETF та активізації майнерів.",
       "ai_title": "Крадіжка 116 мільйонів доларів у біткоїнах ставить під загрозу безпеку самостійного зберігання",
       "video_keywords": "hacker computer screen, cybersecurity code, digital vault, padlock security"
+    },
+    {
+      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+      "link": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-j-crypto-donations-in-politics-uk.jpg\" /></p><p>The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from t",
+      "published": "2026-08-14T17:03:38+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Після перемоги на довиборах британський політик знову опинився в центрі уваги через розслідування щодо отримання криптовалютних активів. Влада країни перевіряє законність та декларування таких цифрових «подарунків».",
+      "ai_title": "Британські регулятори поновили розслідування криптоподарунків Найджела Фаража",
+      "video_keywords": "politician speaking, parliament building, uk flag, digital tablet"
     }
   ]
 }
