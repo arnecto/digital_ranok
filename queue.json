@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-      "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-      "summary": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and $1,299 respectively, and the Pro Fold starts at $1,899. The watch comes [&#8230;]",
-      "published": "2026-08-12T17:47:54+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Google офіційно представила смартфони нового покоління Pixel 11, включаючи моделі Pro та Pro Fold. Попередні замовлення пристроїв супроводжуються спеціальними подарунковими картками номіналом до 350 доларів.",
-      "ai_title": "Google анонсувала нову лінійку смартфонів Pixel 11",
-      "video_keywords": "smartphone unboxing, modern gadget, holding mobile phone, tech store"
-    },
-    {
-      "title": "Zed: Delta",
-      "link": "https://zed.dev/blog/introducing-delta",
-      "summary": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 92</p>\n<p># Comments: 21</p>",
-      "published": "2026-08-12T18:19:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники редактора коду Zed представили оновлення Delta з новими функціями для покращення продуктивності та швидкості роботи. Це оновлення спрямоване на оптимізацію редагування коду в реальному часі.",
-      "ai_title": "Реліз Zed: Delta",
-      "video_keywords": "programmer typing code, computer monitor, software developer, office desk"
-    },
-    {
       "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
       "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
       "summary": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more affordable iPhone 18e and a new iPhone Air [&#8230;]",
@@ -849,29 +829,39 @@
       "ai_summary": "Компанія Google додала налаштування, що дозволяє вимикати видимі водяні знаки на зображеннях, відео та музиці, створених за допомогою штучного інтелекту. Тепер користувачі можуть прибрати фірмову позначку у вигляді зірочки згенерованого медіаконтенту.",
       "ai_title": "Google дозволила прибирати водяні знаки у Gemini",
       "video_keywords": "ai generator, digital art, screen interface, pressing button"
+    },
+    {
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "link": "https://luacad.ad-si.com",
+      "summary": "<p>LuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (`a + b`, `a - b`, `a * b`).<p>It ships with a CLI and a desktop app, including a preview area and a text editor.<p>I've always been a big fan of OpenSCAD, but the SCAD language itself is unfortunately quite cobbled-together and is a very poorly designed programming language.<p>LuaCAD takes all the ",
+      "published": "2026-08-14T16:43:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено альтернативу OpenSCAD під назвою LuaCAD, яка дозволяє моделювати тверді тіла за допомогою мови програмування Lua. Проєкт включає десктопний додаток із вбудованим текстовим редактором та зоною попереднього перегляду.",
+      "ai_title": "LuaCAD: новий САПР із програмуванням на Lua",
+      "video_keywords": "computer screen, 3d modeling, software interface, typing code"
+    },
+    {
+      "title": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+      "link": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+      "summary": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digital cameras. But to use [&#8230;]",
+      "published": "2026-08-14T17:34:14+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google готує нову функцію Camera Looks для лінійки Pixel 11, яка оброблятиме дані на рівні сенсора для створення унікальних стилів фото. Зокрема, режим Digi імітуватиме знімки, зроблені на старі цифрові камери.",
+      "ai_title": "Ексклюзивна камера для майбутніх смартфонів Pixel 11",
+      "video_keywords": "smartphone camera, taking pictures, digital camera, tech gadget"
+    },
+    {
+      "title": "Mark Zuckerberg has an Instagzam",
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
+      "published": "2026-08-14T16:54:16+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Instagram раптово змінила свій класичний текстовий логотип (wordmark) на новий дизайн. Зміни настільки кардинальні, що напис тепер важко впізнати, і користувачі намагаються зрозуміти причину такого ребрендингу.",
+      "ai_title": "Instagram оновив свій культовий логотип і шрифт",
+      "video_keywords": "mobile phone, social media app, scrolling feed, graphic design"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "published": "2026-08-12T18:19:12+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Cognition, що розробляє інструменти для написання коду за допомогою штучного інтелекту, веде переговори про новий масштабний раунд інвестицій. Це відбувається всього через кілька місяців після попереднього залучення мільярда доларів.",
-      "ai_title": "Штучний інтелект для програмування Cognition готується до раунду фінансування з оцінкою у 40 мільярдів доларів",
-      "video_keywords": "software developer, typing code, dual monitors, office workspace"
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
-      "published": "2026-08-12T17:51:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На конференції Ai4 видатні фахівці Джеффрі Гінтон, Фей-Фей Лі та Ендрю Нг обговорили питання регулювання галузі. Вони наголосили на важливості відкритих технологій та конкуренції на глобальному ринку.",
-      "ai_title": "Провідні експерти зі штучного інтелекту захищають відкритий доступ до технологій на тлі занепокоєнь безпекою",
-      "video_keywords": "conference stage, panel discussion, speakers speaking, auditorium audience"
-    },
     {
       "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
       "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
@@ -1241,16 +1231,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitwise cuts 14% of staff while still expecting growth",
-      "link": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise cuts 14% of staff while still expecting growth\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-and-mainstream-media-bitwise.jpg\" /></p><p>Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a v",
-      "published": "2026-08-12T18:01:15+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптофірма Bitwise зменшує кількість співробітників через оптимізацію витрат. Водночас керівництво компанії продовжує очікувати подальшого розвитку та розширення бізнесу.",
-      "ai_title": "Криптокомпанія Bitwise скорочує 14% штату попри плани зростання",
-      "video_keywords": "office worker, stressed person, modern office, laptop"
-    },
     {
       "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
       "link": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2011,6 +1991,16 @@
       "ai_summary": "Після перемоги на довиборах британський політик знову опинився в центрі уваги через розслідування щодо отримання криптовалютних активів. Влада країни перевіряє законність та декларування таких цифрових «подарунків».",
       "ai_title": "Британські регулятори поновили розслідування криптоподарунків Найджела Фаража",
       "video_keywords": "politician speaking, parliament building, uk flag, digital tablet"
+    },
+    {
+      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "summary": "",
+      "published": "2026-08-14T17:48:04+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Рішення Комісії з цінних паперів і бірж США відкласти розгляд нових криптоініціатив створило серйозні перешкоди для інтеграції цифрових активів у традиційну фінансову систему Волл-стріт. Це спричинило тимчасовий спад інтересу інвесторів та корекцію курсів пов'язаних акцій.",
+      "ai_title": "Акції токенізованих активів падають через затримки від SEC",
+      "video_keywords": "stock market chart, digital graphs, financial district, trading floor"
     }
   ]
 }
