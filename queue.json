@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
-      "link": "https://bipluk.com/",
-      "summary": "<p>Article URL: <a href=\"https://bipluk.com/\">https://bipluk.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279628\">https://news.ycombinator.com/item?id=49279628</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-12T22:47:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіаст розробив інструмент на базі браузера для керування SysEx-даними та налаштуваннями культових синтезаторів із 80-х і 90-х років. Це рішення спрощує роботу з вінтажним музичним обладнанням без потреби в додатковому програмному забезпеченні.",
-      "ai_title": "Розробник створив браузерну бібліотеку для старих синтезаторів",
-      "video_keywords": "synthesizer, music studio, mixing console, electronic keyboard"
-    },
-    {
       "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
       "link": "https://www.ballet.dev/",
       "summary": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
@@ -899,6 +889,16 @@
       "ai_summary": "Експерти з кібербезпеки попереджають про стрімке скорочення доступних публічних даних через посилення захисту та закриття платформ. Це створює серйозні виклики для розробників штучного інтелекту та дослідників, які залежать від відкритих баз інформації.",
       "ai_title": "Кінець епохи публічного інтернету: чому все скоро \"потемніє\"",
       "video_keywords": "server room, data center, dark screens, digital lockdown"
+    },
+    {
+      "title": "Every exterior shot in The Taking of Pelham 123",
+      "link": "https://iafisher.com/2026/07/pelham-123",
+      "summary": "<p>Article URL: <a href=\"https://iafisher.com/2026/07/pelham-123\">https://iafisher.com/2026/07/pelham-123</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303957\">https://news.ycombinator.com/item?id=49303957</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+      "published": "2026-08-14T20:10:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Цей проєкт присвячений детальному аналізу та збору всіх наявних кадрів із зовнішніми планами культового фільму. Дослідження демонструє специфіку зйомок на локаціях та візуальний стиль Нью-Йорка того часу через призму кінематографа.",
+      "ai_title": "Всі зовнішні плани фільму «Метро Палгем 123»",
+      "video_keywords": "city skyline, old taxi cab, urban street, vintage film"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1248,6 +1248,26 @@
       "ai_summary": "Протягом останніх тижнів кіберзлочинці зламали системи кількох водоочисних станцій у Сполучених Штатах. Експерти аналізують деталі цієї хвилі кібератак, які, ймовірно, організував іранський уряд.",
       "ai_title": "Хакерські атаки на водні комунікації США пов'язують з Іраном",
       "video_keywords": "computer hacking, cyber attack, data center monitors, server room"
+    },
+    {
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "published": "2026-08-14T22:43:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Фінтех-гігант PayPal веде активні переговори про можливий продаж компанії для Stripe та інвестиційній фірмі Advent. Новий генеральний директор намагається врятувати компанію та змінити вектор її розвитку.",
+      "ai_title": "PayPal готують до продажу: тривають переговори зі Stripe та Advent",
+      "video_keywords": "handshake, business meeting, corporate office, digital payment"
+    },
+    {
+      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
+      "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "summary": "<p>Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, <a href=\"https://z.ai/blog/glm-5.3\">today released GLM-5.3</a> with substantial gains in long-horizon coding and a more consequential — and potentially sensitive — jump in cybersecurity capabilities.</p><p>Already, GLM-5.3&#x27;s cyber capabilities have found a &",
+      "published": "2026-08-14T22:56:16+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Китайський стартап Z.ai презентував нову мовну модель GLM-5.3 із покращеними навичками програмування та кібербезпеки. Система вже встигла виявити серйозну вразливість у популярному редакторі коду Cursor.",
+      "ai_title": "ШІ-стартап Z.ai випустив модель GLM-5.3 із потужними кіберможливостями",
+      "video_keywords": "coding on screen, hacker typing, glowing server rack, cyber security code"
     }
   ],
   "Крипта": [
