@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Facebook is paying controversial creators to produce rage-bait content",
-      "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696\">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269818\">https://news.ycombinator.com/item?id=49269818</a></p>\n<p>Points: 57</p>\n<p># Comments",
-      "published": "2026-08-12T09:35:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'ясувалося, що соціальна мережа фінансово заохочує створення провокативних матеріалів, які викликають сильну емоційну реакцію та гнів у користувачів. Така стратегія спрямована на підвищення залученості аудиторії, попри етичні ризики.",
-      "ai_title": "Facebook платить контроверсійним авторам за токсичний контент",
-      "video_keywords": "person scrolling smartphone, angry expression, social media feed"
-    },
-    {
       "title": "Spotify will mark AI performers with special badges. Such music will not appear in recommendations",
       "link": "https://en.ain.ua/2026/08/12/spotify-will-mark-ai-performers-with-special-badges/",
       "summary": "Starting mid-September, those pages will display a special AI Persona badge, and the performers themselves will be hidden from recommendations by default.",
@@ -29,16 +19,6 @@
       "ai_summary": "Компанія xAI представила нового віртуального агента Grok Bot, який працює у хмарному середовищі та може виконувати складні робочі завдання. Цей штучний інтелект здатен самостійно входити в додатки та сервіси, виконуючи рутинну роботу замість людини.",
       "ai_title": "Grok тепер став повноцінним штучним інтелектом-командником",
       "video_keywords": "artificial intelligence, robot working on computer, futuristic interface, person at desk"
-    },
-    {
-      "title": "What sort of maths are LLMs good at?",
-      "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "summary": "<p>Article URL: <a href=\"https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/\">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270022\">https://news.ycombinator.com/item?id=49270022</a></p>\n<p>Points: 104</p>\n<p># Comments: 36</p>",
-      "published": "2026-08-12T10:04:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомий математик дослідив можливості сучасних великих мовних моделей (LLM) у розв'язанні різних типів задач. Аналіз показує, які саме математичні розділи даються штучному інтелекту легко, а де він все ще припускається серйозних помилок.",
-      "ai_title": "У яких математичних задачах мовні моделі демонструють найкращі результати?",
-      "video_keywords": "math formulas on chalkboard, person writing equations, digital graphs, data analytics screen"
     },
     {
       "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
@@ -939,6 +919,16 @@
       "ai_summary": "У новому флагманському смартфоні Xiaomi виявили програмну хитрощі при фотографуванні сонячного та місячного затемнень. Штучний інтелект у камері пристрою підміняє небесні тіла, видаючи одне за інше для досягнення ефектного кадру. Цей випадок знову підіймає дискусію про межі чесності алгоритмів обробки зображень у сучасних гаджетах.",
       "ai_title": "Xiaomi 17 Ultra піймали на обмані під час зйомки затемнення",
       "video_keywords": "smartphone camera, solar eclipse, mobile screen, person taking photo"
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
+      "published": "2026-08-14T09:21:17+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Apple розробила кастомну модель штучного інтелекту для китайського ринку за підтримки місцевого гіганта Alibaba. Це рідкісний приклад транскордонної співпраці на тлі напружених відносин між Пекіном і Вашингтоном.",
+      "ai_title": "Apple створила спеціальну AI-модель для Китаю у партнерстві з Alibaba",
+      "video_keywords": "smartphone screen, office meeting, businesswoman typing, server room"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1454,66 +1444,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
-      "link": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
-      "summary": "",
-      "published": "2026-08-12T09:30:20+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінансова компанія Fidelity планує оновити свій спотовий Ethereum-ETF на суму близько 900 мільйонів доларів. Зміни передбачають додавання функції стейкінгу та регулярних квартальних виплат для інвесторів.",
-      "ai_title": "Fidelity хоче додати стейкінг та дивіденди до свого Ethereum-ETF",
-      "video_keywords": "cryptocurrency chart, digital wallet, financial graphs, investor laptop"
-    },
-    {
-      "title": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
-      "link": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
-      "summary": "",
-      "published": "2026-08-12T10:30:10+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курс біткоїна стабільно тримається на позначці близько 64 000 доларів, оскільки трейдери очікують нових даних щодо інфляції в Сполучених Штатах. Водночас ринок альткоїнів зазнає тиску через нещодавній хакерський злам мережі Harmony.",
-      "ai_title": "Біткоїн тримається біля $64 000 на тлі очікування даних про інфляцію в США",
-      "video_keywords": "bitcoin chart, financial market, cryptocurrency trading, stock exchange screen"
-    },
-    {
-      "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
-      "link": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
-      "summary": "",
-      "published": "2026-08-12T10:17:05+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Центральний банк Великої Британії планує протестувати використання стейблкоїнів та цифрової валюти у міжнародних фінансових операціях. Це дослідження покликане оцінити ефективність та безпеку блокчейн-технологій у традиційній банківській системі.",
-      "ai_title": "Банк Англії випробує стейблкоїни для транскордонних платежів",
-      "video_keywords": "british flag, digital currency, banking building, computer screen finance"
-    },
-    {
-      "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
-      "link": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
-      "summary": "",
-      "published": "2026-08-12T09:41:52+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія CoreWeave продемонструвала стрибок квартального доходу до 2,58 мільярда доларів завдяки буму інфраструктури для штучного інтелекту. Зростання інтересу до ШІ стрімко витісняє криптомайнінг як основний драйвер попиту на обчислювальні потужності.",
-      "ai_title": "Попит на штучний інтелект перевершив криптоіндустрію у доходах CoreWeave",
-      "video_keywords": "server rack, data center, supercomputer, glowing cables"
-    },
-    {
-      "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
-      "link": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance, RedotPay clash over fate of Singapore lawsuit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-battle.png\" /></p><p>Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
-      "published": "2026-08-12T10:18:18+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "На тлі юридичного конфлікту на суму 473 мільйони доларів компанія RedotPay очікує закриття справи з боку Binance у Сінгапурі. Проте представники Binance запевняють, що їхні юридичні претензії досі залишаються чинними.",
-      "ai_title": "Binance та RedotPay сперечаються щодо судового позову в Сінгапурі",
-      "video_keywords": "courtroom, legal documents, lawyers meeting, handshake business"
-    },
-    {
-      "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
-      "link": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-staking-the-answer-to-cryptocurrencys-mining-problems.jpg\" /></p><p>Bitcoin miners showed a “concerning” trend of pivoting to AI amid a profit squeeze as transaction-fee",
-      "published": "2026-08-12T10:06:05+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Заробіток біткоїн-майнерів від транзакційних комісій скоротився нижче 0.7% від загального доходу, встановивши новий антирекорд за останнє десятиліття. Через таке звуження прибутковості майнери все частіше змушені переорієнтовуватися на сферу штучного інтелекту.",
-      "ai_title": "Доходи майнерів біткоїна від комісій впали до 10-річного мінімуму",
-      "video_keywords": "computer hardware, mining rig, electronic circuit board, cooling fans"
-    },
     {
       "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
       "link": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
@@ -2304,6 +2234,16 @@
       "ai_summary": "SEC скасувала засідання, присвячене новим правилам для криптовалютних офферів. Це сталося після того, як Сенат пішов на канікули без голосування за законопроєкт CLARITY Act.",
       "ai_title": "Комісія з цінних паперів США скасувала важливу зустріч щодо крипторегулювання",
       "video_keywords": "government building, official meeting, courtroom, empty chairs"
+    },
+    {
+      "title": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report",
+      "link": "https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RedotPay US IPO delayed amid regulatory, legal hurdles: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-will-ripple-launch-an-ipo-bid-can-it-succeed0-1.jpg\" /></p><p>RedotPay’s US IPO has reportedly been delayed as it seeks regulatory approvals, while the company says it secured a US",
+      "published": "2026-08-14T09:53:50+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія RedotPay змушена відкласти своє первинне публічне розміщення акцій у США. Причиною стали затримки в отриманні необхідних регуляторних схвалень та юридичні труднощі.",
+      "ai_title": "RedotPay відкладає вихід на американську біржу через регуляторні перешкоди",
+      "video_keywords": "stock market, trading floor, business meeting, documents"
     }
   ]
 }
