@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plugins like Autotune introducing [&#8230;]",
-      "published": "2026-08-12T15:52:07+00:00",
-      "source": "The Verge",
-      "ai_summary": "Відома гітарна компанія D’Addario після тижнів заперечень визнала, що використала згенеровану штучним інтелектом музику від Suno у своєму проморолику. Спочатку бренд намагався виправдовуватися технічними збоями та проблемами з експортом відео. Цей випадок викликав бурхливу дискусію в креативній спільноті щодо етики використання ШІ.",
-      "ai_title": "Скандал через ШІ-музику в рекламі D’Addario",
-      "video_keywords": "electric guitar, recording studio, frustrated musician, computer monitor"
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813 quietly released",
-      "link": "https://api-docs.deepseek.com/guides/responses_api/",
-      "summary": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/responses_api/\">https://api-docs.deepseek.com/guides/responses_api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275114\">https://news.ycombinator.com/item?id=49275114</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-12T16:37:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники без зайвого галасу випустили оновлену версію мовної моделі DeepSeek V4 Pro 0813. Новинка вже доступна через API та спеціалізовані платформи для розробників штучного інтелекту.",
-      "ai_title": "Неочікуваний реліз нової моделі DeepSeek V4 Pro",
-      "video_keywords": "artificial intelligence, server room, coding on screen, digital interface"
-    },
-    {
       "title": "How Google’s new Pixel 11 phones compare to last year’s models",
       "link": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
       "summary": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver faster performance. The [&#8230;]",
@@ -39,26 +19,6 @@
       "ai_summary": "Компанія xAI випустила нову ітерацію своєї мовної моделі Grok 4.6. Нейромережа продемонструвала результат у 61 бал згідно з незалежним тестуванням Artificial Analysis Intelligence Index.",
       "ai_title": "Штучний інтелект Grok 4.6 від xAI набрав 61 бал в аналітичному індексі",
       "video_keywords": "artificial intelligence, data analytics, futuristic interface, screen code"
-    },
-    {
-      "title": "Qwen3.8-2.4T",
-      "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-      "summary": "<p>Article URL: <a href=\"https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8\">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274950\">https://news.ycombinator.com/item?id=49274950</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-12T16:26:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили нову нейромережу Qwen3.8-2.4T на платформі Hugging Face. Модель привертає увагу своєю архітектурою та високими показниками продуктивності для складних обчислювальних завдань.",
-      "ai_title": "Вийшла нова потужна модель штучного інтелекту Qwen3.8-2.4T",
-      "video_keywords": "server room, supercomputer, digital network, glowing neon lines"
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813",
-      "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\">https://openrouter.ai/deepseek/deepseek-v4-pro-0813</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274600\">https://news.ycombinator.com/item?id=49274600</a></p>\n<p>Points: 274</p>\n<p># Comments: 83</p>",
-      "published": "2026-08-12T16:04:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "На платформі OpenRouter стала доступна передова мовна модель DeepSeek V4 Pro 0813. Новинка викликала великий інтерес серед розробників та активно обговорюється у професійній спільноті завдяки оновленим можливостям.",
-      "ai_title": "Реліз нової мовної моделі DeepSeek V4 Pro 0813",
-      "video_keywords": "coding on screen, hacker typing, modern office, developer working"
     },
     {
       "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
@@ -99,16 +59,6 @@
       "ai_summary": "Новий підхід до розробки дозволяє створювати інтерактивні вебдодатки в реальному часі майже без використання JavaScript. Технологія базується на передачі HTML безпосередньо через WebSockets, що спрощує архітектуру.",
       "ai_title": "Створення швидких вебдодатків через HTML та WebSockets",
       "video_keywords": "web development, code on screen, laptop keyboard, programmer hands"
-    },
-    {
-      "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
-      "link": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-      "summary": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/76t89hbfb09h\">https://www.githubstatus.com/incidents/76t89hbfb09h</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49274894\">https://news.ycombinator.com/item?id=49274894</a></p>\n<p>Points: 46</p>\n<p># Comments: 11</p>",
-      "published": "2026-08-12T16:22:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Платформа GitHub повідомила про технічний інцидент, що вплинув на роботу систем Pull Requests та Issues. Розробники зіткнулися з тимчасовими затримками та помилками при обробці запитів.",
-      "ai_title": "Збій у роботі GitHub: проблеми з пул-реквестами",
-      "video_keywords": "server room, data center, flashing lights, IT engineer working"
     },
     {
       "title": "ICE wants to give agents electrified gloves that shock people into compliance",
@@ -869,39 +819,49 @@
       "ai_summary": "З'явилася нова платформа APIMart, що пропонує агрегований доступ до API новітніх моделей зі знижками. Сервіс орієнтований на розробників, які шукають вигідні умови для інтеграції потужних інструментів.",
       "ai_title": "APIMart: агрегатор знижок на API для передових моделей",
       "video_keywords": "API integration, dashboard, digital neon, developer working"
+    },
+    {
+      "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+      "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "summary": "<p>Article URL: <a href=\"https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300314\">https://news.ycombinator.com/item?id=49300314</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
+      "published": "2026-08-14T15:43:10+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Google інтегрує гомоморфне шифрування у свої інструменти штучного інтелекту для забезпечення повної приватності даних. Ця технологія дозволяє обробляти інформацію та навчати моделі без розшифрування самих даних, що виводить безпеку користувачів на новий рівень.",
+      "ai_title": "Google робить конфіденційний штучний інтелект реальністю",
+      "video_keywords": "cyber security, data encryption, digital code, server room"
+    },
+    {
+      "title": "Qwen3.8-27B",
+      "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/alibaba_qwen/status/2088280182356611304\">https://twitter.com/alibaba_qwen/status/2088280182356611304</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299684\">https://news.ycombinator.com/item?id=49299684</a></p>\n<p>Points: 224</p>\n<p># Comments: 86</p>",
+      "published": "2026-08-14T15:03:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили чергову версію відкритої мовної моделі Qwen із 27 мільярдами параметрів. Новинка демонструє вражаючі результати в тестах, конкуруючи з багатьма провідними закритими аналогами.",
+      "ai_title": "Вийшла нова потужна мовна модель Qwen3.8-27B",
+      "video_keywords": "artificial intelligence, glowing brain, digital network, glowing lines"
+    },
+    {
+      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+      "link": "https://github.com/NanoNets/Graft",
+      "summary": "<p>Article URL: <a href=\"https://github.com/NanoNets/Graft\">https://github.com/NanoNets/Graft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299985\">https://news.ycombinator.com/item?id=49299985</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+      "published": "2026-08-14T15:22:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники випустили спеціальні хуки під назвою Graft для Claude Code, які значно оптимізують пошукові запити. Це рішення дозволяє скоротити використання токенів grep майже вдвічі, роблячи роботу з AI-асистентами економнішою.",
+      "ai_title": "Новий інструмент скорочує витрати токенів для Claude Code",
+      "video_keywords": "programming code, computer screen, developer typing, software interface"
+    },
+    {
+      "title": "France blocks social media ban because it would require adults to prove age",
+      "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/\">https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300671\">https://news.ycombinator.com/item?id=49300671</a></p>\n<p>Points: 19</p>",
+      "published": "2026-08-14T16:06:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Вищий суд Франції визнав неконституційним законопроєкт про заборону соціальних мереж для неповнолітніх. Судді вирішили, що закон суперечить свободі слова, оскільки вимагає від усіх дорослих користувачів складного підтвердження віку.",
+      "ai_title": "Франція заблокувала заборону соцмереж через проблему перевірки віку",
+      "video_keywords": "smartphone screen, social media feed, courtroom gavel, legal document"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "published": "2026-08-12T16:04:27+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія залучила ще 400 мільйонів доларів інвестицій на тлі стрімкого зростання доходів. Нова оцінка робить стартап одним із найуспішніших у своїй сфері цього року.",
-      "ai_title": "Стартап Lovable оцінили в $13,3 мільярда після нового раунду фінансування",
-      "video_keywords": "startup office, financial chart, business meeting, investors"
-    },
-    {
-      "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators",
-      "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
-      "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
-      "published": "2026-08-12T15:56:13+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий мобільний застосунок оснащений штучним інтелектом, який допомагає авторам контенту аналізувати аудиторію. ШІ надає персоналізовані рекомендації щодо стилю та залученості користувачів.",
-      "ai_title": "Facebook випустив окремий додаток Creator Studio з вбудованим ШІ",
-      "video_keywords": "smartphone screen, content creator, social media app, typing on phone"
-    },
-    {
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "published": "2026-08-12T15:44:56+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Придбання компанії на чверть мільярда доларів завершилося скандалом та судовими позовами через підроблені підписи. Інвестори досі намагаються повернути свої кошти.",
-      "ai_title": "Мільйонна угода VideoVerse обвалилася через звинувачення у шахрайстві",
-      "video_keywords": "courtroom, businessman worried, signing documents, stressed person"
-    },
     {
       "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
       "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
@@ -921,26 +881,6 @@
       "ai_summary": "Виробник розумних пристроїв Sandbar вважає, що майбутнє штучного інтелекту у носієнній електроніці належить голосовому керуванню. Нове покоління мініатюрних гаджетів у вигляді каблучок дозволяє зручно фіксувати випадкові думки та ідеї на ходу.",
       "ai_title": "Стартап Sandbar робить ставку на голосові ШІ-пристрої у форм-факторі каблучки",
       "video_keywords": "smart ring, person wearing ring, voice assistant, modern wearable"
-    },
-    {
-      "title": "Tesla wants to build a $10B solar factory in Texas",
-      "link": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-      "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
-      "published": "2026-08-12T16:18:31+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Ілона Маска має намір звести масштабне підприємство з виробництва сонячних панелей вартістю 10 мільярдів доларів. Проте для реалізації амтного проєкту Tesla сподівається на фінансову підтримку та субсидії від штату.",
-      "ai_title": "Tesla планує збудувати гігантський завод сонячних батарей у Техасі",
-      "video_keywords": "solar panels, massive factory, industrial construction, sunny field"
-    },
-    {
-      "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-      "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
-      "summary": "Form Energy has landed Google and Crusoe as customers. Now, it has raised $750 million to expand manufacturing to deliver its massive, 100-hour batteries.",
-      "published": "2026-08-12T16:18:23+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Form Energy зібрала значний капітал для розширення виробництва своїх інноваційних 100-годинних батарей для енергомереж. Серед ключових клієнтів стартапу вже є такі техногіганти, як Google.",
-      "ai_title": "Виробник акумуляторів Form Energy залучив $750 мільйонів інвестицій",
-      "video_keywords": "large industrial battery, energy storage, power station, electrical grid"
     },
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -1328,6 +1268,36 @@
       "ai_summary": "Французький стартап Kog доводить, що думка про непристосованість графічних процесорів для агентних робочих процесів є помилкою. Компанія знаходить нові способи вичавити максимум продуктивності з GPU для завдань штучного інтелекту.",
       "ai_title": "Французький стартап Kog оптимізує роботу GPU для штучного інтелекту",
       "video_keywords": "server room, computer processor, microchip, glowing hardware"
+    },
+    {
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+      "published": "2026-08-14T16:21:04+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Незалежний розробник Марко Армент випустив новий додаток Unforgetful. Він створений спеціально для людей, які постійно відкладають нагадування та випадково їх закривають.",
+      "ai_title": "Відомий розробник створив застосунок для нагадувань, які неможливо ігнорувати",
+      "video_keywords": "smartphone screen, pushing button, person typing, mobile app"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+      "published": "2026-08-14T16:13:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Користувачі тепер зможуть вимикати спеціальні мітки на згенерованому штучним інтелектом контенті. Проте невидимі цифрові водяні знаки для ідентифікації таких файлів залишаться активними.",
+      "ai_title": "Google дозволить прибирати видимі водяні знаки з ШІ-зображень",
+      "video_keywords": "computer monitor, editing photo, clicking mouse, digital art"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [",
+      "published": "2026-08-14T15:43:28+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Meta представила модель Glimmer, яку користувачі можуть завантажити та запустити на власному обладнанні. Цей крок супроводжувався заявою Цукерберга про те, що технології ШІ мають бути доступними для всіх, а не контролюватися лише кількома компаніями.",
+      "ai_title": "Марк Цукерберг випустив нову відкриту модель штучного інтелекту",
+      "video_keywords": "person working on laptop, server room, code on screen, office desk"
     }
   ],
   "Крипта": [
@@ -1342,16 +1312,6 @@
       "video_keywords": "artificial intelligence, server room, digital brain, futuristic technology"
     },
     {
-      "title": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
-      "link": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
-      "summary": "",
-      "published": "2026-08-12T16:14:49+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Платформа на базі Solana почала використовувати фінансові потоки даних від Kalshi. Це дозволить трейдерам отримувати інформацію у стилі Волл-стріт для укладання угод на підвищених швидкостях.",
-      "ai_title": "Solana інтегрує швидкісні дані ринку прогнозів Kalshi",
-      "video_keywords": "trading floor, stock charts, digital screens, financial data"
-    },
-    {
       "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
       "link": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of England tests stablecoin, digital pound interoperability in cross-border payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-1.jpg\" /></p><p>The Digital Pound Lab is testing a cross-border trade finance flow combining stableco",
@@ -1360,16 +1320,6 @@
       "ai_summary": "Британський регулятор розпочав випробування інтеграції стейблкоїнів та цифрового фунта. Тести спрямовані на покращення та прискорення транскордонних торговельних фінансових операцій.",
       "ai_title": "Банк Англії тестує стейблкоїни для міжнародних платежів",
       "video_keywords": "bank building, digital currency, mobile banking, international money transfer"
-    },
-    {
-      "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
-      "link": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-hashkey-plans-to-become-hong-kongs-first-crypto-ipo-1.jpg\" /></p><p>HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional acce",
-      "published": "2026-08-12T16:07:59+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптобіржа HashKey стала офіційним дистриб'ютором нового стейблкоїна HKDAP. Це нововведення покликане розширити доступ інституційних інвесторів до ліцензованих цифрових активів у Гонконзі.",
-      "ai_title": "HashKey запускає бета-тестування регульованого гонконгського стейблкоїна",
-      "video_keywords": "hong kong skyline, crypto trading, office meeting, financial district"
     },
     {
       "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
@@ -2131,6 +2081,26 @@
       "ai_summary": "Вартість першої криптовалюти продовжує знижуватися до нових серпневих мінімумів. Трейдери застерігають, що невдале закриття тижня може спровокувати ще більше падіння попри позитивні дані щодо інфляції в США.",
       "ai_title": "Ціна Біткоїна впала до 62 500 доларів на тлі попереджень про подальші втрати",
       "video_keywords": "bitcoin chart, downward graph, crypto trading screen, financial red candles"
+    },
+    {
+      "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
+      "link": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-why-21-is-betting-on-10-cryptos-not-just-bitcoin-and-ethereum-zz.png\" /></p><p>Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies direc",
+      "published": "2026-08-14T15:41:49+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Клієнти Bank Leumi отримають можливість купувати, зберігати та продавати Bitcoin, Ether і Solana напряму через банківські сервіси. Партнером у цьому проєкті виступає криптовалютна компанія Galaxy.",
+      "ai_title": "Найбільший банк Ізраїлю запускає торгівлю криптовалютою",
+      "video_keywords": "bank building, digital banking, smartphone crypto, financial app"
+    },
+    {
+      "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
+      "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto Biz: Bitcoin’s $116M self-custody wake-up call\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/coma-crypto-market-falling-bitcoin-1.jpg\" /></p><p>A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billio",
+      "published": "2026-08-14T15:29:13+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Масштабний хакерський злам гаманця змусив криптоспільноту знову замислитися над ризиками некастодіального зберігання активів. Цей інцидент стався на тлі відновлення приток капіталу в спотові ETF та активізації майнерів.",
+      "ai_title": "Крадіжка 116 мільйонів доларів у біткоїнах ставить під загрозу безпеку самостійного зберігання",
+      "video_keywords": "hacker computer screen, cybersecurity code, digital vault, padlock security"
     }
   ]
 }
