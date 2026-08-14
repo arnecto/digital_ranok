@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Spotify will mark AI performers with special badges. Such music will not appear in recommendations",
-      "link": "https://en.ain.ua/2026/08/12/spotify-will-mark-ai-performers-with-special-badges/",
-      "summary": "Starting mid-September, those pages will display a special AI Persona badge, and the performers themselves will be hidden from recommendations by default.",
-      "published": "2026-08-12T11:15:00+00:00",
-      "source": "",
-      "ai_summary": "Починаючи з середини вересня, Spotify запроваджує спеціальні позначки для виконавців, створених за допомогою штучного інтелекту. Такі треки та виконавці за замовчуванням не з'являтимуться в рекомендаціях користувачів.",
-      "ai_title": "Spotify маркуватиме треки, створені штучним інтелектом",
-      "video_keywords": "smartphone screen, music app, listening to music, digital interface"
-    },
-    {
       "title": "Grok is now an AI ‘teammate’ you can assign work",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
       "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
@@ -39,16 +29,6 @@
       "ai_summary": "Нова дискусія у спільноті розробників підняла проблему створення пакетів програмного забезпечення для операційної системи Linux. Через безліч дистрибутивів та різних форматів збірки цей процес залишається надзвичайно складним і виснажливим.",
       "ai_title": "Чому пакування софту для Linux досі викликає головний біль у розробників",
       "video_keywords": "programmer typing code, dark mode terminal, multiple monitors, coding on laptop"
-    },
-    {
-      "title": "Delphi 13 Community Edition Is Now Available",
-      "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-      "summary": "<p>Article URL: <a href=\"https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/\">https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270621\">https://news.ycombinator.com/item?id=49270621</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-12T11:13:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія офіційно представила випуск середовища розробки Delphi 13 у редакції Community Edition для незалежних розробників та невеликих команд. Це дозволяє створювати кросплатформні додатки за допомогою класичної мови програмування без початкових витрат на ліцензію.",
-      "ai_title": "Embarcadero випустила безплатну версію Delphi 13 Community Edition",
-      "video_keywords": "software code editor, developer workspace, typing on mechanical keyboard, dual monitors"
     },
     {
       "title": "Insta360’s next 360-degree action cam puts bigger sensors in a smaller design",
@@ -929,29 +909,49 @@
       "ai_summary": "Компанія Apple розробила кастомну модель штучного інтелекту для китайського ринку за підтримки місцевого гіганта Alibaba. Це рідкісний приклад транскордонної співпраці на тлі напружених відносин між Пекіном і Вашингтоном.",
       "ai_title": "Apple створила спеціальну AI-модель для Китаю у партнерстві з Alibaba",
       "video_keywords": "smartphone screen, office meeting, businesswoman typing, server room"
+    },
+    {
+      "title": "Everyone talks about AI agents. This is what one looks from the inside",
+      "link": "https://pssah4.github.io/vault-operator/guides/capabilities",
+      "summary": "<p>Article URL: <a href=\"https://pssah4.github.io/vault-operator/guides/capabilities\">https://pssah4.github.io/vault-operator/guides/capabilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296964\">https://news.ycombinator.com/item?id=49296964</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-14T10:44:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття пропонує зазирнути під капот сучасних штучних інтелектів та побачити, як влаштовані автономні агенти. Розглядаються їхні внутрішні можливості, архітектура та принципи взаємодії з різними інструментами.",
+      "ai_title": "Аналіз роботи сучасних AI-агентів зсередини",
+      "video_keywords": "coding screen, matrix code, developer hands, computer monitor"
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "summary": "<p>Article URL: <a href=\"https://mun-logadan.github.io/why-does-opus-5-feel-worse/\">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296740\">https://news.ycombinator.com/item?id=49296740</a></p>\n<p>Points: 62</p>\n<p># Comments: 58</p>",
+      "published": "2026-08-14T10:12:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі та розробники активно обговорюють поведінку моделі Opus 5 та її продуктивність. З'явилися занепокоєння щодо того, чому остання ітерація викликає менше задоволення під час практичних завдань у порівнянні з попередниками.",
+      "ai_title": "Чому нова версія Opus здається гіршою у роботі?",
+      "video_keywords": "frustrated worker, computer screen, typing keyboard, office stress"
+    },
+    {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "link": "https://api-docs.deepseek.com/news/news260813/",
+      "summary": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/news/news260813/\">https://api-docs.deepseek.com/news/news260813/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296627\">https://news.ycombinator.com/item?id=49296627</a></p>\n<p>Points: 30</p>\n<p># Comments: 7</p>",
+      "published": "2026-08-14T09:55:33+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярна платформа штучного інтелекту DeepSeek оголосила про зміни у тарифікації API. Оновлення стосується диференціації цін залежно від завантаження системи у піковий та непіковий час.",
+      "ai_title": "DeepSeek оновлює цінову політику для пікових годин",
+      "video_keywords": "server room, data center, blinking lights, digital graphs"
+    },
+    {
+      "title": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+      "summary": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels [&#8230;]",
+      "published": "2026-08-14T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Нова портативна ігрова консоль від MSI отримала потужний чіп від Intel та покращений дизайн. Попри вражаючу продуктивність та статус однієї з найважливіших портативних систем після Steam Deck, пристрій все ще має свої нюанси.",
+      "ai_title": "MSI Claw EX задає новий стандарт для портативних консолей",
+      "video_keywords": "gaming handheld, portable console, video games, gamer hands"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-      "published": "2026-08-12T11:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Blacksmith, що розробляє інструменти для тестування коду за допомогою штучного інтелекту, продемонстрував стрімке зростання. За останній рік компанія збільшила свої доходи більш ніж у десять разів, що призвело до різкого стрибка її ринкової оцінки.",
-      "ai_title": "Оцінка AI-стартапу Blacksmith зросла майже у 10 разів менш ніж за рік",
-      "video_keywords": "startup office, computer screen, coding, teamwork"
-    },
-    {
-      "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
-      "link": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai",
-      "summary": "<p><a href=\"https://www.skan.ai/\">Skan AI</a>, a startup that builds what it calls a &quot;<a href=\"https://www.skan.ai/blogs/context-graph-of-work-skan-ai\">context graph of work</a>&quot; by observing how employees actually perform their jobs across enterprise software, has raised $63 million in Series C funding co-led by <a href=\"https://cathayinnovation.com/\">Cathay Innovation</a> and <a href=\"",
-      "published": "2026-08-12T11:00:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Компанія Skan AI залучила 63 мільйони доларів у раунді фінансування серії C. Стартап створює «контекстний граф роботи», спостерігаючи за тим, як співробітники виконують свої обов'язки в корпоративному програмному забезпеченні.",
-      "ai_title": "Стартап Skan AI залучив $63 мільйони для аналізу робочих процесів",
-      "video_keywords": "office workers, data analytics, computer monitors, corporate meeting"
-    },
     {
       "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
       "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
@@ -1441,29 +1441,16 @@
       "ai_summary": "Розробник систем стеження робить обов'язковим новий сервіс \"Audit Assistance\" для всіх клієнтів. Проте компанія досі не розкрила технічні деталі його роботи, що викликає сумніви у його ефективності серед експертів.",
       "ai_title": "Компанія Flock випускає інструмент для виявлення зловживань поліції без пояснення принципів роботи",
       "video_keywords": "surveillance camera, computer screen, data dashboard, security monitoring"
+    },
+    {
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "summary": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+      "published": "2026-08-14T10:44:30+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
-    {
-      "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
-      "link": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
-      "summary": "",
-      "published": "2026-08-12T11:19:32+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Влада Росії розглядає можливість обмежити операції для роздрібних інвесторів виключно найпопулярнішими цифровими активами. Згідно з новими ініціативами, торгівля може бути дозволена лише для біткоїна, ефіріума та стейблкоїна USDT.",
-      "ai_title": "Росія готується обмежити роздрібну торгівлю криптовалютою",
-      "video_keywords": "cryptocurrency trading, digital coins, smartphone screen charts, finance exchange"
-    },
-    {
-      "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
-      "summary": "",
-      "published": "2026-08-12T11:15:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Обсяги торгів та ставки за ф'ючерсами на XRP досягли максимальних показників з жовтня. Це відбувається в очікуванні свіжих даних індексу споживчих цін (CPI), які можуть суттєво вплинути на волатильність криптовалюти.",
-      "ai_title": "Активність на ринку XRP стрімко зростає на тлі нових макроекономічних даних",
-      "video_keywords": "crypto trading charts, financial graphs, stock market monitors, digital currency trading"
-    },
     {
       "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
       "link": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
@@ -2244,6 +2231,26 @@
       "ai_summary": "Компанія RedotPay змушена відкласти своє первинне публічне розміщення акцій у США. Причиною стали затримки в отриманні необхідних регуляторних схвалень та юридичні труднощі.",
       "ai_title": "RedotPay відкладає вихід на американську біржу через регуляторні перешкоди",
       "video_keywords": "stock market, trading floor, business meeting, documents"
+    },
+    {
+      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
+      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
+      "summary": "",
+      "published": "2026-08-14T11:06:12+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс біткоїна знизився через те, що дані щодо інфляції в США не змогли стимулювати зростання ринку. Крім того, спотові біткоїн-ETF зафіксували перше дводенне падіння за весь серпень.",
+      "ai_title": "Біткоїн дешевшає на тлі слабкої інфляції в США та відтоку коштів з ETF",
+      "video_keywords": "bitcoin chart, red candles, stock market crash, cryptocurrency trading"
+    },
+    {
+      "title": "Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’",
+      "link": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/analys-analytics-building-window-glass-red-1.jpg\" /></p><p>Bitcoin futures open interest on Binance fell alongside BTC price as analysis published on CryptoQuant flagged mounting pre",
+      "published": "2026-08-14T10:43:57+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ціна біткоїна наближається до нових локальних мінімумів місяця. На цьому тлі на біржі Binance відбувається масова зачистка трейдерів, які ставили на зростання активу.",
+      "ai_title": "Біткоїн тестує серпневі мінімуми через масову ліквідацію довгих позицій на Binance",
+      "video_keywords": "trader looking at monitor, liquidation, crypto exchange screen, panic selling"
     }
   ]
 }
