@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "summary": "<p>Article URL: <a href=\"https://www.netlify.com/blog/one-prompt-11-models-very-different-results/\">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285327\">https://news.ycombinator.com/item?id=49285327</a></p>\n<p>Points: 45</p>\n<p># Comments: 21</p>",
-      "published": "2026-08-13T13:05:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експеримент показує, як один і той самий текстовий запит дає абсолютно несхожі відповіді у різних популярних ШІ-моделях. Це підкреслює унікальність архітектури кожного алгоритму та важливість правильного вибору інструменту під конкретні завдання.",
-      "ai_title": "Один промпт для 11 моделей штучного інтелекту: чому результати такі різні",
-      "video_keywords": "computer monitor, typing hands, AI interface, split screen"
-    },
-    {
       "title": "DeepSeek Harness",
       "link": "https://github.com/deepseek-ai/deepseek-harness",
       "summary": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/deepseek-harness\">https://github.com/deepseek-ai/deepseek-harness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285244\">https://news.ycombinator.com/item?id=49285244</a></p>\n<p>Points: 61</p>\n<p># Comments: 22</p>",
@@ -999,6 +989,16 @@
       "ai_summary": "Бруклінський художник та технолог Джастін Блайндер створив пристрій Ground Truth, який підключено до додатку доставки. Велосипед починає сильніше гальмувати та ускладнює крутіння педалей, коли кур'єр проїжджає повз райони з недоступно високими цінами на житло. Цей артпроєкт привертає увагу до соціальної нерівності та проблем житлової кризи.",
       "ai_title": "Художник створив велосипед, який ускладнює педалювання, якщо оренда житла занадто висока",
       "video_keywords": "delivery cyclist, bicycle pedaling, city street, modern art installation"
+    },
+    {
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "link": "https://sankalp.bearblog.dev/autoresearch/",
+      "summary": "<p>Article URL: <a href=\"https://sankalp.bearblog.dev/autoresearch/\">https://sankalp.bearblog.dev/autoresearch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309549\">https://news.ycombinator.com/item?id=49309549</a></p>\n<p>Points: 41</p>\n<p># Comments: 7</p>",
+      "published": "2026-08-15T11:00:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник поділився досвідом використання штучного інтелекту для автоматичного дослідження та оптимізації коду. Завдяки цьому підходу вдалося досягти вражаючого прискорення обчислювального ядра у 232 рази.",
+      "ai_title": "Автоматизовані дослідження: як вдалося прискорити роботу ядра у 232 рази",
+      "video_keywords": "coding on laptop, lines of code, software developer, computer screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1921,6 +1921,16 @@
       "ai_summary": "Регулятори зобов'язали платформу Kalshi запровадити геофенсинг для обмеження доступу користувачів до певних ринків прогнозів у штаті Вашингтон. Компанія має розгорнути систему перевірки геолокації для дотримання місцевих законодавчих вимог.",
       "ai_title": "Платформу Kalshi змусили обмежити ринки прогнозів у Вашингтоні",
       "video_keywords": "smartphone screen, cryptocurrency trading, financial charts, geo restriction"
+    },
+    {
+      "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+      "link": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+      "summary": "",
+      "published": "2026-08-15T12:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Відомий прихильник Ethereum застерігає традиційні фінансові компанії від створення закритих блокчейн-мереж. На його думку, такий підхід є хибним і нагадує «перегони на дно», оскільки ігнорує справжню децентралізацію.",
+      "ai_title": "Приватні блокчейни Волл-Стріт: чому експерти застерігають від пастки",
+      "video_keywords": "wall street, digital stock market, blockchain code, financial charts"
     }
   ]
 }
