@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Samsung&#8217;s $1,900 Z Fold 8 is still vulnerable to pocket lint",
-      "link": "https://www.theverge.com/tech/979421/ifixit-samsung-galaxy-z-fold-8-hinge",
-      "summary": "iFixit has provisionally given Samsung's Galaxy Z Fold 8 a repairability score of 4 out of 10, which largely hinged on… well, the hinge. In its teardown of the device, iFixit found that because it carries an IP48 ingress rating - meaning it isn't protected against particles under 1 millimeter - dust and sand could [&#8230;]",
-      "published": "2026-08-13T14:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Експерти з iFixit розібрали Samsung Galaxy Z Fold 8 і поставили йому низьку оцінку ремонтопридатності. Виявилося, що шарнір смартфона погано захищений від дрібних часточок пилу та піску з кишень.",
-      "ai_title": "Новий складний смартфон від Samsung все ще боїться пилу",
-      "video_keywords": "smartphone teardown, repair tools, electronic circuit, magnifying glass"
-    },
-    {
-      "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
-      "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
-      "summary": "<p>Article URL: <a href=\"https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/\">https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286057\">https://news.ycombinator.com/item?id=49286057</a></p>\n<p>Points: 10</p>\n<p># Comments: 7</p>",
-      "published": "2026-08-13T13:57:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Платформи цифрового контенту стрімко заповнюються тривимірними моделями, створеними за допомогою штучного інтелекту. Проте реальний попит на них виявився мізерним через низьку якість та перенасичення ринку.",
-      "ai_title": "Ринковий бум спав: чому ніхто не купує згенеровані штучним інтелектом 3D-моделі",
-      "video_keywords": "3d modeling, computer graphics, digital artist, empty marketplace"
-    },
-    {
-      "title": "Anthropic: Introducing The Conceptual Reasoning Index",
-      "link": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-      "summary": "<p>Article URL: <a href=\"https://alignment.anthropic.com/2026/conceptual-reasoning-index/\">https://alignment.anthropic.com/2026/conceptual-reasoning-index/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285909\">https://news.ycombinator.com/item?id=49285909</a></p>\n<p>Points: 26</p>\n<p># Comments: 17</p>",
-      "published": "2026-08-13T13:48:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic представила Conceptual Reasoning Index — спеціальний інструмент для вимірювання здатності штучного інтелекту до глибокого концептуального аналізу. Це допоможе розробникам краще розуміти межі можливостей сучасних мовних моделей.",
-      "ai_title": "Anthropic презентує новий індекс для оцінки концептуального мислення AI",
-      "video_keywords": "data analysis, tech office, computer monitors, software engineer"
-    },
-    {
       "title": "Does Google even want to win at AI?",
       "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
       "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
@@ -79,16 +49,6 @@
       "ai_summary": "Експерти з безпеки довели, що текстові водяні знаки, які генерують штучним інтелектом, не є надійним захистом. Їх можна легко обійти або повністю видалити за допомогою мінімальних зусиль.",
       "ai_title": "Водяні знаки для штучного інтелекту надто легко видалити",
       "video_keywords": "typing on keyboard, code on screen, cyber security, digital data"
-    },
-    {
-      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-      "link": "https://github.com/fellowgeek/mcp-memory",
-      "summary": "<p>Article URL: <a href=\"https://github.com/fellowgeek/mcp-memory\">https://github.com/fellowgeek/mcp-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286073\">https://news.ycombinator.com/item?id=49286073</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
-      "published": "2026-08-13T13:57:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили проєкт MCP Memory, який забезпечує швидку та ефективну пам'ять для штучного інтелекту. Система поєднує технології Google OKF та базу даних SQLite для кращої роботи агентів.",
-      "ai_title": "Новий інструмент швидкої пам'яті для AI-агентів",
-      "video_keywords": "server room, data center, futuristic interface, microchip"
     },
     {
       "title": "I requested a copy of my data from McDonald’s loyalty program",
@@ -1039,6 +999,26 @@
       "ai_summary": "З'явився новий онлайн-сервіс для моніторингу трафіку суден у режимі реального часу через стратегічно важливу Ормузьку протоку. Платформа дозволяє спостерігати за пересуванням морського транспорту на інтерактивній карті. Це рішення важливе для логістики та безпеки морських перевезень.",
       "ai_title": "Запуск платформи відстеження судноплавства в Ормузькій протоці",
       "video_keywords": "cargo ship, ocean navigation, computer monitor, maritime map"
+    },
+    {
+      "title": "388 years ago, Galileo worked out why human giants can't exist",
+      "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+      "summary": "<p>Article URL: <a href=\"https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/\">https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310277\">https://news.ycombinato",
+      "published": "2026-08-15T13:15:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Наукова стаття розповідає про відкриття Галілея 388 років тому, яке пояснює закони фізики та чому біологічні розміри живих істот мають обмеження. Дослідження описує фундаментальні закони масштабування в природі.",
+      "ai_title": "Як Галілео Галілей пояснив неможливість існування велетнів",
+      "video_keywords": "astronomy telescope, historic book, ancient library, old manuscript"
+    },
+    {
+      "title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
+      "link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
+      "summary": "With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th [&#8230;]",
+      "published": "2026-08-15T14:03:14+00:00",
+      "source": "The Verge",
+      "ai_summary": "Кіностудія Marvel офіційно представила акторів, які зіграють у новому фільмі про Людей Ікс у межах кінематографічного всесвіту Marvel. Зокрема, до акторського складу увійшли Інде Наварретт та Адам Драйвер.",
+      "ai_title": "Marvel оголосила новий акторський склад фільму про X-Men",
+      "video_keywords": "cinema crowd, movie theater, red carpet, actors on stage"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1941,6 +1921,26 @@
       "ai_summary": "Відомий аналітик Маркус Тілен заявив, що досягнення ціни біткоїна в один мільйон доларів до 2030 року вимагає трильйонів доларів припливу капіталу. На його думку, такий сценарій є нереалістичним через обмеженість ринкової ліквідності та економічні реалії. Подібні прогнози експерт назвав радше спекулятивними, ніж обґрунтованими.",
       "ai_title": "Біткоїн по мільйону доларів до 2030 року є «математично неможливим»",
       "video_keywords": "bitcoin chart, financial graph, falling numbers, cryptocurrency trading"
+    },
+    {
+      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+      "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+      "summary": "",
+      "published": "2026-08-15T14:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Масштабне фінансування у розмірі 11,2 мільярда доларів напередодні 2026 року суттєво вплинуло на ринок. Ці кошти фактично поклали край первісній децентралізованій епосі криптоіндустрії, привівши її до регульованих стандартів. Тепер галузь змушена адаптуватися до нових правил гри під тиском великого капіталу.",
+      "ai_title": "Як мільярдні інвестиції змінили епоху криптовалют",
+      "video_keywords": "financial charts, digital currency, stock market screen, business office"
+    },
+    {
+      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
+      "link": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
+      "summary": "",
+      "published": "2026-08-15T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Законодавча ініціатива Clarity ледве втрималася під час обговорень, тоді як компанія Strategy провела продаж активів. Окрім цього, стало відомо про за лаштунки грандіозної угоди Mastercard на 1,8 мільярда доларів. Ці події сформували ключові тренди та новини криптоіндустрії за останній тиждень.",
+      "ai_title": "Збереження регуляції та мільярдні угоди Mastercard: головні події тижня в криптосвіті",
+      "video_keywords": "credit card payment, digital banking, stock trading, financial tablet"
     }
   ]
 }
