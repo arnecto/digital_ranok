@@ -21,16 +21,6 @@
       "video_keywords": "artificial intelligence, glowing brain, typing on keyboard, server room"
     },
     {
-      "title": "Mistral OCR 4.1",
-      "link": "https://docs.mistral.ai/models/ocr-4-1",
-      "summary": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/ocr-4-1\">https://docs.mistral.ai/models/ocr-4-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49288889\">https://news.ycombinator.com/item?id=49288889</a></p>\n<p>Points: 46</p>\n<p># Comments: 6</p>",
-      "published": "2026-08-13T17:05:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Французький стартап Mistral випустив нову версію своєї системи оптичного розпізнавання символів OCR 4.1. Технологія забезпечує ще більшу точність при перетворенні сканованих документів та зображень на редагований текст. Модель оптимізована для складних макетів сторінок та різних мов.",
-      "ai_title": "Mistral представила оновлену систему OCR 4.1",
-      "video_keywords": "document scanner, office printer, digital document, scanning paper"
-    },
-    {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=49289844</a></p>\n<p>Points: 116</p>\n<p># Comments: 23</p>",
@@ -1039,6 +1029,16 @@
       "ai_summary": "Вчені застерігають про нові ризики, адже сучасні алгоритми здатні проєктувати життєздатні вірусні структури. Це відкриття викликає занепокоєння у сфері біобезпеки через потенційне зловживання технологією.",
       "ai_title": "Штучний інтелект навчився створювати функціональні віруси: чи варто боятися?",
       "video_keywords": "laboratory, microscope, DNA strands, scientist"
+    },
+    {
+      "title": "A Spectre Is Haunting Unicode",
+      "link": "https://www.dampfkraft.com/ghost-characters.html",
+      "summary": "<p>Article URL: <a href=\"https://www.dampfkraft.com/ghost-characters.html\">https://www.dampfkraft.com/ghost-characters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310926\">https://news.ycombinator.com/item?id=49310926</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-15T14:34:04+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У світі стандартів кодування тексту виявлено вразливості та неочікувані проблеми, пов'язані з прихованими та невидимими символами. Це створює потенційні загрози для безпеки та коректності обробки текстових даних у сучасних програмних системах.",
+      "ai_title": "Приховані символи у стандартах Unicode",
+      "video_keywords": "computer screen, typing, code, monitor"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1051,16 +1051,6 @@
       "ai_summary": "Компанія OpenAI продовжує оновлювати керівний склад і призначила нового головного фахівця з продажів. Далі Раджі займе ключову посаду для посилення комерційного напрямку бізнесу.",
       "ai_title": "OpenAI призначила нового комерційного директора на тлі кадрових змін",
       "video_keywords": "business meeting, handshake, corporate office, modern boardroom"
-    },
-    {
-      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-      "link": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
-      "summary": "<p>DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.</p><p>The Chinese AI lab on Thursday <a href=\"https://x.com/deepseek_ai/status/2087864585504305397\">launched the official version of DeepSeek-V4-Pro</a>, an updated flagship model focused heavily on agentic workloads, alongside <a href=\"https://github.com/deepseek-ai/deepseek-harne",
-      "published": "2026-08-13T16:47:55+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Китайська лабораторія штучного інтелекту випустила оновлену модель V4-Pro разом з відкритим інструментом DeepSeek Harness. Компанія активно розширює свою присутність у сфері програмного забезпечення для створення ШІ-агентів.",
-      "ai_title": "DeepSeek представила новий флагманський ШІ-реліз та відкритий інструмент для розробників",
-      "video_keywords": "computer screen, programming code, software developer, futuristic technology"
     },
     {
       "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
