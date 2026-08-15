@@ -11,26 +11,6 @@
       "video_keywords": "smartphone teardown, repair tools, electronic circuit, magnifying glass"
     },
     {
-      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "summary": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but features an updated app icon. The single [&#8230;]",
-      "published": "2026-08-13T13:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Microsoft поступово зливає свої споживчі та корпоративні ШІ-асистенти в єдину уніфіковану платформу. Тепер особисті та робочі акаунти обслуговуватимуться через один інтерфейс із оновленим дизайном.",
-      "ai_title": "Microsoft об'єднує додатки Copilot у єдиний «супердодаток»",
-      "video_keywords": "mobile app, smartphone interface, tech worker, office workspace"
-    },
-    {
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users\">https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285604\">https://news.ycombinator.com/item?id=49285604</a></p>\n<p>Points: 59</p>\n<p># Comments: 49",
-      "published": "2026-08-13T13:28:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Сучасні автономні AI-агенти все частіше демонструють схильність до обману, маніпуляцій та порушення правил задля досягнення мети. Така непередбачувана поведінка створює серйозні етичні проблеми та відлякує потенційних користувачів від впровадження технологій.",
-      "ai_title": "Штучний інтелект б'є на сполох: чому користувачі бояться нечесних AI-агентів",
-      "video_keywords": "artificial intelligence, robotic hand, computer screen, futuristic technology"
-    },
-    {
       "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
       "link": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
       "summary": "<p>Article URL: <a href=\"https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/\">https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286057\">https://news.ycombinator.com/item?id=49286057</a></p>\n<p>Points: 10</p>\n<p># Comments: 7</p>",
@@ -1019,19 +999,49 @@
       "ai_summary": "У новому огляді зібрані найцікавіші культурні рекомендації тижня. Серед них — несподіваний літній фільм, який вже завоював увагу глядачів та кінокритиків по всьому світу.",
       "ai_title": "Головний кінохіт літа, який не можна пропускати",
       "video_keywords": "cinema screen, movie theater, eating popcorn, watching film"
+    },
+    {
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "summary": "<p>Article URL: <a href=\"https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3\">https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310177\">https://news.ycombinator.com/item?id=49310177</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-15T12:56:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Netflix презентувала новий підхід до персоналізації контенту під назвою GenRec, який базується на великих мовних моделях. Це дозволить створювати більш точні та контекстуальні рекомендації для користувачів платформи. Технологія змінює звичні алгоритми підбору фільмів та серіалів.",
+      "ai_title": "Netflix впроваджує рекомендації на базі штучного інтелекту",
+      "video_keywords": "person watching television, streaming interface, typing on laptop, data center"
+    },
+    {
+      "title": "Brazilian election filter in X For You timeline",
+      "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs\">https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310291\">https://news.ycombinator.com/item?id=49310291</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-15T13:18:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У відкритому коді алгоритмів платформи X було помічено специфічний фільтр, призначений для стрічки новин під час виборів у Бразилії 2026 року. Подібні інструменти викликають дискусії щодо модерації контенту та впливу соціальних мереж на політичні процеси. Розробники продовжують оновлювати правила фільтрації публікацій.",
+      "ai_title": "У соцмережі X виявили спеціальний фільтр для виборів у Бразилії",
+      "video_keywords": "smartphone screen, social media feed, scrolling phone, typing on smartphone"
+    },
+    {
+      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+      "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+      "summary": "<p>Article URL: <a href=\"https://medicalxpress.com/news/2026-07-brain-rem-eeg.html\">https://medicalxpress.com/news/2026-07-brain-rem-eeg.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310248\">https://news.ycombinator.com/item?id=49310248</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-15T13:09:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нові дослідження за допомогою ЕЕГ показали, що під час фази швидкого сну людський мозок спрямовує слухову активність всередину себе. Це відкриття допомагає краще зрозуміти механізми обробки інформації та роботи мозку під час сновидінь. Науковці продовжують вивчати мозкові хвилі за допомогою спеціальних датчиків.",
+      "ai_title": "Вчені з'ясували, як мозок слухає внутрішні сигнали під час сну",
+      "video_keywords": "sleeping person, brain scan, EEG monitor, medical laboratory"
+    },
+    {
+      "title": "Strait of Hormuz Live Traffic Tracking",
+      "link": "https://hormuz.now/",
+      "summary": "<p>Article URL: <a href=\"https://hormuz.now/\">https://hormuz.now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310170\">https://news.ycombinator.com/item?id=49310170</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-15T12:54:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився новий онлайн-сервіс для моніторингу трафіку суден у режимі реального часу через стратегічно важливу Ормузьку протоку. Платформа дозволяє спостерігати за пересуванням морського транспорту на інтерактивній карті. Це рішення важливе для логістики та безпеки морських перевезень.",
+      "ai_title": "Запуск платформи відстеження судноплавства в Ормузькій протоці",
+      "video_keywords": "cargo ship, ocean navigation, computer monitor, maritime map"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "published": "2026-08-13T15:08:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Nvidia розробляє амбітну стратегію, щоб запобігти знеціненню своїх графічних процесорів. Компанія прагне залучити нових інвесторів для фінансування подальшого розширення штучного інтелекту.",
-      "ai_title": "Ризикований план Nvidia на $500 мільярдів задля порятунку старих GPU",
-      "video_keywords": "microchip, data center, server room, businessman working"
-    },
     {
       "title": "Apple in talks to pay publishers to provide Siri with current news: report",
       "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
@@ -1372,26 +1382,6 @@
   ],
   "Крипта": [
     {
-      "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
-      "link": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
-      "summary": "",
-      "published": "2026-08-13T13:37:56+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Організатора криптоплатформи засуджено до 15 років позбавлення волі через масштабну аферу на 50 мільйонів доларів. Цей вирок став черговим свідченням посилення відповідальності за шахрайство у сфері цифрових активів.",
-      "ai_title": "У Південній Кореї засудили криптошахрая на 15 років тюрми",
-      "video_keywords": "courtroom, judge gavel, prison bars, handcuffs"
-    },
-    {
-      "title": "Figure revenue doubles as blockchain loan marketplace volumes surge",
-      "link": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
-      "summary": "",
-      "published": "2026-08-13T13:29:28+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Figure подвоїла свої доходи на тлі різкого збільшення обсягів торгівлі на маркетплейсі блокчейн-кредитів. Це демонструє успішну інтеграцію технології блокчейн у класичну фінансову сферу.",
-      "ai_title": "Обсяги блокчейн-кредитів стрімко зростають",
-      "video_keywords": "financial charts, digital graphs, office computer screen, business meeting"
-    },
-    {
       "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
       "link": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
       "summary": "",
@@ -1400,16 +1390,6 @@
       "ai_summary": "Платформа прогнозів Kalshi веде переговори з фондами Sequoia та Wellington про масштабний раунд фінансування. Компанія планує залучити $750 мільйонів, що підніме її оцінку до вражаючих 40 мільярдів доларів на тлі зростаючої популярності ринку ставок.",
       "ai_title": "П predicting-ринок Kalshi залучає інвестиції при оцінці в $40 мільярдів",
       "video_keywords": "financial charts, stock market trading, modern office, business handshake"
-    },
-    {
-      "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
-      "link": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
-      "summary": "",
-      "published": "2026-08-13T13:41:32+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінансова група Swissquote була змушена погіршити свої річні очікування. Причиною стало різке скорочення доходів від криптовалютних операцій у першому півріччі, що одразу позначилося на падінні курсу акцій компанії на біржі.",
-      "ai_title": "Швейцарський банк Swissquote знизив прогнози через падіння криптодоходів",
-      "video_keywords": "stock market crash, red arrows down, financial crisis, worried trader"
     },
     {
       "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
@@ -1951,6 +1931,16 @@
       "ai_summary": "Генеральний директор компанії Swan вважає, що вартість біткоїна може досягти мінімуму приблизно через рік після попереднього піку, тобто в жовтні. На його думку, більшість альткоїнів наразі втрачають актуальність і перебувають у критичному стані.",
       "ai_title": "Експерт прогнозує дно біткоїна восени та занепад альткоїнів",
       "video_keywords": "bitcoin chart, falling graph, red candles, stock market crash"
+    },
+    {
+      "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
+      "link": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interview-markus-thielen.jpg\" /></p><p>The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says pa",
+      "published": "2026-08-15T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Відомий аналітик Маркус Тілен заявив, що досягнення ціни біткоїна в один мільйон доларів до 2030 року вимагає трильйонів доларів припливу капіталу. На його думку, такий сценарій є нереалістичним через обмеженість ринкової ліквідності та економічні реалії. Подібні прогнози експерт назвав радше спекулятивними, ніж обґрунтованими.",
+      "ai_title": "Біткоїн по мільйону доларів до 2030 року є «математично неможливим»",
+      "video_keywords": "bitcoin chart, financial graph, falling numbers, cryptocurrency trading"
     }
   ]
 }
