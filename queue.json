@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-      "link": "https://www.ballet.dev/",
-      "summary": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-13T00:01:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розпочато тестування інструменту Ballet, який спрощує створення інтеграцій для будь-яких програмних інтерфейсів. Сервіс використовує автоматизацію робочих процесів, щоб зекономити час розробників на рутинних завданнях. Це рішення має прискорити зв'язування різних хмарних сервісів між собою.",
-      "ai_title": "Ballet: нова платформа для автоматизації робочих процесів та інтеграції API",
-      "video_keywords": "coding on laptop, software interface, developer typing, digital dashboard"
-    },
-    {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "link": "https://openai.com/codex/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/codex/\">https://openai.com/codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281916\">https://news.ycombinator.com/item?id=49281916</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-13T04:53:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "OpenAI випустила десктопну версію свого інструменту для операційної системи Linux. Це дозволить розробникам зручніше користуватися можливостями платформи безпосередньо у своїй робочій системі.",
-      "ai_title": "ChatGPT Desktop для Linux",
-      "video_keywords": "linux terminal, computer screen, typing code, developer workstation"
-    },
-    {
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "link": "https://celld.dev/",
       "summary": "<p>Article URL: <a href=\"https://celld.dev/\">https://celld.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281839\">https://news.ycombinator.com/item?id=49281839</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
@@ -899,6 +879,26 @@
       "ai_summary": "Автор аналізує потенційні архітектурні вразливості та дизайнерські помилки відкритих процесорів RISC-V. Стаття викликала обговорення серед розробників щодо надійності та безпеки нових мікросхем.",
       "ai_title": "Критика архітектури RISC-V: що пішло не так",
       "video_keywords": "microchip, circuit board, soldering iron, computer hardware"
+    },
+    {
+      "title": "Stop sending me huge PRs; a rant",
+      "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+      "summary": "<p>Article URL: <a href=\"https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va\">https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305558\">https://news.ycombinator.com/item?id=49305558</a></p>\n<p>Points: 47</p>\n<p># Comments: 27</p>",
+      "published": "2026-08-14T22:48:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор різко критикує практику надсилання величезних pull request'ів для перевірки коду. На його думку, такі запити надто складні для якісного аналізу та лише гальмують командну роботу. Краще надсилати невеликі порції коду для швидкого та ефективного рев'ю.",
+      "ai_title": "Чому великі пул-реквести дратують розробників",
+      "video_keywords": "programmer typing, computer screen, software code, frustrated office worker"
+    },
+    {
+      "title": "eigendrum",
+      "link": "https://eigendrum.com/#p=circle",
+      "summary": "<p>Article URL: <a href=\"https://eigendrum.com/#p=circle\">https://eigendrum.com/#p=circle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305250\">https://news.ycombinator.com/item?id=49305250</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-14T22:15:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа Eigendrum пропонує нестандартний інтерактивний підхід до створення та візуалізації ударних ритмів. Проєкт приваблює музикантів та ентузіастів новими інтерфейсами для генерації звуку. Це цікаве рішення на перетині аудіотехнологій та сучасного вебдизайну.",
+      "ai_title": "Eigendrum: новий погляд на електронні барабани",
+      "video_keywords": "electronic drums, musician playing, music studio, percussion pads"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1271,16 +1271,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "ASX shareholder plans to sue former directors over failed blockchain project",
-      "link": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ASX shareholder plans to sue former directors over failed blockchain project \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-1.jpg\" /></p><p>ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exch",
-      "published": "2026-08-13T01:00:57+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Австралійська біржа ASX стикається з новими юридичними проблемами через невдалу модернізацію системи розрахунків на базі блокчейну. Невдоволені інвестори та акціонери планують подати до суду на колишніх топменеджерів через фінансові збитки та неналежне управління проектом.",
-      "ai_title": "Акціонери ASX готують позов проти колишнього керівництва через провал блокчейн-проєкту",
-      "video_keywords": "courtroom, judge gavel, angry investors, business meeting, handshake, lawsuit documents"
-    },
     {
       "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
       "link": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
