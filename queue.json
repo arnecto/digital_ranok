@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Anthropic Risk August 2026 [pdf]",
-      "link": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-      "summary": "<p>Article URL: <a href=\"https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf\">https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303540\">https://news.ycombinator.com/item?id=49303540</a></p>\n<",
-      "published": "2026-08-14T19:32:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic опублікувала оновлений звіт щодо оцінки ризиків та безпеки штучного інтелекту станом на серпень 2026 року. Документ містить детальний аналіз потенційних загроз та методик запобігання непередбачуваній поведінці нових моделей. Це важливий крок до підвищення прозорості та безпеки в індустрії.",
-      "ai_title": "Новий звіт Anthropic про ризики в сфері ШІ",
-      "video_keywords": "cyber security, server room, data analysis, digital code"
-    },
-    {
-      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
-      "link": "https://www.aletheionagi.com",
-      "summary": "<p>Article URL: <a href=\"https://www.aletheionagi.com\">https://www.aletheionagi.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303499\">https://news.ycombinator.com/item?id=49303499</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-14T19:28:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено новий проєкт AletheionAGI, призначений для забезпечення суворого контролю фактів та приземлення даних для автономних ШІ-агентів. Інструмент допомагає мінімізувати галюцинації штучного інтелекту та підвищує надійність виконання складних завдань. Розробники пропонують практичне рішення для бізнес-додатків на базі великих мовних моделей.",
-      "ai_title": "AletheionAGI: контроль достовірності для ШІ-агентів",
-      "video_keywords": "artificial intelligence, computer screen, coding, futuristic interface"
-    },
-    {
-      "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
-      "link": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
-      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo\">https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303592\">https://news.ycombinator.com/item?id=49303592</a></p>\n<p>Points: 41</p>\n<p># Comments: 13</p>",
-      "published": "2026-08-14T19:36:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Керівник компанії Better.com Вішал Гарг, який став відомим після масового звільнення співробітників під час передсвяткового відеодзвінка, знову привертає увагу бізнес-спільноти. Його спроби повернутися на керівну позицію викликають бурхливі дискусії щодо етики та корпоративної культури в сучасному технологічному бізнесі.",
-      "ai_title": "Одвічний скандал: CEO, який звільнив 900 працівників через Zoom, хоче повернути посаду",
-      "video_keywords": "man working on laptop, video conference, office boardroom, stressed executive"
-    },
-    {
       "title": "Everything is about to \"go dark\"",
       "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
       "summary": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49304447\">https://news.ycombinator.com/item?id=49304447</a></p>\n<p>Points: 72</p>\n<p># Comments: 37</p>",
@@ -1110,19 +1080,19 @@
       "ai_summary": "Користувачі виявили, що Cloudflare без попередження додає JavaScript-код для збору аналітики на сайти при зміні серверів імен. Така поведінка викликала обурення в інтернет-спільноті через порушення принципів конфіденційності та відсутність опції добровільної згоди.",
       "ai_title": "Cloudflare автоматично впроваджує скрипти аналітики під час зміни серверів імен",
       "video_keywords": "server room blinking lights, web developer frustrated, laptop screen close up, code editor"
+    },
+    {
+      "title": "Protobuf has LSP support. You're welcome",
+      "link": "https://buf.build/blog/protobuf-lsp",
+      "summary": "<p>Article URL: <a href=\"https://buf.build/blog/protobuf-lsp\">https://buf.build/blog/protobuf-lsp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322573\">https://news.ycombinator.com/item?id=49322573</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-16T18:48:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники тепер можуть користуватися перевагами протоколу мовного сервера (LSP) при роботі з Protocol Buffers. Це значно спрощує написання код-стайлу, автодоповнення та навігацію в редакторах коду.",
+      "ai_title": "Protobuf отримав підтримку мовного сервера LSP",
+      "video_keywords": "computer screen, programming code, software developer typing"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-      "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "summary": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
-      "published": "2026-08-14T19:33:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Засновник Thrive Capital Джошуа Кушнер у своєму першому інвестиційному листі наголосив, що попри величезні перспективи штучного інтелекту, венчурним фондам не варто втрачати фінансову дисципліну на тлі загальної ейфорії. Він закликав інвесторів ретельніше зважувати ризики.",
-      "ai_title": "Джошуа Кушнер застеріг Кремнієву долину від втрати дисципліни через штучний інтелект",
-      "video_keywords": "business meeting, office handshake, modern boardroom, financial charts"
-    },
     {
       "title": "Self-driving trucks are officially testing on California highways",
       "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
