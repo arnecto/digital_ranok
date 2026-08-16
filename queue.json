@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "summary": "<p>Article URL: <a href=\"https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295238\">https://news.ycombinator.com/item?id=49295238</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-14T06:09:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з безпеки виявили критичний ланцюжок вразливостей десеріалізації в Ruby 4.0, який потенційно може призвести до віддаленого виконання коду. Це ставить під загрозу вебдодатки та сервери, що використовують вразливі компоненти цієї версії мови програмування. Розробникам рекомендується уважно стежити за оновленнями безпеки та патчами.",
-      "ai_title": "Уразливість RCE у Ruby 4.0: нова ланцюгова вразливість десеріалізації",
-      "video_keywords": "cybersecurity, hacker coding, computer screen, binary code"
-    },
-    {
       "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
       "link": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
       "summary": "<p>Article URL: <a href=\"https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil\">https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite",
@@ -1170,6 +1160,26 @@
       "ai_summary": "Відомий мислитель Нассім Талеб проаналізував фінансоване урядом дослідження впливу алкоголю на здоров'я. Він дійшов висновку, що робота має серйозні методологічні помилки та не витримує наукової критики. На його думку, подібні звіти часто вводять суспільство в оману через упередженість.",
       "ai_title": "Нассім Талеб розкритикував державне дослідження алкоголю",
       "video_keywords": "scientific charts, data analysis, reading document, calculator"
+    },
+    {
+      "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
+      "link": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
+      "summary": "<p>Article URL: <a href=\"https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/\">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316815\">https://news.ycombinator.com/item?id=49316815</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-16T04:07:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження виявило понад 21 тисячу відкритих серверів протоколу Model Context Protocol, що свідчить про серйозні проблеми з їхньою кібербезпекою. Така вразливість дозволяє зловмисникам отримувати несанкціонований доступ до даних та систем штучного інтелекту. Це змушує розробників терміново переглядати стандарти захисту для нових ШІ-інструментів.",
+      "ai_title": "Тисячі незахищених серверів MCP ставлять під загрозу безпеку ШІ",
+      "video_keywords": "server room, cyberspace, blinking lights, hacker computer screen"
+    },
+    {
+      "title": "ProofRun – a local verification receipt for AI coding agents",
+      "link": "https://github.com/yebiguo/ProofRun",
+      "summary": "<p>Article URL: <a href=\"https://github.com/yebiguo/ProofRun\">https://github.com/yebiguo/ProofRun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316605\">https://news.ycombinator.com/item?id=49316605</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-16T03:22:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Провідні розробники представили ProofRun — утиліту для створення локальних квитанцій перевірки коду, згенерованого штучним інтелектом. Цей інструмент допомагає автоматично контролювати якість та безпеку написаного нейромережами програмного забезпечення. Він працює локально, забезпечуючи конфіденційність та надійність у роботі з ШІ-агентами.",
+      "ai_title": "ProofRun: новий інструмент локальної верифікації для ШІ-програмістів",
+      "video_keywords": "computer monitor, typing code, software developer, programmer hands"
     }
   ],
   "Бізнес / Стартапи": [
