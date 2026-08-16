@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "link": "https://github.com/lajosdeme/mole",
-      "summary": "<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy bound",
-      "published": "2026-08-14T18:52:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий інструмент для глибоких досліджень через термінал, який вирішує проблеми високих витрат та неточних джерел традиційних ШІ-агентів. Програма працює з суворим контролем бюджету, перевіряє цитати та забезпечує повну конфіденційність локальних даних.",
-      "ai_title": "Новий AI-агент Mole для глибоких досліджень у терміналі",
-      "video_keywords": "terminal, coding, developer, computer screen"
-    },
-    {
       "title": "How Claude's text watermarking works",
       "link": "https://www.anthropic.com/news/claude-text-watermark",
       "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-text-watermark\">https://www.anthropic.com/news/claude-text-watermark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303350\">https://news.ycombinator.com/item?id=49303350</a></p>\n<p>Points: 15</p>\n<p># Comments: 8</p>",
@@ -29,16 +19,6 @@
       "ai_summary": "У коді застосунку Samsung Galaxy Wearable виявили згадки про майбутні навушники з кодовою назвою Galaxy H1. Вони мають стати прямими конкурентами для популярних AirPods Max і з'явитися на ринку у 2027 році.",
       "ai_title": "Samsung готує до виходу нові навушники повнорозмірного типу",
       "video_keywords": "headphones, over-ear, unboxing, person wearing headphones"
-    },
-    {
-      "title": "A RAMageddon guide to back-to-school laptop shopping",
-      "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? [&#8230;]",
-      "published": "2026-08-14T18:32:47+00:00",
-      "source": "The Verge",
-      "ai_summary": "Через глобальну кризу з виробництвом оперативної пам'яті та накопичувачів ціни на комп'ютерну техніку помітно зросли. Експерти радять ретельно зважувати характеристики бюджетних моделей під час вибору лептопа для студентів.",
-      "ai_title": "Як обрати ноутбук для навчання в умовах дефіциту пам'яті",
-      "video_keywords": "laptop, student studying, shopping, computer store"
     },
     {
       "title": "Anthropic Risk August 2026 [pdf]",
@@ -1140,19 +1120,19 @@
       "ai_summary": "Розробник вбудованих систем ділиться своєю перспективою щодо архітектури RISC-V та контроверсійних технічних рішень у цій галузі. Стаття порушує питання доступності та особливостей проєктування чіпів за межами провідних технологічних центрів. Це дає унікальний погляд на глобальну інженерну екосистему.",
       "ai_title": "Погляд інженера з країн третього світу на архітектуру RISC-V",
       "video_keywords": "microchip, circuit board, soldering iron, engineer working"
+    },
+    {
+      "title": "I've built a free, open-source local and remote memory system for agentw and CL",
+      "link": "https://www.lorekit.io/blog/give-your-agent-a-memory",
+      "summary": "<p>Article URL: <a href=\"https://www.lorekit.io/blog/give-your-agent-a-memory\">https://www.lorekit.io/blog/give-your-agent-a-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322206\">https://news.ycombinator.com/item?id=49322206</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-16T18:03:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Створено безплатну відкриту систему локальної та віддаленої пам'яті, яка допомагає агентам штучного інтелекту ефективніше зберігати й обробляти інформацію. Це рішення значно покращує контекстуальне розуміння та взаємодію з користувачами на різних пристроях.",
+      "ai_title": "Розроблено відкриту систему пам'яті для штучного інтелекту",
+      "video_keywords": "computer screen, programming code, artificial intelligence, server rack"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Read-it-later app Pocket shut down down — here are the best alternatives",
-      "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
-      "published": "2026-08-14T18:58:15+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Користувачі додатку Pocket мають час до 8 жовтня 2025 року, щоб експортувати всі свої збережені статті, нотатки та архіви. Сервіс припиняє свою роботу, тому розробники радять завчасно подбати про перенесення даних на інші платформи.",
-      "ai_title": "Популярний сервіс збереження статей Pocket закривається",
-      "video_keywords": "smartphone screen, digital tablet, reading app, user scrolling"
-    },
     {
       "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
       "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
@@ -1304,16 +1284,6 @@
       "ai_summary": "Через падіння цін на ринку вартість криптовалютних інвестицій престижного університету зменшилася. Портфель фонду включає спеціалізовані біржові фонди на базі Solana, Ethereum та Bitcoin.",
       "ai_title": "Криптоактиви фонду Дартмутського університету скоротилися на $2 мільйони",
       "video_keywords": "university campus, stock chart falling, digital coins, financial graphs"
-    },
-    {
-      "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
-      "link": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward revenue rises 17% as trading volume falls in Q2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-5-ways-to-make-money-with-cryptocurrency-ai.png\" /></p><p>Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of reve",
-      "published": "2026-08-14T18:44:21+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Payward збільшила свої доходи у другому кварталі завдяки значному приросту нових активних акаунтів. Це допомогло компенсувати загальне зниження активності на спотовому ринку криптовалют.",
-      "ai_title": "Виторг материнської компанії Kraken зріс попри падіння обсягів торгів",
-      "video_keywords": "cryptocurrency exchange, trading terminal, office workers, financial charts"
     },
     {
       "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
@@ -1564,6 +1534,16 @@
       "ai_summary": "Учасники крипторинка все частіше ігнорують звичні рейтинги за ринковою капіталізацією та зосереджуються на реальних економічних показниках і корисності проєктів. Такий зсув фокуса свідчить про дорослішання інвесторів та їхнє прагнення до надійніших активів після періоду спекуляцій. Експерти вбачають у цьому ознаку стабілізації галузі та її переходу до більш зрілої фази розвитку.",
       "ai_title": "Інвестори в криптовалюту повертаються до фундаментального аналізу замість капіталізації",
       "video_keywords": "stock market charts, crypto trading screens, financial data graphs, investor analyzing numbers"
+    },
+    {
+      "title": "The SEC meeting that wasn't: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+      "summary": "",
+      "published": "2026-08-16T18:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Останні події у криптоіндустрії привертають увагу регуляторів та інвесторів. Незважаючи на скасування ключової зустрічі Комісії з цінних паперів і бірж (SEC), ринок продовжує реагувати на регуляторні невизначеності. Експерти аналізують подальші кроки влади щодо цифрових активів.",
+      "ai_title": "Що відбувається на ринку криптовалют: скасована зустріч SEC",
+      "video_keywords": "cryptocurrency chart, stock market screen, financial district, business meeting"
     }
   ]
 }
