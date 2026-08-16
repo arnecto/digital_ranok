@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Unsloth Qwen3.8-27B GGUF files",
-      "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "summary": "<p>Article URL: <a href=\"https://huggingface.co/unsloth/Qwen3.8-27B-GGUF\">https://huggingface.co/unsloth/Qwen3.8-27B-GGUF</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299688\">https://news.ycombinator.com/item?id=49299688</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-14T15:04:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Для нової моделі Qwen3.8-27B випустили оптимізовані файли формату GGUF від команди Unsloth. Це дозволяє ефективно запускати та квантувати модель на звичайному апаратному забезпеченні для локальних завдань.",
-      "ai_title": "Доступні файли Unsloth Qwen3.8-27B GGUF",
-      "video_keywords": "coding, software development, typing on keyboard, monitor display"
-    },
-    {
       "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
       "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "summary": "<p>Article URL: <a href=\"https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/\">https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49300314\">https://news.ycombinator.com/item?id=49300314</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
@@ -19,26 +9,6 @@
       "ai_summary": "Компанія Google інтегрує гомоморфне шифрування у свої інструменти штучного інтелекту для забезпечення повної приватності даних. Ця технологія дозволяє обробляти інформацію та навчати моделі без розшифрування самих даних, що виводить безпеку користувачів на новий рівень.",
       "ai_title": "Google робить конфіденційний штучний інтелект реальністю",
       "video_keywords": "cyber security, data encryption, digital code, server room"
-    },
-    {
-      "title": "Qwen3.8-27B",
-      "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/alibaba_qwen/status/2088280182356611304\">https://twitter.com/alibaba_qwen/status/2088280182356611304</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299684\">https://news.ycombinator.com/item?id=49299684</a></p>\n<p>Points: 224</p>\n<p># Comments: 86</p>",
-      "published": "2026-08-14T15:03:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили чергову версію відкритої мовної моделі Qwen із 27 мільярдами параметрів. Новинка демонструє вражаючі результати в тестах, конкуруючи з багатьма провідними закритими аналогами.",
-      "ai_title": "Вийшла нова потужна мовна модель Qwen3.8-27B",
-      "video_keywords": "artificial intelligence, glowing brain, digital network, glowing lines"
-    },
-    {
-      "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
-      "link": "https://github.com/NanoNets/Graft",
-      "summary": "<p>Article URL: <a href=\"https://github.com/NanoNets/Graft\">https://github.com/NanoNets/Graft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299985\">https://news.ycombinator.com/item?id=49299985</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
-      "published": "2026-08-14T15:22:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники випустили спеціальні хуки під назвою Graft для Claude Code, які значно оптимізують пошукові запити. Це рішення дозволяє скоротити використання токенів grep майже вдвічі, роблячи роботу з AI-асистентами економнішою.",
-      "ai_title": "Новий інструмент скорочує витрати токенів для Claude Code",
-      "video_keywords": "programming code, computer screen, developer typing, software interface"
     },
     {
       "title": "France blocks social media ban because it would require adults to prove age",
@@ -79,16 +49,6 @@
       "ai_summary": "Популярний застосунок для віддаленого робочого столу додав повноцінну підтримку автономного доступу в середовищі Wayland. Це вирішує давню проблему багатьох користувачів Linux, яким потрібне стабільне керування системою без присутності оператора.",
       "ai_title": "RustDesk тепер підтримує віддалений доступ для Wayland",
       "video_keywords": "computer screen, linux terminal, typing, office desk"
-    },
-    {
-      "title": "Self-hosted web push Cloudflare Worker, works on iOS",
-      "link": "https://kukuroo.cc/",
-      "summary": "<p>Article URL: <a href=\"https://kukuroo.cc/\">https://kukuroo.cc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299667\">https://news.ycombinator.com/item?id=49299667</a></p>\n<p>Points: 32</p>\n<p># Comments: 10</p>",
-      "published": "2026-08-14T15:03:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явилося нове рішення для надсилання сповіщень через Cloudflare Worker, яке коректно працює навіть на пристроях від Apple. Розробники отримали зручний та автономний інструмент для інтеграції пуш-повідомлень у власні вебсайти.",
-      "ai_title": "Самохостингові вебпуші через Cloudflare Worker",
-      "video_keywords": "smartphone notification, mobile screen, app interface, tapping screen"
     },
     {
       "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
@@ -1200,6 +1160,36 @@
       "ai_summary": "Настільний додаток ChatGPT для macOS отримав нову функцію Computer History, яка фіксує ваші дії для створення персональної бази знань. Штучний інтелект аналізує робочі звички користувача, пропонує автоматизацію завдань та може завершувати незавершену роботу. Цей інструмент будує детальну хронологію активності, яку моделі використовують для виконання подальших запитів.",
       "ai_title": "ChatGPT тепер стежить за вашими кліками та натисканнями клавіш",
       "video_keywords": "typing on keyboard, computer screen, developer working, modern laptop"
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "summary": "<p>Article URL: <a href=\"https://vectoral.com/blog/who-are-the-token-brokers\">https://vectoral.com/blog/who-are-the-token-brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320611\">https://news.ycombinator.com/item?id=49320611</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-16T14:44:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У технологічному світі набирає обертів новий ринок, де посередники перепродають ШІ-токени та обчислювальні ресурси. Це створює нові економічні можливості та виклики для розробників, які залежать від сторонніх API.",
+      "ai_title": "Економіка перепродажу кредитів для штучного інтелекту",
+      "video_keywords": "server room, data center, cryptocurrency mining, computer screens"
+    },
+    {
+      "title": "Show HN: A public AI whose memory is shared across all users",
+      "link": "https://wildstatic.com/",
+      "summary": "<p>Article URL: <a href=\"https://wildstatic.com/\">https://wildstatic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319814\">https://news.ycombinator.com/item?id=49319814</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-16T13:21:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Запущено новий експериментальний штучний інтелект, який володіє єдиною спільною пам'яттю, доступною для всіх користувачів одночасно. Така система дозволяє моделі навчатися на взаємодії з різними людьми в реальному часі.",
+      "ai_title": "Публічний ШІ зі спільною пам'яттю для всіх користувачів",
+      "video_keywords": "futuristic interface, glowing network, person typing, digital brain"
+    },
+    {
+      "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+      "link": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+      "summary": "<p>Article URL: <a href=\"https://www.rand.org/pubs/research_reports/RRA4335-1.html\">https://www.rand.org/pubs/research_reports/RRA4335-1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319727\">https://news.ycombinator.com/item?id=49319727</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
+      "published": "2026-08-16T13:09:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітичні центри у США розробляють стратегію для запобігання появі «дзеркального життя» — синтетичних біологічних форм із альтернативною хімічною структурою. Ініціатива покликана мінімізувати потенційні екологічні та біобезпекові загрози.",
+      "ai_title": "Стратегія США щодо запобігання створенню дзеркального життя",
+      "video_keywords": "laboratory microscope, DNA strand, scientists working, glowing petri dish"
     }
   ],
   "Бізнес / Стартапи": [
