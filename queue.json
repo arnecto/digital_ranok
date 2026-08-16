@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Everything is about to \"go dark\"",
-      "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49304447\">https://news.ycombinator.com/item?id=49304447</a></p>\n<p>Points: 72</p>\n<p># Comments: 37</p>",
-      "published": "2026-08-14T20:52:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з кібербезпеки попереджають про стрімке скорочення доступних публічних даних через посилення захисту та закриття платформ. Це створює серйозні виклики для розробників штучного інтелекту та дослідників, які залежать від відкритих баз інформації.",
-      "ai_title": "Кінець епохи публічного інтернету: чому все скоро \"потемніє\"",
-      "video_keywords": "server room, data center, dark screens, digital lockdown"
-    },
-    {
       "title": "RISC-V: They should have known better",
       "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
       "summary": "<p>Article URL: <a href=\"https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV\">https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305492\">https://news.ycombinator.com/item?id=49305492</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
@@ -1100,19 +1090,19 @@
       "ai_summary": "Реп-виконавець Open Mike Eagle та продюсер Kenny Segal випустили новий спільний альбом DOOMED!. Платівка присвячена болючій темі розриву стосунків і перетворює особисті переживання на мистецький шедевр. Критики відзначають глибоку лірику та майстерне музичне оформлення.",
       "ai_title": "Новий хіп-хоп шедевр про розрив стосунків від Open Mike Eagle та Kenny Segal",
       "video_keywords": "recording studio, microphone, hip hop artist, vinyl record"
+    },
+    {
+      "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
+      "link": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
+      "summary": "<p>Article URL: <a href=\"https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/\">https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322979\">https://news.ycombinator.com/item?id=49322979</a></p>\n<p>Points: 14</p>\n<p># Comments: 12</p>",
+      "published": "2026-08-16T19:41:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий криптовалютний проєкт родини Трампів успішно просувається до отримання повноцінного банківського статусу. Це відкриває нові можливості для регуляції та інтеграції цифрових активів у традиційну фінансову систему США. Подія викликала жваві обговорення в технологічних та політичних колах.",
+      "ai_title": "Криптопроєкт родини Трампів на крок ближчий до отримання статусу банку",
+      "video_keywords": "cryptocurrency, bitcoin, banking building, digital currency"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Self-driving trucks are officially testing on California highways",
-      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-      "published": "2026-08-14T20:37:49+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанії Aurora Innovation та Kodiak AI отримали офіційні дозволи від Департаменту транспортних засобів Каліфорнії. Тепер вони тестують свої автономні вантажні автомобілі на реальних автомагістралях штату.",
-      "ai_title": "Безпілотні вантажівки почали випробування на шоссе Каліфорнії",
-      "video_keywords": "autonomous truck, highway driving, self driving semi, automated vehicle"
-    },
     {
       "title": "Talks to sell PayPal to Stripe and Advent are heating up",
       "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
@@ -1232,6 +1222,16 @@
       "ai_summary": "У новому епізоді подкасту Equity експерти обговорюють скептичне ставлення суспільства та ринку до грандіозної AI-стратегії Марка Цукерберга. Аналітики розбирають, чому амбітні технологічні плани компанії Meta поки не знаходять масової підтримки.",
       "ai_title": "Чому користувачі не вірять у штучний інтелект від Марка Цукерберга",
       "video_keywords": "vr headset, metaverse, person typing laptop, confused expression"
+    },
+    {
+      "title": "Cutting RAG inference costs 6x starts with deciding what never reaches the LLM",
+      "link": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+      "summary": "<p>Most teams building <a href=\"https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong\">retrieval augmented generation</a> (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine ",
+      "published": "2026-08-16T20:45:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Розробники RAG-систем часто припускаються помилки, надсилаючи всі запити одразу до мовних моделей. Новий архітектурний підхід пропонує відсіювати зайвий контекст на ранніх етапах, що дозволяє суттєво знизити витрати на обчислення.",
+      "ai_title": "Як скоротити витрати на ШІ-системи у шість разів",
+      "video_keywords": "server rack, data center, computer code, analytics screen"
     }
   ],
   "Крипта": [
