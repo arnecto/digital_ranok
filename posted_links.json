@@ -1,12 +1,4 @@
 {
-  "https://github.com/mattdeeds/pokeemerald-rp2350": {
-    "title": "Гру в Pokémon Emerald запустили на мікроконтролері Raspberry Pi Pico 2",
-    "category": "IT / AI",
-    "posted_at": "2026-08-08T17:47:47.804353+03:00",
-    "summary": "Класичну гру Pokémon Emerald успішно перенесли на новий мікроконтроллер RP2350 без використання емулятора. Проєкт працює зі швидкістю 60 кадрів за секунду з виведенням зображення через HDMI завдяки залученню двох ядер чіпа.",
-    "video_keywords": "microchip, circuit board, soldering iron, computer screen",
-    "link": "https://github.com/mattdeeds/pokeemerald-rp2350"
-  },
   "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/": {
     "title": "OpenAI готує до випуску власну розумну колонку",
     "category": "Бізнес / Стартапи",
@@ -1014,5 +1006,13 @@
     "summary": "Розпочався реліз Qwen 3.8-27B — нової щільної моделі з відкритими вагами, яка демонструє вражаючі результати для локального використання. Це оновлення приваблює увагу розробників своєю ефективністю та високою продуктивністю серед відкритих рішень.",
     "video_keywords": "artificial intelligence, server room, computer code, glowing screen",
     "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8"
+  },
+  "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/": {
+    "title": "Відомий розробник створив застосунок для нагадувань, які неможливо ігнорувати",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-08-16T17:56:51.367984+03:00",
+    "summary": "Незалежний розробник Марко Армент випустив новий додаток Unforgetful. Він створений спеціально для людей, які постійно відкладають нагадування та випадково їх закривають.",
+    "video_keywords": "smartphone screen, pushing button, person typing, mobile app",
+    "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
   }
 }
