@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "link": "https://spectrum.ieee.org/ai-designed-virus",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-designed-virus\">https://spectrum.ieee.org/ai-designed-virus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49311445\">https://news.ycombinator.com/item?id=49311445</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-15T15:32:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Вчені застерігають про нові ризики, адже сучасні алгоритми здатні проєктувати життєздатні вірусні структури. Це відкриття викликає занепокоєння у сфері біобезпеки через потенційне зловживання технологією.",
-      "ai_title": "Штучний інтелект навчився створювати функціональні віруси: чи варто боятися?",
-      "video_keywords": "laboratory, microscope, DNA strands, scientist"
-    },
-    {
       "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
       "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
       "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, [&#8230;]",
@@ -1090,19 +1080,59 @@
       "ai_summary": "Компанія Uber оголосила про партнерство з виробником дронів Zipline задля розвитку повітряної доставки замовлень. Партнери планують запустити перші доставки вже цього року з амтною ціллю досягти мільйона рейсів на день до 2029 року. Uber також здійснив стратегічну інвестицію в розвиток цього каліфорнійського стартапу.",
       "ai_title": "Uber запускає доставку їжі за допомогою дронів",
       "video_keywords": "delivery drone, flying quadcopter, suburban neighborhood, aerial view"
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "link": "https://news.ycombinator.com/item?id=49332751",
+      "summary": "<p>Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.<p>Demo: <a href=\"https://youtu.be/no2LY2gRh-c\" rel=\"nofollow\">https://youtu.be/no2LY2gRh-c</a><p>Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS.<",
+      "published": "2026-08-17T15:36:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа допомагає розробникам підбирати оптимальну комбінацію моделей розпізнавання мови, мовних моделей та синтезу голосу. Система аналізує всі публічні бенчмарки з урахуванням заданих обмежень і пропонує найкраще рішення.",
+      "ai_title": "Speko: OpenRouter для голосового штучного інтелекту",
+      "video_keywords": "microphone, voice recording, software code, computer screen"
+    },
+    {
+      "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+      "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
+      "summary": "<p>Article URL: <a href=\"https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu\">https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331607\">https://news.ycombinator.com/item?id=49331607</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+      "published": "2026-08-17T14:29:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти протестували роботу великої мовної моделі на споживчому заліжі з 24GB відеопам'яті. Завдяки техніці MTP вдалося досягти вражаючої швидкості генерації у 50 токенів за секунду при контексті у 256K.",
+      "ai_title": "Запуск моделі Qwen3.8-27B на звичайній відеокарті",
+      "video_keywords": "graphics card, computer hardware, microchip, tech lab"
+    },
+    {
+      "title": "Show HN: Eve Software Factory",
+      "link": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
+      "summary": "<p>Build a software factory in minutes with this free OSS template</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331599\">https://news.ycombinator.com/item?id=49331599</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-17T14:28:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розпочато випуск безплатного шаблону з відкритим кодом для швидкого розгортання власних середовищ розробки програмного забезпечення. Інструмент покликаний суттєво прискорити та автоматизувати типові процеси створення проєктів.",
+      "ai_title": "Eve Software Factory: створення програмної фабрики за хвилини",
+      "video_keywords": "coding, programmer hands, typing keyboard, monitor screen"
+    },
+    {
+      "title": "Ask HN: Alternatives to GitHub",
+      "link": "https://news.ycombinator.com/item?id=49331033",
+      "summary": "<p>Github has been down consistently over the last few months - does it make sense to switch to alternatives?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331033\">https://news.ycombinator.com/item?id=49331033</a></p>\n<p>Points: 138</p>\n<p># Comments: 95</p>",
+      "published": "2026-08-17T13:59:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "На тлі регулярних перебоїв у роботі популярного сервісу впродовж останніх місяців у спільноті розгорнулася дискусія. Програмісти активно обговорюють доцільність переходу на альтернативні платформи для хостингу коду.",
+      "ai_title": "Розробники масово шукають альтернативи GitHub через збої",
+      "video_keywords": "frustrated programmer, computer error, office desk, typing"
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "summary": "<p>Article URL: <a href=\"https://duckdb.org/2026/08/17/duckdb-20-highlights\">https://duckdb.org/2026/08/17/duckdb-20-highlights</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330781\">https://news.ycombinator.com/item?id=49330781</a></p>\n<p>Points: 141</p>\n<p># Comments: 11</p>",
+      "published": "2026-08-17T13:46:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники опублікували ключові особливості та оновлення майбутнього великого релізу популярної колоночної бази даних. Версія 2.0 обіцяє суттєві покращення продуктивності та нові можливості для аналізу даних.",
+      "ai_title": "Попередній огляд нової версії DuckDB v2.0",
+      "video_keywords": "data center, server racks, digital analytics, screen charts"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "published": "2026-08-15T18:58:39+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія поділилася технічними подробицями про те, як працюватимуть нові водяні знаки в генераціях Claude. Розробники пояснили, чи можна їх приховати редагуванням та як це впливає на створений код.",
-      "ai_title": "Anthropic розкрила деталі роботи водяних знаків для штучного інтелекту Claude",
-      "video_keywords": "cybersecurity, digital watermark, artificial intelligence, computer screen"
-    },
     {
       "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
       "link": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
@@ -1252,29 +1282,19 @@
       "ai_summary": "Нова освітня ініціатива дозволяє викладачам надавати учням безплатні домени, підтримку плагінів та професійні інструменти для створення сайтів. Платформа прагне залучити нове покоління веб-творців.",
       "ai_title": "WordPress.com запускає безплатний тариф для студентів",
       "video_keywords": "student working on laptop, university classroom, typing on keyboard, modern computer lab"
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "published": "2026-08-17T15:16:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Nvidia вкладає кошти у розробника дата-центрів від SoftBank. Ця угода гарантує, що суперкомп'ютер для проєкту OpenAI працюватиме саме на чіпах Nvidia.",
+      "ai_title": "Nvidia інвестує 1,5 мільярда в дата-центр SoftBank заради проєкту OpenAI",
+      "video_keywords": "data center, server racks, microchip, supercomputer"
     }
   ],
   "Крипта": [
-    {
-      "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-      "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-      "summary": "",
-      "published": "2026-08-15T15:21:15+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Одна з найбільших країн за обсягами видобутку біткоїна змушена вимикати майнінгові ферми у своїй столиці. Причиною стали серйозні проблеми в енергосистемі та дефіцит електроенергії для населення.",
-      "ai_title": "Другий за величиною майнер біткоїна зупиняє обладнання в столиці через дефіцит енергії",
-      "video_keywords": "bitcoin mining rig, server room, computer servers blinking lights, power plant"
-    },
-    {
-      "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-      "summary": "",
-      "published": "2026-08-15T15:12:29+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Інвестиційна компанія легендарного мільярдера Пола Тюдора Джонса збільшила свою частку в спотовому біткоїн-ETF від BlackRock. Це сталося після тривалого періоду розпродажів активів фонду.",
-      "ai_title": "Відомий інвестор Пол Тюдор Джонс знову почав купувати біткоїн-ETF від BlackRock",
-      "video_keywords": "stock market trading floor, financial charts on computer screen, businessman looking at monitor, wall street"
-    },
     {
       "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
       "link": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
@@ -1655,6 +1675,16 @@
       "ai_summary": "Огляд найважливіших новин та подій у світі криптовалют за сьогодні. Аналіз трендів, які впливають на курс Біткоїна, а також розвиток блокчейн-технологій, DeFi та Web3.",
       "ai_title": "Головні події на криыторинку за день",
       "video_keywords": "cryptocurrency trading, bitcoin ticker, blockchain network, digital coins"
+    },
+    {
+      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
+      "link": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
+      "summary": "",
+      "published": "2026-08-17T15:32:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Проєкт Compound спрямовує 52 мільйони доларів та змінює команду лідерів заради переходу на ринок інституційних фінансів. Такий крок має на меті залучення великих капіталів та адаптацію до сучасних регуляторних вимог у криптосфері.",
+      "ai_title": "Compound інвестує 52 мільйони та оновлює керівництво заради інституційних клієнтів",
+      "video_keywords": "financial meeting, corporate board, cryptocurrency trading, business analytics"
     }
   ]
 }
