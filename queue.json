@@ -31,16 +31,6 @@
       "video_keywords": "laboratory, microscope, DNA strands, scientist"
     },
     {
-      "title": "A Spectre Is Haunting Unicode",
-      "link": "https://www.dampfkraft.com/ghost-characters.html",
-      "summary": "<p>Article URL: <a href=\"https://www.dampfkraft.com/ghost-characters.html\">https://www.dampfkraft.com/ghost-characters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310926\">https://news.ycombinator.com/item?id=49310926</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-15T14:34:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У світі стандартів кодування тексту виявлено вразливості та неочікувані проблеми, пов'язані з прихованими та невидимими символами. Це створює потенційні загрози для безпеки та коректності обробки текстових даних у сучасних програмних системах.",
-      "ai_title": "Приховані символи у стандартах Unicode",
-      "video_keywords": "computer screen, typing, code, monitor"
-    },
-    {
       "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
       "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
       "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, [&#8230;]",
@@ -1050,6 +1040,36 @@
       "ai_summary": "Розробник створив спеціальний мінімалістичний інструмент командного рядка для написання художньої літератури в інтеграції з мовними моделями. Цей проєкт створено для програмістів, які віддають перевагу роботі в терміналі замість звичних веб-інтерфейсів.",
       "ai_title": "Термінальний інтерфейс для написання історій за допомогою ШІ",
       "video_keywords": "command line interface, hacker typing, glowing code, dark room screen"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331423\">https://news.ycombinator.com/item?id=49331423</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-17T14:18:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники виявили, що функція автовиправлення від GitHub Copilot може створювати серйозні ризики для безпеки коду. Зокрема, такі збої дозволили скомпрометувати робочий простір компанії Snowflake у Jira. Це ставить під сумнів надійність повністю автоматизованих інструментів розробки на базі штучного інтелекту.",
+      "ai_title": "Штучний інтелект від GitHub став причиною вразливості в системі безпеки",
+      "video_keywords": "hacker typing on laptop, computer screen, cybersecurity code, server room"
+    },
+    {
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "summary": "<p>Article URL: <a href=\"https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html\">https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331222\">https://news.ycombinator.com/item?id=49331222</a></p>\n<p>Points: 14</p>\n<p># Commen",
+      "published": "2026-08-17T14:07:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Німецьке відомство встановило, що політика прозорості відстеження додатків (ATT) від Apple надавала переваги власним сервисам компанії. Сторонні розробники опинилися в менш вигідних умовах через нерівні правила гри. Це рішення може суттєво вплинути на майбутню екосистему додатків iOS.",
+      "ai_title": "Антимонопольний орган звинуватив Apple у привілеях для власних додатків",
+      "video_keywords": "smartphone screen, mobile apps, office desk, corporate building"
+    },
+    {
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+      "summary": "<p>Article URL: <a href=\"https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/\">https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330742\">https://news.ycombinator.com/item?id=49330742</a></p>\n<p>Points: 27</p>\n<p># Comments",
+      "published": "2026-08-17T13:44:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Журналісти відстежили шлях посилки з колекційними та рідкісними книгами, яка зрештою опинилася на об'єкті Amazon, де тренуються моделі штучного інтелекту. Це розслідування піднімає нові етичні та юридичні питання щодо використання захищених авторським правом матеріалів для технологій ШІ.",
+      "ai_title": "Трекер показав, що рідкісні книги потрапили до дата-центру для навчання ШІ від Amazon",
+      "video_keywords": "warehouse boxes, shipping packages, data center, server racks"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1172,19 +1192,29 @@
       "ai_summary": "Нещодавні кібератаки на логістичні компанії, які доставляють апаратні гаманці, скомпрометували персональні дані власників. Це створює нові ризики фізичних нападів на криптоінвесторів у реальному житті.",
       "ai_title": "Власники криптогаманців опинилися під загрозою через витік даних",
       "video_keywords": "cryptocurrency hardware, secure wallet, computer hacking, digital security"
+    },
+    {
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "link": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "summary": "<p>Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.</p><p>Gartner estimates that the average global Fortune 500 company will have more than<a href=\"https://www.gartner.com/en/newsroom/press-releases/2026-04-28-gartner-identifies-six-steps-to-manage-artificial-intelligence-agent-sprawl\"> 150,000 AI agents in us",
+      "published": "2026-08-17T14:37:08+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Великі компанії стикаються з неконтрольованим зростанням кількості штучних інтелектів та потребують єдиного центру управління. Стартап xpander пропонує власний шар контролю та контексту для безпечного керування корпоративними ШІ-агентами.",
+      "ai_title": "Xpander вирішує проблему хаосу корпоративних ШІ-агентів",
+      "video_keywords": "server room, data center, dashboard, technology"
+    },
+    {
+      "title": "How Heidi built production-ready AI for healthcare at global scale",
+      "link": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
+      "summary": "<p><i>Presented by MongoDB</i></p><hr /><p>Building AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to the compliance obligations that govern healthcare, financial services, and transportation. The challenge of delivering AI-driven products is compounded by the fact that technology in these industries has tended to lag behind other sectors because re",
+      "published": "2026-08-17T14:30:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Впровадження штучного інтелекту в медицині вимагає надзвичайної точності, безпеки та дотримання жорстких нормативних вимог. Компанія Heidi успішно подолала ці виклики, створивши надійні готові до виробництва ШІ-рішення для охорони здоров'я.",
+      "ai_title": "Як Heidi створила масштабабельний ШІ для медичної галузі",
+      "video_keywords": "doctor using tablet, modern hospital, medical technology, healthcare professional"
     }
   ],
   "Крипта": [
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
-      "published": "2026-08-15T14:40:24+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Огляд найважливіших новин криптовалютного ринку за день. Аналізуються ключові тренди та події, що впливають на курс Біткоїна, блокчейн-індустрію, сфери DeFi та Web3.",
-      "ai_title": "Головні події та тренди на ринку криптовалют за сьогодні",
-      "video_keywords": "cryptocurrency trading, bitcoin ticker, digital stock market, blockchain data"
-    },
     {
       "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
       "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
@@ -1565,6 +1595,16 @@
       "summary": "",
       "published": "2026-08-17T13:57:11+00:00",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "summary": "",
+      "published": "2026-08-17T14:44:29+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Міністерство фінансів США представило новий законопроєкт під назвою GENIUS Act, спрямований на регулювання ринку стейблкоїнів. Нові правила мають на меті підвищити прозорість та безпеку цифрових активів у межах американської фінансової системи.",
+      "ai_title": "Мінфін США пропонує нові правила для стейблкоїнів у межах акту GENIUS",
+      "video_keywords": "US treasury building, financial documents, digital currency, computer screen"
     }
   ]
 }
