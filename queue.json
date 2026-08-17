@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "\"That's not SOC 2 compliant\"",
-      "link": "https://ampcode.com/notes/thats-not-soc-2-compliant",
-      "summary": "<p>Article URL: <a href=\"https://ampcode.com/notes/thats-not-soc-2-compliant\">https://ampcode.com/notes/thats-not-soc-2-compliant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308073\">https://news.ycombinator.com/item?id=49308073</a></p>\n<p>Points: 36</p>\n<p># Comments: 16</p>",
-      "published": "2026-08-15T06:01:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті аналізуються поширені непорозуміння щодо того, що насправді означає сертифікація SOC 2 для IT-компаній та стартапів. Автор вказує на критичні прогалини в безпеці, які часто ігноруються під час проходження аудитів. Це важливе нагадування для розробників про реальний захист даних, а не лише формальне дотримання правил.",
-      "ai_title": "Проблеми безпеки та відповідність стандартам SOC 2",
-      "video_keywords": "cybersecurity, server rack, programmer typing, data center"
-    },
-    {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
       "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/\">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308553\">https://news.ycombinator.com/item?id=493085",
@@ -1170,6 +1160,16 @@
       "ai_summary": "Науковці представили нові дослідження щодо ефектів сильного гравітаційного лінзування та мікролінзування під час вибухів надновіх зір. Це відкриття допомагає астрономам краще розуміти структуру Всесвіту та процеси, що відбуваються в далеких галактиках. Робота розширює сучасні можливості космічних спостережень за допомогою новітніх телескопів.",
       "ai_title": "Вчені досліджують гравітаційне лінзування надновіх",
       "video_keywords": "space telescope, stars galaxy, cosmos animation"
+    },
+    {
+      "title": "$12B of US ratepayers' money wasted on a modeling mistake in PJM",
+      "link": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+      "summary": "<p>Article URL: <a href=\"https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted\">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326825\">https://news.ycombinator.com/item?id=49326825</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-17T05:22:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Через серйозну помилку в математичному моделюванні енергосистеми PJM споживачі в США втратили 12 мільярдів доларів. Цей випадок підкреслює критичну важливість точності алгоритмів при плануванні масштабної інфраструктури та штучного інтелекту. Помилка призвела до необґрунтованого зростання тарифів для платників податків.",
+      "ai_title": "Через помилку в моделюванні американці переплатили мільярди",
+      "video_keywords": "power plant, electricity cables, control room, financial charts"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1534,6 +1534,26 @@
       "ai_summary": "Криптовалюта XRP різко впала до позначки в 1 долар, що спричинило хвилю песимістичних настроїв на ринку. Водночас частина трейдерів розглядає це падіння як можливість для вигідної купівлі та сподівається на швидкий відскік ціни.",
       "ai_title": "Трейдери XRP сподіваються на відновлення курсу після падіння до 1 долара",
       "video_keywords": "crypto trading, stock market chart, financial loss, digital currency"
+    },
+    {
+      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+      "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "summary": "",
+      "published": "2026-08-17T05:51:18+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Перенасиченість позицій на ринку біткоїн-ф'ючерсів створює ризик масової ліквідації. Обмежена ліквідність виходу з активів може спровокувати стрімке падіння цін.",
+      "ai_title": "Ринок біткоїн-ф'ючерсів опинився під загрозою різкого обвалу",
+      "video_keywords": "trading floor, stock market crash, computer monitors, red graphs"
+    },
+    {
+      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
+      "link": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Greenlane’s $70M BERA treasury ends Q2 valued at $16M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/red-falling-elevator-markets-down.jpg\" /></p><p>Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell nearly 76% year to date.</p>",
+      "published": "2026-08-17T05:52:55+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Greenlane зафіксувала збитки у розмірі 19,1 мільйона доларів через падіння курсу токена BERA. В результаті вартість її крипторезервів скоротилася з 70 мільйонів до 16 мільйонів доларів.",
+      "ai_title": "Криптоскарбниця Greenlane втратила понад 70% вартості за квартал",
+      "video_keywords": "falling chart, financial loss, stock market decline, calculator and coins"
     }
   ]
 }
