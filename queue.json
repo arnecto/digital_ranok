@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
-      "link": "https://github.com/jitpass/jit",
-      "summary": "<p>Article URL: <a href=\"https://github.com/jitpass/jit\">https://github.com/jitpass/jit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49317546\">https://news.ycombinator.com/item?id=49317546</a></p>\n<p>Points: 21</p>\n<p># Comments: 13</p>",
-      "published": "2026-08-16T06:55:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено рішення для шифрування конфіденційної інформації, яка зазвичай залишається в незахищеному вигляді на робочих ноутбуках. Проєкт покликаний закрити останню велику прогалину в безпеці локальних користувацьких даних.",
-      "ai_title": "Новий інструмент захищає дані на ноутбуках від витоків",
-      "video_keywords": "laptop, security lock, programming code, typing hands"
-    },
-    {
       "title": "What happens when an LLM never sees material beyond fifth grade?",
       "link": "https://littlelearner-ll.github.io/",
       "summary": "<p>Article URL: <a href=\"https://littlelearner-ll.github.io/\">https://littlelearner-ll.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49317760\">https://news.ycombinator.com/item?id=49317760</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
@@ -1149,6 +1139,16 @@
       "ai_summary": "Новий випуск подкасту \"Advent of Computing\" присвячений альтернативним підходам до обчислень та дослідженню того, чим двійкова система може бути замінена в майбутньому. Автори аналізують історичний контекст та інженерні виклики створення небінарних комп'ютерів.",
       "ai_title": "Що краще за двійковий код: еволюція обчислювальних систем",
       "video_keywords": "server room, electronics, circuit board, blinking lights"
+    },
+    {
+      "title": "I don't enjoy the Internet any more",
+      "link": "https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/",
+      "summary": "<p>Article URL: <a href=\"https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/\">https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341551\">https://news.ycombinator.com/item?id=49341551</a></p>\n<p>Points: 36</p>\n<p># Comments: 14</p>",
+      "published": "2026-08-18T05:17:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор статті ділиться роздумами про трансформацію всесвітньої павутини, яка перетворилася на комерціалізований та перевантажений рекламою простір. Сучасні алгоритми та надлишок контенту створюють відчуття втоми від цифрового середовища у багатьох користувачів.",
+      "ai_title": "Чому сучасний інтернет втратив колишню привабливість",
+      "video_keywords": "person frustrated looking at laptop screen, tired glowing face in dark room, scrolling smartphone alone"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1878,6 +1878,36 @@
       "ai_summary": "Банк із Південної Кореї починає використання платформи Ripple для здійснення транскордонних переказів. Це черговий крок до інтеграції блокчейн-технологій у традиційну банківську систему регіону.",
       "ai_title": "Південнокорейський Jeonbuk Bank інтегрує технологію Ripple для міжнародних платежів",
       "video_keywords": "smartphone mobile banking, digital currency transaction, bank office interior, business handshake"
+    },
+    {
+      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "link": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+      "summary": "",
+      "published": "2026-08-18T05:18:18+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Конкурент Ethereum, блокчейн-проєкт Monad, запропонував своїм першим інвесторам до 50-60 мільйонів доларів за достроковий вихід із активів. Проте майже всі власники монет відмовилися продавати свої частки, продемонструвавши високу віру в майбутнє платформи. Така лояльність свідчить про значний потенціал проєкту на ринку.",
+      "ai_title": "Ранні інвестори блокчейну Monad відмовилися від виходу з проєкту на 60 мільйонів доларів",
+      "video_keywords": "cryptocurrency trading, digital coin, investors meeting, financial chart"
+    },
+    {
+      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+      "link": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "summary": "",
+      "published": "2026-08-18T05:34:32+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Токен XRP опустився нижче психологічної позначки в один долар на тлі загального коливання ринку. Це сталося навіть попри новину про те, що регіональний банк у Південній Кореї офіційно впровадив платіжну систему Ripple Payments. Інвестори поки що стримано реагують на нові партнерства.",
+      "ai_title": "Курс XRP впав нижче долара попри інтеграцію Ripple корейським банком",
+      "video_keywords": "stock market crash, digital currency, falling graph, red numbers"
+    },
+    {
+      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum Foundation warns some tools may break with Glamsterdam upgrade\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/super-ethereum.jpg\" /></p><p>Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.</p>",
+      "published": "2026-08-18T05:12:18+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Розробники мережі Ethereum мають заздалегідь протестувати свої інструменти перед впровадженням нового газового оновлення Glamsterdam. Учасники екосистеми закликані перевірити сумісність програмного забезпечення на тестових мережах, щоб уникнути технічних збоїв. Такі оновлення є критично важливими для стабільності блокчейну.",
+      "ai_title": "Ethereum Foundation попередила про можливі збої після оновлення Glamsterdam",
+      "video_keywords": "software code, computer monitor, programmer typing, digital network"
     }
   ]
 }
