@@ -11,16 +11,6 @@
       "video_keywords": "programmer typing code, dual monitors, abstract mathematics, glowing data streams"
     },
     {
-      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-      "link": "https://news.ycombinator.com/item?id=49322107",
-      "summary": "<p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to",
-      "published": "2026-08-16T17:49:46+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі виявили, що Cloudflare без попередження додає JavaScript-код для збору аналітики на сайти при зміні серверів імен. Така поведінка викликала обурення в інтернет-спільноті через порушення принципів конфіденційності та відсутність опції добровільної згоди.",
-      "ai_title": "Cloudflare автоматично впроваджує скрипти аналітики під час зміни серверів імен",
-      "video_keywords": "server room blinking lights, web developer frustrated, laptop screen close up, code editor"
-    },
-    {
       "title": "Protobuf has LSP support. You're welcome",
       "link": "https://buf.build/blog/protobuf-lsp",
       "summary": "<p>Article URL: <a href=\"https://buf.build/blog/protobuf-lsp\">https://buf.build/blog/protobuf-lsp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322573\">https://news.ycombinator.com/item?id=49322573</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
@@ -1339,6 +1329,36 @@
       "ai_summary": "Новий погляд на розвиток штучного інтелекту зосереджується на практичному розширенні людських можливостей замість створення абстрактного загального штучного інтелекту. Технології мають на меті надати користувачам інструменти для вирішення щоденних складних завдань.",
       "ai_title": "Штучний інтелект як надздібності, а не надрозум",
       "video_keywords": "futuristic technology, person using tablet, glowing interface, hands typing code"
+    },
+    {
+      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion\">https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348751\">https://news.ycombinator.com/item?id=49348751</a></p>\n<p>Points: 106</p>\n<p># Comments: 61</p",
+      "published": "2026-08-18T17:02:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія анонсувала суттєве зниження тижневих лімітів для свого інструменту розробки Claude Code. Це обмеження почне діяти вже завтра та може вплинути на інтенсивність роботи програмістів, які покладаються на цей AI-сервіс.",
+      "ai_title": "Тижневі ліміти Claude Code скорочуються на третину",
+      "video_keywords": "programmer typing, computer screen, code editor, modern office"
+    },
+    {
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "link": "https://github.com/biw/keychain-store",
+      "summary": "<p>Hey HN,<p>I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.<p>Electron's safeStorage [2] uses the legacy file-based keychain, which allows other apps/agents to query it with the `security` CLI. Not great when you have a dozen agents running in the background! The Data Protec",
+      "published": "2026-08-18T17:25:19+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив рішення для роботи з сучасним macOS Data Protection Keychain у додатках на Electron. Це дозволяє уникнути вразливостей застарілих файлових сховищ і підвищує безпеку при роботі фонових агентів.",
+      "ai_title": "Новий інструмент захисту даних для macOS та Electron-додатків",
+      "video_keywords": "macbook screen, security lock, typing code, tech workspace"
+    },
+    {
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "summary": "<p>Article URL: <a href=\"https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban\">https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349147\">https://news.ycombinator.com/it",
+      "published": "2026-08-18T17:24:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження показують, що масивні обчислювальні центри можуть підвищувати локальну температуру повітря аж на 4 градуси в міських умовах. Це ставить нові виклики перед міським плануванням та енергоефективністю технологічної інфраструктури.",
+      "ai_title": "Дата-центри у Фіниксі підвищують температуру навколишнього середовища",
+      "video_keywords": "server racks, data center, cooling system, heat waves city"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1775,6 +1795,26 @@
       "ai_summary": "Американський стартап Etched за короткий час продемонстрував стрімке зростання оцінки завдяки успішному розгортанню своєї першої кластерної системи штучного інтелекту. Інвестори демонструють величезний інтерес до компанії, що дозволило їй залучити новий масштабний раунд фінансування.",
       "ai_title": "Вартість стартапу Etched подвоїлася до $21 мільярда за місяць",
       "video_keywords": "server room, computer servers, data center, microchip"
+    },
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "published": "2026-08-18T18:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія запровадила додаткові заходи безпеки, які включають детальніший моніторинг моделей під час розробки. Особливу увагу тепер приділяють узгодженості та захисту на етапі після навчання.",
+      "ai_title": "OpenAI посилила безпеку після інциденту з Hugging Face",
+      "video_keywords": "server room, cybersecurity, computer screen, data center"
+    },
+    {
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "published": "2026-08-18T17:31:01+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Розпочався розпродаж квитків на головну стартап-подію року з можливістю заощадити до $300 до 21 серпня. Конференція традиційно об'єднає спільноту підприємців у Сан-Франциско з 13 по 15 жовтня.",
+      "ai_title": "Знижки на квитки на TechCrunch Disrupt 2026",
+      "video_keywords": "conference stage, audience clapping, businessman speaking, tech event"
     }
   ],
   "Крипта": [
@@ -2498,6 +2538,16 @@
       "ai_summary": "Федеральні прокурори різко розкритикували спроби колишнього керівника скасувати свій вирок. Попри 12-річний термін ув'язнення, він продовжує юридичну боротьбу, яку сторона обвинувачення вважає абсолютно марною.",
       "ai_title": "Прокурори США назвали безпідставною апеляцію колишнього CEO Celsius",
       "video_keywords": "courtroom, judge gavel, legal documents, prison bars"
+    },
+    {
+      "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+      "link": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken’s Krak debuts US debit card as Payward broadens financial services push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor2.png\" /></p><p>The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial ser",
+      "published": "2026-08-18T17:39:37+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Материнська компанія біржі Kraken розширює спектр фінансових послуг та запускає багатоцільову картку. Новий продукт дозволяє американським клієнтам легко витрачати як криптовалюту, так і фіатні кошти, отримуючи кешбек.",
+      "ai_title": "Біржа Kraken випускає дебетову картку для користувачів у США",
+      "video_keywords": "debit card, credit card swipe, cryptocurrency wallet, paying with phone"
     }
   ]
 }
