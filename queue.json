@@ -1299,6 +1299,56 @@
       "ai_summary": "Розробник представив утиліту Shoehorn, призначену для квантування та оптимізації штучного інтелекту під локальне залізо. Програма працює на платформах Mac, Linux і Windows та має зручний графічний інтерфейс для завантаження моделей. Це робить запуск складних нейромереж доступним на звичайних домашніх комп'ютерах.",
       "ai_title": "Новий інструмент Shoehorn дозволяє запустити будь-яку AI-модель на звичайному ПК",
       "video_keywords": "computer motherboard, microchip, writing code, programmer hands"
+    },
+    {
+      "title": "Claude: Degraded Performance for Multiple Models",
+      "link": "https://status.claude.com/incidents/q7txxvbsftgq",
+      "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/q7txxvbsftgq\">https://status.claude.com/incidents/q7txxvbsftgq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348163\">https://news.ycombinator.com/item?id=49348163</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-18T16:28:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі по всьому світу зіткнулися з тимчасовим погіршенням продуктивності кількох моделей штучного інтелекту від Anthropic. Команда розробників уже працює над усуненням технічних неполадок та відновленням повноцінної роботи сервісу.",
+      "ai_title": "Збої в роботі моделей Claude",
+      "video_keywords": "server room, computer error, frustrated programmer, blinking lights"
+    },
+    {
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "link": "https://machine0.io",
+      "summary": "<p>Hi HN! I’m Barnaby, founder of machine0 (<a href=\"https://machine0.io\">https://machine0.io</a>). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the minute, from $0.013/hr up to 60 vCPU / 240 GB RAM and GPUs (H100s, H200s etc), with 99.99% VM level uptime. Agents self drive via CLI or MCP.<p>Demo: <a href=\"https://www.you",
+      "published": "2026-08-18T16:26:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стартап представив новий інструмент командного рядка для керування постійними віртуальними машинами з потужними CPU та GPU. Сервіс створений спеціально для автономних AI-агентів, яким потрібні тривалі обчислення та висока стабільність.",
+      "ai_title": "Запуск machine0: хмарні віртуальні машини для AI-агентів",
+      "video_keywords": "terminal screen, typing code, datacenter, gpu servers"
+    },
+    {
+      "title": "Apple announces changes for apps in the European Union",
+      "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/\">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348055\">https://news.ycombinator.com/item?id=49348055</a></p>\n<p>Points: 16</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-18T16:21:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Apple анонсувала чергові зміни у політиці App Store для європейського ринку. Нововведення стосуються умов розповсюдження додатків та взаємодії з регуляторними органами Європейського Союзу.",
+      "ai_title": "Apple оголосила про нові правила для додатків у ЄС",
+      "video_keywords": "smartphone screen, app store, tapping phone, europe flag"
+    },
+    {
+      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+      "link": "https://github.com/therepanic/openleetcode",
+      "summary": "<p>You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.<p>It currently supports around 1.4k problems and multiple languages, including Python, C++, Rust, Java, Go, TypeScript, Swift, and others.<p>The project is still an MVP. System design, SQL, and concurrency ",
+      "published": "2026-08-18T15:30:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розпочато тестування нового інструменту для програмістів, який дозволяє виконувати завдання LeetCode локально через командний рядок. Проєкт підтримує популярні мови програмування та тести, що зберігаються безпосередньо в репозиторії.",
+      "ai_title": "Openleetcode: локальний запуск задач LeetCode",
+      "video_keywords": "programmer hands, typing keyboard, dual monitors, source code"
+    },
+    {
+      "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
+      "link": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+      "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Information, Tesla is planning a public launch of the Cybercab in [&#8230;]",
+      "published": "2026-08-18T16:26:29+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Tesla планує публічний запуск безпілотного двомісного автомобіля без керма та педалей. Проте експерти та ЗМІ сумніваються, чи дійсно футуристичний транспорт повністю готовий до безпечної експлуатації на реальних дорогах.",
+      "ai_title": "Tesla готується до запуску роботаксі Cybercab",
+      "video_keywords": "autonomous car, steering wheel, futuristic vehicle, driving street"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1695,19 +1745,29 @@
       "ai_summary": "Платформа Peacock оголосила про чергове здорожчання всіх своїх тарифних планів для користувачів. Зокрема, вартість базової підписки з рекламою зросте на один долар на місяць.",
       "ai_title": "Стрімінговий сервіс Peacock знову підвищує ціни на підписку",
       "video_keywords": "person using smartphone, streaming app interface, credit card payment, home living room TV"
+    },
+    {
+      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
+      "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
+      "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+      "published": "2026-08-18T16:39:05+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Comcast оновила свої новітні роутери, додавши функцію виявлення руху в будинку без використання традиційних датчиків. Проте нововведення викликає занепокоєння користувачів через можливі проблеми з конфіденційністю.",
+      "ai_title": "Роутери Comcast научилися виявляти рух у домі",
+      "video_keywords": "wifi router, smart home, living room, internet box"
+    },
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "published": "2026-08-18T16:19:10+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Мабутні навушники AirPods від Apple із вбудованими камерами можуть уникнути проблем із конфіденційністю, характерних для інших гаджетів. За чутками, система блокуватиме можливість прихованого зйомки фото та відео користувачами.",
+      "ai_title": "Чому нові AirPods із камерою не загрожують приватності",
+      "video_keywords": "wireless earbuds, person wearing headphones, apple airpods, technology gadget"
     }
   ],
   "Крипта": [
-    {
-      "title": "The SEC meeting that wasn't: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-      "summary": "",
-      "published": "2026-08-16T18:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Останні події у криптоіндустрії привертають увагу регуляторів та інвесторів. Незважаючи на скасування ключової зустрічі Комісії з цінних паперів і бірж (SEC), ринок продовжує реагувати на регуляторні невизначеності. Експерти аналізують подальші кроки влади щодо цифрових активів.",
-      "ai_title": "Що відбувається на ринку криптовалют: скасована зустріч SEC",
-      "video_keywords": "cryptocurrency chart, stock market screen, financial district, business meeting"
-    },
     {
       "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2378,6 +2438,36 @@
       "ai_summary": "Вартість першої криптовалюти повернулася до рівня $65 000 вперше за тиждень. Це сталося на тлі того, як індекс S&P 500 почав відновлюватися після двотижневого мінімуму через геополітичну риторику між США та Іраном. Ринки демонструють підвищену волатильність на новинному фоні.",
       "ai_title": "Біткоїн перевищив позначку в $65 000 на тлі відновлення ринків",
       "video_keywords": "bitcoin chart, stock market screen, financial data, trading terminal"
+    },
+    {
+      "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
+      "link": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
+      "summary": "",
+      "published": "2026-08-18T16:08:46+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптобіржа Kraken розширює функціонал для європейських користувачів, дозволяючи їм торгувати американськими акціями. Це черговий крок до стирання меж між традиційними фінансами та криптовалютним ринком.",
+      "ai_title": "Біржа Kraken запускає торгівлю американськими акціями в Європі",
+      "video_keywords": "stock market trading floor, computer screens, financial charts, digital graphs"
+    },
+    {
+      "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
+      "link": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-3.jpg\" /></p><p>The proposed deal with Nasdaq-listed Super League Enterprise would give the ",
+      "published": "2026-08-18T16:21:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Metaplanet розширює свою корпоративну стратегію накопичення першої криптовалюти завдяки угоді з американською Nasdaq-компанією Super League Enterprise. Вона планує залучити понад 2000 біткоїнів для зміцнення своїх казначейських активів.",
+      "ai_title": "Японська компанія Metaplanet виводить свою біткоїн-стратегію на ринок США",
+      "video_keywords": "bitcoin logo, cryptocurrency trading, corporate office, stock exchange ticker"
+    },
+    {
+      "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+      "link": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png\" /></p><p>The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avala",
+      "published": "2026-08-18T15:59:54+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Гігант з управління активами на 613 мільярдів доларів об'єднується з платформою Securitize для випуску високодохідного токенізованого фонду. Цей фінансовий інструмент буде доступний одразу в кількох блокчейн-мережах, зокрема Ethereum, Solana та Avalanche.",
+      "ai_title": "Neuberger Berman та Securitize запускають токенізований фонд",
+      "video_keywords": "blockchain technology, digital tokens, financial data, modern office computer"
     }
   ]
 }
