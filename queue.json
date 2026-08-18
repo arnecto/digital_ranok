@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Amazon is trying to crush class-action suits before they get started",
-      "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-      "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would [&#8230;]",
-      "published": "2026-08-16T17:35:02+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Amazon розіслала клієнтам оновлені умови обслуговування, які вимагають вирішувати суперечки через арбітраж та містять відмову від колективних позовів. У такий спосіб техногігант намагається мінімізувати юридичні ризики та уникнути масових судових розглядів ще на старті.",
-      "ai_title": "Amazon намагається заблокувати колективні позови через нові правила",
-      "video_keywords": "lawyer, contract, signing paper, office desk"
-    },
-    {
-      "title": "I've built a free, open-source local and remote memory system for agentw and CL",
-      "link": "https://www.lorekit.io/blog/give-your-agent-a-memory",
-      "summary": "<p>Article URL: <a href=\"https://www.lorekit.io/blog/give-your-agent-a-memory\">https://www.lorekit.io/blog/give-your-agent-a-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322206\">https://news.ycombinator.com/item?id=49322206</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-16T18:03:09+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Створено безплатну відкриту систему локальної та віддаленої пам'яті, яка допомагає агентам штучного інтелекту ефективніше зберігати й обробляти інформацію. Це рішення значно покращує контекстуальне розуміння та взаємодію з користувачами на різних пристроях.",
-      "ai_title": "Розроблено відкриту систему пам'яті для штучного інтелекту",
-      "video_keywords": "computer screen, programming code, artificial intelligence, server rack"
-    },
-    {
       "title": "MathCode, Mathematical Coding Agent",
       "link": "https://math-ai-org.github.io/mathcode/",
       "summary": "<p>Article URL: <a href=\"https://math-ai-org.github.io/mathcode/\">https://math-ai-org.github.io/mathcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322330\">https://news.ycombinator.com/item?id=49322330</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
@@ -1339,6 +1319,26 @@
       "ai_summary": "Компанія Apple вкотре оновлює правила App Store для користувачів з Європейського Союзу, щоб врегулювати суперечки з Єврокомісією щодо умов ведення бізнесу. Усі розробники тепер перейдуть на єдиний набір бізнес-правил для розповсюдження додатків.",
       "ai_title": "Apple змінює правила App Store в Євросоюзі",
       "video_keywords": "smartphone, app store, mobile screen, businesswoman working"
+    },
+    {
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data\">https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348627\">https://news.ycombinator.com/item?id=49348627</a></p>\n<p>Points: 10</p>\n<p># Co",
+      "published": "2026-08-18T16:54:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти аналізують, як поява штучного інтелекту та поширення AI-агентів змінили підхід компаній до споживчої пошти. Тепер стандартні сповіщення перетворюються на заплутані тексти, оптимізовані для алгоритмів, а не для живих людей.",
+      "ai_title": "Чому письмові підтвердження замовлень від Amazon стали марними через штучний інтелект",
+      "video_keywords": "person reading smartphone, email inbox, typing on laptop, frustrated user"
+    },
+    {
+      "title": "Superpowers, Not Superintelligence",
+      "link": "https://bond.now/news/superpowers-not-superintelligence",
+      "summary": "<p>Article URL: <a href=\"https://bond.now/news/superpowers-not-superintelligence\">https://bond.now/news/superpowers-not-superintelligence</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348152\">https://news.ycombinator.com/item?id=49348152</a></p>\n<p>Points: 9</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-18T16:27:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий погляд на розвиток штучного інтелекту зосереджується на практичному розширенні людських можливостей замість створення абстрактного загального штучного інтелекту. Технології мають на меті надати користувачам інструменти для вирішення щоденних складних завдань.",
+      "ai_title": "Штучний інтелект як надздібності, а не надрозум",
+      "video_keywords": "futuristic technology, person using tablet, glowing interface, hands typing code"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1765,6 +1765,16 @@
       "ai_summary": "Компанія спрощує комісійну систему для розробників у ЄС, замінивши фіксовану плату за встановлення на 5% комісії для додатків з альтернативних магазинів. Також Apple робить процедуру запуску сторонніх маркетплейсів зручнішою для бізнесу.",
       "ai_title": "Apple змінює правила та комісії для App Store у Євросоюзі",
       "video_keywords": "smartphone screen, app store, mobile phone, digital marketplace"
+    },
+    {
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "published": "2026-08-18T17:21:58+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Американський стартап Etched за короткий час продемонстрував стрімке зростання оцінки завдяки успішному розгортанню своєї першої кластерної системи штучного інтелекту. Інвестори демонструють величезний інтерес до компанії, що дозволило їй залучити новий масштабний раунд фінансування.",
+      "ai_title": "Вартість стартапу Etched подвоїлася до $21 мільярда за місяць",
+      "video_keywords": "server room, computer servers, data center, microchip"
     }
   ],
   "Крипта": [
