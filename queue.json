@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Ask HN: Do you know of any company that went back to hand-written code?",
-      "link": "https://news.ycombinator.com/item?id=49318906",
-      "summary": "<p>This is intended as a question about the current phase of the LLM hype cycle, and, at the same time, as a reality check about whether reluctance to rely on LLMs is economically viable for an average developer.<p>You've definitely seen that many companies progressed from \"use LLMs for anything and everything\" policies to limiting budgets and scopes of approved LLM usage. It wouldn't be unexpecte",
-      "published": "2026-08-16T11:05:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "На тлі пересичення ринку штучним інтелектом розробники дискутують про доцільність відмови від LLM. Деякі компанії переглядають свої бюджети на генеративний код, намагаючись знайти баланс між автоматизацією та людським програмуванням.",
-      "ai_title": "Чи повертаються компанії до написання коду вручну?",
-      "video_keywords": "programmer typing keyboard, dual monitors code, office desk late night, focused developer"
-    },
-    {
       "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
       "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
       "summary": "<p>Article URL: <a href=\"https://scholar.google.com/scholar?q=%22kidney+disappointment%22\">https://scholar.google.com/scholar?q=%22kidney+disappointment%22</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319389\">https://news.ycombinator.com/item?id=49319389</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
@@ -19,16 +9,6 @@
       "ai_summary": "Дослідники помітили дивну тенденцію в академічних статтях, де алгоритми штучного інтелекту замінюють серйозні медичні терміни на абсурдні аналоги. Наприклад, замість «ниркова недостатність» у текстах з'являється вираз «ниркове розчарування». Це свідчить про серйозні проблеми з якістю автоматичної генерації та редагування наукового контенту.",
       "ai_title": "Штучний інтелект у наукових роботах: кумедні галюцинації замість термінів",
       "video_keywords": "scientist working, computer screen, office, typing"
-    },
-    {
-      "title": "Leave your screen unlocked, meet developers paypal.com",
-      "link": "https://anthony.dev.profullstack.com/blog/012-post.html",
-      "summary": "<p>Article URL: <a href=\"https://anthony.dev.profullstack.com/blog/012-post.html\">https://anthony.dev.profullstack.com/blog/012-post.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319010\">https://news.ycombinator.com/item?id=49319010</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-16T11:26:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова історія у сфері кібербезпеки нагадує про важливість блокування робочих пристроїв. Навіть досвідчені розробники можуть припуститися фатальної помилки, залишивши свої сесії відкритими. Це створює загрозу несанкціонованого доступу до корпоративних систем та платіжних платформ.",
-      "ai_title": "Небезпека залишеного без присмотру екрана: кейс розробників PayPal",
-      "video_keywords": "laptop keyboard, hacker, office desk, typing"
     },
     {
       "title": "Access to telemetry data: Automotive industry criticizes intelligence reform",
@@ -69,16 +49,6 @@
       "ai_summary": "Компанія Anthropic опублікувала оновлення та документацію щодо системних промптів для своїх ШІ-моделей Claude. Це дозволить розробникам краще контролювати поведінку нейромережі та підвищити точність її відповідей. Зміни спрямовані на покращення безпеки та надійності інтеграції штучного інтелекту в сторонні додатки.",
       "ai_title": "Anthropic оновила системні промпти для штучного інтелекту Claude",
       "video_keywords": "typing on keyboard, software engineer, laptop screen"
-    },
-    {
-      "title": "Show HN: Remove AI voice from AI writings",
-      "link": "https://unslopai.com",
-      "summary": "<p>Article URL: <a href=\"https://unslopai.com\">https://unslopai.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319026\">https://news.ycombinator.com/item?id=49319026</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
-      "published": "2026-08-16T11:28:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився новий сервіс, призначений для видалення характерного «штучного» голосу та штампів із текстів, згенерованих штучним інтелектом. Інструмент допомагає зробити машинний контент більш природним, людським та читабельним. Це вирішує проблему одноманітності у сучасних онлайн-публікаціях.",
-      "ai_title": "Новий інструмент очищає тексти від «штучного» стилю",
-      "video_keywords": "writing on laptop, editing text, close up hands"
     },
     {
       "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
@@ -1189,6 +1159,26 @@
       "ai_summary": "Компанія Google на аукціоні викупила масив даних збанкрутілої авіакомпанії Spirit. Цей крок зумовлений потребою у нових наборах даних для навчання сучасних моделей штучного інтелекту.",
       "ai_title": "Google придбала дані збанкрутілої авіакомпанії Spirit для тренування штучного інтелекту",
       "video_keywords": "server racks, data center, computer screen, typing on keyboard"
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens [&#8230;]",
+      "published": "2026-08-18T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія OpenAI презентує новий спеціальний режим ChatGPT, створений спеціально для підлітків. Він об'єднує наявні засоби захисту молоді та нові функції безпеки на тлі зростаючої уваги громадськості до впливу штучного інтелекту на неповнолітніх.",
+      "ai_title": "OpenAI запускає спеціальний режим ChatGPT для підлітків",
+      "video_keywords": "teenager using smartphone, smiling teen typing, modern laptop, glowing screen"
+    },
+    {
+      "title": "Fairphone’s latest repairable phone is going on sale in the US",
+      "link": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
+      "summary": "The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairphone's website and Amazon, and is sold unlocked with support for both T-Mobile and AT&#38;T. In Europe it costs [&#8230;]",
+      "published": "2026-08-18T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Новий модульний смартфон від Fairphone надійшов у продаж на ринок США. Це важливий крок для компанії, яка прагне популяризувати легку самостійну заміну деталей та екологічний підхід до гаджетів серед американських споживачів.",
+      "ai_title": "Екологічний і ремонтопридатний смартфон Fairphone з'явився у продажу в США",
+      "video_keywords": "disassembling smartphone, screwdriver repairing phone, electronics workbench, person holding phone"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1465,6 +1455,16 @@
       "ai_summary": "Шведська транспортна компанія Einride уклала угоду про поповнення свого автопарку п'сотнями електричних вантажівок Tesla Semi. Цей транспорт використовуватиметься для логістичних потреб компанії Amazon та інших великих замовників.",
       "ai_title": "Einride купує 500 електричних вантажівок Tesla Semi",
       "video_keywords": "electric truck, semi truck, highway, charging station"
+    },
+    {
+      "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+      "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+      "published": "2026-08-18T11:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Інвестиційна компанія Reach Capital успішно закрила збір коштів для свого п'ятого фонду у розмірі 265 мільйонів доларів. Капітал спрямують на фінансування засновників стартапів, які використовують штучний інтелект для розширення можливостей людини. Це дозволить підтримати перспективні освітні та технологічні проєкти на ранніх етапах розвитку.",
+      "ai_title": "Фонд Reach Capital залучив 265 мільйонів доларів для підтримки AI-стартапів",
+      "video_keywords": "venture capital, startup meeting, handshake, office workspace"
     }
   ],
   "Крипта": [
@@ -2028,6 +2028,26 @@
       "ai_summary": "Користувачі з Європейської економічної зони тепер можуть торгувати традиційними акціями США. Платформа також пропонує понад 700 токенізованих активів.",
       "ai_title": "Криптобіржа Kraken запускає торгівлю американськими акціями для європейців",
       "video_keywords": "smartphone trading app, european city, stock market graph, digital banking"
+    },
+    {
+      "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+      "summary": "",
+      "published": "2026-08-18T11:21:51+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Глобальний ринок енергоносіїв стикається зі зростаючим розколом, що може безпосередньо зачепити майнінг та курс першої криптовалюти. Експерти аналізують, як нестабільність енергоресурсів відіб'ється на стабільності блокчейн-мереж.",
+      "ai_title": "Енергетична криза та її можливий вплив на біткоїн",
+      "video_keywords": "power plant, electrical grid, industrial cables, glowing cryptocurrency coins"
+    },
+    {
+      "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+      "link": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+      "summary": "",
+      "published": "2026-08-18T11:05:56+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Південна Корея приєдналася до списку з понад 30 юрисдикцій, які запровадили обмеження на використання популярної платформи прогнозів. Регулятори посилюють контроль над ринком децентралізованих ставок та криптовалютними сервісами.",
+      "ai_title": "Південна Корея обмежила доступ до платформи Polymarket",
+      "video_keywords": "smartphone screen, typing on keyboard, restriction warning sign, digital security"
     }
   ]
 }
