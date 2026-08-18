@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
-      "published": "2026-08-16T21:32:56+00:00",
-      "source": "The Verge",
-      "ai_summary": "За даними медіа, компанія OpenAI припинила діяльність свого підрозділу з питань готовності та безпеки. Ця команда відповідала за аналіз потенційних загроз від нових моделей штучного інтелекту та розробку методів їх стримування.",
-      "ai_title": "OpenAI розпустила команду оцінки ризиків та безпеки моделей",
-      "video_keywords": "modern office, team meeting, computers, worried employee"
-    },
-    {
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "summary": "<p>Article URL: <a href=\"https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49324087\">https://news.ycombinator.com/item?id=49324087</a></p>\n<p>Points: 11</p>",
-      "published": "2026-08-16T21:53:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти розкритикували нову функцію Anthropic, яка додає невидимі водяні знаки до згенерованого тексту в Claude. Критики вважають це спотворенням природного письма та втручанням у творчий процес користувачів.",
-      "ai_title": "Антропік критикують за приховані водяні знаки у текстах Claude",
-      "video_keywords": "typing on keyboard, glowing text screen, digital watermark, code scrolling"
-    },
-    {
       "title": "Claude Seems Down",
       "link": "https://news.ycombinator.com/item?id=49324078",
       "summary": "<p>Throwing \"Authentication service was unavailable.\", no updates on their status page, but there are on downdetector</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49324078\">https://news.ycombinator.com/item?id=49324078</a></p>\n<p>Points: 45</p>\n<p># Comments: 32</p>",
@@ -29,16 +9,6 @@
       "ai_summary": "Користувачі масово скаржаться на проблеми з доступом до штучного інтелекту Claude. Система видає помилку автентифікації, хоча офіційна сторінка статусу поки не містить оновлень про причини інциденту.",
       "ai_title": "Сервіс штучного інтелекту Claude відключився через збій",
       "video_keywords": "computer screen, error message, frustrated user, typing keyboard"
-    },
-    {
-      "title": "Stop Turning every purchase into a tip request",
-      "link": "https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request",
-      "summary": "<p>Article URL: <a href=\"https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request\">https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323874\">https://news.ycombinator.com/item?id=49323874</a></p>\n<p>Points: 32</p>\n<p># Comments: 26</p>",
-      "published": "2026-08-16T21:28:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У США зростає невдоволення поширенням електронних терміналів, які при кожній покупці вимагають залишити чайові. Автор критикує цю тенденцію, називаючи її незручним тиском на споживачів у ситуаціях, де додаткова винагорода за послугу зовсім не доречна.",
-      "ai_title": "Культура чайових у США: чому кожен чек тепер просить додаткові гроші",
-      "video_keywords": "credit card terminal, cash register, paying with phone, shopping mall cashier"
     },
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
@@ -1399,6 +1369,26 @@
       "ai_summary": "Опубліковано огляд та роздуми щодо першої інавгураційної зустрічі Homebrew Website Club Asia Pacific. Учасники обговорювали розвиток незалежного вебпростору, створення власних сайтів та повернення контролю над цифровим контентом. Подія стала важливим кроком для об'єднання локальних ентузіастів децентралізованого інтернету.",
       "ai_title": "Підсумки першої зустрічі спільноти IndieWeb в Азійсько-Тихоокеанському регіоні",
       "video_keywords": "person typing laptop, web development, coding screen, modern office workspace"
+    },
+    {
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "link": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "summary": "<p>Article URL: <a href=\"https://cdn.kuber.studio/chat/hp-laser-1008a-driver\">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49352806\">https://news.ycombinator.com/item?id=49352806</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+      "published": "2026-08-18T21:14:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники використали штучний інтелект Claude Code, щоб вирішити стару проблему несумісності та налаштувати нативний друк для принтера HP Laser 1008a на операційній системі macOS. Цей експеримент демонструє нові можливості ШІ у створенні драйверів та вирішенні технічних завдань у реальному часі.",
+      "ai_title": "ШІ-асистент Claude Code навчив macOS друкувати на принтері HP",
+      "video_keywords": "programmer typing code, computer screen, modern office desk, printing document"
+    },
+    {
+      "title": "Companies promote incompetent employees to management tolimit damage they can do",
+      "link": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+      "summary": "<p>Article URL: <a href=\"https://lawsofsoftwareengineering.com/laws/dilbert-principle/\">https://lawsofsoftwareengineering.com/laws/dilbert-principle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49352794\">https://news.ycombinator.com/item?id=49352794</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-18T21:13:30+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У новому матеріалі обговорюється відомий «принцип Дилберта», згідно з яким компанії часто просувають найменш компетентних співробітників на керівні посади, щоб мінімізувати шкоду, яку вони можуть завдати на своїй поточній позиції. Це явище залишається актуальною проблемою для багатьох сучасних організацій та корпоративної культури.",
+      "ai_title": "Чому компанії підвищують некомпетентних працівників до менеджерів",
+      "video_keywords": "business meeting, frustrated boss, corporate office, stressed businessman"
     }
   ],
   "Бізнес / Стартапи": [
@@ -2638,6 +2628,26 @@
       "ai_summary": "Новий некастодіальний міжмережевий механізм обміну від FalconX об'єднує інституційну мережу Canton з провідними блокчейнами Ethereum, Solana та мережею Robinhood. Це значно покращує ліквідність та можливості взаємодії між різними криптовалютними екосистемами.",
       "ai_title": "FalconX інтегрує мережу Canton з Ethereum та Solana",
       "video_keywords": "blockchain network, digital graphs, crypto code, cyberspace"
+    },
+    {
+      "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
+      "link": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
+      "summary": "",
+      "published": "2026-08-18T21:25:42+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Американський комітет зі стандартів бухгалтерського обліку запропонував нові правила, які дозволять компаніям класифікувати стейблкоїни як грошові еквіваленти. Це значний крок до офіційного визнання цифрових активів у традиційній фінансовій системі.",
+      "ai_title": "Стейблкоїни можуть визнати еквівалентом готівки в США",
+      "video_keywords": "digital currency, counting money, smartphone screen, business hands"
+    },
+    {
+      "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+      "link": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC proposes new crypto rules in absence of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sec-cftc-event-overview.jpg\" /></p><p>The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as“investment contracts” and",
+      "published": "2026-08-18T21:24:15+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Комісія з цінних паперів і бірж США виступила з ініціативою щодо нових крипторегуляцій через відсутність ухваленого закону CLARITY Act. Запропоновані норми мають надати компаніям правову захищеність від визнання токенів інвестиційними контрактами.",
+      "ai_title": "SEC готує нові правила для крипторинку через затримку закону",
+      "video_keywords": "gavel, law book, courthouse, businessman working"
     }
   ]
 }
