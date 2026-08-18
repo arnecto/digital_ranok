@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-      "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-      "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html\">https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320144\">https://news.ycombinator.com/item?id=49320144</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
-      "published": "2026-08-16T13:58:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic демонструє вражаючі фінансові результати, зафіксувавши значне зростання прибутків у другому кварталі. Це свідчить про високий попит на їхні штучні інтелекти та активну монетизацію технологій на ринку. Подібні показники підкреслюють жорстку конкуренцію серед лідерів у сфері генеративного штучного інтелекту.",
-      "ai_title": "Доходи Anthropic стрімко зросли до понад $11.5 мільярдів",
-      "video_keywords": "financial chart, stock market, corporate office, modern skyscraper"
-    },
-    {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
-      "published": "2026-08-16T14:56:40+00:00",
-      "source": "The Verge",
-      "ai_summary": "Настільний додаток ChatGPT для macOS отримав нову функцію Computer History, яка фіксує ваші дії для створення персональної бази знань. Штучний інтелект аналізує робочі звички користувача, пропонує автоматизацію завдань та може завершувати незавершену роботу. Цей інструмент будує детальну хронологію активності, яку моделі використовують для виконання подальших запитів.",
-      "ai_title": "ChatGPT тепер стежить за вашими кліками та натисканнями клавіш",
-      "video_keywords": "typing on keyboard, computer screen, developer working, modern laptop"
-    },
-    {
       "title": "The AI Credit Resale Economy",
       "link": "https://vectoral.com/blog/who-are-the-token-brokers",
       "summary": "<p>Article URL: <a href=\"https://vectoral.com/blog/who-are-the-token-brokers\">https://vectoral.com/blog/who-are-the-token-brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320611\">https://news.ycombinator.com/item?id=49320611</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
@@ -1169,6 +1149,56 @@
       "ai_summary": "У браузері Firefox з'явився новий режим Smart Window, який інтегрує можливості штучного інтелекту для пошуку інформації в реальному часі. Завдяки партнерству з Exa, ШІ-чат тепер може підтягувати актуальні дані з мережі та вказувати посилання на джерела. Також функція вміє автоматично групувати вкладки та створювати візуальні прев'ю історії відвідувань.",
       "ai_title": "Firefox представив Smart Window для покращеного перегляду сайту з ШІ",
       "video_keywords": "web browser, computer screen, typing, interface"
+    },
+    {
+      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "link": "https://github.com/mukundzha/avouch",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mukundzha/avouch\">https://github.com/mukundzha/avouch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345154\">https://news.ycombinator.com/item?id=49345154</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
+      "published": "2026-08-18T13:13:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Програміст відмовився від платних послуг хмарного штучного інтелекту для перевірки коду та написав власний безкоштовний локальний інструмент. Це рішення дозволяє розробникам аналізувати код прямо на своєму комп'ютері без зайвих витрат та передачі даних стороннім сервісам.",
+      "ai_title": "Розробник створив безкоштовний локальний аналог платного AI-рецензента коду",
+      "video_keywords": "programmer typing, computer screen, coding, software development"
+    },
+    {
+      "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+      "link": "https://github.com/pitiflautico/neobrowser",
+      "summary": "<p>Article URL: <a href=\"https://github.com/pitiflautico/neobrowser\">https://github.com/pitiflautico/neobrowser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345320\">https://news.ycombinator.com/item?id=49345320</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-18T13:25:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився новий проєкт NeoBrowser, який працює як сервер протоколу Model Context Protocol (MCP) та дозволяє взаємодіяти з повноцінним браузером Google Chrome. Інструмент використовує вже наявні сесії користувача для автоматизації та інтеграції з ШІ-моделями.",
+      "ai_title": "NeoBrowser: новий MCP-сервер для керування реальним браузером Chrome",
+      "video_keywords": "web browser, internet scrolling, computer monitor, clicking mouse"
+    },
+    {
+      "title": "Fixing a Bricked Framework Laptop",
+      "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "summary": "<p>Article URL: <a href=\"https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/\">https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345220\">https://news.ycombinator.com/item?id=49345220</a></p>\n<p>Points: 26</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-18T13:18:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти знайшли спосіб реанімувати материнську плату ноутбука Framework після невдалих оновлень прошивки, використовуючи бюджетний мінімальний набір обладнання. Стаття детально описує процес відновлення та виправлення помилок пам'яті за допомогою програматора.",
+      "ai_title": "Як відновити «заблокований» ноутбук Framework за допомогою недорогих інструментів",
+      "video_keywords": "repairing laptop, screwdriver, circuit board, electronics workbench"
+    },
+    {
+      "title": "Fairphone is now officially available in the United States",
+      "link": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "summary": "<p>Article URL: <a href=\"https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more\">https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344811\">https://news.ycombinator.com/item?id=49344811</a></p>\n<p>Points: 74</p>\n<p># Comments: 20</p>",
+      "published": "2026-08-18T12:42:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Модульний та екологічний смартфон Fairphone шістдесят покоління тепер офіційно доступний на ринку Сполучених Штатів. Головна особливість пристрою — легкість самостійного ремонту, заміна деталей та використання перероблених матеріалів.",
+      "ai_title": "Екологічні смартфони Fairphone офіційно з'явилися в США",
+      "video_keywords": "smartphone unboxing, holding mobile phone, repairable device, eco friendly"
+    },
+    {
+      "title": "Polaroid’s new Pokémon collection captures memories, not Pikachus",
+      "link": "https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film",
+      "summary": "Polaroid announced a new collection of cameras, instant film, and accessories all featuring limited-edition designs to help celebrate the 30th anniversary of Pok&#233;mon. The new collection goes a little harder than Fujifilm's Pok&#233;mon collaboration from five years ago with the introduction of Polaroid film printed with various characters around the frames, including Pikachu and Snorlax. [&#8",
+      "published": "2026-08-18T13:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Polaroid анонсувала яскраву серію камер миттєвого друку та аксесуарів на честь тридцятиріччя всесвіту Pokémon. До колекції увійшли касети з тематичними рамками, на яких зображені популярні персонажі, зокрема Пікачу та Снорлакс.",
+      "ai_title": "Polaroid випустила лімітовану колекцію камер та плівки у стилі Покемонів",
+      "video_keywords": "instant camera, taking photo, colourful film, pokemon merchandise"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1495,19 +1525,49 @@
       "ai_summary": "Компанії масово переплачують за використання надто потужних штучних інтелектів для простих завдань. Новий шлюз Snowflake Cortex AI вирішує цю проблему, автоматично обираючи найдешевшу та найефективнішу модель для кожного окремого запиту.",
       "ai_title": "Snowflake представив інструмент для економії на ШІ завдяки автоматичній маршрутизації",
       "video_keywords": "server room, data center, dashboard analytics, businessman working"
+    },
+    {
+      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "link": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+      "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
+      "published": "2026-08-18T14:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Anthro Energy розпочала будівництво підприємства у Луїсвіллі для виробництва електролітів. Це важливий крок на шляху до масового випуску інноваційних твердотільних акумуляторів.",
+      "ai_title": "Стартап Anthro Energy будує завод для випуску матеріалів для твердотільних батарей",
+      "video_keywords": "factory interior, industrial machinery, chemical laboratory, battery production"
+    },
+    {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "published": "2026-08-18T14:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Система Warp Factories створена для того, щоб максимально спростити розробку програмного забезпечення з використанням штучного інтелекту. Новий інструмент надає готову інфраструктуру для IT-команд.",
+      "ai_title": "Warp презентувала платформу для швидкого створення софту на базі штучного інтелекту",
+      "video_keywords": "software developer, typing code, multiple monitors, modern office"
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "published": "2026-08-18T13:50:30+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий режим для підлітків містить вікові обмеження, батьківський контроль та інструменти безпеки. Функціонал розроблений так, щоб захистити школярів від шкідливого контенту та академічного шахрайства.",
+      "ai_title": "OpenAI запустила спеціальну безпечну версію ChatGPT для підлітків",
+      "video_keywords": "teenager using smartphone, smiling teen, modern bedroom, typing on phone"
+    },
+    {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "published": "2026-08-18T13:45:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Попри зниження загальної кількості завантажень, доходи Perplexity в Індії зросли приблизно на 60% після завершення спеціальної акції від оператора Airtel. Сервіс зміг суттєво розширити свою аудиторію в регіоні.",
+      "ai_title": "Спеціальна проפозиція від Perplexity забезпечила компанії мільйони нових користувачів в Індії",
+      "video_keywords": "person using smartphone, mobile app screen, city street, digital map"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "summary": "",
-      "published": "2026-08-16T14:02:32+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярний криптовалютний гаманець SafePal зазнав кібератаки, внаслідок якої було скомпрометовано інформацію про замовлення майже 40 000 клієнтів. Компанія вже працює над ліквідацією наслідків інциденту та закликає користувачів бути пильними щодо можливого фішингу.",
-      "ai_title": "Криптогаманець SafePal повідомив про витік даних майже 40 тисяч користувачів",
-      "video_keywords": "hacker computer screen, data breach, cyber security, worried person laptop"
-    },
     {
       "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
       "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
@@ -2118,6 +2178,26 @@
       "ai_summary": "Популярний платіжний сервіс Cash App тепер підтримує не лише біткоїн, а й інші криптовалюти через інтеграцію з платформою MoonPay. Це робить купівлю цифрових активів доступнішою для широкого кола користувачів.",
       "ai_title": "Cash App розширює підтримку криптовалют завдяки співпраці з MoonPay",
       "video_keywords": "mobile payment, smartphone screen, credit card, online shopping, person using app"
+    },
+    {
+      "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
+      "link": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Toyota Finance opens tokenized bonds to retail investors via mobile payment app\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/toyota-security-token.png\" /></p><p>Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment a",
+      "published": "2026-08-18T13:41:56+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Toyota Finance запустила продаж облігацій на 1 мільярд єн через мобільний додаток без необхідності відкривати брокерський рахунок. Інвестори можуть не лише придбати активи, а й отримувати спеціальні бонуси через платіжну систему компанії.",
+      "ai_title": "Toyota випустила токенізовані облігації для роздрібних інвесторів",
+      "video_keywords": "smartphone payment app, digital bonds, car keys on screen, modern finance"
+    },
+    {
+      "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
+      "link": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoonPay adds Cash App Pay for crypto purchases by US customers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe-moonpay.jpg\" /></p><p>Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm e",
+      "published": "2026-08-18T13:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Сервіс MoonPay додав підтримку Cash App Pay, дозволивши користувачам у США купувати криптовалюту безпосередньо за рахунок балансу в Cash App. Це оновлення спрощує процес придбання цифрових активів для мільйонів американських клієнтів.",
+      "ai_title": "MoonPay інтегрувала Cash App Pay для купівлі криптовалюти в США",
+      "video_keywords": "mobile phone screen, online shopping checkout, digital wallet app, making payment"
     }
   ]
 }
