@@ -1,20 +1,4 @@
 {
-  "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview": {
-    "title": "Музикант Тому Век створює новий цифровий плеєр",
-    "category": "IT / AI",
-    "posted_at": "2026-08-10T17:33:10.472550+03:00",
-    "summary": "Відомий британський музикант та підприємець Тому Век розробляє унікальний портативний музичний пристрій. Сам автор закликає не називати його гаджет просто ретро-плеєром, адже він пропонує зовсім інший підхід до прослуховування музики.",
-    "video_keywords": "person holding portable music player, musician in studio, headphones on desk",
-    "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview"
-  },
-  "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/": {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-08-10T18:36:50.579294+03:00",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
-    "video_keywords": "Бізнес / Стартапи",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
-  },
   "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near": {
     "title": "У Росії різко зросли продажі апаратних гаманців на тлі нових криптозаконів",
     "category": "Крипта",
@@ -1038,5 +1022,13 @@
     "summary": "Настільний додаток ChatGPT для macOS отримав нову функцію Computer History, яка фіксує ваші дії для створення персональної бази знань. Штучний інтелект аналізує робочі звички користувача, пропонує автоматизацію завдань та може завершувати незавершену роботу. Цей інструмент будує детальну хронологію активності, яку моделі використовують для виконання подальших запитів.",
     "video_keywords": "typing on keyboard, computer screen, developer working, modern laptop",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+  },
+  "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm": {
+    "title": "Як скоротити витрати на ШІ-системи у шість разів",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-08-18T18:39:01.593178+03:00",
+    "summary": "Розробники RAG-систем часто припускаються помилки, надсилаючи всі запити одразу до мовних моделей. Новий архітектурний підхід пропонує відсіювати зайвий контекст на ранніх етапах, що дозволяє суттєво знизити витрати на обчислення.",
+    "video_keywords": "server rack, data center, computer code, analytics screen",
+    "link": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm"
   }
 }
