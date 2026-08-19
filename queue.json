@@ -31,16 +31,6 @@
       "video_keywords": "computer hardware, microchip, ram sticks, motherboard"
     },
     {
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">https://artificialanalysis.ai/models/qwen3-8-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49334544\">https://news.ycombinator.com/item?id=49334544</a></p>\n<p>Points: 70</p>\n<p># Comments: 24</p>",
-      "published": "2026-08-17T17:25:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова мовна модель Qwen3.8 у версії 27B продемонструвала результат у 52 бали на авторитетній платформі Artificial Analysis. Це свідчить про високу конкурентоспроможність моделі серед сучасних відкритих рішень. Експерти активно обговорюють її продуктивність та можливості генерації тексту.",
-      "ai_title": "Штучний інтелект Qwen3.8 27B набрав 52 бали на Artificial Analysis",
-      "video_keywords": "artificial intelligence, analytics, server racks, data center"
-    },
-    {
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "link": "https://arxiv.org/abs/2608.13759",
       "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.13759\">https://arxiv.org/abs/2608.13759</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49334991\">https://news.ycombinator.com/item?id=49334991</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
@@ -1419,6 +1409,26 @@
       "ai_summary": "Експерти аналізують, яким чином поява потужних мовних моделей змінює архітектуру сучасного софту. Розробники шукають нові підходи до створення гнучких та модульних систем, які легко інтегруються з можливостями штучного інтелекту.",
       "ai_title": "Розробка розширюваного програмного забезпечення в епоху LLM",
       "video_keywords": "coding on screen, programmer, dual monitors, software developer"
+    },
+    {
+      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+      "link": "https://demo.frugaltokens.com/",
+      "summary": "<p>I wanted to share a project I’ve been working on called Frugal Tokens. I originally built it because I was curious to see how much all of my sessions cost and how much cache misses affected that spend. I’d noticed people had widely different spend profiles and wanted to better understand what might contribute to that.<p>As I’ve worked on this, the tool has grown to show more usage patterns acro",
+      "published": "2026-08-19T17:07:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив проєкт Frugal Tokens для відстеження витрат і використання токенів у сеансах кодинг-агентів. Інструмент допомагає аналізувати бюджети та вплив кешу на загальну вартість роботи з ШІ.",
+      "ai_title": "Новий інструмент контролює витрати на штучний інтелект",
+      "video_keywords": "dashboard, computer screen, graphs, developer coding"
+    },
+    {
+      "title": "GTA VI keeps leaking ahead of its gameplay premiere",
+      "link": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+      "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips seemingly showing off the game, though two have been pulled from the site I [&#8230;]",
+      "published": "2026-08-19T17:03:11+00:00",
+      "source": "The Verge",
+      "ai_summary": "Перед офіційною презентацією від Rockstar Games в інтернеті знову з'явилися короткі відео з майбутньої гри Grand Theft Auto VI. Витоки розкривають деякі деталі проєкту незадовго до його довгоочікуваного релізу в листопаді.",
+      "ai_title": "У мережі знову з'явилися зливи геймплею GTA VI",
+      "video_keywords": "video game controller, playing video game, screen, television"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1931,6 +1941,26 @@
       "ai_summary": "Організатори закликають учасників придбати квитки на конференцію зі знижкою 300 доларів. Подія об'єднає світову стартап-спільноту в Сан-Франциско з 13 по 15 жовтня в Moscone West.",
       "ai_title": "Знижки на квитки на TechCrunch Disrupt 2026 діють до 21 серпня",
       "video_keywords": "conference hall, business people, presentation, audience"
+    },
+    {
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#1",
+      "published": "2026-08-19T17:26:48+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Витрати на дата-центри та графічні процесори стали найбільшою статтею витрат для розробників штучного інтелекту. Новий стартап допомагає Волл-стріт визначити ринкову вартість обчислювальних потужностей та керувати пов'язаними з цим фінансовими ризиками.",
+      "ai_title": "Стартап створює ринок для оцінки вартості обчислювальної потужності штучного інтелекту",
+      "video_keywords": "data center, server racks, computer processors, financial trading floor"
+    },
+    {
+      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+      "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
+      "published": "2026-08-19T17:26:32+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Американський мобільний оператор зміг запобігти масштабному злому своєї мережі. Служба безпеки компанії вчасно виявила кібершпигунів, пов'язаних з Китаю, та фізично заблокувала їм доступ.",
+      "ai_title": "T-Mobile відключила кабелі, щоб зупинити китайських хакерів у своїй мережі",
+      "video_keywords": "network cables, server room, fiber optic, cybersecurity monitors"
     }
   ],
   "Крипта": [
@@ -2805,6 +2835,16 @@
       "ai_summary": "Керівник банківського регулятора США пообіцяв затвердити остаточні правила в межах закону про стейблкоїни до листопада. Це рішення важливе для легалізації та подальшого розвитку ринку цифрових активів у країні.",
       "ai_title": "Регулятори США планують фіналізувати правила для стейблкоїнів до листопада",
       "video_keywords": "us currency, banking building, washington dc, digital finance"
+    },
+    {
+      "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "link": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FalconX, Ethena bring USDe backing assets into $1B institutional credit facility\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/dollar-fiat-money-bitcoin.png\" /></p><p>The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sourc",
+      "published": "2026-08-19T17:34:10+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанії FalconX та Ethena об'єдналися для інтеграції активів забезпечення стейблкоїна USDe у масштабну кредитну лінію на 1 мільярд доларів. Цей інструмент спрямований на видачу надмірно забезпечених інституційних позик, що розширює можливості та ліквідність проєкту.",
+      "ai_title": "FalconX та Ethena запускають кредитну лінію на $1 мільярд для забезпечення USDe",
+      "video_keywords": "cryptocurrency trading, digital currency, financial charts, corporate finance"
     }
   ]
 }
