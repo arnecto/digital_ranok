@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "link": "https://duti.dev/blog/2026/spr/",
-      "summary": "<p>Article URL: <a href=\"https://duti.dev/blog/2026/spr/\">https://duti.dev/blog/2026/spr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327490\">https://news.ycombinator.com/item?id=49327490</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
-      "published": "2026-08-17T07:28:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор ділиться роздумами про сучасний стан хакатонів та роль штучного інтелекту в них. У статті порушуються питання про те, як автоматизація змінює атмосферу та сенс таких заходів для розробників.",
-      "ai_title": "Критика хакатонів та штучного інтелекту на HackEurope 2026",
-      "video_keywords": "hackathon, programmer coding, laptop screen, futuristic technology"
-    },
-    {
       "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
       "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [",
@@ -1439,6 +1429,16 @@
       "ai_summary": "Літературне видання опублікувало захопливе дослідження, присвячене одному з найбільш суперечливих знаків пунктуації — круглим дужкам. Автор аналізує, як цей інструмент змінював структуру текстів від античності до сучасних цифрових медіа. Стаття розглядає психологічний ефект дужок та їхню здатність передавати приховані думки автора.",
       "ai_title": "Історія та значення дужок у літературі",
       "video_keywords": "writing, vintage typewriter, book page, typography"
+    },
+    {
+      "title": "Show HN: Privacy focused client side password generator",
+      "link": "https://password-generator.aaqa.dev/",
+      "summary": "<p>Article URL: <a href=\"https://password-generator.aaqa.dev/\">https://password-generator.aaqa.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49357881\">https://news.ycombinator.com/item?id=49357881</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-19T06:55:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий інструмент для створення надійних паролів, який працює безпосередньо на пристрої користувача. Це забезпечує максимальний захист персональних даних та запобігає будь-якій передачі інформації на сторонні сервери.",
+      "ai_title": "Запущено новий клієнтський генератор паролів із акцентом на конфіденційність",
+      "video_keywords": "cybersecurity, password typing, glowing keyboard, digital lock"
     }
   ],
   "Бізнес / Стартапи": [
