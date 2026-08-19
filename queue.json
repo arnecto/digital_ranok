@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
-      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331423\">https://news.ycombinator.com/item?id=49331423</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-17T14:18:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники виявили, що функція автовиправлення від GitHub Copilot може створювати серйозні ризики для безпеки коду. Зокрема, такі збої дозволили скомпрометувати робочий простір компанії Snowflake у Jira. Це ставить під сумнів надійність повністю автоматизованих інструментів розробки на базі штучного інтелекту.",
-      "ai_title": "Штучний інтелект від GitHub став причиною вразливості в системі безпеки",
-      "video_keywords": "hacker typing on laptop, computer screen, cybersecurity code, server room"
-    },
-    {
-      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-      "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-      "summary": "<p>Article URL: <a href=\"https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html\">https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331222\">https://news.ycombinator.com/item?id=49331222</a></p>\n<p>Points: 14</p>\n<p># Commen",
-      "published": "2026-08-17T14:07:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Німецьке відомство встановило, що політика прозорості відстеження додатків (ATT) від Apple надавала переваги власним сервисам компанії. Сторонні розробники опинилися в менш вигідних умовах через нерівні правила гри. Це рішення може суттєво вплинути на майбутню екосистему додатків iOS.",
-      "ai_title": "Антимонопольний орган звинуватив Apple у привілеях для власних додатків",
-      "video_keywords": "smartphone screen, mobile apps, office desk, corporate building"
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "link": "https://www.librarian.net/notoai/",
-      "summary": "<p>Article URL: <a href=\"https://www.librarian.net/notoai/\">https://www.librarian.net/notoai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331220\">https://news.ycombinator.com/item?id=49331220</a></p>\n<p>Points: 24</p>\n<p># Comments: 8</p>",
-      "published": "2026-08-17T14:07:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У мережі активно обговорюють способи уникнути надмірного та настирливого впровадження інструментів зі штучним інтелектом у повсякденні програми. Користувачі шукають дієві методи, як зберегти контроль над власним цифровим простором і відмовитися від непотрібних AI-функцій. Це стає важливим питанням для тих, хто прагне мінімізувати автоматизацію там, де вона зайва.",
-      "ai_title": "Як вимкнути нав'язливий штучний інтелект",
-      "video_keywords": "computer screen, typing keyboard, frustrated user, settings menu"
-    },
-    {
-      "title": "Apple ordered to change app data consent prompts on iPhones and iPads",
-      "link": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
-      "summary": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt-in. But as [&#8230;]",
-      "published": "2026-08-17T15:10:25+00:00",
-      "source": "The Verge",
-      "ai_summary": "Федеральне відомство у справах картелів Німеччини звинуватило Apple у створенні нечесних умов через дизайн сповіщень про конфіденційність. Тепер компанія зобов'язана оновити системні запити на збір даних для користувачів iPhone та iPad. Це рішення покликане усунути привілеї для власних застосунків техногіганта.",
-      "ai_title": "Apple змусять змінити вікна згоди на відстеження даних",
-      "video_keywords": "smartphone screen, tapping display, digital privacy, mobile settings"
-    },
-    {
-      "title": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
-      "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
-      "summary": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports Wi-Fi 6E, Bluetooth 5.3 and ethernet, [&#8230;]",
-      "published": "2026-08-17T14:35:25+00:00",
-      "source": "The Verge",
-      "ai_summary": "На ринку розумних колонок з'явилася потужна альтернатива пристроям від Apple, Google та Amazon. Нова 100-ватна колонка WiiM підтримує понад 20 музичних сервісів і не прив'язана до екосистеми лише одного бренду. Зараз гаджет можна придбати за вигідною ціною зі знижкою майже в 50 доларів.",
-      "ai_title": "Нова універсальна смарт-колонка від WiiM зі знижкою",
-      "video_keywords": "smart speaker, modern living room, playing music, audio device"
-    },
-    {
-      "title": "Uber partners with Zipline on Eats drone deliveries",
-      "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
-      "summary": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching one million daily drone deliveries by 2029. Uber also said it was making a strategic investment in Zipline, a California-based company that has been orchestrating drone deliveries in Texas since 2025. The news comes [&#8230;]",
-      "published": "2026-08-17T14:24:35+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Uber оголосила про партнерство з виробником дронів Zipline задля розвитку повітряної доставки замовлень. Партнери планують запустити перші доставки вже цього року з амтною ціллю досягти мільйона рейсів на день до 2029 року. Uber також здійснив стратегічну інвестицію в розвиток цього каліфорнійського стартапу.",
-      "ai_title": "Uber запускає доставку їжі за допомогою дронів",
-      "video_keywords": "delivery drone, flying quadcopter, suburban neighborhood, aerial view"
-    },
-    {
       "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
       "link": "https://news.ycombinator.com/item?id=49332751",
       "summary": "<p>Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.<p>Demo: <a href=\"https://youtu.be/no2LY2gRh-c\" rel=\"nofollow\">https://youtu.be/no2LY2gRh-c</a><p>Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS.<",
@@ -71,46 +11,6 @@
       "video_keywords": "microphone, voice recording, software code, computer screen"
     },
     {
-      "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
-      "link": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
-      "summary": "<p>Article URL: <a href=\"https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu\">https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331607\">https://news.ycombinator.com/item?id=49331607</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
-      "published": "2026-08-17T14:29:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти протестували роботу великої мовної моделі на споживчому заліжі з 24GB відеопам'яті. Завдяки техніці MTP вдалося досягти вражаючої швидкості генерації у 50 токенів за секунду при контексті у 256K.",
-      "ai_title": "Запуск моделі Qwen3.8-27B на звичайній відеокарті",
-      "video_keywords": "graphics card, computer hardware, microchip, tech lab"
-    },
-    {
-      "title": "Show HN: Eve Software Factory",
-      "link": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
-      "summary": "<p>Build a software factory in minutes with this free OSS template</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331599\">https://news.ycombinator.com/item?id=49331599</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-17T14:28:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розпочато випуск безплатного шаблону з відкритим кодом для швидкого розгортання власних середовищ розробки програмного забезпечення. Інструмент покликаний суттєво прискорити та автоматизувати типові процеси створення проєктів.",
-      "ai_title": "Eve Software Factory: створення програмної фабрики за хвилини",
-      "video_keywords": "coding, programmer hands, typing keyboard, monitor screen"
-    },
-    {
-      "title": "Ask HN: Alternatives to GitHub",
-      "link": "https://news.ycombinator.com/item?id=49331033",
-      "summary": "<p>Github has been down consistently over the last few months - does it make sense to switch to alternatives?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331033\">https://news.ycombinator.com/item?id=49331033</a></p>\n<p>Points: 138</p>\n<p># Comments: 95</p>",
-      "published": "2026-08-17T13:59:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "На тлі регулярних перебоїв у роботі популярного сервісу впродовж останніх місяців у спільноті розгорнулася дискусія. Програмісти активно обговорюють доцільність переходу на альтернативні платформи для хостингу коду.",
-      "ai_title": "Розробники масово шукають альтернативи GitHub через збої",
-      "video_keywords": "frustrated programmer, computer error, office desk, typing"
-    },
-    {
-      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-      "link": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
-      "summary": "<p>Article URL: <a href=\"https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/\">https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331625\">https://news.ycombinator.com/item?i",
-      "published": "2026-08-17T14:30:09+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Судове рішення підтвердило, що рішення суддів, які повністю спираються на штучний інтелект під час винесення постанов, підпадають під дію судового імунітету. Це відкриває нові дискусії щодо відповідальності та етики використання алгоритмів у правосудді. Експерти занепокоєні можливими наслідками такого прецеденту для прозорості судової системи.",
-      "ai_title": "Суд постановив: використання штучного інтелекту суддями захищене судовою імунністю",
-      "video_keywords": "courtroom, judge gavel, artificial intelligence, computer screen"
-    },
-    {
       "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
       "link": "https://speko.ai/",
       "summary": "<p>Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.<p>Demo: <a href=\"https://youtu.be/no2LY2gRh-c\" rel=\"nofollow\">https://youtu.be/no2LY2gRh-c</a>\nLink: <a href=\"https://speko.ai/?utm_source=hn\">https://speko.ai/?utm_source=hn</a><p>T",
@@ -119,26 +19,6 @@
       "ai_summary": "Новий стартап допомагає розробникам знайти оптимальну комбінацію моделей розпізнавання мови, мовних модель і синтезу голосу. Система аналізує всі публічні бенчмарки з урахуванням заданих обмежень і пропонує найкраще технічне рішення.",
       "ai_title": "Speko: платформа OpenRouter для голосового штучного інтелекту",
       "video_keywords": "microphone, sound waves, computer screen, software code"
-    },
-    {
-      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
-      "link": "https://saggar.marginalutility.dev/",
-      "summary": "<p>Hi HN, like many of you talented folk, I’ve been building more, faster than ever. I built Saggar after my terminal stopped feeling like a tool and started feeling like a tab-management problem. Let me know you think!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331551\">https://news.ycombinator.com/item?id=49331551</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-17T14:25:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив новий термінал, який вирішує проблему хаосу з вкладками та вікнами. Інструмент допомагає зосередитися на роботі та тримати всі робочі сесії впорядкованими.",
-      "ai_title": "Saggar: новий термінал для Mac для зручного керування сесіями",
-      "video_keywords": "computer monitor, typing hands, dark mode, software interface"
-    },
-    {
-      "title": "How to ship a database every day",
-      "link": "https://turbopuffer.com/blog/control-plane",
-      "summary": "<p>Article URL: <a href=\"https://turbopuffer.com/blog/control-plane\">https://turbopuffer.com/blog/control-plane</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330978\">https://news.ycombinator.com/item?id=49330978</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-17T13:56:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технічний блог розповідає про підходи до керування контрольними панелями та архітектурою даних. Стаття описує процеси, які дозволяють інженерним командам безперервно випускати нові версії баз даних.",
-      "ai_title": "Як оновлювати бази даних щодня",
-      "video_keywords": "server room, data center, blinking lights, IT engineer"
     },
     {
       "title": "Sonos finally added Live Activities controls for your iPhone lock screen",
@@ -1459,19 +1339,19 @@
       "ai_summary": "Звичайна покупка доменного імені заради жарту несподівано призвела до серйозного цифрового протистояння з геополітичними наслідками. Історія ілюструє, як дрібні технічні чинники в інтернеті можуть перерости в міжнародні інциденти. Подія привертає увагу до вразливостей доменної інфраструктури та кібербезпеки.",
       "ai_title": "Жартівлива купівля домену перетворилася на геополітичний конфлікт",
       "video_keywords": "hacker typing, cyber attack, computer monitor, digital map"
+    },
+    {
+      "title": "This robot vacuum solves my kitchen stool problem",
+      "link": "https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review",
+      "summary": "Robot vacuums are great at keeping your floors clean, but there are a few areas they fall down on the job - stairs being one. Another is chairs and stools. You know the scenario: You have a row of stools at a kitchen table, or chairs tucked under a dining table, and the robovac just [&#8230;]",
+      "published": "2026-08-19T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Роботи-пилососи чудово справляються з прибиранням підлоги, проте застрягають під меблями з великою кількістю ніжок. Нова модель вирішує цю проблему завдяки вдосконаленій навігації, яка дозволяє легко маневрувати між стільцями та табуретками на кухні.",
+      "ai_title": "Новий робот-пилосос навчився обходити кухонні стільці",
+      "video_keywords": "robot vacuum, kitchen floor, cleaning house, smart appliance"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "How Heidi built production-ready AI for healthcare at global scale",
-      "link": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
-      "summary": "<p><i>Presented by MongoDB</i></p><hr /><p>Building AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to the compliance obligations that govern healthcare, financial services, and transportation. The challenge of delivering AI-driven products is compounded by the fact that technology in these industries has tended to lag behind other sectors because re",
-      "published": "2026-08-17T14:30:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Впровадження штучного інтелекту в медицині вимагає надзвичайної точності, безпеки та дотримання жорстких нормативних вимог. Компанія Heidi успішно подолала ці виклики, створивши надійні готові до виробництва ШІ-рішення для охорони здоров'я.",
-      "ai_title": "Як Heidi створила масштабабельний ШІ для медичної галузі",
-      "video_keywords": "doctor using tablet, modern hospital, medical technology, healthcare professional"
-    },
     {
       "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
       "link": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
@@ -1965,23 +1845,29 @@
       "ai_summary": "Компанії на кшталт Tesla та Base Power активно змагаються за лідерство на ринку домашніх систем зберігання енергії, що стрімко розвивається. Головною рушійною силою цього тренду стало здешевлення однієї конкретної технології, яка зробила такі батареї доступними для масового споживача.",
       "ai_title": "Домашні акумулятори стрімко дешевшають і завойовують ринок",
       "video_keywords": "home battery, solar panel, energy storage, modern house"
+    },
+    {
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+      "published": "2026-08-19T14:09:39+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Популярний сервіс планування зустрічей Calendly виходить на ринок інструментів для створення нотаток за допомогою штучного інтелекту. Компанія також представила нового віртуального асистента для планування під назвою Callie.",
+      "ai_title": "Calendly запускає власний сервіс для нотування зустрічей",
+      "video_keywords": "person typing on laptop, business meeting, modern office, AI assistant"
+    },
+    {
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "summary": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying,",
+      "published": "2026-08-19T14:18:12+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Роб Стречей, колишній керуючий директор theCUBE Research, приєднався до VentureBeat як головний аналітик. Це призначення знаменує собою новий етап у розвитку поглиблених досліджень штучного інтелекту для технічних керівників.",
+      "ai_title": "VentureBeat призначив першого провідного аналітика для розвитку AI-досліджень",
+      "video_keywords": "data analytics dashboard, corporate presentation, business meeting, graphs on screen"
     }
   ],
   "Крипта": [
-    {
-      "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-      "link": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-      "summary": "",
-      "published": "2026-08-17T14:04:21+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
-      "link": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
-      "summary": "",
-      "published": "2026-08-17T13:57:11+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
     {
       "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
       "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
@@ -2782,6 +2668,16 @@
       "ai_summary": "Відома як «крипто-мама» Гестер Пірс позитивно оцінила нову регуляторну пропозицію Комісії з цінних паперів і бірж США. На її думку, це значний крок вперед у порівнянні із застарілими та недоречними правилами для криптоіндустрії.",
       "ai_title": "Комісарка SEC назвала нові правила для криптовалют важливим проривом",
       "video_keywords": "government building, press conference, politician speaking, meeting room"
+    },
+    {
+      "title": "Strengthen the Clarity Act",
+      "link": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
+      "summary": "",
+      "published": "2026-08-19T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Американські законодавці продовжують роботу над Законом про кристалізацію крипторегулювання (Clarity Act). Ця ініціатива має на меті чітко розмежувати повноваження регуляторів та забезпечити стабільність ринку цифрових активів.",
+      "ai_title": "Законопроєкти про крипторегулювання отримали новий поштовх",
+      "video_keywords": "capitol building, law books, gavel, politician speaking"
     }
   ]
 }
