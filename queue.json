@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Tell HN: GitHub Is Overloaded",
-      "link": "https://news.ycombinator.com/item?id=49330597",
-      "summary": "<p>Just got this message: \"No server is currently available to service your request. Sorry about that. Please try refreshing and contact us if the problem persists.\"</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330597\">https://news.ycombinator.com/item?id=49330597</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
-      "published": "2026-08-17T13:35:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі масово скаржаться на збої в роботі платформи GitHub через відсутність доступних серверів для обробки запитів. Проблема призводить до тимчасової непрацездатності сайту та помилок при спробі оновлення сторінок. Розробники очікують на якнайшвидше відновлення повноцінної роботи сервісу.",
-      "ai_title": "GitHub зіткнувся з масовим перевантаженням сервери не відповідають",
-      "video_keywords": "server room, computer screen, error message, developer typing"
-    },
-    {
-      "title": "Show HN: Sokoban AI Solver",
-      "link": "https://mkornreich.me/projects/sokoban/",
-      "summary": "<p>Article URL: <a href=\"https://mkornreich.me/projects/sokoban/\">https://mkornreich.me/projects/sokoban/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330215\">https://news.ycombinator.com/item?id=49330215</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-17T13:07:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Програмісти презентували спеціалізований алгоритм на базі штучного інтелекту, який здатний самостійно знаходити оптимальні рішення для класичної гри-головоломки Сокобан. Проєкт демонструє ефективність сучасних методів пошуку та планування в штучному інтелекті. Це рішення відкриває нові можливості для тестування логічних здібностей алгоритмів.",
-      "ai_title": "Розроблено новий штучний інтелект для автоматичного вирішення головоломок Сокобан",
-      "video_keywords": "puzzle game, computer monitor, coding, artificial intelligence"
-    },
-    {
-      "title": "Incident with Github.com",
-      "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "summary": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/zkxwbgr0cnmx\">https://www.githubstatus.com/incidents/zkxwbgr0cnmx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330684\">https://news.ycombinator.com/item?id=49330684</a></p>\n<p>Points: 239</p>\n<p># Comments: 178</p>",
-      "published": "2026-08-17T13:40:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі по всьому світу зіткнулися з технічними проблемами на платформі GitHub. Офіційна сторінка статусу зафіксувала інцидент, що вплинув на доступність сервісу для розробників.",
-      "ai_title": "Масштабний збій у роботі GitHub",
-      "video_keywords": "server room, computer screen, error message, developer working"
-    },
-    {
-      "title": "GitHub down again? no PR access",
-      "link": "https://news.ycombinator.com/item?id=49330632",
-      "summary": "<p>Githubstatus.com currently says everything is working, but it isn't</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330632\">https://news.ycombinator.com/item?id=49330632</a></p>\n<p>Points: 49</p>\n<p># Comments: 17</p>",
-      "published": "2026-08-17T13:37:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники скаржаться на неможливість створювати та переглядати pull request'и на платформі. Хоча офіційний моніторинг стверджує, що все працює нормально, фактично доступ до ключових функцій обмежено.",
-      "ai_title": "Нові проблеми з доступом до GitHub",
-      "video_keywords": "frustrated programmer, typing keyboard, computer monitor, code scrolling"
-    },
-    {
-      "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
-      "link": "https://1667.ai/",
-      "summary": "<p>Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one...<p>Why a terminal interface for story writing? I'm a dev. I like to use terminals for a lot of stuff. Most WebUIs feel off to me. That's the only  reason.<p>One thing that bothers me about writing in existing tools is that they don't fit the way I write. The ment",
-      "published": "2026-08-17T13:35:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив спеціальний мінімалістичний інструмент командного рядка для написання художньої літератури в інтеграції з мовними моделями. Цей проєкт створено для програмістів, які віддають перевагу роботі в терміналі замість звичних веб-інтерфейсів.",
-      "ai_title": "Термінальний інтерфейс для написання історій за допомогою ШІ",
-      "video_keywords": "command line interface, hacker typing, glowing code, dark room screen"
-    },
-    {
       "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
       "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331423\">https://news.ycombinator.com/item?id=49331423</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
@@ -69,16 +19,6 @@
       "ai_summary": "Німецьке відомство встановило, що політика прозорості відстеження додатків (ATT) від Apple надавала переваги власним сервисам компанії. Сторонні розробники опинилися в менш вигідних умовах через нерівні правила гри. Це рішення може суттєво вплинути на майбутню екосистему додатків iOS.",
       "ai_title": "Антимонопольний орган звинуватив Apple у привілеях для власних додатків",
       "video_keywords": "smartphone screen, mobile apps, office desk, corporate building"
-    },
-    {
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "link": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-      "summary": "<p>Article URL: <a href=\"https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/\">https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330742\">https://news.ycombinator.com/item?id=49330742</a></p>\n<p>Points: 27</p>\n<p># Comments",
-      "published": "2026-08-17T13:44:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Журналісти відстежили шлях посилки з колекційними та рідкісними книгами, яка зрештою опинилася на об'єкті Amazon, де тренуються моделі штучного інтелекту. Це розслідування піднімає нові етичні та юридичні питання щодо використання захищених авторським правом матеріалів для технологій ШІ.",
-      "ai_title": "Трекер показав, що рідкісні книги потрапили до дата-центру для навчання ШІ від Amazon",
-      "video_keywords": "warehouse boxes, shipping packages, data center, server racks"
     },
     {
       "title": "How to disable or avoid intrusive AI",
@@ -159,16 +99,6 @@
       "ai_summary": "На тлі регулярних перебоїв у роботі популярного сервісу впродовж останніх місяців у спільноті розгорнулася дискусія. Програмісти активно обговорюють доцільність переходу на альтернативні платформи для хостингу коду.",
       "ai_title": "Розробники масово шукають альтернативи GitHub через збої",
       "video_keywords": "frustrated programmer, computer error, office desk, typing"
-    },
-    {
-      "title": "A Preview of DuckDB v2.0",
-      "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "summary": "<p>Article URL: <a href=\"https://duckdb.org/2026/08/17/duckdb-20-highlights\">https://duckdb.org/2026/08/17/duckdb-20-highlights</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330781\">https://news.ycombinator.com/item?id=49330781</a></p>\n<p>Points: 141</p>\n<p># Comments: 11</p>",
-      "published": "2026-08-17T13:46:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники опублікували ключові особливості та оновлення майбутнього великого релізу популярної колоночної бази даних. Версія 2.0 обіцяє суттєві покращення продуктивності та нові можливості для аналізу даних.",
-      "ai_title": "Попередній огляд нової версії DuckDB v2.0",
-      "video_keywords": "data center, server racks, digital analytics, screen charts"
     },
     {
       "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
@@ -1499,6 +1429,36 @@
       "ai_summary": "Спортивні ліги намагаються вирішити хронічну проблему низького утримання гравців у фентезі-турнірах. Нові підходи покликані зробити сезон менш виснажливим для учасників і підвищити їхній інтерес до гри.",
       "ai_title": "Жіноча футбольна ліга змінює правила фентезі-спорту",
       "video_keywords": "smartphone screen, mobile app, sports stadium, people cheering"
+    },
+    {
+      "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+      "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/NoubarAfeyan/status/2090050162441752787\">https://twitter.com/NoubarAfeyan/status/2090050162441752787</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361395\">https://news.ycombinator.com/item?id=49361395</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-19T13:33:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Moderna повідомила про перші позитивні результати клінічних випробувань третьої фази для інноваційної мРНК-терапії неоантигенами проти меланоми. Це досягнення наближає медицину до створення ефективних персоналізованих вакцин проти раку шкіри. Новий метод спрямований на тренування імунної системи пацієнта для точного знищення ракових клітин.",
+      "ai_title": "Moderna оголосила про успіх третьої фази випробувань мРНК-терапії меланоми",
+      "video_keywords": "laboratory, scientist, microscope, medical research"
+    },
+    {
+      "title": "PostgreSQL for Everything",
+      "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "summary": "<p>Article URL: <a href=\"https://www.raphaelbauer.com:443/posts/postgresql-everything/\">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361279\">https://news.ycombinator.com/item?id=49361279</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-19T13:21:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття досліджує розширення меж використання реляційної бази даних PostgreSQL для найрізноманітніших завдань за межами стандартних веб-додатків. Завдяки своїй розширюваності та надійності ця СУБД стає універсальним інструментом для сучасних розробників. Автор аналізує практичні сценарії, коли PostgreSQL успішно замінює спеціалізовані рішення.",
+      "ai_title": "PostgreSQL для всього: універсальне застосування бази даних",
+      "video_keywords": "computer screen, programming code, software developer, database server"
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "summary": "<p>Article URL: <a href=\"https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/\">https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360015\">https://news.ycombinator.com/item?id=49360015</a></p>\n<p>Points: 38</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-19T11:21:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Звичайна покупка доменного імені заради жарту несподівано призвела до серйозного цифрового протистояння з геополітичними наслідками. Історія ілюструє, як дрібні технічні чинники в інтернеті можуть перерости в міжнародні інциденти. Подія привертає увагу до вразливостей доменної інфраструктури та кібербезпеки.",
+      "ai_title": "Жартівлива купівля домену перетворилася на геополітичний конфлікт",
+      "video_keywords": "hacker typing, cyber attack, computer monitor, digital map"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1995,6 +1955,16 @@
       "ai_summary": "Компанія CareCloud підтвердила витік медичних даних 3,7 мільйона пацієнтів внаслідок серйозної кібератаки. Цей інцидент став одним із найбільших порушень безпеки даних у галузі охорони здоров'я США цього року.",
       "ai_title": "Масштабна кібератака: дані мільйонів пацієнтів CareCloud опинилися в руках хакерів",
       "video_keywords": "hacker, computer screen, cybersecurity, data breach"
+    },
+    {
+      "title": "Home batteries are suddenly cheap and everywhere. Here’s why.",
+      "link": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
+      "summary": "Companies including Tesla and Base Power are vying for a piece of the rapidly growing market for home batteries. One technology has made it all possible.",
+      "published": "2026-08-19T13:40:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанії на кшталт Tesla та Base Power активно змагаються за лідерство на ринку домашніх систем зберігання енергії, що стрімко розвивається. Головною рушійною силою цього тренду стало здешевлення однієї конкретної технології, яка зробила такі батареї доступними для масового споживача.",
+      "ai_title": "Домашні акумулятори стрімко дешевшають і завойовують ринок",
+      "video_keywords": "home battery, solar panel, energy storage, modern house"
     }
   ],
   "Крипта": [
@@ -2021,16 +1991,6 @@
       "ai_summary": "Міністерство фінансів США представило новий законопроєкт під назвою GENIUS Act, спрямований на регулювання ринку стейблкоїнів. Нові правила мають на меті підвищити прозорість та безпеку цифрових активів у межах американської фінансової системи.",
       "ai_title": "Мінфін США пропонує нові правила для стейблкоїнів у межах акту GENIUS",
       "video_keywords": "US treasury building, financial documents, digital currency, computer screen"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
-      "published": "2026-08-17T13:20:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Огляд найважливіших новин та подій у світі криптовалют за сьогодні. Аналіз трендів, які впливають на курс Біткоїна, а також розвиток блокчейн-технологій, DeFi та Web3.",
-      "ai_title": "Головні події на криыторинку за день",
-      "video_keywords": "cryptocurrency trading, bitcoin ticker, blockchain network, digital coins"
     },
     {
       "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
@@ -2802,6 +2762,26 @@
       "ai_summary": "Шведська фірма H100 зафіксувала збитки у розмірі 26 мільйонів доларів за першу половину року. Головною причиною такого фінансового мінусу стало стрімке падіння ринкової вартості біткоїна.",
       "ai_title": "Шведська компанія H100 втратила 26 мільйонів через падіння біткоїна",
       "video_keywords": "calculator, financial loss, depressed businessman, empty office"
+    },
+    {
+      "title": "200,000 fake AI ‘victims’ deployed to scam bait online fraudsters",
+      "link": "https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"200,000 fake AI ‘victims’ deployed to scam bait online fraudsters \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/magazineapate-tying-up-scammers-with-ai-bots.jpg\" /></p><p>Apate’s 200,000 fake AI ‘victims’ are so good at scam baiting, the company has a monthly KPI for how many F-bombs scamme",
+      "published": "2026-08-19T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Apate розробила 200 тисяч штучних ботів, які імітують жертв онлайн-шахраїв. Ці віртуальні персонажі успішно виманюють час та ресурси в кіберзлочинців, змушуючи їх витрачати зусилля на марні спроби обману.",
+      "ai_title": "Штучний інтелект проти шахраїв: створено 200 тисяч фейкових жертв",
+      "video_keywords": "artificial intelligence, chatbot, computer screen, cyber security"
+    },
+    {
+      "title": "SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce",
+      "link": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-new-sec-crypto-task-force-key-changes-to-watch-hester-peirce-1.jpg\" /></p><p>“Crypto mom” Hester Peirce praised the SEC’s proposed crypto reg",
+      "published": "2026-08-19T13:27:09+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Відома як «крипто-мама» Гестер Пірс позитивно оцінила нову регуляторну пропозицію Комісії з цінних паперів і бірж США. На її думку, це значний крок вперед у порівнянні із застарілими та недоречними правилами для криптоіндустрії.",
+      "ai_title": "Комісарка SEC назвала нові правила для криптовалют важливим проривом",
+      "video_keywords": "government building, press conference, politician speaking, meeting room"
     }
   ]
 }
