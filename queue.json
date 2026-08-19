@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "YouTube is changing how it counts views to give the numbers a boost",
-      "link": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
-      "summary": "YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on August 24th, \"which means creators will likely see their total view counts increase faster moving forward,\" the platform says. Instagram and [&#8230;]",
-      "published": "2026-08-17T17:13:03+00:00",
-      "source": "The Verge",
-      "ai_summary": "Платформа почне зараховувати перегляд одразу після запуску відео, як це вже роблять TikTok та Instagram Shorts. Оновлення запрацює з 24 серпня, що допоможе авторам швидше нарощувати загальну статистику переглядів.",
-      "ai_title": "YouTube змінює підрахунок переглядів заради вищих показників",
-      "video_keywords": "smartphone screen, social media app, scrolling feed, person holding phone"
-    },
-    {
       "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
       "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
       "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html\">https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49335163\">https://news.ycombinator.com/item?id=49335163</a></p>\n<p>Points: 18</p>",
@@ -1379,23 +1369,59 @@
       "ai_summary": "Експерти видання The Verge поділилися першими враженнями від оновленої серії пристроїв Google Pixel та розумного годинника Pixel Watch. Нове «залізо» отримало схвальні відгуки завдяки покращеним характеристикам та високій якості збірки.",
       "ai_title": "Google випустила нову лінійку смартфонів Pixel",
       "video_keywords": "unboxing smartphone, person holding modern mobile phone, tech review workspace"
+    },
+    {
+      "title": "OpenAI hit the brakes. Now what?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+      "published": "2026-08-19T17:10:09+00:00",
+      "source": "The Verge",
+      "ai_summary": "На тлі наближення IPO та жорсткої конкуренції з боку Anthropic і китайських розробників, OpenAI вирішила призупинити деякі проєкти. Компанія бере паузу для посилення заходів безпеки та впровадження нових захисних механізмів у свої моделі.",
+      "ai_title": "OpenAI сповільнює темпи розробки заради безпеки",
+      "video_keywords": "server room, computer screen, typing, office worker"
+    },
+    {
+      "title": "Meta AI is getting a Mac app",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+      "published": "2026-08-19T17:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Meta анонсувала запуск десктопного додатку свого чат-бота для комп'ютерів Mac. Новий інструмент дозволяє ділитися вмістом екрана з штучним інтелектом для отримання порад, а також підтримує голосове диктування в будь-яких програмах.",
+      "ai_title": "Meta випускає окремий додаток Meta AI для macOS",
+      "video_keywords": "laptop, typing, modern office, hands on keyboard"
+    },
+    {
+      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+      "link": "https://arxiv.org/abs/2503.08679",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2503.08679\">https://arxiv.org/abs/2503.08679</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363587\">https://news.ycombinator.com/item?id=49363587</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-19T16:18:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нове наукове дослідження показує, що ланцюжки міркувань (Chain-of-Thought), які використовують великі мовні моделі, часто можуть бути оманливими. ШІ здатний видавати правильну відповідь на основі хибної або випадкової логіки всередині процесу мислення.",
+      "ai_title": "Дослідження: міркування штучного інтелекту не завжди є надійними",
+      "video_keywords": "data visualization, futuristic interface, cyber security, abstract tech"
+    },
+    {
+      "title": "Mathematics in the Age of AI",
+      "link": "https://arxiv.org/abs/2608.16753",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.16753\">https://arxiv.org/abs/2608.16753</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362728\">https://news.ycombinator.com/item?id=49362728</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+      "published": "2026-08-19T15:14:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Свіжа наукова робота присвячена тому, як сучасні алгоритми та моделі машинного навчання змінюють підходи до розв'язання математичних задач. Дослідники аналізують можливості ШІ у створенні нових доведень та аналізі складних абстрактних теорій.",
+      "ai_title": "Математика в епоху штучного інтелекту",
+      "video_keywords": "blackboard, math formulas, writing on glass, scientist working"
+    },
+    {
+      "title": "Extensible Software in the Age of LLMs",
+      "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "summary": "<p>Article URL: <a href=\"https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/\">https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363668\">https://news.ycombinator.com/item?id=49363668</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-19T16:26:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти аналізують, яким чином поява потужних мовних моделей змінює архітектуру сучасного софту. Розробники шукають нові підходи до створення гнучких та модульних систем, які легко інтегруються з можливостями штучного інтелекту.",
+      "ai_title": "Розробка розширюваного програмного забезпечення в епоху LLM",
+      "video_keywords": "coding on screen, programmer, dual monitors, software developer"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
-      "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
-      "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer support are adding to frustrations.",
-      "published": "2026-08-17T17:10:59+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
-      "link": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
-      "summary": "<p>A retrieval-augmented generation (RAG) system is built to answer strictly from the documents it retrieves. But when engineers optimize these AI pipelines end-to-end, the reader module can learn a shortcut: instead of relying on retrieved evidence, it starts answering from its own internal memory — while the system&#x27;s overall accuracy keeps climbing. This is the hidden challenge of &quot;rol",
-      "published": "2026-08-17T17:14:46+00:00",
-      "source": "VentureBeat"
-    },
     {
       "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
       "link": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
@@ -2769,6 +2795,16 @@
       "ai_summary": "Провідні банки успішно виконали першу реальну транзакцію, з'єднавши свої токенізовані депозитні системи через розподілений реєстр Swift. Це значний крок вперед у розвитку міжнародних розрахунків на основі блокчейна.",
       "ai_title": "Standard Chartered та HSBC провели першу транзакцію через блокчейн Swift",
       "video_keywords": "banking app, digital transaction, glowing network, futuristic finance"
+    },
+    {
+      "title": "OCC head promises final GENIUS rules by November",
+      "link": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC head promises final GENIUS rules by November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-us-genius-act.jpg\" /></p><p>The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its Jan",
+      "published": "2026-08-19T17:00:01+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Керівник банківського регулятора США пообіцяв затвердити остаточні правила в межах закону про стейблкоїни до листопада. Це рішення важливе для легалізації та подальшого розвитку ринку цифрових активів у країні.",
+      "ai_title": "Регулятори США планують фіналізувати правила для стейблкоїнів до листопада",
+      "video_keywords": "us currency, banking building, washington dc, digital finance"
     }
   ]
 }
