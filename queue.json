@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple squashes EU beef with new App Store rules",
-      "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
-      "summary": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a single set of business terms, and digital transactions for apps distributed [&#8230;]",
-      "published": "2026-08-18T16:48:26+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Apple вкотре оновлює правила App Store для користувачів з Європейського Союзу, щоб врегулювати суперечки з Єврокомісією щодо умов ведення бізнесу. Усі розробники тепер перейдуть на єдиний набір бізнес-правил для розповсюдження додатків.",
-      "ai_title": "Apple змінює правила App Store в Євросоюзі",
-      "video_keywords": "smartphone, app store, mobile screen, businesswoman working"
-    },
-    {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data\">https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348627\">https://news.ycombinator.com/item?id=49348627</a></p>\n<p>Points: 10</p>\n<p># Co",
-      "published": "2026-08-18T16:54:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти аналізують, як поява штучного інтелекту та поширення AI-агентів змінили підхід компаній до споживчої пошти. Тепер стандартні сповіщення перетворюються на заплутані тексти, оптимізовані для алгоритмів, а не для живих людей.",
-      "ai_title": "Чому письмові підтвердження замовлень від Amazon стали марними через штучний інтелект",
-      "video_keywords": "person reading smartphone, email inbox, typing on laptop, frustrated user"
-    },
-    {
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
-      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion\">https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348751\">https://news.ycombinator.com/item?id=49348751</a></p>\n<p>Points: 106</p>\n<p># Comments: 61</p",
-      "published": "2026-08-18T17:02:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія анонсувала суттєве зниження тижневих лімітів для свого інструменту розробки Claude Code. Це обмеження почне діяти вже завтра та може вплинути на інтенсивність роботи програмістів, які покладаються на цей AI-сервіс.",
-      "ai_title": "Тижневі ліміти Claude Code скорочуються на третину",
-      "video_keywords": "programmer typing, computer screen, code editor, modern office"
-    },
-    {
       "title": "Show HN: macOS data protection keychain for Electron apps",
       "link": "https://github.com/biw/keychain-store",
       "summary": "<p>Hey HN,<p>I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.<p>Electron's safeStorage [2] uses the legacy file-based keychain, which allows other apps/agents to query it with the `security` CLI. Not great when you have a dozen agents running in the background! The Data Protec",
@@ -1479,19 +1449,29 @@
       "ai_summary": "Компанія Death By Audio представила новий гібридний пристрій Amp Crash, який поєднує функції мініатюрного підсилювача та педалі ефектів. Попри крихітний розмір із двома динаміками, гаджет видає надзвичайно потужний та агресивний звук.",
       "ai_title": "Крихітний гітарний підсилювач із божевільним спотворенням звуку",
       "video_keywords": "electric guitar, audio pedal, recording studio, musician hands"
+    },
+    {
+      "title": "Linux 7.2 Released",
+      "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "summary": "<p>Article URL: <a href=\"https://www.igalia.com/2026/08/19/Linux-72-Released.html\">https://www.igalia.com/2026/08/19/Linux-72-Released.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376265\">https://news.ycombinator.com/item?id=49376265</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-20T15:46:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили чергове масштабне оновлення популярної операційної системи. Нова версія містить чимало оптимізацій, виправлень помилок та покращену підтримку сучасного апаратного забезпечення.",
+      "ai_title": "Вийшов реліз нової версії ядра Linux 7.2",
+      "video_keywords": "server rack, computer code, programming screen, technology"
+    },
+    {
+      "title": "Generic Methods in Go 1.27",
+      "link": "https://dominik.info/blog/go-generic-methods",
+      "summary": "<p>Article URL: <a href=\"https://dominik.info/blog/go-generic-methods\">https://dominik.info/blog/go-generic-methods</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376211\">https://news.ycombinator.com/item?id=49376211</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-20T15:41:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Спільнота розробників активно обговорює впровадження довгоочікуваної фічі у новій версії Go. Це нововведення суттєво спростить написання повторно використовуваного коду та підвищить продуктивність програмістів.",
+      "ai_title": "У мові програмування Go 1.27 з'явилися дженерик-методи",
+      "video_keywords": "developer hands typing, laptop keyboard, coding monitor, software engineer"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-      "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-      "published": "2026-08-18T17:12:13+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія спрощує комісійну систему для розробників у ЄС, замінивши фіксовану плату за встановлення на 5% комісії для додатків з альтернативних магазинів. Також Apple робить процедуру запуску сторонніх маркетплейсів зручнішою для бізнесу.",
-      "ai_title": "Apple змінює правила та комісії для App Store у Євросоюзі",
-      "video_keywords": "smartphone screen, app store, mobile phone, digital marketplace"
-    },
     {
       "title": "Etched’s valuation doubles to $21B in a month",
       "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
@@ -1981,39 +1961,19 @@
       "ai_summary": "Meta відкриває доступ до свого додатку Pocket для користувачів у США після успішного тестування в Бразилії. Цей інструмент дозволяє створювати та ділитися інтерактивними іграми за допомогою штучного інтелекту та простих текстових описів.",
       "ai_title": "Meta запускає в США експериментальний додаток для створення ігор за допомогою ШІ",
       "video_keywords": "person playing video game, vr headset, smartphone interaction, digital tablet"
+    },
+    {
+      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+      "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+      "published": "2026-08-20T17:04:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Ранній інвестор компанії Cerebras Адіт Сінгх приєднався до команди Mayfield як партнер з інфраструктурних проєктів. На новій посаді він зосередиться на інвестиціях у напівпровідники, кібербезпеку та фізичний штучний інтелект.",
+      "ai_title": "Відомий інвестор Адіт Сінгх перейшов до венчурного фонду Mayfield",
+      "video_keywords": "venture capital meeting, modern office, businessman handshake, corporate boardroom"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
-      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
-      "summary": "",
-      "published": "2026-08-18T17:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "На тлі стабілізації курсу головної криптовалюти трейдери масово переключаються на альткоїни та ризикованіші активи. Учасники ринку прагнуть отримати прибуток у 5 або 10 разів, що тимчасово знижує активність в екосистемі біткоїна.",
-      "ai_title": "Біткоїн втрачає увагу трейдерів, які шукають швидких іксім",
-      "video_keywords": "trading charts, cryptocurrency exchange, computer screens, financial graphs"
-    },
-    {
-      "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
-      "link": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/interviewalex-mashinsky2-1.jpg\" /></p><p>Despite already serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his ",
-      "published": "2026-08-18T16:49:58+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Федеральні прокурори різко розкритикували спроби колишнього керівника скасувати свій вирок. Попри 12-річний термін ув'язнення, він продовжує юридичну боротьбу, яку сторона обвинувачення вважає абсолютно марною.",
-      "ai_title": "Прокурори США назвали безпідставною апеляцію колишнього CEO Celsius",
-      "video_keywords": "courtroom, judge gavel, legal documents, prison bars"
-    },
-    {
-      "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
-      "link": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken’s Krak debuts US debit card as Payward broadens financial services push\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor2.png\" /></p><p>The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial ser",
-      "published": "2026-08-18T17:39:37+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Материнська компанія біржі Kraken розширює спектр фінансових послуг та запускає багатоцільову картку. Новий продукт дозволяє американським клієнтам легко витрачати як криптовалюту, так і фіатні кошти, отримуючи кешбек.",
-      "ai_title": "Біржа Kraken випускає дебетову картку для користувачів у США",
-      "video_keywords": "debit card, credit card swipe, cryptocurrency wallet, paying with phone"
-    },
     {
       "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
       "link": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
