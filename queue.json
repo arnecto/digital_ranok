@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: macOS data protection keychain for Electron apps",
-      "link": "https://github.com/biw/keychain-store",
-      "summary": "<p>Hey HN,<p>I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.<p>Electron's safeStorage [2] uses the legacy file-based keychain, which allows other apps/agents to query it with the `security` CLI. Not great when you have a dozen agents running in the background! The Data Protec",
-      "published": "2026-08-18T17:25:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив рішення для роботи з сучасним macOS Data Protection Keychain у додатках на Electron. Це дозволяє уникнути вразливостей застарілих файлових сховищ і підвищує безпеку при роботі фонових агентів.",
-      "ai_title": "Новий інструмент захисту даних для macOS та Electron-додатків",
-      "video_keywords": "macbook screen, security lock, typing code, tech workspace"
-    },
-    {
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "summary": "<p>Article URL: <a href=\"https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban\">https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349147\">https://news.ycombinator.com/it",
-      "published": "2026-08-18T17:24:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідження показують, що масивні обчислювальні центри можуть підвищувати локальну температуру повітря аж на 4 градуси в міських умовах. Це ставить нові виклики перед міським плануванням та енергоефективністю технологічної інфраструктури.",
-      "ai_title": "Дата-центри у Фіниксі підвищують температуру навколишнього середовища",
-      "video_keywords": "server racks, data center, cooling system, heat waves city"
-    },
-    {
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
       "link": "https://github.com/RyanCodrai/turbovec",
       "summary": "<p>Article URL: <a href=\"https://github.com/RyanCodrai/turbovec\">https://github.com/RyanCodrai/turbovec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349898\">https://news.ycombinator.com/item?id=49349898</a></p>\n<p>Points: 35</p>\n<p># Comments: 4</p>",
@@ -89,16 +69,6 @@
       "ai_summary": "Нащадки покійного актора взяли під контроль його сторінку в Instagram, щоб протистояти несанкціонованому використанню цифрових копій та штучного інтелекту. Вони прагнуть перетворити профіль на безпечний простір для шанувальників творчості батька.",
       "ai_title": "Діти Робіна Вільямса захищають його пам'ять від зловживання ШІ",
       "video_keywords": "smartphone screen, social media, mourning, digital portrait"
-    },
-    {
-      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-      "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-      "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality, crisp transparency [&#8230;]",
-      "published": "2026-08-18T17:47:04+00:00",
-      "source": "The Verge",
-      "ai_summary": "Популярні бездротові навушники з продуманим функціоналом та стильним дизайном можна придбати з великою знижкою. Акційна ціна робить цей гаджет набагато доступнішим для покупців.",
-      "ai_title": "Навушники Samsung Galaxy Buds 3 Pro суттєво подешевшали",
-      "video_keywords": "wireless earbuds, unboxing, gadget, tech accessories"
     },
     {
       "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
@@ -1469,19 +1439,39 @@
       "ai_summary": "Спільнота розробників активно обговорює впровадження довгоочікуваної фічі у новій версії Go. Це нововведення суттєво спростить написання повторно використовуваного коду та підвищить продуктивність програмістів.",
       "ai_title": "У мові програмування Go 1.27 з'явилися дженерик-методи",
       "video_keywords": "developer hands typing, laptop keyboard, coding monitor, software engineer"
+    },
+    {
+      "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+      "link": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "summary": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16. While [&#8230;]",
+      "published": "2026-08-20T17:42:34+00:00",
+      "source": "The Verge",
+      "ai_summary": "Австралійський регулятор з безпеки в інтернеті заявив, що платформа Roblox досі не вирішила проблему захисту неповнолітніх від зловмисників. Компанію підозрюють у недотриманні закону про онлайн-безпеку через недостатні заходи для запобігання контактам між дорослими та дітьми. На тлі критичних перевірок керівництво платформи обіцяє впровадити додаткові функції безпеки.",
+      "ai_title": "Австралія звинувачує Roblox у незахищеності дітей",
+      "video_keywords": "smartphone screen, child playing video game, worried parent, gaming headset"
+    },
+    {
+      "title": "FCC officially decides gigabit speeds are too good for you",
+      "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "summary": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download [&#8230;]",
+      "published": "2026-08-20T17:38:30+00:00",
+      "source": "The Verge",
+      "ai_summary": "Федеральна комісія зв'язку США відмовилася від довгострокових цілей щодо розвитку широкосмугового інтернету, встановлених за адміністрації Джо Байдена. Голова комісії Брендан Карр скасував ініціативу, яка передбачала масове впровадження гігабітних швидкостей завантаження. Критики занепокоєні, що це гальмуватиме розвиток цифрової інфраструктури країни.",
+      "ai_title": "ФКС США скасовує амбітні цілі зі швидкісного інтернету",
+      "video_keywords": "server room, network cables, computer screen, data center"
+    },
+    {
+      "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+      "link": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework's site at the time of this writing. Upon [&#8230;]",
+      "published": "2026-08-20T17:16:02+00:00",
+      "source": "The Verge",
+      "ai_summary": "Користувачі ноутбуків Framework 13 з процесорами AMD попереднього покоління повідомили, що свіже оновлення BIOS повністю ламає їхні пристрої. Проблема стосується версії 3.20 для материнських плат Ryzen серії 7040 як на Windows, так і на Linux. Компанія-виробник вже знає про ситуацію та працює над її усуненням.",
+      "ai_title": "Нове оновлення BIOS виводить з ладу старі ноутбуки Framework",
+      "video_keywords": "broken laptop, electronics repair, computer motherboard, screwdriver fixing device"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "published": "2026-08-18T17:21:58+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Американський стартап Etched за короткий час продемонстрував стрімке зростання оцінки завдяки успішному розгортанню своєї першої кластерної системи штучного інтелекту. Інвестори демонструють величезний інтерес до компанії, що дозволило їй залучити новий масштабний раунд фінансування.",
-      "ai_title": "Вартість стартапу Etched подвоїлася до $21 мільярда за місяць",
-      "video_keywords": "server room, computer servers, data center, microchip"
-    },
     {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -1491,16 +1481,6 @@
       "ai_summary": "Компанія запровадила додаткові заходи безпеки, які включають детальніший моніторинг моделей під час розробки. Особливу увагу тепер приділяють узгодженості та захисту на етапі після навчання.",
       "ai_title": "OpenAI посилила безпеку після інциденту з Hugging Face",
       "video_keywords": "server room, cybersecurity, computer screen, data center"
-    },
-    {
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "published": "2026-08-18T17:31:01+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Розпочався розпродаж квитків на головну стартап-подію року з можливістю заощадити до $300 до 21 серпня. Конференція традиційно об'єднає спільноту підприємців у Сан-Франциско з 13 по 15 жовтня.",
-      "ai_title": "Знижки на квитки на TechCrunch Disrupt 2026",
-      "video_keywords": "conference stage, audience clapping, businessman speaking, tech event"
     },
     {
       "title": "TikTok explores peer-to-peer payments via DMs, report says",
@@ -1971,6 +1951,36 @@
       "ai_summary": "Ранній інвестор компанії Cerebras Адіт Сінгх приєднався до команди Mayfield як партнер з інфраструктурних проєктів. На новій посаді він зосередиться на інвестиціях у напівпровідники, кібербезпеку та фізичний штучний інтелект.",
       "ai_title": "Відомий інвестор Адіт Сінгх перейшов до венчурного фонду Mayfield",
       "video_keywords": "venture capital meeting, modern office, businessman handshake, corporate boardroom"
+    },
+    {
+      "title": "Grok keeps sending gibberish responses to users",
+      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "summary": "Affected users told TechCrunch say they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "published": "2026-08-20T17:32:16+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Користувачі сервісу Grok Lite масово скаржаться на проблеми в роботі чат-бота. Система почала генерувати незрозумілий набір символів та беззмістовні відповіді на запитання.",
+      "ai_title": "Штучний інтелект Grok від Ілона Маска почав видавати збої та беззмістовні відповіді",
+      "video_keywords": "person typing computer, glitch screen, digital error, frustrated user"
+    },
+    {
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "published": "2026-08-20T17:18:58+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нове дослідження показало масштабний вплив генеративного штучного інтелекту на контент в мережі. Починаючи з моменту запуску ChatGPT, приблизно третина нових публікацій містить ознаки авторства або редагування за допомогою AI.",
+      "ai_title": "Третина нових вебсторінок в інтернеті створюється за допомогою штучного інтелекту",
+      "video_keywords": "typing on laptop, internet browsing, digital data, glowing computer screen"
+    },
+    {
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "link": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "summary": "<p>Adding an AI agent to Slack sounds appealing to many enterprises — but, as VentureBeat has experienced ourselves first hand — the reality is often far more complex and clunkier than it first seems.</p><p>Now <a href=\"https://nanoco.ai/\">NanoCo</a>., the company behind the hit open source, enterprise-friendly, autonomous AI agent harness <a href=\"https://nanoclaw.dev/\">NanoClaw</a> (a more sandb",
+      "published": "2026-08-20T17:25:44+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Компанія NanoCo випустила інтеграцію NanoClaw для платформи Slack. Вона дозволяє підприємствам створювати постійні команди віртуальних AI-агентів та колег за допомогою всього одного повідомлення.",
+      "ai_title": "У Slack з'явився новий інструмент NanoClaw для створення команд штучного інтелекту",
+      "video_keywords": "modern office, team collaborating, typing on keyboard, business workspace"
     }
   ],
   "Крипта": [
