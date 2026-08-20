@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "link": "https://github.com/RyanCodrai/turbovec",
-      "summary": "<p>Article URL: <a href=\"https://github.com/RyanCodrai/turbovec\">https://github.com/RyanCodrai/turbovec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349898\">https://news.ycombinator.com/item?id=49349898</a></p>\n<p>Points: 35</p>\n<p># Comments: 4</p>",
-      "published": "2026-08-18T18:07:21+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий інструмент Turbovec, який реалізує технологію TurboQuant від Google для ефективного векторного пошуку на мові програмування Rust. Це рішення створене для оптимізації роботи з великими обсягами даних у сучасних проєктах.",
-      "ai_title": "Turbovec: швидкий пошук векторів у Rust від Google",
-      "video_keywords": "server room, computer screen, coding, data visualization"
-    },
-    {
-      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-      "link": "https://pantheongpu.com/",
-      "summary": "<p>Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should?<p>A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configuration issues.<p>PantheonGPU actively tests the GPU instead of only monitoring telemetry. It curren",
-      "published": "2026-08-18T18:47:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив новий сервіс PantheonGPU, призначений для перевірки стану відеокарт та тестування їхньої продуктивності під штучним інтелектом. Інструмент виконує активне тестування обладнання, виявляючи приховані проблеми зі стабільністю та пам'яттю, які прості датчики не помічають.",
-      "ai_title": "PantheonGPU: новий інструмент для тестування та бенчмаркінгу GPU",
-      "video_keywords": "server rack, computer hardware, microchip, tech lab"
-    },
-    {
       "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
       "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
@@ -49,16 +29,6 @@
       "ai_summary": "Розроблено спеціальну систему автоматизованого тестування для проєктів, де програмний код створюється штучним інтелектом значно швидше за роботу звичайних тестувальників. Інструмент допомагає контролювати якість коду та виловлювати помилки в умовах швидкої розробки.",
       "ai_title": "Argus — новий інструмент QA для команд із генеративним кодом",
       "video_keywords": "programmer typing, computer screen, code scrolling, office desk"
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/pacing-model-development-cyber-capabilities/\">https://openai.com/index/pacing-model-development-cyber-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49350031\">https://news.ycombinator.com/item?id=49350031</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-18T18:14:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія вирішила переглянути темпи створення нових моделей штучного інтелекту задля безпеки. Це пов'язано з появою потенційних кібернетичних ризиків і високою критичністю нових технологічних можливостей.",
-      "ai_title": "OpenAI уповільнює розробку моделей через кіберзагрози",
-      "video_keywords": "server room, data center, cybersecurity, blinking lights"
     },
     {
       "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
@@ -99,16 +69,6 @@
       "ai_summary": "Обговорюється новий пропонований стандарт llms.txt, який має допомогти штучному інтелекту краще орієнтуватися на сайтах. Попри потенційну користь для вебмайстрів, жодна з провідних ШІ-платформ поки що не підтвердила його використання. Експерти аналізують причини такого зволікання з боку техногігантів.",
       "ai_title": "Стандарт llms.txt: чим він важливий і чому його ігнорують великі ШІ-платформи",
       "video_keywords": "computer screen, typing keyboard, code editor, modern office"
-    },
-    {
-      "title": "How does IKEA come up with names for its products?",
-      "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "summary": "<p>Article URL: <a href=\"https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html\">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349984\">https://news.ycombinator.com/item?id=49349984</a></p>\n<p>Points: 135</p>\n<p># Comme",
-      "published": "2026-08-18T18:11:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія IKEA розкрила таємниці своєї унікальної системи найменування меблів та товарів для дому. Виявляється, за кожною назвою стоїть чітка географічна чи лінгвістична логіка, пов'язана зі шведськими містами, озерами та поняттями. Цей креативний підхід став важливою частиною глобального брендингу компанії.",
-      "ai_title": "Як IKEA вигадує назви для своїх товарів",
-      "video_keywords": "furniture store, shopping mall, modern interior, assembling furniture"
     },
     {
       "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
@@ -1469,19 +1429,29 @@
       "ai_summary": "Користувачі ноутбуків Framework 13 з процесорами AMD попереднього покоління повідомили, що свіже оновлення BIOS повністю ламає їхні пристрої. Проблема стосується версії 3.20 для материнських плат Ryzen серії 7040 як на Windows, так і на Linux. Компанія-виробник вже знає про ситуацію та працює над її усуненням.",
       "ai_title": "Нове оновлення BIOS виводить з ладу старі ноутбуки Framework",
       "video_keywords": "broken laptop, electronics repair, computer motherboard, screwdriver fixing device"
+    },
+    {
+      "title": "The Defense-Tech Bubble Is Headed for Consolidation",
+      "link": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
+      "summary": "<p>Article URL: <a href=\"https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation\">https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377249\">https://news.ycombinator.com/item?id=49377249</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-20T17:01:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітичний огляд ринку оборонних технологій вказує на перенасичення інвестиціями та наближення етапу злиттів і поглинань. Сфера венчурних інвестицій у мілітарні стартапи готується до серйозної фільтрації та об'єднання компаній.",
+      "ai_title": "Бульбашка в секторі оборонних технологій рухається до консолідації",
+      "video_keywords": "military technology, drone control room, computer screens, defense contractor"
+    },
+    {
+      "title": "Show HN: We chased a weather balloon across Montana and never found it",
+      "link": "https://radi8.dev/blog/uplink/",
+      "summary": "<p>Since April, I have been working with Sam Flynn (<a href=\"https://drook.dev\" rel=\"nofollow\">https://drook.dev</a>) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch.<p>UpLink was a 491 gram payload testing the insulation properties of 3D printing filaments, while also transmitting 320x240 images over a radio link -- ",
+      "published": "2026-08-20T17:33:32+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники самостійно запустили експериментальний метеозондовий модуль UpLink для тестування 3D-друкованих матеріалів та передачі радіозображень. Попри невдачу з пошуком самого апарата, команда отримала унікальний досвід польових випробувань.",
+      "ai_title": "Ми переслідували метеорологічний зонд через всю Монтану, але так і не знайшли його",
+      "video_keywords": "weather balloon, launching rocket, open field, horizon sky"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "published": "2026-08-18T18:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія запровадила додаткові заходи безпеки, які включають детальніший моніторинг моделей під час розробки. Особливу увагу тепер приділяють узгодженості та захисту на етапі після навчання.",
-      "ai_title": "OpenAI посилила безпеку після інциденту з Hugging Face",
-      "video_keywords": "server room, cybersecurity, computer screen, data center"
-    },
     {
       "title": "TikTok explores peer-to-peer payments via DMs, report says",
       "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
@@ -1981,6 +1951,16 @@
       "ai_summary": "Компанія NanoCo випустила інтеграцію NanoClaw для платформи Slack. Вона дозволяє підприємствам створювати постійні команди віртуальних AI-агентів та колег за допомогою всього одного повідомлення.",
       "ai_title": "У Slack з'явився новий інструмент NanoClaw для створення команд штучного інтелекту",
       "video_keywords": "modern office, team collaborating, typing on keyboard, business workspace"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "published": "2026-08-20T18:20:35+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Linkdaze представив розумний цифровий календар, який створений для організації повсякденного життя родини, а не лише для планування розкладу. Головною особливістю проєкту є те, що всі базові функції разом з інструментом планування харчування на базі ШІ доступні без платної підписки.",
+      "ai_title": "Розумний календар Linkdaze допомагає керувати домашнім побутом",
+      "video_keywords": "family kitchen, smart screen, digital calendar, cooking preparation"
     }
   ],
   "Крипта": [
@@ -2794,6 +2774,16 @@
       "ai_summary": "Провідні компанії з видобутку криптовалюти спрямовують величезні капіталовкладення в інфраструктуру штучного інтелекту та високопродуктивних обчислень. При цьому витрати значно перевищують поточні доходи від цього напрямку, змушуючи майнерів шукати диверсифікації бізнесу.",
       "ai_title": "Майнери біткоїна масово інвестують мільярди в штучний інтелект",
       "video_keywords": "server racks, computer hardware, data center, flashing lights"
+    },
+    {
+      "title": "US debt tops $40T stoking debate on what it means for Bitcoin",
+      "link": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US debt tops $40T stoking debate on what it means for Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-2.jpg\" /></p><p>Analysts say the $40 trillion debt milestone could bolster Bitcoin’s long-term case, even as Treasury yields, dollar strength and li",
+      "published": "2026-08-20T17:43:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики вважають, що досягнення рекордної позначки держборгу США може посилити позиції біткоїна як довгострокового захисного активу. На тлі коливань прибутковості казначейських облігацій та міцності долара інвестори шукають альтернативні інструменти збереження капіталу.",
+      "ai_title": "Борг США перевищив 40 трильйонів доларів: що це означає для біткоїна",
+      "video_keywords": "us currency, calculator, falling chart, financial graphs"
     }
   ]
 }
