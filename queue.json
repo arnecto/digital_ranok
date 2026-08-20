@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "What Happens If OpenAI Dies?",
-      "link": "https://www.wheresyoured.at/what-happens-if-openai-dies/",
-      "summary": "<p>Article URL: <a href=\"https://www.wheresyoured.at/what-happens-if-openai-dies/\">https://www.wheresyoured.at/what-happens-if-openai-dies/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49347207\">https://news.ycombinator.com/item?id=49347207</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
-      "published": "2026-08-18T15:32:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти аналізують потенційні наслідки для індустрії штучного інтелекту в разі банкрутства або закриття OpenAI. Такий сценарій може суттєво змінити розстановку сил на ринку та вплинути на подальший розвиток генеративних моделей. Дослідження порушує питання залежності сучасних стартапів від інфраструктури лідерів галузі.",
-      "ai_title": "Що буде з технологічним ринком, якщо OpenAI припинить своє існування?",
-      "video_keywords": "server room, broken computer, corporate office, digital server"
-    },
-    {
       "title": "Claude: Degraded Performance for Multiple Models",
       "link": "https://status.claude.com/incidents/q7txxvbsftgq",
       "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/q7txxvbsftgq\">https://status.claude.com/incidents/q7txxvbsftgq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348163\">https://news.ycombinator.com/item?id=49348163</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
@@ -39,16 +29,6 @@
       "ai_summary": "Компанія Apple анонсувала чергові зміни у політиці App Store для європейського ринку. Нововведення стосуються умов розповсюдження додатків та взаємодії з регуляторними органами Європейського Союзу.",
       "ai_title": "Apple оголосила про нові правила для додатків у ЄС",
       "video_keywords": "smartphone screen, app store, tapping phone, europe flag"
-    },
-    {
-      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-      "link": "https://github.com/therepanic/openleetcode",
-      "summary": "<p>You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.<p>It currently supports around 1.4k problems and multiple languages, including Python, C++, Rust, Java, Go, TypeScript, Swift, and others.<p>The project is still an MVP. System design, SQL, and concurrency ",
-      "published": "2026-08-18T15:30:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розпочато тестування нового інструменту для програмістів, який дозволяє виконувати завдання LeetCode локально через командний рядок. Проєкт підтримує популярні мови програмування та тести, що зберігаються безпосередньо в репозиторії.",
-      "ai_title": "Openleetcode: локальний запуск задач LeetCode",
-      "video_keywords": "programmer hands, typing keyboard, dual monitors, source code"
     },
     {
       "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
@@ -1449,39 +1429,59 @@
       "ai_summary": "Сервіс швидкої доставки Amazon за допомогою дронів стикається з кумедними куточками реальності. У мережі з'явилося відео, де безпілотник помилково скидає пакунок просто у дворовий басейн клієнта.",
       "ai_title": "Дрони доставки Amazon випадково скидають посилки у басейни",
       "video_keywords": "delivery drone, flying drone, backyard pool, package delivery"
+    },
+    {
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "link": "https://github.com/runvendo/vendo",
+      "summary": "<p>Hi HN, we’re Yousef & Nour, founders of Vendo (<a href=\"https://vendo.run\">https://vendo.run</a>). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or small app they need, and Vendo builds it on top of the product’s existing data, API, and interface.<p>Demo: <a href=\"https://www.youtube.com/watch?v=VdpHehY64ls\" rel=\"nofollow\">h",
+      "published": "2026-08-20T15:29:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа Vendo дає змогу користувачам розробляти власні функції, дашборди чи невеликі застосунки всередині програм, якими вони вже користуються. Система будує нові елементи поверх наявних даних, інтерфейсів та API продукту завдяки описовим запитам користувача.",
+      "ai_title": "Новий сервіс Vendo дозволяє користувачам самостійно створювати функції у ПЗ",
+      "video_keywords": "software dashboard, coding interface, developer typing, computer screen"
+    },
+    {
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
+      "published": "2026-08-20T15:45:55+00:00",
+      "source": "The Verge",
+      "ai_summary": "OpenAI переживає складний рік, наповнений судовими позовами, скандалами та кадровими змінами серед топ-менеджменту. На тлі підготовки компанії до первинного публічного розміру акцій (IPO) ключову роль у її керівництві відіграє Грег Броқман.",
+      "ai_title": "Грег Броқман очолює трансформацію OpenAI перед виходом на біржу",
+      "video_keywords": "corporate office, business meeting, executive speaking, modern boardroom"
+    },
+    {
+      "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+      "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one [&#8230;]",
+      "published": "2026-08-20T15:30:34+00:00",
+      "source": "The Verge",
+      "ai_summary": "Спеціальний світлодіодний індикатор сповіщень HiLight на Pixel 11 Pro має обмежені базові функції «з коробки». Сторонній застосунок розв'язує цю проблему, роблячи світлодіодні індикатори значно кориснішими для користувача.",
+      "ai_title": "Новий застосунок розширює можливості сповіщень Pixel 11",
+      "video_keywords": "smartphone screen, mobile phone, touching screen, notification light"
+    },
+    {
+      "title": "Here’s what data Comcast says its motion-detecting routers collect",
+      "link": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+      "summary": "Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enabling this. I am also seriously considering replacing my leased gateway with my own equipment, because a device I do not control [&#8230;]",
+      "published": "2026-08-20T14:00:22+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Comcast анонсувала платформу Xfinity Shield, яка перетворює домашні роутери на датчики руху. Ця новина викликала занепокоєння у користувачів щодо приватності та збору даних у власних оселях.",
+      "ai_title": "Компанія Comcast розкрила дані, які збирають її роутери з функцією руху",
+      "video_keywords": "wi-fi router, smart home, living room, internet device"
+    },
+    {
+      "title": "We played The Duskbloods, the Switch 2&#8217;s wildest new exclusive",
+      "link": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
+      "summary": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through its gothic world at FromSoft's offices in Tokyo, I'm convinced [&#8230;]",
+      "published": "2026-08-20T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Nintendo об'єдналася з розробниками Elden Ring для створення хардкорної багатокористувацької гри про вампірів під назвою The Duskbloods. Новинка стане ексклюзивом для нової консолі Switch 2 та вражає своєю готичною атмосферою.",
+      "ai_title": "Nintendo та FromSoftware готують ексклюзив для Switch 2",
+      "video_keywords": "gaming console, playing video game, holding controller, gaming setup"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
-      "link": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
-      "summary": "<p>Enterprises that already got burned by an AI agent passing its evals and then failing in production are moving faster toward removing humans from deployment decisions, not slower — even as trust in automated evaluation is rising across the board, <a href=\"https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove",
-      "published": "2026-08-18T15:35:16+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Попри випадки збоїв штучного інтелекту в роботі, підприємства ще швидше усувають людей від процесів прийняття рішень. Довіра до автоматизованих перевірок стрімко зростає, змушуючи бізнес ризикувати заради економії.",
-      "ai_title": "Компанії масово замінюють людей штучним інтелектом попри помилки алгоритмів",
-      "video_keywords": "office workers, artificial intelligence, computer screen, corporate meeting"
-    },
-    {
-      "title": "Bluesky says its recent outage was caused by another DDoS attack",
-      "link": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
-      "summary": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
-      "published": "2026-08-18T15:59:48+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярна децентралізована соцмережа Bluesky зіткнулася з масштабним збоєм у роботі через чергову DDoS-атаку. Це вже не перша подібна кібератака на платформу за останній рік, що змушує компанію посилювати заходи безпеки.",
-      "ai_title": "Соціальна мережа Bluesky постраждала від чергової хакерської атаки",
-      "video_keywords": "hacker typing on keyboard, server room, cybersecurity screens, glowing matrix code"
-    },
-    {
-      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-      "link": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-      "summary": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
-      "published": "2026-08-18T16:39:05+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Comcast оновила свої новітні роутери, додавши функцію виявлення руху в будинку без використання традиційних датчиків. Проте нововведення викликає занепокоєння користувачів через можливі проблеми з конфіденційністю.",
-      "ai_title": "Роутери Comcast научилися виявляти рух у домі",
-      "video_keywords": "wifi router, smart home, living room, internet box"
-    },
     {
       "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
       "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
@@ -1931,6 +1931,36 @@
       "ai_summary": "Компанія Serval випустила корпоративного ШT-агента Catalyst, який здатний самостійно виявляти та вирішувати проблеми в ІТ-інфраструктурі. Система працює у фоновому режимі, аналізуючи процеси й автоматично створюючи рішення ще до того, як користувачі надішлють скарги. Завдяки цьому команди можуть суттєво зекономити час на рутинній підтримці та налаштуванні.",
       "ai_title": "Штучний інтелект від Serval автоматично виправляє ІТ-помилки до їх появи",
       "video_keywords": "server room, IT engineer working, computer code screen, data center"
+    },
+    {
+      "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
+      "link": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
+      "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
+      "published": "2026-08-20T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "TechCrunch представив щорічний рейтинг Startup Battlefield 200, куди увійшли двісті найперспективніших ранніх стартапів з усього світу. Добірка демонструє інноваційні проєкти, які мають найбільший потенціал для прориву у своїх галузях.",
+      "ai_title": "Оголошено список 200 найперспективніших стартапів Startup Battlefield 200 на 2026 рік",
+      "video_keywords": "startup meeting, business presentation, modern office, entrepreneurs"
+    },
+    {
+      "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
+      "link": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
+      "summary": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
+      "published": "2026-08-20T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа Patreon оновила систему пошуку та додала 30 нових інструментів, зокрема короткі відеоролики Clips та тематичні спільноти. Це нововведення покликане покращити алгоритми рекомендацій і дати більшу видимість авторам-початківцям.",
+      "ai_title": "Patreon представив 30 нових функцій для авторів контенту",
+      "video_keywords": "content creator, smartphone recording, video editing, social media"
+    },
+    {
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant.",
+      "published": "2026-08-20T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Команді стартапу вдалося скоротити процес заправки термоядерного палива з тижня до кількох годин. Це важливий крок на шляху до створення економічно вигідної та рентабельної термоядерної електростанції.",
+      "ai_title": "Стартап Inertia Enterprises знайшов спосіб пришвидшити виробництво термоядерного палива",
+      "video_keywords": "laboratory equipment, scientists working, glowing reactor, high tech"
     }
   ],
   "Крипта": [
@@ -1953,16 +1983,6 @@
       "ai_summary": "Компанія Metaplanet розширює свою корпоративну стратегію накопичення першої криптовалюти завдяки угоді з американською Nasdaq-компанією Super League Enterprise. Вона планує залучити понад 2000 біткоїнів для зміцнення своїх казначейських активів.",
       "ai_title": "Японська компанія Metaplanet виводить свою біткоїн-стратегію на ринок США",
       "video_keywords": "bitcoin logo, cryptocurrency trading, corporate office, stock exchange ticker"
-    },
-    {
-      "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
-      "link": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png\" /></p><p>The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avala",
-      "published": "2026-08-18T15:59:54+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Гігант з управління активами на 613 мільярдів доларів об'єднується з платформою Securitize для випуску високодохідного токенізованого фонду. Цей фінансовий інструмент буде доступний одразу в кількох блокчейн-мережах, зокрема Ethereum, Solana та Avalanche.",
-      "ai_title": "Neuberger Berman та Securitize запускають токенізований фонд",
-      "video_keywords": "blockchain technology, digital tokens, financial data, modern office computer"
     },
     {
       "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
@@ -2754,6 +2774,36 @@
       "ai_summary": "Експерти фінансового ринку активно обговорюють концепцію токенізованих депозитів та їхній вплив на традиційний банкінг. Ця технологія обіцяє зробити транзакції швидшими та безпечнішими завдяки використанню блокчейну.",
       "ai_title": "Токенізовані депозити: новий тренд у світі фінансів",
       "video_keywords": "digital banking, smartphone payment, blockchain technology, modern office"
+    },
+    {
+      "title": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
+      "link": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-can-learn-from-polling.jpg\" /></p><p>A new poll showed 64% of 1,166 Americans varied sharply along partisan lines, with a majority of Rep",
+      "published": "2026-08-20T15:53:51+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Нове опитування показало, що більшість американців негативно ставляться до криптоінвестицій родини Трампа. Думки респондентів розділилися переважно залежно від їхніх політичних поглядів.",
+      "ai_title": "Американці вважають криптоінвестиції родини Трампа неприйнятними",
+      "video_keywords": "politician speaking, voting booth, public protest, american flag"
+    },
+    {
+      "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+      "link": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Optimism moves 546.9M OP from future airdrops to ecosystem growth fund\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png\" /></p><p>The governance vote redirects tokens previously reserved for user airdrops toward partnership",
+      "published": "2026-08-20T15:43:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "За результатами голосування спільноти, величезну кількість токенів, які раніше планували роздати під час аірдропів, перенаправили на фінансування партнерств та розвитку мережі. Це рішення покликане прискорити зростання та масове впровадження платформи.",
+      "ai_title": "Optimism перенесла мільйони токенів OP у фонд розвитку екосистеми",
+      "video_keywords": "cryptocurrency chart, digital currency, computer screen, finance graph"
+    },
+    {
+      "title": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-2.jpg\" /></p><p>Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.</p>",
+      "published": "2026-08-20T15:40:54+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Вартість головної криптовалюти піднялася до нових багатомісячних максимусів, перетнувши позначку в 72 500 доларів. Це сталося попри охолодження на традиційному фондовому ринку через геополітичну напругу та погрози економічних санкцій.",
+      "ai_title": "Біткоїн сягнув $72,5 тисяч на тлі загроз США Ірану",
+      "video_keywords": "bitcoin coins, stock market ticker, financial news studio, digital trading floor"
     }
   ]
 }
