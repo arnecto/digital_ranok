@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The Benchmarkpocalypse",
-      "link": "https://danluu.com/benchpocalypse/",
-      "summary": "<p>Article URL: <a href=\"https://danluu.com/benchpocalypse/\">https://danluu.com/benchpocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340299\">https://news.ycombinator.com/item?id=49340299</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-18T02:11:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті аналізується сучасна проблема надійності тестів продуктивності для штучного інтелекту. Експерти вказують на те, що існуючі бенчмарки часто втрачають свою актуальність через швидкий розвиток технологій та перенасичення даних.",
-      "ai_title": "Криза бенчмарків у світі штучного інтелекту",
-      "video_keywords": "computer screen, data charts, graphs, server room"
-    },
-    {
-      "title": "What's Better Than Binary? – Advent of Computing Episode 187",
-      "link": "https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary",
-      "summary": "<p>Article URL: <a href=\"https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary\">https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340315\">https://news.ycombinator.com/item?id=49340315</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-18T02:14:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий випуск подкасту \"Advent of Computing\" присвячений альтернативним підходам до обчислень та дослідженню того, чим двійкова система може бути замінена в майбутньому. Автори аналізують історичний контекст та інженерні виклики створення небінарних комп'ютерів.",
-      "ai_title": "Що краще за двійковий код: еволюція обчислювальних систем",
-      "video_keywords": "server room, electronics, circuit board, blinking lights"
-    },
-    {
-      "title": "I don't enjoy the Internet any more",
-      "link": "https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/",
-      "summary": "<p>Article URL: <a href=\"https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/\">https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341551\">https://news.ycombinator.com/item?id=49341551</a></p>\n<p>Points: 36</p>\n<p># Comments: 14</p>",
-      "published": "2026-08-18T05:17:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор статті ділиться роздумами про трансформацію всесвітньої павутини, яка перетворилася на комерціалізований та перевантажений рекламою простір. Сучасні алгоритми та надлишок контенту створюють відчуття втоми від цифрового середовища у багатьох користувачів.",
-      "ai_title": "Чому сучасний інтернет втратив колишню привабливість",
-      "video_keywords": "person frustrated looking at laptop screen, tired glowing face in dark room, scrolling smartphone alone"
-    },
-    {
       "title": "Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028",
       "link": "https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028",
       "summary": "<p>Article URL: <a href=\"https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028\">https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341774\">https://news.ycombinator.com/item?id=49",
@@ -1469,6 +1439,16 @@
       "ai_summary": "Дослідження розглядає фундаментальні математичні принципи роботи градієнтного спуску під час тренування штучних нейронних мереж. Робота пояснює універсальні закономірності, які лежать в основі оптимізації сучасних моделей машинного навчання.",
       "ai_title": "Універсальність навчання нейромереж методом градієнтного спуску",
       "video_keywords": "data visualization, computer code, abstract technology, digital matrix"
+    },
+    {
+      "title": "Turns are Better than Radians",
+      "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "summary": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-20T01:29:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті розглядається концепція використання обертів замість радіанів для обчислень у комп'ютерній графіці та програмуванні. Автор доводить, що такий підхід є більш інтуїтивним і дозволяє уникнути багатьох математичних похибок. Це покращує продуктивність та якість коду при роботі з кутами.",
+      "ai_title": "Чому повні оберти кращі за радіани в програмуванні",
+      "video_keywords": "geometic shapes, computer screen, programmer typing, math formulas"
     }
   ],
   "Бізнес / Стартапи": [
