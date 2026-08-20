@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Code-native generation of highly programmable 3D assets (2026)",
-      "link": "https://arxiv.org/abs/2607.22738",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.22738\">https://arxiv.org/abs/2607.22738</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346538\">https://news.ycombinator.com/item?id=49346538</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-18T14:54:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники представили підхід до створення високопрограмованих 3D-активів безпосередньо з вихідного коду. Ця технологія відкриває нові можливості для автоматизації у 3D-моделюванні та розробці ігор. Метод забезпечує високу точність та гнучкість у налаштуванні готових об'єктів.",
-      "ai_title": "Новий метод генерації 3D-об'єктів за допомогою коду",
-      "video_keywords": "3d rendering, software code, computer screen, programmer typing"
-    },
-    {
-      "title": "JPEG XL converter and .jxl viewer",
-      "link": "https://jpegxlconvert.com/en/",
-      "summary": "<p>Article URL: <a href=\"https://jpegxlconvert.com/en/\">https://jpegxlconvert.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346404\">https://news.ycombinator.com/item?id=49346404</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-18T14:46:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розгорнуто новий вебсервіс для роботи з сучасним растровим форматом JPEG XL, який набирає популярності завдяки ефективному стисненню. Користувачі тепер можуть легко конвертувати свої зображення та переглядати їх прямо в браузері. Це рішення полегшує перехід на новий стандарт збереження графіки.",
-      "ai_title": "З'явився зручний конвертер та переглядач для формату JPEG XL",
-      "video_keywords": "computer monitor, photo editing, clicking mouse, web browser"
-    },
-    {
-      "title": "Peacock is raising prices by up to $3",
-      "link": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
-      "summary": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is getting the biggest hike, jumping from [&#8230;]",
-      "published": "2026-08-18T14:11:39+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія NBCUniversal оголосила про чергове зростання вартості підписок на стрімінгову платформу Peacock. Найдешевші та преміальні плани подорожчають на суму від одного до трьох доларів на місяць. Зміни торкнуться як тарифів з рекламою, так і без неї.",
-      "ai_title": "Стрімінговий сервіс Peacock знову підвищує ціни",
-      "video_keywords": "smart tv, streaming service, remote control, living room"
-    },
-    {
       "title": "What Happens If OpenAI Dies?",
       "link": "https://www.wheresyoured.at/what-happens-if-openai-dies/",
       "summary": "<p>Article URL: <a href=\"https://www.wheresyoured.at/what-happens-if-openai-dies/\">https://www.wheresyoured.at/what-happens-if-openai-dies/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49347207\">https://news.ycombinator.com/item?id=49347207</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
@@ -39,26 +9,6 @@
       "ai_summary": "Експерти аналізують потенційні наслідки для індустрії штучного інтелекту в разі банкрутства або закриття OpenAI. Такий сценарій може суттєво змінити розстановку сил на ринку та вплинути на подальший розвиток генеративних моделей. Дослідження порушує питання залежності сучасних стартапів від інфраструктури лідерів галузі.",
       "ai_title": "Що буде з технологічним ринком, якщо OpenAI припинить своє існування?",
       "video_keywords": "server room, broken computer, corporate office, digital server"
-    },
-    {
-      "title": "The coolest anti-surveillance tools at Defcon [video]",
-      "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-2uAsJ5EPAw\">https://www.youtube.com/watch?v=-2uAsJ5EPAw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346444\">https://news.ycombinator.com/item?id=49346444</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-18T14:49:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "На відомій хакерській конференції Defcon продемонстрували новітні гаджети та програмне забезпечення для протидії цифровому стеженню. Ці інструменти дозволяють звичайним користувачам ефективно захищати свою приватність у громадських місцях. Розробники акцентують увагу на доступності таких рішень для кожного.",
-      "ai_title": "Найкращі інструменти захисту від стеження та кібернагляду з конференції Defcon",
-      "video_keywords": "hacker typing, computer screen, digital matrix, dark room"
-    },
-    {
-      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-      "link": "https://notactuallytreyanastasio.github.io/shoehorn/",
-      "summary": "<p>Working on Mac, Linux, and Windows now. I include a simple GUI to find new models and get things built and set up. It is working quite well across a few models for me. The GitHub README and DESIGN.md files go into detail of the how/why and it's working remarkably well so far. <a href=\"https://github.com/notactuallytreyanastasio/shoehorn\" rel=\"nofollow\">https://github.com/notactuallytreyanastasi",
-      "published": "2026-08-18T14:29:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив утиліту Shoehorn, призначену для квантування та оптимізації штучного інтелекту під локальне залізо. Програма працює на платформах Mac, Linux і Windows та має зручний графічний інтерфейс для завантаження моделей. Це робить запуск складних нейромереж доступним на звичайних домашніх комп'ютерах.",
-      "ai_title": "Новий інструмент Shoehorn дозволяє запустити будь-яку AI-модель на звичайному ПК",
-      "video_keywords": "computer motherboard, microchip, writing code, programmer hands"
     },
     {
       "title": "Claude: Degraded Performance for Multiple Models",
@@ -1399,19 +1349,59 @@
       "ai_summary": "Розробник Конрад Ітурбе створив безплатний додаток Osmosis з відкритим кодом для користувачів техніки DJI. Нова програма позбавляє потреби користуватися закритим і перевантаженим офіційним додатком, що надсилає дані на хмарні сервери компанії.",
       "ai_title": "Ентузіасти створили відкриту альтернативу додатку для камер DJI",
       "video_keywords": "action camera, mobile phone screen, outdoor filming, person holding camera"
+    },
+    {
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "summary": "<p>Article URL: <a href=\"https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html\">https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374772\">https://news.ycombinator.com/item?id=49374772</a></p>\n<p>Points: 18</p>\n<p># Comments: 7</p>",
+      "published": "2026-08-20T14:08:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник зміг запустити та взаємодіяти зі штучним інтелектом Claude на бюджетному смарт-годиннику вартістю всього 27 доларів. Цей експеримент демонструє розширення можливостей компактних пристроїв та нові методи їх використання. Ентузіасти продовжують дивувати нестандартними апаратними хаками.",
+      "ai_title": "Штучний інтелект Claude на дешевому розумному годиннику",
+      "video_keywords": "smartwatch, hacker, electronic device, debugging"
+    },
+    {
+      "title": "Every Model Cheats",
+      "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "summary": "<p>Article URL: <a href=\"https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/\">https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374635\">https://news.ycombinator.com/item?id=49374635</a></p>\n<p>Points: 7</p>\n",
+      "published": "2026-08-20T13:56:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нове дослідження аналізує проблеми безпеки та показує, що штучний інтелект часто знаходить лазівки й обходить правила під час виконання завдань. Експерти пропонують нові підходи до промпт-інжинірингу для мінімізації таких ризиків. Це важливий крок до створення безпечніших автономних систем.",
+      "ai_title": "Чому сучасні моделі ШІ вдаються до «шахрайства»",
+      "video_keywords": "computer screen, programming code, cybersecurity, hacker"
+    },
+    {
+      "title": "DiffusionGemma Technical Report",
+      "link": "https://arxiv.org/abs/2608.00146",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.00146\">https://arxiv.org/abs/2608.00146</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374287\">https://news.ycombinator.com/item?id=49374287</a></p>\n<p>Points: 38</p>\n<p># Comments: 6</p>",
+      "published": "2026-08-20T13:24:32+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Опубліковано детальний технічний звіт про нові досягнення у сфері генеративних моделей та дифузійних технологій. Документ розкриває архітектурні особливості та підходи до навчання нових нейромереж. Дослідження викликало значний інтерес у світовій AI-спільноті.",
+      "ai_title": "Вийшов технічний звіт щодо проєкту DiffusionGemma",
+      "video_keywords": "data center, server racks, digital analytics, glowing graphics"
+    },
+    {
+      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "summary": "<p>Article URL: <a href=\"https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/\">https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374269\">https://news.ycombinator.com/item?id=49374269</a></p>\n<p>Points: 131</p>\n<p># Comments: 76</p>",
+      "published": "2026-08-20T13:23:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У репозиторії Rust виявили зловмисний пакет Arrayref, який виконує прихований корисний навантаження під час процесу зборки. Це черговий інцидент, що підкреслює вразливість сучасних ланцюжків постачання програмного забезпечення. Розробникам рекомендують ретельно перевіряти залежності.",
+      "ai_title": "Шкідливий код у популярному пакеті мови Rust",
+      "video_keywords": "keyboard typing, programming code, warning sign, computer monitor"
+    },
+    {
+      "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "link": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "summary": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised, the site's creator, Ethan McKanna, told The [&#8230;]",
+      "published": "2026-08-20T14:09:31+00:00",
+      "source": "The Verge",
+      "ai_summary": "Сім місяців потому після заяв Ілона Маска безпілотні таксі Tesla в Остіні перейшли на роботу без жодних водіїв-страхувальників у салоні. Спостерігачі підтверджують, що останні десятки поїздок пройшли повністю в автоматичному режимі. Це важливий етап перед офіційним запуском платформи Cybercab.",
+      "ai_title": "Безпілотні таксі Tesla почали працювати повністю автономно в Остіні",
+      "video_keywords": "autonomous car, steering wheel, empty driver seat, urban street"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Commerce AI is fragmenting. Here is why that matters.",
-      "link": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
-      "summary": "<p>Presented by Rezolve Ai</p><hr /><p>Enterprise AI investment in commerce has never been higher. And enterprise AI outcomes in commerce have rarely been more inconsistent. That gap is not a coincidence. It is the predictable result of a pattern that has repeated itself across every major technology shift in retail: the industry adds new capabilities faster than it integrates them.</p><p>That pat",
-      "published": "2026-08-18T14:30:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Інвестиції у корпоративний штучний інтелект для торгівлі досягли рекордних показників, проте результати залишаються вкрай нестабільними. Головна проблема полягає в тому, що ритейл впроваджує нові технології набагато швидше, ніж встигає їх інтегрувати у наявні процеси. Це створює серйозну фрагментацію на ринку та знижує ефективність інвестицій.",
-      "ai_title": "Чому фрагментація штучного інтелекту у сфері комерції загрожує бізнесу",
-      "video_keywords": "futuristic shopping, digital store screen, AI retail technology, modern supermarket checkout"
-    },
     {
       "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
       "link": "https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-to-cut-the-humans-who-might-catch-the-next-one",
@@ -1891,39 +1881,19 @@
       "ai_summary": "Випускник Y Combinator, стартап Apollo Atomics, розробляє технологію зменшення ключової частини ядерного реактора. Це нововведення має суттєво знизити вартість електроенергії, зробивши її дешевшою за природний газ.",
       "ai_title": "Стартап Apollo Atomics прагне здешевити ядерну енергію шляхом мінімізації компонентів",
       "video_keywords": "nuclear reactor, power plant, control room, engineer in helmet"
+    },
+    {
+      "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
+      "link": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "summary": "<p>Serval is making <a href=\"https://www.serval.com/serval-news/catalyst-general-availability\">Catalyst</a>, its AI agent for building enterprise automations, generally available Thursday and enabling it by default for customers — allowing teams of AI agents to decide what should be automated and then build the automation itself.</p><p>Catalyst sits above Serval’s AI-native service management plat",
+      "published": "2026-08-20T14:42:07+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Компанія Serval випустила корпоративного ШT-агента Catalyst, який здатний самостійно виявляти та вирішувати проблеми в ІТ-інфраструктурі. Система працює у фоновому режимі, аналізуючи процеси й автоматично створюючи рішення ще до того, як користувачі надішлють скарги. Завдяки цьому команди можуть суттєво зекономити час на рутинній підтримці та налаштуванні.",
+      "ai_title": "Штучний інтелект від Serval автоматично виправляє ІТ-помилки до їх появи",
+      "video_keywords": "server room, IT engineer working, computer code screen, data center"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
-      "link": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
-      "summary": "",
-      "published": "2026-08-18T14:41:31+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Провідні компанії з видобутку криптовалюти успішно диверсифікують бізнес у бік штучного інтелекту, отримуючи рекордні прибутки. Проте традиційний майнінг може швидко відновити свої позиції за певних змін на ринку енергоносіїв.",
-      "ai_title": "Майнери біткоїна масово переходять на штучний інтелект",
-      "video_keywords": "server racks, data center, glowing microchips, computer servers"
-    },
-    {
-      "title": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
-      "link": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
-      "summary": "",
-      "published": "2026-08-18T14:40:41+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Глобальний стрибок дохідності державними облігаціями посилює побоювання щодо боргової кризи у світі. На цьому тлі біткоїн стикається з серйозним випробуванням своєї репутації як надійного інструменту для хеджування ризиків.",
-      "ai_title": "Зростання прибутковості облігацій перевіряє статус біткоїна як захисного активу",
-      "video_keywords": "stock market chart, financial graphs, red numbers screen, trading terminal"
-    },
-    {
-      "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
-      "link": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
-      "summary": "",
-      "published": "2026-08-18T14:35:08+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Японська компанія Metaplanet оголосила про запуск дочірньої компанії в США завдяки угоді на 135 мільйонів доларів. Нова структура зосередиться на управлінні корпоративним капіталом у біткоїнах.",
-      "ai_title": "Японська Metaplanet створює американську структуру для інвестицій у біткоїн",
-      "video_keywords": "tokyo skyline, corporate office building, business handshake, financial district"
-    },
     {
       "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
       "link": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
