@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Comcast is turning millions of its routers into motion detectors",
-      "link": "https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing",
-      "summary": "Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving today, August 18th, enables the feature on compatible Xfinity routers at no extra cost. Announced as part of its new Xfinity Shield service, WiFi [&#8230;]",
-      "published": "2026-08-18T13:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Comcast оновлює мільйони своїх роутерів у домівках користувачів, перетворюючи їх на пристрої для виявлення руху за допомогою Wi-Fi. Нова функція є частиною сервісу Xfinity Shield і дозволяє моніторити активність у приміщенні без купівлі додаткового обладнання. Оновлення поширюється автоматично через мобільний додаток компанії.",
-      "ai_title": "Роутери Comcast почнуть працювати як датчики руху",
-      "video_keywords": "wifi router, smart home, living room, blinking lights"
-    },
-    {
-      "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
-      "link": "https://github.com/pitiflautico/neobrowser",
-      "summary": "<p>Article URL: <a href=\"https://github.com/pitiflautico/neobrowser\">https://github.com/pitiflautico/neobrowser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345320\">https://news.ycombinator.com/item?id=49345320</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-18T13:25:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився новий проєкт NeoBrowser, який працює як сервер протоколу Model Context Protocol (MCP) та дозволяє взаємодіяти з повноцінним браузером Google Chrome. Інструмент використовує вже наявні сесії користувача для автоматизації та інтеграції з ШІ-моделями.",
-      "ai_title": "NeoBrowser: новий MCP-сервер для керування реальним браузером Chrome",
-      "video_keywords": "web browser, internet scrolling, computer monitor, clicking mouse"
-    },
-    {
-      "title": "Fixing a Bricked Framework Laptop",
-      "link": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "summary": "<p>Article URL: <a href=\"https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/\">https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345220\">https://news.ycombinator.com/item?id=49345220</a></p>\n<p>Points: 26</p>\n<p># Comments: 8</p>",
-      "published": "2026-08-18T13:18:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти знайшли спосіб реанімувати материнську плату ноутбука Framework після невдалих оновлень прошивки, використовуючи бюджетний мінімальний набір обладнання. Стаття детально описує процес відновлення та виправлення помилок пам'яті за допомогою програматора.",
-      "ai_title": "Як відновити «заблокований» ноутбук Framework за допомогою недорогих інструментів",
-      "video_keywords": "repairing laptop, screwdriver, circuit board, electronics workbench"
-    },
-    {
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "summary": "<p>Article URL: <a href=\"https://opensource.posit.co/resources/cheatsheets/polars/\">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345476\">https://news.ycombinator.com/item?id=49345476</a></p>\n<p>Points: 34</p>\n<p># Comments: 6</p>",
-      "published": "2026-08-18T13:38:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено корисну шпаргалку з бібліотеки Python Polars на основі нещодавно виданої книги від O'Reilly. Вона допоможе розробникам швидше освоїти ефективну обробку та аналіз даних у своїх проєктах.",
-      "ai_title": "Нова шпаргалка з Python Polars",
-      "video_keywords": "programmer typing code, computer screen, software development, python syntax"
-    },
-    {
-      "title": "The Amazon Tax",
-      "link": "https://seths.blog/2026/08/the-amazon-tax/",
-      "summary": "<p>Article URL: <a href=\"https://seths.blog/2026/08/the-amazon-tax/\">https://seths.blog/2026/08/the-amazon-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345263\">https://news.ycombinator.com/item?id=49345263</a></p>\n<p>Points: 144</p>\n<p># Comments: 79</p>",
-      "published": "2026-08-18T13:22:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У новому блозі розглядається концепція додаткових витрат та комісій, з якими стикаються продавці та покупці на великих маркетплейсах. Автор аналізує вплив таких зборів на сучасну екосистему електронної комерції.",
-      "ai_title": "Що таке «Податок на Amazon»?",
-      "video_keywords": "shopping boxes, online shopping, warehouse packing, credit card payment"
-    },
-    {
-      "title": "ABC sues the FCC over Trump and Carr&#8217;s campaign of threats",
-      "link": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
-      "summary": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast. In a lawsuit filed in federal court on Tuesday, ABC and its parent company Disney accuse the FCC of \"punishing ABC for its speech\" by threatening its broadcast licenses. It's the latest [&#8230;]",
-      "published": "2026-08-18T13:27:43+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія ABC та її материнська корпорація Disney звернулися до суду проти Федеральної комісії зі зв'язку США. Вони звинувачують агентство у тиску та погрозах анулюванням ліцензій через контент, що транслюється в ефірі.",
-      "ai_title": "Телеканал ABC подав позов проти FCC через погрози",
-      "video_keywords": "courtroom gavel, legal documents, judge desk, news microphone"
-    },
-    {
       "title": "Code-native generation of highly programmable 3D assets (2026)",
       "link": "https://arxiv.org/abs/2607.22738",
       "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.22738\">https://arxiv.org/abs/2607.22738</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346538\">https://news.ycombinator.com/item?id=49346538</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
@@ -89,16 +29,6 @@
       "ai_summary": "Компанія NBCUniversal оголосила про чергове зростання вартості підписок на стрімінгову платформу Peacock. Найдешевші та преміальні плани подорожчають на суму від одного до трьох доларів на місяць. Зміни торкнуться як тарифів з рекламою, так і без неї.",
       "ai_title": "Стрімінговий сервіс Peacock знову підвищує ціни",
       "video_keywords": "smart tv, streaming service, remote control, living room"
-    },
-    {
-      "title": "Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it",
-      "link": "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery",
-      "summary": "There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. Discovery only drew attention to its habit of disappearing nearly completed movies in order to cash in on [&#8230;]",
-      "published": "2026-08-18T13:35:35+00:00",
-      "source": "The Verge",
-      "ai_summary": "Стрічка «Койот проти Акне» опинилася в центрі уваги не лише через свій гумор, але й через спроби Warner Bros. Discovery скасувати її прокат. Нестандартна доля фільму та скандал навколо нього створили потужний ефект касових зборів. Глядський інтерес до картини суттєво зріс завдяки спробам студії приховати проєкт.",
-      "ai_title": "Фільм «Койот проти Акне» приваблює глядачів скандальною історією",
-      "video_keywords": "cinema screen, movie theater, popcorn, watching film"
     },
     {
       "title": "What Happens If OpenAI Dies?",
@@ -1419,49 +1349,59 @@
       "ai_summary": "Попри заборони на ринку США, заборонені камери DJI легко знайти на популярних онлайн-платформах на кшталт Temu, AliExpress чи eBay. Придбати гаджет виявилося настільки ж просто, як і будь-який інший звичайний товар.",
       "ai_title": "Як легко купити заборонені камери DJI в США",
       "video_keywords": "compact camera, unboxing package, online shopping, person holding action camera"
+    },
+    {
+      "title": "Slack launches dedicated channels for collaborative programming with AI agents",
+      "link": "https://en.ain.ua/2026/08/20/slack-launches-dedicated-channels-for-collaborative-programming-with-ai-agents/",
+      "summary": "The new Slack Code feature lets you create project spaces, view code diffs, and test web pages together with bots from Anthropic, GitHub, and other partners.",
+      "published": "2026-08-20T13:50:00+00:00",
+      "source": "",
+      "ai_summary": "Нова функція Slack Code дозволяє створювати проектні простори, переглядати зміни в коді та тестувати вебсторінки разом із ботами від Anthropic, GitHub та інших партнерів. Це значно спрощує командну розробку та інтеграцію штучного інтелекту в робочий процес.",
+      "ai_title": "Slack запускає спеціальні канали для спільного програмування з ШІ-агентами",
+      "video_keywords": "computer monitor, programming code, office workspace, typing on keyboard"
+    },
+    {
+      "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+      "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+      "summary": "<p>Article URL: <a href=\"https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/\">https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374162\">https://news.ycombinator.com/item?id=49374162</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-20T13:12:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Canonical стала партнером нової ініціативи, спрямованої на автоматизований переклад великих кодових баз із мови C на безпечнішу для пам'яті мову Rust. Це допоможе підвищити надійність та кібербезпеку критичного системного програмного забезпечення.",
+      "ai_title": "Canonical підтримала проєкт переписування великих баз коду на безпечну мову Rust",
+      "video_keywords": "software developer, multiple screens, coding abstract, cybersecurity matrix"
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
+      "published": "2026-08-20T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Провідні математики світу переживають екзистенційну кризу через вплив штучного інтелекту на їхню дисципліну. Нещодавня публікація OpenAI із розв'язанням давніх математичних проблем справила ефект бомби в науковому середовищі.",
+      "ai_title": "Штучний інтелект спричиняє кризу в сучасній математиці",
+      "video_keywords": "university classroom, blackboard mathematics, scientist thinking, scientific equations"
+    },
+    {
+      "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
+      "link": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
+      "summary": "What's in the trunk of your car? Shopping bags? A spare tire? Jumper cables? What about a high-powered computer capable of performing up to one quadrillion operations a second? Only if you're Waymo. For the first time, Waymo revealed key details about the heavy compute \"brain\" housed in the trunk of its robotaxis, including chip [&#8230;]",
+      "published": "2026-08-20T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Waymo вперше показала потужну комп'ютерну систему, яка розташована в багажнику її безпілотних автомобілів. Цей суперкомп'ютер здатний виконувати до одного квадрильйона операцій на секунду, забезпечуючи повноцінне автономне кермування.",
+      "ai_title": "Waymo розкрила деталі «мозку», що керує її роботаксі",
+      "video_keywords": "autonomous car trunk, computer hardware, server racks, microchip closeup"
+    },
+    {
+      "title": "DJI Osmo fans are breaking the shackles of its closed-source camera app",
+      "link": "https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement",
+      "summary": "Even if you love DJI's drones and cameras, you might not love the company's bloated closed-source apps that phone home to its cloud servers. But they're the only way to easily review, manage, and wirelessly download your pocket camera's footage on the go. Osmosis, a free open-source app built by DJI watcher Konrad Iturbe (with [&#8230;]",
+      "published": "2026-08-20T13:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Розробник Конрад Ітурбе створив безплатний додаток Osmosis з відкритим кодом для користувачів техніки DJI. Нова програма позбавляє потреби користуватися закритим і перевантаженим офіційним додатком, що надсилає дані на хмарні сервери компанії.",
+      "ai_title": "Ентузіасти створили відкриту альтернативу додатку для камер DJI",
+      "video_keywords": "action camera, mobile phone screen, outdoor filming, person holding camera"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "link": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-      "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-      "published": "2026-08-18T14:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Anthro Energy розпочала будівництво підприємства у Луїсвіллі для виробництва електролітів. Це важливий крок на шляху до масового випуску інноваційних твердотільних акумуляторів.",
-      "ai_title": "Стартап Anthro Energy будує завод для випуску матеріалів для твердотільних батарей",
-      "video_keywords": "factory interior, industrial machinery, chemical laboratory, battery production"
-    },
-    {
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
-      "published": "2026-08-18T14:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Система Warp Factories створена для того, щоб максимально спростити розробку програмного забезпечення з використанням штучного інтелекту. Новий інструмент надає готову інфраструктуру для IT-команд.",
-      "ai_title": "Warp презентувала платформу для швидкого створення софту на базі штучного інтелекту",
-      "video_keywords": "software developer, typing code, multiple monitors, modern office"
-    },
-    {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "published": "2026-08-18T13:50:30+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий режим для підлітків містить вікові обмеження, батьківський контроль та інструменти безпеки. Функціонал розроблений так, щоб захистити школярів від шкідливого контенту та академічного шахрайства.",
-      "ai_title": "OpenAI запустила спеціальну безпечну версію ChatGPT для підлітків",
-      "video_keywords": "teenager using smartphone, smiling teen, modern bedroom, typing on phone"
-    },
-    {
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-      "published": "2026-08-18T13:45:40+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Попри зниження загальної кількості завантажень, доходи Perplexity в Індії зросли приблизно на 60% після завершення спеціальної акції від оператора Airtel. Сервіс зміг суттєво розширити свою аудиторію в регіоні.",
-      "ai_title": "Спеціальна проפозиція від Perplexity забезпечила компанії мільйони нових користувачів в Індії",
-      "video_keywords": "person using smartphone, mobile app screen, city street, digital map"
-    },
     {
       "title": "Commerce AI is fragmenting. Here is why that matters.",
       "link": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
@@ -1941,29 +1881,19 @@
       "ai_summary": "Кіберзлочинці націлилися на підключені до інтернету контролери Siemens, які використовуються на водних об'єктах по всій території США. Для атак хакери активно залучають алгоритми штучного інтелекту.",
       "ai_title": "США заявили про загрозу: хакери атакують водні системи за допомогою ШІ",
       "video_keywords": "water treatment plant, control room, industrial computer, hacker attack"
+    },
+    {
+      "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
+      "link": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
+      "summary": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
+      "published": "2026-08-20T13:45:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Випускник Y Combinator, стартап Apollo Atomics, розробляє технологію зменшення ключової частини ядерного реактора. Це нововведення має суттєво знизити вартість електроенергії, зробивши її дешевшою за природний газ.",
+      "ai_title": "Стартап Apollo Atomics прагне здешевити ядерну енергію шляхом мінімізації компонентів",
+      "video_keywords": "nuclear reactor, power plant, control room, engineer in helmet"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto’s easy-money era is ending in a wave of failures",
-      "link": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
-      "summary": "",
-      "published": "2026-08-18T13:22:40+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Сектор цифрових активів стикається з масштабною кризою на тлі масових банкрутств компаній та проєктів. Бездумні інвестиції та спекуляції відходять у минуле, поступаючись місцем жорсткому регулюванню та ринковій реальності.",
-      "ai_title": "Епоха легких грошей у криптоіндустрії завершується хвилею банкрутств",
-      "video_keywords": "stock market crash, red charts, worried trader, financial crisis, empty office"
-    },
-    {
-      "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-      "link": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Toyota Finance opens tokenized bonds to retail investors via mobile payment app\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/toyota-security-token.png\" /></p><p>Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment a",
-      "published": "2026-08-18T13:41:56+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Toyota Finance запустила продаж облігацій на 1 мільярд єн через мобільний додаток без необхідності відкривати брокерський рахунок. Інвестори можуть не лише придбати активи, а й отримувати спеціальні бонуси через платіжну систему компанії.",
-      "ai_title": "Toyota випустила токенізовані облігації для роздрібних інвесторів",
-      "video_keywords": "smartphone payment app, digital bonds, car keys on screen, modern finance"
-    },
     {
       "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
       "link": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
@@ -1993,16 +1923,6 @@
       "ai_summary": "Японська компанія Metaplanet оголосила про запуск дочірньої компанії в США завдяки угоді на 135 мільйонів доларів. Нова структура зосередиться на управлінні корпоративним капіталом у біткоїнах.",
       "ai_title": "Японська Metaplanet створює американську структуру для інвестицій у біткоїн",
       "video_keywords": "tokyo skyline, corporate office building, business handshake, financial district"
-    },
-    {
-      "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
-      "link": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
-      "summary": "",
-      "published": "2026-08-18T14:03:27+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Біржа HashKey інтегрувала перший офіційно регульований стейблкоїн Гонконгу для розрахунків за торговими та страховими угодами. Це значний крок до легітимізації цифрових активів у традиційній фінансовій системі регіону.",
-      "ai_title": "HashKey використовує першу регульовану стейблкоїн-систему в Гонконзі",
-      "video_keywords": "hong kong skyline, digital currency, smartphone payment, modern office interior"
     },
     {
       "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
@@ -2804,6 +2724,26 @@
       "ai_summary": "Компанія з кібербезпеки Rapid7 виявила нову фішингову кампанію, яка зачепила 885 тисяч телефонних номерів. Зловмисники намагаються отримати доступ до криптовалютних активів користувачів через підроблені повідомлення. Експерти закликають бути пильними та не переходять за підозрілими посиланнями в СМС.",
       "ai_title": "Масштабна фішингова атака: шахраї націлилися на сотні тисяч криптоінвесторів",
       "video_keywords": "smartphone screen, typing hands, hacker typing, digital security"
+    },
+    {
+      "title": "MiCA cracks down on USDT in Europe... but no one else cares",
+      "link": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA cracks down on USDT in Europe... but no one else cares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-mag-the-usdt-question-after-mica-has-regulation-reshaped-stablecoin-liquidity.jpg\" /></p><p>USDT is disappearing from regulated European platforms, but there is little sign that it ha",
+      "published": "2026-08-20T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Стейблкоїн USDT поступово зникає з легальних європейських криптовалютних платформ через нові правила MiCA. Проте глобальний ринок поки що демонструє байдужість до цих локальних обмежень у Європі.",
+      "ai_title": "Регуляції MiCA витісняють USDT з європейського ринку",
+      "video_keywords": "smartphone screen, cryptocurrency exchange, European flag, financial chart"
+    },
+    {
+      "title": "Bitdeer signs $400M AI cloud computing deal for Malaysia facility",
+      "link": "https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitdeer signs $400M AI cloud computing deal for Malaysia facility\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-to-mine-bitcoin-1.jpg\" /></p><p>Bitdeer expects revenue from the five-year agreement to begin in early 2027 as it builds toward 350 megawatts of AI cloud capacity by 2028.</",
+      "published": "2026-08-20T13:18:02+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Bitdeer підписала масштабний контракт на суму 400 мільйонів доларів США щодо створення хмарних обчислень для ШІ в Малайзії. Очікується, що проєкт почне приносити дохід на початку 2027 року, а до 2028 року потужності досягнуть 350 мегават.",
+      "ai_title": "Bitdeer уклала угоду на $400 млн для розвитку штучного інтелекту",
+      "video_keywords": "server room, data center, computer racks, flashing lights"
     }
   ]
 }
