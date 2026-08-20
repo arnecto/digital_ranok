@@ -31,16 +31,6 @@
       "video_keywords": "terminal window, programmer typing, matrix code, computer monitor"
     },
     {
-      "title": "Programmable Property-Based Testing",
-      "link": "https://dl.acm.org/doi/10.1145/3828685",
-      "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3828685\">https://dl.acm.org/doi/10.1145/3828685</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353618\">https://news.ycombinator.com/item?id=49353618</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-18T22:22:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Опубліковано нове дослідження присвячене вдосконаленню методів тестування програмного забезпечення на основі властивостей. Новий підхід робить процес пошуку помилок більш гнучким та автоматизованим. Це підвищує надійність складних програмних систем ще на етапі розробки.",
-      "ai_title": "Програмоване тестування на основі властивостей у програмуванні",
-      "video_keywords": "software engineer, office desk, typing code, multiple monitors"
-    },
-    {
       "title": "Cerebras CS-4",
       "link": "https://www.cerebras.ai/cs4",
       "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/cs4\">https://www.cerebras.ai/cs4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354949\">https://news.ycombinator.com/item?id=49354949</a></p>\n<p>Points: 62</p>\n<p># Comments: 42</p>",
@@ -1419,19 +1409,29 @@
       "ai_summary": "Компанія Google незабаром дозволить користувачам налаштовувати стрічку новин Discover за допомогою текстових описів. Нова функція використовуватиме штучний інтелект для адаптації контенту та збереження вподобань для майбутніх візитів.",
       "ai_title": "Google Discover отримає стрічку на основі штучного інтелекту",
       "video_keywords": "smartphone screen, typing text, mobile app, person scrolling"
+    },
+    {
+      "title": "Citizen Devs: Everyone is an engineer now",
+      "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+      "summary": "<p>Article URL: <a href=\"https://www.massdriver.cloud/blogs/the-citizen-developer\">https://www.massdriver.cloud/blogs/the-citizen-developer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49380491\">https://news.ycombinator.com/item?id=49380491</a></p>\n<p>Points: 24</p>\n<p># Comments: 25</p>",
+      "published": "2026-08-20T21:25:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Сучасні інструменти штучного інтелекту та лоукод-платформи стирають межі між професійними програмістами та звичайними користувачами. Тепер кожен може створювати власні програмні рішення без глибоких технічних знань. Це кардинально змінює підхід до розробки продуктів та автоматизації бізнесу.",
+      "ai_title": "Ера «громадянських розробників»: чому кожен тепер може бути інженером",
+      "video_keywords": "person typing code, laptop screen, office workspace, futuristic interface"
+    },
+    {
+      "title": "Code as an Artifact",
+      "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+      "summary": "<p>Article URL: <a href=\"https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/\">https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49380482\">https://news.ycombinator.com/item?id=49380482</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-20T21:24:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття досліджує еволюцію написання коду в епоху автоматизації та ШІ. Автор аналізує, чи стає програмний код самостійним творчим продуктом, чи залишається лише інструментом для досягнення мети. Дискусія зачіпає майбутнє інженерної думки та цінність людської праці в IT.",
+      "ai_title": "Код як артефакт: переосмислення ролі програмування",
+      "video_keywords": "matrix code, lines of code, glowing monitor, developer hands keyboard"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
-      "published": "2026-08-18T22:14:25+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярний серед розробників AI-редактор коду Cursor презентує нову платформу для хостингу. Цей крок покликаний скористатися невдоволенням користувачів роботою GitHub та запропонувати їм альтернативне рішення.",
-      "ai_title": "Cursor кидає виклик GitHub і запускає власну платформу для хостингу коду",
-      "video_keywords": "software developer, typing code, dual monitors, office desk"
-    },
     {
       "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
       "link": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
@@ -2001,6 +2001,16 @@
       "ai_summary": "Популярний чат-бот від OpenAI отримав інтеграцію з додатком Apple Messages, яка дозволяє автоматизувати надсилання текстових повідомлень. Тепер користувачі можуть довірити штучному інтелекту написання та надсилання своїх повсякденних СМС. Це нововведення значно спрощує комунікацію та демонструє новий рівень інтеграції ШІ в мобільні операційні системи.",
       "ai_title": "ChatGPT тепер може надсилати повідомлення через новий плагін для Apple Messages",
       "video_keywords": "smartphone, texting, mobile phone screen, typing hands"
+    },
+    {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "published": "2026-08-20T22:36:37+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нові дані свідчать про те, що корпоративні клієнти легко перемикаються між моделями OpenAI та Anthropic залежно від релізів. Така мінливість викликає занепокоєння у інвесторів щодо стабільності витрат на штучний інтелект у бізнес-сегменті.",
+      "ai_title": "OpenAI наздоганяє Anthropic у боротьбі за бізнес-клієнтів",
+      "video_keywords": "office workers, computer screen, graphs charts, business meeting"
     }
   ],
   "Крипта": [
