@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Cursor Origin",
-      "link": "https://cursor.com/docs/origin",
-      "summary": "<p>Article URL: <a href=\"https://cursor.com/docs/origin\">https://cursor.com/docs/origin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339359\">https://news.ycombinator.com/item?id=49339359</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
-      "published": "2026-08-17T23:58:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники популярного серед програмістів ШІ-редактора Cursor представили оновлення Cursor Origin. Воно покликане покращити взаємодію розробників з штучним інтелектом під час написання та редагування коду. Цей інструмент продовжує змінювати підходи до сучасного програмування.",
-      "ai_title": "Запуск Cursor Origin: новий етап розвитку AI-редактора коду",
-      "video_keywords": "programmer typing, computer screen, code editor, modern office"
-    },
-    {
-      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-      "link": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
-      "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy\">https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339599\">https://news.ycombinator.com/item?id=49339599</a></p>\n<p>Points: 38</p>\n<p># Comments: 11</p>",
-      "published": "2026-08-18T00:29:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Google здобула перемогу на аукціоні у справі про банкрутство авіакомпанії Spirit Airlines, придбавши їхній масив електронних листів, чатів та внутрішніх документів. Ця угода привернула увагу через обсяги даних, які тепер перейдуть у розпорядження техногіганта.",
-      "ai_title": "Google викупила архів Spirit Airlines під час банкрутства",
-      "video_keywords": "server room, data center, computer screen, documents"
-    },
-    {
       "title": "The Benchmarkpocalypse",
       "link": "https://danluu.com/benchpocalypse/",
       "summary": "<p>Article URL: <a href=\"https://danluu.com/benchpocalypse/\">https://danluu.com/benchpocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340299\">https://news.ycombinator.com/item?id=49340299</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
@@ -1449,19 +1429,39 @@
       "ai_summary": "Компанія Anthropic прийняла рішення не підтримувати відкритий формат Agents.md у своїх інструментах. Це викликало активні обговорення та суперечки серед розробників щодо стандартів взаємодії ШІ-агентів. Ситуація підсвічує розбіжності в підходах різних технологічних гігантів до екосистеми штучного інтелекту.",
       "ai_title": "Anthropic відмовилася підтримувати стандарт Agents.md",
       "video_keywords": "office meeting, business discussion, frustrated worker, computer monitor"
+    },
+    {
+      "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+      "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+      "summary": "<p>Article URL: <a href=\"https://fetzu.ch/blog/20260819_claudevsdrobo/\">https://fetzu.ch/blog/20260819_claudevsdrobo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368911\">https://news.ycombinator.com/item?id=49368911</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-20T00:18:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник успішно використав штучний інтелект для написання робочого драйвера під macOS для застарілого накопичувача Drobo. Цей експеримент демонструє нові можливості вайб-кодингу у вирішенні складних апаратних завдань.",
+      "ai_title": "Створення драйвера для старої системи за допомогою AI",
+      "video_keywords": "programmer typing, computer screen, code scrolling, macbook"
+    },
+    {
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "summary": "<p>Article URL: <a href=\"https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724\">https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368625\">https://news.ycombinator.com/item?id=49368625</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-19T23:38:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Поліцейське управління у Гарднері вирішило припинити використання систем Flock через зростаюче занепокоєння громадськості щодо конфіденційності. Це рішення підкреслює напругу між безпекою суспільства та правом на приватність.",
+      "ai_title": "Поліція відмовляється від камер розпізнавання через питання приватності",
+      "video_keywords": "security camera, police car, street traffic, city surveillance"
+    },
+    {
+      "title": "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
+      "link": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
+      "summary": "<p>Article URL: <a href=\"https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/\">https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368182\">https://news.ycombinator.com/item?id=49368182</a></p>\n<p>Points: 13</p>\n<p># Commen",
+      "published": "2026-08-19T22:51:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті розглядається перспективна можливість використання селектора префіксів класів у майбутніх версіях CSS. Це нововведення значно спростить стилізацію елементів із багатьма спільними класами.",
+      "ai_title": "Майбутнє CSS: новий селектор для роботи з класами",
+      "video_keywords": "web development, coding on screen, laptop keyboard, developer hands"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
-      "link": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
-      "summary": "<p>The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn&#x27;t a frontier cloud model from OpenAI, Anthropic or Google.</p><p>It was a 27-billion-parameter model from Alibaba: <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Qwen3.8-27B landed on Hugging Face</a> on Friday under an enterprise-friendly, open source Apache 2.0 lic",
-      "published": "2026-08-18T00:06:53+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "На платформі Hugging Face з'явилася нова 27-мільярдна модель від Alibaba під ліцензією Apache 2.0. Вона здатна виконувати складні завдання з програмування та логічного мислення локально, без необхідності підключення до хмарних сервісів.",
-      "ai_title": "Alibaba випустила потужну відкриту AI-модель Qwen3.8-27B для локального запуску",
-      "video_keywords": "computer screen, programming code, hacker, server room"
-    },
     {
       "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
       "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
@@ -1991,6 +1991,16 @@
       "ai_summary": "Фінтех-гігант Stripe купив платформу для маршрутизації штучного інтелекту OpenRouter. Хоча керівництво жартує про «технологічну сингулярність», справжня причина криється у прагматичних бізнес-цілях та розширенні можливостей ШІ.",
       "ai_title": "Чому Stripe насправді придбала стартап OpenRouter",
       "video_keywords": "handshake, office meeting, laptop, business analytics"
+    },
+    {
+      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+      "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "summary": "<p>Another day, another new AI agent harness is released.</p><p>Only this time, it&#x27;s one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. </p><p><a href=\"https://www.truefoundry.com/\">TrueFoundry</a>, a San Francisco B2B machine learning startup co-founded in 2021 by former Meta engineers, ha",
+      "published": "2026-08-19T23:50:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Стартап TrueFoundry презентував новий open-source інструмент TrueForge, який допомагає підприємствам контролювати ШІ-агенти. За заявою розробників, цей фреймворк дозволяє виконувати завдання на 30–75% дешевше порівняно з аналогічними рішеннями.",
+      "ai_title": "TrueFoundry випустила open-source фреймворк TrueForge для зниження витрат на ШІ-агентів",
+      "video_keywords": "server rack, data center, computer monitor, coding"
     }
   ],
   "Крипта": [
