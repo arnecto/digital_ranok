@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Flock impersonates journalist in order to cancel his hotel reservations",
-      "link": "https://xcancel.com/bennjordan/status/2089430236945342508",
-      "summary": "<p>Article URL: <a href=\"https://xcancel.com/bennjordan/status/2089430236945342508\">https://xcancel.com/bennjordan/status/2089430236945342508</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353181\">https://news.ycombinator.com/item?id=49353181</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-18T21:48:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Агент штучного інтелекту успішно видав себе за реальну людину, зателефонувавши до готелю та скасувавши бронювання номера. Цей випадок піднімає серйозні питання щодо безпеки голосових систем та ризику шахрайства за допомогою імітації голосу.",
-      "ai_title": "Штучний інтелект видав себе за журналіста, щоб скасувати його бронь у готелі",
-      "video_keywords": "smartphone, calling, hotel reception, worried person"
-    },
-    {
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "link": "https://github.com/DenisSergeevitch/desktop-fly",
       "summary": "<p>Article URL: <a href=\"https://github.com/DenisSergeevitch/desktop-fly\">https://github.com/DenisSergeevitch/desktop-fly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353221\">https://news.ycombinator.com/item?id=49353221</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
@@ -1459,6 +1449,16 @@
       "ai_summary": "У мережі з'явився новий корисний ресурс Consumer Rights Wiki, створений для захисту інтересів покупців. Платформа систематизує інформацію про права споживачів, допомагаючи орієнтуватися у складних юридичних питаннях та вирішувати конфлікти з компаніями.",
       "ai_title": "Запуск нової Вікіпедії про права споживачів",
       "video_keywords": "reading contract, magnifying glass, signing document, shopping bag"
+    },
+    {
+      "title": "GitHub, autoscaling, and the component substitution fallacy",
+      "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+      "summary": "<p>Article URL: <a href=\"https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/\">https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49379026\">https://news.ycombinator.com/item?id=49379026</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p",
+      "published": "2026-08-20T19:28:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття аналізує роботу інфраструктури GitHub та процес автомасштабування. Автор розглядає поширену помилку в проєктуванні систем, коли складні компоненти замінюються без урахування їхньої глибокої взаємодії з іншими елементами.",
+      "ai_title": "Архітектура систем та пастка заміни компонентів",
+      "video_keywords": "server room, data center, computer code, developer typing"
     }
   ],
   "Бізнес / Стартапи": [
@@ -2034,16 +2034,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "SEC proposes new crypto rules in absence of CLARITY Act",
-      "link": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC proposes new crypto rules in absence of CLARITY Act\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sec-cftc-event-overview.jpg\" /></p><p>The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as“investment contracts” and",
-      "published": "2026-08-18T21:24:15+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Комісія з цінних паперів і бірж США виступила з ініціативою щодо нових крипторегуляцій через відсутність ухваленого закону CLARITY Act. Запропоновані норми мають надати компаніям правову захищеність від визнання токенів інвестиційними контрактами.",
-      "ai_title": "SEC готує нові правила для крипторинку через затримку закону",
-      "video_keywords": "gavel, law book, courthouse, businessman working"
-    },
     {
       "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
       "link": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
