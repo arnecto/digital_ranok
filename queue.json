@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-      "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-      "summary": "<p>Article URL: <a href=\"https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724\">https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368625\">https://news.ycombinator.com/item?id=49368625</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
-      "published": "2026-08-19T23:38:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Поліцейське управління у Гарднері вирішило припинити використання систем Flock через зростаюче занепокоєння громадськості щодо конфіденційності. Це рішення підкреслює напругу між безпекою суспільства та правом на приватність.",
-      "ai_title": "Поліція відмовляється від камер розпізнавання через питання приватності",
-      "video_keywords": "security camera, police car, street traffic, city surveillance"
-    },
-    {
       "title": "Universality of Gradient Descent Neural Network Training",
       "link": "https://arxiv.org/abs/2007.13664",
       "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2007.13664\">https://arxiv.org/abs/2007.13664</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368828\">https://news.ycombinator.com/item?id=49368828</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
@@ -1399,29 +1389,19 @@
       "ai_summary": "Проблема неіснуючих вакансій на сайтах з пошуку роботи стала настільки масовою, що урядовці планують на законодавчому рівні заборонити компаніям публікувати такі оголошення. Це явище негативно впливає на ринок праці та демотивує реальних шукачів роботи.",
       "ai_title": "Законодавці хочуть заборонити фальшиві вакансії",
       "video_keywords": "person looking at computer screen, stressed job seeker, office desk, typing on laptop"
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "link": "https://ozbrain.com",
+      "summary": "<p>I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.<p>A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing ",
+      "published": "2026-08-21T23:09:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа пропонує новий підхід до управління інформацією, де головними користувачами стають штучні агенти, а не люди. Проєкт замінює звичні дашборди та нотатки на спільний цифровий розум для ефективної спільної роботи.",
+      "ai_title": "OzBrain: єдина база знань для штучного інтелекту та команди",
+      "video_keywords": "futuristic interface, digital brain, glowing network, data visualization"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "published": "2026-08-19T23:32:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Фінтех-гігант Stripe купив платформу для маршрутизації штучного інтелекту OpenRouter. Хоча керівництво жартує про «технологічну сингулярність», справжня причина криється у прагматичних бізнес-цілях та розширенні можливостей ШІ.",
-      "ai_title": "Чому Stripe насправді придбала стартап OpenRouter",
-      "video_keywords": "handshake, office meeting, laptop, business analytics"
-    },
-    {
-      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-      "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-      "summary": "<p>Another day, another new AI agent harness is released.</p><p>Only this time, it&#x27;s one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. </p><p><a href=\"https://www.truefoundry.com/\">TrueFoundry</a>, a San Francisco B2B machine learning startup co-founded in 2021 by former Meta engineers, ha",
-      "published": "2026-08-19T23:50:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Стартап TrueFoundry презентував новий open-source інструмент TrueForge, який допомагає підприємствам контролювати ШІ-агенти. За заявою розробників, цей фреймворк дозволяє виконувати завдання на 30–75% дешевше порівняно з аналогічними рішеннями.",
-      "ai_title": "TrueFoundry випустила open-source фреймворк TrueForge для зниження витрат на ШІ-агентів",
-      "video_keywords": "server rack, data center, computer monitor, coding"
-    },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
