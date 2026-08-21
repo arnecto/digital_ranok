@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-      "link": "https://www.modular.com/blog/modcon-announcements",
-      "summary": "<p>Article URL: <a href=\"https://www.modular.com/blog/modcon-announcements\">https://www.modular.com/blog/modcon-announcements</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358327\">https://news.ycombinator.com/item?id=49358327</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-19T07:47:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Modular, яка тепер належить Qualcomm, офіційно відкрила вихідний код мови програмування Mojo. Це рішення спрямоване на прискорення її розробки та розширення екосистеми для штучного інтелекту. Очікується, що відкритість привабить більше розробників до створення високопродуктивних ІТ-додатків.",
-      "ai_title": "Мова програмування Mojo стала відкритим кодом",
-      "video_keywords": "coding, computer screen, programmer, programming code"
-    },
-    {
       "title": "Where Human Sleep Went Wrong",
       "link": "https://nautil.us/where-human-sleep-went-wrong-1283797",
       "summary": "<p>Article URL: <a href=\"https://nautil.us/where-human-sleep-went-wrong-1283797\">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358259\">https://news.ycombinator.com/item?id=49358259</a></p>\n<p>Points: 47</p>\n<p># Comments: 32</p>",
@@ -1389,6 +1379,36 @@
       "ai_summary": "Історичний екскурс у минуле показує, як японські розробники намагалися створити універсальну операційну систему для всього світу. Проте цей амбітний проєкт зустрів жорсткий опір та втручання з боку уряду США через геополітичні та ринкові побоювання.",
       "ai_title": "Як США завадили Японії створити глобальну операційну систему",
       "video_keywords": "vintage computer, retro computer terminal, programming code on screen, server room"
+    },
+    {
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "link": "https://Argentic.network",
+      "summary": "<p>Article URL: <a href=\"https://Argentic.network\">https://Argentic.network</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384477\">https://news.ycombinator.com/item?id=49384477</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-21T06:24:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Запущено новий проєкт Argentic, який використовує протокол L402 Lightning для створення платних точок доступу для штучного інтелекту. Це дозволяє вебсайтам стягувати мікроплатежі з автономних AI-агентів за збір даних. Технологія покликана регулювати та монетизувати автоматизований парсинг інформації в інтернеті.",
+      "ai_title": "Argentic: платіжний шлюз для AI-агентів",
+      "video_keywords": "cryptocurrency, digital payment, futuristic interface, server room"
+    },
+    {
+      "title": "Stop Making TUIs",
+      "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "summary": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/\">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384210\">https://news.ycombinator.com/item?id=49384210</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
+      "published": "2026-08-21T05:37:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У новому блозі розробники критикують тенденцію масового створення текстових інтерфейсів користувача (TUI) у терміналах. На думку автора, сучасні проєкти часто ускладнюють те, що має залишатися простим командним рядком. Це викликає дискусію в спільноті щодо зручності та доцільності таких інтерфейсів.",
+      "ai_title": "Розробників закликають припинити створення TUI",
+      "video_keywords": "programmer typing, computer screen, terminal window, coding"
+    },
+    {
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "link": "https://github.com/vivekhaldar/seed",
+      "summary": "<p>Article URL: <a href=\"https://github.com/vivekhaldar/seed\">https://github.com/vivekhaldar/seed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384113\">https://news.ycombinator.com/item?id=49384113</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-21T05:20:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено Seed — новий відкритий проект, що є мінімальним каркасом для автономних AI-агентів здатних змінювати власний код. Інструмент розроблений для експериментів з саморефлексією та еволюцією штучного інтелекту. Він надає розробникам простий фундамент для створення адаптивних систем.",
+      "ai_title": "Seed: мінімалістичне середовище для самомодифікованих агентів",
+      "video_keywords": "matrix code, futuristic computer, digital animation, cyberspace"
     }
   ],
   "Бізнес / Стартапи": [
