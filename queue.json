@@ -1379,19 +1379,19 @@
       "ai_summary": "Компанії, що розробляють штучний інтелект, масово знищують фізичні книжки для навчання своїх моделей. Експерти наголошують на критичній необхідності зберегти та оцифрувати рідкісні екземпляри, поки вони не зникли назавжди. Це питання культурної спадщини та порятунку унікальної літератури від техногенного знищення.",
       "ai_title": "Знищення паперових книг заради ШІ: чому важливо оцифрувати рідкісні видання",
       "video_keywords": "burning books, library destruction, antique books, old library"
+    },
+    {
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "link": "https://github.com/openai/codex/issues/37674",
+      "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/37674\">https://github.com/openai/codex/issues/37674</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49383326\">https://news.ycombinator.com/item?id=49383326</a></p>\n<p>Points: 31</p>\n<p># Comments: 11</p>",
+      "published": "2026-08-21T03:17:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі зіткнулися з критичним багом при використанні моделі Codex на платформі Amazon Web Services Bedrock. Ця помилка спричинила несподіване завищення рахунків у десять разів, що викликало занепокоєння розробників.",
+      "ai_title": "Помилка в Codex на AWS Bedrock призвела до десятикратних переплат",
+      "video_keywords": "server rack, datacenter, credit card, calculator"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "published": "2026-08-19T10:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Relativity Networks зібрала 22 мільйони доларів інвестицій для впровадження унікальної технології порожнисто-серцевинного волокна. Ця інновація дозволяє передавати дані на 30% швидше порівняно зі звичайними оптоволоконними кабелями, що критично важливо для сучасних дата-центрів.",
-      "ai_title": "Relativity Networks залучила $22 мільйони на розробку швидших оптоволоконних мереж",
-      "video_keywords": "fiber optic cables, data center, server room, glowing wires"
-    },
     {
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
       "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
@@ -1984,16 +1984,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
-      "link": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
-      "summary": "",
-      "published": "2026-08-19T04:25:42+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалюта Solana демонструє стрімке зростання, тягнучи за собою біткоїн та Ethereum. Тим часом азіатські ринки стикаються з корекцією, зокрема корейські виробники чипів втрачають у ціні близько 7%.",
-      "ai_title": "Solana очолює зростання крипторинку на тлі падіння азіатських бірж",
-      "video_keywords": "cryptocurrency trading charts, digital coins screen, stock market decline, financial graphs"
-    },
     {
       "title": "MAYAChain halts network after estimated $1.7M exploit",
       "link": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
