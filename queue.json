@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI hit the brakes. Now what?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
-      "published": "2026-08-19T17:10:09+00:00",
-      "source": "The Verge",
-      "ai_summary": "На тлі наближення IPO та жорсткої конкуренції з боку Anthropic і китайських розробників, OpenAI вирішила призупинити деякі проєкти. Компанія бере паузу для посилення заходів безпеки та впровадження нових захисних механізмів у свої моделі.",
-      "ai_title": "OpenAI сповільнює темпи розробки заради безпеки",
-      "video_keywords": "server room, computer screen, typing, office worker"
-    },
-    {
-      "title": "Meta AI is getting a Mac app",
-      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
-      "published": "2026-08-19T17:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Meta анонсувала запуск десктопного додатку свого чат-бота для комп'ютерів Mac. Новий інструмент дозволяє ділитися вмістом екрана з штучним інтелектом для отримання порад, а також підтримує голосове диктування в будь-яких програмах.",
-      "ai_title": "Meta випускає окремий додаток Meta AI для macOS",
-      "video_keywords": "laptop, typing, modern office, hands on keyboard"
-    },
-    {
-      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-      "link": "https://demo.frugaltokens.com/",
-      "summary": "<p>I wanted to share a project I’ve been working on called Frugal Tokens. I originally built it because I was curious to see how much all of my sessions cost and how much cache misses affected that spend. I’d noticed people had widely different spend profiles and wanted to better understand what might contribute to that.<p>As I’ve worked on this, the tool has grown to show more usage patterns acro",
-      "published": "2026-08-19T17:07:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив проєкт Frugal Tokens для відстеження витрат і використання токенів у сеансах кодинг-агентів. Інструмент допомагає аналізувати бюджети та вплив кешу на загальну вартість роботи з ШІ.",
-      "ai_title": "Новий інструмент контролює витрати на штучний інтелект",
-      "video_keywords": "dashboard, computer screen, graphs, developer coding"
-    },
-    {
-      "title": "GTA VI keeps leaking ahead of its gameplay premiere",
-      "link": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-      "summary": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips seemingly showing off the game, though two have been pulled from the site I [&#8230;]",
-      "published": "2026-08-19T17:03:11+00:00",
-      "source": "The Verge",
-      "ai_summary": "Перед офіційною презентацією від Rockstar Games в інтернеті знову з'явилися короткі відео з майбутньої гри Grand Theft Auto VI. Витоки розкривають деякі деталі проєкту незадовго до його довгоочікуваного релізу в листопаді.",
-      "ai_title": "У мережі знову з'явилися зливи геймплею GTA VI",
-      "video_keywords": "video game controller, playing video game, screen, television"
-    },
-    {
       "title": "OpenRouter Is Joining Stripe",
       "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "summary": "<p>Article URL: <a href=\"https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/\">https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364559\">https://news.ycombinator.com/item?id=49364559</a></p>\n<p>Points: 41</p>\n<p># Comments: 16</p>",
@@ -1449,19 +1409,59 @@
       "ai_summary": "Мабутній флагман від Google може отримати спеціальні функції для створення знімків у стилі старих цифрових камер. Це відповідає сучасній тенденції на ностальгію за м'якшими та менш штучними фотографіями",
       "ai_title": "Смартфон Pixel 11 підтримає тренд на вінтажні цифрові камери",
       "video_keywords": "smartphone, taking photo, vintage camera, hands"
+    },
+    {
+      "title": "A self hosted AI software factory",
+      "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "summary": "<p>Article URL: <a href=\"https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/\">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390463\">https://news.ycombinator.com/item?id=49390463</a></p>\n<p>Points: 9</p>\n<p># Comments: 2",
+      "published": "2026-08-21T16:27:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник презентував концепцію повністю автономної пісочниці для створення програмного забезпечення силами ШІ. Проєкт працює локально та забезпечує повний цикл генерації та тестування коду без залучення хмарних сервісів. Це відкриває нові можливості для автоматизації рутинних завдань у програмуванні.",
+      "ai_title": "Створення автономної самостійної платформи для розробки ПЗ за допомогою штучного інтелекту",
+      "video_keywords": "server rack, flashing lights, developer typing, computer screen"
+    },
+    {
+      "title": "Kobo can run apps now",
+      "link": "https://bandarlabs.github.io/Cobalt/",
+      "summary": "<p>Article URL: <a href=\"https://bandarlabs.github.io/Cobalt/\">https://bandarlabs.github.io/Cobalt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390427\">https://news.ycombinator.com/item?id=49390427</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-21T16:25:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти знайшли спосіб розширити функціональність популярних рідерів Kobo, дозволивши їм виконувати звичайні застосунки. Це перетворює пристрої для читання на більш універсальні гаджети завдяки відкритій архітектурі. Користувачі тепер можуть налаштовувати інтерфейс та встановлювати додатковий софт.",
+      "ai_title": "Електронні книги Kobo тепер можуть запускати сторонні додатки",
+      "video_keywords": "e-reader, touching screen, reading book, digital tablet"
+    },
+    {
+      "title": "What happens when a GPU reads memory",
+      "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "summary": "<p>Article URL: <a href=\"https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory\">https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390308\">https://news.ycombinator.com/item?id=49390308</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-21T16:16:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технічний блог розглядає низькорівневі процеси, що відбуваються під час звернення відеокарти до пам'яті. Стаття детально пояснює архітектурні особливості GPU та шляхи оптимізації передачі даних. Матеріал буде корисним розробникам, які працюють із високонавантаженими обчисленнями та штучним інтелектом.",
+      "ai_title": "Як насправді працює читання пам'яті графічними процесорами",
+      "video_keywords": "microchip, circuit board, soldering iron, computer hardware"
+    },
+    {
+      "title": "Walmart is finally adding Apple Pay and Google Pay",
+      "link": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+      "summary": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting August 24th, before rolling out support to all US stores by the end of 2026 and gas stations [&#8230;]",
+      "published": "2026-08-21T17:01:59+00:00",
+      "source": "The Verge",
+      "ai_summary": "Торгова мережа Walmart оголосила про впровадження безконтактних платежів через смартфони у своїх магазинах. Спочатку функція з'явиться в окремих торгових точках, а до кінця року охопить усі супермаркети мережі в США. Це довгоочікуване оновлення значно спростить процес розрахунків для покупців.",
+      "ai_title": "Walmart нарешті додає підтримку Apple Pay та Google Pay",
+      "video_keywords": "smartphone, contactless payment, POS terminal, grocery store"
+    },
+    {
+      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+      "link": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+      "summary": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed on Thursday, Take-Two says copyrighted material includes \"audiovisual content, artwork, images, dialogue, or other creative elements\" and it is looking to identify \"alleged [&#823",
+      "published": "2026-08-21T16:52:56+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Take-Two Interactive звернулася до суду з вимогою розкрити дані через появу в мережі матеріалів із майбутньої гри Grand Theft Auto VI. Видавник намагається встановити особи осіб, які поширювали захищені авторським правом відео та зображення. Повістки були надіслані до Microsoft та Discord як платформ, де відбувався витік.",
+      "ai_title": "Microsoft та Discord отримали повістки через витоки геймплею GTA VI",
+      "video_keywords": "courtroom, legal document, computer monitor, typing keyboard"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
-      "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
-      "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
-      "published": "2026-08-19T17:26:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Американський мобільний оператор зміг запобігти масштабному злому своєї мережі. Служба безпеки компанії вчасно виявила кібершпигунів, пов'язаних з Китаю, та фізично заблокувала їм доступ.",
-      "ai_title": "T-Mobile відключила кабелі, щоб зупинити китайських хакерів у своїй мережі",
-      "video_keywords": "network cables, server room, fiber optic, cybersecurity monitors"
-    },
     {
       "title": "Researchers say OpenAI revoked their access to limited cyber program",
       "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
@@ -1994,16 +1994,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "OCC head promises final GENIUS rules by November",
-      "link": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OCC head promises final GENIUS rules by November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-us-genius-act.jpg\" /></p><p>The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its Jan",
-      "published": "2026-08-19T17:00:01+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Керівник банківського регулятора США пообіцяв затвердити остаточні правила в межах закону про стейблкоїни до листопада. Це рішення важливе для легалізації та подальшого розвитку ринку цифрових активів у країні.",
-      "ai_title": "Регулятори США планують фіналізувати правила для стейблкоїнів до листопада",
-      "video_keywords": "us currency, banking building, washington dc, digital finance"
-    },
     {
       "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
       "link": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2662,6 +2652,16 @@
       "ai_summary": "Недавній стрибок ціни біткоїна вище позначки у 79 000 доларів спричинив масове зростання акцій пов'язаних підприємств. Зокрема, суттєво додали в ціні компанії-майнери та фірми, що тримають цифрові активи у своїх резервах.",
       "ai_title": "Стрімке зростання біткоїна підняло акції криптокомпаній",
       "video_keywords": "stock market chart, digital trading screens, bitcoin currency, financial growth"
+    },
+    {
+      "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
+      "link": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png\" /></p><p>The RISE program would use the Canton Network to combine and distribute state-administered benefits across three US states b",
+      "published": "2026-08-21T16:25:29+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Фонд Пола Раяна спільно з компанією Digital Asset запускає пілотний проєкт RISE. Він спрямований на оптимізацію та розподіл державних пільг у трьох штатах США за допомогою блокчейн-платформи Canton Network.",
+      "ai_title": "У США планують виплачувати державні соціальні допомоги через блокчейн-мережу",
+      "video_keywords": "blockchain technology, digital currency, computer screen, financial data"
     }
   ]
 }
