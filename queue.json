@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Turns are Better than Radians",
-      "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "summary": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
-      "published": "2026-08-20T01:29:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті розглядається концепція використання обертів замість радіанів для обчислень у комп'ютерній графіці та програмуванні. Автор доводить, що такий підхід є більш інтуїтивним і дозволяє уникнути багатьох математичних похибок. Це покращує продуктивність та якість коду при роботі з кутами.",
-      "ai_title": "Чому повні оберти кращі за радіани в програмуванні",
-      "video_keywords": "geometic shapes, computer screen, programmer typing, math formulas"
-    },
-    {
       "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "link": "https://openai.com/index/asana/",
       "summary": "<p>Article URL: <a href=\"https://openai.com/index/asana/\">https://openai.com/index/asana/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49370862\">https://news.ycombinator.com/item?id=49370862</a></p>\n<p>Points: 12</p>\n<p># Comments: 14</p>",
@@ -1389,6 +1379,16 @@
       "ai_summary": "Платформа пропонує новий підхід до управління інформацією, де головними користувачами стають штучні агенти, а не люди. Проєкт замінює звичні дашборди та нотатки на спільний цифровий розум для ефективної спільної роботи.",
       "ai_title": "OzBrain: єдина база знань для штучного інтелекту та команди",
       "video_keywords": "futuristic interface, digital brain, glowing network, data visualization"
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "link": "https://danluu.com/perf-opt/",
+      "summary": "<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 40</p>\n<p># Comments: 26</p>",
+      "published": "2026-08-22T01:06:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує проблеми продуктивності сучасного софту та доводить, що за правильного підходу до розробки програми можуть працювати миттєво. На прикладах показано, як надлишок абстракцій та небажання оптимізувати код призводять до сповільнення роботи пристроїв. Це заклики до розробників серйозніше ставитися до швидкодії програм.",
+      "ai_title": "Чому сучасне програмне забезпечення більше не має бути повільним",
+      "video_keywords": "programmer typing code, computer monitor, software development, coding screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1891,19 +1891,29 @@
       "ai_summary": "Компанія Anthropic забороняє своїм моделям Claude генерувати відвертий контент. Проте журналісти TechCrunch провели тести і з'ясували, що ці захисні обмеження можна легко обійти.",
       "ai_title": "Штучний інтелект від Anthropic обходить власні заборони на контент для дорослих",
       "video_keywords": "artificial intelligence, computer screen, typing, warning sign"
+    },
+    {
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+      "published": "2026-08-22T01:31:04+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Майкл Поланскі роками таємно розробляв біотехнологічний стартап, який підтримує життя людської шкіри поза тілом для тестування косметики за допомогою штучного інтелекту. Тепер компанія вперше виходить із тіні та заявляє про свої технології на весь світ.",
+      "ai_title": "Стартап бойфренда Леді Гаги тренує штучний інтелект на живій шкірі",
+      "video_keywords": "laboratory microscope, petri dish, scientist hands, biological research"
+    },
+    {
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+      "published": "2026-08-22T01:03:06+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Космічна компанія Letara успішно залучила 2,6 мільярда єн для розширення свого бізнесу. Технологія гібридних ракетних двигунів тепер застосовуватиметься не лише для малих супутників, а й у сферах оборони та безпеки.",
+      "ai_title": "Японський космічний стартап залучив 16 мільйонів доларів для розвитку гібридних двигунів",
+      "video_keywords": "rocket launch, space tech, satellite in orbit, control room engineer"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
-      "link": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
-      "summary": "",
-      "published": "2026-08-20T04:29:56+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Різке зростання ціни біткоіна до позначки 70 000 доларів завдало рекордних збитків трейдерам, які ставили на падіння ринку. Масове закриття коротких позицій підштовхнуло вартість першої криптовалюти ще вище.",
-      "ai_title": "Беттори на падіння крипти втратили рекордні 2,7 млрд доларів через злет біткоіна",
-      "video_keywords": "bitcoin chart, cryptocurrency trading, trading screen, stock market crash"
-    },
     {
       "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
       "link": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
