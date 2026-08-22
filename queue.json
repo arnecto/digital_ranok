@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The August 17 outage, and the work ahead",
-      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378957\">https://news.ycombinator.com/item?id=49378957</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-20T19:22:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Команда GitHub опублікувала детальний розбір масштабного серпневого збою в роботі сервісу. Інженери проаналізували причини інциденту та окреслили подальші кроки для покращення стабільності платформи.",
-      "ai_title": "Уроки серпневого збою: як GitHub готується до нових викликів",
-      "video_keywords": "server room, data center, blinking lights, technician working"
-    },
-    {
       "title": "Riot is ending development on its League of Legends fighting game",
       "link": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
       "summary": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward sustainability.\" Servers will [&#8230;]",
@@ -39,16 +29,6 @@
       "ai_summary": "Стаття підіймає болючу тему подвійних стандартів у технологічній індустрії. Автор порівнює переслідування співзасновника RSS Аарона Шварца за збирання даних із ситуацією сьогодення, де компанія Meta робить те саме практично без жодних юридичних наслідків.",
       "ai_title": "Подвійні стандарти скрапінгу: справа Аарона Шварца та дії Meta",
       "video_keywords": "server room, data cables, computer monitor, typing on keyboard"
-    },
-    {
-      "title": "GitHub, autoscaling, and the component substitution fallacy",
-      "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-      "summary": "<p>Article URL: <a href=\"https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/\">https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49379026\">https://news.ycombinator.com/item?id=49379026</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p",
-      "published": "2026-08-20T19:28:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття аналізує роботу інфраструктури GitHub та процес автомасштабування. Автор розглядає поширену помилку в проєктуванні систем, коли складні компоненти замінюються без урахування їхньої глибокої взаємодії з іншими елементами.",
-      "ai_title": "Архітектура систем та пастка заміни компонентів",
-      "video_keywords": "server room, data center, computer code, developer typing"
     },
     {
       "title": "Google Discover is getting an AI chatbot-tuned feed",
