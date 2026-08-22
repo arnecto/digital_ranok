@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "summary": "<p>Article URL: <a href=\"https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/\">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49379550\">https://new",
-      "published": "2026-08-20T20:07:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття підіймає болючу тему подвійних стандартів у технологічній індустрії. Автор порівнює переслідування співзасновника RSS Аарона Шварца за збирання даних із ситуацією сьогодення, де компанія Meta робить те саме практично без жодних юридичних наслідків.",
-      "ai_title": "Подвійні стандарти скрапінгу: справа Аарона Шварца та дії Meta",
-      "video_keywords": "server room, data cables, computer monitor, typing on keyboard"
-    },
-    {
       "title": "Google Discover is getting an AI chatbot-tuned feed",
       "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
@@ -1013,6 +1003,16 @@
       "ai_summary": "Розробник створив спосіб виділити логотипи на платформах на кшталт LinkedIn за допомогою спеціальної карти підсилення (gain-map). Цей ефект робить зображення помітно білішим і яскравішим виключно на сучасних пристроях з підтримкою HDR, таких як нові MacBook Pro. Технологію можна легко впроваджувати на власних вебсайтах для привернення уваги користувачів.",
       "ai_title": "Як зробити логотип надзвичайно яскравим на HDR-екранах",
       "video_keywords": "laptop screen, glowing logo, designer working, modern display"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "summary": "<p>Article URL: <a href=\"https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\">https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402232\">https://news.ycombinator.com/item?id=49402232</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-22T18:14:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Обговорення технічних нюансів та обмежень локального запуску штучного інтелекту. Користувачі часто стикаються з проблемою зниження ефективності моделей через неправильні налаштування чи апаратні обмеження. Стаття допомагає зрозуміти, як вичавити максимум з локальних ШІ-систем.",
+      "ai_title": "Чому ваша локальна мовна модель здається дурнішою, ніж є на справді",
+      "video_keywords": "computer monitor, typing on keyboard, AI code, server room"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1345,19 +1345,19 @@
       "ai_summary": "Британський стартап Inherent, заснований колишніми співробітниками DeepMind, презентував штучний інтелект Faraday. Новий AI-агент продемонстрував вищу ефективність у відтворенні наукових досліджень порівняно з передовими аналогами від Anthropic та OpenAI, що може суттєво прискорити інновації у науці.",
       "ai_title": "Експерти DeepMind створили AI-агента, який перевершив моделі Anthropic та OpenAI",
       "video_keywords": "artificial intelligence, computer screen, software developer, modern office"
+    },
+    {
+      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+      "published": "2026-08-22T20:24:20+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Американські регулятори зацікавилися місцями в радах директорів стартапів, які займають представники венчурних фондів. Це розслідування щодо Andreessen Horowitz може створити новий прецедент і змінити правила гри для всього венчурного ринку.",
+      "ai_title": "Чому розслідування Мін'юсту США проти a16z лякає венчурних інвесторів",
+      "video_keywords": "business meeting, boardroom, businessmen talking, office handshake"
     }
   ],
   "Крипта": [
-    {
-      "title": "Binance opens crypto trading to AI agents with user-set controls",
-      "link": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance opens crypto trading to AI agents with user-set controls\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-1.png\" /></p><p>Binance’s Agent OS lets AI agents access market data, execute trades and make payments while giving users c",
-      "published": "2026-08-20T20:26:28+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна біржа Binance інтегрувала штучний інтелект у торгові процеси. Нова система Agent OS дозволяє автономним агентам аналізувати ринок, виконувати угоди та здійснювати платежі за встановленими користувачем лімітами.",
-      "ai_title": "Binance дозволила штучному інтелекту торгувати криптовалютою",
-      "video_keywords": "artificial intelligence, crypto trading, computer screen, futuristic technology"
-    },
     {
       "title": "Bitcoin breaks above 200-day moving average for first time since November",
       "link": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
