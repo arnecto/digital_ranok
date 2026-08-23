@@ -1,12 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models": {
-    "title": "Як Capital One створила корпоративну AI-платформу на відкритих моделях",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-08-15T09:52:09.071757+03:00",
-    "summary": "Представники банку Capital One поділилися досвідом створення масштабованої мультиагентної архітектури штучного інтелекту. Замість готових рішень вони обрали глибоко кастомізовані моделі з відкритими вагами.",
-    "video_keywords": "server room, data center, software engineer typing, analytics dashboards",
-    "link": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models"
-  },
   "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale": {
     "title": "Японська компанія Metaplanet залучає $1,3 мільйона через випуск біткоїн-облігацій",
     "category": "Крипта",
@@ -1142,5 +1134,13 @@
     "summary": "Криптовалюта MANTRA досягла історичного мінімуму на тлі зупинки роботи мережі. Причиною стала експлуатація вразливості у блокчейні, яка змусила розробників призупинити транзакції.",
     "video_keywords": "cryptocurrency chart, red candles, stock market crash, computer code",
     "link": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit"
+  },
+  "https://encore.dev/blog/firecracker-apple-silicon": {
+    "title": "Перенесення стеку Linux MicroVM на чіпи Apple Silicon",
+    "category": "IT / AI",
+    "posted_at": "2026-08-23T09:56:44.110661+03:00",
+    "summary": "Розробники успішно адаптували та перезібрали стек віртуальних машин Linux для роботи на апаратній архітектурі Apple Silicon. Це відкриває нові можливості для ефективної віртуалізації та розробки на сучасних комп'ютерах Mac. Проєкт значно покращує продуктивність та сумісність систем.",
+    "video_keywords": "macbook, computer processor, circuit board, developer typing",
+    "link": "https://encore.dev/blog/firecracker-apple-silicon"
   }
 }
