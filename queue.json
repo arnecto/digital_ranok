@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Pixel 11 gets in on the digicam trend",
-      "link": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
-      "summary": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a phone in years. That might be changing, though. [&#8230;]",
-      "published": "2026-08-21T16:27:05+00:00",
-      "source": "The Verge",
-      "ai_summary": "Мабутній флагман від Google може отримати спеціальні функції для створення знімків у стилі старих цифрових камер. Це відповідає сучасній тенденції на ностальгію за м'якшими та менш штучними фотографіями",
-      "ai_title": "Смартфон Pixel 11 підтримає тренд на вінтажні цифрові камери",
-      "video_keywords": "smartphone, taking photo, vintage camera, hands"
-    },
-    {
-      "title": "A self hosted AI software factory",
-      "link": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "summary": "<p>Article URL: <a href=\"https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/\">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390463\">https://news.ycombinator.com/item?id=49390463</a></p>\n<p>Points: 9</p>\n<p># Comments: 2",
-      "published": "2026-08-21T16:27:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник презентував концепцію повністю автономної пісочниці для створення програмного забезпечення силами ШІ. Проєкт працює локально та забезпечує повний цикл генерації та тестування коду без залучення хмарних сервісів. Це відкриває нові можливості для автоматизації рутинних завдань у програмуванні.",
-      "ai_title": "Створення автономної самостійної платформи для розробки ПЗ за допомогою штучного інтелекту",
-      "video_keywords": "server rack, flashing lights, developer typing, computer screen"
-    },
-    {
       "title": "Walmart is finally adding Apple Pay and Google Pay",
       "link": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
       "summary": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting August 24th, before rolling out support to all US stores by the end of 2026 and gas stations [&#8230;]",
@@ -29,26 +9,6 @@
       "ai_summary": "Торгова мережа Walmart оголосила про впровадження безконтактних платежів через смартфони у своїх магазинах. Спочатку функція з'явиться в окремих торгових точках, а до кінця року охопить усі супермаркети мережі в США. Це довгоочікуване оновлення значно спростить процес розрахунків для покупців.",
       "ai_title": "Walmart нарешті додає підтримку Apple Pay та Google Pay",
       "video_keywords": "smartphone, contactless payment, POS terminal, grocery store"
-    },
-    {
-      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
-      "link": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
-      "summary": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed on Thursday, Take-Two says copyrighted material includes \"audiovisual content, artwork, images, dialogue, or other creative elements\" and it is looking to identify \"alleged [&#823",
-      "published": "2026-08-21T16:52:56+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Take-Two Interactive звернулася до суду з вимогою розкрити дані через появу в мережі матеріалів із майбутньої гри Grand Theft Auto VI. Видавник намагається встановити особи осіб, які поширювали захищені авторським правом відео та зображення. Повістки були надіслані до Microsoft та Discord як платформ, де відбувався витік.",
-      "ai_title": "Microsoft та Discord отримали повістки через витоки геймплею GTA VI",
-      "video_keywords": "courtroom, legal document, computer monitor, typing keyboard"
-    },
-    {
-      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-      "link": "https://github.com/proliferate-ai/proliferate",
-      "summary": "<p>Hi HN- I'm Pablo, the founder of Proliferate!<p>Proliferate (<a href=\"https://github.com/proliferate-ai/proliferate\" rel=\"nofollow\">https://github.com/proliferate-ai/proliferate</a>) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in one place.<p>Here's a quick 2m demo of how we use Proliferate to build Proliferat",
-      "published": "2026-08-21T16:47:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив проєкт Proliferate — відкрите середовище розробки, яке дозволяє об'єднати популярні AI-моделі та агенти в єдиній платформі. Інструмент розрахований на локальне розгортання та автоматизацію завдань програмування.",
-      "ai_title": "З'явився новий open-source інструмент Proliferate для роботи з різними AI-агентами",
-      "video_keywords": "programmer typing code, computer monitor, modern office, software developer"
     },
     {
       "title": "Rebuilding our Electron meeting-recording engine in Swift",
@@ -79,16 +39,6 @@
       "ai_summary": "На честь свого 60-річчя американський ритейлер Best Buy запропонує покупцям унікальну акцію: подарункову картку номіналом 100 доларів можна буде придбати всього за 60 доларів. Пропозиція діятиме лише один день у суботу та обмежена наявністю товарів у магазинах.",
       "ai_title": "Best Buy влаштовує масштабний розпродаж подарункових карток зі знижкою 40%",
       "video_keywords": "retail store, shopping checkout, gift cards, cash register"
-    },
-    {
-      "title": "Another better lower bound for n=17 square packing",
-      "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-      "summary": "<p>Article URL: <a href=\"http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html\">http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390775\">https://news.ycombinator.com/item?id=49390775</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-21T16:50:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники покращили нижню межу для задачі пакування квадратів для випадку n=17. Це досягнення демонструє нові підходи до розв'язання складних комбінаторних та геометричних завдань оптимізації.",
-      "ai_title": "Прогрес у математичному пакуванні квадратів",
-      "video_keywords": "geometry, grid, mathematics, puzzle, squares"
     },
     {
       "title": "Apple is laying off staffers working on the Vision Pro and Siri",
@@ -771,26 +721,6 @@
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
-      "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
-      "published": "2026-08-21T16:53:39+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Антимонопольний підрозділ Мін'юсту США вже майже рік перевіряє діяльність венчурного гіганта Andreessen Horowitz. Причиною стало те, що партнери фонду одночасно входять до рад директорів компаній-конкурентів, що може порушувати закони про захист конкуренції.",
-      "ai_title": "Міністерство юстиції США розслідує зв'язки венчурного фонду Andreessen Horowitz",
-      "video_keywords": "corporate boardroom, business meeting, handshake, office building exterior"
-    },
-    {
-      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
-      "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
-      "summary": "<p>When an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs and latency. This is a major bottleneck for enterprises building long-horizon, multi-LLM workflows.</p><p>To solve this challenge, researchers at Nvidia have introduced a <a href=",
-      "published": "2026-08-21T16:33:56+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Дослідники Nvidia розробили метод лінійної математики для передачі завдань між різними моделями ШІ. Це дозволяє уникнути повторного оброблення даних і значно зменшує затримки та витрати на обчислення для бізнесу.",
-      "ai_title": "Nvidia знайшла спосіб оптимізувати роботу штучного інтелекту та знизити витрати",
-      "video_keywords": "server room, microchip, computer monitor, glowing data lines"
-    },
     {
       "title": "Waymo hands over documents in NHTSA’s child collision probe",
       "link": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
