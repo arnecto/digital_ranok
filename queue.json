@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-      "link": "https://canews24.online/?p=71",
-      "summary": "<p>Article URL: <a href=\"https://canews24.online/?p=71\">https://canews24.online/?p=71</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389565\">https://news.ycombinator.com/item?id=49389565</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-21T15:25:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нове дослідження показало, що використання штучного інтелекту допомагає учням покращити результати виконання домашніх завдань на 18%. Проте під час наступних іспитів їхні оцінки різко падають на 20%, оскільки студенти гірше засвоюють матеріал самостійно.",
-      "ai_title": "Вплив штучного інтелекту на навчання: домашні завдання кращі, а іспити гірші",
-      "video_keywords": "student, laptop, classroom, studying"
-    },
-    {
-      "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
-      "link": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-      "summary": "<p>Article URL: <a href=\"https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md\">https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389493\">https://news.ycombinator.com/item?id=49389493</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-21T15:21:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили AgentSight — нове рішення на базі eBPF для моніторингу та спостереження за поведінкою автономних ШІ-агентів. Головна перевага системи полягає в тому, що вона працює без необхідності внесення змін до вихідного коду застосунку.",
-      "ai_title": "AgentSight: інструмент спостереження за ШІ-агентами без зміни коду",
-      "video_keywords": "coding, software developer, computer screen, dashboard"
-    },
-    {
-      "title": "Show HN: A desktop fly drawn to the scent of vibecode",
-      "link": "https://github.com/kulikov0/desktop-vibe-fly",
-      "summary": "<p>It is a fork of <a href=\"https://github.com/DenisSergeevitch/desktop-fly\" rel=\"nofollow\">https://github.com/DenisSergeevitch/desktop-fly</a>, but with an important update.<p>Now the fly can pick up the scent of the codebase with its neurons and fly straight to the source code of your B2B AI SaaS startup. It has learned to scan its surroundings for agent markers: AGENTS.md, CLAUDE.md, .cursor/ru",
-      "published": "2026-08-21T15:19:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився цікавий десктопний проєкт віртуальної мухи, яка за допомогою імітації нейронів відчуває запах вихідного коду. Програма здатна сканувати оточення на наявність маркерів розробки та прямувати безпосередньо до файлів проєкту.",
-      "ai_title": "Незвичний проєкт: віртуальна муха, яка летить на запах кодової бази",
-      "video_keywords": "desktop computer, flying insect, programmer desk, animation"
-    },
-    {
       "title": "Omacom Foundation Launches with $8M",
       "link": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
       "summary": "<p>Article URL: <a href=\"https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/\">https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390132\">https://news.ycombinator.com/item?id=49390132</a></p>\n<p>Points: 52</p>\n<p># Comments: 31</p>",
@@ -49,16 +19,6 @@
       "ai_summary": "Розробники поділилися досвідом створення нової моделі перетворення тексту на мовлення. Їм вдалося досягти рекордного часу відгуку менш ніж у 50 мілісекунд за оптимальної вартості.",
       "ai_title": "Штучний інтелект для синтезу мови тепер відповідає швидше ніж за 50 мілісекунд",
       "video_keywords": "microphone, audio recording, computer screen, sound wave"
-    },
-    {
-      "title": "Code Obfuscation via Local Mixing",
-      "link": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
-      "summary": "<p>Article URL: <a href=\"https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html\">https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389339\">https://news.ycombinator.com/item?id=49389339</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-21T15:11:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У новій технічній статті розглядається метод захисту програмного забезпечення шляхом локального перемішування коду. Такий підхід ускладнює реверс-інжиніринг та підвищує загальну безпеку додатків.",
-      "ai_title": "Обфускація коду за допомогою локального мікшування",
-      "video_keywords": "coding, programmer, monitor, software code"
     },
     {
       "title": "Pixel 11 gets in on the digicam trend",
@@ -149,16 +109,6 @@
       "ai_summary": "Згідно з новим звітом CBRE, ринок нерухомості Нью-Йорка наразі приймає найбільшу кількість технологічних працівників. Це свідчить про зміну тенденцій у географічному розподілі IT-талантів.",
       "ai_title": "New York обійшов інші міста за кількістю IT-фахівців в офісах",
       "video_keywords": "new york skyline, skyscrapers, modern office building, business district"
-    },
-    {
-      "title": "Felony Bench",
-      "link": "https://www.felonybench.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.felonybench.com/\">https://www.felonybench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389430\">https://news.ycombinator.com/item?id=49389430</a></p>\n<p>Points: 94</p>\n<p># Comments: 37</p>",
-      "published": "2026-08-21T15:17:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий вебсайт Felony Bench стрімко набирає популярність на Hacker News та викликає жваві обговорення серед користувачів. Платформа пропонує специфічні дані та інструменти, пов'язані з правовою системою.",
-      "ai_title": "Платформа Felony Bench привертає увагу користувачів мережі",
-      "video_keywords": "gavel, courtroom, legal documents, judge bench"
     },
     {
       "title": "Rebuilding our Electron meeting-recording engine in Swift",
@@ -848,6 +798,16 @@
       "ai_summary": "Автор статті аналізує еволюцію веб-дизайну та закликає відмовитися від звичних пікселів на користь адаптивніших одиниць вимірювання. Це дозволяє створювати гнучкіші інтерфейси, які ідеально масштабуються на будь-яких пристроях від смартфона до великого монітора.",
       "ai_title": "Смерть пікселям: чому веб-розробка переходить на нові одиниці виміру",
       "video_keywords": "web design, computer screen, coding, developerhands"
+    },
+    {
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "summary": "<p>Article URL: <a href=\"https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409200\">https://news.ycombinator.com/item?id=49409200</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-23T14:38:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У камерах дорожнього руху на території Словаччини знайдено вбудований російський код, який може становити загрозу національній безпеці. Експерти з кібербезпеки занепокоєні потенційними ризиками несанкціонованого доступу до критичної інфраструктури. Наразі профільні відомства проводять ретельне розслідування цього інциденту.",
+      "ai_title": "У Словаччині виявили російський прихований код у камерах контролю швидкості",
+      "video_keywords": "speed camera, traffic surveillance, computer code, hacking screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1100,6 +1060,16 @@
       "ai_summary": "Більшість авторів неосвідомо стали донорами для розвитку систем штучного інтелекту, які тепер загрожують їхнім доходам. Юристи досі сперечаються про законність такого використання інтелектуальної власності.",
       "ai_title": "Чи законно тренувати ШІ на захищених авторським правом книгах?",
       "video_keywords": "author writing, books library, modern office, person typing"
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "published": "2026-08-23T15:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Flock Safety зіткнулася з різкою критикою громадськості через занепокоєння щодо можливого зловживання її технологіями стеження. Керівництво компанії закликає до компромісу та діалогу для вирішення конфлікту.",
+      "ai_title": "Скандал навколо систем відеоспостереження Flock Safety",
+      "video_keywords": "security cameras, cctv, surveillance camera, police technology"
     }
   ],
   "Крипта": [
