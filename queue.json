@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "summary": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/8/7.html\">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402741\">https://news.ycombinator.com/item?id=49402741</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-08-22T19:04:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Apple поступово відмовляється від звичних інструментів командного рядка у нових версіях операційної системи. Це змінить звичні робочі процеси розробників та системних адміністраторів, які працювали з образами дисків. Необхідно заздалегідь адаптувати свої скрипти до нових стандартів.",
-      "ai_title": "У macOS 27 застаріла утиліта hdiutil",
-      "video_keywords": "terminal window, programmer typing, macbook screen, coding interface"
-    },
-    {
-      "title": "Show HN: Make your logo extra bright on HDR screens",
-      "link": "https://www.soverybright.com/",
-      "summary": "<p>Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them.<p>I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I've found that isn't stripping them out, but of course you serve them up on your own site.<p>I worked with Claud",
-      "published": "2026-08-22T18:43:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив спосіб виділити логотипи на платформах на кшталт LinkedIn за допомогою спеціальної карти підсилення (gain-map). Цей ефект робить зображення помітно білішим і яскравішим виключно на сучасних пристроях з підтримкою HDR, таких як нові MacBook Pro. Технологію можна легко впроваджувати на власних вебсайтах для привернення уваги користувачів.",
-      "ai_title": "Як зробити логотип надзвичайно яскравим на HDR-екранах",
-      "video_keywords": "laptop screen, glowing logo, designer working, modern display"
-    },
-    {
       "title": "Knowing When to Stop: The Art of Making a Loop Converge",
       "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
       "summary": "<p>Article URL: <a href=\"https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/\">https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49403484\">https://news.ycombinator.com/item?id=49403484</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
@@ -404,6 +384,41 @@
       "ai_summary": "Федеральна торгова комісія США та компанія Zillow оголосили про мирової угоди, яка закриває справу щодо партнерства компаній у сфері оренди нерухомості. Регулятор підозрював партнерів у порушенні антимонопольного законодавства через ексклюзивні умови угод. Тепер справа офіційно закрита після врегулювання претензій.",
       "ai_title": "Zillow та Redfin врегулювали антимонопольний позов FTC через оренду житла",
       "video_keywords": "office building, business meeting, handshake, corporate documents"
+    },
+    {
+      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+      "link": "https://textlog.cc/post/2059",
+      "summary": "<p>Article URL: <a href=\"https://textlog.cc/post/2059\">https://textlog.cc/post/2059</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424167\">https://news.ycombinator.com/item?id=49424167</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-24T18:45:43+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Anger, Anxiety and Agency",
+      "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+      "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/\">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424082\">https://news.ycombinator.com/item?id=49424082</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-24T18:37:24+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+      "link": "https://github.com/getkern/kern",
+      "summary": "<p>Article URL: <a href=\"https://github.com/getkern/kern\">https://github.com/getkern/kern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423927\">https://news.ycombinator.com/item?id=49423927</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-08-24T18:24:59+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Your \"File\" Menu Isn't About Files",
+      "link": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
+      "summary": "<p>Article URL: <a href=\"https://adam.farkas.pro/your-file-menu-isnt-about-files/\">https://adam.farkas.pro/your-file-menu-isnt-about-files/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423886\">https://news.ycombinator.com/item?id=49423886</a></p>\n<p>Points: 9</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-24T18:21:48+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "What Is a Syslog Server?",
+      "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+      "summary": "<p>Article URL: <a href=\"https://blog.greencloudvps.com/what-is-a-syslog-server.php\">https://blog.greencloudvps.com/what-is-a-syslog-server.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423799\">https://news.ycombinator.com/item?id=49423799</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
+      "published": "2026-08-24T18:15:50+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
@@ -599,16 +614,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
-      "summary": "",
-      "published": "2026-08-23T15:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Обсяг транзакцій через криптовалютні платіжні картки подолав позначку в один мільярд доларів. Це свідчить про те, що стейблкоїни все активніше використовуються для повсякденних покупок та стають частиною звичайного фінансового життя.",
-      "ai_title": "Витрати через криптокартки перевищили 1 мільярд доларів завдяки стейблкоїнам",
-      "video_keywords": "credit card, contactless payment, smartphone tap, shopping checkout"
-    },
     {
       "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
       "link": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
