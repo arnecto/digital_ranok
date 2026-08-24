@@ -1,20 +1,4 @@
 {
-  "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain": {
-    "title": "Уразливість RCE у Ruby 4.0: нова ланцюгова вразливість десеріалізації",
-    "category": "IT / AI",
-    "posted_at": "2026-08-16T08:47:58.238559+03:00",
-    "summary": "Експерти з безпеки виявили критичний ланцюжок вразливостей десеріалізації в Ruby 4.0, який потенційно може призвести до віддаленого виконання коду. Це ставить під загрозу вебдодатки та сервери, що використовують вразливі компоненти цієї версії мови програмування. Розробникам рекомендується уважно стежити за оновленнями безпеки та патчами.",
-    "video_keywords": "cybersecurity, hacker coding, computer screen, binary code",
-    "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain"
-  },
-  "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/": {
-    "title": "Суди в США почнуть публікувати дані про використання шпигунського ПЗ",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-08-16T10:04:24.209263+03:00",
-    "summary": "Адміністративне управління судів США повідомило, що вперше почне розкривати інформацію про кількість судових дозволів на використання шпигунського програмного забезпечення для прослуховування підозрюваних. Це рішення спрямоване на підвищення прозорості дій правоохоронних органів та державного нагляду за цифровим стеженням.",
-    "video_keywords": "courtroom, judge gavel, computer screen, surveillance",
-    "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/"
-  },
   "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb": {
     "title": "Біткоїн впав нижче 63 000 доларів на тлі зростання цін на нафту",
     "category": "Крипта",
@@ -1150,5 +1134,13 @@
     "summary": "Криптовалюта Zcash подолала позначку в 800 доларів завдяки заявкам компанії Grayscale на створення спотового ETF. Це викликало новий хвилю інтересу інвесторів, які порівнюють актив із першим біткоїном.",
     "video_keywords": "cryptocurrency trading screen, stock market chart, digital coins, financial growth",
     "link": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016"
+  },
+  "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi": {
+    "title": "Легендарний мікропроцесор Z80 досі у строю",
+    "category": "IT / AI",
+    "posted_at": "2026-08-24T10:15:53.124796+03:00",
+    "summary": "Культовий процесор 1970-х років Z80 продовжує використовуватися у сучасних електронних пристроях та ентузіастських проєктах. Це свідчить про неймовірну довговічність та надійність архітектури, яка заклала фундамент для сучасних комп'ютерів.",
+    "video_keywords": "microchip, circuit board, soldering iron, vintage computer",
+    "link": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi"
   }
 }
