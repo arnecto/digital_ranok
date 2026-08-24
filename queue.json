@@ -1,23 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "summary": "Citing \"significant increases in memory and storage component costs,\" in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick [&#8230;]",
-      "published": "2026-08-22T13:41:01+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Amazon підняла ціни на популярні пристрої Echo, Fire TV, Kindle та Eero на термін до 60%. Головною причиною такого кроку названо значне зростання вартості компонентів пам'яті та накопичувачів.",
-      "ai_title": "Amazon різко підвищила ціни на гаджети через дорожчу пам'ять",
-      "video_keywords": "amazon device, smart speaker, shopping cart, price tag"
-    },
-    {
-      "title": "The New MCP Roadmap",
-      "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "summary": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399591\">https://news.ycombinator.com/item?id=49399591</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
-      "published": "2026-08-22T13:31:34+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
       "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
       "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
       "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs\">https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399941\">https://news.ycombinator.com/item?id=49399941</a></p>\n<p>Points: 7</p>\n<p># Comments:",
@@ -26,16 +9,6 @@
       "ai_summary": "Дехто з творчих працівників у Голлівуді змушений брати участь у тренуванні систем штучного інтелекту, що неминуче призводить до втрати їхніх власних робочих місць у майбутньому. Це викликає серйозні занепокоєння в індустрії щодо етики використання новітніх технологій та майбутнього професії.",
       "ai_title": "Голлівудські митці навчають штучний інтелект виконувати їхню роботу",
       "video_keywords": "person typing computer, empty office, studio lights, sad expression"
-    },
-    {
-      "title": "A Friendly Introduction to Racket",
-      "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "summary": "<p>Article URL: <a href=\"https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399898\">https://news.ycombinator.com/item?id=49399898</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-22T14:08:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття пропонує легкий та зрозумілий посібник для початківців, які хочуть ознайомитися з функціональною мовою програмування Racket. Автор розбирає базові концепції на простих прикладах, роблячи поріг входження мінімальним для новачків.",
-      "ai_title": "Дружній вступ до мови програмування Racket",
-      "video_keywords": "computer screen, programming code, typing on keyboard, developer workspace"
     },
     {
       "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
@@ -451,6 +424,16 @@
       "ai_summary": "Конფіденційна та безпечна операційна система GrapheneOS анонсувала плани офіційної підтримки смартфонів Motorola. Спочатку оновлення отримають традиційні флагмани, а згодом — складані пристрої та бюджетні моделі бренду.",
       "ai_title": "Безпечна ОС GrapheneOS з'явиться на складених смартфонах Motorola",
       "video_keywords": "smartphone folding screen, mobile phone privacy, modern device tech"
+    },
+    {
+      "title": "Netflix reportedly considers opening its app to other streamers",
+      "link": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "summary": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell subscriptions to the other services or add their content to its app. [&#8230;]",
+      "published": "2026-08-24T13:47:14+00:00",
+      "source": "The Verge",
+      "ai_summary": "Керівництво Netflix обговорює додавання сторонніх платформ, таких як Peacock та Fox One, до власної екосистеми. Наразі невідомо, чи продаватимуться підписки на ці сервіси окремо, чи їхній контент безпосередньо увійде до каталогу Netflix.",
+      "ai_title": "Netflix розглядає можливість інтеграції інших стримінгових сервісів у свій додаток",
+      "video_keywords": "smartphone screen, streaming app, television remote, digital interface"
     }
   ],
   "Бізнес / Стартапи": [
@@ -603,49 +586,29 @@
       "ai_summary": "Компанія Anthropic презентувала оновлення Claude Tag для Slack, яке дозволяє штучному інтелекту аналізувати весь контекст листування команд. Тепер агент може самостійно включатися в робочі дискусії без додаткових запитів, що має спростити спільну роботу з AI в корпоративному середовищі.",
       "ai_title": "Anthropic навчила агента Claude для Slack читати всю історію чату та самостійно долучатися до розмов",
       "video_keywords": "person typing on laptop, office workplace, slack app screen, teamwork meeting"
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "published": "2026-08-24T13:47:26+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Популярна платформа штучного інтелекту розглядає пропозиції про поглинання, які оцінюють її у колосальну суму. Проте через високу відповідальність засновників перед спільнотою експерти сумніваються, що угода зрештою відбудеться.",
+      "ai_title": "Hugging Face веде переговори про продаж компанії за $13 мільярдів",
+      "video_keywords": "server room, data center, computer screen, software developer"
+    },
+    {
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "published": "2026-08-24T13:45:15+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанії об'єднують зусилля на ринку нутриціології та здорового харчування, який стрімко зростає завдяки популярності нових ліків на кшталт GLP-1. Керівництво новою об'єднаною структурою здійснюватимуть засновники обох стартапів.",
+      "ai_title": "Американський стартап Berry Street об'єднується з індійською Healthify на тлі тренду на препарати для схуднення",
+      "video_keywords": "healthy food, smartphone app, business handshake, modern office"
     }
   ],
   "Крипта": [
-    {
-      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MiCA is coming for DeFi vaults, but regulation will be difficult\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg\" /></p><p>Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lendin",
-      "published": "2026-08-22T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Європейські регулятори розглядають можливість поширення норм закону MiCA на сферу децентралізованих фінансів (DeFi). Проте експерти зазначають, що ефективне регулювання криптокредитних сховищ буде надзвичайно складним через децентралізовану природа технології.",
-      "ai_title": "Регулятори ЄС беруться за DeFi: чи зможе MiCA контролювати криптокредитування?",
-      "video_keywords": "eu flag, digital tablet, stock market chart, financial regulations"
-    },
-    {
-      "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-      "link": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-      "summary": "",
-      "published": "2026-08-22T14:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Керівник Fairmint застерігає, що стрімке зростання токенізованих цінних паперів загрожує повторенням адміністративного хаосу 1960-х років. Без належної інфраструктури ринок може зіткнутися з масовими затримками розрахунків та регуляторними проблемами.",
-      "ai_title": "Токенізовані акції можуть повторити \"паперову кризу\" Волл-стріт",
-      "video_keywords": "stock market trading floor, digital tokens, financial charts, computer screens"
-    },
-    {
-      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-      "summary": "",
-      "published": "2026-08-22T13:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярна платформа прогнозів Kalshi опинилася під ударом регуляторів у низці американських штатів. Ситуація загострилася на тлі юридичного протистояння платформи з Комісією з торгівлі товарними ф'ючерсами (CFTC).",
-      "ai_title": "Предиктивні ринки Kalshi забороняють у кількох штатах через конфлікт з CFTC",
-      "video_keywords": "gavel, courthouse, law books, financial graph going down"
-    },
-    {
-      "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
-      "summary": "",
-      "published": "2026-08-22T14:10:17+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярна Web3-ігрова платформа The Sandbox була змушена тимчасово призупинити роботу мостів для мереж Base та BNB Chain через виявлений експлойт. Команда проєкту оперативно відреагувала на загрозу, щоб захистити активи користувачів і запобігти подальшим втратам. Наразі розробники проводять ретельний аудит безпеки та з'ясовують масштаб можливих збитків.",
-      "ai_title": "Sandbox зупиняє кросчейн-мости після зльому мережі",
-      "video_keywords": "hacker typing on computer, digital code screen, cybersecurity threat, cryptocurrency security"
-    },
     {
       "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
       "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
@@ -982,6 +945,36 @@
       "ai_summary": "Компанія вирішила тимчасово утриматися від придбання нових біткоїнів. Натомість після залучення коштів було сформовано значний доларовий резерв.",
       "ai_title": "Strategy запускає грошовий пул на 1,6 мільярда доларів без купівлі біткоїна",
       "video_keywords": "stacks of us dollars, counting money, bank vault, financial safety"
+    },
+    {
+      "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
+      "link": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zondacrypto boss seeks leniency for testimony on political ties: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-poland-1.jpg\" /></p><p>Przemysław Kral reportedly faces a fraud charge and is cooperating with Polish prosecutors as estimated customer losses reach $650 mil",
+      "published": "2026-08-24T14:00:51+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Керівник криптобіржі Zondacrypto Пшемислав Крал співпрацює з польськими прокурорами у справі про шахрайство. Збитки клієнтів оцінюються у 650 мільйонів доларів, а сам бізнесмен прагне пом'якшення вироку в обмін на свідчення.",
+      "ai_title": "Очільник Zondacrypto пішов на угоду зі слідством щодо політичних зв'язків",
+      "video_keywords": "courtroom, handcuffed person, police investigation, politician press conference"
+    },
+    {
+      "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
+      "link": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/gracy-chen.jpg\" /></p><p>Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early ",
+      "published": "2026-08-24T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Генеральна директорка біржі Bitget Грейсі Чен скептично оцінює поточне зростання флагманської криптовалюти. Вона вважає ралі нестійким і планує масово купувати BTC лише після корекції до позначки у 50 000 доларів.",
+      "ai_title": "Голова Bitget очікує падіння біткоїна до 50 тисяч доларів",
+      "video_keywords": "stock market crash, person looking at computer screen, stressed trader, digital charts"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
+      "published": "2026-08-24T12:55:25+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Щоденний огляд найважливіших трендів та новин блокчейн-індустрії. Аналітика подій, що безпосередньо впливають на ціну біткоїна, розвиток DeFi та екосистеми Web3.",
+      "ai_title": "Головні події на крипторинку за день",
+      "video_keywords": "cryptocurrency ticker, glowing computer monitors, financial data analytics, modern office space"
     }
   ]
 }
