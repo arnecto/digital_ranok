@@ -11,27 +11,10 @@
       "video_keywords": "amazon device, smart speaker, shopping cart, price tag"
     },
     {
-      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-      "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-      "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. [&#8230;]",
-      "published": "2026-08-22T13:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Експерти зазначають, що через кризу на ринку компонентів («RAMageddon») пріоритети при виборі ноутбука змістилися. Нові бюджетні моделі з більшим об'ємом оперативної пам'яті стають вигіднішою інвестицією, ніж дорогі пристрої з меншими можливостями.",
-      "ai_title": "Чому 16 ГБ оперативної пам'яті в бюджетному ноутбуці важливіші за дизайн",
-      "video_keywords": "laptop keyboard, person typing, computer screen, modern office desk"
-    },
-    {
       "title": "The New MCP Roadmap",
       "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
       "summary": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399591\">https://news.ycombinator.com/item?id=49399591</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
       "published": "2026-08-22T13:31:34+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-      "summary": "<p>Article URL: <a href=\"https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/\">https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399524\">https://news.ycombinator.com/item?id=49399524</a></p>\n<p>Points: 43</p>\n<p># Comments: 5</p>",
-      "published": "2026-08-22T13:24:06+00:00",
       "source": "Hacker News: Front Page"
     },
     {
@@ -472,16 +455,6 @@
   ],
   "Бізнес / Стартапи": [
     {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "published": "2026-08-22T16:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Нове дослідження показує, що провідні розробники штучного інтелекту майже не мають публічно задокументованих планів стримування неконтрольованих моделей. Це викликає серйозні занепокоєння щодо безпеки на тлі того, як системи ШІ все частіше демонструють непередбачувану та потенційно небезпечну поведінку.",
-      "ai_title": "Провідні лабораторії ШІ не мають планів на випадок виходу моделі з-під контролю",
-      "video_keywords": "server room, data center, futuristic computer, glowing code"
-    },
-    {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
@@ -620,6 +593,16 @@
       "ai_summary": "Компанія IBM анонсувала новий процесор для майнфреймів, здатний виконувати як власні інструкції, так і навантаження Arm на одних і тих самих ядрах. Це найбільша архітектурна зміна за останні десятиліття, що дозволяє перемикатися між архітектурами за наносекунди.",
       "ai_title": "IBM представила революційний майнфрейм-чіп із підтримкою Arm",
       "video_keywords": "microchip, computer hardware, server room, electronics manufacturing"
+    },
+    {
+      "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+      "link": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> is making a calculated bet that the biggest bottleneck in enterprise AI isn&#x27;t model intelligence — it&#x27;s the fact that most people still use AI alone.</p><p>In an exclusive interview with VentureBeat, Scott White, Anthropic&#x27;s head of product for enterprise, laid out the company&#x27;s thesis for what it calls &quot;<a href=\"https:",
+      "published": "2026-08-24T13:00:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Компанія Anthropic презентувала оновлення Claude Tag для Slack, яке дозволяє штучному інтелекту аналізувати весь контекст листування команд. Тепер агент може самостійно включатися в робочі дискусії без додаткових запитів, що має спростити спільну роботу з AI в корпоративному середовищі.",
+      "ai_title": "Anthropic навчила агента Claude для Slack читати всю історію чату та самостійно долучатися до розмов",
+      "video_keywords": "person typing on laptop, office workplace, slack app screen, teamwork meeting"
     }
   ],
   "Крипта": [
@@ -959,6 +942,46 @@
       "ai_summary": "Криптовалютна біржа Gemini об'єднала зусилля з Apex, щоб надати своїм користувачам ширші можливості для торгівлі на ринках прогнозів. Цей крок спрямований на залучення нової аудиторії та зміцнення позицій компанії у секторі фінансових деривативів.",
       "ai_title": "Біржа Gemini уклала партнерство з Apex для розширення ринків прогнозів",
       "video_keywords": "smartphone trading app, financial graphs, stock exchange, modern office, business handshake"
+    },
+    {
+      "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+      "link": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+      "summary": "",
+      "published": "2026-08-24T12:59:55+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Структура Тома Лі здійснила найбільшу закупівлю ETH за останній час. Це свідчить про відновлення інтересу інституційних інвесторів до другої за капіталізацією криптовалюти.",
+      "ai_title": "Компанія Bitmine придбала Ethereum на 81 мільйон доларів",
+      "video_keywords": "cryptocurrency trading, computer screen, financial charts, digital currency"
+    },
+    {
+      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "link": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+      "summary": "",
+      "published": "2026-08-24T12:52:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Спільнота Solana розглядає ініціативу, яка значно збільшить щоденне спалювання SOL. Це також має зменшити темпи створення нових токенів на блокчейні.",
+      "ai_title": "Нове голосування в мережі Solana може змінити економіку токена",
+      "video_keywords": "blockchain technology, glowing network lines, digital code, server room"
+    },
+    {
+      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+      "link": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+      "summary": "",
+      "published": "2026-08-24T12:24:58+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія успішно провела продаж акцій MSTR для залучення капіталу. Отримані кошти підуть на створення додаткового пулу готівки в доларах США.",
+      "ai_title": "MicroStrategy залучила 2 мільярди доларів та сформувала новий резервний фонд",
+      "video_keywords": "stock market ticker, financial district, modern office building, business handshake"
+    },
+    {
+      "title": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys",
+      "link": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg\" /></p><p>Strategy held off on new Bitcoin buying, maintaining holdings at 840,44",
+      "published": "2026-08-24T12:45:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія вирішила тимчасово утриматися від придбання нових біткоїнів. Натомість після залучення коштів було сформовано значний доларовий резерв.",
+      "ai_title": "Strategy запускає грошовий пул на 1,6 мільярда доларів без купівлі біткоїна",
+      "video_keywords": "stacks of us dollars, counting money, bank vault, financial safety"
     }
   ]
 }
