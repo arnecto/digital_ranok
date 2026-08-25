@@ -514,19 +514,29 @@
       "ai_summary": "У спільноті Hacker News обговорюють доступні на ринку варіанти великих форматних електронно-паперових екранів (понад 20 дюймів). Такі енергоефективні дисплеї з сенсорним керуванням користуються попитом для створення інтерактивних настінних календарів.",
       "ai_title": "Пошук великих сенсорних E-Ink дисплеїв для проєктів",
       "video_keywords": "person touching tablet screen, smart home display, digital calendar, e-paper display"
+    },
+    {
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "link": "https://github.com/dragthelake/ambient-context",
+      "summary": "<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. The folder contains an AGEN",
+      "published": "2026-08-25T04:33:24+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Це утиліта для рядка меню macOS, яка кожні кілька секунд зчитує текст із активного вікна через API спеціальних можливостей. Вона не робить знімків екрана чи відео, а одразу зберігає дані у вигляді простих Markdown-файлів, якими зручно керувати через штучний інтелект.",
+      "ai_title": "Новий macOS додаток конвертує активне вікно у текст замість скріншотів",
+      "video_keywords": "computer screen, typing keyboard, macbook display, code editor"
+    },
+    {
+      "title": "SiFive's First Server Platform",
+      "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/sifives-first-server-platform\">https://chipsandcheese.com/p/sifives-first-server-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428638\">https://news.ycombinator.com/item?id=49428638</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-25T03:06:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія SiFive анонсувала випуск своєї першої повноцінної серверної платформи. Це значний крок вперед для архітектури RISC-V, яка тепер активно заходить у сегмент корпоративних та високопродуктивних обчислень.",
+      "ai_title": "SiFive представляє свою першу серверну платформу на RISC-V",
+      "video_keywords": "server rack, microprocessor, computer hardware, electronics circuit"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "published": "2026-08-23T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Більшість авторів неосвідомо стали донорами для розвитку систем штучного інтелекту, які тепер загрожують їхнім доходам. Юристи досі сперечаються про законність такого використання інтелектуальної власності.",
-      "ai_title": "Чи законно тренувати ШІ на захищених авторським правом книгах?",
-      "video_keywords": "author writing, books library, modern office, person typing"
-    },
     {
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
       "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
@@ -1245,6 +1255,26 @@
       "ai_summary": "Мережа BNB Chain успішно активувала оновлення Pasteur на Binance Smart Chain. Головна мета хардфорку — усунути вразливості у мостах та валідаторах для підвищення загального рівня безпеки транзакцій.",
       "ai_title": "BNB Chain провела хардфорк Pasteur для захисту міжмережевих мостів",
       "video_keywords": "blockchain network, cryptocurrency data, digital code, server room"
+    },
+    {
+      "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+      "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+      "summary": "",
+      "published": "2026-08-25T05:25:11+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта встановила новий рекорд, подолавши рубіж у 80 тисяч доларів, тоді як альткоїни також демонструють стрімке зростання. Водночас аналітики попереджають про ризики корекції через перекупленість активів на ринку.",
+      "ai_title": "Біткоїн перевищив позначку у 80 000 доларів на тлі загального зростання ринку",
+      "video_keywords": "bitcoin chart, cryptocurrency trading, stock market monitor, digital currency"
+    },
+    {
+      "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
+      "link": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US targets Iran’s crypto sector, cites over $100M in oil-linked payments \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-crypto-users-in-iran-sanctions.png\" /></p><p>The US Treasury expanded sanctions to Iran’s digital asset sector, alleging a UAE-based broker processed over $100 million i",
+      "published": "2026-08-25T05:29:29+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Міністерство фінансів США розширило обмежувальні заходи проти цифрових активів Ірану. Приводом стало використання криптовалюти для проведення нафтових платежів на суму понад 100 мільйонів доларів через посередників.",
+      "ai_title": "США посилили санкції проти іранського крипторинку через нафтові оборудки",
+      "video_keywords": "us flag, digital server room, cybersecurity lock, financial documents"
     }
   ]
 }
