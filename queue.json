@@ -734,19 +734,59 @@
       "ai_summary": "В академічному дослідженні представлено алгоритм Warnock, який використовує можливості геометричної ампліфікації сучасних GPU. Технологія значно прискорює рендеринг складної векторної графіки на рівні апаратного забезпечення. Це відкриває нові перспективи для комп'ютерної графіки та вебдизайну.",
       "ai_title": "Новий метод оптимізації векторної графіки за допомогою графічних чипів",
       "video_keywords": "graphics card, microchip, computer hardware, electronics assembly"
+    },
+    {
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "link": "https://pgbot.dev/",
+      "summary": "<p>Article URL: <a href=\"https://pgbot.dev/\">https://pgbot.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438492\">https://news.ycombinator.com/item?id=49438492</a></p>\n<p>Points: 3</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-25T18:30:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено Pgbot — надзвичайно легкий read-only інструмент для роботи з базами даних Postgres розміром лише 5.9 МБ. Він розроблений для зручного використання як звичайними розробниками, так і штучним інтелектом та автономними агентами.",
+      "ai_title": "Pgbot: мініатюрний Postgres-інструмент для людей та агентів",
+      "video_keywords": "database code screen, developer typing, terminal window"
+    },
+    {
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+      "summary": "<p>Article URL: <a href=\"https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\">https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437946\">https://news.ycombinator.com/item?id=49437946</a></p>\n<p>Points: 34</p>\n<p># Comments: 2</p>",
+      "published": "2026-08-25T17:55:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники Mozilla оголосили, що майбутній реліз браузера Firefox 157 міститиме вбудовану підтримку сучасного формату зображень JPEG XL на всіх платформах. Це покращить ефективність стиснення та якість картинок під час перегляду вебсторінок.",
+      "ai_title": "Firefox почне підтримувати формат JPEG XL за замовчуванням",
+      "video_keywords": "web browser screen, scrolling website, digital images"
+    },
+    {
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "summary": "<p>Article URL: <a href=\"https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437483\">https://news.ycombinator.com/item?id=49437483</a></p>\n<p>Points: 27</p>\n<p># Comments: 7</p>",
+      "published": "2026-08-25T17:23:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився детальний посібник про те, як розгорнути операційну систему OpenBSD на хмарній платформі DigitalOcean за мінімальною ціною. Це відкриває нові можливості для тестування та створення бюджетних захищених серверів.",
+      "ai_title": "Запуск OpenBSD на DigitalOcean всього за 4 долари на місяць",
+      "video_keywords": "cloud server rack, datacenter lights, server monitoring"
+    },
+    {
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "link": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "summary": "<p>Article URL: <a href=\"https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/\">https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436786\">https://news.ycombinator.com/item?id=49436786</a></p>\n<p>Points: 37</p>\n<p># Comments: 6</p>",
+      "published": "2026-08-25T16:35:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У новій технічній статті розглядається проблема зручності використання веб-інтерфейсів та поведінки спливних підказок (tooltips). Автор аналізує, чому сайтам потрібна невелика затримка перед появою підказки, і як забезпечити її миттєве зникнення.",
+      "ai_title": "Чому спливні підказки інтерфейсу потребують розумної затримки",
+      "video_keywords": "computer mouse clicking, website UI design, laptop screen close-up"
+    },
+    {
+      "title": "Fuzzing the Gleam Compiler",
+      "link": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+      "summary": "<p>Article URL: <a href=\"https://www.kurz.net/posts/fuzzing-gleam-compiler\">https://www.kurz.net/posts/fuzzing-gleam-compiler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436706\">https://news.ycombinator.com/item?id=49436706</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-25T16:30:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Опубліковано практичний досвід застосування методу фаззінг-тестування (fuzzing) для пошуку потенційних помилок у компіляторі мови програмування Gleam. Такий підхід допомагає підвищити стабільність та надійність інструментів розробки.",
+      "ai_title": "Тестування компілятора Gleam за допомогою фаззінг-тестів",
+      "video_keywords": "programming code editor, software development, coding on screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-      "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-      "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
-      "published": "2026-08-23T19:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Нідерландський орган із захисту даних оштрафував компанію Uber на 825 мільйонів євро. Причиною стало порушення правил GDPR через неправомірне автоматизоване блокування облікових записів водіїв.",
-      "ai_title": "Uber отримав рекордний штраф у Європі через блокування водіїв",
-      "video_keywords": "smartphone screen, court gavel, office building, stressed person"
-    },
     {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
@@ -1156,6 +1196,16 @@
       "ai_summary": "Компанія Anthropic оновила штучний інтелект Claude, додавши функцію спільної пам'яті між звичайними чатами та робочим середовищем Cowork. Тепер користувачам не потрібно щоразу повторювати контекст, уподобання чи деталі проєктів під час спілкування з асистентом.",
       "ai_title": "Claude отримав спільну пам'ять для чатів і проєктів",
       "video_keywords": "person typing on laptop, artificial intelligence interface, office workspace, software developer working"
+    },
+    {
+      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+      "link": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+      "published": "2026-08-25T18:26:55+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія планує розпочати будівництво другої бази Starbase у 2027 році. Перший запуск ракети Starship із нового майданчика може відбутися вже у 2029 році.",
+      "ai_title": "SpaceX збудує новий космодром у Луїзіані за $100 мільярдів",
+      "video_keywords": "rocket launch, spaceport, construction site, futuristic facility"
     }
   ],
   "Крипта": [
@@ -1943,6 +1993,26 @@
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/regulation-office-document-paper-strategyb.jpg\" /></p><p>Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it se",
       "published": "2026-08-25T16:47:40+00:00",
       "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/bitcoin-lazer-eyes-and-bull-run-graph-5.jpg\" /></p><p>CryptoQuant says Bitcoin’s 24% rally has flipped key market indicators bullish, though rising profit-taking",
+      "published": "2026-08-25T18:13:11+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики CryptoQuant зазначають, що нещодавнє ралі Біткоїна перемкнуло ключові ринкові індикатори у бичачу зону. Проте позначка у 83 тисячі доларів залишається критичним рівнем через зростання фіксації прибутків інвесторами.",
+      "ai_title": "Біткоїн увійшов у початкову фазу нового бичачого ринку",
+      "video_keywords": "bitcoin chart, crypto trading, bull market graph, financial data screen"
+    },
+    {
+      "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
+      "link": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana transactions hit record 4.2B as SOL rallies 40%\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hi-solana-coin.jpg\" /></p><p>Tokenized real-world assets on Solana are nearing $4 billion as network activity accelerates alongside a broader recovery in crypto markets.\n</p>",
+      "published": "2026-08-25T18:08:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Обсяг транзакцій у блокчейні Solana досяг історичного максимуму на тлі зростання курсу токена SOL на 40%. Паралельно обсяг токенізованих реальних активів у мережі наближається до позначки в 4 мільярди доларів.",
+      "ai_title": "Мережа Solana встановила рекорд із показником у 4,2 мільярда транзакцій",
+      "video_keywords": "blockchain network, digital coins, cryptocurrency mining, futuristic technology"
     }
   ]
 }
