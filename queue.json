@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Netflix reportedly considers opening its app to other streamers",
-      "link": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
-      "summary": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell subscriptions to the other services or add their content to its app. [&#8230;]",
-      "published": "2026-08-24T13:47:14+00:00",
-      "source": "The Verge",
-      "ai_summary": "Керівництво Netflix обговорює додавання сторонніх платформ, таких як Peacock та Fox One, до власної екосистеми. Наразі невідомо, чи продаватимуться підписки на ці сервіси окремо, чи їхній контент безпосередньо увійде до каталогу Netflix.",
-      "ai_title": "Netflix розглядає можливість інтеграції інших стримінгових сервісів у свій додаток",
-      "video_keywords": "smartphone screen, streaming app, television remote, digital interface"
-    },
-    {
       "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
       "link": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
       "summary": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses, jewelry boxes, and other thrifted or recycled parts have gone viral on TikTok and other social media platforms over the past year, [&#8230;]",
@@ -984,6 +974,16 @@
       "ai_summary": "У соцмережах обговорюють публікацію листа, яким обмінялися відомі музиканти Доллі Партон та Емінем. Ця несподівана творча взаємодія привернула велику увагу спільноти та викликала хвилю обговорень.",
       "ai_title": "Незвичний лист від Доллі Parton до Емінема здивував мережу",
       "video_keywords": "writing letter, vintage paper, typing keyboard, reading mail"
+    },
+    {
+      "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+      "link": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+      "summary": "<p>Article URL: <a href=\"https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026\">https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49443871\">https://news.ycombinator.com/item?id=49443871</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-26T03:23:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Сліпі тестування серед студентів показали, що творам, згенерованим за допомогою Gemini від Google, віддають перевагу порівняно з ChatGPT та Claude. Учасники оцінювали якість тексту, природність висловлювань та переконливість аргументів. Це демонструє зростаючу конкурентоспроможність моделей Google у сфері освіти.",
+      "ai_title": "Студенти обрали Gemini найкращим ШІ для написання есе",
+      "video_keywords": "student typing laptop, university library, online learning, modern classroom"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1449,13 +1449,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
-      "link": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/booksouth-africa-1.png\" /></p><p>Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan’s new regulatory framework.</p>",
-      "published": "2026-08-24T05:17:57+00:00",
-      "source": "Cointelegraph.com News"
-    },
     {
       "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
       "link": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
@@ -2263,6 +2256,26 @@
       "ai_summary": "Провідні банківські асоціації США об'єднуються для створення єдиної блокчейн-інфраструктури під назвою BankChain. Проєкт спрямований на розвиток ринку токенізованих активів та має запрацювати у 2027 році.",
       "ai_title": "Американські банки планують запустити загальнонаціональну блокчейн-мережу до 2027 року",
       "video_keywords": "modern bank interior, digital banking, financial technology, futuristic network graphic"
+    },
+    {
+      "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+      "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
+      "summary": "",
+      "published": "2026-08-26T05:16:32+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Потужне ралі токена XRP призвело до масового повернення позикового капіталу на ринок. Це створює загрозу масштабної корекції у разі розвороту тренду через закриття позицій трейдерів.",
+      "ai_title": "Стрімке зростання XRP на 44% підвищує ризики різкого падіння через високий рівень маржинальної торгівлі",
+      "video_keywords": "stock market chart, digital currency trading, financial data screen, red candles"
+    },
+    {
+      "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+      "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
+      "summary": "",
+      "published": "2026-08-26T04:51:49+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Показники настроїв інвесторів сигналізують про надмірний оптимізм, подібний до ситуації напередодні минулої масштабної ліквідації активів. Така ситуація часто передує різким коливанням та корекціям цін.",
+      "ai_title": "Індекс жадібності на крипторинку досяг максимуму перед жовтневим обвалом на 19 мільярдів доларів",
+      "video_keywords": "nervous trader, looking at monitor, financial graph, stressed businessman"
     }
   ]
 }
