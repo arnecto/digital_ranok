@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
-      "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
-      "summary": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. In a Mastodon thread, the GrapheneOS Foundation announced that it will [&#8230;]",
-      "published": "2026-08-24T11:37:53+00:00",
-      "source": "The Verge",
-      "ai_summary": "Конფіденційна та безпечна операційна система GrapheneOS анонсувала плани офіційної підтримки смартфонів Motorola. Спочатку оновлення отримають традиційні флагмани, а згодом — складані пристрої та бюджетні моделі бренду.",
-      "ai_title": "Безпечна ОС GrapheneOS з'явиться на складених смартфонах Motorola",
-      "video_keywords": "smartphone folding screen, mobile phone privacy, modern device tech"
-    },
-    {
       "title": "Netflix reportedly considers opening its app to other streamers",
       "link": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
       "summary": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell subscriptions to the other services or add their content to its app. [&#8230;]",
@@ -944,6 +934,16 @@
       "ai_summary": "Представлено інструмент Maiao, який приносить робочий процес перевірки коду у стилі Gerrit на такі платформи, як GitHub, GitLab та Gitea. Це рішення має спростити командну розробку та покращити контроль якості коду. Новинка вже привернула увагу інженерів своєю гнучкістю.",
       "ai_title": "Maiao: новий робочий процес рев'ю коду для популярних платформ",
       "video_keywords": "team meeting, office desk, collaboration, computer monitor"
+    },
+    {
+      "title": "Queryable Executables",
+      "link": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "summary": "<p>Article URL: <a href=\"https://fzakaria.com/2026/08/24/actually-queryable-executables\">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49442589\">https://news.ycombinator.com/item?id=49442589</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-26T00:20:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова технологія дозволяє виконувати прямі запити до комп'ютерних програм та виконуваних файлів. Це спрощує аналіз коду та взаємодію з бінарними даними на системному рівні.",
+      "ai_title": "Використання запитів до виконуваних файлів",
+      "video_keywords": "computer code, terminal screen, binary data, programming"
     }
   ],
   "Бізнес / Стартапи": [
@@ -1386,6 +1386,26 @@
       "ai_summary": "Компанія X надіслала офіційну вимогу припинити діяльність розробникам відкритого сервісу Nitter. Платформа вимагає видалити репозиторій та закрити всі дзеркала через нібито незаконний збір даних користувачів.",
       "ai_title": "Соцмережа X вимагає закрити проєкт Nitter через збір даних",
       "video_keywords": "computer screen, code running, typing on keyboard"
+    },
+    {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "published": "2026-08-26T00:40:59+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Фізичний AI-стартап залучив додаткові 200 мільйонів доларів інвестицій. Це сталося всього за кілька місяців після того, як компанія подолала позначку у 2 мільярди доларів оцінки.",
+      "ai_title": "Стартап у сфері робототехніки Generalist досяг оцінки в $3 мільярди",
+      "video_keywords": "robotics lab, robotic arm, factory automation, artificial intelligence"
+    },
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "published": "2026-08-26T00:06:20+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія зіткнулася з черговим кадровим потрясінням після відходу керівника дата-центрів. Раніше керівництво вже проводило реструктуризацію інфраструктурного підрозділу через подібні кадрової зміни.",
+      "ai_title": "OpenAI втратила ще одного топменеджера на тлі серії звільнень",
+      "video_keywords": "modern office, corporate boardroom, business meeting, stressed executive"
     }
   ],
   "Крипта": [
