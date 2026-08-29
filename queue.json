@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Getting video models to learn better, faster",
-      "link": "https://www.linum.ai/field-notes/data-filtering-gen-video",
-      "summary": "<p>Article URL: <a href=\"https://www.linum.ai/field-notes/data-filtering-gen-video\">https://www.linum.ai/field-notes/data-filtering-gen-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458502\">https://news.ycombinator.com/item?id=49458502</a></p>\n<p>Points: 14</p>\n<p># Comments: 7</p>",
-      "published": "2026-08-27T01:53:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники представили нові методи фільтрації даних для генеративних відеомоделей. Це дозволяє суттєво прискорити процес навчання штучного інтелекту та покращити якість кінцевого відеоконтенту. Такі оптимізації відкривають нові горизонти для створення мультимедійних продуктів за допомогою алгоритмів.",
-      "ai_title": "Як навчити відеомоделі швидше та ефективніше",
-      "video_keywords": "computer monitor, timelapse, coding on screen, digital graphics"
-    },
-    {
-      "title": "Laion Big Video Dataset",
-      "link": "https://projects.laion.ai/bvd/",
-      "summary": "<p>Article URL: <a href=\"https://projects.laion.ai/bvd/\">https://projects.laion.ai/bvd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458478\">https://news.ycombinator.com/item?id=49458478</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
-      "published": "2026-08-27T01:50:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Організація Laion випустила новий великий набір даних, призначений спеціально для тренування відеомоделей штучного інтелекту. Цей ресурс покликаний розширити можливості дослідників та розробників у всьому світі. Відкритий доступ до масивів відеоданих стимулює подальші інновації у сфері генеративного медіа.",
-      "ai_title": "Laion презентувала масштабний відкритий датасет для відео",
-      "video_keywords": "data center, server racks, glowing cables, computers processing data"
-    },
-    {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "link": "https://github.com/SenteLabsAI/OpenExecutive",
-      "summary": "<p>Article URL: <a href=\"https://github.com/SenteLabsAI/OpenExecutive\">https://github.com/SenteLabsAI/OpenExecutive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49458418\">https://news.ycombinator.com/item?id=49458418</a></p>\n<p>Points: 204</p>\n<p># Comments: 127</p>",
-      "published": "2026-08-27T01:46:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Після того, як генеральний директор звільнив частину розробників, щоб звільнити місце для штучного інтелекту, самі програмісти створили повністю відкритий аналог ШІ-керівника. Цей проєкт викликав жваве обговорення в IT-спільноті та став символом іронії над трендами автоматизації менеджменту. Код вже доступний на GitHub для громадськості.",
-      "ai_title": "Розробники створили відкритий ШІ-директор у відповідь на звільнення через роботів",
-      "video_keywords": "person typing on laptop, frustrated developer, modern office, desk setup"
-    },
-    {
       "title": "Perplexity and NVIDIA Released Portable Computer for Local AI Work",
       "link": "https://en.ain.ua/2026/08/27/perplexity-and-nvidia-released-portable-computer-for-local-ai-work/",
       "summary": "The new tool lets you process data on your own device without using credits, with cloud resources used only with the user's consent.",
@@ -150,29 +120,29 @@
       "ai_summary": "Керівниця Xbox уточнила, що таємничий проєкт Helix насправді є цілою екосистемою пристроїв нового покоління. Компанія активно працює над створенням кількох різних девайсів у межах цієї лінійки.",
       "ai_title": "Microsoft готує цілу лінійку нових консолей Xbox",
       "video_keywords": "video game console, controller, living room, modern television"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486172\">https://news.ycombinator.com/item?id=49486172</a></p>\n<p>Points: 144</p>\n<p># Comments: 52</p>",
+      "published": "2026-08-29T01:47:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "OpenAI офіційно оприлюднила своє рішення щодо подальшої долі популярного редактора коду Cursor після того, як його придбала космічна компанія SpaceX. Ця подія викликала широкий резонанс та обговорення в середовищі розробників через перетин інтересів ключових гравців ринку технологій та штучного інтелекту.",
+      "ai_title": "OpenAI прокоментувала купівлю Cursor компанією SpaceX",
+      "video_keywords": "office meeting, computer screen, typing code, modern workspace"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "link": "https://github.com/stemdeckapp/stemdeck",
+      "summary": "<p>Article URL: <a href=\"https://github.com/stemdeckapp/stemdeck\">https://github.com/stemdeckapp/stemdeck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486081\">https://news.ycombinator.com/item?id=49486081</a></p>\n<p>Points: 38</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-29T01:24:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено StemDeck, повністю безплатне та відкрите програмне забезпечення на базі штучного інтелекту. Воно дозволяє ефективно розділяти музичні треки на окремі вокальні та інструментальні складові локально на вашому комп'ютері без потреби у завантаженні даних у хмару.",
+      "ai_title": "StemDeck — новий безплатний інструмент для локального поділу аудіодоріжок за допомогою ШІ",
+      "video_keywords": "audio mixing, sound waveforms, music studio, mixing console"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well",
-      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-      "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-      "published": "2026-08-26T22:47:58+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Історична угода щодо безпеки дітей знову розпалює занепокоєння про те, як технології перевірки віку створюють ризики для приватності користувачів. Експерти сумніваються у надійності та ефективності наявних методів ідентифікації.",
-      "ai_title": "Угоду Meta на $18 млрд поставили під загрозу проблеми з верифікацією віку",
-      "video_keywords": "smartphone screen, privacy lock, biometric scan, person using phone"
-    },
-    {
-      "title": "Visa ships a security AI that patches production code before any human reviews it",
-      "link": "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
-      "summary": "<p>Visa&#x27;s open-source security harness now finds the vulnerability, writes the fix, and turns an adversarial panel on its own patch before any human reviews it. The whole loop ships on by default. A plain scan of the <a href=\"https://github.com/visa/visa-vulnerability-agentic-harness\">Visa Vulnerability Agentic Harness</a> runs all 11 stages and edits source files in the target repo unless th",
-      "published": "2026-08-27T12:30:00+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Компанія Visa представила відкритий інструмент безпеки на базі штучного інтелекту, який самостійно знаходить вразливості в коді та створює виправлення ще до того, як його перевірять люди. Нова система автоматично тестує власні патчі та впроваджує їх за замовчуванням.",
-      "ai_title": "Visa запустила штучний інтелект, який автоматично виправляє вразливості в коді",
-      "video_keywords": "programmer typing code, computer screen, cybersecurity interface, data stream"
-    },
     {
       "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
       "link": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
@@ -252,16 +222,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
-      "summary": "",
-      "published": "2026-08-26T23:01:44+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Американський регулятор знову береться за впровадження суворих вимог до зберігання цифрових активів, які раніше не вдалося остаточно затвердити попередній адміністрації. Це рішення може суттєво вплинути на те, як криптофонди та кастодіани працюють на ринку США. Нові правила посилять контроль над безпекою активів клієнтів.",
-      "ai_title": "SEC відновлює роботу над суворими правилами зберігання криптовалюти",
-      "video_keywords": "cryptocurrency vault, digital security, financial regulation, computer code screen"
-    },
     {
       "title": "Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000",
       "link": "https://www.coindesk.com/markets/2026/08/27/lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-august-surge-to-usd80-000",
@@ -386,6 +346,16 @@
       "ai_summary": "Судове рішення підтвердило право американських штатів самостійно контролювати ринки прогнозів. Це створює нові юридичні перешкоди для платформ на кшталт Kalshi та посилює державний нагляд.",
       "ai_title": "Kalshi зазнала судової поразки щодо регулювання ринків",
       "video_keywords": "gavel, courtroom, judge, legal documents"
+    },
+    {
+      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "link": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "summary": "",
+      "published": "2026-08-29T02:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Команда Ripple заздалегідь розпочала підготовку мережі XRP Ledger до появи квантових комп'ютерів, відомої як «Q-Day». Розробники планують впровадити криптографічні алгоритми, які зможуть протистояти майбутнім загрозам з боку потужних квантових систем.",
+      "ai_title": "Ripple готує блокчейн XRP до захисту від квантових комп'ютерів",
+      "video_keywords": "quantum computer, futuristic server, digital security, cryptocurrency code"
     }
   ]
 }
