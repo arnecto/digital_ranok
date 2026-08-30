@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486172\">https://news.ycombinator.com/item?id=49486172</a></p>\n<p>Points: 144</p>\n<p># Comments: 52</p>",
-      "published": "2026-08-29T01:47:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "OpenAI офіційно оприлюднила своє рішення щодо подальшої долі популярного редактора коду Cursor після того, як його придбала космічна компанія SpaceX. Ця подія викликала широкий резонанс та обговорення в середовищі розробників через перетин інтересів ключових гравців ринку технологій та штучного інтелекту.",
-      "ai_title": "OpenAI прокоментувала купівлю Cursor компанією SpaceX",
-      "video_keywords": "office meeting, computer screen, typing code, modern workspace"
-    },
-    {
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "link": "https://github.com/stemdeckapp/stemdeck",
       "summary": "<p>Article URL: <a href=\"https://github.com/stemdeckapp/stemdeck\">https://github.com/stemdeckapp/stemdeck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486081\">https://news.ycombinator.com/item?id=49486081</a></p>\n<p>Points: 38</p>\n<p># Comments: 8</p>",
@@ -249,6 +239,26 @@
       "ai_summary": "В мережу потрапило понад 12 терабайт даних зі Steam, що містять архів ігор за десятиліття. Серед знахідок ентузіастів — ранні білди та матеріали до скасованої Half-Life 2: Episode 3 і Portal 2.",
       "ai_title": "Масштабний витік у Steam розкрив скасовані матеріали Half-Life 2",
       "video_keywords": "computer screen, gaming keyboard, server room, data breach"
+    },
+    {
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "summary": "<p>Article URL: <a href=\"https://sander.ai/2026/08/24/continuous-dlms.html\">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502611\">https://news.ycombinator.com/item?id=49502611</a></p>\n<p>Points: 30</p>\n<p># Comments: 3</p>",
+      "published": "2026-08-30T20:46:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті розглядаються нові безперервні дифузійні мовні моделі (CDLM), які пропонують інноваційний підхід до генерації тексту. Ця технологія намагається подолати обмеження традиційних дискретних моделей, відкриваючи нові можливості для штучного інтелекту.",
+      "ai_title": "Прорив у мовних моделях: що таке безперервні дифузійні моделі",
+      "video_keywords": "server room, glowing data, futuristic computer code, artificial intelligence abstract"
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "link": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/08/spacelab-core-memory.html\">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502214\">https://news.ycombinator.com/item?id=49502214</a></p>\n<p>Points: 44</p>\n<p># Comments: 8</p>",
+      "published": "2026-08-30T20:00:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інженери детально вивчили модуль магнітної пам'яті з комп'ютера Spacelab, який використовувався в космічних місіях у 1980-х роках. Цей історичний артефакт демонструє надійність та архітектуру обчислювальної техніки минулої епохи.",
+      "ai_title": "Технології минулого: дослідження пам'яті космічного комп'ютера 1980 року",
+      "video_keywords": "vintage computer hardware, circuit board, microchip macro, electronics repair bench"
     }
   ],
   "Бізнес / Стартапи": [
@@ -332,6 +342,16 @@
       "ai_summary": "Іспанський стартап представив надкомпактний електричний автомобіль Liux Big, створений з акцентом на екологічність та сталий розвиток. Компанія розраховує завоювати популярність на перенасиченому ринку електрокарів завдяки інноваційним матеріалам та мінімалістичному дизайну.",
       "ai_title": "Іспанський стартап Liux кидає виклик китайським виробникам мікроавтомобілів",
       "video_keywords": "electric microcar, small city car, eco friendly vehicle, automotive assembly line"
+    },
+    {
+      "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
+      "link": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
+      "summary": "<p>There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit on top of identity and attribution layers that are mostly not there.</p><p>The first layer of risk is not hypothetical. In June,<a href=\"https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html\"> ",
+      "published": "2026-08-30T20:15:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Сучасні розгортання систем зі штучним інтелектом часто стикаються з серйозними проблемами безпеки через слабкі шари ідентифікації. Навіть після успішної аутентификації AI-агенти можуть виходити з-под контролю, розкривати конфіденційні дані або ставати жертвами отруєння пам'яті.",
+      "ai_title": "Вразливості шлюзів штучного інтелекту: чому AI-агенти втрачають контроль після авторизації",
+      "video_keywords": "cybersecurity, server room, hacker, data leak"
     }
   ],
   "Крипта": [
