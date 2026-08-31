@@ -1,52 +1,4 @@
 {
-  "https://encore.dev/blog/firecracker-apple-silicon": {
-    "title": "Перенесення стеку Linux MicroVM на чіпи Apple Silicon",
-    "category": "IT / AI",
-    "posted_at": "2026-08-23T09:56:44.110661+03:00",
-    "summary": "Розробники успішно адаптували та перезібрали стек віртуальних машин Linux для роботи на апаратній архітектурі Apple Silicon. Це відкриває нові можливості для ефективної віртуалізації та розробки на сучасних комп'ютерах Mac. Проєкт значно покращує продуктивність та сумісність систем.",
-    "video_keywords": "macbook, computer processor, circuit board, developer typing",
-    "link": "https://encore.dev/blog/firecracker-apple-silicon"
-  },
-  "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/": {
-    "title": "Starcloud залучила $250 мільйонів на орбітальні дата-центри",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-08-23T11:01:29.821794+03:00",
-    "summary": "Компанія Starcloud отримала масштабне фінансування для створення центрів обробки даних у космосі на тлі дефіциту доступних ракетних запусків. Це рішення покликане задовольнити зростаючі потреби у хмарних обчисленнях безпосередньо на орбіті.",
-    "video_keywords": "satellite in orbit, space station, data center servers, rocket launch",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-  },
-  "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why": {
-    "title": "Чому біткоїн стрімко зростає на тлі нових дій Мінфіну США",
-    "category": "Крипта",
-    "posted_at": "2026-08-23T12:12:26.353939+03:00",
-    "summary": "Головна криптовалюта демонструє стрімке зростання попри нові економічні заходи американського Міністерства фінансів. Аналітики пояснюють цей стрибок специфікою ринкової ліквідності та зростанням інтересу з боку інвесторів. Події такого масштабу зазвичай сигналізують про зміни в глобальній фінансовій системі.",
-    "video_keywords": "bitcoin chart, financial graph, digital currency, stock market screen",
-    "link": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why"
-  },
-  "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes": {
-    "title": "Patreon змінює алгоритм заради підтримки нових авторів",
-    "category": "IT / AI",
-    "posted_at": "2026-08-23T13:37:59.288582+03:00",
-    "summary": "Платформа Patreon анонсувала масштабне оновлення функціоналу та алгоритмів пошуку. Нововведення покликані допомогти маловідомим авторам знайти свою аудиторію та покращити безпеку платформи. Генеральний директор Джек Конте назвав це кроком до створення кращого інтернету.",
-    "video_keywords": "content creator, computer screen, typing, modern office",
-    "link": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes"
-  },
-  "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/": {
-    "title": "Tesla відкликає 3 мільйони авто в Китаї через приховані дверні ручки",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-08-23T14:51:54.021185+03:00",
-    "summary": "Tesla разом з іншими автовиробниками зобов'язана встановити попереджувальні наклейки для водіїв та пасажирів. Зміни стосуються проблем із пошуком механічних ручок відкривання дверей у критичних ситуаціях.",
-    "video_keywords": "car door handle, electric car interior, driver opening car door, automobile factory",
-    "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/"
-  },
-  "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
-    "title": "Solana прискорила блокчейн до рекордних 350 мілісекунд",
-    "category": "Крипта",
-    "posted_at": "2026-08-23T16:13:12.637100+03:00",
-    "summary": "Мережа Solana вперше в історії зменшила час створення блоку, наблизившись до амбітної межі у 200 мілісекунд. Це технічне оновлення спрямоване на суттєве зниження затримки мережі та підвищення загальної продуктивності блокчейну.",
-    "video_keywords": "blockchain technology, digital server room, glowing data streams, abstract computer code",
-    "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
   "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control": {
     "title": "Чому цього року різко зросла кількість масових відкликань продуктів харчування",
     "category": "IT / AI",
@@ -646,5 +598,13 @@
     "summary": "Керівник Банку міжнародних розрахунків Пабло Ернандес де Кос заявив, що цифрові стейблкоїни наразі не мають достатньої довіри для використання у масштабних глобальних платежах. На його думку, існуюча фінансова система потребує надійніших цифрових активів під контролем регуляторів.",
     "video_keywords": "digital currency, smartphone payment, financial graph, cryptocurrency trading",
     "link": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/": {
+    "title": "Прірва між штучним інтелектом та реальністю розробки",
+    "category": "IT / AI",
+    "posted_at": "2026-08-31T17:23:32.763519+03:00",
+    "summary": "У світі програмування зростає розрив між гучними маркетинговими заявами про можливості штучного інтелекту та суворою реальністю створення програмного забезпечення. Деякі відкриті проєкти навіть починають обмежувати використання AI-генерованого коду через якісні проблеми.",
+    "video_keywords": "programmer typing, computer screen, coding, frustration",
+    "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/"
   }
 }

@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "You Know GDPR Is Good Based on Who Hates It",
-      "link": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
-      "summary": "<p>Article URL: <a href=\"https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/\">https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49488282\">https://news.ycombinator.com/item?id=49488282</a></p>\n<p>Points: 38</p>\n<p># Comments: 36</p>",
-      "published": "2026-08-29T09:19:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує реакцію великих технологічних компаній на європейський регламент захисту даних. Суть зводиться до того, що ненависть корпорацій до GDPR доводить його реальну користь для звичайних користувачів та їхньої приватності в інтернеті.",
-      "ai_title": "Чому закон про захист даних GDPR є успішним?",
-      "video_keywords": "data privacy, computer screen, lock symbol, internet security"
-    },
-    {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "link": "https://lwn.net/Articles/1091231/",
-      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1091231/\">https://lwn.net/Articles/1091231/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49489982\">https://news.ycombinator.com/item?id=49489982</a></p>\n<p>Points: 105</p>\n<p># Comments: 57</p>",
-      "published": "2026-08-29T14:02:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Спільнота розробників Debian офіційно проголосувала за дозвіл на використання генеративного ШІ у своїх проєктах. Це рішення встановлює нові етичні рамки та правила для розробників, які інтегрують сучасні технології у дистрибутив.",
-      "ai_title": "Debian дозволив відповідальне використання генеративного штучного інтелекту",
-      "video_keywords": "software code on computer screen, programmer typing, modern office"
-    },
-    {
-      "title": "The growing divide between AI hype and software engineering reality",
-      "link": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-      "summary": "<p>Article URL: <a href=\"https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/\">https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49491113\">https://news.ycombinator.com/item?id=49491113</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "2026-08-29T16:16:32+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У світі програмування зростає розрив між гучними маркетинговими заявами про можливості штучного інтелекту та суворою реальністю створення програмного забезпечення. Деякі відкриті проєкти навіть починають обмежувати використання AI-генерованого коду через якісні проблеми.",
-      "ai_title": "Прірва між штучним інтелектом та реальністю розробки",
-      "video_keywords": "programmer typing, computer screen, coding, frustration"
-    },
-    {
       "title": "Sony Music and Warner Chappell are suing Anthropic",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
@@ -269,6 +239,56 @@
       "ai_summary": "Розробники представили нову версію OpenClaw 2.0, яка з'явилася внаслідок несподіваного технічного відкриття. Оновлення приносить суттєві покращення та викликає жваве обговорення в ІТ-спільноті щодо майбутнього проєкту.",
       "ai_title": "Реліз OpenClaw 2.0: випадковий прорив",
       "video_keywords": "software code, computer screen, programmer typing, futuristic technology"
+    },
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
+      "published": "2026-08-31T13:27:36+00:00",
+      "source": "The Verge",
+      "ai_summary": "Європейський Союз визнав ChatGPT дуже великою пошуковою системою згідно із Законом про цифрові послуги. Тепер компанія OpenAI нестиме відповідальність за мінімізацію ризиків для неповнолітніх, захист психічного здоров'я користувачів та боротьбу з поширенням нелегального контенту.",
+      "ai_title": "ChatGPT очікують суворіші правила регулювання в Євросоюзі",
+      "video_keywords": "European Union flag, smartphone screen, Brussels street, businesswoman typing laptop"
+    },
+    {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [&#8230;]",
+      "published": "2026-08-31T13:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Платформа Instagram запроваджує нові заходи проти зростання кількості фальшивих акаунтів віртуальних інфлюенсерів, яких стає все складніше відрізнити від людей. Зокрема, мітку «AI creator» змінено на «AI-generated profile», щоб чітко попереджати користувачів про нереальних персонажів.",
+      "ai_title": "Instagram посилює боротьбу з фейковими AI-акаунтами",
+      "video_keywords": "smartphone scrolling, social media feed, young woman swiping screen, app interface"
+    },
+    {
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached [&#8230;]",
+      "published": "2026-08-31T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Губернаторка штату Нью-Йорк Кеті Гокул висловила чітку позицію щодо технологічної політики, наголосивши на необхідності зробити штучний інтелект «менш злим». У розмові з медіа вона обговорила ключові виклики регулювання сучасних технологій у період виборів.",
+      "ai_title": "Губернаторка Нью-Йорка виступила за безпечніший розвиток штучного інтелекту",
+      "video_keywords": "politician speaking microphone, press conference, news studio, government building"
+    },
+    {
+      "title": "Show HN: SlideOps, slides from a repo that flag when they drift from the code",
+      "link": "https://github.com/glukicov/slideops",
+      "summary": "<p>Article URL: <a href=\"https://github.com/glukicov/slideops\">https://github.com/glukicov/slideops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508735\">https://news.ycombinator.com/item?id=49508735</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-08-31T12:15:10+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розпочався новий проєкт SlideOps, який дозволяє створювати презентації безпосередньо з коду у репозиторії. Система автоматично сповіщає авторів, коли слайди починають відрізнятися від актуального коду.",
+      "ai_title": "SlideOps: презентації з репозиторію з автоперевіркою коду",
+      "video_keywords": "developer coding, computer monitor, terminal screen, typing code"
+    },
+    {
+      "title": "The Universe as a Minified Bundle",
+      "link": "https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/",
+      "summary": "<p>Article URL: <a href=\"https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/\">https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508367\">https://news.ycombinator.com/item?id=49508367</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
+      "published": "2026-08-31T11:24:30+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Цікава технічна публікація досліджує метафору Всесвіту через призму мінімізації та оптимізації програмного коду. Автор розглядає складність реальності за аналогією до завантаження веб-додатків.",
+      "ai_title": "Всесвіт як мініфікований бандл коду",
+      "video_keywords": "matrix code, digital glowing lines, abstract cyberspace, glowing particles"
     }
   ],
   "Бізнес / Стартапи": [
@@ -362,6 +382,26 @@
       "ai_summary": "Корпоративний штучний інтелект еволюціонує від простих помічників до автономних агентів, здатних виконувати складні робочі процеси без участі людини. Для безпечної взаємодії між собою такі системи потребують унікальної цифрової ідентичності та нових стандартів доступу.",
       "ai_title": "Ера автономних AI-агентів у бізнесі: чому їм потрібна цифрова ідентичність",
       "video_keywords": "artificial intelligence, server room, digital network, glowing data"
+    },
+    {
+      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+      "published": "2026-08-31T12:56:46+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Сервіс для автоматичного конспектування зустрічей Circleback додав безкоштовну версію, щоб залучити нових користувачів. Крім того, компанія представила нові платні тарифні плани від 14 доларів на місяць.",
+      "ai_title": "Штучний інтелект для нотаток Circleback запустив безкоштовний тариф",
+      "video_keywords": "person typing laptop, meeting room, office workspace, modern computer"
+    },
+    {
+      "title": "Identity and permissions aren’t enough to govern AI agent behavior",
+      "link": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
+      "summary": "<p><i>Presented by Box</i></p><hr /><p>Identity and permissions are no longer enough to secure enterprise AI agents. They govern what an agent can reach, not how it behaves once it starts working on its own, and an autonomous agent can turn legitimate access of enterprise data into unintended action in seconds. That gap is pushing enterprise AI security from just governing access toward a layered ",
+      "published": "2026-08-31T14:00:00+00:00",
+      "source": "VentureBeat",
+      "ai_summary": "Традиційні системи контролю доступу не можуть гарантувати безпеку автономних ШІ-агентів у компаніях. Експерти зазначають, що доступ до даних не контролює подальшу поведінку штучного інтелекту, що вимагає нових багаторівневих систем захисту.",
+      "ai_title": "Безпека корпоративного ШІ: чому стандартних дозволів більше недостатньо",
+      "video_keywords": "cyber security screen, futuristic interface, server room, digital data flow"
     }
   ],
   "Крипта": [
@@ -394,26 +434,6 @@
       "ai_summary": "Експерти припускають, що наступним фінансовим гігантом у світі цифрових активів стане дещо абсолютно нове, що ще навіть не має офіційної назви. Це ставить під сумнів домінуючу роль сучасних стейблкоїнів у майбутньому.",
       "ai_title": "Майбутня валюта на трильйон доларів може виявитися зовсім не стейблкоїном",
       "video_keywords": "futuristic digital currency, glowing coins, abstract money concept, stock market terminal"
-    },
-    {
-      "title": "Tokenized assets are busier than the data shows",
-      "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
-      "summary": "",
-      "published": "2026-08-29T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Реальні обсяги операцій із токенізованими активами виявляються значно вищими, ніж показують офіційні аналітичні дані. Ринок прихованої торгівлі цифровими двійниками реальних активів стрімко набирає обертів.",
-      "ai_title": "Токенізовані активи демонструють неймовірну активність поза офіційною статистикою",
-      "video_keywords": "digital tokens, blockchain transactions, modern office workers, financial charts"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
-      "published": "2026-08-29T12:39:59+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Огляд ключових подій криптоіндустрії охоплює останні цінові коливання біткоїна, а також важливі новини зі сфер децентралізованих фінансів та Web3. Аналітики фіксують нові тенденції, що визначають рух ринку.",
-      "ai_title": "Головні події та тренди на ринку криптовалют за сьогодні",
-      "video_keywords": "cryptocurrency trading desk, multiple monitors, bitcoin charts, stock exchange floor"
     },
     {
       "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
@@ -521,6 +541,56 @@
       "ai_summary": "Розробники приватної криптовалюти Zcash працюють над технологічним оновленням, яке скоротить час очікування транзакцій з трьох секунд до менш ніж 200 мілісекунд. Це зробить використання анонімних платежів таким же швидким, як і в мейнстрімних мережах.",
       "ai_title": "Zcash планує прискорити проведення конфіденційних транзакцій у 15 разів",
       "video_keywords": "fast typing, digital code, modern smartphone screen, glowing network"
+    },
+    {
+      "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
+      "link": "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
+      "summary": "",
+      "published": "2026-08-31T12:11:04+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Strategy відновила масштабні купівлі першої криптовалюти, поповнивши свої резерви на значну суму. Це стало першою великою корпоративною інвестицією у біткоїн за останні кілька місяців.",
+      "ai_title": "MicroStrategy інвестувала ще 370 мільйонів доларів у біткоїн",
+      "video_keywords": "smartphone screen trading charts, financial graphs, cryptocurrency app"
+    },
+    {
+      "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
+      "link": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
+      "summary": "",
+      "published": "2026-08-31T11:53:56+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Мережа Robinhood Chain випередила Ethereum за показником щоденного доходу на тлі шаленого попиту на торгівлю мемкоїнами. Користувачі масово перемикаються на нову платформу для спекулятивних операцій.",
+      "ai_title": "Блокчейн Robinhood обійшов Ethereum за добовим доходом завдяки мемкоїнам",
+      "video_keywords": "digital dashboard, data analytics, modern interface"
+    },
+    {
+      "title": "Mystery surrounds why an OG burned $1M in Bitcoin",
+      "link": "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mystery surrounds why an OG burned $1M in Bitcoin\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/fire-coin-hand-burn2-1.png\" /></p><p>The million dollar question is what prompted a Bitcoin OG to send 20 BTC to a custodian, retrieve it back, and then deliberately burn it?</p>",
+      "published": "2026-08-31T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Спільнота обговорює дивний вчинок раннього інвестора, який безповоротно знищив 20 біткоїнів вартістю мільйон доларів. Мотиви такого вчинку залишаються абсолютно незрозумілими для спостерігачів.",
+      "ai_title": "Загадка на мільйон: чому криптоветеран спалив свій біткоїн",
+      "video_keywords": "burning fire, match flame, dark background"
+    },
+    {
+      "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
+      "link": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BYVXV6TP6XHHZ303HD7Y25/japan-crypto-etf-stablecoin-sakura-spring-business.jpg\" /></p><p>Japan’s FSA requested to exempt trust-type stablecoins ",
+      "published": "2026-08-31T13:20:05+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Японський фінансовий регулятор звернувся з ініціативою звільнити трастові стейблкоїни від податкової звітності у межах майбутньої реформи 2027 року. Це має сприяти розвитку ринку цифрових активів у країні.",
+      "ai_title": "У Японії хочуть скасувати податки для певних видів стейблкоїнів",
+      "video_keywords": "tokyo street, financial district, modern architecture"
+    },
+    {
+      "title": "Metaplanet moves 4,800 BTC worth $377M to Coinbase",
+      "link": "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Metaplanet moves 4,800 BTC worth $377M to Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1BWK3P1J1BV3HXS35KDN0BE/hi-metaplanet-seeks-bitcoin.jpg\" /></p><p>The Japanese Bitcoin treasury company has transferred 10,270 BTC to Coinbase Prime this week, an amount equal to more ",
+      "published": "2026-08-31T13:19:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Відома японська корпорація, яка активно формує свої крипторезерви, перемістила величезну кількість біткоїнів на біржу Coinbase Prime. Такі маневри великих гравців зазвичай привертають пильну увагу ринку.",
+      "ai_title": "Японська компанія Metaplanet переказала біткоїни на мільйони доларів на Coinbase",
+      "video_keywords": "computer monitor, cryptocurrency exchange, trading terminal"
     }
   ]
 }
