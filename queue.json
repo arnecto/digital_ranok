@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenClaw 2.0, Accidentally",
-      "link": "https://openclaw.ai/blog/openclaw-2-accidentally",
-      "summary": "<p>Article URL: <a href=\"https://openclaw.ai/blog/openclaw-2-accidentally\">https://openclaw.ai/blog/openclaw-2-accidentally</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505310\">https://news.ycombinator.com/item?id=49505310</a></p>\n<p>Points: 40</p>\n<p># Comments: 32</p>",
-      "published": "2026-08-31T03:38:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили нову версію OpenClaw 2.0, яка з'явилася внаслідок несподіваного технічного відкриття. Оновлення приносить суттєві покращення та викликає жваве обговорення в ІТ-спільноті щодо майбутнього проєкту.",
-      "ai_title": "Реліз OpenClaw 2.0: випадковий прорив",
-      "video_keywords": "software code, computer screen, programmer typing, futuristic technology"
-    },
-    {
       "title": "ChatGPT to face tougher regulation in the EU",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
       "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
@@ -379,6 +369,46 @@
       "ai_summary": "Після масштабного інциденту з витоком та зломом у серпні OpenAI була змушена тимчасово відкласти розробку нових моделей серії Astra. Компанія спрямувала додаткові зусилля на посилення безпеки та ізоляції майбутніх систем штучного інтелекту.",
       "ai_title": "OpenAI відклала розробку нової лінійки моделей через інцидент зі зльотом системи",
       "video_keywords": "cyber security, hacker code, server room, warning screen"
+    },
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+      "published": "2026-09-01T22:50:29+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google активно веде переговори з провідними голлівудськими кіностудіями щодо ліцензування захищених авторським правом матеріалів. Корпорація пропонує величезні кошти в обмін на дозвіл використовувати фільми та відео для навчання своїх штучних інтелектів.",
+      "ai_title": "Google прагне домовитися з Голлівудом про ліцензування контенту для ШІ",
+      "video_keywords": "hollywood sign, movie camera, computer screens, businessman talking"
+    },
+    {
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "link": "https://lws.io/blog/my-local-model-setup/",
+      "summary": "<p>Article URL: <a href=\"https://lws.io/blog/my-local-model-setup/\">https://lws.io/blog/my-local-model-setup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529132\">https://news.ycombinator.com/item?id=49529132</a></p>\n<p>Points: 35</p>\n<p># Comments: 7</p>",
+      "published": "2026-09-01T22:30:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники діляться досвідом налаштування та запуску локальних моделей штучного інтелекту на компактному комп'ютері Mac Mini з процесором M4 Pro. Такий підхід забезпечує високу продуктивність та конфіденційність при обробці даних прямо на пристрої.",
+      "ai_title": "Запуск локальних мовних моделей на новому Mac Mini з M4 Pro",
+      "video_keywords": "apple mac mini, typing on keyboard, modern desk setup, computer monitor"
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/improving-alignment-security-efforts\">https://www.anthropic.com/news/improving-alignment-security-efforts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529567\">https://news.ycombinator.com/item?id=49529567</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-09-01T23:12:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic оголосила про оновлення та розширення своєї стратегії безпеки та узгодження штучного інтелекту. Нові ініціативи спрямовані на запобігання ризикам та створення більш надійних і контрольованих моделей.",
+      "ai_title": "Anthropic посилює заходи безпеки та вирівнювання ШІ",
+      "video_keywords": "cyber security, server rack, digital padlock, matrix code"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "summary": "<p>Article URL: <a href=\"https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529898\">https://news.ycombinator.com/item?id=49529898</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+      "published": "2026-09-01T23:48:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий аналіз присвячено балансу між швидкістю, вартістю та якістю під час запуску та роботи великих мовних моделей (LLM). Експерти досліджують сучасні методи оптимізації для зниження навантаження на обчислювальні системи.",
+      "ai_title": "Ефективність та оптимізація інференсу великих мовних моделей",
+      "video_keywords": "data center, server lights, microchip, computer code"
     }
   ],
   "Бізнес / Стартапи": [
@@ -626,6 +656,36 @@
       "ai_summary": "Платформа X почала розслідування масової розсилки запитів на скидання паролів, яка збіглася в часі з запуском нової платіжної системи X Money. Компанія підозрює цілеспрямовану кібератаку на акаунти користувачів.",
       "ai_title": "Соцмережа X зафіксувала хвилю атак після запуску сервісу X Money",
       "video_keywords": "security alert, hacker attack, warning screen, data breach"
+    },
+    {
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+      "published": "2026-09-01T23:59:59+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Виконавчий директор компанії Pivotal, що займається розробкою літаючих автомобілів за підтримки засновника Google Ларрі Пейджа, залишив свою посаду. Компанія повідомила, що він пішов заради нових проєктів. Це кадрове потрясіння стає серйозним викликом для стартапу на тлі високої конкуренції в галузі персонального авіатранспорту.",
+      "ai_title": "Компанія літаючих авто Ларрі Пейджа Pivotal втратила генерального директора",
+      "video_keywords": "flying car, electric aircraft, corporate office, business meeting"
+    },
+    {
+      "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "published": "2026-09-01T23:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа JioHotstar від Reliance готується до міжнародного запуск у Великій Британії, Канаді та Сінгапурі. Однак сервіс пропонуватиме виключно розважальний контент, опустивши спортивні трансляції, які були ключовим драйвером його популярності в Індії. Такий крок має на меті завоювати нову західну аудиторію.",
+      "ai_title": "Стрімінговий гігант JioHotstar виходить на глобальний ринок без спорту",
+      "video_keywords": "person watching streaming video, smartphone screen, television remote, digital tablet app"
+    },
+    {
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+      "published": "2026-09-01T22:13:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Карти Apple долучилися до ініціативи Google і виконали виконавчий указа президента Дональда Трампа щодо зміни назви озера Онтаріо на Озеро Америка. Це рішення викликало широкий резонанс у технологічних та політичних колах. Корпораціям доводиться адаптуватися до нових державних вимог щодо географічних назв.",
+      "ai_title": "Apple Maps перейменувала озеро Онтаріо на «Лейк Америка» через указ Трампа",
+      "video_keywords": "digital map on smartphone, GPS navigation, satellite view, person tapping touchscreen"
     }
   ],
   "Крипта": [
@@ -908,6 +968,16 @@
       "ai_summary": "Криптовалютна біржа Binance розширює свій зв'язок із традиційними фінансами, запускаючи опціони на понад 1000 американських акцій та ETF. Нова функція доступна для неамериканських користувачів і відкриває ширші можливості для торгівлі.",
       "ai_title": "Binance інтегрує традиційні фінанси: опціони на американські акції",
       "video_keywords": "trading screen, financial charts, stock market, computer monitor"
+    },
+    {
+      "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
+      "summary": "",
+      "published": "2026-09-01T23:55:46+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Комісія з цінних паперів і бірж США (SEC) запропонувала нові правила для трансфер-агентів. Регулятор також організовує спеціальний засідання, щоб обговорити перехід американських ринків на цілодобовий режим торгівлі.",
+      "ai_title": "SEC планує запровадити цілодобову торгівлю цінними паперами",
+      "video_keywords": "stock exchange trading floor, digital financial charts, computer screens graphs"
     }
   ]
 }
