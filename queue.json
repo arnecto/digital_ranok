@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/path-to-astra/\">https://openai.com/index/path-to-astra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527595\">https://news.ycombinator.com/item?id=49527595</a></p>\n<p>Points: 56</p>\n<p># Comments: 16</p>",
-      "published": "2026-09-01T20:20:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI опублікувала план розвитку нової лінійки моделей Astra, що поєднує критичні можливості ШІ з передовими запобіжниками. Це рішення спрямоване на підвищення надійності систем та запобігання потенційним ризикам під час автономної роботи.",
-      "ai_title": "OpenAI представила стратегію розвитку моделей Astra з акцентом на безпеку",
-      "video_keywords": "artificial intelligence, server rack, data center, glowing code"
-    },
-    {
-      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "summary": "<p>Article URL: <a href=\"https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/\">https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527573\">https://news.ycombinator.com/item?id=49527573</a></p>\n<p>Points: 119</p>\n<p># Comments: 59</p>",
-      "published": "2026-09-01T20:19:11+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У рамках судового процесу проти OpenAI компанія Apple представила шокуючі докази, отримані з MacBook колишнього співробітника. Експертиза розкрила нові деталі справи, що може суттєво вплинути на подальший хід судового протистояння.",
-      "ai_title": "Apple виявила нові докази у судовому помаді проти OpenAI завдяки форесиці MacBook",
-      "video_keywords": "courtroom, laptop keyboard, forensic analysis, digital screen"
-    },
-    {
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
-      "published": "2026-09-01T22:01:36+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Anthropic презентувала нові моделі Claude Fable 5.1 та Mythos 5.1, які вирішують проблеми з ціноутворенням та надмірними обмеженнями безпеки. Зокрема, Fable 5.1 забезпечує вищу продуктивність при зниженні вартості до 45% для агентних завдань.",
-      "ai_title": "Anthropic випустила модель Claude Fable 5.1 із нижчою вартістю для складних завдань",
-      "video_keywords": "typing on keyboard, office computer, AI software, digital dashboard"
-    },
-    {
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
-      "published": "2026-09-01T20:45:49+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після масштабного інциденту з витоком та зломом у серпні OpenAI була змушена тимчасово відкласти розробку нових моделей серії Astra. Компанія спрямувала додаткові зусилля на посилення безпеки та ізоляції майбутніх систем штучного інтелекту.",
-      "ai_title": "OpenAI відклала розробку нової лінійки моделей через інцидент зі зльотом системи",
-      "video_keywords": "cyber security, hacker code, server room, warning screen"
-    },
-    {
       "title": "Google needs Hollywood more than the studios need AI",
       "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
       "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
@@ -49,16 +9,6 @@
       "ai_summary": "Google активно веде переговори з провідними голлівудськими кіностудіями щодо ліцензування захищених авторським правом матеріалів. Корпорація пропонує величезні кошти в обмін на дозвіл використовувати фільми та відео для навчання своїх штучних інтелектів.",
       "ai_title": "Google прагне домовитися з Голлівудом про ліцензування контенту для ШІ",
       "video_keywords": "hollywood sign, movie camera, computer screens, businessman talking"
-    },
-    {
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "link": "https://lws.io/blog/my-local-model-setup/",
-      "summary": "<p>Article URL: <a href=\"https://lws.io/blog/my-local-model-setup/\">https://lws.io/blog/my-local-model-setup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529132\">https://news.ycombinator.com/item?id=49529132</a></p>\n<p>Points: 35</p>\n<p># Comments: 7</p>",
-      "published": "2026-09-01T22:30:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники діляться досвідом налаштування та запуску локальних моделей штучного інтелекту на компактному комп'ютері Mac Mini з процесором M4 Pro. Такий підхід забезпечує високу продуктивність та конфіденційність при обробці даних прямо на пристрої.",
-      "ai_title": "Запуск локальних мовних моделей на новому Mac Mini з M4 Pro",
-      "video_keywords": "apple mac mini, typing on keyboard, modern desk setup, computer monitor"
     },
     {
       "title": "Improving our alignment and security efforts",
@@ -519,59 +469,39 @@
       "ai_summary": "Офіційно представлено нову флагманську модель OpenAI — GPT-6 Astra, яку розробники називають проривом у еру штучного загального інтелекту (AGI). Новинка демонструє неймовірні результати у кібербезпеці, програмуванні та наукових дослідженнях.",
       "ai_title": "Нова модель OpenAI увійшла в епоху AGI",
       "video_keywords": "futuristic technology, glowing neural network, artificial intelligence screen, modern data center"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "link": "https://arcprize.org/blog/astra",
+      "summary": "<p>Article URL: <a href=\"https://arcprize.org/blog/astra\">https://arcprize.org/blog/astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a></p>\n<p>Points: 121</p>\n<p># Comments: 66</p>",
+      "published": "2026-09-03T19:45:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники вивчили можливості новітньої моделі OpenAI GPT-6 Astra на складному бенчмарку ARC-AGI-3. Тести демонструють прогрес системи у виконанні завдань, що вимагають загального штучного інтелекту та логічного мислення.",
+      "ai_title": "Результати тестів нового GPT-6 Astra на ARC-AGI-3",
+      "video_keywords": "artificial intelligence, computer screen, data visualization, futuristic interface"
+    },
+    {
+      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+      "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+      "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but [&#8230;]",
+      "published": "2026-09-03T22:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія презентувала новий бездротовий павербанк із технологією рідкого охолодження та прозорим дисплеєм Cyber Window. Гаджет коштує 150 доларів і пропонує користувачам візуальний контроль за потоком охолоджувальної рідини всередині.",
+      "ai_title": "Ugreen випустила унікальний павербанк із прозорим охолодженням",
+      "video_keywords": "power bank, glowing liquid, translucent tech, futuristic gadget"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "summary": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+      "published": "2026-09-03T21:20:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналіз 17 тисяч запусків ШІ-систем на кшталт Claude, Codex та Cursor допоміг з'ясувати їхні улюблені інструменти для роботи. Дослідження показує реальні патерни поведінки та вибору технологій сучасними штучними інтелектами.",
+      "ai_title": "Які інструменти найчастіше обирають популярні ШІ-агенти",
+      "video_keywords": "programmer working, computer monitor, typing code, developer desk"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "published": "2026-09-01T22:08:24+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Штучний інтелект-стартап AfterQuery досяг оцінки в 3,2 мільярда доларів лише через п'ять місяців після попереднього раунду фінансування. Такий стрімкий зліт робить компанію рекордсменом серед випускників інкубатора Y Combinator.",
-      "ai_title": "AfterQuery стала найшвидшим єдинорогом в історії Y Combinator",
-      "video_keywords": "startup office, financial chart, businesswoman working, modern boardroom"
-    },
-    {
-      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
-      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "published": "2026-09-01T21:06:24+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія OpenAI анонсувала вихід нової мовної моделі Astra та заходи безпеки, які вона впроваджує. Новий штучний інтелект демонструє надзвичайну здатність знаходити вразливості та проникати в комп'ютерні системи.",
-      "ai_title": "OpenAI готує до релізу нову модель Astra з високим ризиком кібербезпеки",
-      "video_keywords": "futuristic code, hacker typing, computer screen, cybersecurity interface"
-    },
-    {
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "published": "2026-09-01T20:53:05+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Свіже оновлення операційної системи Android приносить покращення доступності, інструменти проти захисту від захитування в транспорті та нові можливості штучного інтелекту Gemini. Деякі з функцій наздогадкують аналогічні рішення від Apple.",
-      "ai_title": "Google випустив масштабне оновлення Android із новими функціями",
-      "video_keywords": "smartphone in hand, mobile app, person swiping screen, modern phone"
-    },
-    {
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
-      "published": "2026-09-01T20:48:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа X почала розслідування масової розсилки запитів на скидання паролів, яка збіглася в часі з запуском нової платіжної системи X Money. Компанія підозрює цілеспрямовану кібератаку на акаунти користувачів.",
-      "ai_title": "Соцмережа X зафіксувала хвилю атак після запуску сервісу X Money",
-      "video_keywords": "security alert, hacker attack, warning screen, data breach"
-    },
-    {
-      "title": "Larry Page’s flying car company Pivotal loses its CEO",
-      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\"",
-      "published": "2026-09-01T23:59:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Виконавчий директор компанії Pivotal, що займається розробкою літаючих автомобілів за підтримки засновника Google Ларрі Пейджа, залишив свою посаду. Компанія повідомила, що він пішов заради нових проєктів. Це кадрове потрясіння стає серйозним викликом для стартапу на тлі високої конкуренції в галузі персонального авіатранспорту.",
-      "ai_title": "Компанія літаючих авто Ларрі Пейджа Pivotal втратила генерального директора",
-      "video_keywords": "flying car, electric aircraft, corporate office, business meeting"
-    },
     {
       "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
       "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
@@ -581,16 +511,6 @@
       "ai_summary": "Платформа JioHotstar від Reliance готується до міжнародного запуск у Великій Британії, Канаді та Сінгапурі. Однак сервіс пропонуватиме виключно розважальний контент, опустивши спортивні трансляції, які були ключовим драйвером його популярності в Індії. Такий крок має на меті завоювати нову західну аудиторію.",
       "ai_title": "Стрімінговий гігант JioHotstar виходить на глобальний ринок без спорту",
       "video_keywords": "person watching streaming video, smartphone screen, television remote, digital tablet app"
-    },
-    {
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-      "published": "2026-09-01T22:13:34+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Карти Apple долучилися до ініціативи Google і виконали виконавчий указа президента Дональда Трампа щодо зміни назви озера Онтаріо на Озеро Америка. Це рішення викликало широкий резонанс у технологічних та політичних колах. Корпораціям доводиться адаптуватися до нових державних вимог щодо географічних назв.",
-      "ai_title": "Apple Maps перейменувала озеро Онтаріо на «Лейк Америка» через указ Трампа",
-      "video_keywords": "digital map on smartphone, GPS navigation, satellite view, person tapping touchscreen"
     },
     {
       "title": "Uber is laying off 10% of staff, or 3,300 people",
@@ -911,29 +831,29 @@
       "ai_summary": "OpenAI випустила передову модель GPT-6 Astra, яка, за словами компанії, знаменує настання ери загального штучного інтелекту (AGI). Нова система здатна автономно виконувати складні завдання краще за людей.",
       "ai_title": "OpenAI оголосила про початок ери AGI з виходом GPT-6 Astra",
       "video_keywords": "server room, data center, glowing lights, futuristic interface"
+    },
+    {
+      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "published": "2026-09-03T22:18:30+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія опублікувала спеціальну форму на своєму сайті для збору контактів від людей, зацікавлених у придбанні транспортних засобів для роботи у складі автопарку Cybercab. Це свідчить про перехід Tesla до активної фази комерціалізації своїх майбутніх безпілотників через партнерські мережі.",
+      "ai_title": "Tesla закликає інвесторів купувати та керувати автопарками роботаксі Cybercab",
+      "video_keywords": "electric car, autonomous vehicle, futuristic car, city street"
+    },
+    {
+      "title": "Startup ARR is less secure than ever, new research shows",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+      "published": "2026-09-03T20:59:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нові дослідження показують, що регулярний річний дохід (ARR) стартапів став менш прогнозованим через зміну моделей корпоративних закупівель. Молоді компанії наразі намагаються адаптуватися до нових реалій ринку, які суттєво змінила поява технологій штучного інтелекту.",
+      "ai_title": "Ера штучного інтелекту підірвала фінансову стабільність стартапів",
+      "video_keywords": "startup office, business meeting, analytics dashboard, modern workspace"
     }
   ],
   "Крипта": [
-    {
-      "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
-      "link": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK crime agency froze $13.5M amid probe into Premier League crypto sponsor\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1F30K3TFNEHQA4RAGQF4Y0F/official-clerk-document-screen-regulation-gambling.jpg\" /></p><p>UK authorities froze $13.5 million in cash following a January 2025 ord",
-      "published": "2026-09-01T20:14:12+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Британські правоохоронці заблокували значну суму готівки в межах розслідування щодо криптокомпанії, яка спонсорує клуби Англійської Прем'єр-ліги. Це сталося після судового рішення на початку року.",
-      "ai_title": "У Великій Британії заморозили 13,5 мільйона доларів через криптоспонсора АПЛ",
-      "video_keywords": "police investigation, courthouse, british flag, counting cash"
-    },
-    {
-      "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
-      "link": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance expands TradFi push with options on 1,000 US stocks, ETFs\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1FC2WR1JDBZ2YXX51TY5S5E/man-office-screen-computer02.png\" /></p><p>The launch gives eligible non-US users access to physically settled options on more than 1,000 US stoc",
-      "published": "2026-09-01T20:42:29+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна біржа Binance розширює свій зв'язок із традиційними фінансами, запускаючи опціони на понад 1000 американських акцій та ETF. Нова функція доступна для неамериканських користувачів і відкриває ширші можливості для торгівлі.",
-      "ai_title": "Binance інтегрує традиційні фінанси: опціони на американські акції",
-      "video_keywords": "trading screen, financial charts, stock market, computer monitor"
-    },
     {
       "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
       "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
@@ -1353,6 +1273,16 @@
       "ai_summary": "Курс біткоїна зріс на 5% та знову перевищив рівень 80 000 доларів США. Це сталося на тлі послаблення американського долара через ймовірне втручання Банку Японії у валютний ринок.",
       "ai_title": "Біткоїн повернув позначку у $80 000 на тлі падіння долара та інтервенції щодо єни",
       "video_keywords": "bitcoin chart, stock market trading, financial screens, digital graphs"
+    },
+    {
+      "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+      "link": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC files to dismiss CME lawsuit over crypto perpetual futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg\" /></p><p>The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to f",
+      "published": "2026-09-03T21:09:13+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Комісія з торгівлі товарними ф'ючерсами США подала клопотання про закриття судової справи з боку CME Group. Регулятор вважає претензії безпідставними та заявляє, що позивач не має юридичних підстав для позову.",
+      "ai_title": "CFTC вимагає відхилити позов CME щодо криптоф'ючерсів",
+      "video_keywords": "courtroom, legal documents, judge gavel, man reading papers"
     }
   ]
 }
