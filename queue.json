@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
-      "link": "https://antigravity.google/docs/boost/",
-      "summary": "<p>Article URL: <a href=\"https://antigravity.google/docs/boost/\">https://antigravity.google/docs/boost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517537\">https://news.ycombinator.com/item?id=49517537</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
-      "published": "2026-09-01T03:05:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Google розширює можливості своєї платформи Antigravity за допомогою нової функції Boost deep reasoning. Вона призначена для вирішення складних обчислювальних завдань та підвищення точності штучного інтелекту. Цей інструмент оптимізує процеси глибокого аналізу даних.",
-      "ai_title": "Google Antigravity представляє функцію глибокого логічного мислення Boost",
-      "video_keywords": "artificial intelligence, server rack, glowing code, data center"
-    },
-    {
-      "title": "Tailcat: Tailscale Without Tailscale, by Tailscale",
-      "link": "https://tailscale.com/blog/tailcat",
-      "summary": "<p>Article URL: <a href=\"https://tailscale.com/blog/tailcat\">https://tailscale.com/blog/tailcat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517420\">https://news.ycombinator.com/item?id=49517420</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-01T02:47:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Команда Tailscale презентувала новий проєкт Tailcat, який дозволяє користуватися перевагами віртуальних приватних мереж за альтернативними сценаріями. Розробники розповіли про архітектуру рішення та технічні особливості його налаштування. Новинка вже привернула увагу фахівців з кібербезпеки.",
-      "ai_title": "Tailcat від Tailscale: безпечна мережа без використання самого Tailscale",
-      "video_keywords": "network cables, computer monitor, cyber security, server room"
-    },
-    {
-      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-      "link": "https://github.com/fregacmols/RotaryCell",
-      "summary": "<p>Article URL: <a href=\"https://github.com/fregacmols/RotaryCell\">https://github.com/fregacmols/RotaryCell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517297\">https://news.ycombinator.com/item?id=49517297</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "2026-09-01T02:29:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіаст створив проєкт RotaryCell, який дає змогу використовувати класичний дисковий телефон у сучасних мобільних мережах. Для цього було задіяно мікроконтролер ESP32-S3 без модифікації самого апарату. Це цікавий приклад поєднання ретро-дизайну та сучасних бездротових технологій.",
-      "ai_title": "Старий дисковий телефон підключили до мережі LTE за допомогою плати ESP32-S3",
-      "video_keywords": "vintage telephone, rotary dial, microchip, soldering iron"
-    },
-    {
-      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-      "link": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-      "summary": "<p>Article URL: <a href=\"https://www.dolthub.com/blog/2026-08-31-doltlite-beta/\">https://www.dolthub.com/blog/2026-08-31-doltlite-beta/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516848\">https://news.ycombinator.com/item?id=49516848</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-01T01:25:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено бета-версію DoltLite — форк популярної бази даних SQLite, створений за допомогою тисяч запитів на пул від штучного інтелекту. Головна особливість проєкту полягає у вбудованому управлінні версіями, що нагадує роботу з Git. Це спрощує відстеження змін у локальних базах даних.",
-      "ai_title": "DoltLite: розгалуження SQLite із системою контролю версій у стилі Git",
-      "video_keywords": "code on screen, programming, database, computer screen"
-    },
-    {
       "title": "Dyson made a camera-equipped toothbrush that flosses for you",
       "link": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
       "summary": "Dyson is once again expanding its line of personal care products with a device that focuses on your teeth instead of your hair. As the name implies, the $499 CameraJet is the first electric toothbrush to incorporate a camera into the brush head. Available starting today in ceramic blue or ceramic pink color options, it [&#8230;]",
@@ -519,6 +479,16 @@
       "ai_summary": "Компанія Uber випередила конкурентів і першою запустила комерційний сервіс роботаксі на вулицях Лондона. Автомобілі використовують технологію автономного водіння від британського стартапу Wayve, а на першому етапі в салоні обов'язково перебуватимуть водії-випробувачі. Це знаменний крок для розвитку безпілотного транспорту у Великій Британії.",
       "ai_title": "Uber випередив Waymo та запустив перші роботаксі в Лондоні",
       "video_keywords": "autonomous car, driving street, london city, modern taxi"
+    },
+    {
+      "title": "Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical unrest'",
+      "link": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest\">https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49545747\">https://news.ycombinator.com/item?id=49545747</a></p>\n<",
+      "published": "2026-09-03T03:53:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Центральний банк Нідерландів вирішив перевезти 86 тонн золота зі США через зростання геополітичної напруженості у світі. Це рішення підкреслює глобальні побоювання щодо безпеки активів за кордоном.",
+      "ai_title": "Нідерландський банк вивозить золото через геополітичні ризики",
+      "video_keywords": "gold bars, bank vault, stack of gold, currency exchange"
     }
   ],
   "Бізнес / Стартапи": [
@@ -889,36 +859,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
-      "link": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
-      "summary": "",
-      "published": "2026-09-01T03:49:39+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "На тлі тижневого зростання ціни XRP на 40% на біржі CME зафіксовано різке збільшення частки ринку криптовалютних ф'ючерсів. Це свідчить про підвищений інтерес інституційних інвесторів до цього активу та загальне пожвавлення ринку.",
-      "ai_title": "Частка CME у ф'ючерсах на XRP стрімко зросла на тлі ралі токена",
-      "video_keywords": "stock market ticker, glowing numbers, trading floor, financial graphs"
-    },
-    {
-      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
-      "link": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Thailand SEC proposes retail access to regulated overseas crypto derivatives\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DH1WEZ277YHH7XH1QMY4YC/regulations-thailand-crypto.jpg\" /></p><p>Thailand’s SEC seeks comments on rules requiring retail-accessible overseas crypto derivativ",
-      "published": "2026-09-01T03:49:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Регулятор Таїланду ініціював громадське обговорення нових правил, які дозволять роздрібним трейдерам легально торгувати регульованими закордонними деривативами на криптовалюту. Крок спрямований на розширення можливостей інвесторів із забезпеченням належного рівня захисту.",
-      "ai_title": "Комісія з цінних паперів Таїланду відкриває доступ роздрібним інвесторам до закордонних криптодеривативів",
-      "video_keywords": "digital tablet, financial app, stock trading, office desk"
-    },
-    {
-      "title": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
-      "link": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
-      "summary": "",
-      "published": "2026-09-01T08:35:57+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ринкові фонди демонструють позитивну динаміку після періоду коливань. Біткоїн-ETF знову залучають капітал, тоді як ефір-фонди продовжують тривалу серію притоку інвестицій.",
-      "ai_title": "Біткоїн-ETF відновлюють купівлю, а фонди на базі Ethereum тримають рекордну серію",
-      "video_keywords": "stock market chart, digital graphs, financial trading floor, computer screens"
-    },
     {
       "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
       "link": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
@@ -1298,6 +1238,26 @@
       "ai_summary": "Біржа Coinbase тепер пропонує кваліфікованим трейдерам у Канаді ф'ючерси з кредитним плечем до 10x. Це розширює легальні можливості для торгівлі похідними інструментами в регіоні.",
       "ai_title": "Coinbase запускає регульовані криптодеривативи в Канаді",
       "video_keywords": "stock market trading, financial charts, smartphone trading app, business district"
+    },
+    {
+      "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+      "link": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
+      "summary": "",
+      "published": "2026-09-03T04:58:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Одна з японських публічних компаній вирішила продати свій портфель альткоїнів на користь біткоїна. Єдиним активом, який приніс збитки під час цієї стратегічної рокіровки, виявився мемкоїн Dogecoin. Тепер фірма повністю фокусується на головній криптовалюті світу.",
+      "ai_title": "Японська компанія позбулася альткоїнів заради біткоїна",
+      "video_keywords": "cryptocurrency trading, office computer screen, financial charts, digital coins"
+    },
+    {
+      "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+      "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+      "summary": "",
+      "published": "2026-09-03T04:22:40+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс біткоїна знову перевищив позначку в 77 500 доларів на тлі зниження ймовірності підвищення ставки ФРС до 62%. Водночас токен XRP продемонстрував найкращі результати серед найбільших криптовалют. Ринки реагують на зміни макроекономічних прогнозів у США.",
+      "ai_title": "Біткоїн знову подорожчав, а XRP очолив зростання ринку",
+      "video_keywords": "stock market graph, green trading candles, financial data display, cryptocurrency growth"
     }
   ]
 }
