@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "link": "https://arxiv.org/abs/2608.29530",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.29530\">https://arxiv.org/abs/2608.29530</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49531651\">https://news.ycombinator.com/item?id=49531651</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-02T04:15:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники вивчають нові аспекти поведінки штучних нейронних мереж та виникнення в них комплексних символічних структур. Робота проливає світло на те, як глибокі моделі обробляють інформацію та формують внутрішні абстракції.",
-      "ai_title": "Виявлення символічних структур в штучних нейронних мережах",
-      "video_keywords": "neural network visualization, glowing data streams, abstract digital connections, futuristic computer code"
-    },
-    {
-      "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance",
-      "link": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-      "summary": "Microsoft is getting ready to roll out its memory integrity security feature of Windows 11 to more devices next month. The kernel-level protection feature is designed to stop malicious code or drivers running on a Windows 11 machine, but Microsoft previously warned it can also impact PC gaming performance. \"Windows quality updates will begin enabling [&#8230;]",
-      "published": "2026-09-02T08:57:40+00:00",
-      "source": "The Verge",
-      "ai_summary": "Наступного місяця Microsoft почне масово впроваджувати функцію цілісності пам'яті у Windows 11 на більшості пристроїв. Цей захист на рівні ядра блокує шкідливий код, проте компанія раніше попереджала про можливе зниження продуктивності в іграх.",
-      "ai_title": "Microsoft увімкне функцію безпеки у Windows 11, яка може погіршити ігрову продуктивність",
-      "video_keywords": "computer gaming, windows operating system, pc screen, gamer hands"
-    },
-    {
       "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
       "link": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
       "summary": "Dell's new Dell 14S laptop sounds a lot like a MacBook Neo: it comes in four colors, is aimed at students, and it starts with 8GB of RAM and 256GB of storage. Announced at IFA 2026, the 14S is meant to sit below the recently launched XPS 13 and offer another affordable laptop option as [&#8230;]",
@@ -469,6 +449,16 @@
       "ai_summary": "Аналіз 17 тисяч запусків ШІ-систем на кшталт Claude, Codex та Cursor допоміг з'ясувати їхні улюблені інструменти для роботи. Дослідження показує реальні патерни поведінки та вибору технологій сучасними штучними інтелектами.",
       "ai_title": "Які інструменти найчастіше обирають популярні ШІ-агенти",
       "video_keywords": "programmer working, computer monitor, typing code, developer desk"
+    },
+    {
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "summary": "<p>Article URL: <a href=\"https://www.agentconnect.md/blog/grep-beat-lsp-harness/\">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560260\">https://news.ycombinator.com/item?id=49560260</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+      "published": "2026-09-04T03:40:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники помітили дивну тенденцію: сучасні штучні інтелекти для написання коду часто ігнорують складні протоколи на кшталт LSP на користь базового пошуку через grep. Такий підхід виявляється надійнішим і швидшим для агентів, які орієнтуються у великих кодових базах. Це змушує переосмислити те, як ми створюємо середовища розробки для майбутніх AI-систем.",
+      "ai_title": "Чому агенти з програмування обирають простий пошук замість складних інструментів",
+      "video_keywords": "developer typing code, computer screen, terminal text, programming monitor"
     }
   ],
   "Бізнес / Стартапи": [
@@ -821,29 +811,19 @@
       "ai_summary": "Фінська компанія Oura, відома своїми фітнес-кільцями, подала заявку на первинне публічне розміщення акцій (IPO). Таке рішення зумовлене значним зростанням доходів бізнесу за останній рік та зростаючою популярністю гаджетів для здоров'я.",
       "ai_title": "Флагманський виробник смарт-кілець Oura готується до виходу на біржу",
       "video_keywords": "smart ring, wearable technology, finger biometric, stock market growth"
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "published": "2026-09-04T04:21:03+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Ресторатори все частіше використовують генеративний штучний інтелект для створення меню, але це призводить до одноманітності. Відвідувачі швидко помічають неприродність таких зображень та описів їжі, що викликає у них недовіру.",
+      "ai_title": "Чому штучний інтелект псує меню ресторанів",
+      "video_keywords": "restaurant menu, digital tablet, fast food, reading menu"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
-      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
-      "summary": "",
-      "published": "2026-09-02T04:40:36+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта демонструє неабияку стійкість на тлі зростання прибутковості облігацій та нафти по 90 доларів, тоді як золото втрачає позиції. Головним викликом для ринку залишається лише міцний курс долара.",
-      "ai_title": "Біткоїн тримається попри дорожчання нафти та падіння золота",
-      "video_keywords": "bitcoin coin, gold bars, financial charts, stock exchange screen"
-    },
-    {
-      "title": "Core DAO plans emergency hard fork after validators drew excess rewards",
-      "link": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core DAO plans emergency hard fork after validators drew excess rewards\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1G5839NS07S6W53BDEES0HC/man-hacker-breaking-blockchain-1.jpg\" /></p><p>Core says the incident is contained and its planned forward upgrade will not roll back the n",
-      "published": "2026-09-02T04:15:34+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Команда блокчейну змушена провести терміновий хардфорк після того, як валідатори помилково отримали надлишкові винагороди. Розробники запевняють, що ситуація під контролем, а майбутнє оновлення не призведе до відкату мережі.",
-      "ai_title": "Core DAO готує екстрений хардфорк через збій валідаторів",
-      "video_keywords": "hacker typing keyboard, digital code, server room, cybersecurity"
-    },
     {
       "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1243,6 +1223,46 @@
       "ai_summary": "Тайські бізнесмени подали позов проти емітента стейблкоїнів Tether через заморожування 42 мільйонів доларів у USDT, пов'язаних із шахрайськими схемами. Тим часом тисячі студентів в Азії отримують доступ до нових криптовалютних кредитів. Цей інцидент підкреслює зростаючу напругу між регулюванням цифрових активів та боротьбою з кіберзлочинністю.",
       "ai_title": "Tether зіткнулася з позовом через заморожені криптовалютні активи",
       "video_keywords": "cryptocurrency, digital currency, court lawsuit, financial transaction"
+    },
+    {
+      "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
+      "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
+      "summary": "",
+      "published": "2026-09-04T04:22:01+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта демонструє впевнене зростання, подолавши психологічний рубіж у 81 тисячу доларів. Разом із цим альткоїни також показують позитивну динаміку, зокрема Zcash зріс одразу на 15%.",
+      "ai_title": "Біткоїн перевищив позначку в 81 000 доларів на тлі зниження очікувань щодо підвищення ставки",
+      "video_keywords": "bitcoin chart, green candles, stock market monitor, cryptocurrency trading"
+    },
+    {
+      "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
+      "link": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
+      "summary": "",
+      "published": "2026-09-04T03:26:50+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Новий блокчейн-банк отримав початковий дозвіл на операційну діяльність від американського регулятора. Це відкриває додаткові можливості для інтеграції традиційних фінансів та технології блокчейн.",
+      "ai_title": "Банківський регулятор США схвалив роботу блокчейн-банку OpenReserve",
+      "video_keywords": "bank building, handshake, signing documents, modern office"
+    },
+    {
+      "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
+      "link": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
+      "summary": "",
+      "published": "2026-09-04T03:03:25+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керівник кінотеатральної мережі AMC різко висловився на адресу торгової платформи через появу токенізованих акцій. Це знову привернуло увагу ринку до проблеми штучних цінних паперів.",
+      "ai_title": "Голова AMC розкритикував Robinhood через токенізовані акції",
+      "video_keywords": "angry executive, smartphone trading, stock exchange floor, financial graphs"
+    },
+    {
+      "title": "US, UK launch joint alliance targeting crypto scam centers",
+      "link": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US, UK launch joint alliance targeting crypto scam centers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NB3D2EEQMKVH8E9QFSYFWH/hi-anti-pig-butchering-policy-in-crypto-cambodia.png\" /></p><p>The agreement includes parallel investigations and information sharing, with US and UK au",
+      "published": "2026-09-04T04:33:55+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Дві держави об'єднали зусилля для боротьби з шахрайськими центрами у сфері цифрових активів. Партнерство передбачає спільні розслідування та обмін розвідувальною інформацією.",
+      "ai_title": "США та Велика Британія створили спільний альянс проти криптошахраїв",
+      "video_keywords": "police officers, computer screens, cyber security, handshake"
     }
   ]
 }
