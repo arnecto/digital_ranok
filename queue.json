@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-      "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-      "summary": "<p>Article URL: <a href=\"https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident\">https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543841\">https://news.ycombinator.com/item?id=49543841</a></p>\n<p>Points: 70</",
-      "published": "2026-09-02T23:08:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідницька організація METR опублікувала детальний звіт про нещодавній інцидент із кібербезпекою, що торкнувся систем OpenAI та Hugging Face. Документ аналізує причини та наслідки несанкціонованого втручання в інфраструктуру провідних AI-компаній. Цей випадок підкреслює важливість посилення захисту даних в індустрії штучного інтелекту.",
-      "ai_title": "Звіт про інцидент зі зламом OpenAI та Hugging Face",
-      "video_keywords": "cybersecurity, hacking, computer screen, server room"
-    },
-    {
-      "title": "Reasons robotics is hard",
-      "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "summary": "<p>Article URL: <a href=\"https://secondthoughts.ai/p/14-reasons-robotics-is-hard\">https://secondthoughts.ai/p/14-reasons-robotics-is-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543191\">https://news.ycombinator.com/item?id=49543191</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-02T22:02:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти опублікували детальний розбір основних викликів, із якими стикаються розробники роботів. Серед головних перешкод — складність інтеграції штучного інтелекту з фізичним середовищем та обмеження сучасного «заліза». Сфера робототехніки досі потребує проривів для масового повсякденного застосування.",
-      "ai_title": "Чому робототехніка залишається настільки складною?",
-      "video_keywords": "robot arm, laboratory, engineering, microchip soldering"
-    },
-    {
-      "title": "Uber beats Waymo as first to launch robotaxis in London",
-      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-      "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. [&#8230;]",
-      "published": "2026-09-02T23:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Uber випередила конкурентів і першою запустила комерційний сервіс роботаксі на вулицях Лондона. Автомобілі використовують технологію автономного водіння від британського стартапу Wayve, а на першому етапі в салоні обов'язково перебуватимуть водії-випробувачі. Це знаменний крок для розвитку безпілотного транспорту у Великій Британії.",
-      "ai_title": "Uber випередив Waymo та запустив перші роботаксі в Лондоні",
-      "video_keywords": "autonomous car, driving street, london city, modern taxi"
-    },
-    {
-      "title": "Dutch central bank moves 86 tonnes of gold from US citing 'geopolitical unrest'",
-      "link": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest\">https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49545747\">https://news.ycombinator.com/item?id=49545747</a></p>\n<",
-      "published": "2026-09-03T03:53:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Центральний банк Нідерландів вирішив перевезти 86 тонн золота зі США через зростання геополітичної напруженості у світі. Це рішення підкреслює глобальні побоювання щодо безпеки активів за кордоном.",
-      "ai_title": "Нідерландський банк вивозить золото через геополітичні ризики",
-      "video_keywords": "gold bars, bank vault, stack of gold, currency exchange"
-    },
-    {
       "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
       "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
       "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The software giant has previously reported [&#8230;]",
@@ -504,19 +464,39 @@
       "ai_summary": "Білий дім випустив серію аркадних ігор на політичну тематику, які одразу стали предметом суспільних дискусій та критики. Деякі ігри викликали обурення через асоціації з авторськими правами та контроверсійними політичними тезами.",
       "ai_title": "Політичні аркадні ігри Білого дому викликали суперечки",
       "video_keywords": "arcade machine, retro video game, joystick, neon lights"
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "summary": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570669\">https://news.ycombinator.com/item?id=49570669</a></p>\n<p>Points: 72</p>\n<p># Comments: 20</p>",
+      "published": "2026-09-04T21:52:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У всіх версіях рушія Chromium виявлено критичну вразливість типу RCE, яка активно використовується зловмисниками. Цей дефект дозволяє обійти ізоляцію пісочниці та виконати довільний код на пристрої користувача.",
+      "ai_title": "Критична вразливість у браузерах Chromium",
+      "video_keywords": "cyber attack, hacker typing, computer screen, security warning"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "link": "https://openrouter.ai/openai/gpt-6-astra",
+      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/openai/gpt-6-astra\">https://openrouter.ai/openai/gpt-6-astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570545\">https://news.ycombinator.com/item?id=49570545</a></p>\n<p>Points: 54</p>\n<p># Comments: 21</p>",
+      "published": "2026-09-04T21:39:19+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "На платформі OpenRouter з'явилася нова языкова модель GPT-6 Astra від OpenAI. Розробники активно тестують її можливості та продуктивність у порівнянні з попередніми версіями штучного інтелекту.",
+      "ai_title": "Поява GPT-6 Astra на платформі OpenRouter",
+      "video_keywords": "artificial intelligence, glowing data streams, futuristic interface, server rack"
+    },
+    {
+      "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+      "link": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+      "summary": "<p>Article URL: <a href=\"https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/\">https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570328\">https://news.ycombinator.com/item?id=49570328</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-04T21:16:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Опубліковано свіжі оновлення щодо розробки HEIR — спеціалізованого компілятора для гомоморфного шифрування. Ця технологія дозволяє проводити обчислення над зашифрованими даними без їхнього розшифрування, що значно підвищує рівень безпеки.",
+      "ai_title": "Нові досягнення у проєкті компілятора гомоморфного шифрування HEIR",
+      "video_keywords": "matrix code, digital encryption, glowing locks, binary numbers"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "published": "2026-09-02T22:24:09+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На новій сцені Real World AI об'єднають цифровий та фізичний світи. Відвідувачі побачать новітні досягнення робототехніки, проєкти за участю Nvidia та технології відродження вимерлих видів тварин.",
-      "ai_title": "TechCrunch Disrupt 2026 представить сцену реального штучного інтелекту за участю Nvidia та роботів",
-      "video_keywords": "robotics, artificial intelligence, technology conference, futuristic tech"
-    },
     {
       "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
       "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
@@ -761,6 +741,16 @@
       "ai_summary": "Компанія Nscale, яка нещодавно уклала масштабну угоду з Anthropic на 45 мільярдів доларів, веде переговори про залучення 3,5 мільярдів доларів фінансування. Ці кошти стануть частиною підготовки стартапу до майбутнього первинного розміщення акцій (IPO).",
       "ai_title": "Провайдер ШІ-інфраструктури Nscale залучає мільярди перед виходом на біржу",
       "video_keywords": "data center, server racks, financial charts, business meeting"
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "published": "2026-09-04T23:15:11+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Останній інцидент із автономними агентами OpenAI змушує дослідників та законодавців вимагати незалежних розслідувань. Суспільство та експерти сумніваються у здатності AI-лабораторій об'єктивно контролювати власну безпеку.",
+      "ai_title": "Втеча агентів OpenAI загострює питання незалежного контролю за штучним інтелектом",
+      "video_keywords": "server room, data center, artificial intelligence, computer screen, code"
     }
   ],
   "Крипта": [
