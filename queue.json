@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-      "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-      "summary": "<p>Article URL: <a href=\"https://www.agentconnect.md/blog/grep-beat-lsp-harness/\">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560260\">https://news.ycombinator.com/item?id=49560260</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
-      "published": "2026-09-04T03:40:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники помітили дивну тенденцію: сучасні штучні інтелекти для написання коду часто ігнорують складні протоколи на кшталт LSP на користь базового пошуку через grep. Такий підхід виявляється надійнішим і швидшим для агентів, які орієнтуються у великих кодових базах. Це змушує переосмислити те, як ми створюємо середовища розробки для майбутніх AI-систем.",
-      "ai_title": "Чому агенти з програмування обирають простий пошук замість складних інструментів",
-      "video_keywords": "developer typing code, computer screen, terminal text, programming monitor"
-    },
-    {
       "title": "47% faster than the previous model. OpenAI released GPT-6 Astra",
       "link": "https://en.ain.ua/2026/09/04/openai-released-gpt-6-astra/",
       "summary": "The new model works better with computers, code, browsers, and professional tasks.",
@@ -464,19 +454,39 @@
       "ai_summary": "З оновленням iOS з'явиться зручна функція iPhone Handoff, яка дозволяє безперешкодно перемикатися між двома різними айфонами, що використовують один і той самий номер телефону. Це рішення спростить використання кількох пристроїв однією людиною.",
       "ai_title": "Apple готує функцію iPhone Handoff для спільного номера на двох телефонах",
       "video_keywords": "smartphone screen, hands typing, mobile phone, modern device"
+    },
+    {
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "link": "https://github.com/okf-memory/okf-agent-memory",
+      "summary": "<p>Article URL: <a href=\"https://github.com/okf-memory/okf-agent-memory\">https://github.com/okf-memory/okf-agent-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49581240\">https://news.ycombinator.com/item?id=49581240</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-05T22:15:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено інструмент OKF Agent Memory, який забезпечує Git-нативну постійну пам'ять для штучного інтелекту під час написання коду. Це дозволяє агентам ефективніше зберігати контекст та історію змін безпосередньо у сховищі коду.",
+      "ai_title": "Нова постійна пам'ять для AI-агентів на базі Git",
+      "video_keywords": "programmer typing, code on screen, developer desk, dual monitors"
+    },
+    {
+      "title": "America's two largest school districts impose AI moratoriums",
+      "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "summary": "<p>Article URL: <a href=\"https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/\">https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49580980\">https://news.ycombinator.com/item?id=49580980</a></p>\n<p>Points: 37</p>\n<p># Comments: 28</p>",
+      "published": "2026-09-05T21:43:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Два найбільші шкільні округи США вирішили тимчасово заборонити використання штучного інтелекту у навчальному процесі. Таке рішення пов'язане з необхідністю детально оцінити ризики та вплив нових технологій на академічну доброчесність учнів.",
+      "ai_title": "Найбільші шкільні округи Америки вводять мораторій на штучний інтелект",
+      "video_keywords": "classroom, students studying, school hallway, teacher writing on board"
+    },
+    {
+      "title": "How AI is breaking the British state",
+      "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state\">https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49580687\">https://news.ycombinator.com/item?id=49580687</a></p>\n<p>Points: 22</p>\n<p># Comments: 23</p>",
+      "published": "2026-09-05T21:05:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти аналізують вплив масового впровадження штучного інтелекту на державні інституції Великої Британії. Швидкі технологічні зміни створюють непередбачувані виклики для бюрократичного апарату та чинної законодавчої бази.",
+      "ai_title": "Як штучний інтелект руйнує державну систему Великої Британії",
+      "video_keywords": "government building, london streets, politician speaking, office worker at desk"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Oura files to go public",
-      "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "published": "2026-09-03T22:35:41+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Фінська компанія Oura, відома своїми фітнес-кільцями, подала заявку на первинне публічне розміщення акцій (IPO). Таке рішення зумовлене значним зростанням доходів бізнесу за останній рік та зростаючою популярністю гаджетів для здоров'я.",
-      "ai_title": "Флагманський виробник смарт-кілець Oura готується до виходу на біржу",
-      "video_keywords": "smart ring, wearable technology, finger biometric, stock market growth"
-    },
     {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
       "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
@@ -621,6 +631,16 @@
       "ai_summary": "Шрифтовий офіс повідомив, що чат-бот Google Gemini порадив мандрівникам взяти у похід значно менше їжі та води, ніж їм реально було потрібно. Через це туристів довелося рятувати. Цей випадок вкотре підіймає питання безпеки та надійності порад від штучного інтелекту.",
       "ai_title": "Помилка штучного інтелекту: туристів врятували після планування походу через Google Gemini",
       "video_keywords": "hikers mountains, rescue helicopter, smartphone map, lost backpacker"
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "published": "2026-09-05T22:49:55+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Видання Seattle Times та Newsday приєдналися до хвилі позовів проти техногігантів. Вони звинувачують компанії у несанкціонованому використанні їхніх матеріалів для навчання штучного інтелекту.",
+      "ai_title": "Ще дві американські газети подали до суду на OpenAI та Microsoft",
+      "video_keywords": "courtroom, lawsuit, lawyer, legal documents"
     }
   ],
   "Крипта": [
