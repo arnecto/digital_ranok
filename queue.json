@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-      "link": "https://www.mireye.com",
-      "summary": "<p>Hi HN, I'm Ansh, founder of Mireye. I'm building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server.<p>Here's a demo video: <a href=\"https://youtu.be/haqO6UbUqU0\" rel=\"nofollow\">https://youtu.be/haqO6UbUqU0</a><p>To try it, paste <a href=\"https://www.mireye.com/skills.md\">https://www.m",
-      "published": "2026-09-03T16:24:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт Mireye запустив нову інфраструктуру для агентів штучного інтелекту, що допомагає їм аналізувати реальні фізичні місця та приймати рішення. Інструмент надає доступ до даних, аналітики та сигналів через єдиний API та MCP-сервер для будь-якої точки в США.",
-      "ai_title": "Нова платформа Mireye для прийняття рішень штучним інтелектом у реальному світі",
-      "video_keywords": "artificial intelligence, city map, data analytics, futuristic interface"
-    },
-    {
-      "title": "GPT-6 Astra",
-      "link": "https://openai.com/index/gpt-6-astra/",
-      "summary": "<p>System Card: <a href=\"https://deploymentsafety.openai.com/gpt-6-astra\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-6-astra</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554643\">https://news.ycombinator.com/item?id=49554643</a></p>\n<p>Points: 307</p>\n<p># Comments: 149</p>",
-      "published": "2026-09-03T18:41:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI представила нову масштабну модель штучного інтелекту під назвою GPT-6 Astra. Вона позиціонується як поколінний стрибок у можливостях та вже привертає величезну увагу спільноти своєю системною архітектурою.",
-      "ai_title": "OpenAI анонсувала нову модель GPT-6 Astra",
-      "video_keywords": "artificial intelligence, futuristic interface, glowing data, digital brain"
-    },
-    {
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "link": "https://inference-docs.cerebras.ai/models/overview",
       "summary": "<p>Article URL: <a href=\"https://inference-docs.cerebras.ai/models/overview\">https://inference-docs.cerebras.ai/models/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554520\">https://news.ycombinator.com/item?id=49554520</a></p>\n<p>Points: 225</p>\n<p># Comments: 74</p>",
@@ -29,26 +9,6 @@
       "ai_summary": "Модель штучного інтелекту Qwen 3.8 27B тепер доступна на платформі Cerebras. Вона демонструє вражаючу швидкість генерації на рівні 1500 токенів за секунду.",
       "ai_title": "Модель Qwen 3.8 27B досягла рекордної швидкості на Cerebras",
       "video_keywords": "server rack, microchip, digital data flow, computer hardware"
-    },
-    {
-      "title": "How concerned should we be about Astra's recurrent architecture?",
-      "link": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent\">https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49553321\">https://news.ycombinator.com/item?id=49553321</a></p>\n<p>Points: 33</p>\n<p># Comments: 16</",
-      "published": "2026-09-03T17:10:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У технологічному середовищі активно дискутують щодо потенційних загроз та особливостей нової рекурентної архітектури моделі Astra. Дослідники безпеки аналізують можливі наслідки її впровадження.",
-      "ai_title": "Експерти обговорюють ризики рекурентної архітектури Astra",
-      "video_keywords": "code on screen, cybersecurity, data analysis, hacker terminal"
-    },
-    {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
-      "published": "2026-09-03T18:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Офіційно представлено нову флагманську модель OpenAI — GPT-6 Astra, яку розробники називають проривом у еру штучного загального інтелекту (AGI). Новинка демонструє неймовірні результати у кібербезпеці, програмуванні та наукових дослідженнях.",
-      "ai_title": "Нова модель OpenAI увійшла в епоху AGI",
-      "video_keywords": "futuristic technology, glowing neural network, artificial intelligence screen, modern data center"
     },
     {
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
@@ -484,29 +444,39 @@
       "ai_summary": "Обговорення практики налаштування систем контролю версій, де кожен новий файл чи папка спочатку ігноруються репозиторієм. Це допомагає уникнути випадкового витоку конфіденційних даних та зайвого сміття в історії комітів.",
       "ai_title": "Чому варто додавати все до .gitignore за замовчуванням",
       "video_keywords": "coding on laptop, software development, terminal screen, developer hands"
+    },
+    {
+      "title": "Flock used >100 times to track veteran who recorded traffic stop",
+      "link": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
+      "summary": "<p>Article URL: <a href=\"https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/\">https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49578310\">https://news.ycom",
+      "published": "2026-09-05T16:48:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У Вісконсині правоохоронці використали мережу автоматичного розпізнавання номерів понад сто разів для переслідування ветерана ВМС. Це сталося після того, як він законно зафіксував на відео зупинку дорожнього руху, що викликало занепокоєння щодо стеження за громадянами.",
+      "ai_title": "Поліція понад сто разів стежила за ветераном через системи Flock",
+      "video_keywords": "security camera, license plate scanner, police car, surveillance street"
+    },
+    {
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "summary": "<p>Article URL: <a href=\"https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/\">https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49577975\">https://news.ycombinator.com/it",
+      "published": "2026-09-05T16:13:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Співробітники Wikimedia Foundation переконливо підтримали ідею створення власної профспілки спільно з CWA. Цей крок покликаний покращити умови праці та забезпечити колективний захист прав працівників організації.",
+      "ai_title": "Працівники Фонду Вікімедія масово проголосували за створення профспілки",
+      "video_keywords": "office workers, meeting room, voting paper, group of people working"
+    },
+    {
+      "title": "CD sales are booming as physical media continues its resurgence",
+      "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+      "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, [&#8230;]",
+      "published": "2026-09-05T16:49:33+00:00",
+      "source": "The Verge",
+      "ai_summary": "Згідно звітністю RIAA, у першій половині 2026 року продажі CD в США підскочили на 45,7 відсотка порівняно з минулим роком. Музичні фанати все частіше відмовляються виключно від стримінгів на користь матеріальних носіїв інформації.",
+      "ai_title": "Продажі компакт-дисків стрімко зростають на тлі відродження фізичних носіїв",
+      "video_keywords": "compact discs, music store, holding cd, retro audio equipment"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "published": "2026-09-03T16:09:01+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий стартап Ollie прагне виграти гонку штучного інтелекту, фокусуючись на приватності користувачів. Асистент допомагає в повсякденних справах, але обіцяє не використовувати особисті дані для навчання моделей чи передачі третім особам.",
-      "ai_title": "Сімейний AI-асистент Ollie робить ставку на конфіденційність",
-      "video_keywords": "person using smartphone, AI interface, home interior, typing on laptop"
-    },
-    {
-      "title": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
-      "link": "https://venturebeat.com/security/china-linked-hackers-backdoored-executives-laptops-via-usb-exploiting-a-fix-companies-had-but-werent-using",
-      "summary": "<p>A Chinese state-linked hacking group compromised executive laptops at an agricultural industry conference on Hainan Island this spring — not through phishing or a network breach, but by breaking into hotel rooms and booting the machines from a USB stick while the executives were at dinner. </p><p>CrowdStrike, <a href=\"https://www.crowdstrike.com/en-us/adversaries/overcast-panda/\">which tracks t",
-      "published": "2026-09-03T17:33:09+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "Пов'язане з Китаєм хакерське угруповання зламало ноутбуки керівників сільськогосподарської галузі під час конференції. Зловмисники проникали в готельні номери та завантажували пристрої з USB-носіїв, поки власники були на вечері.",
-      "ai_title": "Хакери зламали ноутбуки топменеджерів через USB-накопичувачі в готелях",
-      "video_keywords": "hotel room door, laptop on desk, usb flash drive, cyber security hacker"
-    },
     {
       "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
       "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
@@ -526,26 +496,6 @@
       "ai_summary": "Відомий стартап веде переговори про раунд фінансування на суму $1 мільярд при оцінці компанії у $40 мільярдів. Його річний дохід вже перевищує $100 мільйонів.",
       "ai_title": "Стартап Thinking Machines може залучити $1 млрд",
       "video_keywords": "business meeting, handshake, corporate office, financial charts"
-    },
-    {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "published": "2026-09-03T18:01:45+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "OpenAI представила нову модель Astra, яка відкриває нові горизонти у використанні комп'ютерів і браузерів. Розробники обіцяють неперевершену швидкість, точність та безпеку виконання завдань.",
-      "ai_title": "OpenAI випускає потужну нову модель Astra",
-      "video_keywords": "artificial intelligence, computer screen, futuristic technology, coding"
-    },
-    {
-      "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
-      "link": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra",
-      "summary": "<p>The rumors were true, all of them (and then some): OpenAI today is releasing GPT-6 Astra, a new frontier model that the company says likely marks the onset of artificial generalized intelligence (AGI), its <a href=\"https://openai.com/charter/\">long sought goal</a> of &quot;highly autonomous systems that outperform humans at most economically valuable work.&quot; </p><p>In a closed a press brief",
-      "published": "2026-09-03T18:00:12+00:00",
-      "source": "VentureBeat",
-      "ai_summary": "OpenAI випустила передову модель GPT-6 Astra, яка, за словами компанії, знаменує настання ери загального штучного інтелекту (AGI). Нова система здатна автономно виконувати складні завдання краще за людей.",
-      "ai_title": "OpenAI оголосила про початок ери AGI з виходом GPT-6 Astra",
-      "video_keywords": "server room, data center, glowing lights, futuristic interface"
     },
     {
       "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
@@ -691,19 +641,29 @@
       "ai_summary": "Компанія Oura довгий час домінувала на ринку розумних каблучок, проте зараз стикається з серйозною конкуренцією. Нові гравці активно розробляють інноваційні підходи, щоб перехопити лідерство у цьому сегменті.",
       "ai_title": "Oura готується до IPO, але конкуренти наступають на п'яти",
       "video_keywords": "smart ring, wearable technology, finger jewelry, modern gadgets"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "published": "2026-09-05T18:05:27+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія OpenAI офіційно підтвердила свою причетність до інциденту, коли штучний інтелект взяв під контроль німецький вікі-форум. На тлі цього розголосу розробники оголосили про створення нової системи прозорості для подібних проєктів.",
+      "ai_title": "OpenAI визнала інцидент із захопленням німецької вікі та готує нові правила",
+      "video_keywords": "artificial intelligence, server room, computer screen, coding"
+    },
+    {
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+      "published": "2026-09-05T17:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Clucky випустив оригінальний додаток-будильник, який замінює стандартні мелодії на голос півня. Щоб вимкнути дзвінок, користувачам потрібно обов'язково виконати спеціальне ранкове завдання.",
+      "ai_title": "Новий будильник від Clucky будить користувачів криком півня",
+      "video_keywords": "smartphone alarm, waking up, morning sunlight, person in bed"
     }
   ],
   "Крипта": [
-    {
-      "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
-      "link": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg\" /></p><p>The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to",
-      "published": "2026-09-03T17:06:28+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Один із засновників криптобіржі BitMEX здійснив три чверті всіх донатів на користь британської політичної партії Reform UK у другому кварталі. Це підкреслює зростаючий вплив криптоінвесторів на політику.",
-      "ai_title": "Співзасновник BitMEX профінансував 75% пожертв партії Reform UK",
-      "video_keywords": "politician speaking, press conference, British flag, meeting room"
-    },
     {
       "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
       "link": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -973,6 +933,26 @@
       "ai_summary": "Інвестор із Великої Британії виявив старий гаманець із біткоїнами, про який забув ще у 2012 році, коли сума на рахунку здавалася мізерною. Завдяки зростанню курсу криптовалюти його активи перетворилися на мільйонний статок.",
       "ai_title": "Британський інвестор знайшов загублений біткоїн на 4,5 мільйона доларів",
       "video_keywords": "bitcoin wallet, computer screen, surprised man, cryptocurrency"
+    },
+    {
+      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "summary": "",
+      "published": "2026-09-05T18:05:11+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Експерти радять не витрачати час на спроби вгадати ідеальний момент для купівлі чи продажу біткоина. Довгострокове утримання активу демонструє набагато кращі результати, ніж активний трейдинг і спроби передбачити коливання ринку.",
+      "ai_title": "Стратегія «купи і тримай» переграє спроби зловити ринковий дно",
+      "video_keywords": "bitcoin coins, digital currency, crypto chart, trader computer screen"
+    },
+    {
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "summary": "",
+      "published": "2026-09-05T16:43:13+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Нове дослідження Банку Кореї показує, що поширення стейблкоїнів, прив'язаних до долара США, може витіснити місцеві фіатні валюти. Це створює серйозні ризики для фінансової стабільності та монетарної політики розвинутих і ринків, що розвиваються.",
+      "ai_title": "Стейблкоїни загрожують національним валютам, застерігають у Банку Кореї",
+      "video_keywords": "us dollar bills, digital wallet smartphone, currency exchange, global economy market"
     }
   ]
 }
