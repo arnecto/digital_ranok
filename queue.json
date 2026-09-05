@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-      "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-      "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but [&#8230;]",
-      "published": "2026-09-03T22:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія презентувала новий бездротовий павербанк із технологією рідкого охолодження та прозорим дисплеєм Cyber Window. Гаджет коштує 150 доларів і пропонує користувачам візуальний контроль за потоком охолоджувальної рідини всередині.",
-      "ai_title": "Ugreen випустила унікальний павербанк із прозорим охолодженням",
-      "video_keywords": "power bank, glowing liquid, translucent tech, futuristic gadget"
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "summary": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
-      "published": "2026-09-03T21:20:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналіз 17 тисяч запусків ШІ-систем на кшталт Claude, Codex та Cursor допоміг з'ясувати їхні улюблені інструменти для роботи. Дослідження показує реальні патерни поведінки та вибору технологій сучасними штучними інтелектами.",
-      "ai_title": "Які інструменти найчастіше обирають популярні ШІ-агенти",
-      "video_keywords": "programmer working, computer monitor, typing code, developer desk"
-    },
-    {
       "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
       "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
       "summary": "<p>Article URL: <a href=\"https://www.agentconnect.md/blog/grep-beat-lsp-harness/\">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560260\">https://news.ycombinator.com/item?id=49560260</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
@@ -464,19 +444,29 @@
       "ai_summary": "Автор роздумує про те, як із розвитком технологій змінюється поняття розкоші. Замість матеріальних речей справжньою цінністю стають час, спокій та свобода від постійного цифрового споживання.",
       "ai_title": "Справжня розкіш у сучасному цифровому світі",
       "video_keywords": "person meditating, nature landscape, smartphone on table, peaceful sunset"
+    },
+    {
+      "title": "LLMs as a Cognitive Virus",
+      "link": "https://arxiv.org/abs/2609.03344",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.03344\">https://arxiv.org/abs/2609.03344</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49580164\">https://news.ycombinator.com/item?id=49580164</a></p>\n<p>Points: 98</p>\n<p># Comments: 59</p>",
+      "published": "2026-09-05T20:02:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У новій науковій роботі досліджується концепція сприйняття великих мовних моделей як когнітивного вірусу. Автори аналізують, як штучний інтелект впливає на мислення людей та інформаційний простір загалом.",
+      "ai_title": "Мовні моделі як когнітивний вірус: новий погляд на вплив ШІ",
+      "video_keywords": "artificial intelligence, glowing brain, digital network, futuristic interface"
+    },
+    {
+      "title": "iPhone Handoff will seamlessly share one number between two phones",
+      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up [&#8230;]",
+      "published": "2026-09-05T20:53:58+00:00",
+      "source": "The Verge",
+      "ai_summary": "З оновленням iOS з'явиться зручна функція iPhone Handoff, яка дозволяє безперешкодно перемикатися між двома різними айфонами, що використовують один і той самий номер телефону. Це рішення спростить використання кількох пристроїв однією людиною.",
+      "ai_title": "Apple готує функцію iPhone Handoff для спільного номера на двох телефонах",
+      "video_keywords": "smartphone screen, hands typing, mobile phone, modern device"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Startup ARR is less secure than ever, new research shows",
-      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-      "published": "2026-09-03T20:59:23+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Нові дослідження показують, що регулярний річний дохід (ARR) стартапів став менш прогнозованим через зміну моделей корпоративних закупівель. Молоді компанії наразі намагаються адаптуватися до нових реалій ринку, які суттєво змінила поява технологій штучного інтелекту.",
-      "ai_title": "Ера штучного інтелекту підірвала фінансову стабільність стартапів",
-      "video_keywords": "startup office, business meeting, analytics dashboard, modern workspace"
-    },
     {
       "title": "Oura files to go public",
       "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
@@ -634,26 +624,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
-      "link": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC files to dismiss CME lawsuit over crypto perpetual futures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg\" /></p><p>The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to f",
-      "published": "2026-09-03T21:09:13+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Комісія з торгівлі товарними ф'ючерсами США подала клопотання про закриття судової справи з боку CME Group. Регулятор вважає претензії безпідставними та заявляє, що позивач не має юридичних підстав для позову.",
-      "ai_title": "CFTC вимагає відхилити позов CME щодо криптоф'ючерсів",
-      "video_keywords": "courtroom, legal documents, judge gavel, man reading papers"
-    },
-    {
-      "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
-      "link": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MT8AVRA0N4FG4HK9PK2CZ5/asia-express-11.jpg\" /></p><p>Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, Aussie cryp",
-      "published": "2026-09-03T23:40:09+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Тайські бізнесмени подали позов проти емітента стейблкоїнів Tether через заморожування 42 мільйонів доларів у USDT, пов'язаних із шахрайськими схемами. Тим часом тисячі студентів в Азії отримують доступ до нових криптовалютних кредитів. Цей інцидент підкреслює зростаючу напругу між регулюванням цифрових активів та боротьбою з кіберзлочинністю.",
-      "ai_title": "Tether зіткнулася з позовом через заморожені криптовалютні активи",
-      "video_keywords": "cryptocurrency, digital currency, court lawsuit, financial transaction"
-    },
     {
       "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
       "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
