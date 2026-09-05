@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-      "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-      "summary": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The software giant has previously reported [&#8230;]",
-      "published": "2026-09-03T08:59:09+00:00",
-      "source": "The Verge",
-      "ai_summary": "Microsoft змінює структуру фінансової звітності для інвесторів, розділяючи свій бізнес на два сегменти. Компанія вперше публічно розкрила квартальну виручку хмарного бізнесу Azure, щоб відобразити реальний вплив технологій штучного інтелекту на її діяльність.",
-      "ai_title": "Microsoft вперше розкрила доходи від хмарного сервісу Azure через вплив штучного інтелекту",
-      "video_keywords": "datacenter, server racks, financial charts, corporate office"
-    },
-    {
-      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
-      "link": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
-      "summary": "Anker is launching the Eufy MindBase, a local AI hub for its security cameras that runs an on-device, Anker-developed LLM, which the company says can process your footage without it ever leaving your home. It's also announcing a handful of other smart home security products at the IFA tech show in Berlin this week, including [&#8230;]",
-      "published": "2026-09-03T07:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Anker анонсувала Eufy MindBase, локальний хаб штучного інтелекту для камер безпеки. Пристрій працює на базі власної локальної мовної моделі, що дозволяє обробляти відеозаписи прямо вдома без передачі даних у хмару.",
-      "ai_title": "Anker представила MindBase — локальний ШІ-хаб для розумного дому",
-      "video_keywords": "smart home, security camera, artificial intelligence, living room"
-    },
-    {
-      "title": "Pre-Release of Polars 2.0",
-      "link": "https://pola.rs/posts/announcing-polars-2/",
-      "summary": "<p>Article URL: <a href=\"https://pola.rs/posts/announcing-polars-2/\">https://pola.rs/posts/announcing-polars-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49546753\">https://news.ycombinator.com/item?id=49546753</a></p>\n<p>Points: 112</p>\n<p># Comments: 19</p>",
-      "published": "2026-09-03T06:59:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники анонсували вихід попередньої версії Polars 2.0 — популярної бібліотеки для обробки та аналізу даних. Оновлення приносить значні покращення продуктивності та нові можливості для роботи з великими масивами даних.",
-      "ai_title": "Вийшов попередній реліз високопродуктивної бібліотеки Polars 2.0",
-      "video_keywords": "programming code, computer screen, software developer, data analysis"
-    },
-    {
-      "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
-      "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
-      "summary": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in. It also embeds lots of hippie shit. If I'm understanding things [&#8230;]",
-      "published": "2026-09-03T07:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Нова колонка Anker SleepLab використовує міліметровий радар для відстеження мікрорухів тіла, дихання та пульсу користувача без потреби у натільних гаджетах. Пристрій аналізує фази сну та допомагає розслабитися вночі.",
-      "ai_title": "Колонка Anker із радарними датчиками для покращення сну",
-      "video_keywords": "bedroom, sleeping person, nightstand, modern gadget"
-    },
-    {
-      "title": "Anker’s new printer works directly on fabrics",
-      "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
-      "summary": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an official name for the new [&#8230;]",
-      "published": "2026-09-03T07:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Бренд eufyMake компанії Anker готує до випуску новий пристрій, який дозволяє наносити кольорові принги прямо на текстильні матеріали. Очікується, що новинка стане доступною широкому кола споживачів уже наступної весни.",
-      "ai_title": "Новий принтер від Anker друкує безпосередньо на тканині",
-      "video_keywords": "fabric printing, textile design, craft machine, workshop"
-    },
-    {
-      "title": "Nvidia to Acquire Hugging Face",
-      "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "summary": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/\">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548952\">https://news.ycombinator.com/item?id=49548952</a></p>\n<p>Points: 70</p>\n<p># Comments: 19</p>",
-      "published": "2026-09-03T12:10:33+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Nvidia домовилася про придбання популярної платформи для відкритих штучних інтелектів Hugging Face за 12,93 мільярда доларів. Ця угода об'єднує найбільшого виробника AI-чіпів та ключову спільноту розробників відкритих моделей і даних.",
-      "ai_title": "Nvidia купує Hugging Face майже за 13 мільярдів доларів",
-      "video_keywords": "server room, microchip, data center, businessman working on laptop"
-    },
-    {
       "title": "A dark horse enters China's AI race: StartLux",
       "link": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
       "summary": "<p>Article URL: <a href=\"https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector\">https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548530\">https://news.ycombinator.com/item?id=49548530</a></p>\n<p>Points: 35</p>\n<p># Comments: 12</p>",
@@ -554,6 +494,16 @@
       "ai_summary": "Експерти проаналізували роботу новітньої моделі GPT-6 Astra під час автоматичного перевіряння коду. Дослідження охоплює ключові показники ефективності, питання захисту даних та економічну доцільність використання такого штучного інтелекту в розробці.",
       "ai_title": "Оцінка GPT-6 Astra у рев'ю коду: переваги, конфіденційність та ціна",
       "video_keywords": "software code screen, developer typing, computer monitor, office workspace"
+    },
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "summary": "<p>Article URL: <a href=\"https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49574167\">https://news.ycombinator.com/item?id=49574167</a></p>\n<p>Points: 75</p>\n<p># Comments: 42</p>",
+      "published": "2026-09-05T07:52:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Все більша автоматизація реагування на інциденти за допомогою штучного інтелекту призводить до того, що розробники перестають глибоко розуміти внутрішню роботу власних платформ. Це створює нові ризики для безпеки та стабільності сервісів, адже люди втрачають навички ручного усунення критичних збоїв. У критичних ситуаціях відсутність прямого контакту з архітектурою системи може призвести до катастрофічних затримок у прийнятті рішень.",
+      "ai_title": "Штучний інтелект вирішує інциденти: інженери втрачають контроль над системами",
+      "video_keywords": "server room, frustrated engineer, computer monitor, modern office"
     }
   ],
   "Бізнес / Стартапи": [
@@ -804,36 +754,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
-      "link": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard hacker swaps stolen Bitcoin for ETH via THORChain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K817QH0K358EBX7ENA8QG7/hacker-and-lasers-ethereum.jpg\" /></p><p>The third-wave Coldcard exploiter moved about 10% of stolen funds through THORChain as researchers traced the a",
-      "published": "2026-09-03T09:31:07+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Зловмисник, відповідальний за масштабний злам гаманців Coldcard, почав переводити викрадені кошти в мережу Ethereum. Для заміни активів він використав децентралізований кроссчейн-протокол THORChain, щоб заплутати сліди транзакцій. Дослідники блокчейну активно відстежують ці переміщення, намагаючись заблокувати вкрадену криптовалюту.",
-      "ai_title": "Хакер Coldcard відмив вкрадені біткоїни через THORChain",
-      "video_keywords": "hacker typing, computer terminal, digital code, cybersecurity"
-    },
-    {
-      "title": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
-      "link": "https://cointelegraph.com/news/australia-warns-unlicensed-crypto-firms-of-fines-up-to-10-of-annual-turnover?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia warns unlicensed crypto firms of fines up to 10% of annual turnover\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K3G0K6ACW549NXWWTXAETH/hi-time-to-switch-license-australia-1.jpg\" /></p><p>ASIC has recorded more than 45 digital asset-related license applications as its ",
-      "published": "2026-09-03T07:47:54+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Регулятор Австралії жорсткішає правила для ринку цифрових активів та вимагає від компаній обов'язкового отримання ліцензій. Порушникам загрожують штрафи у розмірі до 10% від їхнього річного торгового обороту. На тлі таких заходів держструктури вже зафіксували десятки нових заявок на легалізацію бізнесу.",
-      "ai_title": "Австралія погрожує неліцензованим криптокомпаніям величезними штрафами",
-      "video_keywords": "court gavel, official documents, warning sign, business office"
-    },
-    {
-      "title": "Ether, XRP ETF inflow streaks end as Bitcoin funds rebound",
-      "link": "https://cointelegraph.com/markets/eth-xrp-etf-inflow-streaks-end-bitcoin-funds-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether, XRP ETF inflow streaks end as Bitcoin funds rebound\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K0R10249Q6B17ZZ511GTM6/hi-ethereum-etfs-navigating-tracking-difference-vs-tracking-error.jpg\" /></p><p>Ether ETFs posted $48 million in outflows after attracting $1.62 billion",
-      "published": "2026-09-03T07:22:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Серія приток капіталу в біржові фонди на базі Ether та XRP офіційно завершилася на тлі фіксації прибутків інвесторами. Водночас фонди на основі Біткоїна демонструють протилежну тенденцію та відновлюють позиції. Ринок ETF продовжує реагувати на зміни настроїв інституційних гравців.",
-      "ai_title": "Відтік коштів з ETF на Ethereum та XRP на тлі відновлення Біткоїна",
-      "video_keywords": "financial graphs, investment portfolio, stock exchange, digital trading"
-    },
     {
       "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
       "link": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
@@ -1183,6 +1103,16 @@
       "ai_summary": "Ринок венчурного фінансування криптовалют у Південно-Східній Азії відновлюється після попереднього спаду. Інвестори фокусуються переважно на зрілих та перевірених компаніях замість ризикованих нових проєктів.",
       "ai_title": "Інвестиції в криптостартапи Південно-Східної Азії зросли до 680 мільйонів доларів",
       "video_keywords": "financial district, skyscraper glass, business people meeting, modern office interior"
+    },
+    {
+      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1R63FX0B48YA7B473RBB8TA/hi-bitcoin-etf-infrastructure-investment-2.jpg\" /></p><p>US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows sta",
+      "published": "2026-09-05T08:03:06+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Спотові біткоїн-ETF у США продемонстрували найпотужнішу тритижневу серію притоку капіталу у 2026 році. Лише за останній тиждень інвестори вклали майже мільярд доларів, що свідчить про відновлення високого інтересу інституційних гравців до криптофондів.",
+      "ai_title": "Приплив у біткоїн-ETF сягнув 3,8 мільярда доларів за три тижні",
+      "video_keywords": "bitcoin chart, financial graph, digital currency trading, stock market screen"
     }
   ]
 }
