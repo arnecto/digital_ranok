@@ -11,46 +11,6 @@
       "video_keywords": "artificial intelligence, city map, data analytics, futuristic interface"
     },
     {
-      "title": "K2 Horizon: Frontier Performance, Radically Open",
-      "link": "https://ifm.ai/blog/k2/",
-      "summary": "<p>Article URL: <a href=\"https://ifm.ai/blog/k2/\">https://ifm.ai/blog/k2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551760\">https://news.ycombinator.com/item?id=49551760</a></p>\n<p>Points: 108</p>\n<p># Comments: 28</p>",
-      "published": "2026-09-03T15:36:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили K2 Horizon — передову модель штучного інтелекту, яка пропонує високу продуктивність на рівні провідних систем у повністю відкритому форматі. Це рішення покликане зробити передові AI-технології доступнішими для спільноти дослідників та розробників.",
-      "ai_title": "Випуск нової відкритої моделі K2 Horizon із високою продуктивністю",
-      "video_keywords": "computer screen, code lines, artificial intelligence, server room"
-    },
-    {
-      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
-      "link": "https://news.ycombinator.com/item?id=49551096",
-      "summary": "<p>https://status.openai.com\nhttps://status.claude.com\nhttps://status.x.ai</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551096\">https://news.ycombinator.com/item?id=49551096</a></p>\n<p>Points: 149</p>\n<p># Comments: 120</p>",
-      "published": "2026-09-03T15:07:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі по всьому світу зіткнулися з масовим та синхронним падінням таких популярних платформ, як OpenAI, Claude та Grok. Така глобальна несправність викликала численні обговорення в мережі щодо можливих спільних технічних проблем або збігів.",
-      "ai_title": "Одночасний збій у роботі провідних сервісів штучного інтелекту",
-      "video_keywords": "error screen, computer crash, frustrated user, server offline"
-    },
-    {
-      "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
-      "link": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
-      "summary": "All the rumors leading up to Nvidia's announcement of its Arm-based RTX Spark chips over the summer mentioned two specific chips: the N1X and N1. While the N1 won't be arriving this year, Nvidia says its N1X chip is arriving in RTX Spark laptops in two different configurations in October. You'll be able to buy [&#8230;]",
-      "published": "2026-09-03T16:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Nvidia готує до запуску у жовтні перші ноутбуки серії RTX Spark на базі новітніх чіпів N1X архітектури ARM. Пристрої будуть доступні у двох різних конфігураціях, пропонуючи користувачам високу енергоефективність та сучасну графіку.",
-      "ai_title": "Нові ноутбуки Nvidia RTX Spark на базі ARM з'являться у жовтні",
-      "video_keywords": "modern laptop, computer hardware, microchip, electronics workbench"
-    },
-    {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]",
-      "published": "2026-09-03T16:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Nvidia презентувала відкрите програмне забезпечення Personal AI Router (PAIR), яке об'єднує домашні комп'ютери в єдину мережу. Цей інструмент дозволяє ефективно виконувати локальні завдання штучного інтелекту за допомогою популярних додатків на зразок Ollama.",
-      "ai_title": "Nvidia випустила безплатний інструмент для створення домашнього центру обробки даних",
-      "video_keywords": "server racks, data center, computer network, glowing cables"
-    },
-    {
       "title": "GPT-6 Astra",
       "link": "https://openai.com/index/gpt-6-astra/",
       "summary": "<p>System Card: <a href=\"https://deploymentsafety.openai.com/gpt-6-astra\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-6-astra</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554643\">https://news.ycombinator.com/item?id=49554643</a></p>\n<p>Points: 307</p>\n<p># Comments: 149</p>",
@@ -484,6 +444,46 @@
       "ai_summary": "Новий короткометражний фільм демонструє гонитву вулицями Сан-Франциско, де за кермом іншого авто немає людини, а сама машина намагається вбити головного героя. Той факт, що безпілотники тепер без проблем виконують роль кінематографічних злодіїв, відображає сучасні страхи суспільства перед технологіями.",
       "ai_title": "Роботаксі стають новими лиходіями в кіно",
       "video_keywords": "autonomous car, driving at night, city street, dramatic car chase"
+    },
+    {
+      "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+      "link": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
+      "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/\">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49577422\">https://news.ycombinator.com/item?id=49577422</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-05T15:22:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіаст поділився досвідом повної реставрації та модифікації застарілого сервера точного часу випуску 1995 року. Такий проєкт дозволяє зберегти надійне облаנות у робочому стані та уникнути залежності від сучасних мережевих збоїв.",
+      "ai_title": "Відновлення та модернізація GPS-сервера часу 1995 року",
+      "video_keywords": "server room, circuit board, soldering, electronics repair"
+    },
+    {
+      "title": "There's No Limit to How Bad Code Can Get",
+      "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+      "summary": "<p>Article URL: <a href=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/\">https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576704\">https://news.ycombinator.com/item?id=49576704</a></p>\n<p>Points: 75</p>\n<p># Comments: 51</p>",
+      "published": "2026-09-05T14:13:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова публікація присвячена аналізу найгірших практик програмування та випадків, коли код перетворюється на нечитабельний хаос. Автор розглядає приклади того, як відсутність архітектури та поспіх призводять до повного технічного колапсу проєктів.",
+      "ai_title": "Межі некомпетентності: чому програмний код буває настільки жахливим",
+      "video_keywords": "programmer typing, computer screen, frustration, office workspace"
+    },
+    {
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "summary": "<p>Article URL: <a href=\"https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\">https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576386\">https://news.ycombinator.com/item?id=49576386</a></p>\n<p>Points: 106</p>\n<p># Comments: 31</p>",
+      "published": "2026-09-05T13:36:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Огляд незвичного заліза демонструє, як можна зібрати бюджетний ігровий комп'ютер на основі специфічного чіпа AMD BC-250. Попри своє нетипове походження, така система здатна запускати сучасні ігри за мінімальні кошти.",
+      "ai_title": "Ігровий ПК за 60 доларів на базі процесора AMD BC-250",
+      "video_keywords": "computer hardware, assembling pc, cpu installation, gaming setup"
+    },
+    {
+      "title": ".gitignore Everything by Default",
+      "link": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "summary": "<p>Article URL: <a href=\"https://packagemain.tech/p/gitignore-everything-by-default\">https://packagemain.tech/p/gitignore-everything-by-default</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576258\">https://news.ycombinator.com/item?id=49576258</a></p>\n<p>Points: 56</p>\n<p># Comments: 51</p>",
+      "published": "2026-09-05T13:19:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Обговорення практики налаштування систем контролю версій, де кожен новий файл чи папка спочатку ігноруються репозиторієм. Це допомагає уникнути випадкового витоку конфіденційних даних та зайвого сміття в історії комітів.",
+      "ai_title": "Чому варто додавати все до .gitignore за замовчуванням",
+      "video_keywords": "coding on laptop, software development, terminal screen, developer hands"
     }
   ],
   "Бізнес / Стартапи": [
@@ -496,26 +496,6 @@
       "ai_summary": "Новий стартап Ollie прагне виграти гонку штучного інтелекту, фокусуючись на приватності користувачів. Асистент допомагає в повсякденних справах, але обіцяє не використовувати особисті дані для навчання моделей чи передачі третім особам.",
       "ai_title": "Сімейний AI-асистент Ollie робить ставку на конфіденційність",
       "video_keywords": "person using smartphone, AI interface, home interior, typing on laptop"
-    },
-    {
-      "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "summary": "Users can search for emails or draft documents using the new conversational feature.",
-      "published": "2026-09-03T16:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Користувачі тепер можуть шукати листи або створювати чернетки документів за допомогою нової розмовної функції. Оновлення покликане спростити щоденну роботу з офісними додатками від Google завдяки штучному інтелекту.",
-      "ai_title": "Google додала голосові AI-функції у Gmail, Docs та Keep",
-      "video_keywords": "person typing on keyboard, laptop screen, office desk, typing close up"
-    },
-    {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "published": "2026-09-03T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Передова модель WeatherNext 3 використовує глибоке навчання для точніших прогнозів погоди. Google почне впроваджувати ці дані у пошук, Google Maps та Gemini для зручності користувачів.",
-      "ai_title": "Google інтегрує нову AI-модель прогнозу погоди у свої сервиси",
-      "video_keywords": "weather forecast app, smartphone screen, rainy window, digital map"
     },
     {
       "title": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
@@ -701,49 +681,19 @@
       "ai_summary": "Всього через три місяці після виходу з тіні робототехнічний стартап XDOF розпочав переговори про раунд фінансування Серії B. Така активність свідчить про надзвичайно високий інтерес інвесторів до сфери збору та обробки даних для роботів.",
       "ai_title": "Робототехнічний стартап XDOF залучає інвестиції при оцінці в $1,2 млрд",
       "video_keywords": "robotics, technology, startup office, futuristic robot"
+    },
+    {
+      "title": "Oura is going public, but these smart ring companies are coming for its crown",
+      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+      "published": "2026-09-05T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Oura довгий час домінувала на ринку розумних каблучок, проте зараз стикається з серйозною конкуренцією. Нові гравці активно розробляють інноваційні підходи, щоб перехопити лідерство у цьому сегменті.",
+      "ai_title": "Oura готується до IPO, але конкуренти наступають на п'яти",
+      "video_keywords": "smart ring, wearable technology, finger jewelry, modern gadgets"
     }
   ],
   "Крипта": [
-    {
-      "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
-      "link": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Recovery specialists crack $1B crypto wallet... but find just $10 \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JCXG2R7DCZ2470D2Y6764D/magazine-crypto-sec-3.jpg\" /></p><p>Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered —",
-      "published": "2026-09-03T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Спеціалісти з відновлення втрачених даних змогли розблокувати захищений криптогаманець, який потенційно містив величезну суму. Проте всередині виявилося лише мінімальне сальдо у розмірі декількох монет.",
-      "ai_title": "Експерти зламали криптогаманець на мільярд доларів, але знайшли лише 10 доларів",
-      "video_keywords": "hacker typing keyboard, computer screen code, empty wallet, disappointed person"
-    },
-    {
-      "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
-      "link": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
-      "summary": "",
-      "published": "2026-09-03T15:58:02+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Британський банк Standard Chartered інтегрує спотову торгівлю криптовалютами у свою валютну платформу в Дубаї. Цей крок розширює доступ інституційних інвесторів до цифрових активів на Близькому Сході.",
-      "ai_title": "Standard Chartered запускає спотову торгівлю криптою на платформі в Дубаї",
-      "video_keywords": "trading floor, financial district, skyscraper, digital charts"
-    },
-    {
-      "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
-      "link": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
-      "summary": "",
-      "published": "2026-09-03T14:51:39+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Новий застосунок для генерації мемкоїнів очолив список криптопроєктів за обсягом комісій. Це сталося на тлі різкого зростання активності в мережі Robinhood Chain.",
-      "ai_title": "Додаток для створення мемкоїнів став лідером за комісіями на тлі буму Robinhood Chain",
-      "video_keywords": "smartphone screen, typing hands, neon glowing graphics, modern office"
-    },
-    {
-      "title": "Bybit Pay integrates with Mesh to expand crypto payments",
-      "link": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bybit Pay integrates with Mesh to expand crypto payments \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M3NJSETHX828KE4N3BKDW6/hi-the-revival-of-general-partnership-in-the-age-of-tokenomics-part-1.png\" /></p><p>The integration lets Bybit users spend digital assets directly from t",
-      "published": "2026-09-03T17:13:04+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Платіжна система Bybit Pay об'єдналася з мережею Mesh задля покращення можливостей розрахунків цифровими активами. Інтеграція дозволить користувачам зручніше витрачати криптовалюту безпосередньо з гаманців.",
-      "ai_title": "Bybit Pay інтегрується з Mesh для розширення криптоплатежів",
-      "video_keywords": "contactless payment, mobile banking, person scanning phone, online shopping"
-    },
     {
       "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
       "link": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -753,16 +703,6 @@
       "ai_summary": "Один із засновників криптобіржі BitMEX здійснив три чверті всіх донатів на користь британської політичної партії Reform UK у другому кварталі. Це підкреслює зростаючий вплив криптоінвесторів на політику.",
       "ai_title": "Співзасновник BitMEX профінансував 75% пожертв партії Reform UK",
       "video_keywords": "politician speaking, press conference, British flag, meeting room"
-    },
-    {
-      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
-      "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market-and-kraken.png\" /></p><p>The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 doll",
-      "published": "2026-09-03T16:04:11+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Головна компаنية біржі Kraken, Payward, уклала партнерство з SoFi щодо впровадження стейблкоїна та цілодобових розрахунків. Угода передбачає появу SoFiUSD на платформі Kraken та цілодобовий зв'язок із доларовою системою SoFi.",
-      "ai_title": "Материнська компанія Kraken об'єднується з SoFi для роботи зі стейблкоїнами",
-      "video_keywords": "handshake, business meeting, modern boardroom, digital interface"
     },
     {
       "title": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
