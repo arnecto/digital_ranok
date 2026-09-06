@@ -1,12 +1,4 @@
 {
-  "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix": {
-    "title": "Visa запустила штучний інтелект, який автоматично виправляє вразливості в коді",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-08-29T06:48:27.825137+03:00",
-    "summary": "Компанія Visa представила відкритий інструмент безпеки на базі штучного інтелекту, який самостійно знаходить вразливості в коді та створює виправлення ще до того, як його перевірять люди. Нова система автоматично тестує власні патчі та впроваджує їх за замовчуванням.",
-    "video_keywords": "programmer typing code, computer screen, cybersecurity interface, data stream",
-    "link": "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix"
-  },
   "https://www.coindesk.com/business/2026/08/27/clearing-firm-rqd-raises-usd74-million-as-wall-street-prepares-for-tokenized-markets": {
     "title": "Клірингова компанія RQD* залучила 74 мільйони доларів на тлі підготовки Волл-стріт до токенізації",
     "category": "Крипта",
@@ -430,5 +422,13 @@
     "summary": "Розробники помітили дивну тенденцію: сучасні штучні інтелекти для написання коду часто ігнорують складні протоколи на кшталт LSP на користь базового пошуку через grep. Такий підхід виявляється надійнішим і швидшим для агентів, які орієнтуються у великих кодових базах. Це змушує переосмислити те, як ми створюємо середовища розробки для майбутніх AI-систем.",
     "video_keywords": "developer typing code, computer screen, terminal text, programming monitor",
     "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/"
+  },
+  "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/": {
+    "title": "Федеральне розслідування проти Tesla через запуск Cybercab",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-09-06T07:23:26.366947+03:00",
+    "summary": "Американські регулятори розпочали офіційне розслідування стосовно розгортання роботаксі Tesla в Остіні. Це сталося всього за кілька годин після того, як компанія випустила перші серійні Cybercab на дороги загального користування.",
+    "video_keywords": "autonomous car, electric vehicle, street traffic, urban driving",
+    "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"
   }
 }
