@@ -419,19 +419,29 @@
       "ai_summary": "Відомі американські видання звинувачують технологічних гігантів у несанкціонованому використанні їхніх матеріалів для навчання штучного інтелекту. Позивачі заявляють, що моделі ШІ часто відтворюють їхні статті у відповідь на запити користувачів без дотримання авторських прав.",
       "ai_title": "Seattle Times та Newsday подали до суду на OpenAI та Microsoft",
       "video_keywords": "courtroom, lawsuit, lawyer, typing on laptop"
+    },
+    {
+      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "link": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9\">https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594189\">https://news.ycombinator.com/item?id=49594189</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
+      "published": "2026-09-07T05:23:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Генеральний директор Nvidia Дженсен Хуан публічно оголосив, що штучний інтелект загального призначення (AGI) вже тут, та привітав OpenAI з цим досягненням. Ця заява знаменує важливий етап у розвитку індустрії та наближає нас до нового технологічного рівня. Подія викликала бурхливі обговорення серед експертів щодо подальших кроків у розвитку нейромереж.",
+      "ai_title": "Голова Nvidia заявив про настання епохи загального штучного інтелекту",
+      "video_keywords": "tech conference, futuristic presentation, data center, businessman speaking"
+    },
+    {
+      "title": "I refused to train the AI that could replace me",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "summary": "<p>Article URL: <a href=\"https://restofworld.org/2026/ai-training-jobs-expert-replacement/\">https://restofworld.org/2026/ai-training-jobs-expert-replacement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593959\">https://news.ycombinator.com/item?id=49593959</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-07T04:38:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Історія розповідає про фахівця, який обрав етичну позицію та відмовився передавати свої навички для навчання алгоритмів. Цей випадок підіймає гостру проблему етики в новітніх технологіях та ризиків втрати роботи для кваліфікованих кадрів. Працівники все частіше стикаються з дилемою самозаміщення через розвиток штучного інтелекту.",
+      "ai_title": "Спеціаліст відмовився тренувати штучний інтелект, який мав його замінити",
+      "video_keywords": "frustrated worker, office desk, computer screen, thoughtful person"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Oura is going public, but these smart ring companies are coming for its crown",
-      "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
-      "published": "2026-09-05T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Oura довгий час домінувала на ринку розумних каблучок, проте зараз стикається з серйозною конкуренцією. Нові гравці активно розробляють інноваційні підходи, щоб перехопити лідерство у цьому сегменті.",
-      "ai_title": "Oura готується до IPO, але конкуренти наступають на п'яти",
-      "video_keywords": "smart ring, wearable technology, finger jewelry, modern gadgets"
-    },
     {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
@@ -511,16 +521,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
-      "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
-      "summary": "",
-      "published": "2026-09-05T05:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ринок венчурного фінансування криптовалют у Південно-Східній Азії відновлюється після попереднього спаду. Інвестори фокусуються переважно на зрілих та перевірених компаніях замість ризикованих нових проєктів.",
-      "ai_title": "Інвестиції в криптостартапи Південно-Східної Азії зросли до 680 мільйонів доларів",
-      "video_keywords": "financial district, skyscraper glass, business people meeting, modern office interior"
-    },
     {
       "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -611,6 +611,56 @@
       "ai_summary": "Група так званих \"білих хакерів\" здійснила перехоплення 4000 біткойнів з бічного ланцюжка Liquid задля захисту активів. Тим часом ринок криптовалютних ETF зафіксував найбільший приплив інвестицій за весь 2026 рік.",
       "ai_title": "Етичні хакери вивели 4000 біткойнів із мережі Liquid, а спотові ETF б'ють рекорди припливу капіталу",
       "video_keywords": "hacker typing laptop, cryptocurrency graphs, stock market trading floor"
+    },
+    {
+      "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "summary": "",
+      "published": "2026-09-07T03:43:12+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Біткоїн-мережі, якими користуються біржі, постраждали від хакерської атаки на суму 320 мільйонів доларів. При цьому зловмисники запевняють, що діють з добрими намірами.",
+      "ai_title": "Масштабний злам мережі Bitcoin на 320 мільйонів доларів",
+      "video_keywords": "hacker typing on laptop, computer screen code, cyber security warning, digital vault"
+    },
+    {
+      "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC",
+      "link": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X62TPQZQS0CSZKDBXWAKDQ/btc.png\" /></p><p>The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patch",
+      "published": "2026-09-07T05:40:05+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Біткоїн-сайдчейн Liquid призупинив роботу після того, як так звані «етичні хакери» вивели звідти 4 000 біткоїнів. Розробники очікують на повернення коштів після усунення вразливості.",
+      "ai_title": "Зупинка біткоїн-мережі Liquid через виведення 320 мільйонів доларів",
+      "video_keywords": "blockchain network nodes, server room flashing lights, digital currency transaction, computer code scrolling"
+    },
+    {
+      "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+      "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
+      "summary": "",
+      "published": "2026-09-07T04:44:16+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Ціни на нафту пішли вгору, тоді як перша криптовалюта демонструє падіння. Це сталося після того, як Сполучені Штати завдали удару по іранських нафтових танкерах.",
+      "ai_title": "Нафта росте, а біткоїн падає на тлі ударів США по танкерах",
+      "video_keywords": "oil tanker ship ocean, financial stock chart falling, trading monitors red, fuel refinery industrial"
+    },
+    {
+      "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
+      "link": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Harmony proposes shutting down layer 1, migrating ONE to Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1X3TQW8VBS6ZBQQFGKK9XGD/hi-bancor-excludes-users-2.jpg\" /></p><p>Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum, weeks after an exploit",
+      "published": "2026-09-07T05:00:49+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Проєкт Harmony запропонував припинити роботу своєї мережі першого рівня та мігрувати токен ONE на Ethereum. Це рішення ухвалили через кілька тижнів після серйозного зламу.",
+      "ai_title": "Harmony планує закрити власний блокчейн і перейти на Ethereum",
+      "video_keywords": "cryptocurrency migration, digital network nodes glowing, computer interface upgrade, futuristic data transfer"
+    },
+    {
+      "title": "This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200",
+      "link": "https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200",
+      "summary": "",
+      "published": "2026-09-07T05:52:44+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Популярний мемкоїн на базі котиків приніс своїм власникам 2,8 мільйона доларів у криптовалюті Zcash. Це відбулося на фоні стрімкого зростання курсу ZEC вище позначки у 1200 доларів.",
+      "ai_title": "Мемкоїн із котиком виплатив власникам мільйони на тлі злету Zcash",
+      "video_keywords": "cute cat looking at screen, crypto trading charts rising, digital wallet coins, green candlestick graph"
     }
   ]
 }
