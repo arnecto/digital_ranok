@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up [&#8230;]",
-      "published": "2026-09-05T20:53:58+00:00",
-      "source": "The Verge",
-      "ai_summary": "З оновленням iOS з'явиться зручна функція iPhone Handoff, яка дозволяє безперешкодно перемикатися між двома різними айфонами, що використовують один і той самий номер телефону. Це рішення спростить використання кількох пристроїв однією людиною.",
-      "ai_title": "Apple готує функцію iPhone Handoff для спільного номера на двох телефонах",
-      "video_keywords": "smartphone screen, hands typing, mobile phone, modern device"
-    },
-    {
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "link": "https://github.com/okf-memory/okf-agent-memory",
-      "summary": "<p>Article URL: <a href=\"https://github.com/okf-memory/okf-agent-memory\">https://github.com/okf-memory/okf-agent-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49581240\">https://news.ycombinator.com/item?id=49581240</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-05T22:15:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено інструмент OKF Agent Memory, який забезпечує Git-нативну постійну пам'ять для штучного інтелекту під час написання коду. Це дозволяє агентам ефективніше зберігати контекст та історію змін безпосередньо у сховищі коду.",
-      "ai_title": "Нова постійна пам'ять для AI-агентів на базі Git",
-      "video_keywords": "programmer typing, code on screen, developer desk, dual monitors"
-    },
-    {
-      "title": "America's two largest school districts impose AI moratoriums",
-      "link": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-      "summary": "<p>Article URL: <a href=\"https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/\">https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49580980\">https://news.ycombinator.com/item?id=49580980</a></p>\n<p>Points: 37</p>\n<p># Comments: 28</p>",
-      "published": "2026-09-05T21:43:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Два найбільші шкільні округи США вирішили тимчасово заборонити використання штучного інтелекту у навчальному процесі. Таке рішення пов'язане з необхідністю детально оцінити ризики та вплив нових технологій на академічну доброчесність учнів.",
-      "ai_title": "Найбільші шкільні округи Америки вводять мораторій на штучний інтелект",
-      "video_keywords": "classroom, students studying, school hallway, teacher writing on board"
-    },
-    {
-      "title": "How AI is breaking the British state",
-      "link": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state\">https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49580687\">https://news.ycombinator.com/item?id=49580687</a></p>\n<p>Points: 22</p>\n<p># Comments: 23</p>",
-      "published": "2026-09-05T21:05:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти аналізують вплив масового впровадження штучного інтелекту на державні інституції Великої Британії. Швидкі технологічні зміни створюють непередбачувані виклики для бюрократичного апарату та чинної законодавчої бази.",
-      "ai_title": "Як штучний інтелект руйнує державну систему Великої Британії",
-      "video_keywords": "government building, london streets, politician speaking, office worker at desk"
-    },
-    {
       "title": "GPT-6 Astra on robot arms",
       "link": "https://openai.robocurve.org/gpt-6-astra/",
       "summary": "<p>Article URL: <a href=\"https://openai.robocurve.org/gpt-6-astra/\">https://openai.robocurve.org/gpt-6-astra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582582\">https://news.ycombinator.com/item?id=49582582</a></p>\n<p>Points: 82</p>\n<p># Comments: 37</p>",
@@ -424,6 +384,16 @@
       "ai_summary": "Розробники запустили інструмент HomeCat, який допомагає легко та швидко спланувати дизайн власного офісу на подвір'ї. Спочатку проєкт створювався для проєктування звичайних садових навісів, але згодом трансформувався у зручне рішення для створення сучасних робочих просторів біля дому.",
       "ai_title": "HomeCat — новий сервіс для проєктування офісу на задньому дворі",
       "video_keywords": "backyard office, modern shed, architectural blueprint, 3d design software"
+    },
+    {
+      "title": "Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads",
+      "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "summary": "<p>Article URL: <a href=\"https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/\">https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602699\">https://news.ycombinator.com/item?id=49602699</a></p>\n<p>Points: 10",
+      "published": "2026-09-07T20:32:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Broadcom закрила доступ до завантажень VDDK, що значно ускладнило для користувачів процес переходу на альтернативні платформі віртуалізації рішення. Це рішення викликало нову хвилю занепокоєння серед IT-фахівців, які покладаються на екосистему VMware.",
+      "ai_title": "Broadcom ускладнює міграцію з VMware через видалення VDDK",
+      "video_keywords": "server room, data center, computer monitor, IT engineer"
     }
   ],
   "Бізнес / Стартапи": [
@@ -496,13 +466,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
-      "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
-      "summary": "",
-      "published": "2026-09-06T14:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -721,6 +684,16 @@
       "ai_summary": "Правоохоронці Польщі висунули офіційні звинувачення фігуранту гучної справи криптобіржі Zondacrypto. Прокуратура наполягає на триманні підозрюваного під вартою на час досудового розслідування. Справа стосується ймовірної причетності до діяльності організованого злочинного угруповання.",
       "ai_title": "Польська прокуратура висунула звинувачення у справі криптобіржі Zondacrypto",
       "video_keywords": "courtroom gavel, police officers, prison bars, handcuffs on table"
+    },
+    {
+      "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+      "link": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
+      "summary": "",
+      "published": "2026-09-07T23:01:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Генеральний директор компанії Metaplanet нарешті прокоментував ситуацію, що склалася, проте акціонери залишилися незадоволеними. Вони вважають, що ключові питання щодо подальшої стратегії та фінансів так і залишилися без належних відповідей.",
+      "ai_title": "Скандал навколо Metaplanet: інвестори вимагають відповідей від генерального директора",
+      "video_keywords": "business meeting, frustrated investors, corporate office, executive speaking"
     }
   ]
 }
