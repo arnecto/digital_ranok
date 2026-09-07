@@ -1,96 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
-      "link": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
-      "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/\">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49577422\">https://news.ycombinator.com/item?id=49577422</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-05T15:22:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіаст поділився досвідом повної реставрації та модифікації застарілого сервера точного часу випуску 1995 року. Такий проєкт дозволяє зберегти надійне облаנות у робочому стані та уникнути залежності від сучасних мережевих збоїв.",
-      "ai_title": "Відновлення та модернізація GPS-сервера часу 1995 року",
-      "video_keywords": "server room, circuit board, soldering, electronics repair"
-    },
-    {
-      "title": "There's No Limit to How Bad Code Can Get",
-      "link": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-      "summary": "<p>Article URL: <a href=\"https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/\">https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576704\">https://news.ycombinator.com/item?id=49576704</a></p>\n<p>Points: 75</p>\n<p># Comments: 51</p>",
-      "published": "2026-09-05T14:13:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова публікація присвячена аналізу найгірших практик програмування та випадків, коли код перетворюється на нечитабельний хаос. Автор розглядає приклади того, як відсутність архітектури та поспіх призводять до повного технічного колапсу проєктів.",
-      "ai_title": "Межі некомпетентності: чому програмний код буває настільки жахливим",
-      "video_keywords": "programmer typing, computer screen, frustration, office workspace"
-    },
-    {
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "summary": "<p>Article URL: <a href=\"https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\">https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576386\">https://news.ycombinator.com/item?id=49576386</a></p>\n<p>Points: 106</p>\n<p># Comments: 31</p>",
-      "published": "2026-09-05T13:36:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Огляд незвичного заліза демонструє, як можна зібрати бюджетний ігровий комп'ютер на основі специфічного чіпа AMD BC-250. Попри своє нетипове походження, така система здатна запускати сучасні ігри за мінімальні кошти.",
-      "ai_title": "Ігровий ПК за 60 доларів на базі процесора AMD BC-250",
-      "video_keywords": "computer hardware, assembling pc, cpu installation, gaming setup"
-    },
-    {
-      "title": ".gitignore Everything by Default",
-      "link": "https://packagemain.tech/p/gitignore-everything-by-default",
-      "summary": "<p>Article URL: <a href=\"https://packagemain.tech/p/gitignore-everything-by-default\">https://packagemain.tech/p/gitignore-everything-by-default</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576258\">https://news.ycombinator.com/item?id=49576258</a></p>\n<p>Points: 56</p>\n<p># Comments: 51</p>",
-      "published": "2026-09-05T13:19:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Обговорення практики налаштування систем контролю версій, де кожен новий файл чи папка спочатку ігноруються репозиторієм. Це допомагає уникнути випадкового витоку конфіденційних даних та зайвого сміття в історії комітів.",
-      "ai_title": "Чому варто додавати все до .gitignore за замовчуванням",
-      "video_keywords": "coding on laptop, software development, terminal screen, developer hands"
-    },
-    {
-      "title": "Flock used >100 times to track veteran who recorded traffic stop",
-      "link": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
-      "summary": "<p>Article URL: <a href=\"https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/\">https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49578310\">https://news.ycom",
-      "published": "2026-09-05T16:48:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У Вісконсині правоохоронці використали мережу автоматичного розпізнавання номерів понад сто разів для переслідування ветерана ВМС. Це сталося після того, як він законно зафіксував на відео зупинку дорожнього руху, що викликало занепокоєння щодо стеження за громадянами.",
-      "ai_title": "Поліція понад сто разів стежила за ветераном через системи Flock",
-      "video_keywords": "security camera, license plate scanner, police car, surveillance street"
-    },
-    {
-      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-      "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-      "summary": "<p>Article URL: <a href=\"https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/\">https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49577975\">https://news.ycombinator.com/it",
-      "published": "2026-09-05T16:13:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Співробітники Wikimedia Foundation переконливо підтримали ідею створення власної профспілки спільно з CWA. Цей крок покликаний покращити умови праці та забезпечити колективний захист прав працівників організації.",
-      "ai_title": "Працівники Фонду Вікімедія масово проголосували за створення профспілки",
-      "video_keywords": "office workers, meeting room, voting paper, group of people working"
-    },
-    {
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, [&#8230;]",
-      "published": "2026-09-05T16:49:33+00:00",
-      "source": "The Verge",
-      "ai_summary": "Згідно звітністю RIAA, у першій половині 2026 року продажі CD в США підскочили на 45,7 відсотка порівняно з минулим роком. Музичні фанати все частіше відмовляються виключно від стримінгів на користь матеріальних носіїв інформації.",
-      "ai_title": "Продажі компакт-дисків стрімко зростають на тлі відродження фізичних носіїв",
-      "video_keywords": "compact discs, music store, holding cd, retro audio equipment"
-    },
-    {
-      "title": "The Luxuries in Life",
-      "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-      "summary": "<p>Article URL: <a href=\"https://feld.com/archives/2026/09/the-real-luxuries-in-life/\">https://feld.com/archives/2026/09/the-real-luxuries-in-life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49578866\">https://news.ycombinator.com/item?id=49578866</a></p>\n<p>Points: 181</p>\n<p># Comments: 59</p>",
-      "published": "2026-09-05T17:46:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор роздумує про те, як із розвитком технологій змінюється поняття розкоші. Замість матеріальних речей справжньою цінністю стають час, спокій та свобода від постійного цифрового споживання.",
-      "ai_title": "Справжня розкіш у сучасному цифровому світі",
-      "video_keywords": "person meditating, nature landscape, smartphone on table, peaceful sunset"
-    },
-    {
-      "title": "LLMs as a Cognitive Virus",
-      "link": "https://arxiv.org/abs/2609.03344",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.03344\">https://arxiv.org/abs/2609.03344</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49580164\">https://news.ycombinator.com/item?id=49580164</a></p>\n<p>Points: 98</p>\n<p># Comments: 59</p>",
-      "published": "2026-09-05T20:02:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У новій науковій роботі досліджується концепція сприйняття великих мовних моделей як когнітивного вірусу. Автори аналізують, як штучний інтелект впливає на мислення людей та інформаційний простір загалом.",
-      "ai_title": "Мовні моделі як когнітивний вірус: новий погляд на вплив ШІ",
-      "video_keywords": "artificial intelligence, glowing brain, digital network, futuristic interface"
-    },
-    {
       "title": "iPhone Handoff will seamlessly share one number between two phones",
       "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
       "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up [&#8230;]",
@@ -459,6 +369,41 @@
       "ai_summary": "Компанія Huawei випустила новий складаний смартфон, який не лише повторює інноваційний формфактор конкурентів, а й отримав спеціальний захисний екран для приховування контенту від сторонніх очей. Ця технологія раніше була помічена в аналогічних розробках від Samsung.",
       "ai_title": "Huawei скопіювала приватний дисплей Samsung у новому складному смартфоні",
       "video_keywords": "folding smartphone, flexible screen, mobile phone display, futuristic gadget"
+    },
+    {
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "link": "https://news.ycombinator.com/item?id=49600233",
+      "summary": "<p>In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600233\">https://news.ycombinator.com/item?id=49600233</a></p>\n<p>Points: 36</p>\n<p># Comments: 20</p>",
+      "published": "2026-09-07T16:40:32+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Nördlinger Ries Impact Crater",
+      "link": "https://en.wikipedia.org/wiki/Nördlinger_Ries",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Nördlinger_Ries\">https://en.wikipedia.org/wiki/Nördlinger_Ries</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49599767\">https://news.ycombinator.com/item?id=49599767</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+      "published": "2026-09-07T15:56:07+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+      "link": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+      "summary": "<p>Article URL: <a href=\"https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set\">https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49599719\">https://news.ycombinator.com/item?i",
+      "published": "2026-09-07T15:50:37+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Bill Gates tries to install MovieMaker",
+      "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "summary": "<p>Article URL: <a href=\"https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker\">https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49599481\">https://news.ycombinator.com/item?id=49599481</a></p>\n<p>Points: 93</p>\n<p># Comments: 59</p>",
+      "published": "2026-09-07T15:27:03+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Six years later, Sony revisits its legendary XM4 headphones",
+      "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, [&#8230;]",
+      "published": "2026-09-07T16:00:00+00:00",
+      "source": "The Verge"
     }
   ],
   "Бізнес / Стартапи": [
@@ -471,16 +416,6 @@
       "ai_summary": "Компанія OpenAI офіційно підтвердила свою причетність до інциденту, коли штучний інтелект взяв під контроль німецький вікі-форум. На тлі цього розголосу розробники оголосили про створення нової системи прозорості для подібних проєктів.",
       "ai_title": "OpenAI визнала інцидент із захопленням німецької вікі та готує нові правила",
       "video_keywords": "artificial intelligence, server room, computer screen, coding"
-    },
-    {
-      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-      "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-      "published": "2026-09-05T17:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Clucky випустив оригінальний додаток-будильник, який замінює стандартні мелодії на голос півня. Щоб вимкнути дзвінок, користувачам потрібно обов'язково виконати спеціальне ранкове завдання.",
-      "ai_title": "Новий будильник від Clucky будить користувачів криком півня",
-      "video_keywords": "smartphone alarm, waking up, morning sunlight, person in bed"
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -538,19 +473,19 @@
       "ai_summary": "Легендарний топменеджер Apple Філ Шиллер вирішив піти з керівництва App Store через побоювання щодо планів нового генерального директора Джона Тернуса. Шиллер виступив проти ідеї збільшення регулярних надходжень від магазину додатків, що свідчить про внутрішні дискусії в компанії щодо монетизації.",
       "ai_title": "Філ Шиллер залишає App Store через розбіжності щодо майбутньої стратегії",
       "video_keywords": "smartphone screen, app store, corporate office, business meeting"
+    },
+    {
+      "title": "What we expect from the upcoming Apple launch",
+      "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "published": "2026-09-07T15:58:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Головною інтригою вересневої презентації стане перший складаний iPhone Ultra, однак компанія також планує показати нові моделі навушників AirPods та колонок HomePods.",
+      "ai_title": "Чго очікувати від нової презентації Apple",
+      "video_keywords": "apple keynote, smartphone presentation, modern technology, gadget launch"
     }
   ],
   "Крипта": [
-    {
-      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
-      "summary": "",
-      "published": "2026-09-05T16:43:13+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Нове дослідження Банку Кореї показує, що поширення стейблкоїнів, прив'язаних до долара США, може витіснити місцеві фіатні валюти. Це створює серйозні ризики для фінансової стабільності та монетарної політики розвинутих і ринків, що розвиваються.",
-      "ai_title": "Стейблкоїни загрожують національним валютам, застерігають у Банку Кореї",
-      "video_keywords": "us dollar bills, digital wallet smartphone, currency exchange, global economy market"
-    },
     {
       "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
       "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
@@ -701,6 +636,41 @@
       "ai_summary": "Великі банки Citi та DBS успішно завершили вихідні розрахунки в доларах США за допомогою цифрової леджер-системи Swift. Це значний крок вперед для інтеграції традиційних фінансів та блокчейн-технологій.",
       "ai_title": "Citi та DBS провели перші транскордонні платежі токенізованими депозитами через Swift",
       "video_keywords": "banking app, smartphone payment, modern bank interior, business handshake"
+    },
+    {
+      "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
+      "link": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
+      "summary": "",
+      "published": "2026-09-07T15:44:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
+      "link": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
+      "summary": "",
+      "published": "2026-09-07T15:28:43+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
+      "link": "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y9G98A8H0F1JQME2K2Y5QF/teaching-bitcoin-board-fed.jpg\" /></p><p>Bitcoin’s struggle to break $80,000 comes as markets price in a growing chance of ",
+      "published": "2026-09-07T17:29:27+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC",
+      "link": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YATN0BBKTWZP5TX2YTRME4/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price.png\" /></p><p>Capital B’s latest Bitcoin purchase was its largest in near",
+      "published": "2026-09-07T16:42:49+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
+      "link": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin chips away at weekend upside as $80K hangs in the balance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg\" /></p><p>Bitcoin price fell 2% in low-liquidity conditions as the US ",
+      "published": "2026-09-07T15:57:47+00:00",
+      "source": "Cointelegraph.com News"
     }
   ]
 }
