@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "summary": "<p>Article URL: <a href=\"https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571465\">https://news.ycombinator.com/item?id=49571465</a></p>\n<p>Points: 22</p>\n<p># Comments: 4</p>",
-      "published": "2026-09-04T23:38:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інженери Spotify представили проєкт Portal, який дозволяє радикально оптимізувати роботу з великими мовними моделями на кшталт Claude Code. Завдяки розумному керуванню контекстом вдалося знизити витрату токенів аж на 90 відсотків, що суттєво економить ресурси розробників.",
-      "ai_title": "Spotify створив інструмент, що скорочує витрати токенів ШІ на 90%",
-      "video_keywords": "programmer typing, computer screen, code lines, developer office"
-    },
-    {
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571632\">https://news.ycombinator.com/item?id=49571632</a></p>\n<p>Points: 24</p>\n<p># Comments: 4</p>",
-      "published": "2026-09-05T00:04:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналітична платформа Artificial Analysis випустила оновлену версію свого індексу штучного інтелекту v4.2. Цей рейтинг допомагає об'єктивно оцінювати та порівнювати можливості найсучасніших нейромереж за різними ключовими параметрами.",
-      "ai_title": "Вийшов новий індекс продуктивності штучного інтелекту v4.2",
-      "video_keywords": "data dashboard, analytics graphs, digital charts, glowing screen"
-    },
-    {
-      "title": "Show HN: Moadim.io – A scheduler for agents",
-      "link": "https://moadim.io/",
-      "summary": "<p>Why can't we get an agent scheduler that supports all of the following:<p>- git compatible<p>- agent agnostic<p>- 100% open source<p>- os and system-agnostic<p>- multi-runner support<p>- support mcp/ui/http<p>- unlimited routines/crons<p>So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new ro",
-      "published": "2026-09-04T23:50:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили Moadim.io — відкритий та сумісний з Git локальний сервіс для координації роботи ШІ-агентів. Новий інструмент дозволяє легко керувати рутинними завданнями через репозиторії без прив'язки до конкретних операційних систем.",
-      "ai_title": "Запущено новий планувальник завдань для автономних ШІ-агентів",
-      "video_keywords": "server racks, blinking lights, data center, futuristic interface"
-    },
-    {
-      "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
-      "link": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
-      "summary": "<p>Article URL: <a href=\"https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/\">https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571627\">https://news.ycombinator.com/item?id=49571627</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-05T00:03:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з кібербезпеки проаналізували мовчазне оновлення RouterOS версії 7.23.4 від компанії MikroTik. Дослідники з'ясували суть виправлень, які виробник долучив до релізу без детальних публічних роз'яснень.",
-      "ai_title": "Дослідники розкрили деталі прихованого оновлення безпеки MikroTik RouterOS",
-      "video_keywords": "network router, ethernet cables, flashing lights, cyber security"
-    },
-    {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "summary": "<p>Article URL: <a href=\"https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation\">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49572875\">https://news.ycombinator.com/item?id=49572875</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "2026-09-05T03:38:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти проаналізували роботу новітньої моделі GPT-6 Astra під час автоматичного перевіряння коду. Дослідження охоплює ключові показники ефективності, питання захисту даних та економічну доцільність використання такого штучного інтелекту в розробці.",
-      "ai_title": "Оцінка GPT-6 Astra у рев'ю коду: переваги, конфіденційність та ціна",
-      "video_keywords": "software code screen, developer typing, computer monitor, office workspace"
-    },
-    {
       "title": "AI handles incidents, engineers lose touch with their systems",
       "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "summary": "<p>Article URL: <a href=\"https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49574167\">https://news.ycombinator.com/item?id=49574167</a></p>\n<p>Points: 75</p>\n<p># Comments: 42</p>",
@@ -449,19 +399,29 @@
       "ai_summary": "Популярний серед користувачів macOS плеєр і джубокс Sol тепер доступний з відкритим вихідним кодом. Розробник вирішив передати проєкт спільноті, зробивши його повністю безкоштовним.",
       "ai_title": "Музичний плеєр Sol для macOS став повністю безкоштовним та відкритим",
       "video_keywords": "macbook screen, music player app, typing trackpad, listening to music"
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "link": "https://austinhenley.com/blog/python1024.html",
+      "summary": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 57</p>\n<p># Comments: 20</p>",
+      "published": "2026-09-06T23:14:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив надзвичайно компактний інтерпретатор мови Python, який поміщається всього в 1024 байти пам'яті. Цей експеримент демонструє високий рівень оптимізації та мінімалістичного програмування.",
+      "ai_title": "Інтерпретатор Python усього на 1024 байти",
+      "video_keywords": "programmer typing code, computer screen, binary code, developer desk"
+    },
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+      "published": "2026-09-06T23:36:04+00:00",
+      "source": "The Verge",
+      "ai_summary": "Відомі американські видання звинувачують технологічних гігантів у несанкціонованому використанні їхніх матеріалів для навчання штучного інтелекту. Позивачі заявляють, що моделі ШІ часто відтворюють їхні статті у відповідь на запити користувачів без дотримання авторських прав.",
+      "ai_title": "Seattle Times та Newsday подали до суду на OpenAI та Microsoft",
+      "video_keywords": "courtroom, lawsuit, lawyer, typing on laptop"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "published": "2026-09-04T23:36:14+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Всього через три місяці після виходу з тіні робототехнічний стартап XDOF розпочав переговори про раунд фінансування Серії B. Така активність свідчить про надзвичайно високий інтерес інвесторів до сфери збору та обробки даних для роботів.",
-      "ai_title": "Робототехнічний стартап XDOF залучає інвестиції при оцінці в $1,2 млрд",
-      "video_keywords": "robotics, technology, startup office, futuristic robot"
-    },
     {
       "title": "Oura is going public, but these smart ring companies are coming for its crown",
       "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
@@ -641,6 +601,16 @@
       "ai_summary": "Юридичні баталії навколо ринків прогнозів переходять на новий рівень та можуть дійти до Верховного суду США. Це створит новий прецедент для регулювання криптоіндустрії та децентралізованих платформ ставок. Подібні судові рішення визначатимуть майбутнє всього сектору.",
       "ai_title": "Прогнози ринку наближаються до Верховного суду",
       "video_keywords": "supreme court, courtroom, judge gavel, legal scales"
+    },
+    {
+      "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1WEJ8K82HDZFDZDMKSQ89V0/cover-collage.png\" /></p><p>Purported white hat hackers have taken 4000 Bitcoin from the Liquid sidechain in a major securit",
+      "published": "2026-09-07T00:05:02+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Група так званих \"білих хакерів\" здійснила перехоплення 4000 біткойнів з бічного ланцюжка Liquid задля захисту активів. Тим часом ринок криптовалютних ETF зафіксував найбільший приплив інвестицій за весь 2026 рік.",
+      "ai_title": "Етичні хакери вивели 4000 біткойнів із мережі Liquid, а спотові ETF б'ють рекорди припливу капіталу",
+      "video_keywords": "hacker typing laptop, cryptocurrency graphs, stock market trading floor"
     }
   ]
 }
