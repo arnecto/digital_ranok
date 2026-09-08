@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "link": "https://austinhenley.com/blog/python1024.html",
-      "summary": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 57</p>\n<p># Comments: 20</p>",
-      "published": "2026-09-06T23:14:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив надзвичайно компактний інтерпретатор мови Python, який поміщається всього в 1024 байти пам'яті. Цей експеримент демонструє високий рівень оптимізації та мінімалістичного програмування.",
-      "ai_title": "Інтерпретатор Python усього на 1024 байти",
-      "video_keywords": "programmer typing code, computer screen, binary code, developer desk"
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
-      "published": "2026-09-06T23:36:04+00:00",
-      "source": "The Verge",
-      "ai_summary": "Відомі американські видання звинувачують технологічних гігантів у несанкціонованому використанні їхніх матеріалів для навчання штучного інтелекту. Позивачі заявляють, що моделі ШІ часто відтворюють їхні статті у відповідь на запити користувачів без дотримання авторських прав.",
-      "ai_title": "Seattle Times та Newsday подали до суду на OpenAI та Microsoft",
-      "video_keywords": "courtroom, lawsuit, lawyer, typing on laptop"
-    },
-    {
       "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
       "link": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
       "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9\">https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594189\">https://news.ycombinator.com/item?id=49594189</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
@@ -395,19 +375,49 @@
       "ai_summary": "Компанія Rivian та її дочірній проєкт Also змушені затримати випуск свого інноваційного програмно-керованого електровелосипеда TM-B. Клієнти, які очікували на унікальний двоколісний транспорт із розширеним цифровим функціоналом, висловлюють невдоволення переносом термінів.",
       "ai_title": "Rivian вибачилася за затримку постачання футуристичних електровелосипедів",
       "video_keywords": "electric bicycle, modern urban street, riding bicycle, bicycle parking"
+    },
+    {
+      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "summary": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617581\">https://news.ycombinator.com/item?id=49617581</a></p>\n<p>Points: 50</p>\n<p># Comments: 18</p>",
+      "published": "2026-09-08T21:47:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження показує, що великі мовні моделі здатні самостійно розвивати нові соціальні упередження в процесі адаптивного дослідження. Це становить додаткові виклики для розробників, які прагнуть зробити алгоритми безпечнішими та етичнішими. Поведінка моделей стає менш передбачуваною під час взаємодії з різними типами даних.",
+      "ai_title": "Штучний інтелект створює нові соціальні упередження",
+      "video_keywords": "artificial intelligence, server room, glowing code, data visualization"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "summary": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117237320796901560\">https://mathstodon.xyz/@tao/117237320796901560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616968\">https://news.ycombinator.com/item?id=49616968</a></p>\n<p>Points: 33</p>\n<p># Comments: 14</p>",
+      "published": "2026-09-08T21:00:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відомий математик Теренс Тао звернув увагу на проблему використання відкритих математичних задач для тренування ШT. Ресурси таких завдань виявляються невідновлюваними у міру їхнього швидкого поглинання алгоритмами. Це може суттєво вплинути на майбутні дослідження в галузі теоретичної математики.",
+      "ai_title": "Математичні проблеми виснажуються штучним інтелектом",
+      "video_keywords": "blackboard, math formulas, writing on glass, university classroom"
+    },
+    {
+      "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+      "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+      "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported detail was wrong. Originally, [&#8230;]",
+      "published": "2026-09-08T21:52:13+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Sony уточнює свої плани щодо припинення випуску фізичних носіїв для відеоігор до січня 2028 року. Попри попередні чутки про перепрофілювання останнього заводу, виробництво дискових версій триватиме довше, ніж очікувалося. Це дає передишку колекціонерам та прихильникам фізичних копій ігор.",
+      "ai_title": "Sony не поспішає повністю відмовлятися від ігрових дисків",
+      "video_keywords": "video game discs, PlayStation console, unboxing, gaming setup"
+    },
+    {
+      "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+      "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+      "summary": "It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbox version is the best choice because it also supports PlayStation, PC, Nintendo [&#8230;]",
+      "published": "2026-09-08T20:39:49+00:00",
+      "source": "The Verge",
+      "ai_summary": "Преміальна ігрова гарнітура Razer BlackShark V3 Pro з активним шумозахистом продається зі знижкою майже в 100 доларів. Експерти радять обирати саме версію для Xbox, оскільки вона є універсальною та сумісною з PlayStation, ПК і Nintendo. Це робить гарнітуру вигідною покупкою для геймерів на різних платформах.",
+      "ai_title": "Ігрова гарнітура Razer з шумозахистом суттєво подешевшала",
+      "video_keywords": "gaming headset, gamer playing, neon lights, using headphones"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "published": "2026-09-06T21:41:06+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Легендарний топменеджер Apple Філ Шиллер вирішив піти з керівництва App Store через побоювання щодо планів нового генерального директора Джона Тернуса. Шиллер виступив проти ідеї збільшення регулярних надходжень від магазину додатків, що свідчить про внутрішні дискусії в компанії щодо монетизації.",
-      "ai_title": "Філ Шиллер залишає App Store через розбіжності щодо майбутньої стратегії",
-      "video_keywords": "smartphone screen, app store, corporate office, business meeting"
-    },
     {
       "title": "What we expect from the upcoming Apple launch",
       "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
@@ -547,6 +557,26 @@
       "ai_summary": "Новий помічник від Meta прагне отримати доступ до особистих поштових скриньок, календарів та фінансів користувачів. Це стане серйозною перевіркою того, чи готові люди довіряти свої дані цій компанії.",
       "ai_title": "Meta анонсувала персонального AI-агента Muse",
       "video_keywords": "person using smartphone, AI assistant interface, digital data security"
+    },
+    {
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+      "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+      "published": "2026-09-08T20:47:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія The Exploration Company зібрала масштабне фінансування у рамках раунду Серії C. Отримані кошти планують спрямувати на розробку багаторазових космічних кораблів для боротьби за ринок комерційних польотів.",
+      "ai_title": "Європейський космічний стартап залучив рекордні $450 мільйонів для конкуренції зі SpaceX",
+      "video_keywords": "rocket launch, space station, engineer working, control room"
+    },
+    {
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+      "published": "2026-09-08T23:23:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Адміністрація Трампа була змушена прибрати з публічного доступу аркадну гру. Претензії правовласників легендарного Тетрісу стосувалися ймовірного порушення авторських прав.",
+      "ai_title": "Білий дім видалив гру «Build the Wall» після скарги від творців Tetris",
+      "video_keywords": "person playing video game, retro arcade machine, computer screen, office worker"
     }
   ],
   "Крипта": [
@@ -914,6 +944,16 @@
       "ai_summary": "Криптобіржа Bybit додали розрахункові в USDT безстрокові ф'ючерси на основні світові валютні пари, такі як EUR/USD, GBP/USD та USD/JPY. Користувачі отримали доступ до торгівлі у форматі 24/7 із можливістю використання кредитного плеча.",
       "ai_title": "Bybit запускає цілодобову торгівлю безстроковими контрактами для валютних пар",
       "video_keywords": "trading charts, financial graphs, stock market screen, digital trading interface"
+    },
+    {
+      "title": "New York town weighs crypto mining and AI data center ban",
+      "link": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York town weighs crypto mining and AI data center ban\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M21D11KB4BXD9GBM5H39S2WK/hi-anti-dumping-policy-in-crypto-bitcoin-miner.jpg\" /></p><p>One of the first towns in the US to ban Bitcoin mining for 18 months is considering another ",
+      "published": "2026-09-08T21:33:49+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Одне з перших американських міст, яке раніше вже забороняло видобуток біткоїнів на півтора року, тепер розглядає можливість запровадження нових обмежень. Під загрозою опинилися як криптомайнінгові ферми, так і потужні центри обробки даних для штучного інтелекту через їхній вплив на екологію та енергомережу.",
+      "ai_title": "Містечко у США розглядає заборону на майнінг крипти та дата-центри ШІ",
+      "video_keywords": "server room, computer servers, data center, blinking lights"
     }
   ]
 }
