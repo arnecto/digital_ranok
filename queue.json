@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "summary": "<p>Article URL: <a href=\"https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight\">https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49584083\">https://news.ycombinator.com/",
-      "published": "2026-09-06T07:21:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Європейська космічна компанія Isar Aerospace досягла значного успіху, вивівши носій на орбіту та розгорнувши корисне навантаження під час свого другого польоту. Це історичне досягнення для приватного європейського космосу відкриває нові можливості для комерційних запускачів у регіоні.",
-      "ai_title": "Isar Aerospace успішно вивела ракету на орбіту під час другого запуску",
-      "video_keywords": "rocket launch, space rocket, lift off, satellite deployment"
-    },
-    {
-      "title": "Show HN: Keen Bean – Mac meeting notes that draft the spec while you talk",
-      "link": "https://keenbean.app/",
-      "summary": "<p>Article URL: <a href=\"https://keenbean.app/\">https://keenbean.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49584880\">https://news.ycombinator.com/item?id=49584880</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-09-06T09:53:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено інструмент Keen Bean для користувачів Mac, який слухає розмову під час зустрічі та в реальному часі формує проєктну документацію чи специфікацію. Це суттєво економить час команд на документування рішень після брейнштормінгів.",
-      "ai_title": "Новий застосунок для Mac автоматично створює технічні завдання під час нарад",
-      "video_keywords": "laptop typing, office meeting, software developer, modern workspace"
-    },
-    {
       "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
       "link": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
       "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Asahi-Linux-Official-M3\">https://www.phoronix.com/news/Asahi-Linux-Official-M3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586698\">https://news.ycombinator.com/item?id=49586698</a></p>\n<p>Points: 60</p>\n<p># Comments: 30</p>",
@@ -455,6 +435,26 @@
       "ai_summary": "Новий інцидент за участю GamersNexus та LG підняв тему ризиків модифікації системного програмного забезпечення розумних телевізорів. Експерти пояснюють, чому зламування прошивки побутової техніки часто призводить до її повної несправності.",
       "ai_title": "Чому не варто намагатися отримати рут-права на своєму телевізорі",
       "video_keywords": "smart tv, electronics repair, soldering iron, broken screen"
+    },
+    {
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "link": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "summary": "<p>Article URL: <a href=\"https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten\">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49607443\">https://news.ycombinator.com/item?id=49607443</a></p>\n<p>Points: 127</p>\n<p># Comments: 132</p>",
+      "published": "2026-09-08T08:42:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Згідно з останніми даними, майже 9 із 10 європейських компаній, які використовують мережі доставки контенту (CDN), обирають саме сервіси Cloudflare. Така монополізація ринку викликає дискусії серед експертів щодо безпеки та децентралізації інфраструктури інтернету в Європі.",
+      "ai_title": "Cloudflare домінує на європейському ринку CDN",
+      "video_keywords": "server room, data center, computer monitors, network cables"
+    },
+    {
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "link": "https://vale.rocks/posts/html-relics",
+      "summary": "<p>Article URL: <a href=\"https://vale.rocks/posts/html-relics\">https://vale.rocks/posts/html-relics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49607991\">https://news.ycombinator.com/item?id=49607991</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+      "published": "2026-09-08T09:43:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує рудименти та застарілі артефакти HTML, які досі зустрічаються у веб-розробці. Стаття розглядає історію появи цих елементів та причини, чому розробники досі їх використовують чи уникають.",
+      "ai_title": "Застарілі фрагменти HTML: що приховує сучасний код",
+      "video_keywords": "computer screen, programming code, typing on keyboard, developer desk"
     }
   ],
   "Бізнес / Стартапи": [
@@ -514,16 +514,19 @@
       "ai_summary": "Стрімкий розвиток технологій штучного інтелекту приніс із собою безліч нових специфічних понять та професійного сленгу. Експерти підготували зручний глосарій із поясненнями найважливіших слів та фраз, з якими стикаються фахівці.",
       "ai_title": "Словник штучного інтелекту: головні терміни, які варто знати",
       "video_keywords": "futuristic interface, digital screen, typing on laptop, data visualization"
+    },
+    {
+      "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+      "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+      "published": "2026-09-08T09:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Аерокосмічний стартап Stoke Space закрив інвестиційний раунд серії E на суму один мільярд доларів. Отримані кошти компанія спрямує на досягнення орбіти та підготовку до запуску нової, ще більшої ракети багаторазового використання.",
+      "ai_title": "Stoke Space залучила мільярд доларів для конкуренції зі SpaceX",
+      "video_keywords": "rocket launch, spacecraft, space tech, engineering workshop"
     }
   ],
   "Крипта": [
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
-      "published": "2026-09-06T13:24:43+00:00",
-      "source": "Cointelegraph.com News"
-    },
     {
       "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
       "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -775,6 +778,56 @@
       "ai_summary": "Команда «білих хакерів» повернула більшу частину коштів, виведених із федеративного гаманця мережі Liquid внаслідок недавнього інциденту безпеки. Наразі платформа готується до повноцінного перезапуску та повернення до нормальної роботи.",
       "ai_title": "Етичні хакери повернули 270 мільйонів доларів у біткоїнах мережі Liquid",
       "video_keywords": "hacker typing on keyboard, digital security breach, data center servers, glowing computer code"
+    },
+    {
+      "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
+      "link": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million",
+      "summary": "",
+      "published": "2026-09-08T10:39:33+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Мережа Cronos провела суперечливий відкат блокчейна, щоб повернути криптовалюту вартістю 111 мільйонів доларів після мащабного збою. Попри це, частину коштів у розмірі 9,2 мільйона доларів все ж було втрачено до завершення процедури.",
+      "ai_title": "Блокчейн Cronos здійснив спірний відкат мережі заради порятунку 111 мільйонів доларів",
+      "video_keywords": "blockchain server, computer code, digital hacking, warning screen"
+    },
+    {
+      "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
+      "summary": "",
+      "published": "2026-09-08T10:33:17+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс Біткоїна знизився до 78 800 доларів через тиск зі сторони макрофакторів та зростання прибутковості облігацій. Водночас деякі токени DeFi та BNB змогли протистояти загальній тенденції до розпродажу.",
+      "ai_title": "Биткоїн просів до 78 800 доларів на тлі загального падіння ринку",
+      "video_keywords": "cryptocurrency chart, stock market crash, financial graphs, trading terminal"
+    },
+    {
+      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
+      "link": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
+      "summary": "",
+      "published": "2026-09-08T09:51:01+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Згідно з даними бюджетного офісу, використання стейблкоїнів здатне заощадити південнокорейським торговцям до 3,8 мільярда доларів на рік. Це суттєво оптимізує витрати на транзакції та прискорить розрахунки.",
+      "ai_title": "Стейблкоїни можуть заощадити підприємцям Південної Кореї мільярди доларів",
+      "video_keywords": "smartphone payment, digital wallet, modern store, contactless checkout"
+    },
+    {
+      "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
+      "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Uzbekistan begins government bond-backed stablecoin payment pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M206SWCMNKXPJXWKTH0HCEYH/s.jpg\" /></p><p>Humo Digital will test HUMO payments with more than 20 merchants under a sandbox jointly overseen by NAPP and Uzbekistan’s centra",
+      "published": "2026-09-08T10:07:10+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "В Узбекистані стартував тестовий проєкт із використанням стейблкоїнів, забезпечених державними облігаціями. Платформа Humo Digital тестує новий платіжний інструмент за участю місцевих підприємців у спеціальному регуляторному середовищі.",
+      "ai_title": "Узбекистан запускає пілотний проєкт платежів у стейблкоїнах під держгарантії",
+      "video_keywords": "central bank building, digital currency, government office, modern technology"
+    },
+    {
+      "title": "Robinhood chain to generate $160M in annual fees by 2028: Bernstein",
+      "link": "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood chain to generate $160M in annual fees by 2028: Bernstein\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M205GJS8Q5S11AJAQ7022PC1/robinhood2-1.jpg\" /></p><p>Growing demand for tokenized stock trading may drive the Robinhood chain’s annual fees to $160 million by 2028, pred",
+      "published": "2026-09-08T09:54:40+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики Bernstein прогнозують, що зростаючий попит на токенізовані біржові активи допоможе блокчейну Robinhood згенерувати 160 мільйонів доларів річного доходу. Це підкреслює стрімку інтеграцію традиційних фінансів у блокчейн-середовище.",
+      "ai_title": "Блокчейн Robinhood може принести 160 мільйонів доларів комісійних до 2028 року",
+      "video_keywords": "smartphone trading app, stock market graphs, financial portfolio, digital tablet"
     }
   ]
 }
