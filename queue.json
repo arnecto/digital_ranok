@@ -1,63 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532\">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49597189\">https://news.ycombina",
-      "published": "2026-09-07T11:46:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нові дослідження показують, що провідні бренди мобільних телефонів не поспішають виконувати суворі вимоги Європейського Союзу щодо ремонтоприладності пристроїв. Це викликає занепокоєння у захисників прав споживачів та екологів, які прагнуть зменшити кількість електронних відходів.",
-      "ai_title": "Виробники смартфонів ігнорують правила ЄС щодо ремонту",
-      "video_keywords": "smartphone repair, broken screen, technician soldering, electronic workshop"
-    },
-    {
-      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
-      "link": "https://news.ycombinator.com/item?id=49596976",
-      "summary": "<p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with \"save:false\", and the marker then appeared verbatim in the HTML served from the generated \"*.codepe",
-      "published": "2026-09-07T11:22:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі виявили, що нова версія популярного веб-редактора відправляє введений код на віддалений сервер ще до того, як користувач натисне кнопку збереження. Така поведінка платформи викликала серйозні запитання щодо конфіденційності та безпеки даних розробників.",
-      "ai_title": "CodePen 2.0 транслює кожне натискання клавіш на свої серверери",
-      "video_keywords": "typing on keyboard, programmer hands, computer monitor, code editor"
-    },
-    {
-      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
-      "link": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
-      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/\">https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596629\">https://news.ycombinator.com/item?id=49596629</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-07T10:41:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий компактний рідер вартістю лише 70 доларів кидає виклик дорогій техніці з Кремнієвої Долини. Цей пристрій доводить, що якісні гаджети для читання можуть бути доступними для широкого кола користувачів без переплат за бренд.",
-      "ai_title": "Бюджетна електронна книга Xteink X3 вражає ринок",
-      "video_keywords": "reading e-reader, person holding tablet, turning pages, cozy room"
-    },
-    {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "summary": "<p>Article URL: <a href=\"https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus\">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596054\">https://news.ycombinator.com/item?id=49596054</a></p>\n<p>Points: 37</p>\n<p># Comments: 9</p>",
-      "published": "2026-09-07T09:26:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники впровадили підтримку спекулятивного декодування у фреймворк vLLM для графічних процесорів AMD. Це значно підвищує швидкість роботи великих мовних моделей та оптимізує продуктивність апаратного забезпечення.",
-      "ai_title": "Прискорення генерації штучного інтелекту на відеокартах AMD",
-      "video_keywords": "computer hardware, glowing graphics card, server rack, computer cooling fans"
-    },
-    {
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-      "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung [&#8230;]",
-      "published": "2026-09-07T10:09:42+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Huawei випустила новий складаний смартфон, який не лише повторює інноваційний формфактор конкурентів, а й отримав спеціальний захисний екран для приховування контенту від сторонніх очей. Ця технологія раніше була помічена в аналогічних розробках від Samsung.",
-      "ai_title": "Huawei скопіювала приватний дисплей Samsung у новому складному смартфоні",
-      "video_keywords": "folding smartphone, flexible screen, mobile phone display, futuristic gadget"
-    },
-    {
-      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-      "link": "https://news.ycombinator.com/item?id=49600233",
-      "summary": "<p>In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600233\">https://news.ycombinator.com/item?id=49600233</a></p>\n<p>Points: 36</p>\n<p># Comments: 20</p>",
-      "published": "2026-09-07T16:40:32+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
       "title": "Nördlinger Ries Impact Crater",
       "link": "https://en.wikipedia.org/wiki/Nördlinger_Ries",
       "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Nördlinger_Ries\">https://en.wikipedia.org/wiki/Nördlinger_Ries</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49599767\">https://news.ycombinator.com/item?id=49599767</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
@@ -415,6 +358,46 @@
       "ai_summary": "За даними інсайдерів, компанія Apple планує презентувати свій довгоочікуваний складаний смартфон під назвою iPhone Duo. Стартова ціна базової моделі складатиме близько двох тисяч доларів.",
       "ai_title": "Apple готує до виходу складаний iPhone Duo за ціною від $2000",
       "video_keywords": "folding smartphone, modern phone, tech presentation, apple store"
+    },
+    {
+      "title": "US Accused DeepSeek, Alibaba and Four Other Companies of Copying American AI Models",
+      "link": "https://en.ain.ua/2026/09/09/us-accused-deepseek-alibaba-and-four-other-companies-of-copying-american-ai-models/",
+      "summary": "NSA, FBI and CISA said companies used distillation to extract knowledge from American AI models.",
+      "published": "2026-09-09T10:33:00+00:00",
+      "source": "",
+      "ai_summary": "Американські відомства заявляють, що китайські компанії використовували метод дистиляції для запозичення значень та архітектури з моделей США. Це загострює технологічне протистояння між країнами в галузі штучного інтелекту.",
+      "ai_title": "США звинуватили DeepSeek та Alibaba у копіюванні американських ШІ-моделей",
+      "video_keywords": "server room, data center, cybersecurity, hacker"
+    },
+    {
+      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "link": "https://news.ycombinator.com/item?id=49624603",
+      "summary": "<p>DSeek plans to officially release the V4.1 Flash model around September 10, 2026 (Beijing Time). After extensive internal and external testing, V4.1 Flash has comprehensively surpassed V4 Pro across all key metrics, including performance, cost, speed, and task completion time. In keeping with our commitment to user responsibility, following the official launch of V4.1 Flash and prior to the rel",
+      "published": "2026-09-09T11:19:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія анонсувала реліз моделі V4.1 Flash, яка за результатами тестування перевершила попередню версію V4 Pro. Новинка демонструє вищу швидкість та продуктивність за менших витрат на обчислення.",
+      "ai_title": "DeepSeek готує до виходу нову потужнішу та дешевизну модель V4.1 Flash",
+      "video_keywords": "futuristic interface, computer screen, data visualization, code scrolling"
+    },
+    {
+      "title": "How An AI math breakthrough ignited a controversy",
+      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy\">https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624163\">https://news.ycombinator.com/item?id=49624163</a></p>\n<p>Points: 85</p>\n<p># Comments: 70</p>",
+      "published": "2026-09-09T10:25:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Останнє досягнення ШІ у сфері вищої математики викликало не лише захоплення, а й серйозні суперечки серед науковців. Експерти обговорюють методику розрахунків та достовірність отриманих алгоритмічних результатів.",
+      "ai_title": "Прорив у штучному інтелекті для розв'язання математичних задач спричинив дискусії",
+      "video_keywords": "chalkboard, math equations, scientific research, university lecture"
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [&#8230;]",
+      "published": "2026-09-09T09:56:28+00:00",
+      "source": "The Verge",
+      "ai_summary": "Провідний фахівець з безпеки компанії Anthropic заявив про високу ймовірність того, що неконтрольований суперінтелект може знищити людство до кінця десятиліття. Така заява пролунала на тлі звільнення іншого працівника через побоювання щодо небезпечних перегонів ШІ-лабораторій.",
+      "ai_title": "Дослідник Anthropic попередив про загрозу знищення людства через штучний інтелект",
+      "video_keywords": "warning sign, red alert, futuristic server, worried person"
     }
   ],
   "Бізнес / Стартапи": [
@@ -590,46 +573,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
-      "link": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
-      "summary": "",
-      "published": "2026-09-07T10:35:23+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Новий звіт виявив критичну вразливість, яка потенційно може надати хакерам контроль над 91 мільярдом доларів у токенах USDT. Проблема полягає в недоліках безпеки двоключової системи авторизації.",
-      "ai_title": "Мільярди доларів у USDT опинилися під загрозою через вразливість",
-      "video_keywords": "hacker typing, dark room, computer screens, cyber security threat"
-    },
-    {
-      "title": "Bitcoin struggles at $83,000 sell wall as whales distribution flip into net selling",
-      "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds",
-      "summary": "",
-      "published": "2026-09-07T09:48:51+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта зіткнулася з потужною стіною продажу на рівні $83 000. Крупні власники (кити) почали активно продавати свої активи, гальмуючи подальше зростання курсу.",
-      "ai_title": "Біткоїн зазнає труднощів біля позначки $83 000 через тиск продавців",
-      "video_keywords": "stock market chart, financial graphs, trading terminal, crypto trading"
-    },
-    {
-      "title": "Coldcard hacker moves $7.7 million in BTC, 45% of bitcoin stolen in third attack wave",
-      "link": "https://www.coindesk.com/business/2026/09/07/coldcard-hacker-moves-45-of-bitcoin-stolen-in-third-attack-wave",
-      "summary": "",
-      "published": "2026-09-07T09:32:05+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Зловмисник, відповідальний за третю хвилю атак на гаманці Coldcard, перемістив 4,5 мільйона доларів у біткоїнах. Наразі це становить майже половину всіх коштів, викрадених під час цієї серії нападів.",
-      "ai_title": "Хакер Coldcard перевів мільйони вкрадених біткоїнів",
-      "video_keywords": "hardware wallet, cryptocurrency security, digital keys, hacker attack"
-    },
-    {
-      "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
-      "link": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Citi, DBS complete first weekend tokenized cross-border deposit on Swift\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XP9EEWDQ84ZSGS1X5SFP19/hi-sbuidl-blackrocks-tokenized-treasury-fund.jpg\" /></p><p>Citi and DBS completed their first tokenized cross-border transfer over the wee",
-      "published": "2026-09-07T10:34:47+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Великі банки Citi та DBS успішно завершили вихідні розрахунки в доларах США за допомогою цифрової леджер-системи Swift. Це значний крок вперед для інтеграції традиційних фінансів та блокчейн-технологій.",
-      "ai_title": "Citi та DBS провели перші транскордонні платежі токенізованими депозитами через Swift",
-      "video_keywords": "banking app, smartphone payment, modern bank interior, business handshake"
-    },
     {
       "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
       "link": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
@@ -944,6 +887,56 @@
       "ai_summary": "Організатор міжнародного хакерського угруповання пішов на угоду зі слідством у справі про масові крадіжки цифрових активів. Зловмисник цілеспрямовано полював на великих власників криптовалюти через складні фішингові схеми. Цей випадок став одним із найбільших успіхів правоохоронців у боротьбі з криптошахрайством.",
       "ai_title": "Кіберзлочинець Мелон Лам визнав провину у крадіжці криптовалюти на $245 мільйонів",
       "video_keywords": "handcuffs, police lights, digital court gavel, hacker typing on laptop"
+    },
+    {
+      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
+      "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
+      "summary": "",
+      "published": "2026-09-09T11:40:44+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Один із банків США робить черговий крок до запуску власного стейблкоїна, протестувавши його для транскордонних платежів. Це свідчить про поступову інтеграцію блокчейн-технологій у традиційну банківську систему.",
+      "ai_title": "Американський банк тестує власну стейблкоїну систему",
+      "video_keywords": "bank lobby, smartphone payment, digital currency, corporate office"
+    },
+    {
+      "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
+      "summary": "",
+      "published": "2026-09-09T11:23:36+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "На Волл-стріт з'явився новий криптовалютний фонд, який пропонує інвесторам функцію стейкінгу для додаткового прибутку. Такий інструмент дозволяє поєднати традиційні фінансові активи з пасивним доходом від криптовалюти.",
+      "ai_title": "Волл-стріт запускає новий криптофонд із можливістю стейкінгу",
+      "video_keywords": "stock exchange trading floor, financial graphs, computer screens, businessman in suit"
+    },
+    {
+      "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
+      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
+      "summary": "",
+      "published": "2026-09-09T10:47:23+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс біткоїна пішов угору, тоді як ціни на нафту перевищили 100 доларів, а світові фондові ринки впали через удари з боку Ірану. Криптовалюта знову демонструє свою роль альтернативного активу під час геополітичних криз.",
+      "ai_title": "Біткоїн зростає на тлі нафтового скачку та падіння фондових ринків",
+      "video_keywords": "oil refinery, stock market crash, red candles chart, city skyline at night"
+    },
+    {
+      "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
+      "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
+      "summary": "",
+      "published": "2026-09-09T09:59:39+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Влада Ірану дозволила трейдерам повертати свої заробітки в країну за допомогою криптовалют, пом'якшивши суворі валютні обмеження. Це рішення допоможе бізнесу обходити міжнародні санкції та проводити розрахунки.",
+      "ai_title": "Іран пом'якшує валютні обмеження для виведення заробітку в крипті",
+      "video_keywords": "cryptocurrency mining rig, digital wallet, computer code, exchange office"
+    },
+    {
+      "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
+      "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
+      "summary": "",
+      "published": "2026-09-09T09:54:42+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Молодий житель Сінгапуру визнав свою вину в організації махінацій на 245 мільйонів доларів. Його визнано ватажком однієї з найбільших схем криптошахрайства останніх років.",
+      "ai_title": "22-річного сингапурця засуджено за масштабне криптошахрайство",
+      "video_keywords": "handcuffs, police lights, courtroom, criminal suspect"
     }
   ]
 }
