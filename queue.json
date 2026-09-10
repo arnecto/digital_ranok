@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "summary": "<p>Article URL: <a href=\"https://manualdousuario.net/en/libreoffice-download-record-no-ai/\">https://manualdousuario.net/en/libreoffice-download-record-no-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610538\">https://news.ycombinator.com/item?id=49610538</a></p>\n<p>Points: 169</p>\n<p># Comments: 49</p>",
-      "published": "2026-09-08T14:05:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Офісний пакет LibreOffice встановив новий рекорд за кількістю завантажень. Це сталося на тлі заяви розробників про те, що в програмі принципово немає жодних функцій зі штучним інтелектом.",
-      "ai_title": "LibreOffice б'є рекорди завантажень через відсутність штучного інтелекту",
-      "video_keywords": "computer screen, typing keyboard, office worker"
-    },
-    {
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in [&#8230;]",
-      "published": "2026-09-08T14:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія представила новий інструмент штучного інтелекту AlphaGenome Atlas. Він здатний прогнозувати наслідки будь-яких змін у ДНК, що може суттєво прискорити створення нових ліків проти хвороб.",
-      "ai_title": "Google DeepMind створила атлас геному людини за допомогою штучного інтелекту",
-      "video_keywords": "dna strand, laboratory scientist, computer graphics"
-    },
-    {
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking [&#8230;]",
-      "published": "2026-09-08T13:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Adobe оновлює професійний відеоредактор Premiere, спрощуючи доступ до генеративного штучного інтелекту. Тепер користувачі можуть створювати відео, музику та звукові ефекти прямо на таймлайні проєкту.",
-      "ai_title": "Adobe інтегрує зручніші генеративні функції ШІ в Premiere Pro",
-      "video_keywords": "video editing, computer monitor, timeline editing"
-    },
-    {
-      "title": "Microsoft breaks another patch Tuesday record",
-      "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
-      "summary": "Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows and security engineers, thanks to new AI models that are discovering software vulnerabilities at a rapid pace. Sources tell me that Microsoft [&#8230;]",
-      "published": "2026-09-08T14:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Цього літа інженери Microsoft зіткнулися з безпрецедентною роботою над оновленнями безпеки Windows. Нові моделі штучного інтелекту значно прискорили процес пошуку програмних вразливостей хакерами та розробниками.",
-      "ai_title": "Microsoft б'є рекорди за кількістю патчів через ШІ-вразливості",
-      "video_keywords": "cyber security, server room, coding screen"
-    },
-    {
-      "title": "Show HN: Copperhead – Hardware as Fast as Software",
-      "link": "https://copperhead.sh/",
-      "summary": "<p>Article URL: <a href=\"https://copperhead.sh/\">https://copperhead.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610059\">https://news.ycombinator.com/item?id=49610059</a></p>\n<p>Points: 71</p>\n<p># Comments: 22</p>",
-      "published": "2026-09-08T13:26:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У мережі представили новий проєкт Copperhead, який обіцяє революційну швидкість роботи апаратного забезпечення. Розробники демонструють підхід, що стирає межі між продуктивністю софту та заліза.",
-      "ai_title": "Copperhead: апаратне забезпечення, швидке як програмне",
-      "video_keywords": "microchip, computer hardware, circuit board"
-    },
-    {
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "link": "https://openai.com/index/navier-stokes-solution/",
       "summary": "<p>Article URL: <a href=\"https://openai.com/index/navier-stokes-solution/\">https://openai.com/index/navier-stokes-solution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613262\">https://news.ycombinator.com/item?id=49613262</a></p>\n<p>Points: 422</p>\n<p># Comments: 288</p>",
@@ -539,39 +489,59 @@
       "ai_summary": "Нове оновлення прошивки 23.0.0 принесло довгоочікувану функцію змінної частоти оновлення для консолі в док-режимі. Це дозволяє синхронізувати частоту екрана з кадровою частотою гри для плавльнішого зображення.",
       "ai_title": "Nintendo додала підтримку VRR для Switch 2 у режимі телевізора",
       "video_keywords": "video game console, living room, television screen, gamepad"
+    },
+    {
+      "title": "Amazon pilots ad services in ChatGPT",
+      "link": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+      "summary": "<p>Article URL: <a href=\"https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/\">https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49644047\">https://news.ycombinator.com/item?id=49644047</a></p>\n<p>Points: 31</p>\n<p># ",
+      "published": "2026-09-10T14:13:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Amazon розпочала пілотне тестування інтеграції своїх рекламних сервісів у популярний чат-бот ChatGPT. Це відкриває нові можливості для маркетологів та змінює підхід до контекстної реклами у сфері штучного інтелекту.",
+      "ai_title": "Amazon тестує рекламні послуги всередині ChatGPT",
+      "video_keywords": "typing on keyboard, digital advertisement, computer screen"
+    },
+    {
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "link": "https://news.ycombinator.com/item?id=49643556",
+      "summary": "<p>I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it hasn't been re-enabled if you believe it to be off right now.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643556\">https://news.ycombinator.com/item?id=49643556</a></p>",
+      "published": "2026-09-10T13:39:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі помітили, що компанія OpenAI повторно активує опцію «дозволити навчання» у налаштуваннях акаунта попри її попереднє вимкнення. Це викликає занепокоєння щодо конфіденційності даних користувачів, які використовуються для тренування штучного інтелекту.",
+      "ai_title": "OpenAI знову самостійно вмикає налаштування навчання моделей",
+      "video_keywords": "clicking mouse, laptop settings, software interface"
+    },
+    {
+      "title": "Rust Is Tier-1 Language at Microsoft",
+      "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "summary": "<p>Article URL: <a href=\"https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/\">https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643546\">https://news.ycombinator.com/item?id=49643546</a></p>\n<p>Points: 101</p>\n<p># Comments: 36</p>",
+      "published": "2026-09-10T13:39:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Мова програмування Rust отримала статус мови першого рівня (tier-1) у корпорації Microsoft. Це підкреслює зростаючу важливість безпеки пам'яті у розробці системного програмного забезпечення на рівні техногігантів.",
+      "ai_title": "Rust офіційно став мовою програмування першого рівня у Microsoft",
+      "video_keywords": "computer programming, coding on screen, software developer"
+    },
+    {
+      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+      "link": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "summary": "<p>Article URL: <a href=\"https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d\">https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643112\">https://news.ycombinator.com/item?id=49643112</a></p>\n<p>Points: 165</p>\n<p># Comments: 74</p>",
+      "published": "2026-09-10T13:07:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Черговий незалежний дослідник заявив, що OpenAI таємно тренувала свої моделі на закритих розмовах користувачів, після чого заявляла про революційні прориви у технологіях. Такі звинувачення ставлять під сумнів етичність збору даних для нових версій штучного інтелекту.",
+      "ai_title": "Дослідники звинувачують OpenAI у використанні приватних розмов для навчання ШІ",
+      "video_keywords": "artificial intelligence, server room, data center"
+    },
+    {
+      "title": "Sure, Meta’s AI Muse works, but it sure creeps me out",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+      "published": "2026-09-10T15:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Meta запустила помічника Muse, який допомагає користувачам в онлайн-шопінгу, написанні електронних листів та плануванні подорожей. Попри ефективність у рутинних завданнях, деякі користувачі зазначають, що поведінка нового асистента виглядає дещо моторошно.",
+      "ai_title": "Meta представила нового ШІ-асистента Muse",
+      "video_keywords": "person using smartphone, artificial intelligence, futuristic interface"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
-      "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-      "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
-      "published": "2026-09-08T14:11:29+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Криптовалютний простір сколихнула одна з найбільших крадіжок в історії, коли невідомий хакер викрав активи на 340 мільйонів доларів. Проте згодом зловмисник вирішив повернути більшу частину вкрадених коштів власнику.",
-      "ai_title": "Хакер викрав 340 мільйонів доларів у криптовалюті та повернув більшу частину",
-      "video_keywords": "hacker typing on laptop, glowing computer code, cryptocurrency screen, digital security"
-    },
-    {
-      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-      "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
-      "published": "2026-09-08T14:10:17+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Американський стартап Bluecore Energy зміг залучити 50 мільйонів доларів у раунді посівного фінансування. Успіх на інвестиційному ринку прийшов до компанії всього через два місяці після офіційного запуску.",
-      "ai_title": "Ядерний стартап Bluecore Energy залучив 50 мільйонів",
-      "video_keywords": "nuclear power plant, energy turbine, modern laboratory, scientists meeting"
-    },
-    {
-      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-      "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
-      "published": "2026-09-08T13:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Аерокосмічний стартап готується до свого першого тестового польоту без пілота на борту. Компанія прагне докорінно змінити економіку ринку вантажних авіаперевезень завдяки повному видаленню екіпажу.",
-      "ai_title": "Poseidon Aerospace залучила 60 мільйонів на розробку безпілотних вантажних літаків",
-      "video_keywords": "cargo airplane, drone flight, modern hangar, aviation engineer"
-    },
     {
       "title": "How to watch Apple’s foldable iPhone announcement",
       "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
@@ -836,69 +806,44 @@
       "ai_summary": "Штучний інтелект стартап Listen Labs вирішив скасувати вже підписаний раунд фінансування серії C від Menlo Ventures. Компанія зосередилася на потенційній угоді або партнерстві з гігантом Salesforce.",
       "ai_title": "Listen Labs відмовилася від інвестицій на $1.5 млрд заради переговорів із Salesforce",
       "video_keywords": "business meeting, handshake, corporate office, modern boardroom"
+    },
+    {
+      "title": "The Boring Company raises $3B in round led by UAE",
+      "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+      "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+      "published": "2026-09-10T15:07:27+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "published": "2026-09-10T14:53:50+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+      "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+      "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
+      "published": "2026-09-10T14:34:09+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "published": "2026-09-10T14:17:37+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+      "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+      "published": "2026-09-10T13:34:01+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
-    {
-      "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
-      "link": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
-      "summary": "",
-      "published": "2026-09-08T14:40:46+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Емітенти стейблкоїнів Circle домовилися про придбання міжнародної платіжної платформи Tazapay. Ця угода спрямована на розширення глобальної присутності компанії та покращення транскордонних розрахунків. Покупка оцінюється в 400 мільйонів доларів.",
-      "ai_title": "Circle купує платіжну компанію Tazapay за $400 мільйонів",
-      "video_keywords": "handshake, corporate office, digital payment, financial contract"
-    },
-    {
-      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
-      "link": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
-      "summary": "",
-      "published": "2026-09-08T14:29:14+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Visa поєднує дані мережі VisaNet із ончейн-кредитуванням для забезпечення оборотного капіталу карток на базі стейблкоїнів. Це нововведення має на меті прискорити та спростити розрахунки за допомогою цифрових активів. Технологія поєднує традиційні фінанси з можливостями децентралізованих мереж.",
-      "ai_title": "Visa інтегрує блокчейн-кредитування для роботи зі стейблкоїнами",
-      "video_keywords": "credit card, tap to pay, smartphone screen, futuristic interface"
-    },
-    {
-      "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
-      "link": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
-      "summary": "",
-      "published": "2026-09-08T13:18:24+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Розробники Ethereum визначили квантову стійкість як один із головних пріоритетів із дедлайном у 2029 році. Мережа має намір адаптуватися до майбутніх загроз з боку потужних квантових обчислень. Це важливий крок для забезпечення довгострокової безпеки блокчейну.",
-      "ai_title": "Ethereum готується до захисту від квантових комп'ютерів до 2029 року",
-      "video_keywords": "server rack, glowing cables, modern data center, digital security"
-    },
-    {
-      "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
-      "link": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
-      "summary": "",
-      "published": "2026-09-08T13:18:21+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Генеральний директор Two Prime вважає, що ралі біткоїна має потенціал для подальшого зростання на тлі закриття коротких позицій. Зменшення волатильності створює сприятливі умови для нового висхідного тренду на ринку. Інвестори оптимістично дивляться на найближчі перспективи першої криптовалюти.",
-      "ai_title": "Експерти прогнозують продовження зростання біткоїна",
-      "video_keywords": "stock market chart, financial graphs, green candles, trading terminal"
-    },
-    {
-      "title": "Bitmine buys 28k ETH, completes 97% of treasury accumulation goal",
-      "link": "https://cointelegraph.com/news/bitmine-buys-28k-eth-completes-97-treasury-goal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitmine buys 28k ETH, completes 97% of treasury accumulation goal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20KSZECABXAPAY6J96Y7ZX7/hi-the-7-largest-ethereum-treasury-companies-right-now-ranked-by-holdings-bitmine-4.jpg\" /></p><p>While Bitmine’s completed 97% of its goal to ac",
-      "published": "2026-09-08T13:51:04+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Bitmine придбала ще 28 тисяч монет Ethereum, виконавши 97% своєї цілі щодо накопичення резервів. Активна купівля свідчить про високу впевненість великих гравців у майбутній вартості активу. Тим часом ринок очікує на відновлення висхідного цінового тренду.",
-      "ai_title": "Bitmine наблизилася до виконання плану зі накопичення Ethereum",
-      "video_keywords": "cryptocurrency coins, digital wallet, glowing screens, investor looking at monitor"
-    },
-    {
-      "title": "Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal",
-      "link": "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20X8RTKQJQJ462YAJQDMNR1/hi-new-industry-new-rules-building-an-industry-without-bias.png\" /></p><p>Robinhood will route event contracts through OG.com’s CFTC-regula",
-      "published": "2026-09-08T17:03:47+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Robinhood укладає угоду щодо ринків прогнозів, купуючи частки в Crypto.com та OG.com. Нова ініціатива передбачає спрямування контрактів на події через регульовану платформу OG.com.",
-      "ai_title": "Robinhood інвестує у Crypto.com та OG.com для розвитку ринків прогнозів",
-      "video_keywords": "smartphone stock trading app, financial graphs, digital marketplace, business handshake"
-    },
     {
       "title": "Visa brings onchain credit to its growing stablecoin card business",
       "link": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1258,6 +1203,56 @@
       "ai_summary": "Компанія Unicoin ініціювала судовий позов проти розробників Uniswap Labs із вимогою скасувати реєстрацію токена UNI. Конфлікт загострився на тлі підготовки до запуску нових продуктів.",
       "ai_title": "Unicoin подає до суду на Uniswap Labs",
       "video_keywords": "courtroom gavel, legal documents desk, courthouse exterior"
+    },
+    {
+      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+      "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+      "summary": "",
+      "published": "2026-09-10T14:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія MoneyGram презентувала нову платіжну картку, яка підтримує стейблкоїни. Це нововведення дозволяє користувачам легко витрачати цифрові долари під час щоденних покупках у магазинах. Такий крок наближає масове впровадження криптовалют у реальну економіку.",
+      "ai_title": "MoneyGram запускає картку на базі стейблкоїнів для повсякденних витрат",
+      "video_keywords": "credit card, swiping terminal, shopping, cash register"
+    },
+    {
+      "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
+      "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
+      "summary": "",
+      "published": "2026-09-10T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Нові дослідження у сфері криптобезпеки показали, що ризик з боку квантових комп'ютерів перебільшений. Експерти переглянули свої прогнози та зменшили оцінку ймовірності успішної квантової атаки на мережі Bitcoin та Ethereum на 50%. Це дає розробникам більше часу на впровадження захисних протоколів.",
+      "ai_title": "Дослідники вдвічі знизили оцінку загрози квантових атак на біткоїн та ефіріум",
+      "video_keywords": "futuristic server room, glowing data center, cybersecurity code, digital matrix"
+    },
+    {
+      "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
+      "link": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg\" /></p><p>Bitcoin fell with US stocks as high inflation and a further surge in oil prices coinc",
+      "published": "2026-09-10T14:52:15+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс біткоїна знизився разом із американськими фондовими ринками через перевищення показників інфляції PPI. Додатковий тиск на ринок спричинило досягнення 30-річними державними облігаціями США нового багаторічного максимуму. Інвестори реагують на макроекономічну нестабільність та зростання цін на енергоносії.",
+      "ai_title": "Біткоїн впав на тлі зростання інфляції в США та стрибка дохідності облігацій",
+      "video_keywords": "stock market chart, falling graph, red trading candles, calculator on desk"
+    },
+    {
+      "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+      "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase, Moov to provide stablecoin infrastructure for US community banks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25QS3J7E4QKZ8FBTX1J64KM/hi-listing-frenzy-coinbase-has-added-nearly-100-assets-for-trading-in-2021-3.jpg\" /></p><p>The partnership will provide stablecoin accep",
+      "published": "2026-09-10T13:35:23+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанії Coinbase та Moov оголосили про партнерство для впровадження інфраструктури стейблкоїнів у регіональних банках США. Ця ініціатива допоможе традиційним фінансовим установам безпечно працювати з цифровими активами. Проєкт спрямований на інтеграцію блокчейн-технологій у банківський сектор.",
+      "ai_title": "Coinbase та Moov об'єднуються задля створення стейблкоїн-інфраструктури для банків",
+      "video_keywords": "modern bank interior, ATM machine, businessmen shaking hands, digital banking screen"
+    },
+    {
+      "title": "Solana sees record 263K tokens issued in a single day",
+      "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana sees record 263K tokens issued in a single day\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25NP75E37J3BC23WNMYYFA2/hi-memecoins-tracing-the-journey-from-memes-to-the-multi-billion-dollar-world-of-scams-and-rugpulls.jpg\" /></p><p>Memecoin platform Pump.fun accounted for mo",
+      "published": "2026-09-10T13:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Блокчейн Solana встановив новий рекорд, випустивши 263 тисячі нових токенів лише за одну добу. Головним драйвером такого стрибка стала популярна платформа для створення мемкоїнів Pump.fun. Подібна активність демонструє колосальне зростання спекулятивного інтересу до мережі.",
+      "ai_title": "У мережі Solana зафіксували рекордне створення понад чверті мільйона токенів за день",
+      "video_keywords": "blockchain network visualization, digital nodes connecting, fast motion graphics, glowing cryptocurrency tokens"
     }
   ]
 }
