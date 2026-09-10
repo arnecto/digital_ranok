@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/navier-stokes-solution/\">https://openai.com/index/navier-stokes-solution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613262\">https://news.ycombinator.com/item?id=49613262</a></p>\n<p>Points: 422</p>\n<p># Comments: 288</p>",
-      "published": "2026-09-08T17:13:21+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI опублікувала рішення, пов'язане з однією з найскладніших математичних загадок тисячоліття — рівнянням Нав'є-Стокса. Це важливий крок у розвитку штучного інтелекту для вирішення фундаментальних наукових проблем.",
-      "ai_title": "OpenAI зробила прорив у складному математичному завданні",
-      "video_keywords": "computer screen, mathematical equations, data visualization, laboratory"
-    },
-    {
-      "title": "OUI-1: world's first model for Generative UI",
-      "link": "https://www.openui.com/blog/oui-1",
-      "summary": "<p>Article URL: <a href=\"https://www.openui.com/blog/oui-1\">https://www.openui.com/blog/oui-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613182\">https://news.ycombinator.com/item?id=49613182</a></p>\n<p>Points: 28</p>\n<p># Comments: 24</p>",
-      "published": "2026-09-08T17:07:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розпочато тестування OUI-1 — першої штучно інтелектуальної моделі, що спеціалізується на створенні користувацьких інтерфейсів \"на льоту\". Технологія обіцяє кардинально змінити процес веб-розробки та дизайну додатків.",
-      "ai_title": "Презентовано першу у світі модель генеративного інтерфейсу OUI-1",
-      "video_keywords": "person typing, computer monitor, UI design, modern office"
-    },
-    {
-      "title": "LG TVs caught spying even when offline or on standby",
-      "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus\">https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49612329\">https://news.ycombinator.com/item?id=49612329</a></p>\n<p>Points: 219</p>\n<p># Comments: 114</p>",
-      "published": "2026-09-08T16:07:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розслідування показало, що телевізори LG продовжують збирати дані користувачів, сканувати мережі Wi-Fi та записувати активність навіть у режимі очікування або офлайн. Це викликало занепокоєння щодо конфіденційності власників.",
-      "ai_title": "Тевізори LG помітили в зборі даних навіть у вимкненому стані",
-      "video_keywords": "living room, smart television, remote control, dark room"
-    },
-    {
-      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed [&#8230;]",
-      "published": "2026-09-08T17:27:31+00:00",
-      "source": "The Verge",
-      "ai_summary": "Проти компанії Anthropic подали розширений колективний позов через звинувачення в введенні в оману активних користувачів найдорожчих тарифів. Позиціонуючи їх як ключових клієнтів, компанія нібито не забезпечила обіцяного рівня послуг.",
-      "ai_title": "Anthropic зіткнулася з колективним позовом через розчарування професійних користувачів",
-      "video_keywords": "modern office, angry person, businessman, office desk"
-    },
-    {
-      "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
-      "link": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
-      "summary": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas, some riders have discovered the Cybercab's secret manual controls [&#8230;]",
-      "published": "2026-09-08T16:06:56+00:00",
-      "source": "The Verge",
-      "ai_summary": "Хоча новий безпілотник Tesla Cybercab не має звичного керма та педалей, перші пасажири виявили наявність віртуального джойстика для керування. Це відкриває нові можливості для ручного контролю роботаксі.",
-      "ai_title": "У безпілотному Tesla Cybercab знайшли приховане ручне управління",
-      "video_keywords": "autonomous car, interior car, digital dashboard, steering wheel"
-    },
-    {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
-      "published": "2026-09-08T20:16:09+00:00",
-      "source": "The Verge",
-      "ai_summary": "OpenAI випустила оновлення ChatGPT Images 2.5 разом із новою функцією Sketch. Вона дозволяє користувачам малювати прості ескізи прямо в інтерфейсі чат-боту та перетворювати їх на повноцінні детальні зображення за допомогою штучного інтелекту.",
-      "ai_title": "ChatGPT Sketch перетворює прості малюнки на детальні AI-зображення",
-      "video_keywords": "drawing tablet, stylus, computer screen, digital art"
-    },
-    {
       "title": "Muse: Meta's personal AI agent, features and capabilities",
       "link": "https://ai.meta.com/muse/",
       "summary": "<p>Article URL: <a href=\"https://ai.meta.com/muse/\">https://ai.meta.com/muse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615537\">https://news.ycombinator.com/item?id=49615537</a></p>\n<p>Points: 157</p>\n<p># Comments: 144</p>",
@@ -539,39 +479,59 @@
       "ai_summary": "Компанія Meta запустила помічника Muse, який допомагає користувачам в онлайн-шопінгу, написанні електронних листів та плануванні подорожей. Попри ефективність у рутинних завданнях, деякі користувачі зазначають, що поведінка нового асистента виглядає дещо моторошно.",
       "ai_title": "Meta представила нового ШІ-асистента Muse",
       "video_keywords": "person using smartphone, artificial intelligence, futuristic interface"
+    },
+    {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+      "published": "2026-09-10T15:38:19+00:00",
+      "source": "The Verge",
+      "ai_summary": "Universal Music Group підписала багаторічну угоду з компанією ElevenLabs для розробки музичної платформи на базі штучного інтелекту. Цей сервіс дозволить користувачам створювати ремікси, мешапи та нові треки, використовуючи ліцензований каталог музики.",
+      "ai_title": "Universal Music об'єднується з ElevenLabs для створення платформи штучного інтелекту",
+      "video_keywords": "recording studio, sound mixing, audio equipment, modern music producer"
+    },
+    {
+      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html\">https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49646988\">https://news.ycombinator.com/item?id=49646988</a></p>\n<p>Points: 27</p>\n<p># Comments: 17</p>",
+      "published": "2026-09-10T17:04:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic повідомила про успішне виявлення та блокування потенційних спроб використання своїх моделей штучного інтелекту для розробки біологічної зброї. Цей випадок підкреслює зростаючі загрози безпеці та необхідність жорсткого контролю за потужними технологіями.",
+      "ai_title": "Anthropic заблокувала спроби використання свого штучного інтелекту для біозброї",
+      "video_keywords": "laboratory scientist, glowing servers, cybersecurity, futuristic technology"
+    },
+    {
+      "title": "Electric air taxis get the green light for test flights in Texas",
+      "link": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
+      "summary": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administration's Advanced Air Mobility and Electric Vertical Takeoff and Landing (eVTOL) Integration Pilot Program (eIPP) selected eight state-led [&#8230;]",
+      "published": "2026-09-10T16:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "У штаті Техас стартувала нова федеральна програма з тестування електричних, гібридних та автономних літальних апаратів. Польоти відбуваються в межах ініціативи Федерального управління цивільної авіації США (FAA) ще до остаточного затвердження регуляторних правил.",
+      "ai_title": "Електричні літаючі таксі розпочинають тестові польоти в Техасі",
+      "video_keywords": "flying car, electric aircraft, futuristic city, drone taxi"
+    },
+    {
+      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "link": "https://usefeyn.com/blog/multimatte/",
+      "summary": "<p>Hey HN, I'm Shreyash from Feyn. We help companies build custom models from their data.<p>Today we're releasing MultiMatte, a background removal model you can aim with words. Name an object in your image. MultiMatte keeps just that thing, and removes everything else.<p>Try it out on your images: <a href=\"https://usefeyn.com/multimatte/\">https://usefeyn.com/multimatte/</a>.<p>Demo video: <a href=",
+      "published": "2026-09-10T15:50:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Feyn представила MultiMatte — інструмент на базі штучного інтелекту для точного видалення фону із зображень за допомогою текстових підказок. Користувач може просто вказати назву об'єкта, який потрібно залишити, тоді як увесь інший фон буде автоматично видалено.",
+      "ai_title": "MultiMatte: нова модель для видалення фону за текстовим запитом",
+      "video_keywords": "photoshop editing, digital graphic design, computer screen, software interface"
+    },
+    {
+      "title": "Neki is sharded Postgres by PlanetScale",
+      "link": "https://neki.dev/",
+      "summary": "<p>Article URL: <a href=\"https://neki.dev/\">https://neki.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49645763\">https://news.ycombinator.com/item?id=49645763</a></p>\n<p>Points: 70</p>\n<p># Comments: 18</p>",
+      "published": "2026-09-10T15:48:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія PlanetScale анонсувала Neki, спеціалізоване рішення для горизонтального масштабування та шардування баз даних Postgres. Новий сервіс розроблений для спрощення роботи розробників із великими обсягами даних у хмарі.",
+      "ai_title": "PlanetScale представила Neki — новий шардований сервіс для Postgres",
+      "video_keywords": "server room, data center, database management, computer code on screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "How to watch Apple’s foldable iPhone announcement",
-      "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-      "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
-      "published": "2026-09-08T17:46:53+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Apple оголосила про проведення щорічної презентації нових смартфонів, яка відбудеться 9 вересня. Головною інтригою заходу можуть стати новини про довгоочікуваний складаний iPhone.",
-      "ai_title": "Очікуваний анонс складаного iPhone від Apple",
-      "video_keywords": "smartphone presentation, mobile phone launch, futuristic device"
-    },
-    {
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "published": "2026-09-08T17:32:15+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відомий математик з Нью-Йоркського університету звинуватив компанію OpenAI у нечесній боротьбі за вирішення складної математичної проблеми. За розв'язання рівняння Нав'є-Стокса обіцяно винагороду в один мільйон доларів.",
-      "ai_title": "Скандал навколо математичної задачі та OpenAI",
-      "video_keywords": "mathematician writing equations, chalkboard formulas, research laboratory"
-    },
-    {
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "published": "2026-09-08T16:20:31+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Google Cloud розширює свій корпоративний напрямок штучного інтелекту завдяки партнерству з Accenture. Компанії роблять ставку на команду інженерів, щоб прискорити впровадження технологій та подолати бар'єри на ринку.",
-      "ai_title": "Google Cloud об'єднується з Accenture у гонці ШІ-технологій",
-      "video_keywords": "cloud computing servers, business handshake, modern office meeting"
-    },
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
       "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
@@ -841,29 +801,39 @@
       "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
       "published": "2026-09-10T13:34:01+00:00",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon makes it easier to buy what you see on Prime Video",
+      "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+      "summary": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
+      "published": "2026-09-10T18:10:36+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Amazon інтегрує шопінг у стрімінгову платформу Prime Video за допомогою технології розпізнавання контенту. Глядачі зможуть купувати товари, які вони бачать у фільмах, серіалах чи спортивних трансляціях, прямо під час перегляду.",
+      "ai_title": "Amazon запускає функцію швидких покупок із відео у Prime Video",
+      "video_keywords": "person watching tv, online shopping, smartphone screen, streaming media"
+    },
+    {
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "published": "2026-09-10T17:45:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Аудіоплатформа Pocket FM досягла показника доходу в 500 мільйонів доларів, оскільки ШІ тепер генерує 93% її контенту. Використання штучного інтелекту дозволило знизити витрати на виробництво аудіо у 80 разів.",
+      "ai_title": "Індійський стартап Pocket FM подвоїв дохід завдяки штучному інтелекту",
+      "video_keywords": "person listening to headphones, audio recording studio, sound waves, mobile app interface"
+    },
+    {
+      "title": "Google is making it easier to switch between password managers on Android",
+      "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+      "summary": "Google's new feature will transfer your passkeys as well.",
+      "published": "2026-09-10T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нова функція від Google дозволяє користувачам легко переносити не лише звичайні паролі, а й сучасні ключі доступу (passkeys). Це робить перемикання між різними сервісами безпеки на мобільних пристроях максимально зручним.",
+      "ai_title": "Google спрощує перехід між менеджерами паролів на Android",
+      "video_keywords": "smartphone security, typing password, mobile screen, digital lock"
     }
   ],
   "Крипта": [
-    {
-      "title": "Visa brings onchain credit to its growing stablecoin card business",
-      "link": "https://cointelegraph.com/news/visa-stablecoin-blockchain-lending-payment-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Visa brings onchain credit to its growing stablecoin card business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20SBKPJPVDD6E1F2T89YK6W/hi-your-crypto-wallet-is-the-key-to-your-web3.jpg\" /></p><p>Visa is combining VisaNet settlement data with blockchain lending as stablecoin paym",
-      "published": "2026-09-08T16:11:53+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Платіжний гігант Visa інтегрує дані розрахунків VisaNet із блокчейн-кредитуванням. Це нововведення значно розширює можливості її зростаючого бізнесу карток на основі стейблкоїнів.",
-      "ai_title": "Visa запускає ончейн-кредитування для карток зі стейблкоїнами",
-      "video_keywords": "credit card payment, contactless terminal, futuristic banking, digital wallet screen"
-    },
-    {
-      "title": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
-      "link": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin faces key support test at $78.3K as US crude oil hits three-month high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M20T148B6W28RQ4JBENHW4HR/hi-how-to-make-a-profit-when-bitcoin-prices-are-stagnant-oil-1.jpg\" /></p><p>Bitcoin fell with US stocks on the opening of Tuesday’s",
-      "published": "2026-09-08T15:41:11+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Курс Біткоїна зіткнувся з перевіркою ключового рівня підтримки на позначці $78,3 тисячі. Падіння криптовалюти відбулося одночасно зі зниженням американських акцій та досягненням нафтою тримісячного максимуму.",
-      "ai_title": "Біткоїн тестує важливу підтримку на тлі зростання цін на нафту",
-      "video_keywords": "bitcoin chart on computer screen, stock market trading floor, financial crisis, cryptocurrency ticker"
-    },
     {
       "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
       "link": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1253,6 +1223,56 @@
       "ai_summary": "Блокчейн Solana встановив новий рекорд, випустивши 263 тисячі нових токенів лише за одну добу. Головним драйвером такого стрибка стала популярна платформа для створення мемкоїнів Pump.fun. Подібна активність демонструє колосальне зростання спекулятивного інтересу до мережі.",
       "ai_title": "У мережі Solana зафіксували рекордне створення понад чверті мільйона токенів за день",
       "video_keywords": "blockchain network visualization, digital nodes connecting, fast motion graphics, glowing cryptocurrency tokens"
+    },
+    {
+      "title": "Liquid Network resumes block production after $320M exploit",
+      "link": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Liquid Network resumes block production after $320M exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M261Y4R153J5N1QZNJQKTM7F/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security.png\" /></p><p>Liquid restarted block production after deploying emergency software updates",
+      "published": "2026-09-10T16:38:16+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Мережа Liquid успішно відновила створення блоків після встановлення екстрених оновлень програмного забезпечення. Це сталося внаслідок масштабного злому, який коштував платформі значної суми коштів.",
+      "ai_title": "Liquid Network відновила роботу після хакерської атаки на $320 мільйонів",
+      "video_keywords": "cyber attack, server room, digital code, computer hacking"
+    },
+    {
+      "title": "MoneyGram launches Visa stablecoin card as remittance rivals expand",
+      "link": "https://cointelegraph.com/news/moneygram-launches-visa-stablecoin-card-as-remittance-rivals-expand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MoneyGram launches Visa stablecoin card as remittance rivals expand\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YXEVJ4DH3H58PM7AA0KCM/hi-paystand-launches-stablecoin-for-enterprise-payments33331-960x640.webp\" /></p><p>MoneyGram is following rival Western Union’s lead, rolling ",
+      "published": "2026-09-10T15:59:37+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія MoneyGram випускає платіжну картку у співпраці з Visa для проведення операцій зі стейблкоїнами. Цей крок є відповіддю на активне розширення послуг конкурентів у сфері міжнародних грошових переказів.",
+      "ai_title": "MoneyGram запускає власну стейблкоїн-карту Visa",
+      "video_keywords": "credit card, smartphone payment, contactless payment, wallet"
+    },
+    {
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK House of Lords backs mandatory digital asset strategy over Labour position\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M265GXQKJCP1QSNW42GTAMVF/hi-uk-and-crypto-new.png\" /></p><p>The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoi",
+      "published": "2026-09-10T17:54:12+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Британський парламент виступив за обов'язкове впровадження державної стратегії щодо криптоактивів та стейблкоїнів. Це рішення йде всупереч початковій позиції урядової партії та наближає країну до чіткого регулювання.",
+      "ai_title": "Палата лордів Великої Британії підтримала стратегію цифрових активів",
+      "video_keywords": "parliament building, politicians meeting, courtroom, uk flag"
+    },
+    {
+      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+      "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+      "summary": "",
+      "published": "2026-09-10T17:03:34+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Провідний європейський фінансовий регулятор висловив сумніви щодо легальності доступу користувачів ЄС до платформ прогнозування. Експерти вказують на суттєві прогалини в авторизації таких сервісів на європейському ринку.",
+      "ai_title": "Головний регулятор Європи занепокоєний роботою Polymarket і Kalshi",
+      "video_keywords": "financial charts, stock exchange, computer screen, business meeting"
+    },
+    {
+      "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+      "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+      "summary": "",
+      "published": "2026-09-10T17:07:59+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптобіржа OKX надає європейським користувачам доступ до інвестування в провідні штучні інтелекти OpenAI та Anthropic. Це відбувається на тлі стрімкого зростання ринку передпервинного розміщення акцій (pre-IPO).",
+      "ai_title": "OKX виводить торгівлю акціями AI-гігантів на європейський ринок",
+      "video_keywords": "smartphone screen, trading graphs, stock market, office desk"
     }
   ]
 }
