@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "iOS 27 launches on September 14th with Siri AI",
-      "link": "https://www.theverge.com/news/992408/ios-27-release-date-features",
-      "summary": "Apple is launching its next iOS 27 update on Monday September 14th. The headline feature is Siri AI, the delayed AI-powered overhaul of the Siri assistant. Siri AI is rolling out with iOS 27 as a beta, available initially for English-only devices. Apple says support for French, Japanese, Korean, Portuguese, and Spanish is coming in [&#8230;]",
-      "published": "2026-09-09T17:41:49+00:00",
-      "source": "The Verge",
-      "ai_summary": "Реліз нової операційної системи iOS 27 заплановано на 14 вересня. Головною особливістю стане інтеграція оновленого голосового помічника з підтримкою штучного інтелекту Siri AI.",
-      "ai_title": "Вихід iOS 27 із оновленим штучним інтелектом Siri AI",
-      "video_keywords": "smartphone screen, typing message, digital assistant, mobile interface"
-    },
-    {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "summary": "<p>Article URL: <a href=\"https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3\">https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630026\">https://news.ycombinator.com/item?id=49630026</a></p>\n<p>Points: 53</p>\n<p># Comments: 10</p>",
-      "published": "2026-09-09T17:24:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Мовна модель Qwen 3.8 демонструє високі результати в логічних міркуваннях, наслідуючи підходи передових систем на кшталт GPT-5.5 Pro. Розробники продовжують покращувати можливості глибокого аналізу та планування завдань у ШІ.",
-      "ai_title": "Нова модель штучного інтелекту Qwen 3.8 кидає виклик лідерам ринку",
-      "video_keywords": "futuristic technology, glowing code, server room, artificial intelligence"
-    },
-    {
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "link": "https://github.com/OtoDock/oto-dock",
-      "summary": "<p>Hi HN, I am Dimitris. \nThis is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.<p>It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthro",
-      "published": "2026-09-09T17:57:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено універсальну операційну систему для бізнесу, яка поєднує можливості передових агентів штучного інтелекту. Платформа дозволяє команді спільно працювати з різними віртуальними помічниками в автономному режимі.",
-      "ai_title": "Запуск платформи з автономними агентами ШІ для управління компанією",
-      "video_keywords": "office workplace, dashboard screen, business analytics, typing on laptop"
-    },
-    {
-      "title": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
-      "link": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
-      "summary": "Apple announced the Apple Watch Series 12 at its September 9th launch event, with Siri AI-powered Audio Intelligence as the highlight feature. The new abilities include a Live Rewind feature that allows users to replay the last 15 seconds of recently detected audio and view a text transcript of it on their watch by double-pressing [&#8230;]",
-      "published": "2026-09-09T17:37:55+00:00",
-      "source": "The Verge",
-      "ai_summary": "Новий смарт-годинник від Apple оснащений функцією штучного інтелекту для розпізнавання та транскрипції звуків навколишнього середовища. Гаджет здатний створювати короткі текстові підсумки подій дня прямо на зап'ясті.",
-      "ai_title": "Apple Watch Series 12 отримав ШІ-функції для аналізу аудіо та розмов",
-      "video_keywords": "smartwatch on wrist, fitness tracker, touching smartwatch screen, modern tech"
-    },
-    {
       "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
       "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
       "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
@@ -464,70 +424,44 @@
       "summary": "John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an \"intelligent personal hub\" that prioritizes local processing, protects your privacy, and integrates with all your other devices, apps, and services. While Ternus was talking about the iPhone - not a new smart home device [&#8230;]",
       "published": "2026-09-11T14:01:55+00:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "link": "https://github.com/kennethwolters/litelm",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kennethwolters/litelm\">https://github.com/kennethwolters/litelm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662767\">https://news.ycombinator.com/item?id=49662767</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-11T18:10:20+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Show HN: Toast, a beautiful by default in terminal IDE",
+      "link": "https://github.com/paradise-runner/toast",
+      "summary": "<p>Article URL: <a href=\"https://github.com/paradise-runner/toast\">https://github.com/paradise-runner/toast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662496\">https://news.ycombinator.com/item?id=49662496</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-11T17:54:53+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "link": "https://snap.berkeley.edu/",
+      "summary": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+      "published": "2026-09-11T17:36:11+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+      "link": "https://www.getzep.com/careers/",
+      "summary": "<p>Article URL: <a href=\"https://www.getzep.com/careers/\">https://www.getzep.com/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49661645\">https://news.ycombinator.com/item?id=49661645</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-11T17:00:17+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Triple H Writes Anniversary Story for Spider-Man #1000",
+      "link": "https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000",
+      "summary": "<p>Article URL: <a href=\"https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000\">https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660884\">https://news.ycombinator.com/item?id=49660884</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+      "published": "2026-09-11T16:13:51+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "published": "2026-09-09T15:13:12+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-      "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-      "summary": "inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
-      "published": "2026-09-09T15:10:41+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "published": "2026-09-09T15:02:47+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-      "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-      "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-      "published": "2026-09-09T18:34:24+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярний серед венчурних інвесторів стартап у сфері штучного інтелекту для юристів майже подвоїв свою вартість лише за дев'ять місяців. Стремітльне зростання підкреслює величезний інвестиційний інтерес до вертикальних AI-рішень для бізнесу.",
-      "ai_title": "Юридичний AI-стартап Harvey оцінили у $15,5 мільярда",
-      "video_keywords": "modern office, business meeting, laptop typing, financial charts"
-    },
-    {
-      "title": "Apple unveils its first foldable, the iPhone Duo",
-      "link": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-      "summary": "Apple today introduced its first foldable device, named the iPhone Duo, at its &#8220;Surprise and Shine&#8221; iPhone event held in Cupertino. The phone is the first marquee device launched under the company&#8217;s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid [&#8230;]",
-      "published": "2026-09-09T17:58:14+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія анонсувала довгоочікуваний складаний пристрій під назвою iPhone Duo на заході в Купертіно. Новинка отримала ширший форм-фактор на відміну від ранніх вертикальних моделей на ринку та стала першим великим релізом під керівництвом нового гендиректора Джона Тернуса.",
-      "ai_title": "Apple представила свій перший складаний смартфон — iPhone Duo",
-      "video_keywords": "folding smartphone, modern phone, gadget unboxing, tech presentation"
-    },
-    {
-      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
-      "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
-      "summary": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust [&#8230;]",
-      "published": "2026-09-09T16:44:21+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Масштабна угода між Fox та Roku зіткнулася з новими регуляторними перешкодами. Американське відомство надіслало компаніям запит на додаткові документи та дані в рамках стандартної антимонопольної перевірки.",
-      "ai_title": "Міністерство юстиції США ретельно перевіряє купівлю Roku компанією Fox за $22 мільярди",
-      "video_keywords": "courtroom documents, business handshake, corporate office, lawyer desk"
-    },
-    {
-      "title": "Superintelligence is coming. Should we let it?",
-      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#1",
-      "published": "2026-09-09T16:05:35+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Технологічні компанії активно обговорюють наближення суперінтелекту, проте недавні інциденти з безпекою демонструють реальні небезпеки. Суспільство постає перед питанням: що робити, коли ми більше не зможемо надійно контролювати дії таких систем?",
-      "ai_title": "Чи варто дозволяти створення штучного суперінтелекту?",
-      "video_keywords": "futuristic server room, glowing data streams, server rack, cyber security"
-    },
     {
       "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
       "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
@@ -762,79 +696,19 @@
       "ai_summary": "Виробник апаратних гаманців Trezor підтвердив витік даних через сторонній поштовий сервіс. У результаті шахраї націлилися на сотні тисяч власників криптовалюти, намагаючись отримати доступ до їхніх активів.",
       "ai_title": "Масштабна кібератака на власників криптовалюти через витік даних Trezor",
       "video_keywords": "hacker, cyber attack, computer screen, encrypted data"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "published": "2026-09-11T16:46:25+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Nscale посилила своє керівництво, залучивши колишню топменеджерку OpenAI Фіджі Симо до ради директорів. Раніше вона успішно вивела на біржу сервіс Instacart у 2023 році, що натякає на підготовку Nscale до аналогічного кроку.",
+      "ai_title": "Екс-топменеджерка OpenAI увійшла до ради директорів Nscale на тлі планів щодо IPO",
+      "video_keywords": "business meeting, corporate boardroom, executive woman, modern office"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-      "summary": "",
-      "published": "2026-09-09T15:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "США виділяють 300 мільйонів доларів на розвиток апаратного забезпечення для захисту провідних криптовалют від майбутніх загроз з боку квантових комп'ютерів. Це дозволить мережам Bitcoin та Ethereum адаптуватися до нових технологічних викликів та уникнути потенційних кібератак. Уряд активно підтримує криптографічну модернізацію блокчейн-інфраструктури.",
-      "ai_title": "США інвестують $300 мільйонів у захист біткоїна та Ethereum від квантових комп'ютерів",
-      "video_keywords": "quantum computer, server rack, glowing microchip, digital security"
-    },
-    {
-      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
-      "link": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether, Fasanara launch $400M private credit fund targeting $3B  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23AK6XN00P8QY2D9WJ8JAAW/hi-crypto-negotiation-2.png\" /></p><p>The evergreen fund will use USDT infrastructure to support asset-backed lending through fintech platforms i",
-      "published": "2026-09-09T15:21:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанії Tether та Fasanara об'єдналися для створення приватного кредитного фонду обсягом 400 мільйонів доларів із перспективою розширення до 3 мільярдів. Фонд використовуватиме технології стейблкоїна USDT для фінансування активів через фінтех-платформи. Це сприятиме тіснішій інтеграції традиційних фінансів та блокчейн-інфраструктури.",
-      "ai_title": "Tether та Fasanara запускають криптофонд на 400 мільйонів доларів",
-      "video_keywords": "handshake, business meeting, corporate office, modern skyscraper"
-    },
-    {
-      "title": "TRM Labs doubles valuation to $2B in Series C expansion",
-      "link": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"TRM Labs doubles valuation to $2B in Series C expansion \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23JCY6CREQKFY9A4SRB13GG/hi-institutional-trading-and-cryptocurrency-industry-investment.png\" /></p><p>The blockchain intelligence firm said its annual recurring revenue has quadr",
-      "published": "2026-09-09T17:30:06+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія TRM Labs, що спеціалізується на блокчейн-аналітиці, успішно закрила раунд фінансування серії C. Завдяки цьому її загальна оцінка зросла вдвічі та тепер становить 2 мільярди доларів.",
-      "ai_title": "Оцінка TRM Labs досягла 2 мільярдів доларів",
-      "video_keywords": "startup office, business meeting, financial chart, technology presentation"
-    },
-    {
-      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
-      "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23ENPDH8G235APECM7VERGK/cross-border-transaction-stablecoin-swift-2.png\" /></p><p>The pilot moved USBDC between the bank’s North American and European entities ",
-      "published": "2026-09-09T16:37:08+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Крупний банк у США провів тестову транзакцію за допомогою власної цифрової валюти у мережі Stellar. Пілотний проєкт охопив переміщення коштів між північноамериканським та європейським підрозділами фінустанови.",
-      "ai_title": "Американський банк випробував власний стейблкоїн",
-      "video_keywords": "smartphone payment, banking app, digital currency, modern office"
-    },
-    {
-      "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
-      "link": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23FHFBTAY2SPS1GVVCH1XNK/hi-a-beginners-guide-on-central-bank-digital-currencies.jpg\" /></p><p>Bitcoin trended lower with US stocks on Iran escalation whi",
-      "published": "2026-09-09T16:28:19+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Головна криптовалюта знизилася в ціні на тлі загального падіння американського фондового ринку. Ситуація на ринках загострилася через геополітичне напруження навколо Ірану та зміцнення японської єни.",
-      "ai_title": "Біткоїн не зміг закріпитися вище 80 тисяч доларів",
-      "video_keywords": "stock market chart, trading terminal, financial graphs, glowing numbers"
-    },
-    {
-      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
-      "link": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hunter Biden’s laptop controversy gets a memecoin afterlife\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M230B9QSF000WZ911VXTFNH1/hi-bidens-crypto-memecoin-laptop.png\" /></p><p>The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% f",
-      "published": "2026-09-09T15:58:39+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "У криптопросторі з'явився новий спекулятивний токен, створений на основі відомого політичного скандалу минулого. Творці монети зазначають, що актив не має реальної користі, проте вже залучив увагу спекулянтів.",
-      "ai_title": "Скандал навколо ноутбука Хантера Байдена перетворився на мемкоїн",
-      "video_keywords": "laptop computer, cryptocurrency mining, digital coins, person typing"
-    },
-    {
-      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
-      "link": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trade groups seek to block Illinois crypto tax before January effective date\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M23CVCZMG85BQMYT0FDR7K9V/year-of-crypto-tax-legislation-960x640.webp\" /></p><p>Following on their earlier lawsuit, CCI and the Blockchain Association seek to b",
-      "published": "2026-09-09T15:57:07+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Представники криптоіндустрії та профільні торгові асоціації звернулися до суду з вимогою зупинити введення нового податку в штаті Іллінойс. Вони намагаються заблокувати нововведення до його офіційного вступу в силу в січні.",
-      "ai_title": "Асоціації намагаються заблокувати податок на крипту в Іллінойсі",
-      "video_keywords": "court gavel, law books, signing documents, legal office"
-    },
     {
       "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
       "link": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1204,6 +1078,36 @@
       "ai_summary": "Ринкові настрої щодо криптовалютних фондів погіршилися на тлі масового виведення коштів інвесторами. Лише за останні три дні біткоїн-ETF втратили 449 мільйонів доларів, причому значну частину відтоку забезпечив фонд ARK 21Shares.",
       "ai_title": "Відтік капіталу з біткоїн-ETF прискорився: інвестори вивели майже $450 мільйонів",
       "video_keywords": "downward stock chart, computer screen graphs, red candlestick chart, stressed trader"
+    },
+    {
+      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+      "summary": "",
+      "published": "2026-09-11T17:12:45+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Ув'язнений засновник FTX Сем Бенкман-Фрід наближається до завершального етапу своїх судових розглядів. Ця справа стала однією з найгучніших в історії криптовалютної індустрії. Суспільство та інвестори очікують на остаточний вирок та крапку в цій епопеї.",
+      "ai_title": "Фінал юридичної драми Сема Бенкмана-Фріда",
+      "video_keywords": "prison bars, court gavel, handcuffed hands, legal documents"
+    },
+    {
+      "title": "With Fed rate hike all but assured, here's how markets might react",
+      "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
+      "summary": "",
+      "published": "2026-09-11T15:45:56+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Федеральна резервна система США готується до чергового підвищення процентної ставки, що неминуче вплине на фінансові ринки. Криптовалютний та фондовий ринки готуються до волатильності. Інвестори аналізують можливі сценарії поведінки активів.",
+      "ai_title": "Реакція ринків на очікуване підвищення ставки ФРС",
+      "video_keywords": "stock exchange board, red and green arrows, financial graphs, trading floor"
+    },
+    {
+      "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+      "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K5RK67P7SEQ7376RK4TFB/hi-bitcoin-could-be-the-next-big-inflation-hedge.jpg\" /></p><p>Bitcoin briefly rebounded past $79,000 and US stocks turned green",
+      "published": "2026-09-11T16:03:37+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "На тлі нових даних щодо інфляції в США курс Біткоїна різко зріс, перевищивши 79 000 доларів. Ринки демонструють позитивну динаміку, попри нові рекорди прибутковості державних облігацій. Криптовалюта знову привертає увагу як захисний актив проти інфляції.",
+      "ai_title": "Біткоїн стрімко наближається до позначки 80 тисяч доларів",
+      "video_keywords": "bitcoin coin, digital currency graph, glowing crypto charts, trading terminal"
     }
   ]
 }
