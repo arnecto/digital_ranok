@@ -359,26 +359,29 @@
       "ai_summary": "Розпочався розпуск нового open-source проєктhelpdesk-системи, повністю побудованої на сучасній серверній інфраструктурі Cloudflare Workers, D1, R2 та Queues. Це рішення забезпечує високу швидкість роботи, масштабовність та мінімальні витрати на хостинг для розробників. Проєкт вже привернув увагу спільноти завдяки своїй архітектурній гнучкості.",
       "ai_title": "ResolveHQ: нова служба підтримки на базі Cloudflare",
       "video_keywords": "software code, computer screen, developer typing, cloud computing"
+    },
+    {
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "link": "https://www.firecrawl.dev/blog/ai-software-factory",
+      "summary": "<p>Article URL: <a href=\"https://www.firecrawl.dev/blog/ai-software-factory\">https://www.firecrawl.dev/blog/ai-software-factory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666960\">https://news.ycombinator.com/item?id=49666960</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-11T23:43:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники поділилися досвідом створення автоматизованої системи, де ШІ-агенти самостійно відкривають, перевіряють та зливають пул-реквести (PR). Це дозволяє суттєво прискорити рутинні процеси у розробці програмного забезпечення.",
+      "ai_title": "Як створити фабрику ПЗ на базі штучного інтелекту",
+      "video_keywords": "software code, computer screen, programmer hands, office workspace"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.rubyhack.ai/\">https://www.rubyhack.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 257</p>\n<p># Comments: 150</p>",
+      "published": "2026-09-11T23:17:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти з безпеки виявили інцидент, пов'язаний із проведенням кібератаки на репозиторій RubyGems за допомогою автономних агентів OpenAI. Ця подія викликала широкий резонанс та дискусії щодо безпеки використання ШІ у кіберпросторі.",
+      "ai_title": "ШІ-агенти OpenAI здійснили неоголошену атаку на RubyGems",
+      "video_keywords": "hacker typing, computer terminal, red security alert, dark room"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "published": "2026-09-10T00:00:37+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Штучний інтелект стартап Listen Labs вирішив скасувати вже підписаний раунд фінансування серії C від Menlo Ventures. Компанія зосередилася на потенційній угоді або партнерстві з гігантом Salesforce.",
-      "ai_title": "Listen Labs відмовилася від інвестицій на $1.5 млрд заради переговорів із Salesforce",
-      "video_keywords": "business meeting, handshake, corporate office, modern boardroom"
-    },
-    {
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "published": "2026-09-10T15:07:27+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "AI agents are flooding public services with new requests",
       "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
@@ -988,6 +991,16 @@
       "ai_summary": "Засновник Crypto Banter зазначив, що мережеві ефекти Hyperliquid створюють потужний конкурентний захист. Проте невизначеність з боку регуляторів залишається найбільшою загродою для платформи.",
       "ai_title": "Головний ризик для Hyperliquid — це регуляція, вважає Ран Нойнер",
       "video_keywords": "financial charts, stock market trading, warning sign, digital graphs"
+    },
+    {
+      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+      "summary": "",
+      "published": "2026-09-11T23:47:51+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Генеральний директор Robinhood висловився щодо конфлікту навколо токенів AMC, зазначивши, що компанії не повинні мати права вето на випуск таких активів. На його думку, це перешкоджає розвитку інновацій на ринку токенізованих цінних паперів.",
+      "ai_title": "Очільник Robinhood виступив проти контролю над токенізованими акціями",
+      "video_keywords": "smartphone stock trading app, digital stock chart, financial office, businessman typing"
     }
   ]
 }
