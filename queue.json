@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins [&#8230;]",
-      "published": "2026-09-10T11:00:57+00:00",
-      "source": "The Verge",
-      "ai_summary": "Науковці звинувачують компанію в непрозорості та використанні їхніх неопублікованих праць без дозволу для навчання моделей. Це вже другий випадок за останній час, коли дослідники висловлюють претензії до джерел математичних даних OpenAI.",
-      "ai_title": "Математики вимагають від OpenAI доказів чесного навчання ШІ",
-      "video_keywords": "person writing formulas, whiteboard, calculator, studying"
-    },
-    {
       "title": "Amazon pilots ad services in ChatGPT",
       "link": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
       "summary": "<p>Article URL: <a href=\"https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/\">https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49644047\">https://news.ycombinator.com/item?id=49644047</a></p>\n<p>Points: 31</p>\n<p># ",
@@ -39,16 +29,6 @@
       "ai_summary": "Мова програмування Rust отримала статус мови першого рівня (tier-1) у корпорації Microsoft. Це підкреслює зростаючу важливість безпеки пам'яті у розробці системного програмного забезпечення на рівні техногігантів.",
       "ai_title": "Rust офіційно став мовою програмування першого рівня у Microsoft",
       "video_keywords": "computer programming, coding on screen, software developer"
-    },
-    {
-      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-      "link": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-      "summary": "<p>Article URL: <a href=\"https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d\">https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643112\">https://news.ycombinator.com/item?id=49643112</a></p>\n<p>Points: 165</p>\n<p># Comments: 74</p>",
-      "published": "2026-09-10T13:07:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Черговий незалежний дослідник заявив, що OpenAI таємно тренувала свої моделі на закритих розмовах користувачів, після чого заявляла про революційні прориви у технологіях. Такі звинувачення ставлять під сумнів етичність збору даних для нових версій штучного інтелекту.",
-      "ai_title": "Дослідники звинувачують OpenAI у використанні приватних розмов для навчання ШІ",
-      "video_keywords": "artificial intelligence, server room, data center"
     },
     {
       "title": "Sure, Meta’s AI Muse works, but it sure creeps me out",
@@ -369,16 +349,49 @@
       "ai_summary": "Спеціалісти провели ретроспективний реверс-інжиніринг спеціалізованого нейронного чіпа Apple Neural Engine (ANE). Це відкриває нові можливості для розуміння того, як пристрої компанії прискорюють обробку алгоритмів штучного інтелекту на апаратному рівні.",
       "ai_title": "Дослідники розреверсив-інжинірили нейронний рушій Apple",
       "video_keywords": "microchip, circuit board, soldering, electronics repair"
+    },
+    {
+      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
+      "link": "https://liniora.com",
+      "summary": "<p>Hi HN, the title could be a little bit aggressive sorry for that... Basically i am Computer engineer graduated recently but i was and still working remotely for approx. 3 years with the same foreign company in EU. and i noticed that we are always somehow lose the context of a ticket -- even though we are using the popular project management systems -- so i decided why not build something that c",
+      "published": "2026-09-12T12:15:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив інструмент Liniora, щоб вирішити проблему втрати контексту завдань у віддалених командах. Цей проект покликаний оптимізувати комунікацію та замінити традиційних проектних менеджерів за допомогою AI.",
+      "ai_title": "Liniora: чи зможе штучний інтелект замінити проектного менеджера?",
+      "video_keywords": "software developer, typing keyboard, office desk, computer monitor"
+    },
+    {
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "summary": "<p>Article URL: <a href=\"https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671159\">https://news.ycombinator.com/item?id=49671159</a></p>\n<p>Points: 36</p>\n<p># Comments: 15</p>",
+      "published": "2026-09-12T11:13:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження розкриває деталі нової хвилі шкідливих розсилок, де автономні штучні агенти генерують тисячі персоналізованих спам-листів. Шахраї все частіше використовують штучний інтелект для обходу захисних фільтрів поштових сервісів.",
+      "ai_title": "Ера масового спаму: як ШT-агенти стали новими інструментами шахраїв",
+      "video_keywords": "computer screen, hacker typing, dark room, digital code"
+    },
+    {
+      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+      "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+      "summary": "The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus some welcome improvements [&#8230;]",
+      "published": "2026-09-12T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Apple офіційно анонсувала лінійку iPhone 18 із потужним процесором A20 Pro та розширеними можливостями штучного інтелекту. Нові смартфони отримали додаткові нейронні ядра для прискорення завдань, пов'язаних з AI.",
+      "ai_title": "Apple відкриває передзамовлення на нові iPhone 18 Pro та Pro Max",
+      "video_keywords": "smartphone unboxing, holding mobile phone, gadget review, technology store"
+    },
+    {
+      "title": "OpenAI just wants to win",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
+      "published": "2026-09-12T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія OpenAI досягла історичного прориву, вирішивши легендарну математичну проблему з переліку задач Millennium Prize. Це досягнення викликало неоднозначну реакцію в науковій спільноті через надто швидкий наступ штучного інтелекту.",
+      "ai_title": "OpenAI підкорює математику: вирішено одну з найскладніших задач тисячоліття",
+      "video_keywords": "math formulas, blackboard, scientist writing, research laboratory"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "published": "2026-09-10T14:53:50+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
       "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
@@ -391,13 +404,6 @@
       "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
       "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
       "published": "2026-09-10T14:17:37+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-      "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
-      "published": "2026-09-10T13:34:01+00:00",
       "source": "TechCrunch"
     },
     {
@@ -593,16 +599,6 @@
   ],
   "Крипта": [
     {
-      "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
-      "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Treasury Secretary Bessent urges CLARITY Act passage after Senate returns\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25AAYAYJTA7FVQK9H44A4NC/hi-who-is-scott-bessent-clarity-act.jpg\" /></p><p>Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troub",
-      "published": "2026-09-10T10:20:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Очільник Мінфіну Скотт Бессент наполягає на швидкому ухваленні законопроєкту CLARITY Act після повернення Сенату до роботи. За його словами, зволікання з новими правилами несе серйозні ризики для ринку.",
-      "ai_title": "Міністр фінансів США закликає ухвалити закон про крипторегулювання",
-      "video_keywords": "government building exterior, politician speaking podium, legal document signing"
-    },
-    {
       "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
       "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
       "summary": "",
@@ -613,16 +609,6 @@
       "video_keywords": "credit card, swiping terminal, shopping, cash register"
     },
     {
-      "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
-      "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
-      "summary": "",
-      "published": "2026-09-10T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Нові дослідження у сфері криптобезпеки показали, що ризик з боку квантових комп'ютерів перебільшений. Експерти переглянули свої прогнози та зменшили оцінку ймовірності успішної квантової атаки на мережі Bitcoin та Ethereum на 50%. Це дає розробникам більше часу на впровадження захисних протоколів.",
-      "ai_title": "Дослідники вдвічі знизили оцінку загрози квантових атак на біткоїн та ефіріум",
-      "video_keywords": "futuristic server room, glowing data center, cybersecurity code, digital matrix"
-    },
-    {
       "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
       "link": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25WNWCPP6BF687FEHQSBZ6X/money-dollar-calculator-inflation.jpg\" /></p><p>Bitcoin fell with US stocks as high inflation and a further surge in oil prices coinc",
@@ -631,26 +617,6 @@
       "ai_summary": "Курс біткоїна знизився разом із американськими фондовими ринками через перевищення показників інфляції PPI. Додатковий тиск на ринок спричинило досягнення 30-річними державними облігаціями США нового багаторічного максимуму. Інвестори реагують на макроекономічну нестабільність та зростання цін на енергоносії.",
       "ai_title": "Біткоїн впав на тлі зростання інфляції в США та стрибка дохідності облігацій",
       "video_keywords": "stock market chart, falling graph, red trading candles, calculator on desk"
-    },
-    {
-      "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
-      "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase, Moov to provide stablecoin infrastructure for US community banks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25QS3J7E4QKZ8FBTX1J64KM/hi-listing-frenzy-coinbase-has-added-nearly-100-assets-for-trading-in-2021-3.jpg\" /></p><p>The partnership will provide stablecoin accep",
-      "published": "2026-09-10T13:35:23+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанії Coinbase та Moov оголосили про партнерство для впровадження інфраструктури стейблкоїнів у регіональних банках США. Ця ініціатива допоможе традиційним фінансовим установам безпечно працювати з цифровими активами. Проєкт спрямований на інтеграцію блокчейн-технологій у банківський сектор.",
-      "ai_title": "Coinbase та Moov об'єднуються задля створення стейблкоїн-інфраструктури для банків",
-      "video_keywords": "modern bank interior, ATM machine, businessmen shaking hands, digital banking screen"
-    },
-    {
-      "title": "Solana sees record 263K tokens issued in a single day",
-      "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Solana sees record 263K tokens issued in a single day\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25NP75E37J3BC23WNMYYFA2/hi-memecoins-tracing-the-journey-from-memes-to-the-multi-billion-dollar-world-of-scams-and-rugpulls.jpg\" /></p><p>Memecoin platform Pump.fun accounted for mo",
-      "published": "2026-09-10T13:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Блокчейн Solana встановив новий рекорд, випустивши 263 тисячі нових токенів лише за одну добу. Головним драйвером такого стрибка стала популярна платформа для створення мемкоїнів Pump.fun. Подібна активність демонструє колосальне зростання спекулятивного інтересу до мережі.",
-      "ai_title": "У мережі Solana зафіксували рекордне створення понад чверті мільйона токенів за день",
-      "video_keywords": "blockchain network visualization, digital nodes connecting, fast motion graphics, glowing cryptocurrency tokens"
     },
     {
       "title": "Liquid Network resumes block production after $320M exploit",
