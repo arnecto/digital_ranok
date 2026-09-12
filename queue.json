@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-      "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html\">https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49646988\">https://news.ycombinator.com/item?id=49646988</a></p>\n<p>Points: 27</p>\n<p># Comments: 17</p>",
-      "published": "2026-09-10T17:04:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic повідомила про успішне виявлення та блокування потенційних спроб використання своїх моделей штучного інтелекту для розробки біологічної зброї. Цей випадок підкреслює зростаючі загрози безпеці та необхідність жорсткого контролю за потужними технологіями.",
-      "ai_title": "Anthropic заблокувала спроби використання свого штучного інтелекту для біозброї",
-      "video_keywords": "laboratory scientist, glowing servers, cybersecurity, futuristic technology"
-    },
-    {
-      "title": "OpenAI Agents API",
-      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "summary": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/agents-api/overview\">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649213\">https://news.ycombinator.com/item?id=49649213</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-10T19:43:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI представила новий інтерфейс для розробників, спрямований на спрощення створення та інтеграції автономних агентів. Це оновлення відкриває нові можливості для автоматизації складних завдань за допомогою штучного інтелекту. Очікується, що інструмент прискорить розробку комерційних AI-рішень.",
-      "ai_title": "OpenAI випустила новий API для штучного інтелекту",
-      "video_keywords": "software code, developer typing, computer screen, programmer"
-    },
-    {
       "title": "Creativity is the New Moat",
       "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
       "summary": "<p>Article URL: <a href=\"https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat\">https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49648732\">https://news.ycombinator.com/item?id=49648732</a></p>\n<p>Points: 73</p>\n<p># Comments: 39</p>",
@@ -359,29 +339,29 @@
       "ai_summary": "Компанія LG відкинула звинувачення незалежних дослідників безпеки щодо збору та завантаження конфіденційних даних користувачів смарт-телевізорів. У компанії заявили, що останні медіапублікації створили хибне уявлення про роботу їхніх пристроїв.",
       "ai_title": "LG відповіла на звинувачення у стеженні за користувачами телевізорів",
       "video_keywords": "smart tv, living room, remote control, modern television"
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 91</p>\n<p># Comments: 31</p>",
+      "published": "2026-09-12T16:25:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено спеціальний плагін та вебмайстер, які спрощують процес внесення перших змін і доповнень до глобальної мапи OpenStreetMap. Це рішення робить картографічний волонтерство доступнішим для новачків без глибоких технічних знань. Новинка вже привернула увагу спільноти завдяки зручному інтерфейсу.",
+      "ai_title": "Створено новий інструмент для швидкого редагування карт OpenStreetMap",
+      "video_keywords": "laptop, typing, maps, navigation, hands typing"
+    },
+    {
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673580\">https://news.ycombinator.com/item?id=49673580</a></p>\n<p>Points: 40</p>\n<p># Comments: 8</p>",
+      "published": "2026-09-12T15:49:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники здійснили реверс-інжиніринг мікрокоду старого математичного співпроцесора Intel 8087, зосередившись на інструкції масштабування fscale. Цей аналіз дозволяє зазирнути в історію комп'ютерної архітектури та зрозуміти принципи обробки плаваючої колії у перших мікросхемах. Подібні розбори є цінними для ентузіастів ретро-комп'ютингу та історії апаратного забезпечення.",
+      "ai_title": "Дослідження мікрокоду легендарного процесора Intel 8087",
+      "video_keywords": "microchip, electronic circuit, soldering, computer hardware, magnifying glass"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Amazon makes it easier to buy what you see on Prime Video",
-      "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-      "summary": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
-      "published": "2026-09-10T18:10:36+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Amazon інтегрує шопінг у стрімінгову платформу Prime Video за допомогою технології розпізнавання контенту. Глядачі зможуть купувати товари, які вони бачать у фільмах, серіалах чи спортивних трансляціях, прямо під час перегляду.",
-      "ai_title": "Amazon запускає функцію швидких покупок із відео у Prime Video",
-      "video_keywords": "person watching tv, online shopping, smartphone screen, streaming media"
-    },
-    {
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "published": "2026-09-10T17:45:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Аудіоплатформа Pocket FM досягла показника доходу в 500 мільйонів доларів, оскільки ШІ тепер генерує 93% її контенту. Використання штучного інтелекту дозволило знизити витрати на виробництво аудіо у 80 разів.",
-      "ai_title": "Індійський стартап Pocket FM подвоїв дохід завдяки штучному інтелекту",
-      "video_keywords": "person listening to headphones, audio recording studio, sound waves, mobile app interface"
-    },
     {
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
@@ -411,16 +391,6 @@
       "ai_summary": "Трійка молодих засновників вирішила залишити Каліфорнію та повернутися до Німеччини, що не завадило їм отримати чотири мільйони доларів інвестицій переважно від американських фондів. Їхній проєкт у сфері зеленої енергетики доводить глобальність сучасного венчурного ринку.",
       "ai_title": "Як німецький енергетичний стартап залучив мільйони з Кремнієвої долини",
       "video_keywords": "startup founders, modern office, business meeting, handshake"
-    },
-    {
-      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-      "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
-      "published": "2026-09-10T18:38:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Proxima Fusion інвестує кошти у будівництво підприємства з виробництва надпровідних стрічок для майбутніх реакторів. Це дозволить стартапу зменшити залежність від азіатських постачальників критично важливих матеріалів.",
-      "ai_title": "Європейський термоядерний стартап залучає 140 мільйонів євро на власний завод",
-      "video_keywords": "factory floor, industrial machinery, engineering blueprint, scientific laboratory"
     },
     {
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
@@ -564,36 +534,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-      "link": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK House of Lords backs mandatory digital asset strategy over Labour position\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M265GXQKJCP1QSNW42GTAMVF/hi-uk-and-crypto-new.png\" /></p><p>The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoi",
-      "published": "2026-09-10T17:54:12+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Британський парламент виступив за обов'язкове впровадження державної стратегії щодо криптоактивів та стейблкоїнів. Це рішення йде всупереч початковій позиції урядової партії та наближає країну до чіткого регулювання.",
-      "ai_title": "Палата лордів Великої Британії підтримала стратегію цифрових активів",
-      "video_keywords": "parliament building, politicians meeting, courtroom, uk flag"
-    },
-    {
-      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
-      "link": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
-      "summary": "",
-      "published": "2026-09-10T17:03:34+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Провідний європейський фінансовий регулятор висловив сумніви щодо легальності доступу користувачів ЄС до платформ прогнозування. Експерти вказують на суттєві прогалини в авторизації таких сервісів на європейському ринку.",
-      "ai_title": "Головний регулятор Європи занепокоєний роботою Polymarket і Kalshi",
-      "video_keywords": "financial charts, stock exchange, computer screen, business meeting"
-    },
-    {
-      "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
-      "link": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
-      "summary": "",
-      "published": "2026-09-10T17:07:59+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптобіржа OKX надає європейським користувачам доступ до інвестування в провідні штучні інтелекти OpenAI та Anthropic. Це відбувається на тлі стрімкого зростання ринку передпервинного розміщення акцій (pre-IPO).",
-      "ai_title": "OKX виводить торгівлю акціями AI-гігантів на європейський ринок",
-      "video_keywords": "smartphone screen, trading graphs, stock market, office desk"
-    },
     {
       "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
       "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
