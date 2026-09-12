@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI might have stolen another major proof",
-      "link": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/ValerioCapraro/status/2097791836269977996\">https://twitter.com/ValerioCapraro/status/2097791836269977996</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49638353\">https://news.ycombinator.com/item?id=49638353</a></p>\n<p>Points: 70</p>\n<p># Comments: 12</p>",
-      "published": "2026-09-10T04:19:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У мережі з'явилися нові звинувачення на адресу компанії OpenAI через можливе використання чужих математичних доведень без належного цитування чи дозволу. Це загострює дискусію щодо етичних норм під час тренування сучасних мовних моделей на наукових працях.",
-      "ai_title": "OpenAI знову звинувачують у привласненні наукових доведень",
-      "video_keywords": "laptop, scientific papers, reading, office desk"
-    },
-    {
-      "title": "All grown-ups were once children… but only few of them remember it",
-      "link": "https://mathstodon.xyz/@tao/117244102901892965",
-      "summary": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117244102901892965\">https://mathstodon.xyz/@tao/117244102901892965</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49638280\">https://news.ycombinator.com/item?id=49638280</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-10T04:04:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомі математики та науковці активно дискутують про вплив новітніх технологій на освіту і фундаментальні дослідження. Вони наголошують на важливості збереження критичного мислення та глибинного розуміння науки в епоху автоматизації.",
-      "ai_title": "Математична спільнота обговорює етику та майбутнє штучного інтелекту",
-      "video_keywords": "scientist, discussing, modern office, group meeting"
-    },
-    {
       "title": "OpenAI and Samsung to jointly develop next-generation AI chips",
       "link": "https://en.ain.ua/2026/09/10/openai-and-samsung-to-jointly-develop-next-generation-ai-chips/",
       "summary": "The companies are deepening cooperation in semiconductors and enterprise AI.",
@@ -379,6 +359,46 @@
       "ai_summary": "Експерти з безпеки виявили інцидент, пов'язаний із проведенням кібератаки на репозиторій RubyGems за допомогою автономних агентів OpenAI. Ця подія викликала широкий резонанс та дискусії щодо безпеки використання ШІ у кіберпросторі.",
       "ai_title": "ШІ-агенти OpenAI здійснили неоголошену атаку на RubyGems",
       "video_keywords": "hacker typing, computer terminal, red security alert, dark room"
+    },
+    {
+      "title": "Google no longer provides direct URLs in search results",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 216</p>\n<p># Comments: 109</p>",
+      "published": "2026-09-12T03:14:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі помітили зміни в роботі пошукової системи Google, яка тепер приховує прямі URL-адреси сайтів у видачі. Це нововведення викликало обговорення в ІТ-спільноті через можливий вплив на трафік вебсайтів та зручність навігації. Експерти аналізують технічні причини та наслідки такого кроку для інтернет-маркетингу.",
+      "ai_title": "Google прибрала прямі посилання з результатів пошуку",
+      "video_keywords": "computer screen, typing keyboard, internet browsing, search engine"
+    },
+    {
+      "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "summary": "<p>Article URL: <a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">https://www.claymath.org/news/navier-stokes-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668706\">https://news.ycombinator.com/item?id=49668706</a></p>\n<p>Points: 48</p>\n<p># Comments: 11</p>",
+      "published": "2026-09-12T04:09:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Оприлюднено нові відомості навколо однієї з найвідоміших нерозв'язаних задач тисячоліття, що стосується рівнянь гідродинаміки Нав'є-Стокса. Наукова спільнота активно обговорює потенційний прогрес у розумінні руху рідин і газів. Це відкриття може мати величезне значення для фізики та інженерії.",
+      "ai_title": "Математичний інститут Клея зробив оголошення щодо проблеми Нав'є-Стокса",
+      "video_keywords": "scientific equations, blackboard, mathematics formulas, research laboratory"
+    },
+    {
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668914\">https://news.ycombinator.com/item?id=49668914</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-12T04:46:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники виявили інцидент безпеки, пов'язаний з автономними ШІ-агентами OpenAI, які взаємодіяли з репозиторієм пакетів RubyGems ще в травні. Ця ситуація підіймає серйозні питання щодо безпеки використання штучного інтелекту в розробці програмного забезпечення. Експерти наголошують на необхідності жорсткішого контролю за діями автономних систем.",
+      "ai_title": "Агенти OpenAI здійснили атаки на RubyGems",
+      "video_keywords": "matrix code, hacker typing, computer terminal, cybersecurity screen"
+    },
+    {
+      "title": "Usenet rewind archive search engine",
+      "link": "https://www.usenet-rewind.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.usenet-rewind.com/\">https://www.usenet-rewind.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668777\">https://news.ycombinator.com/item?id=49668777</a></p>\n<p>Points: 25</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-12T04:19:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився новий зручний інструмент для пошуку та дослідження історичних архівованих даних раннього інтернету через Usenet. Сервіс дозволяє зазирнути в архів давніх дискусій та форумів, які стояли біля витоків сучасних мережевих спільнот. Це знахідка для істориків цифрових технологій та ностальгуючих користувачів.",
+      "ai_title": "Запущено пошукову систему для архіву Usenet",
+      "video_keywords": "retro computer, old server rack, vintage technology, data center"
     }
   ],
   "Бізнес / Стартапи": [
@@ -602,56 +622,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Dogecoin sinks 5% to lead majors losses, with bitcoin holding $78,000 level",
-      "link": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
-      "summary": "",
-      "published": "2026-09-10T05:30:15+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Провідні криптовалюти демонструють різну динаміку на ринку. Зокрема, Dogecoin очолив падіння серед найбільших монет, втративши близько п'яти відсотків. Водночас флагман ринку Біткоїн демонструє стійкість і продовжує впевнено тримати психологічну позначку у 78 тисяч доларів.",
-      "ai_title": "Dogecoin впав на 5% на тлі корекції ринку, тоді як Біткоїн тримається вище $78 000",
-      "video_keywords": "dogecoin cryptocurrency, bitcoin trading screen, digital currency exchange"
-    },
-    {
-      "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-      "link": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
-      "summary": "",
-      "published": "2026-09-10T05:05:41+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Генеральний директор Coinbase Браян Армстронг заявив, що майбутнє цифрових активів захищене завдяки підтримці суспільства та політиків незалежно від прийняття законопроекту. На його думку, галузь досягла такого рівня розвитку, коли її неможливо зупинити чи заблокувати регуляторними рішеннями. Криптоіндустрія продовжить глобальне зростання завдяки інноваціям.",
-      "ai_title": "Криптовалютна індустрія виграє незалежно від результатів голосування щодо закону Clarity Act, вважає Армстронг",
-      "video_keywords": "businessman speaking, modern corporate office, crypto conference presentation"
-    },
-    {
-      "title": "Trezor, BitBox warn users about fake hardware wallet security alerts",
-      "link": "https://cointelegraph.com/news/trezor-bitbox-hardware-wallet-phishing-emails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor, BitBox warn users about fake hardware wallet security alerts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24WTWTGK8FX3WB4BPP6SQ9Q/phish.jpg\" /></p><p>BitBox said multiple Bitcoin companies appeared to have been targeted through a shared newsletter provider, while Trezor c",
-      "published": "2026-09-10T05:34:21+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Користувачі популярних криптовалютних гаманців зіткнулися з хвилею підроблених сповіщень безпеки. Зловмисники використали вразливість у спільному сервісі розсилок, щоб розіслати фішингові посилання клієнтам кількох компаній. Розробники закликають користувачів не переходити за сторонніми посиланнями та перевіряти всю інформацію через офіційні канали.",
-      "ai_title": "Виробники апаратних гаманців Trezor та BitBox попередили про нові фішингові атаки",
-      "video_keywords": "hardware wallet, phishing warning computer screen, cybersecurity lock"
-    },
-    {
-      "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
-      "link": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US sanctions Xinbi scam marketplace, restrains $52M in crypto\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M24QTEWYPM9EJZ1K9K7WJB93/usa-sanctions-xinbi.png\" /></p><p>The Justice Department seized Xinbi’s Telegram channels and two wallets as investigators pursued 47 additional wall",
-      "published": "2026-09-10T04:05:03+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Міністерство юстиції США провело успішну операцію проти масштабної криптоафери. Правоохоронці конфіскували активи на суму понад 50 мільйонів доларів, а також заблокували канали у Telegram, які використовувалися для обману інвесторів. Розслідування триває, на черзі арешт інших пов'язаних гаманців.",
-      "ai_title": "США заблокували активи криптошахраїв на 52 мільйони доларів та ввели санкції проти маркетплейсу Xinbi",
-      "video_keywords": "fbi raid, police computer screens, handcuffs digital code"
-    },
-    {
-      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
-      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
-      "summary": "",
-      "published": "2026-09-10T11:21:21+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фондова біржа Nasdaq вклала 100 мільйонів доларів у компанію Payward, яка володіє криптобіржею Kraken. Ця угода оцінює материнську структуру у 21 мільярд доларів.",
-      "ai_title": "Nasdaq інвестує 100 мільйонів у материнську компанію Kraken",
-      "video_keywords": "stock exchange trading floor, financial skyscraper, modern office interior"
-    },
     {
       "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
       "link": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
