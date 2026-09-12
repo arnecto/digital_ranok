@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Creativity is the New Moat",
-      "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-      "summary": "<p>Article URL: <a href=\"https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat\">https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49648732\">https://news.ycombinator.com/item?id=49648732</a></p>\n<p>Points: 73</p>\n<p># Comments: 39</p>",
-      "published": "2026-09-10T19:03:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У світі, де штучний інтелект генерує стандартний контент за секунди, справжня творчість стає ключовим ресурсом для виживання бізнесу. Автори статті аналізують, чому унікальний людський підхід та нестандартне мислення замінюють традиційні конкурентні переваги. Креативність тепер є найкращим захистом від автоматизації.",
-      "ai_title": "Креативність як головна перевага в епоху AI",
-      "video_keywords": "artist painting, creative workspace, designer sketching, brainstorm"
-    },
-    {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
-      "published": "2026-09-10T19:44:20+00:00",
-      "source": "The Verge",
-      "ai_summary": "Шкільні заклади починають критично оцінювати ініціативи великих технологічних компаній, які пропонують свої освітні програми зі штучного інтелекту. Хоча технології критично важливі для майбутнього учнів, експерти застерігають від залежності від корпоративних навчальних матеріалів. Школи шукають баланс між вивченням інновацій та захистом інтересів учнів.",
-      "ai_title": "Школи розгадують стратегії технологічних гігантів щодо AI",
-      "video_keywords": "classroom students, computer lab, teacher and students, modern school"
-    },
-    {
       "title": "Slack can now vibe-code interactive charts and reports inside chats",
       "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
       "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
@@ -359,39 +339,29 @@
       "ai_summary": "Дослідники здійснили реверс-інжиніринг мікрокоду старого математичного співпроцесора Intel 8087, зосередившись на інструкції масштабування fscale. Цей аналіз дозволяє зазирнути в історію комп'ютерної архітектури та зрозуміти принципи обробки плаваючої колії у перших мікросхемах. Подібні розбори є цінними для ентузіастів ретро-комп'ютингу та історії апаратного забезпечення.",
       "ai_title": "Дослідження мікрокоду легендарного процесора Intel 8087",
       "video_keywords": "microchip, electronic circuit, soldering, computer hardware, magnifying glass"
+    },
+    {
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay, [&#8230;]",
+      "published": "2026-09-12T20:08:09+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Blizzard вирішила дати ще один шанс жанру 3D-шутерів усесвіту StarCraft після скасування проєкту StarCraft: Ghost. Нова гра під назвою StarCraft розробляється під керівництвом Дена Хея та має вийти у 2030 році.",
+      "ai_title": "StarCraft повертається у 2030 році як шутер у відкритому світі",
+      "video_keywords": "futuristic soldier, sci-fi battlefield, gaming setup, virtual reality"
+    },
+    {
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "link": "https://hachyderm.io/@simontatham/117201594980991062",
+      "summary": "<p>Article URL: <a href=\"https://hachyderm.io/@simontatham/117201594980991062\">https://hachyderm.io/@simontatham/117201594980991062</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49675902\">https://news.ycombinator.com/item?id=49675902</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+      "published": "2026-09-12T18:58:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі виявили, що десктопний клієнт Zoom для Linux активно сканує та читає все, що користувач копіює в буфер обміну X11. Це викликає серйозні занепокоєння щодо приватності та безпеки особистих даних.",
+      "ai_title": "Клієнт Linux для Zoom зчитує вміст буфера обміну X11",
+      "video_keywords": "computer screen, programmer typing, hacker cyber attack, security alert"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "published": "2026-09-10T20:59:51+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія була змушена призупинити реєстрацію нових користувачів на найдорожчий тариф через надмірне навантаження на сервери. Це рішення допоможе інженерам стабілізувати роботу систем та наростити обчислювальні потужності.",
-      "ai_title": "OpenAI тимчасово зупинила продаж Pro-підписок через ажіотажний попит",
-      "video_keywords": "server room, data center, computer screen, developer typing"
-    },
-    {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "published": "2026-09-10T20:57:30+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "У новому звіті компанії стверджується, що такі гравці, як Alibaba та DeepSeek, систематично використовували штучний інтелект Anthropic для створення власних дешевших аналогів. Такі атаки наголошують на жорстокій конкуренції у сфері штучного інтелекту.",
-      "ai_title": "Anthropic звинуватила китайські стартапи у масовому копіюванні своїх моделей",
-      "video_keywords": "cybersecurity, hacker coding, digital code, office meeting"
-    },
-    {
-      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-      "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-      "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
-      "published": "2026-09-10T20:48:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Трійка молодих засновників вирішила залишити Каліфорнію та повернутися до Німеччини, що не завадило їм отримати чотири мільйони доларів інвестицій переважно від американських фондів. Їхній проєкт у сфері зеленої енергетики доводить глобальність сучасного венчурного ринку.",
-      "ai_title": "Як німецький енергетичний стартап залучив мільйони з Кремнієвої долини",
-      "video_keywords": "startup founders, modern office, business meeting, handshake"
-    },
     {
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
       "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
@@ -531,29 +501,29 @@
       "ai_summary": "Фінтех-гігант Revolut повідомив про інцидент безпеки, внаслідок якого постраждали дані клієнтів. Злом стався через підроблені запити від зловмисників, які видавали себе за державні органи, після чого компанія поінформувала регуляторів та постраждалих.",
       "ai_title": "Revolut підтвердив витік даних через шахрайські запити",
       "video_keywords": "hacker typing, data breach, cyber security, worried person looking at laptop"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "published": "2026-09-12T20:19:16+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Попри чутки та внутрішню підготовку до IPO, генеральний директор OpenAI Сем Альтман виключив можливість публічного розміщення акцій компанії у найближчому майбутньому. Він назвав такий крок необдуманим для поточного етапу розвитку стартапу.",
+      "ai_title": "Сем Альтман заявив, що вихід OpenAI на біржу у 2026 році був би передчасним",
+      "video_keywords": "stock market chart, corporate boardroom, business meeting, skyscraper interior"
+    },
+    {
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "summary": "Tesla’s halo sports car was first announced in November 2017.",
+      "published": "2026-09-12T19:21:19+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Ілона Маска призначила дату презентації другого покоління свого культового спортивного електрокара. Оригінальний спорткар було анонсовано ще у 2017 році, і фанати чекають на новинку вже багато років.",
+      "ai_title": "Tesla готується нарешті представити нове покоління Roadster у жовтні",
+      "video_keywords": "sports car, electric vehicle, car reveal, modern showroom"
     }
   ],
   "Крипта": [
-    {
-      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
-      "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ESMA warns growing crypto ties could amplify risks to traditional finance\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26CZHVMKBYHAAV7EA21J68E/hi-what-is-mica-markets-in-crypto-assets-regulation-esma.png\" /></p><p>The EU securities regulator flagged tokenized equities, DeFi explo",
-      "published": "2026-09-10T20:10:29+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Європейський регулятор ринків цінних паперів заявив, що зростання зв'язків між криптоіндустрією та традиційними фінансами може посилити системні ризики. Експерти занепокоєні поширенням токенізованих акцій та вразливостями в секторі DeFi.",
-      "ai_title": "ESMA попередила про загрози для традиційних фінансів через криптовалюти",
-      "video_keywords": "stock market crash, financial charts, digital currency, businessman pacing"
-    },
-    {
-      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-      "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-      "summary": "",
-      "published": "2026-09-10T20:21:57+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Законодавці представили чергову редакцію законопроєкту Clarity Act, яка зачіпає правила регулювання сектору децентралізованих фінансів та кредитних спілок. Попри внесені зміни, подальша доля та перспективи ухвалення цього документа залишаються невизначеними.",
-      "ai_title": "У США оновлено законопроєкт про криптовалюти: під ударом DeFi та кредитні спілки",
-      "video_keywords": "capitol building, washington dc, politicians meeting, documents signing"
-    },
     {
       "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
       "link": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -803,6 +773,16 @@
       "ai_summary": "Компанія Nvidia може інвестувати до 10 мільярдів доларів у майбутнє первинне публічне розміщення акцій стартапу Anthropic. Очікується, що загальна сума залучених коштів під час цього IPO може сягнути рекордних 100 мільярдів доларів.",
       "ai_title": "Nvidia розглядає можливість інвестиції в рекордне IPO Anthropic",
       "video_keywords": "microchip manufacturing, server room, artificial intelligence brain, stock market ticker"
+    },
+    {
+      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+      "summary": "",
+      "published": "2026-09-12T18:51:04+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Політична партія Найджела Фаража залучила рекордні 97 мільйонів доларів від двох криптоінвесторів лише за добу. Це значно посилює фінансові позиції партії та підкреслює зростаючий вплив криптовалютного капіталу на політику.",
+      "ai_title": "Британська партія Reform UK отримала $97 мільйонів від криптомільярдерів",
+      "video_keywords": "politician speaking, stacks of money, cryptocurrency coins, financial transaction"
     }
   ]
 }
