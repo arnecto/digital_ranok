@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
-      "published": "2026-09-11T20:44:02+00:00",
-      "source": "The Verge",
-      "ai_summary": "Верховний суд Нью-Мексико оштрафував адвоката на 5 тисяч доларів за використання згенерованих штучним інтелектом фальшивих свідків та поліцейських звітів. Юрист визнаний винним у неповазі до суду через неперевірку фактів, які він подав у апеляції для свого клієнта. Цей випадок вкотре підкреслює небезпеку бездумного використання генеративного ШІ в юридичній практиці.",
-      "ai_title": "Адвоката оштрафували за вигаданих штучним інтелектом свідків у справі про вбивство",
-      "video_keywords": "courtroom, lawyer, judge gavel, legal documents"
-    },
-    {
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "link": "https://github.com/mirza-rizvi/ResolveHQ",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mirza-rizvi/ResolveHQ\">https://github.com/mirza-rizvi/ResolveHQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665864\">https://news.ycombinator.com/item?id=49665864</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-11T21:48:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розпочався розпуск нового open-source проєктhelpdesk-системи, повністю побудованої на сучасній серверній інфраструктурі Cloudflare Workers, D1, R2 та Queues. Це рішення забезпечує високу швидкість роботи, масштабовність та мінімальні витрати на хостинг для розробників. Проєкт вже привернув увагу спільноти завдяки своїй архітектурній гнучкості.",
-      "ai_title": "ResolveHQ: нова служба підтримки на базі Cloudflare",
-      "video_keywords": "software code, computer screen, developer typing, cloud computing"
-    },
-    {
-      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-      "link": "https://www.firecrawl.dev/blog/ai-software-factory",
-      "summary": "<p>Article URL: <a href=\"https://www.firecrawl.dev/blog/ai-software-factory\">https://www.firecrawl.dev/blog/ai-software-factory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666960\">https://news.ycombinator.com/item?id=49666960</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-11T23:43:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники поділилися досвідом створення автоматизованої системи, де ШІ-агенти самостійно відкривають, перевіряють та зливають пул-реквести (PR). Це дозволяє суттєво прискорити рутинні процеси у розробці програмного забезпечення.",
-      "ai_title": "Як створити фабрику ПЗ на базі штучного інтелекту",
-      "video_keywords": "software code, computer screen, programmer hands, office workspace"
-    },
-    {
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "link": "https://www.rubyhack.ai/",
       "summary": "<p>Article URL: <a href=\"https://www.rubyhack.ai/\">https://www.rubyhack.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 257</p>\n<p># Comments: 150</p>",
@@ -429,19 +399,49 @@
       "ai_summary": "Згідно з останніми витоками коду в macOS, компанія Apple готує до випуску два геймпади для смартфонів. Очікується, що нові аксесуари продаватимуться під популярним брендом Beats.",
       "ai_title": "Apple розробляє фірмові ігрові контролери для iPhone",
       "video_keywords": "smartphone gaming, game controller, mobile phone, unboxing tech"
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+      "published": "2026-09-13T19:41:48+00:00",
+      "source": "The Verge",
+      "ai_summary": "Керівники провідних компаній, таких як Anthropic та OpenAI, закликали сповільнити темпи розвитку штучного інтелекту через потенційні загрози. Проте політики Дональд Трамп і Майк Джонсон висловили незгоду з цією позицією, вважаючи реакцію індустрії надмірною. Це створює новий дискурс між технологічними лідерами та законодавцями щодо майбутнього регулювання галузі.",
+      "ai_title": "Трамп і Майк Джонсон вважають, що індустрія ШІ перебільшує ризики",
+      "video_keywords": "politician speaking, press conference, computer screen, technology meeting"
+    },
+    {
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "summary": "<p>Article URL: <a href=\"https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/\">https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49687869\">https://news.ycombinator.com/item?id=49687869</a></p>\n<p>Points: 41</p>\n<p># Comments: 44</p>",
+      "published": "2026-09-13T19:41:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відомий технолог і філософ Джарон Ланьє в інтерв'ю висловив думку, що сучасний штучний інтелект є лише ілюзією самостійного розуму. За його словами, за кожною згенерованою відповіддю чи моделлю стоїть величезна праця тисяч реальних людей. Цей погляд кидає виклик масовому маркетинговому галасу навколо автономності сучасних нейромереж.",
+      "ai_title": "Джарон Ланьє: «Штучного інтелекту не існує, за ним завжди стоять люди»",
+      "video_keywords": "person talking, interview microphone, studio lighting, audio headphones"
+    },
+    {
+      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 25</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-13T21:06:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Штучний інтелект успішно впоровся з розшифруванням складного історичного коду, який залишався нерозгаданим протягом 370 років. Це досягнення демонструє зростаючі можливості сучасних мовних моделей у вирішенні складних наукових та криптографічних задач. Подібні кейси відкривають нові перспективи для застосування ШІ в історичних та лінгвістичних дослідженнях.",
+      "ai_title": "ШІ Claude Fable 5.1 розгадав таємницю вікового шифру",
+      "video_keywords": "old book, magnifying glass, writing notes, glowing computer screen"
+    },
+    {
+      "title": "AI Is Destroying the World",
+      "link": "https://gornak40.org/blog/ai-is-destroying-the-world.html",
+      "summary": "<p>Article URL: <a href=\"https://gornak40.org/blog/ai-is-destroying-the-world.html\">https://gornak40.org/blog/ai-is-destroying-the-world.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688681\">https://news.ycombinator.com/item?id=49688681</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-13T21:04:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У новому аналітичному матеріалі розглядаються масштабні наслідки стрімкого впровадження штучного інтелекту в усі сфери життя. Автор аналізує вплив технологій на ринок праці, екологію та соціальну стабільність. Дискусія навколо етичних норм стає все більш гострою на тлі неконтрольованого зростання дата-центрів.",
+      "ai_title": "Чи дійсно штучний інтелект руйнує світ?",
+      "video_keywords": "server racks, blinking lights, digital matrix, futuristic city"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "published": "2026-09-11T20:57:36+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "25 провідних математиків підписали відкритий лист із різкою критикою на адресу AI-лабораторій. Вони заявляють, що сучасні технології штучного інтелекту створюють серйозну загрозу їхній інтелектуальній праці та правам.",
-      "ai_title": "Конфлікт між OpenAI та математиками набирає обертів",
-      "video_keywords": "angry mathematicians, signing documents, office meeting, professional discussion"
-    },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -451,16 +451,6 @@
       "ai_summary": "Молодий стартап Mecka AI близький до закриття інвестиційного раунду під керівництвом фонду Sequoia Capital, що оцінить компанію у 500 мільйонів доларів. Ажіотаж навколо компанії пов'язаний зі стрімким зростанням попиту на дані для навчання роботів.",
       "ai_title": "Штучний інтелект для роботів: стартап Mecka залучає інвестиції на пів мільярда",
       "video_keywords": "robotics laboratory, computer screen, artificial intelligence, data analytics"
-    },
-    {
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "published": "2026-09-11T21:19:05+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Один із найвідоміших венчурних фондів Кремнієвої долини Khosla Ventures планує відкрити своє перше представництво за межами культової Sand Hill Road. Новий офіс розпочне роботу в Нью-Йорку вже цієї осені.",
-      "ai_title": "Легендарний венчурний фонд Khosla Ventures вперше відкриває офіс поза межами Кремнієвої долини",
-      "video_keywords": "modern skyscraper, new york city skyline, business meeting, corporate office"
     },
     {
       "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
@@ -551,6 +541,36 @@
       "ai_summary": "Експерти знову обговорюють потенційну екзистенційну загрозу, яку технології штучного інтелекту можуть становити для людства. У подкасті On Equity аналізують причини появи таких тривожних попереджень від лідерів галузі.",
       "ai_title": "Чи загрожує штучний інтелект людству: нові дискусії в індустрії",
       "video_keywords": "futuristic server room, artificial intelligence brain, worried office workers, digital data streams"
+    },
+    {
+      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+      "published": "2026-09-13T21:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Попри загальний тренд венчурного ринку вкладати всі кошти в лідерів штучного інтелекту на кшталт OpenAI та Anthropic, гігант Insight Partners свідомо обирає стратегію диверсифікації. Керівник компанії Девін Парек пояснює, чому збереження часток у різних конкуруючих AI-стартапах є безпечнішим підходом.",
+      "ai_title": "Чому фонд Insight Partners відмовляється ставити лише на OpenAI",
+      "video_keywords": "business meeting, financial charts, office handshake, diverse team"
+    },
+    {
+      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+      "published": "2026-09-13T20:49:38+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Мільярдер та засновник Oracle Ларрі Еллісон вирішив не продавати 50 мільйонів власних акцій компанії. Раніше планувалося здійснити масштабний продаж пакета цінних паперів на суму близько 7,5 мільярда доларів.",
+      "ai_title": "Ларрі Еллісон раптово скасував продаж акцій Oracle на 7,5 мільярда",
+      "video_keywords": "stock market, trading floor, financial graphs, computer screens"
+    },
+    {
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "published": "2026-09-13T20:28:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Провідні венчурні інвестори обрали найперспективніші проєкти з літнього набору акселератора Y Combinator. Серед фаворитів експертів опинилися такі незвичні розробки, як плавучі ядерні реактори та інноваційні мозкові чипи.",
+      "ai_title": "Найцікавіші стартапи останнього Demo Day від Y Combinator",
+      "video_keywords": "futuristic laboratory, microchip manufacturing, renewable energy, modern tech startup"
     }
   ],
   "Крипта": [
