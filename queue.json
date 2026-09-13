@@ -15,27 +15,6 @@
       "source": "Hacker News: Front Page"
     },
     {
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "link": "https://snap.berkeley.edu/",
-      "summary": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
-      "published": "2026-09-11T17:36:11+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-      "link": "https://www.getzep.com/careers/",
-      "summary": "<p>Article URL: <a href=\"https://www.getzep.com/careers/\">https://www.getzep.com/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49661645\">https://news.ycombinator.com/item?id=49661645</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-11T17:00:17+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Triple H Writes Anniversary Story for Spider-Man #1000",
-      "link": "https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000",
-      "summary": "<p>Article URL: <a href=\"https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000\">https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660884\">https://news.ycombinator.com/item?id=49660884</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
-      "published": "2026-09-11T16:13:51+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
       "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
       "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
@@ -374,29 +353,49 @@
       "ai_summary": "Компанія Apple офіційно представила нове покоління своїх телефонів. Гаджети отримали оновлений дизайн, покращені камери та розширені можливості штучного інтелекту.",
       "ai_title": "Apple презентувала нові моделі смартфонів",
       "video_keywords": "smartphone unboxing, retail store, holding phone, modern gadget"
+    },
+    {
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/DavidSacks/status/2098973625252708460\">https://twitter.com/DavidSacks/status/2098973625252708460</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685991\">https://news.ycombinator.com/item?id=49685991</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-13T16:52:33+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відомий підприємець та інвестор Девід Сакс висловив думку, що провідні компанії у сфері штучного інтелекту не потребують додаткових регуляторних обмежень. На його думку, ринкові механізми та внутрішня конкуренція здатні ефективно контролювати розвиток передових ШІ-моделей без втручання регуляторів.",
+      "ai_title": "Девід Сакс вважає, що OpenAI та Anthropic не потребують державного регулювання",
+      "video_keywords": "business meeting, office desk, laptop, professional speaking"
+    },
+    {
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+      "summary": "<p>Article URL: <a href=\"https://belderbos.dev/blog/how-libraries-run-rust-inside-python/\">https://belderbos.dev/blog/how-libraries-run-rust-inside-python/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685037\">https://news.ycombinator.com/item?id=49685037</a></p>\n<p>Points: 25</p>\n<p># Comments: 21</p>",
+      "published": "2026-09-13T15:24:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники активно використовують інструмент PyO3 для інтеграції мови програмування Rust у проекти на Python. Це дозволяє суттєво підвищити продуктивність критично важливих ділянок коду, поєднуючи гнучкість Python та швидкість виконання Rust.",
+      "ai_title": "Як сучасні бібліотеки запускають код Rust всередині Python за допомогою PyO3",
+      "video_keywords": "computer screen, programming code, software developer, typing on keyboard"
+    },
+    {
+      "title": "Predictive intelligence to anticipate anything.",
+      "link": "https://prior.chat/",
+      "summary": "<p>Article URL: <a href=\"https://prior.chat/\">https://prior.chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684879\">https://news.ycombinator.com/item?id=49684879</a></p>\n<p>Points: 14</p>\n<p># Comments: 17</p>",
+      "published": "2026-09-13T15:11:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "На ринку з'являються інноваційні платформи з предиктивним штучним інтелектом, здатні передбачати різноманітні події та тенденції. Такі рішення відкривають нові можливості для аналітики, бізнесу та прийняття стратегічних рішень на основі даних.",
+      "ai_title": "Предиктивний інтелект: нові технології для прогнозування подій",
+      "video_keywords": "futuristic interface, data visualization, glowing graphics, touchscreen technology"
+    },
+    {
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "link": "https://cpak.it/",
+      "summary": "<p>Article URL: <a href=\"https://cpak.it/\">https://cpak.it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684778\">https://news.ycombinator.com/item?id=49684778</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+      "published": "2026-09-13T15:02:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий формат додатків Cpak на базі стандартів OCI, призначений для десктопів, серверів та пристроїв під управлінням Linux. Це рішення покликане спростити процес розгортання та керування програмним забезпеченням у різних середовищах.",
+      "ai_title": "Представлено новий формат пакетів додатків Cpak для Linux",
+      "video_keywords": "server room, data center, blinking lights, technician working"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "published": "2026-09-11T16:46:25+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Nscale посилила своє керівництво, залучивши колишню топменеджерку OpenAI Фіджі Симо до ради директорів. Раніше вона успішно вивела на біржу сервіс Instacart у 2023 році, що натякає на підготовку Nscale до аналогічного кроку.",
-      "ai_title": "Екс-топменеджерка OpenAI увійшла до ради директорів Nscale на тлі планів щодо IPO",
-      "video_keywords": "business meeting, corporate boardroom, executive woman, modern office"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
-      "published": "2026-09-11T20:59:47+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Голова Y Combinator Гаррі Тан переконаний, що провідні лабораторії штучного інтелекту мають спрощувати та поширювати свої моделі. На його думку, оскільки алгоритми навчаються на людських знаннях, доступ до потужного AI має бути загальнодоступним благом.",
-      "ai_title": "Y Combinator закликає зробити відкриті AI-модели суспільним надбанням",
-      "video_keywords": "artificial intelligence, server room, glowing code, technology lab"
-    },
     {
       "title": "OpenAI’s feud with mathematicians is only escalating",
       "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
@@ -516,39 +515,29 @@
       "ai_summary": "Стартапи у сфері термоядерної енергетики починають співпрацювати з оборонними відомствами. Це відроджує історичний зв'язок між ядерними дослідженнями та національною безпекою.",
       "ai_title": "Термоядерні стартапи знаходять нових партнерів у секторі оборони",
       "video_keywords": "nuclear reactor, laboratory, control room, scientists working"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "published": "2026-09-13T16:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Колишній президент США наголосив, що штучний інтелект має стати центральним пунктом порядку денного для демократів. Необхідно розробити чітку стратегію для мінімізації економічних ризиків та забезпечення безпеки нової технології.",
+      "ai_title": "Обама закликав демократів розробити чіткий план безпеки штучного інтелекту",
+      "video_keywords": "politician speaking, press conference, artificial intelligence presentation, businessman talking"
+    },
+    {
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "published": "2026-09-13T16:04:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Популярний сервіс виклику авто Lyft активно інтегрується у сферу майбутнього транспорту. Компанія робить ставку на новітні технології та штучний інтелект у своїх майбутніх транспортних рішеннях.",
+      "ai_title": "Lyft офіційно долучається до гонки роботаксі",
+      "video_keywords": "autonomous car driving, futuristic vehicle, urban traffic, modern taxi app"
     }
   ],
   "Крипта": [
-    {
-      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
-      "summary": "",
-      "published": "2026-09-11T17:12:45+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ув'язнений засновник FTX Сем Бенкман-Фрід наближається до завершального етапу своїх судових розглядів. Ця справа стала однією з найгучніших в історії криптовалютної індустрії. Суспільство та інвестори очікують на остаточний вирок та крапку в цій епопеї.",
-      "ai_title": "Фінал юридичної драми Сема Бенкмана-Фріда",
-      "video_keywords": "prison bars, court gavel, handcuffed hands, legal documents"
-    },
-    {
-      "title": "With Fed rate hike all but assured, here's how markets might react",
-      "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
-      "summary": "",
-      "published": "2026-09-11T15:45:56+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Федеральна резервна система США готується до чергового підвищення процентної ставки, що неминуче вплине на фінансові ринки. Криптовалютний та фондовий ринки готуються до волатильності. Інвестори аналізують можливі сценарії поведінки активів.",
-      "ai_title": "Реакція ринків на очікуване підвищення ставки ФРС",
-      "video_keywords": "stock exchange board, red and green arrows, financial graphs, trading floor"
-    },
-    {
-      "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
-      "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K5RK67P7SEQ7376RK4TFB/hi-bitcoin-could-be-the-next-big-inflation-hedge.jpg\" /></p><p>Bitcoin briefly rebounded past $79,000 and US stocks turned green",
-      "published": "2026-09-11T16:03:37+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "На тлі нових даних щодо інфляції в США курс Біткоїна різко зріс, перевищивши 79 000 доларів. Ринки демонструють позитивну динаміку, попри нові рекорди прибутковості державних облігацій. Криптовалюта знову привертає увагу як захисний актив проти інфляції.",
-      "ai_title": "Біткоїн стрімко наближається до позначки 80 тисяч доларів",
-      "video_keywords": "bitcoin coin, digital currency graph, glowing crypto charts, trading terminal"
-    },
     {
       "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
       "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -698,6 +687,16 @@
       "ai_summary": "Із поверненням Сенату США до роботи майбутнє закону про криптовалюти Clarity Act опинилося в підвішеному стані. Експерти порівнюють ситуацію з котом Шредінгера, оскільки документ одночасно має шанси як на прийняття, так і на повний провал.",
       "ai_title": "Доля криптозаконопроєкту Clarity Act у Сенаті США залишається невизначеною",
       "video_keywords": "us capitol building, senate courtroom, politician speaking, gavel falling"
+    },
+    {
+      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+      "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+      "summary": "",
+      "published": "2026-09-13T17:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Експерти обговорюють захист блокчейн-мереж від майбутніх загроз з боку квантових комп'ютерів. Замість оновлення апаратного забезпечення ключем до безпеки стають нові математичні алгоритми та криптографічні методи. Це дозволить зберегти активи користувачів у безпеці навіть після появи потужних квантових машин.",
+      "ai_title": "Квантова стійкість блокчейну: як математика рятує криптографію",
+      "video_keywords": "quantum computer, glowing binary code, digital security, abstract mathematics"
     }
   ]
 }
