@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "link": "https://eiln.github.io/posts/ane.html",
-      "summary": "<p>Article URL: <a href=\"https://eiln.github.io/posts/ane.html\">https://eiln.github.io/posts/ane.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670032\">https://news.ycombinator.com/item?id=49670032</a></p>\n<p>Points: 77</p>\n<p># Comments: 10</p>",
-      "published": "2026-09-12T07:54:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Спеціалісти провели ретроспективний реверс-інжиніринг спеціалізованого нейронного чіпа Apple Neural Engine (ANE). Це відкриває нові можливості для розуміння того, як пристрої компанії прискорюють обробку алгоритмів штучного інтелекту на апаратному рівні.",
-      "ai_title": "Дослідники розреверсив-інжинірили нейронний рушій Apple",
-      "video_keywords": "microchip, circuit board, soldering, electronics repair"
-    },
-    {
-      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
-      "link": "https://liniora.com",
-      "summary": "<p>Hi HN, the title could be a little bit aggressive sorry for that... Basically i am Computer engineer graduated recently but i was and still working remotely for approx. 3 years with the same foreign company in EU. and i noticed that we are always somehow lose the context of a ticket -- even though we are using the popular project management systems -- so i decided why not build something that c",
-      "published": "2026-09-12T12:15:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив інструмент Liniora, щоб вирішити проблему втрати контексту завдань у віддалених командах. Цей проект покликаний оптимізувати комунікацію та замінити традиційних проектних менеджерів за допомогою AI.",
-      "ai_title": "Liniora: чи зможе штучний інтелект замінити проектного менеджера?",
-      "video_keywords": "software developer, typing keyboard, office desk, computer monitor"
-    },
-    {
       "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
       "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
       "summary": "<p>Article URL: <a href=\"https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671159\">https://news.ycombinator.com/item?id=49671159</a></p>\n<p>Points: 36</p>\n<p># Comments: 15</p>",
@@ -429,6 +409,56 @@
       "ai_summary": "У мережі з'явилися дані понад 7,3 мільйона користувачів популярного шахового порталу Chess.com. Звіт свідчить, що інцидент стався внаслідок масового автоматизованого збору даних (парсингу), що ставить під загрозу конфіденційність гравців.",
       "ai_title": "Витік даних на Chess.com: понад 7 мільйонів акаунтів опинилися під загрозою через парсинг",
       "video_keywords": "computer screen, hacker typing, data breach, dashboard security"
+    },
+    {
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "link": "https://github.com/anuj0456/OpenArch",
+      "summary": "<p>Article URL: <a href=\"https://github.com/anuj0456/OpenArch\">https://github.com/anuj0456/OpenArch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693384\">https://news.ycombinator.com/item?id=49693384</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+      "published": "2026-09-14T07:55:19+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Проєкт OpenArch пропонує розробникам та дослідникам відкриті реалізації найсучасніших архітектур великих мовних моделей на базі фреймворку PyTorch. Це дозволяє глибше вивчати внутрішню бустройку штучного інтелекту та експериментувати з власними нейромережами. Репозиторій слугує зручним інструментом для практичного освоєння сучасних трендів у сфері генеративного ШІ.",
+      "ai_title": "OpenArch: відкриті реалізації сучасних архітектур LLM на PyTorch",
+      "video_keywords": "programmer typing, computer screen, code, artificial intelligence"
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "link": "https://github.com/rh1tech/frank-386",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rh1tech/frank-386\">https://github.com/rh1tech/frank-386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693613\">https://news.ycombinator.com/item?id=49693613</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+      "published": "2026-09-14T08:25:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти створили проєкт, який дозволяє запустити архітектуру класичного ПК 386 на сучасному мікроконтролері RP2350. Це цікавий приклад поєднання ретрокомп'ютингу з новітнім «залізом», що демонструє гнучкість сучасних мікросхем. Розробка приваблює увагу любителів нестандартних апаратних експериментів.",
+      "ai_title": "Запуск процесора 386 на мікроконтролері RP2350",
+      "video_keywords": "circuit board, microchip, soldering, electronics"
+    },
+    {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "<p>Article URL: <a href=\"https://www.eurobirdportal.org/ebp/en/\">https://www.eurobirdportal.org/ebp/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693610\">https://news.ycombinator.com/item?id=49693610</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+      "published": "2026-09-14T08:25:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інтерактивна платформа EuroBirdPortal дозволяє спостерігати за пересуванням птахів по всій території Європи в режимі реального часу. Проєкт агрегує величезні масиви даних від спостерігачів та дослідників дикої природи. Візуалізація допомагає краще розуміти екологічні процеси та міграційні маршрути тварин.",
+      "ai_title": "EuroBirdPortal: моніторинг міграції птахів у реальному часі в Європі",
+      "video_keywords": "flying birds, flock of birds, sky, nature"
+    },
+    {
+      "title": "XCancel Taken Down Again",
+      "link": "https://xcancel.com/",
+      "summary": "<p>Article URL: <a href=\"https://xcancel.com/\">https://xcancel.com/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694296\">https://news.ycombinator.com/item?id=49694296</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+      "published": "2026-09-14T09:51:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярний сервіс XCancel, який забезпечував зручний перегляд платформи X (колишній Twitter) без необхідності реєстрації, знову припинив роботу. Подібні інструменти часто стикаються з технічними перешкодами та блокуваннями з боку оригінальних соціальних мереж. Користувачі знову втратили анонімний доступ до публікацій.",
+      "ai_title": "Альтернативний фронтенд XCancel знову заблоковано",
+      "video_keywords": "smartphone screen, social media, internet browser, website"
+    },
+    {
+      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
+      "link": "https://screensize.net/reports/viewport-stats",
+      "summary": "<p>Article URL: <a href=\"https://screensize.net/reports/viewport-stats\">https://screensize.net/reports/viewport-stats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693226\">https://news.ycombinator.com/item?id=49693226</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
+      "published": "2026-09-14T07:35:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий аналітичний звіт демонструє реальні розміри вікон вебпереглядачів на екранах з роздільною здатністю 1080p. Дослідження базується на даних тисяч реальних користувачів та допомагає вебдизайнерам точніше налаштовувати верстку. Статистика показує, що доступна висота часто суттєво відрізняється від номінальної.",
+      "ai_title": "Дослідження реальних розмірів вікон браузерів у форматі 1080p",
+      "video_keywords": "web design, computer monitor, UI design, analytics"
     }
   ],
   "Бізнес / Стартапи": [
@@ -683,6 +713,56 @@
       "ai_summary": "Конгресмени-республіканці передали опозиції оновлений законопроєкт обсягом 635 сторінок. Документ містить етичні норми, які підтримує Дональд Трамп, напередодні ключового процедурного голосування.",
       "ai_title": "Республіканці направили демократам фінальну пропозицію щодо закону CLARITY",
       "video_keywords": "capitol building, politicians talking, government documents, voting booth"
+    },
+    {
+      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+      "summary": "",
+      "published": "2026-09-14T10:09:41+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта демонструє стійкість і зростає до 78 000 доларів, поки інвестори розпродають активи у сфері штучного інтелекту. Крипторинок тимчасово відокремився від загальних тенденцій технологічного сектора фондового ринку.",
+      "ai_title": "Біткоїн зріс до 78 000 доларів на тлі падіння акцій у сектора штучного інтелекту",
+      "video_keywords": "bitcoin chart, green candles, digital currency screen, trading terminal"
+    },
+    {
+      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
+      "summary": "",
+      "published": "2026-09-14T09:29:57+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Федеральна резервна система США, Банк Англії та Банк Японії готуються оголосити нові рішення щодо процентних ставок. Це може спричинити підвищену волатильність на ринку криптовалют найближчими днями.",
+      "ai_title": "Рішення центробанків щодо ставок та головні криптоподії тижня",
+      "video_keywords": "central bank building, financial graphs, stock market floor, banking architecture"
+    },
+    {
+      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FNBW97VVK5XYKANMB2SP3G/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act-1.jpg\" /></p><p>Bitcoin traders brace for volatility as the C",
+      "published": "2026-09-14T10:00:17+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Трейдери біткоїна готуються до різких коливань цін через наближення голосування щодо закону CLARITY Act та нових заяв Федеральної резервної системи. Тиждень обіцяє бути насиченим на регуляторні та макроекономічні новини.",
+      "ai_title": "Голосування за закон CLARITY Act та засідання ФРС: чого очікувати трейдерам",
+      "video_keywords": "us capitol building, senate courtroom, politician speaking, stock exchange monitor"
+    },
+    {
+      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+      "link": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FK6GAEQRFQBFCE1EBGAMG5/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it-1.jpg\" /></p><p>Symbiosis is offering a 20% bounty for information leading to asset rec",
+      "published": "2026-09-14T09:55:35+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Команда кросчейн-протоколу Symbiosis зуміла повернути 15 біткоїнів, викрадених під час недавньої хакерської атаки на міст. Вони готові виплатити 20% від суми як винагороду за інформацію, що допоможе остаточно повернути активи.",
+      "ai_title": "Проєкт Symbiosis повернув 15 біткоїнів після зльому мосту та пропонує винагороду",
+      "video_keywords": "hacker typing on keyboard, cybersecurity shield, digital lock, computer matrix code"
+    },
+    {
+      "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
+      "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FH25D983BQTGVJMM116BR7/hi-fintech-in-the-united-kingdom-after-brexit-fca.jpg\" /></p><p>Unnamed industry participants reportedly warned that UK fund rule uncerta",
+      "published": "2026-09-14T08:57:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Управління з фінансового регулювання Великої Британії (FCA) розглядає можливість створення спеціальних правил та винятків для фондів, що працюють із токенізованим золотом. Це має знизити невизначеність на ринку фінтех-послуг.",
+      "ai_title": "Британський регулятор розробляє нові правила для токенізованого золота",
+      "video_keywords": "gold bars vault, financial district london, banking handshake, digital gold coin"
     }
   ]
 }
