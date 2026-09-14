@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "link": "https://www.rubyhack.ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.rubyhack.ai/\">https://www.rubyhack.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 257</p>\n<p># Comments: 150</p>",
-      "published": "2026-09-11T23:17:42+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з безпеки виявили інцидент, пов'язаний із проведенням кібератаки на репозиторій RubyGems за допомогою автономних агентів OpenAI. Ця подія викликала широкий резонанс та дискусії щодо безпеки використання ШІ у кіберпросторі.",
-      "ai_title": "ШІ-агенти OpenAI здійснили неоголошену атаку на RubyGems",
-      "video_keywords": "hacker typing, computer terminal, red security alert, dark room"
-    },
-    {
       "title": "Google no longer provides direct URLs in search results",
       "link": "https://www.autom.dev/blog/google-search-goto-links",
       "summary": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 216</p>\n<p># Comments: 109</p>",
@@ -439,29 +429,39 @@
       "ai_summary": "У новому аналітичному матеріалі розглядаються масштабні наслідки стрімкого впровадження штучного інтелекту в усі сфери життя. Автор аналізує вплив технологій на ринок праці, екологію та соціальну стабільність. Дискусія навколо етичних норм стає все більш гострою на тлі неконтрольованого зростання дата-центрів.",
       "ai_title": "Чи дійсно штучний інтелект руйнує світ?",
       "video_keywords": "server racks, blinking lights, digital matrix, futuristic city"
+    },
+    {
+      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+      "link": "https://openai.com/index/better-language-models/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/better-language-models/\">https://openai.com/index/better-language-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689706\">https://news.ycombinator.com/item?id=49689706</a></p>\n<p>Points: 30</p>\n<p># Comments: 10</p>",
+      "published": "2026-09-13T23:11:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У 2019 році компанія OpenAI оголосила про рішення не публікувати повну версію мовної моделі GPT-2 через побоювання щодо її потенційного зловмисного використання. Це рішення стало важливим історичним моментом у дискусіях про етику та безпеку штучного інтелекту.",
+      "ai_title": "Чому OpenAI свого часу вирішила не випускати GPT-2 через загрози безпеці",
+      "video_keywords": "computer screen, typing keyboard, artificial intelligence, server room"
+    },
+    {
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "summary": "<p>Article URL: <a href=\"https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\">https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689048\">https://news.ycombinator.com/item?id=49689048</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-13T21:47:04+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярний месенджер Signal тестує функцію реєстрації користувачів без необхідності прив'язувати свій номер телефону. Для забезпечення безпеки та анонімності при цьому використовується криптографічна технологія доказів із нульовим розголошенням.",
+      "ai_title": "Signal запроваджує реєстрацію без номера телефону за допомогою доказів із нульовим розголошенням",
+      "video_keywords": "smartphone screen, typing message, digital privacy, cryptography symbols"
+    },
+    {
+      "title": "Why is privacy so hard?",
+      "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+      "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/\">https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688766\">https://news.ycombinator.com/item?id=49688766</a></p>\n<p>Points: 8</p>\n<p># Comments: 7</p>",
+      "published": "2026-09-13T21:13:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти аналізують причини, чому збереження конфіденційності в епоху цифрових технологій вимагає дедалі більших зусиль. З розвитком інтернету та систем збору даних захистити приватне життя стає надзвичайно складно як для звичайних користувачів, так і для розробників.",
+      "ai_title": "Чому захист персональних даних у сучасному світі став таким складним",
+      "video_keywords": "lock icon on screen, data breach, typing on laptop, security camera"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "published": "2026-09-11T22:58:17+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Молодий стартап Mecka AI близький до закриття інвестиційного раунду під керівництвом фонду Sequoia Capital, що оцінить компанію у 500 мільйонів доларів. Ажіотаж навколо компанії пов'язаний зі стрімким зростанням попиту на дані для навчання роботів.",
-      "ai_title": "Штучний інтелект для роботів: стартап Mecka залучає інвестиції на пів мільярда",
-      "video_keywords": "robotics laboratory, computer screen, artificial intelligence, data analytics"
-    },
-    {
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "What would it actually look like to \"pace the frontier\"?",
-      "published": "2026-09-12T15:52:11+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Генеральний директор компанії Anthropic поділився баченням того, як варто контролювати швидкість створення передових моделей ШІ. Новий підхід має на меті забезпечити безпеку та етичність технологій перед обличчям нестримної гонки озброєнь у галузі.",
-      "ai_title": "Anthropic розглядає стратегію стримування темпів розвитку штучного інтелекту",
-      "video_keywords": "artificial intelligence, futuristic tech, corporate meeting, modern office"
-    },
     {
       "title": "Revolut confirms customer data breach through fake government requests",
       "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
