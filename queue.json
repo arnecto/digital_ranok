@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
-      "published": "2026-09-12T16:23:40+00:00",
-      "source": "The Verge",
-      "ai_summary": "Генеральний директор Anthropic Даріо Амодеи заявив про необхідність пригальмувати гонку штучного інтелекту заради безпеки. Компанія надає незалежним експертам доступ до своїх моделей для перевірки дотримання протоколів безпеки.",
-      "ai_title": "Голова Anthropic закликає сповільнити темпи розвитку ШІ",
-      "video_keywords": "man speaking, office boardroom, presentation screen, technology meeting"
-    },
-    {
-      "title": "Make your first edit to OpenStreetMap",
-      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "summary": "<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 91</p>\n<p># Comments: 31</p>",
-      "published": "2026-09-12T16:25:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено спеціальний плагін та вебмайстер, які спрощують процес внесення перших змін і доповнень до глобальної мапи OpenStreetMap. Це рішення робить картографічний волонтерство доступнішим для новачків без глибоких технічних знань. Новинка вже привернула увагу спільноти завдяки зручному інтерфейсу.",
-      "ai_title": "Створено новий інструмент для швидкого редагування карт OpenStreetMap",
-      "video_keywords": "laptop, typing, maps, navigation, hands typing"
-    },
-    {
-      "title": "StarCraft returns in 2030 as an open-world shooter",
-      "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay, [&#8230;]",
-      "published": "2026-09-12T20:08:09+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Blizzard вирішила дати ще один шанс жанру 3D-шутерів усесвіту StarCraft після скасування проєкту StarCraft: Ghost. Нова гра під назвою StarCraft розробляється під керівництвом Дена Хея та має вийти у 2030 році.",
-      "ai_title": "StarCraft повертається у 2030 році як шутер у відкритому світі",
-      "video_keywords": "futuristic soldier, sci-fi battlefield, gaming setup, virtual reality"
-    },
-    {
-      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-      "link": "https://hachyderm.io/@simontatham/117201594980991062",
-      "summary": "<p>Article URL: <a href=\"https://hachyderm.io/@simontatham/117201594980991062\">https://hachyderm.io/@simontatham/117201594980991062</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49675902\">https://news.ycombinator.com/item?id=49675902</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
-      "published": "2026-09-12T18:58:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі виявили, що десктопний клієнт Zoom для Linux активно сканує та читає все, що користувач копіює в буфер обміну X11. Це викликає серйозні занепокоєння щодо приватності та безпеки особистих даних.",
-      "ai_title": "Клієнт Linux для Zoom зчитує вміст буфера обміну X11",
-      "video_keywords": "computer screen, programmer typing, hacker cyber attack, security alert"
-    },
-    {
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
@@ -429,19 +389,59 @@
       "ai_summary": "Компанія Google влаштувала масштабні знижки на свої нові смартфони серії Pixel 11 прямо напередодні презентації конкурента від Apple. Найбільшу знижку отримала флагманська модель Pixel 11 Pro в різних кольорових виконаннях.",
       "ai_title": "Google знижує ціни на Pixel 11 перед виходом нового iPhone",
       "video_keywords": "smartphone unboxing, holding mobile phone, retail store, tech gadget"
+    },
+    {
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "summary": "<p>Article URL: <a href=\"https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review\">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49703003\">https://news.ycombinator.com/item?id=49703003</a></p>\n<p>Points: 8</p>\n<p># Comments: 4</",
+      "published": "2026-09-14T19:56:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти порівнюють можливості нових генеративних моделей у сфері програмування. Особлива увага приділяється тому, чи здатна бюджетна модель якісно виконувати рев'ю коду.",
+      "ai_title": "GPT-5.6 проти GPT-6: чи справді дешеві моделі підходять для перевірки коду",
+      "video_keywords": "programmer coding, computer screen, lines of code, developer office"
+    },
+    {
+      "title": "Oracle's Cold 6AM Layoff Emails Hit Staff Amid New Wave of Cuts",
+      "link": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+      "summary": "<p>Article URL: <a href=\"https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676\">https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49702239\">https://news.ycombinator.com/item?id=49702239</a></p>\n<p>Points: 31</p>\n<p># Comments: 11</p>",
+      "published": "2026-09-14T19:05:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Oracle провела чергову хвилю скорочень штату на тлі масштабної реструктуризації. Працівники масово дізналися про звільнення через ранішні електронні листи.",
+      "ai_title": "Масові звільнення в Oracle: співробітники отримали листи о шостій ранку",
+      "video_keywords": "stressed employee, office desk, empty office, person reading laptop"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 229</p>\n<p># Comments: 2",
+      "published": "2026-09-14T17:50:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Apple офіційно презентувала нові версії програмного забезпечення для всіх своїх основних платформ. Користувачі вже можуть завантажити свіжі апдейти з новими функціями.",
+      "ai_title": "Apple випустила масштабні оновлення своїх операційних систем",
+      "video_keywords": "smartphone screen, typing tablet, laptop keyboard, apple device"
+    },
+    {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his [&#8230;]",
+      "published": "2026-09-14T20:03:37+00:00",
+      "source": "The Verge",
+      "ai_summary": "Генеральний директор Nvidia під час публічного виступу увімкнув гучний зв'язок на телефоні, щоб прийняти дзвінок від президента США. Під час розмови обговорювалися питання штучного інтелекту та майбутнього роботів.",
+      "ai_title": "Дженсен Хуанг зателефонував Трампу прямо на сцені",
+      "video_keywords": "stage presentation, large screen, conference audience, tech speaker"
+    },
+    {
+      "title": "Valve&#8217;s virtual reality plans hit actual reality",
+      "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+      "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody,\" Valve [&#8230;]",
+      "published": "2026-09-14T19:48:06+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Valve випустила новий пристрій віртуальної реальності, ціна якого виявилася вищою за плани розробників. Головною причиною подорожчання стали проблеми на глобальному ринку пам'яті та накопичувачів.",
+      "ai_title": "Новий VR-шолом Steam Frame коштує від 1059 доларів через дефіцит пам'яті",
+      "video_keywords": "vr headset, gaming hardware, virtual reality glasses, tech unboxing"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "summary": "Tesla’s halo sports car was first announced in November 2017.",
-      "published": "2026-09-12T19:21:19+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Ілона Маска призначила дату презентації другого покоління свого культового спортивного електрокара. Оригінальний спорткар було анонсовано ще у 2017 році, і фанати чекають на новинку вже багато років.",
-      "ai_title": "Tesla готується нарешті представити нове покоління Roadster у жовтні",
-      "video_keywords": "sports car, electric vehicle, car reveal, modern showroom"
-    },
     {
       "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
@@ -561,29 +561,39 @@
       "ai_summary": "Колишній топменеджер Spotify запустив експериментальний проєкт, який пропонує користувачам створювати музику без використання ШІ-запитів. Новий вініловий бар у Токіо та його цифрові релізи залучають аудиторію до спільного створення треків. Стартап робить ставку на справжню людську творчість замість алгоритмів.",
       "ai_title": "Музичний стартап у Шибуї випускає додатки без штучного інтелекту",
       "video_keywords": "vinyl record, turntable, DJ mixing, bar interior"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "summary": "Cornelis, a company creating networking technology to help AI chips communicate more effectively, announced Monday that it has raised $205 million.",
+      "published": "2026-09-14T20:07:37+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Cornelis залучила 205 мільйонів доларів інвестицій для розвитку мережевих технологій, які допомагають AI-чіпам ефективніше обмінюватися даними. Цей раунд фінансування спрямований на те, щоб кинути виклик домінуванню Nvidia на ринку апаратного забезпечення для штучного інтелекту.",
+      "ai_title": "Штучний інтелект: стартап Cornelis залучив $205 млн для конкуренції з Nvidia",
+      "video_keywords": "server room, data center, microchip, fiber optic cables"
+    },
+    {
+      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+      "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "summary": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "published": "2026-09-14T18:14:29+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стрімінговий сервис Prime Video додає локальні та національні новинні відеокліпи за запитом. Таким чином Amazon намагається залучити молодшу аудиторію, яка масово переходить на формати коротких відео на зразок TikTok.",
+      "ai_title": "Amazon Prime Video запускає короткі новини у стилі TikTok",
+      "video_keywords": "person swiping smartphone, watching video, streaming app interface, teenager mobile"
+    },
+    {
+      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+      "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "summary": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "published": "2026-09-14T17:41:20+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Німецький автовиробник Volkswagen розробив новий концепт електромобіля, який майже вдвічі енергоефективніший за поточного рекордсмена Lucid Air. Інженери використали нестандартні конструкторські рішення для досягнення рекордних показників запасу ходу.",
+      "ai_title": "Volkswagen створив надзвичайно ефективний електромобіль",
+      "video_keywords": "electric car driving, futuristic vehicle, car manufacturing, wind tunnel test"
     }
   ],
   "Крипта": [
-    {
-      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-      "summary": "",
-      "published": "2026-09-12T18:51:04+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Політична партія Найджела Фаража залучила рекордні 97 мільйонів доларів від двох криптоінвесторів лише за добу. Це значно посилює фінансові позиції партії та підкреслює зростаючий вплив криптовалютного капіталу на політику.",
-      "ai_title": "Британська партія Reform UK отримала $97 мільйонів від криптомільярдерів",
-      "video_keywords": "politician speaking, stacks of money, cryptocurrency coins, financial transaction"
-    },
-    {
-      "title": "OpenAI IPO won't happen this year, says Sam Altman",
-      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-      "summary": "",
-      "published": "2026-09-12T21:09:31+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Генеральний директор OpenAI Сем Альтман спростував чутки про можливе проведення первинного публічного розміщення акцій компанії у поточному році. За його словами, стартап наразі зосереджений на розвитку технологій штучного інтелекту, а не на фінансових спекуляціях. Це рішення розвіяло очікування багатьох інвесторів на ринку.",
-      "ai_title": "Сем Альтман заявив, що вихід OpenAI на біржу скасовується на цей рік",
-      "video_keywords": "business meeting, corporate office, person talking, modern boardroom"
-    },
     {
       "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
       "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
@@ -753,6 +763,56 @@
       "ai_summary": "У США узгоджено переглянуті положення щодо етики в майбутньому криптозаконопроєкті Clarity Act, які підтримав Дональд Трамп. Це може суттєво вплинути на подальший розгляд та прийняття закону в Сенаті.",
       "ai_title": "Дональд Трамп погодив нові етичні норми законопроєкту Clarity Act",
       "video_keywords": "government building, politicians talking, courtroom, legal documents"
+    },
+    {
+      "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
+      "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin tops $79K, oil falls as Trump says Iran war could end\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GMDWFDT25SQYFK0HHP7F8E/oil-bitcoin-petrol-2.jpg\" /></p><p>Bitcoin’s price rose toward $80,000 after US President Donald Trump hinted that the US-Iran war would end, pushing",
+      "published": "2026-09-14T18:56:28+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ціна біткоїна стрімко наблизилася до позначки 80 000 доларів після того, як президент США Дональд Трамп натякнув на можливе завершення конфлікту з Іраном. На тлі цих геополітичних новин також зафіксовано падіння цін на нафту.",
+      "ai_title": "Біткоїн перевищив 79 тисяч доларів на тлі заяв Трампа про завершення війни з Іраном",
+      "video_keywords": "bitcoin chart, stock market screen, digital currency, trading floor"
+    },
+    {
+      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+      "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
+      "summary": "",
+      "published": "2026-09-14T19:21:58+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Частка Дональда Трампа в криптовалютному проєкті World Liberty Financial отримала чіткий графік, коли ці активи можна буде продати. Це викликає великий інтерес у ринку та інвесторів, які стежать за розвитком проєкту.",
+      "ai_title": "Токени World Liberty Financial на 800 мільйонів доларів стануть доступними для продажу",
+      "video_keywords": "cryptocurrency coins, digital wallet, smartphone screen, business handshake"
+    },
+    {
+      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
+      "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive adds 469 Bitcoin to reach 25,000 BTC treasury\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GEQRXMNZKPZF714Z603E41/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.png\" /></p><p>Strive’s latest Bitcoin purchase was funded entirely through its SATA preferred ",
+      "published": "2026-09-14T17:50:12+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Strive придбала додаткові 469 біткоїнів, фінансуючи покупку за рахунок власних резервів. Завдяки цьому загальний обсяг криптовалюти на балансі компанії досяг значної позначки у 25 000 монет.",
+      "ai_title": "Компанія Strive збільшила свої резерви до 25 000 біткоїнів",
+      "video_keywords": "gold coins stacking, digital finance, modern office, computer monitor"
+    },
+    {
+      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+      "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+      "summary": "",
+      "published": "2026-09-14T17:51:20+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Традиційні банки активізують конкуренцію навколо винагород за стейблкоїни напередодні вирішального голосування в Сенаті щодо закону про криптовалютне регулювання. Банківський сектор намагається захистити свої позиції на тлі нових фінансових трендів.",
+      "ai_title": "Банки посилюють боротьбу за винагороди зі стейблкоїнів перед голосуванням у Сенаті",
+      "video_keywords": "banking app, credit card, atm machine, counting money"
+    },
+    {
+      "title": "CLARITY Act faces state AGs opposition ahead of key Senate vote",
+      "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act faces state AGs opposition ahead of key Senate vote\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GDBD5FKT1AWY6RJ5BB9EEC/regulation-semen-lot-of-papers-clarity-act-1.jpg\" /></p><p>Trump’s ethics concession addresses one hurdle for the crypto bill, but 18 state attorne",
+      "published": "2026-09-14T17:42:04+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ключовий законопроєкт щодо регулювання криптовалют у США зустрів опір з боку генеральних прокурорів 18 штатів. Це створює додаткові політичні перешкоди на шляху ухвалення документа в Сенаті попри інші компромісні рішення.",
+      "ai_title": "Закон про криптовалюту зіткнувся з опозицією генпрокурорів штатів перед голосуванням у Сенаті",
+      "video_keywords": "courtroom gavel, government building, legal documents, politicians meeting"
     }
   ]
 }
