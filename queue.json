@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 25</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-13T21:06:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Штучний інтелект успішно впоровся з розшифруванням складного історичного коду, який залишався нерозгаданим протягом 370 років. Це досягнення демонструє зростаючі можливості сучасних мовних моделей у вирішенні складних наукових та криптографічних задач. Подібні кейси відкривають нові перспективи для застосування ШІ в історичних та лінгвістичних дослідженнях.",
-      "ai_title": "ШІ Claude Fable 5.1 розгадав таємницю вікового шифру",
-      "video_keywords": "old book, magnifying glass, writing notes, glowing computer screen"
-    },
-    {
-      "title": "AI Is Destroying the World",
-      "link": "https://gornak40.org/blog/ai-is-destroying-the-world.html",
-      "summary": "<p>Article URL: <a href=\"https://gornak40.org/blog/ai-is-destroying-the-world.html\">https://gornak40.org/blog/ai-is-destroying-the-world.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688681\">https://news.ycombinator.com/item?id=49688681</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-13T21:04:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У новому аналітичному матеріалі розглядаються масштабні наслідки стрімкого впровадження штучного інтелекту в усі сфери життя. Автор аналізує вплив технологій на ринок праці, екологію та соціальну стабільність. Дискусія навколо етичних норм стає все більш гострою на тлі неконтрольованого зростання дата-центрів.",
-      "ai_title": "Чи дійсно штучний інтелект руйнує світ?",
-      "video_keywords": "server racks, blinking lights, digital matrix, futuristic city"
-    },
-    {
-      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
-      "link": "https://openai.com/index/better-language-models/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/better-language-models/\">https://openai.com/index/better-language-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689706\">https://news.ycombinator.com/item?id=49689706</a></p>\n<p>Points: 30</p>\n<p># Comments: 10</p>",
-      "published": "2026-09-13T23:11:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У 2019 році компанія OpenAI оголосила про рішення не публікувати повну версію мовної моделі GPT-2 через побоювання щодо її потенційного зловмисного використання. Це рішення стало важливим історичним моментом у дискусіях про етику та безпеку штучного інтелекту.",
-      "ai_title": "Чому OpenAI свого часу вирішила не випускати GPT-2 через загрози безпеці",
-      "video_keywords": "computer screen, typing keyboard, artificial intelligence, server room"
-    },
-    {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "<p>Article URL: <a href=\"https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\">https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689048\">https://news.ycombinator.com/item?id=49689048</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-13T21:47:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярний месенджер Signal тестує функцію реєстрації користувачів без необхідності прив'язувати свій номер телефону. Для забезпечення безпеки та анонімності при цьому використовується криптографічна технологія доказів із нульовим розголошенням.",
-      "ai_title": "Signal запроваджує реєстрацію без номера телефону за допомогою доказів із нульовим розголошенням",
-      "video_keywords": "smartphone screen, typing message, digital privacy, cryptography symbols"
-    },
-    {
-      "title": "Why is privacy so hard?",
-      "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
-      "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/\">https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688766\">https://news.ycombinator.com/item?id=49688766</a></p>\n<p>Points: 8</p>\n<p># Comments: 7</p>",
-      "published": "2026-09-13T21:13:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти аналізують причини, чому збереження конфіденційності в епоху цифрових технологій вимагає дедалі більших зусиль. З розвитком інтернету та систем збору даних захистити приватне життя стає надзвичайно складно як для звичайних користувачів, так і для розробників.",
-      "ai_title": "Чому захист персональних даних у сучасному світі став таким складним",
-      "video_keywords": "lock icon on screen, data breach, typing on laptop, security camera"
-    },
-    {
       "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
       "link": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
       "summary": "<p>Article URL: <a href=\"https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html\">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691584\">https://news.ycombinator.com/item?id=49691584</",
@@ -399,39 +349,29 @@
       "ai_summary": "На ринку з'явилася вигідна пропозиція для любителів тривимірного друку: модель Elegoo Centauri Carbon 2 Combo продається зі знижкою майже в 100 доларів. Цей пристрій підтримує одночасну роботу з чотирма котушками пластику, що робить його чудовим вибором для новачків.",
       "ai_title": "Популярний 3D-принтер для початківців суттєво подешевшав",
       "video_keywords": "3d printer working, melting plastic filament, manufacturing machine"
+    },
+    {
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the [&#8230;]",
+      "published": "2026-09-15T20:36:59+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Microsoft готується провести першу за два роки велику подію, присвячену майбутньому операційної системи Windows та пристроїв Surface. Очікується, що головною темою стане інтеграція локального штучного інтелекту в нові гаджети.",
+      "ai_title": "Microsoft анонсувала презентацію Windows та Surface на 7 жовтня",
+      "video_keywords": "laptop, office presentation, tech event, modern computer"
+    },
+    {
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "summary": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 75</p>\n<p># Comments: 13</p>",
+      "published": "2026-09-15T21:07:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Німецький оборонний концерн Rheinmetall опублікував документацію та відкрив доступ до протоколу своєї інтегрованої зброєвої системи Battlesuite. Цей крок дозволяє розробникам та партнерам глибше ознайомитися з архітектурою сучасних військових технологій.",
+      "ai_title": "Rheinmetall відкриває вихідний код протоколу військової системи Battlesuite",
+      "video_keywords": "military technology, computer screen, software code, engineer working"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
-      "published": "2026-09-13T21:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Попри загальний тренд венчурного ринку вкладати всі кошти в лідерів штучного інтелекту на кшталт OpenAI та Anthropic, гігант Insight Partners свідомо обирає стратегію диверсифікації. Керівник компанії Девін Парек пояснює, чому збереження часток у різних конкуруючих AI-стартапах є безпечнішим підходом.",
-      "ai_title": "Чому фонд Insight Partners відмовляється ставити лише на OpenAI",
-      "video_keywords": "business meeting, financial charts, office handshake, diverse team"
-    },
-    {
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "published": "2026-09-13T20:49:38+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Мільярдер та засновник Oracle Ларрі Еллісон вирішив не продавати 50 мільйонів власних акцій компанії. Раніше планувалося здійснити масштабний продаж пакета цінних паперів на суму близько 7,5 мільярда доларів.",
-      "ai_title": "Ларрі Еллісон раптово скасував продаж акцій Oracle на 7,5 мільярда",
-      "video_keywords": "stock market, trading floor, financial graphs, computer screens"
-    },
-    {
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "published": "2026-09-13T20:28:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Провідні венчурні інвестори обрали найперспективніші проєкти з літнього набору акселератора Y Combinator. Серед фаворитів експертів опинилися такі незвичні розробки, як плавучі ядерні реактори та інноваційні мозкові чипи.",
-      "ai_title": "Найцікавіші стартапи останнього Demo Day від Y Combinator",
-      "video_keywords": "futuristic laboratory, microchip manufacturing, renewable energy, modern tech startup"
-    },
     {
       "title": "Waymo opens robotaxi service in Las Vegas",
       "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
@@ -621,6 +561,26 @@
       "ai_summary": "З'явився спеціальний інструмент, який дозволяє штучному інтелекту анонімно повідомляти владу про порушення та неадекватну поведінку інших систем. Це новий крок у сфері безпеки та етичного нагляду за автономними алгоритмами.",
       "ai_title": "Створено гарячу лінію для «доносів» від автономних агентів зі штучним інтелектом",
       "video_keywords": "futuristic AI interface, typing on laptop, digital security, glowing code screen"
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "published": "2026-09-15T21:47:38+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Плани будівництва нових дата-центрів для штучного інтелекту зіштовхнулися з опором місцевих жителів. У Філадельфії влада запропонувала звести такий об'єкт на території колишнього нафтопереробного заводу, що викликало хвилю обурення серед мешканців.",
+      "ai_title": "Бум дата-центрів штучного інтелекту викликає протести у містах",
+      "video_keywords": "data center servers, urban protest, industrial ruins, city skyline"
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "published": "2026-09-15T20:12:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Meta випустила новий MCP-сервер для WhatsApp Business, який дозволяє розробникам використовувати штучний інтелект для автоматизації налаштування, створення шаблонів повідомлень та тестування. Це значно спрощує рутинні технічні завдання для бізнесу.",
+      "ai_title": "Meta дозворила ШT-агентам налаштовувати WhatsApp Business",
+      "video_keywords": "person typing code, laptop screen, developer working, office workspace"
     }
   ],
   "Крипта": [
@@ -1003,6 +963,36 @@
       "ai_summary": "Криптовалютна біржа Binance розширила можливості для інвесторів, додавши до своєї платформи управління капіталом біржові фонди, зареєстровані в США. Крок спрямований на зближення традиційних фінансових інструментів та криптоактивів.",
       "ai_title": "Binance інтегрувала 11 американських ETF у свій сервіс управління багатством",
       "video_keywords": "smartphone with trading app, cryptocurrency exchange, financial dashboard, modern technology"
+    },
+    {
+      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
+      "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks slide after CLARITY Act fails to advance in Senate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png\" /></p><p>Circle and Coinbase shares fell about 10% as the failed Senate vote weighed on crypto-linked equities, with Bitcoi",
+      "published": "2026-09-15T20:37:34+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Акції провідних криптокомпаній, зокрема Coinbase та Circle, обвалилися приблизно на 10% після того, як Сенат США відмовився просувати законопроєкт CLARITY Act. Це невдале голосування одразу негативно позначилося на всьому ринку пов'язаних із криптовалютою цінних паперів.",
+      "ai_title": "Криптоакції різко впали після провалу закону про регулювання в Сенаті",
+      "video_keywords": "stock market crash, downward financial chart, trading floor panic, digital graphs"
+    },
+    {
+      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+      "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS paper finds major gap in Bitcoin onchain transfer estimates\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KD2EQC101MZQX67TJ3JJQB/hi-statistical-indicators-for-crypto-investments.png\" /></p><p>A BIS study found widely used crypto metrics can obscure economic activity, with mea",
+      "published": "2026-09-15T21:23:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Новий звіт Банку міжнародних розрахунків (BIS) показав, що популярні метрики для оцінки криптовалютних переказів можуть спотворювати реальну економічну активність. Це вказує на брак точних інструментів для аналізу блокчейн-даних та інвестицій.",
+      "ai_title": "Дослідження BIS виявило серйозні похибки в оцінці транзакцій Bitcoin",
+      "video_keywords": "data analysis charts, financial graphs on screen, modern office analytics, digital database"
+    },
+    {
+      "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+      "summary": "",
+      "published": "2026-09-15T21:58:48+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Процес прийняття закону CLARITY Act зіткнувся з безліччю політичних перешкод та розбіжностей серед законодавців. Це гальмує створення чітких правил гри для криптоіндустрії та викликає занепокоєння урядових експертів.",
+      "ai_title": "Чому буксує ухвалення закону про криптовалютну прозорість",
+      "video_keywords": "politicians in parliament, government building, meeting room discussion, legal documents"
     }
   ]
 }
