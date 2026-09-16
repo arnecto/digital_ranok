@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "link": "https://github.com/anuj0456/OpenArch",
-      "summary": "<p>Article URL: <a href=\"https://github.com/anuj0456/OpenArch\">https://github.com/anuj0456/OpenArch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693384\">https://news.ycombinator.com/item?id=49693384</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
-      "published": "2026-09-14T07:55:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт OpenArch пропонує розробникам та дослідникам відкриті реалізації найсучасніших архітектур великих мовних моделей на базі фреймворку PyTorch. Це дозволяє глибше вивчати внутрішню бустройку штучного інтелекту та експериментувати з власними нейромережами. Репозиторій слугує зручним інструментом для практичного освоєння сучасних трендів у сфері генеративного ШІ.",
-      "ai_title": "OpenArch: відкриті реалізації сучасних архітектур LLM на PyTorch",
-      "video_keywords": "programmer typing, computer screen, code, artificial intelligence"
-    },
-    {
-      "title": "A 386 PC for Your RP2350",
-      "link": "https://github.com/rh1tech/frank-386",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rh1tech/frank-386\">https://github.com/rh1tech/frank-386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693613\">https://news.ycombinator.com/item?id=49693613</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
-      "published": "2026-09-14T08:25:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіасти створили проєкт, який дозволяє запустити архітектуру класичного ПК 386 на сучасному мікроконтролері RP2350. Це цікавий приклад поєднання ретрокомп'ютингу з новітнім «залізом», що демонструє гнучкість сучасних мікросхем. Розробка приваблює увагу любителів нестандартних апаратних експериментів.",
-      "ai_title": "Запуск процесора 386 на мікроконтролері RP2350",
-      "video_keywords": "circuit board, microchip, soldering, electronics"
-    },
-    {
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "link": "https://www.eurobirdportal.org/ebp/en/",
-      "summary": "<p>Article URL: <a href=\"https://www.eurobirdportal.org/ebp/en/\">https://www.eurobirdportal.org/ebp/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693610\">https://news.ycombinator.com/item?id=49693610</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
-      "published": "2026-09-14T08:25:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інтерактивна платформа EuroBirdPortal дозволяє спостерігати за пересуванням птахів по всій території Європи в режимі реального часу. Проєкт агрегує величезні масиви даних від спостерігачів та дослідників дикої природи. Візуалізація допомагає краще розуміти екологічні процеси та міграційні маршрути тварин.",
-      "ai_title": "EuroBirdPortal: моніторинг міграції птахів у реальному часі в Європі",
-      "video_keywords": "flying birds, flock of birds, sky, nature"
-    },
-    {
-      "title": "XCancel Taken Down Again",
-      "link": "https://xcancel.com/",
-      "summary": "<p>Article URL: <a href=\"https://xcancel.com/\">https://xcancel.com/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694296\">https://news.ycombinator.com/item?id=49694296</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-      "published": "2026-09-14T09:51:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярний сервіс XCancel, який забезпечував зручний перегляд платформи X (колишній Twitter) без необхідності реєстрації, знову припинив роботу. Подібні інструменти часто стикаються з технічними перешкодами та блокуваннями з боку оригінальних соціальних мереж. Користувачі знову втратили анонімний доступ до публікацій.",
-      "ai_title": "Альтернативний фронтенд XCancel знову заблоковано",
-      "video_keywords": "smartphone screen, social media, internet browser, website"
-    },
-    {
-      "title": "Show HN: 1080p is 920px tall – 1k real browser viewports",
-      "link": "https://screensize.net/reports/viewport-stats",
-      "summary": "<p>Article URL: <a href=\"https://screensize.net/reports/viewport-stats\">https://screensize.net/reports/viewport-stats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693226\">https://news.ycombinator.com/item?id=49693226</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
-      "published": "2026-09-14T07:35:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий аналітичний звіт демонструє реальні розміри вікон вебпереглядачів на екранах з роздільною здатністю 1080p. Дослідження базується на даних тисяч реальних користувачів та допомагає вебдизайнерам точніше налаштовувати верстку. Статистика показує, що доступна висота часто суттєво відрізняється від номінальної.",
-      "ai_title": "Дослідження реальних розмірів вікон браузерів у форматі 1080p",
-      "video_keywords": "web design, computer monitor, UI design, analytics"
-    },
-    {
-      "title": "\"It’s not a bureaucracy problem, it’s a war problem\": what Europe gets wrong about Ukrainian deftech founders",
-      "link": "https://en.ain.ua/2026/09/14/what-europe-gets-wrong-about-ukrainian-deftech-founders/",
-      "summary": "Fergus O'Sullivan is an editor at Startup Kitchen who reports from both Prague and Ukraine. AIN team met him during the Global Tech Kharkiv 2026 conference. He shared his insights on why Ukrainian deftech is miles ahead of Europe and what Western investors still misunderstand about running a business during the war.",
-      "published": "2026-09-14T16:20:48+00:00",
-      "source": "",
-      "ai_summary": "Експерти зазначають, що українські розробки у сфері оборонних технологій значно випереджають європейські через реалії повномасштабної війни. Західні інвестори часто помилково сприймають специфіку ведення бізнесу в умовах бойових дій крізь призму звичайної бюрократії.",
-      "ai_title": "Чому Європа не розуміє українських засновників у сфері DefTech",
-      "video_keywords": "military drone, control room, office meeting, computer screen"
-    },
-    {
       "title": "Anthropic tells investors it will be profitable for second straight quarter",
       "link": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
       "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/\">https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49698936\">https://news.ycombina",
@@ -389,6 +329,36 @@
       "ai_summary": "Інструмент Datamimic допомагає розробникам контролювати середовища для тестування, які генерують штучні інтелекти. Це запобігає появі помилок і гарантує, що код перевіряється в реалістичних умовах. Рішення підвищує надійність автоматизованої розробки.",
       "ai_title": "Datamimic: як запобігти створенню вигаданих тестових середовищ агентами програмування",
       "video_keywords": "computer screen, programming code, software developer, typing keyboard"
+    },
+    {
+      "title": "Learning Programming in an Age of LLMs",
+      "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "summary": "<p>Article URL: <a href=\"https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/\">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723873\">https://news.ycombinator.com/item?id=49723873</a></p>\n<p>Points: 61</p>\n<p># Comments: 37</p>",
+      "published": "2026-09-16T09:12:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Поява потужних мовних моделей (LLM) докорінно змінює підходи до написання коду та навчання програмістів. Експерти аналізують, які навички стають ключовими для новачків, а які традиційні підходи втрачають актуальність. Тепер фокус зміщується з ручного написання синтаксису на архітектуру рішень та вміння ставити завдання штучному інтелекту.",
+      "ai_title": "Як вивчати програмування в епоху штучного інтелекту",
+      "video_keywords": "person typing on laptop, coder at desk, multiple monitors code"
+    },
+    {
+      "title": "Meta is reportedly ready to launch less pervy smart glasses",
+      "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+      "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta [&#8230;]",
+      "published": "2026-09-16T08:54:46+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Meta планує представити нову модель розумних окулярів під кодовою назвою Luna, які взагалі не матимуть вбудованої камери. Такий крок є спробою вирішити репутаційну кризи через занепокоєння користувачів щодо приватності та постійного відеозапису флагманськими пристроями. Новинка має змінити фокус уваги ринку на аудіофункції та доповнену реальність без ризиків для конфіденційності.",
+      "ai_title": "Meta готує до випуску розумні окуляри без камери",
+      "video_keywords": "smart glasses, person wearing glasses, technology device close up"
+    },
+    {
+      "title": "Salesforce Global Outage",
+      "link": "https://status.salesforce.com/products/all",
+      "summary": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+      "published": "2026-09-16T10:37:08+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі по всьому світу зіткнулися з масовими перебоями в роботі хмарної платформи Salesforce. Інженери компанії оперативно працюють над усуненням неполадок та відновленням повної функціональності систем. Статус інциденту відстежується на офіційній сторінці моніторингу сервісу.",
+      "ai_title": "Глобальний збій у роботі сервісів Salesforce",
+      "video_keywords": "server room, data center lights, IT technician working computer"
     }
   ],
   "Бізнес / Стартапи": [
@@ -601,49 +571,19 @@
       "ai_summary": "Генеральний директор Nvidia Дженсен Хуан заявив, що штучний інтелект не є чимось небезпечним і незбагненним, а є звичайним поєднанням апаратного та програмного забезпечення. На його думку, питання безпеки мають вирішувати самі розробники продуктів, а не державні регулятори.",
       "ai_title": "Голова Nvidia виступив проти жорсткого регулювання штучного інтелекту",
       "video_keywords": "tech conference, server room, microchip, businessman speaking"
+    },
+    {
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
+      "published": "2026-09-16T10:34:47+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Amazon відкрила ранній доступ до свого нового асистента Alexa+ для всіх користувачів в Індії. Головною особливістю запуску стала повноцінна підтримка місцевої мови гінді, що має розширити аудиторію сервісу.",
+      "ai_title": "Amazon запускає штучний інтелект Alexa+ в Індії з підтримкою гінді",
+      "video_keywords": "woman using smartphone, smart speaker, indian market, voice assistant"
     }
   ],
   "Крипта": [
-    {
-      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-      "summary": "",
-      "published": "2026-09-14T09:29:57+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Федеральна резервна система США, Банк Англії та Банк Японії готуються оголосити нові рішення щодо процентних ставок. Це може спричинити підвищену волатильність на ринку криптовалют найближчими днями.",
-      "ai_title": "Рішення центробанків щодо ставок та головні криптоподії тижня",
-      "video_keywords": "central bank building, financial graphs, stock market floor, banking architecture"
-    },
-    {
-      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FNBW97VVK5XYKANMB2SP3G/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act-1.jpg\" /></p><p>Bitcoin traders brace for volatility as the C",
-      "published": "2026-09-14T10:00:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Трейдери біткоїна готуються до різких коливань цін через наближення голосування щодо закону CLARITY Act та нових заяв Федеральної резервної системи. Тиждень обіцяє бути насиченим на регуляторні та макроекономічні новини.",
-      "ai_title": "Голосування за закон CLARITY Act та засідання ФРС: чого очікувати трейдерам",
-      "video_keywords": "us capitol building, senate courtroom, politician speaking, stock exchange monitor"
-    },
-    {
-      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
-      "link": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FK6GAEQRFQBFCE1EBGAMG5/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it-1.jpg\" /></p><p>Symbiosis is offering a 20% bounty for information leading to asset rec",
-      "published": "2026-09-14T09:55:35+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Команда кросчейн-протоколу Symbiosis зуміла повернути 15 біткоїнів, викрадених під час недавньої хакерської атаки на міст. Вони готові виплатити 20% від суми як винагороду за інформацію, що допоможе остаточно повернути активи.",
-      "ai_title": "Проєкт Symbiosis повернув 15 біткоїнів після зльому мосту та пропонує винагороду",
-      "video_keywords": "hacker typing on keyboard, cybersecurity shield, digital lock, computer matrix code"
-    },
-    {
-      "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
-      "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FH25D983BQTGVJMM116BR7/hi-fintech-in-the-united-kingdom-after-brexit-fca.jpg\" /></p><p>Unnamed industry participants reportedly warned that UK fund rule uncerta",
-      "published": "2026-09-14T08:57:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Управління з фінансового регулювання Великої Британії (FCA) розглядає можливість створення спеціальних правил та винятків для фондів, що працюють із токенізованим золотом. Це має знизити невизначеність на ринку фінтех-послуг.",
-      "ai_title": "Британський регулятор розробляє нові правила для токенізованого золота",
-      "video_keywords": "gold bars vault, financial district london, banking handshake, digital gold coin"
-    },
     {
       "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
       "link": "https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1043,6 +983,56 @@
       "ai_summary": "Біткоїн-фонди зіткнулися з найбільшим відтоком капіталу з червня на тлі загального падіння курсу першої криптовалюти на 2,5%. Зневіра інвесторів посилилася на фоні політичного заблокування закону Clarity Act.",
       "ai_title": "Біткоїн-ETF втратили рекордні $450 мільйонів за день",
       "video_keywords": "bank vault money, digital wallet screen, financial panic trading"
+    },
+    {
+      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+      "summary": "",
+      "published": "2026-09-16T10:48:44+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Біткоин-фонди зазнали значного відтоку капіталу на тлі невдалих спроб ухвалити законопроєкт Clarity Act. Це негативно вплинуло на настрої інвесторів та загальний попит на криптовалюту в США.",
+      "ai_title": "Біткоин-ETF втратили $450 мільйонів через зрив закону про крипторинку",
+      "video_keywords": "stock exchange, financial chart, declining graph, computer screen"
+    },
+    {
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
+      "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+      "summary": "",
+      "published": "2026-09-16T10:46:28+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Один із найбільших банків Німеччини наближається до офіційного запуску послуг кастодіального зберігання криптовалют. Це свідчить про поступову інтеграцію цифрових активів у традиційну банківську систему.",
+      "ai_title": "Deutsche Bank готується запустити криптозберігання для інституційних клієнтів",
+      "video_keywords": "modern bank building, businessman in suit, financial district, handshake"
+    },
+    {
+      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+      "link": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
+      "summary": "",
+      "published": "2026-09-16T10:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Circle представила нову блокчейн-платформу Arc, яку керівництво вважає революційним кроком для індустрії. Запуск проєкту може суттєво зміцнити позиції компанії на ринку цифрових активів.",
+      "ai_title": "Circle анонсувала блокчейн Arc, який обіцяє перевершити USDC",
+      "video_keywords": "futuristic technology, glowing data streams, server room, digital code"
+    },
+    {
+      "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
+      "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MSJ3ZZE5XE62YVC9G3G4Q9/ethiopia-background.png\" /></p><p>Bitcoin miners generated 35% of the state-owned power producer’s revenue last year, but declining res",
+      "published": "2026-09-16T10:11:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Через дефіцит гідроелектроенергії влада Ефіопії була змушена різко обмежити енергопостачання криптоферм. Це створює серйозні проблеми для майнінгової індустрії, яка приносила значну частину державного доходу.",
+      "ai_title": "Ефіопія скоротила постачання електроенергії для майнерів біткоїна на 77%",
+      "video_keywords": "hydroelectric dam, power plant, electricity transformers, industrial machinery"
+    },
+    {
+      "title": "ECB seeks online merchants for 2027 digital euro pilot",
+      "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB seeks online merchants for 2027 digital euro pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MM52JKJD0W2B0RMKWYF0RK/euro-pilot.png\" /></p><p>Euro-area online and mobile merchants can apply until Oct. 27 to test beta digital euro payments in a 12-month pilot.</p>",
+      "published": "2026-09-16T08:36:44+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Європейський центральний банк запрошує інтернет-магазини взяти участь у тестуванні платежів у цифровому євро. Пілотний проєкт триватиме рік і стане важливим кроком до можливого введення нової валюти.",
+      "ai_title": "ЄЦБ шукає онлайн-продавців для пілотного тестування цифрового євро у 2027 році",
+      "video_keywords": "online shopping, credit card payment, smartphone ecommerce, European flag"
     }
   ]
 }
