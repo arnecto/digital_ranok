@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
-      "link": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
-      "summary": "<p>Article URL: <a href=\"https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html\">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691584\">https://news.ycombinator.com/item?id=49691584</",
-      "published": "2026-09-14T03:26:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У мережі з'явилися дані понад 7,3 мільйона користувачів популярного шахового порталу Chess.com. Звіт свідчить, що інцидент стався внаслідок масового автоматизованого збору даних (парсингу), що ставить під загрозу конфіденційність гравців.",
-      "ai_title": "Витік даних на Chess.com: понад 7 мільйонів акаунтів опинилися під загрозою через парсинг",
-      "video_keywords": "computer screen, hacker typing, data breach, dashboard security"
-    },
-    {
       "title": "OpenArch – PyTorch implementations of modern LLM architectures",
       "link": "https://github.com/anuj0456/OpenArch",
       "summary": "<p>Article URL: <a href=\"https://github.com/anuj0456/OpenArch\">https://github.com/anuj0456/OpenArch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693384\">https://news.ycombinator.com/item?id=49693384</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
@@ -389,6 +379,16 @@
       "ai_summary": "Нові опитування громадської думки показують, що більшість виборців негативно ставляться до будівництва енергоємних дата-центрів для підтримки технологій штучного інтелекту. Політики змушені реагувати на це зростаюче невдоволення місцевих громад.",
       "ai_title": "Суспільство виступає проти масового будівництва дата-центрів для штучного інтелекту",
       "video_keywords": "data center, server room, server racks, electronics"
+    },
+    {
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "link": "https://github.com/rapiddweller/datamimic",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rapiddweller/datamimic\">https://github.com/rapiddweller/datamimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722276\">https://news.ycombinator.com/item?id=49722276</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-16T04:58:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інструмент Datamimic допомагає розробникам контролювати середовища для тестування, які генерують штучні інтелекти. Це запобігає появі помилок і гарантує, що код перевіряється в реалістичних умовах. Рішення підвищує надійність автоматизованої розробки.",
+      "ai_title": "Datamimic: як запобігти створенню вигаданих тестових середовищ агентами програмування",
+      "video_keywords": "computer screen, programming code, software developer, typing keyboard"
     }
   ],
   "Бізнес / Стартапи": [
@@ -604,16 +604,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
-      "summary": "",
-      "published": "2026-09-14T10:09:41+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта демонструє стійкість і зростає до 78 000 доларів, поки інвестори розпродають активи у сфері штучного інтелекту. Крипторинок тимчасово відокремився від загальних тенденцій технологічного сектора фондового ринку.",
-      "ai_title": "Біткоїн зріс до 78 000 доларів на тлі падіння акцій у сектора штучного інтелекту",
-      "video_keywords": "bitcoin chart, green candles, digital currency screen, trading terminal"
-    },
     {
       "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
       "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
@@ -1013,6 +1003,46 @@
       "ai_summary": "Процес прийняття закону CLARITY Act зіткнувся з безліччю політичних перешкод та розбіжностей серед законодавців. Це гальмує створення чітких правил гри для криптоіндустрії та викликає занепокоєння урядових експертів.",
       "ai_title": "Чому буксує ухвалення закону про криптовалютну прозорість",
       "video_keywords": "politicians in parliament, government building, meeting room discussion, legal documents"
+    },
+    {
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "summary": "",
+      "published": "2026-09-16T04:07:27+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Через провал законопроєкту Clarity Act у Сенаті ринок криптовалют зазнав різкого падіння. Це призвело до масового закриття довгих позицій трейдерів на суму понад пів мільярда доларів.",
+      "ai_title": "Масштабна ліквідація криптопозицій на $570 мільйонів через зрив закону Clarity Act",
+      "video_keywords": "stock market crash, red numbers screen, trading charts falling"
+    },
+    {
+      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "summary": "",
+      "published": "2026-09-16T03:37:45+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалюта XRP втратила десяту частину своєї вартості на тлі невдачі із законопроєктом Clarity Act. Додатковий тиск на ринок спричинило падіння біткоїна до позначки 76 000 доларів.",
+      "ai_title": "Токен XRP обвалився на 10% на тлі загального падіння ринку",
+      "video_keywords": "cryptocurrency chart, digital coin dropping, financial graph decline"
+    },
+    {
+      "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+      "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US charges ex-Robinhood engineers over alleged pre-listing crypto trades\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M8HWQ07R687KWZ453KRC67/doj-us.png\" /></p><p>The former employees allegedly earned more than $50,000 each by trading Hyperliquid perpetuals ahead of Robinhood tok",
+      "published": "2026-09-16T04:48:20+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Колишніх інженерів компанії звинуватили у незаконній торгівлі криптоактивами до їхнього офіційного лістингу. За попередніми даними, кожен із фігурантів заробив понад 50 000 доларів наперед знаючи про нові запуски.",
+      "ai_title": "США висунули звинувачення експрацівникам Robinhood за інсайдерську торгівлю",
+      "video_keywords": "courtroom gavel, handcuffs on table, law enforcement badge"
+    },
+    {
+      "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs shed $450M in biggest outflow since June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg\" /></p><p>The $450 million withdrawal came as Bitcoin fell 2.5% and the CLARITY Act failed to advance in the Senate, with Fidelity and Blac",
+      "published": "2026-09-16T04:05:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Біткоїн-фонди зіткнулися з найбільшим відтоком капіталу з червня на тлі загального падіння курсу першої криптовалюти на 2,5%. Зневіра інвесторів посилилася на фоні політичного заблокування закону Clarity Act.",
+      "ai_title": "Біткоїн-ETF втратили рекордні $450 мільйонів за день",
+      "video_keywords": "bank vault money, digital wallet screen, financial panic trading"
     }
   ]
 }
