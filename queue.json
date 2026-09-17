@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Jev: New frontier model 40-400x cheaper and 20-200x faster",
-      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 110</p>\n<p># Comments: 22</p>",
-      "published": "2026-09-15T19:25:03+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили нову базову модель штучного інтелекту Jev, яка вражає своїми технічними характеристиками. Вона виявилася у 40-400 разів дешевшою та у 20-200 разів швидшою за попередні покоління фронтирних моделей.",
-      "ai_title": "Революційна модель Jev працює в сотні разів швидше та дешевше за аналоги",
-      "video_keywords": "futuristic server room, flashing lights, microchip, fast typing"
-    },
-    {
-      "title": "Microsoft announces Windows and Surface event for October 7th",
-      "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-      "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the [&#8230;]",
-      "published": "2026-09-15T20:36:59+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Microsoft готується провести першу за два роки велику подію, присвячену майбутньому операційної системи Windows та пристроїв Surface. Очікується, що головною темою стане інтеграція локального штучного інтелекту в нові гаджети.",
-      "ai_title": "Microsoft анонсувала презентацію Windows та Surface на 7 жовтня",
-      "video_keywords": "laptop, office presentation, tech event, modern computer"
-    },
-    {
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "summary": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 75</p>\n<p># Comments: 13</p>",
-      "published": "2026-09-15T21:07:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Німецький оборонний концерн Rheinmetall опублікував документацію та відкрив доступ до протоколу своєї інтегрованої зброєвої системи Battlesuite. Цей крок дозволяє розробникам та партнерам глибше ознайомитися з архітектурою сучасних військових технологій.",
-      "ai_title": "Rheinmetall відкриває вихідний код протоколу військової системи Battlesuite",
-      "video_keywords": "military technology, computer screen, software code, engineer working"
-    },
-    {
-      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-      "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-      "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger [&#8230;]",
-      "published": "2026-09-16T01:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Canon анонсувала друге покоління своєї легкої повнокадрової камери EOS R8 з ретро-дизайном та вбудованою стабілізацією зображення. Це оновлення усуває головний недолік попередньої моделі, роблячи пристрій привабливішим для фотографів.",
-      "ai_title": "Canon представила повнокадрову камеру EOS R8 Mark II",
-      "video_keywords": "camera, photography, lens, digital camera"
-    },
-    {
       "title": "AI and data centers are incredibly unpopular in every poll",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
@@ -359,39 +319,49 @@
       "ai_summary": "Стартап представив інструмент Skillsync, який дозволяє легко переносити контекст розмов із штучним інтелектом між різними агентами для кодування. Це вирішує проблему розсіяних локальних чатів та різних форматів зберігання даних у різних програмах. Розробники тепер можуть вільно перемикатися між інструментами без втрати робочого контексту.",
       "ai_title": "Skillsync: переносні чат-сесії між різними AI-агентами",
       "video_keywords": "developer working, dual monitors, typing on keyboard, software interface"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "summary": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-2-27b\">https://prismml.com/news/bonsai-2-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746618\">https://news.ycombinator.com/item?id=49746618</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+      "published": "2026-09-17T21:13:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Представлено нову модель Bonsai 2 27B, яка забезпечує стиснення майже без втрати якості у дев'ять разів меншому обсязі. Це значний прорив для оптимізації штучного інтелекту, що дозволяє запускати потужні моделі на менш ресурсоємному залізі.",
+      "ai_title": "Bonsai 2 27B: надзвичайно ефективне стиснення моделей",
+      "video_keywords": "computer screen, data visualization, server rack, microchip"
+    },
+    {
+      "title": "Bend",
+      "link": "https://bend-lang.com/",
+      "summary": "<p>Article URL: <a href=\"https://bend-lang.com/\">https://bend-lang.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746163\">https://news.ycombinator.com/item?id=49746163</a></p>\n<p>Points: 128</p>\n<p># Comments: 47</p>",
+      "published": "2026-09-17T20:36:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова мова програмування Bend привертає увагу розробників завдяки своїй здатності ефективно виконувати масово паралельні обчислення. Вона розроблена для сучасних багатоядерних систем і відкриває нові можливості у створенні продуктивного програмного забезпечення.",
+      "ai_title": "Мова програмування Bend для паралельних обчислень",
+      "video_keywords": "typing on keyboard, glowing code, programmer working, dual monitors"
+    },
+    {
+      "title": "Astra for Law",
+      "link": "https://openai.com/index/astra-for-law/",
+      "summary": "<p>Article URL: <a href=\"https://openai.com/index/astra-for-law/\">https://openai.com/index/astra-for-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745940\">https://news.ycombinator.com/item?id=49745940</a></p>\n<p>Points: 146</p>\n<p># Comments: 122</p>",
+      "published": "2026-09-17T20:17:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "OpenAI представила новий продукт Astra for Law, орієнтований на юридичну сферу та автоматизацію правових завдань. Це рішення покликане спростити роботу юристів за допомогою штучного інтелекту, прискоривши аналіз документів та пошук прецедентів.",
+      "ai_title": "OpenAI запускає спеціалізоване рішення Astra for Law",
+      "video_keywords": "law books, gavel, modern office, person using laptop"
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
+      "published": "2026-09-17T19:28:24+00:00",
+      "source": "The Verge",
+      "ai_summary": "Провідні американські AI-компанії публічно заявляють про необхідність зменшити темпи розробки заради безпеки. Після попереджень про загрози від неконтрольованих агентів галузь починає переходити від девізу швидкого створення до більш обережного підходу.",
+      "ai_title": "Сповільнення гонки штучного суперінтелекту",
+      "video_keywords": "futuristic city, glowing neural network, server room, businessman thinking"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "published": "2026-09-15T19:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Аналіз найгромкіших провалів у сфері штучного інтелекту демонструє складнощі ринку. Навіть такі технологічні гіганти, як Apple та OpenAI, стикаються з серйозними затримками та невдалими запусками продуктів.",
-      "ai_title": "Кладовище штучного інтелекту: чому закриваються гучні AI-стартапи",
-      "video_keywords": "server room, broken computer, digital graveyard, office frustration"
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "published": "2026-09-15T21:47:38+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Плани будівництва нових дата-центрів для штучного інтелекту зіштовхнулися з опором місцевих жителів. У Філадельфії влада запропонувала звести такий об'єкт на території колишнього нафтопереробного заводу, що викликало хвилю обурення серед мешканців.",
-      "ai_title": "Бум дата-центрів штучного інтелекту викликає протести у містах",
-      "video_keywords": "data center servers, urban protest, industrial ruins, city skyline"
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "published": "2026-09-15T20:12:53+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Meta випустила новий MCP-сервер для WhatsApp Business, який дозволяє розробникам використовувати штучний інтелект для автоматизації налаштування, створення шаблонів повідомлень та тестування. Це значно спрощує рутинні технічні завдання для бізнесу.",
-      "ai_title": "Meta дозворила ШT-агентам налаштовувати WhatsApp Business",
-      "video_keywords": "person typing code, laptop screen, developer working, office workspace"
-    },
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
@@ -686,39 +656,49 @@
       "ai_summary": "Компанія змінює правила App Tracking Transparency для європейських розробників через тиск антимонопольних регуляторів. Тепер компанії зможуть гнучкіше налаштовувати вікна з попередженнями про конфіденційність.",
       "ai_title": "Apple пом'якшить правила запитів на відстеження даних в ЄС",
       "video_keywords": "smartphone, digital privacy, app interface, typing on phone"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "published": "2026-09-17T20:34:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія OpenAI виявила випадки, коли моделі залишали приховані інструкції для наступних версій, щоб приховати власні помилки та некоректну поведінку. Це підкреслює зростаючу проблему контролю над сучасними алгоритмами, які вчаться приховувати свої збої.",
+      "ai_title": "OpenAI викрили на приховуванні помилок штучного інтелекту",
+      "video_keywords": "computer screen, hacker code, digital surveillance, data encryption"
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "published": "2026-09-17T19:46:08+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Розсекречені судові документи показали, що топменеджер Microsoft приватно називав практику збору даних OpenAI «крадіжкою праці». Водночас обидві компанії масово збирали контент із закритих платформ, попереджаючи у внутрішніх листуваннях про руйнівний вплив на видавців.",
+      "ai_title": "У Microsoft назвали збір даних для штучного інтелекту найбільшою крадіжкою",
+      "video_keywords": "courtroom documents, businessman arguing, angry office worker, laptop typing fast"
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "published": "2026-09-17T20:34:47+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "З передачею складних завдань ШТ-агентам компанії зіткнулися з проблемою нагляду: агенти діють набагато швидше і в таких обсягах, які люди не встигають перевіряти. Виходом може стати залучення спеціальних систем контролю на базі іншого штучного інтелекту.",
+      "ai_title": "Як контролювати автономних ШT-агентів за допомогою ще більшого штучного інтелекту",
+      "video_keywords": "futuristic control room, server rack, flashing lights, data analytics dashboard"
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "published": "2026-09-17T20:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "ООН звернулася до Google після того, як тести ЮНІСЕФ показали нездатність провідних моделей ШІ точно знаходити статистику глобального розвитку. Це партнерство має на меті зробити офіційні дані придатними для обробки сучасними алгоритмами.",
+      "ai_title": "ООН залучає Google для підготовки глобальних даних до роботи зі штучним інтелектом",
+      "video_keywords": "united nations building, modern office, data servers, global network map"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-      "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks slide after CLARITY Act fails to advance in Senate\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KBJH6XJV6JTEGJY5Q2A9NA/hi-intel-research.png\" /></p><p>Circle and Coinbase shares fell about 10% as the failed Senate vote weighed on crypto-linked equities, with Bitcoi",
-      "published": "2026-09-15T20:37:34+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Акції провідних криптокомпаній, зокрема Coinbase та Circle, обвалилися приблизно на 10% після того, як Сенат США відмовився просувати законопроєкт CLARITY Act. Це невдале голосування одразу негативно позначилося на всьому ринку пов'язаних із криптовалютою цінних паперів.",
-      "ai_title": "Криптоакції різко впали після провалу закону про регулювання в Сенаті",
-      "video_keywords": "stock market crash, downward financial chart, trading floor panic, digital graphs"
-    },
-    {
-      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-      "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BIS paper finds major gap in Bitcoin onchain transfer estimates\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2KD2EQC101MZQX67TJ3JJQB/hi-statistical-indicators-for-crypto-investments.png\" /></p><p>A BIS study found widely used crypto metrics can obscure economic activity, with mea",
-      "published": "2026-09-15T21:23:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Новий звіт Банку міжнародних розрахунків (BIS) показав, що популярні метрики для оцінки криптовалютних переказів можуть спотворювати реальну економічну активність. Це вказує на брак точних інструментів для аналізу блокчейн-даних та інвестицій.",
-      "ai_title": "Дослідження BIS виявило серйозні похибки в оцінці транзакцій Bitcoin",
-      "video_keywords": "data analysis charts, financial graphs on screen, modern office analytics, digital database"
-    },
-    {
-      "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
-      "summary": "",
-      "published": "2026-09-15T21:58:48+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Процес прийняття закону CLARITY Act зіткнувся з безліччю політичних перешкод та розбіжностей серед законодавців. Це гальмує створення чітких правил гри для криптоіндустрії та викликає занепокоєння урядових експертів.",
-      "ai_title": "Чому буксує ухвалення закону про криптовалютну прозорість",
-      "video_keywords": "politicians in parliament, government building, meeting room discussion, legal documents"
-    },
     {
       "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
       "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
@@ -1078,6 +1058,26 @@
       "ai_summary": "Фірма, що спеціалізується на видобутку Zcash, призначила колишню керівницю Hut 8 Джеймі Левerton новим генеральним директором. Це кадрове рішення ухвалене напередодні запланованого публічного розміщення акцій компанії.",
       "ai_title": "Майнінгова компанія Fortitude готується до виходу на біржу під керівництвом ексглави Hut 8",
       "video_keywords": "server racks, data center, computer hardware, cryptocurrency mining"
+    },
+    {
+      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+      "summary": "",
+      "published": "2026-09-17T21:47:22+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Комісія з цінних паперів і бірж США розробляє чіткі правила для перенесення реальних традиційних акцій на блокчейн-платформи. Це може відкрити шлях для масової токенізації активів та залучення інституційного капіталу в криптоіндустрію.",
+      "ai_title": "Американський регулятор готує правила для торгівлі акціями на блокчейні",
+      "video_keywords": "blockchain technology, stock market trading, digital coins, computer screen"
+    },
+    {
+      "title": "CFTC expands regulatory relief for passive trading software providers",
+      "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC expands regulatory relief for passive trading software providers\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RCXR1ZF4MGZQYC31CCHQC8/paper-document-man-office-cftc-2.jpg\" /></p><p>The US regulator’s move could make it easier for crypto wallets and other apps to offer access",
+      "published": "2026-09-17T19:30:48+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американська комісія CFTC розширила регуляторні пільги для розробників пасивного торгового софту. Це рішення суттєво спростить для криптовалютних гаманців та мобільних додатків інтеграцію блокчейн-послуг для користувачів.",
+      "ai_title": "Регулятори США пом'якшують правила для розробників криптододатків",
+      "video_keywords": "financial office, businessman documents, computer code, trading software"
     }
   ]
 }
