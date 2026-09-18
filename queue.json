@@ -21,26 +21,6 @@
       "video_keywords": "developer frustrated, computer monitor, coding, angry programmer"
     },
     {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726586\">https://news.ycombinator.com/item?id=49726586</a></p>\n<p>Points: 160</p>\n<p># Comments: 65</p>",
-      "published": "2026-09-16T13:18:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники безпеки змогли отримати доступ до камери спостереження Flock, продемонструвавши вразливості у системі збору даних. Це дозволило детально проаналізувати принципи роботи та можливі ризики для приватності громадян.",
-      "ai_title": "Хаккери проникнули в камеру Flock та розкрили роботу системи",
-      "video_keywords": "security camera, CCTV monitor, hacker typing, computer screen data"
-    },
-    {
-      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-      "link": "https://github.com/officefloor/ImpactGate",
-      "summary": "<p>Article URL: <a href=\"https://github.com/officefloor/ImpactGate\">https://github.com/officefloor/ImpactGate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726329\">https://news.ycombinator.com/item?id=49726329</a></p>\n<p>Points: 33</p>\n<p># Comments: 36</p>",
-      "published": "2026-09-16T13:01:09+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився новий інструмент злиття коду, який вираховує показник структурного погіршення програмного забезпечення, спричиненого використанням штучного інтелекту. Це допомагає підтримувати якість кодової бази в умовах масової автоматизації розробки.",
-      "ai_title": "ImpactGate: новий інструмент для оцінки структурних пошкоджень від коду ШІ",
-      "video_keywords": "lines of code, software development, computer monitor, programmer working"
-    },
-    {
       "title": "The sexy AI-powered dating app scams are here",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
       "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but [&#8230;]",
@@ -359,29 +339,39 @@
       "ai_summary": "Частка самостійної роботи моделі Claude над новими проєктами компанії зросла з 1% до 26% з початку року. У серпні близько 30 тисяч штучних інтелектів одночасно виконували внутрішні завдання розробників.",
       "ai_title": "Штучний інтелект Claude самостійно написав чверть нового коду для Anthropic",
       "video_keywords": "software code scrolling on monitor, programmer typing at desk, server room blinking lights"
+    },
+    {
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "summary": "<p>Article URL: <a href=\"https://blog.liampwll.com/posts/bend_vibe_coding/\">https://blog.liampwll.com/posts/bend_vibe_coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753179\">https://news.ycombinator.com/item?id=49753179</a></p>\n<p>Points: 131</p>\n<p># Comments: 63</p>",
+      "published": "2026-09-18T12:03:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує феномен «вайб-кодингу», коли розробники покладаються на штучний інтелект для створення коду без належного розуміння архітектури. Це створює приховані пастки у вигляді складно відловлюваних помилок та вразливостей. Стаття закликає до критичного підходу при використанні генеративного ШІ в програмуванні.",
+      "ai_title": "Небезпека «вайб-кодингу»: чому сліпе довіри ШІ не працює",
+      "video_keywords": "programmer typing, computer screen, code, frustration"
+    },
+    {
+      "title": "I don't like passkeys",
+      "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "summary": "<p>Article URL: <a href=\"https://hawksley.dev/blog/i-dont-like-passkeys\">https://hawksley.dev/blog/i-dont-like-passkeys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753211\">https://news.ycombinator.com/item?id=49753211</a></p>\n<p>Points: 120</p>\n<p># Comments: 91</p>",
+      "published": "2026-09-18T12:06:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті критично розглядається сучасна технологія passkeys, яка позиціонується як заміна звичним паролям. Автор пояснює потенційні незручності для користувачів та обмеження пристроїв при повній відмові від традиційних методів автентифікації. Це дискусійний погляд на безпеку в інтернеті.",
+      "ai_title": "Чому паскеї не ідеальні: погляд критиків на майбутнє без паролів",
+      "video_keywords": "smartphone lock screen, biometric scan, fingerprint scanner, frustration"
+    },
+    {
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
+      "published": "2026-09-18T11:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Розроблено інноваційну систему, здатну завчасно попереджати про раптові повені, які зазвичай виникають без попередження. Технологія має на меті врятувати життя людей у зонах ризику та мінімізувати руйнування від стихійних лих. Це значний крок вперед у сфері кліматичного моніторингу.",
+      "ai_title": "Нова технологія раннього попередження раптових повеней",
+      "video_keywords": "flash flood, heavy rain, overflowing river, emergency"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period",
-      "published": "2026-09-16T10:34:47+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Amazon відкрила ранній доступ до свого нового асистента Alexa+ для всіх користувачів в Індії. Головною особливістю запуску стала повноцінна підтримка місцевої мови гінді, що має розширити аудиторію сервісу.",
-      "ai_title": "Amazon запускає штучний інтелект Alexa+ в Індії з підтримкою гінді",
-      "video_keywords": "woman using smartphone, smart speaker, indian market, voice assistant"
-    },
-    {
-      "title": "May Mobility is going public in a $1.4B SPAC deal",
-      "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-      "summary": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
-      "published": "2026-09-16T15:27:13+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія May Mobility планує вийти на публічний ринок завдяки злиттю зі SPAC-компанією. Ця угода може принести розробнику безпілотного транспорту понад 300 мільйонів доларів додаткового фінансування для розвитку.",
-      "ai_title": "Роботаксі-стартап May Mobility виходить на біржу через SPAC-угоду на 1,4 мільярда доларів",
-      "video_keywords": "autonomous car, robotaxi, street traffic, modern vehicle"
-    },
     {
       "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
       "link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
@@ -391,36 +381,6 @@
       "ai_summary": "Компанія Google повідомила про виявлення критичної вразливості в модемах смартфонів Pixel. Зафіксовані ознаки обмежених та цілеспрямованих атак із використанням цього багу.",
       "ai_title": "Google підтвердила хакерські атаки на смартфони Pixel через вразливість нульового дня",
       "video_keywords": "smartphone screen, hacker typing, cyber security, digital code"
-    },
-    {
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-      "published": "2026-09-16T13:23:02+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Південнокорейський виробник пам'яті SK Hynix розглядає можливість партнерства з корпорацією Intel. Метою переговорів є будівництво підприємства з випуску мікросхем на території Сполучених Штатів.",
-      "ai_title": "SK Hynix та Intel ведуть переговори про спільне виробництво чіпів у США",
-      "video_keywords": "microchip factory, semiconductor cleanroom, computer hardware, engineer circuit"
-    },
-    {
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "published": "2026-09-16T13:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Штучний інтелект із Кремнієвої долини стрімко завойовує ринок корпоративного програмного забезпечення. Успішний раунд фінансування відбувся всього за кілька місяців після гучного запуску проєкту.",
-      "ai_title": "AI-стартап колишнього керівника Infosys залучив ще 53 мільйони доларів",
-      "video_keywords": "modern office, startup meeting, business presentation, investors talking"
-    },
-    {
-      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-      "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-      "summary": "Fluxnium's  fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
-      "published": "2026-09-16T13:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Fluxnium розробила спеціальні волокна для ефективного видобутку урану безпосередньо з морської води. Запаси цієї сировини здатні забезпечити людство енергією на тисячі років вперед.",
-      "ai_title": "Кліматичний стартап знайшов спосіб видобувати ядерне паливо з океану",
-      "video_keywords": "ocean waves, laboratory research, scientific equipment, glowing water"
     },
     {
       "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
@@ -740,46 +700,6 @@
   ],
   "Крипта": [
     {
-      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-      "summary": "",
-      "published": "2026-09-16T10:48:44+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Біткоин-фонди зазнали значного відтоку капіталу на тлі невдалих спроб ухвалити законопроєкт Clarity Act. Це негативно вплинуло на настрої інвесторів та загальний попит на криптовалюту в США.",
-      "ai_title": "Біткоин-ETF втратили $450 мільйонів через зрив закону про крипторинку",
-      "video_keywords": "stock exchange, financial chart, declining graph, computer screen"
-    },
-    {
-      "title": "Deutsche Bank close to debuting crypto custody for institutions",
-      "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
-      "summary": "",
-      "published": "2026-09-16T10:46:28+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Один із найбільших банків Німеччини наближається до офіційного запуску послуг кастодіального зберігання криптовалют. Це свідчить про поступову інтеграцію цифрових активів у традиційну банківську систему.",
-      "ai_title": "Deutsche Bank готується запустити криптозберігання для інституційних клієнтів",
-      "video_keywords": "modern bank building, businessman in suit, financial district, handshake"
-    },
-    {
-      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
-      "link": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
-      "summary": "",
-      "published": "2026-09-16T10:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Circle представила нову блокчейн-платформу Arc, яку керівництво вважає революційним кроком для індустрії. Запуск проєкту може суттєво зміцнити позиції компанії на ринку цифрових активів.",
-      "ai_title": "Circle анонсувала блокчейн Arc, який обіцяє перевершити USDC",
-      "video_keywords": "futuristic technology, glowing data streams, server room, digital code"
-    },
-    {
-      "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
-      "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MSJ3ZZE5XE62YVC9G3G4Q9/ethiopia-background.png\" /></p><p>Bitcoin miners generated 35% of the state-owned power producer’s revenue last year, but declining res",
-      "published": "2026-09-16T10:11:39+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Через дефіцит гідроелектроенергії влада Ефіопії була змушена різко обмежити енергопостачання криптоферм. Це створює серйозні проблеми для майнінгової індустрії, яка приносила значну частину державного доходу.",
-      "ai_title": "Ефіопія скоротила постачання електроенергії для майнерів біткоїна на 77%",
-      "video_keywords": "hydroelectric dam, power plant, electricity transformers, industrial machinery"
-    },
-    {
       "title": "Crypto Long & Short: Six signs a crypto winter is ending",
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
       "summary": "",
@@ -808,26 +728,6 @@
       "ai_summary": "Одна з найбільших телекомунікаційних компаній регіону вирішила перенести частину своїх фінансових операцій на блокчейн-платформу Avalanche. Такий крок спрямований на підвищення прозорості транзакцій та оптимізацію внутрішніх витрат за допомогою смарт-контрактів.",
       "ai_title": "Телекомунікаційний гігант Латинської Америки інтегрує блокчейн Avalanche",
       "video_keywords": "network server, digital data flow, glowing futuristic interface, modern office computer"
-    },
-    {
-      "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
-      "link": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27YNMN0B998XM580ZT1ETJS/magazine-pinkdrainer.jpg\" /></p><p>Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why",
-      "published": "2026-09-16T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Нещодавні інциденти з витоком особистих даних клієнтів Revolut демонструють вразливість традиційних систем верифікації. Експерти пропонують масово впроваджувати технологію нульового розголошення (zero-knowledge), яка дозволяє підтверджувати особу без збереження самих документів.",
-      "ai_title": "Масштабні крадіжки даних у Revolut вкотре підняли питання безпеки KYC",
-      "video_keywords": "hacker typing keyboard, dark room, glowing code on screen, cyber security lock"
-    },
-    {
-      "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
-      "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2N0MK84B62M60XV8Q5G8MYA/hi-trumps-strategic-reserve-and-clarity-act-1.jpg\" /></p><p>Bernstein said the federal agencies will publish new regulation",
-      "published": "2026-09-16T12:36:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Аналітики компанії Bernstein очікують агресивних регуляторних кроків з боку американських відомств після провалу прийняття законопроєкту CLARITY Act. Це може суттєво вплинути на правила гри для криптокомпаній на території США.",
-      "ai_title": "Bernstein прогнозує жорсткіше регулювання від SEC та CFTC",
-      "video_keywords": "government building, American flag, courtroom gavel, press conference microphones"
     },
     {
       "title": "Fed raises rates by 25 basis points in first hike since July 2023",
@@ -1138,6 +1038,56 @@
       "ai_summary": "Відомий ончейн-аналітик Джеймс Чек припустив, що ціна біткоїна вже досягла свого мінімуму на рівні близько 58 000 доларів. За його словами, ринок пережив дві хвилі капітуляції та готовий до відновлення.",
       "ai_title": "Аналітик назвав позначку $58 000 дном поточного циклу біткоїна",
       "video_keywords": "stock market chart, trading floor, financial graphs, glowing numbers"
+    },
+    {
+      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+      "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+      "summary": "",
+      "published": "2026-09-18T12:57:06+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Президентка Європейського центрального центру Крістін Лагард особисто втрутилася у процес, щоб зупинити отримання ліцензії Binance за новими правилами MiCA. Це рішення суттєво вплине на регулювання криптовалютного ринку в Європейському Союзі та операції біржі в регіоні.",
+      "ai_title": "ЄЦБ заблокував європейську ліцензію для Binance",
+      "video_keywords": "bank building, European flag, financial district, businessman suit"
+    },
+    {
+      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+      "summary": "",
+      "published": "2026-09-18T11:15:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалюта XRP демонструє технічні індикатори, які віщують появу класичного «золотого хреста» на графіках. Увага інвесторів масово перемикається з біткоїна на альтернативні цифрові активи, що підживлює оптимізм на ринку.",
+      "ai_title": "XRP готується до «золотого хреста» на тлі зростання альткоїнів",
+      "video_keywords": "stock market chart, digital currency graph, trading monitor, financial screen"
+    },
+    {
+      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+      "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HYPE hits record above $90 as Hyperliquid launches manual borrowing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T42CNV25QSYE1M3WVJM8MM/11111111.png\" /></p><p>HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bi",
+      "published": "2026-09-18T11:54:24+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалюта HYPE злетіла до рекордних позначок після того, як платформа Hyperliquid запустила функцію ручного запозичення. Нова опція дозволяє користувачам брати стейблкоїни під заставу власних активів, що стимулювало попит.",
+      "ai_title": "Токен HYPE встановив новий рекорд вище 90 доларів",
+      "video_keywords": "cryptocurrency chart, digital coin, trading terminal, office computer screen"
+    },
+    {
+      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+      "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor-screen-traid2.jpg\" /></p><p>The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin",
+      "published": "2026-09-18T10:46:17+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ціновий індикатор Fisher Transform сформував надзвичайно рідкісний бичачий перетин для біткоїна — лише вчетверте за всю історію. Ця подія посилила оптимістичні настрої серед трейдерів щодо подальшого розвитку поточного бичачого ринку.",
+      "ai_title": "Біткоїн подає потужні бичачі сигнали завдяки рідкісному індикатору",
+      "video_keywords": "bitcoin symbol, glowing cryptocurrency, stock market analysis, futuristic trading"
+    },
+    {
+      "title": "Zcash targets November upgrade to make private payments up to three times faster",
+      "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+      "summary": "",
+      "published": "2026-09-18T12:50:01+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Мережа Zcash запланувала на листопад важливе технічне оновлення, яке має прискорити приватні платежі майже втричі. Це покращить масштабування та загальний користувацький досвід при роботі з конфіденційними транзакціями.",
+      "ai_title": "Zcash готує масштабне оновлення для прискорення приватних транзакцій",
+      "video_keywords": "computer code, cybersecurity lock, server room, digital security"
     }
   ]
 }
