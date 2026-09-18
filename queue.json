@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Datamimic – don't let your coding agent invent its own test world",
-      "link": "https://github.com/rapiddweller/datamimic",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rapiddweller/datamimic\">https://github.com/rapiddweller/datamimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722276\">https://news.ycombinator.com/item?id=49722276</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-16T04:58:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інструмент Datamimic допомагає розробникам контролювати середовища для тестування, які генерують штучні інтелекти. Це запобігає появі помилок і гарантує, що код перевіряється в реалістичних умовах. Рішення підвищує надійність автоматизованої розробки.",
-      "ai_title": "Datamimic: як запобігти створенню вигаданих тестових середовищ агентами програмування",
-      "video_keywords": "computer screen, programming code, software developer, typing keyboard"
-    },
-    {
-      "title": "Learning Programming in an Age of LLMs",
-      "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-      "summary": "<p>Article URL: <a href=\"https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/\">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723873\">https://news.ycombinator.com/item?id=49723873</a></p>\n<p>Points: 61</p>\n<p># Comments: 37</p>",
-      "published": "2026-09-16T09:12:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Поява потужних мовних моделей (LLM) докорінно змінює підходи до написання коду та навчання програмістів. Експерти аналізують, які навички стають ключовими для новачків, а які традиційні підходи втрачають актуальність. Тепер фокус зміщується з ручного написання синтаксису на архітектуру рішень та вміння ставити завдання штучному інтелекту.",
-      "ai_title": "Як вивчати програмування в епоху штучного інтелекту",
-      "video_keywords": "person typing on laptop, coder at desk, multiple monitors code"
-    },
-    {
-      "title": "Meta is reportedly ready to launch less pervy smart glasses",
-      "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-      "summary": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta [&#8230;]",
-      "published": "2026-09-16T08:54:46+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Meta планує представити нову модель розумних окулярів під кодовою назвою Luna, які взагалі не матимуть вбудованої камери. Такий крок є спробою вирішити репутаційну кризи через занепокоєння користувачів щодо приватності та постійного відеозапису флагманськими пристроями. Новинка має змінити фокус уваги ринку на аудіофункції та доповнену реальність без ризиків для конфіденційності.",
-      "ai_title": "Meta готує до випуску розумні окуляри без камери",
-      "video_keywords": "smart glasses, person wearing glasses, technology device close up"
-    },
-    {
-      "title": "Salesforce Global Outage",
-      "link": "https://status.salesforce.com/products/all",
-      "summary": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
-      "published": "2026-09-16T10:37:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі по всьому світу зіткнулися з масовими перебоями в роботі хмарної платформи Salesforce. Інженери компанії оперативно працюють над усуненням неполадок та відновленням повної функціональності систем. Статус інциденту відстежується на офіційній сторінці моніторингу сервісу.",
-      "ai_title": "Глобальний збій у роботі сервісів Salesforce",
-      "video_keywords": "server room, data center lights, IT technician working computer"
-    },
-    {
       "title": "Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
       "link": "https://news.ycombinator.com/item?id=49728159",
       "summary": "<p>Hi,<p>I built Chat-Man because I wanted a cheap way to give my agents access to WhatsApp without integrating a WhatsApp library separately in every project.<p>You get  WhatsApp MCP server, so you can connect WhatsApp to an agent and programmatically read, search, extract and send messages - but also have a web UI for non-techies.<p>You can also receive webhooks for incoming messages for starred",
@@ -389,6 +349,16 @@
       "ai_summary": "Компанія Waymo оголосила про плани запустити сервіс роботаксі в Сінгапурі у 2028 році. Перші автомобілі почнуть прибувати вже найближчими місяцями для тестування та картографування під нагоди безпеки.",
       "ai_title": "Waymo готує запуск безпілотних таксі в Сінгапурі",
       "video_keywords": "autonomous car, robotaxi, singapore skyline, futuristic vehicle"
+    },
+    {
+      "title": "From 1% to 26%. Claude now leads a quarter of Anthropic’s internal development on new AI models",
+      "link": "https://en.ain.ua/2026/09/18/claude-now-leads-a-quarter-of-anthropics-internal-development-on-new-ai-models/",
+      "summary": "Since the start of the year the share of the model’s independent work rose from 1% to 26%, and in August roughly 30,000 AI agents were simultaneously executing the company’s internal tasks.",
+      "published": "2026-09-18T09:02:00+00:00",
+      "source": "",
+      "ai_summary": "Частка самостійної роботи моделі Claude над новими проєктами компанії зросла з 1% до 26% з початку року. У серпні близько 30 тисяч штучних інтелектів одночасно виконували внутрішні завдання розробників.",
+      "ai_title": "Штучний інтелект Claude самостійно написав чверть нового коду для Anthropic",
+      "video_keywords": "software code scrolling on monitor, programmer typing at desk, server room blinking lights"
     }
   ],
   "Бізнес / Стартапи": [
@@ -810,16 +780,6 @@
       "video_keywords": "hydroelectric dam, power plant, electricity transformers, industrial machinery"
     },
     {
-      "title": "ECB seeks online merchants for 2027 digital euro pilot",
-      "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB seeks online merchants for 2027 digital euro pilot\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MM52JKJD0W2B0RMKWYF0RK/euro-pilot.png\" /></p><p>Euro-area online and mobile merchants can apply until Oct. 27 to test beta digital euro payments in a 12-month pilot.</p>",
-      "published": "2026-09-16T08:36:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Європейський центральний банк запрошує інтернет-магазини взяти участь у тестуванні платежів у цифровому євро. Пілотний проєкт триватиме рік і стане важливим кроком до можливого введення нової валюти.",
-      "ai_title": "ЄЦБ шукає онлайн-продавців для пілотного тестування цифрового євро у 2027 році",
-      "video_keywords": "online shopping, credit card payment, smartphone ecommerce, European flag"
-    },
-    {
       "title": "Crypto Long & Short: Six signs a crypto winter is ending",
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
       "summary": "",
@@ -1138,6 +1098,46 @@
       "ai_summary": "Новий застосунок World Money став доступним у понад 150 країнах світу. Він поєднує в собі платежі стейблкоїнами, нагородження цифровими активами та функціонал для торгівлі.",
       "ai_title": "Проєкт World презентував власний некастодіальний супердодаток World Money",
       "video_keywords": "smartphone screen, mobile app interface, digital payment, hand holding phone"
+    },
+    {
+      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
+      "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+      "summary": "",
+      "published": "2026-09-18T06:52:23+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "За даними США, система збору мита в Ормузькій протоці використовувала криптовалютну біржу для проведення операцій. Це вказує на ймовірне використання цифрових активів для обходження міжнародних санкцій.",
+      "ai_title": "Через Ормузьку протоку проходили транзакції у біткоїнах",
+      "video_keywords": "cargo ship, ocean strait, container terminal, digital map"
+    },
+    {
+      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+      "summary": "",
+      "published": "2026-09-18T06:16:57+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Мережа Solana оновила показники швидкості формування блоків, однак загальна пропускна здатність транзакцій залишилася на колишньому рівні. Розробники продовжують працювати над оптимізацією блокчейна.",
+      "ai_title": "Solana прискорила створення блоків на 17%",
+      "video_keywords": "computer monitor, glowing lines, fast data stream, cryptocurrency network"
+    },
+    {
+      "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
+      "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2STMBSK2VDWAGTJC3MX17R7/europe-binance-1.jpg\" /></p><p>Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed",
+      "published": "2026-09-18T08:50:38+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютна біржа Binance відкинула спекуляції щодо можливого втручання ЄЦБ у процес ліцензування за правилами MiCA в Греції. Компанія наголосила на своїй відданості європейському регуляторному простору.",
+      "ai_title": "Binance підтвердила свої плани щодо ринку Європи",
+      "video_keywords": "modern skyscraper, corporate office, business handshake, city skyline"
+    },
+    {
+      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
+      "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin cycle bottom may already be in at $58K, says analyst James Check\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SN22TNQ4C3YHZG80V0QR6A/bitcoin-domination-token-altcoin.jpg\" /></p><p>Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after two capitulat",
+      "published": "2026-09-18T08:47:20+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Відомий ончейн-аналітик Джеймс Чек припустив, що ціна біткоїна вже досягла свого мінімуму на рівні близько 58 000 доларів. За його словами, ринок пережив дві хвилі капітуляції та готовий до відновлення.",
+      "ai_title": "Аналітик назвав позначку $58 000 дном поточного циклу біткоїна",
+      "video_keywords": "stock market chart, trading floor, financial graphs, glowing numbers"
     }
   ]
 }
