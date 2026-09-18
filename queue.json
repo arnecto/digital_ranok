@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
-      "published": "2026-09-16T17:20:29+00:00",
-      "source": "The Verge",
-      "ai_summary": "Згідно з останніми звітами, Apple розглядає можливість знову випускати власні сервери у партнерстві з Nvidia. Такий крок дозволить компанії заробити на стрімкому зростанні ринку обчислювальної потужності для штучного інтелекту.",
-      "ai_title": "Apple планує повернутися до виробництва сервереів заради ШІ",
-      "video_keywords": "server racks, data center, blinking lights, computer hardware"
-    },
-    {
-      "title": "macOS 27 Golden Gate – Review",
-      "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/\">https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732036\">https://news.ycombinator.com/item?id=49732036</a></p>\n<p>Points: 71</p>\n<p># Comments: 63</p>",
-      "published": "2026-09-16T19:53:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технічні експерти опублікували детальний огляд новітньої операційної системи macOS 27 Golden Gate. Стаття аналізує ключові оновлення інтерфейсу, нові функції та загальну стабільність роботи системи. Оновлення приносить чимало змін для користувачів комп'ютерів Mac.",
-      "ai_title": "Великий огляд нової операційної системи macOS 27 Golden Gate",
-      "video_keywords": "laptop screen, typing on keyboard, desktop computer, office workspace"
-    },
-    {
       "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
       "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
       "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes [&#8230;]",
@@ -359,30 +339,59 @@
       "ai_summary": "Відомий програміст поділився успішним досвідом використання інтерактивних підказок штучного інтелекту для розв'язання складної математичної задачі. Цей експеримент демонструє нові можливості застосування мовних моделей у фундаментальній науці.",
       "ai_title": "Розробник створив доказ гіпотези Конвея за допомогою штучного інтелекту",
       "video_keywords": "programmer working, lines of code, dual monitors, typing on keyboard"
+    },
+    {
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\">https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49758580\">https://news.ycombinator.com/item?id=49758580</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-18T18:51:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інженери компанії Cloudflare змогли суттєво оптимізувати використання пам'яті на серверах. Завдяки новим математичним алгоритмам та мові програмування Rust вдалося вивільнити колосальний об'єм RAM без втрати продуктивності.",
+      "ai_title": "Cloudflare заощадила 100 ТБ оперативної пам'яті за допомогою математики та Rust",
+      "video_keywords": "server room, data center, computer code, programming"
+    },
+    {
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship\">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49757520\">https://news.ycombinator.com/item?id=49757520</a></p>\n<p>Points: 184</p>\n<p># Comments: 116</p>",
+      "published": "2026-09-18T17:28:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Звіт розвідки, згенерований штучним інтелектом для американських військових, виявився повною вигадкою або «галюцинацією». Через помилку системи армія ледь не прийняла хибні рішення щодо ситуації з китайськими кораблями.",
+      "ai_title": "Американські військові ледь не потрапили у халепу через хибний звіт штучного інтелекту",
+      "video_keywords": "military control room, computer screens, radar map, officer operating"
+    },
+    {
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [&#8230;]",
+      "published": "2026-09-18T18:29:17+00:00",
+      "source": "The Verge",
+      "ai_summary": "Влада штату Вірджинія вирішила взяти під жорсткіший контроль бурхливе будівництво нових дата-центрів. Губернатор підписав указ, який дає місцевим громадам більше впливу на такі проєкти та забороняє чиновникам підписувати угоди про нерозголошення.",
+      "ai_title": "Губернатор Вірджинії створює робочу групу з питань ШІ та стримує будівництво дата-центрів",
+      "video_keywords": "data center servers, blinking lights, computer racks, server corridor"
+    },
+    {
+      "title": "Disney’s first CTO is Character.AI’s former CEO",
+      "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently [&#8230;]",
+      "published": "2026-09-18T18:27:04+00:00",
+      "source": "The Verge",
+      "ai_summary": "Кіногігант Disney вперше в історії компанії запровадив посаду головного технічного директора (CTO). На цю позицію запросили колишнього генерального директора Character.AI Карандіпа Ананда.",
+      "ai_title": "Дісней призначив свого першого в історії головного технічного директора",
+      "video_keywords": "corporate office, modern boardroom, business handshake, executive working"
+    },
+    {
+      "title": "The real story of the iPhone 18 Pro&#8217;s camera",
+      "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+      "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in [&#8230;]",
+      "published": "2026-09-18T17:06:37+00:00",
+      "source": "The Verge",
+      "ai_summary": "Новий флагманський смартфон від Apple отримав революційне оновлення камери. Головною фішкою став головний об'єктив зі змінною діафрагмою, що покращує зйомку при слабкому освітленні та дозволяє керувати глибиною різкості.",
+      "ai_title": "Головна інновація камери iPhone 18 Pro",
+      "video_keywords": "smartphone camera, macro lens, holding phone, taking photo"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-      "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "published": "2026-09-16T18:45:35+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "published": "2026-09-16T18:25:25+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
-      "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-      "summary": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
-      "published": "2026-09-16T18:00:54+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "Pulley, a Carta rival, is shutting down",
       "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
@@ -712,39 +721,59 @@
       "ai_summary": "Відомий підприємець Джефф Лоусон готується представити свій новий амбітний проєкт у сфері термоядерного синтезу. Деталі інноваційної ініціативи будуть обговорені на майбутній технологічній конференції.",
       "ai_title": "Співзасновник Inertia Джефф Лоусон інвестує в термоядерну енергетику",
       "video_keywords": "nuclear fusion reactor, laboratory equipment, scientist working, glowing plasma"
+    },
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "published": "2026-09-18T18:49:30+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "ШІ-модель Jev демонструє розробникам значно швидший та дешевший шлях до створення програмного інтелекту. Це може суттєво змінити ринок розробки ПЗ та знизити витрати компаній на впровадження нових технологій.",
+      "ai_title": "Нова модель штучного інтелекту від творця ChatGPT захоплює розробників",
+      "video_keywords": "computer screen, programmer typing, glowing code, technology office"
+    },
+    {
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "published": "2026-09-18T17:59:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Колишній керівник Character.AI став першим в історії компанії технічним директором Disney. Раніше медіагігант надсилав цьому стартапу офіційні вимоги припинити порушення авторських прав через копіювання персонажів.",
+      "ai_title": "Disney найняла колишнього очільника ШІ-стартапу, якого раніше звинувачувала у плагіаті",
+      "video_keywords": "corporate boardroom, modern office, business handshake, executive meeting"
+    },
+    {
+      "title": "In India, the new iPhone can arrive faster than a pizza",
+      "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+      "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
+      "published": "2026-09-18T17:45:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Завдяки сервісам швидкої доставки нові моделі смартфонів Apple розкуповують за лічені години після старту продажів. Це свідчить про стрімкий розвиток платформ швидкої комерції у регіоні.",
+      "ai_title": "В Індії новий iPhone тепер можна отримати швидше, ніж піцу",
+      "video_keywords": "delivery rider, smartphone unboxing, modern city street, courier with backpack"
+    },
+    {
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "published": "2026-09-18T17:33:50+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія переорієнтувала свій агент на сімейну координацію. ШІ допомагає спільно управляти розкладом, планувати меню, складати список покупок та заповнювати документи.",
+      "ai_title": "Google представив новий ШІ-агент для управління домашніми справами",
+      "video_keywords": "family using tablet, modern kitchen, smart home interface, people cooking together"
+    },
+    {
+      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+      "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+      "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
+      "published": "2026-09-18T17:26:41+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Літальний апарат із технологією автономного керування успішно здійснив трансконтинентальний переліт США без втручання людини. Це значний крок для компанії поза межі звичайних міських повітряних таксі.",
+      "ai_title": "Безпілотний політ Joby Aviation на понад 3000 миль відкриває нову ери для повітряного таксі",
+      "video_keywords": "electric aircraft, flying car, airplane taking off, modern aviation sky"
     }
   ],
   "Крипта": [
-    {
-      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-      "summary": "",
-      "published": "2026-09-16T17:34:04+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Збанкрутіла криптоплатформа Celsius вимагає компенсацію від біржі BitMEX через події 2020 року. Мова йде про примусову ліквідацію активів під час масштабного ринкового обвалу.",
-      "ai_title": "Celsius подала до суду на BitMEX на $495 мільйонів",
-      "video_keywords": "courtroom gavel, legal documents, digital screens with charts, businessman working laptop"
-    },
-    {
-      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
-      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-      "summary": "",
-      "published": "2026-09-16T19:07:34+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Кіберзлочинці зламали систему фінансової платформи Revolut та вимагають викуп у криптовалюті Monero. У разі відмови вони погрожують опублікувати конфіденційні дані користувачів.",
-      "ai_title": "Хаккери вимагають 3 мільйони доларів у Monero та погрожують злити дані клієнтів Revolut",
-      "video_keywords": "hacker typing laptop, dark room neon light, digital code screen"
-    },
-    {
-      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
-      "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK FCA sets crypto authorization guidance ahead of September application window\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NRTRQVV5H9VDTT43R1701S/hi-united-kingdom-making-strides-on-crypto-regulation-fca.jpg\" /></p><p>The FCA’s new guidance outlines which crypto activities may",
-      "published": "2026-09-16T19:19:23+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Управління з фінансового регулювання Великої Британії випустило чіткі інструкції для ліцензування криптобізнесів. Нові вимоги набирають чинності напередодні відкриття вересневого вікна подачі заяв.",
-      "ai_title": "Британський регулятор FCA оприлюднив нові правила для криптокомпаній",
-      "video_keywords": "london city skyline, official document stamp, business meeting handshake"
-    },
     {
       "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
       "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1074,6 +1103,26 @@
       "ai_summary": "Американська комісія з торгівлі товарними ф'ючерсами зробила крок до посилення контролю над цифровими активами. Новий проєкт регулювання надіслано на перевірку адміністрації президента США.",
       "ai_title": "Регулятор CFTC передав план нагляду за крипторинком на розгляд Білому дому",
       "video_keywords": "white house washington, gavel judge, official documents, government building"
+    },
+    {
+      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance launches 24/7 FX perps with weekend pricing system\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TWPXVTDCGSQ1MYSQ30VK2W/man-office-screen-computer02-2.png\" /></p><p>Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign excha",
+      "published": "2026-09-18T19:06:30+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптобіржа Binance розширює можливості для трейдерів, додаючи цілодобовий доступ до деривативів на іноземні валюти. Нова система також підтримує спеціальне ціноутворення у вихідні дні, коли традиційні ринки зачинені.",
+      "ai_title": "Binance запускає цілодобову торгівлю валютними деривативами з ціноутворенням у вихідні",
+      "video_keywords": "trader watching charts, glowing financial graphs, cryptocurrency exchange monitors"
+    },
+    {
+      "title": "Crypto stocks rebound after CLARITY Act selloff",
+      "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto stocks rebound after CLARITY Act selloff\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TRCGEVT9CNFA3RQBK4NDTE/hi-japan-ipo-stocks-explained2.png\" /></p><p>Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related a",
+      "published": "2026-09-18T17:55:57+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Айті-компанії та біржі, пов'язані з криптовалютами, продемонстрували зростання акцій у п'ятницю. Це сталося після різкого розпродажу через нові законодавчі ініціативи та дії регуляторів SEC і CFTC.",
+      "ai_title": "Акції криптокомпаній стрімко відновлюються після падіння на тлі закону CLARITY Act",
+      "video_keywords": "stock market trading floor, financial green arrows, investor looking at smartphone"
     }
   ]
 }
