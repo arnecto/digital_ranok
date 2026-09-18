@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
-      "published": "2026-09-15T23:34:25+00:00",
-      "source": "The Verge",
-      "ai_summary": "Нові опитування громадської думки показують, що більшість виборців негативно ставляться до будівництва енергоємних дата-центрів для підтримки технологій штучного інтелекту. Політики змушені реагувати на це зростаюче невдоволення місцевих громад.",
-      "ai_title": "Суспільство виступає проти масового будівництва дата-центрів для штучного інтелекту",
-      "video_keywords": "data center, server room, server racks, electronics"
-    },
-    {
       "title": "Datamimic – don't let your coding agent invent its own test world",
       "link": "https://github.com/rapiddweller/datamimic",
       "summary": "<p>Article URL: <a href=\"https://github.com/rapiddweller/datamimic\">https://github.com/rapiddweller/datamimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722276\">https://news.ycombinator.com/item?id=49722276</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
@@ -359,19 +349,39 @@
       "ai_summary": "Провідні американські AI-компанії публічно заявляють про необхідність зменшити темпи розробки заради безпеки. Після попереджень про загрози від неконтрольованих агентів галузь починає переходити від девізу швидкого створення до більш обережного підходу.",
       "ai_title": "Сповільнення гонки штучного суперінтелекту",
       "video_keywords": "futuristic city, glowing neural network, server room, businessman thinking"
+    },
+    {
+      "title": "How Uber Protects Against Retry Storms",
+      "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "summary": "<p>Article URL: <a href=\"https://www.uber.com/us/en/blog/protecting-against-retry-storms/\">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746628\">https://news.ycombinator.com/item?id=49746628</a></p>\n<p>Points: 22</p>\n<p># Comments: 13</p>",
+      "published": "2026-09-17T21:14:32+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інженери Uber поділилися технічними рішеннями для запобігання збоям у сервісах через лавиноподібні повторні запити (retry storms). Стаття розкриває архітектурні підходи до забезпечення стабільності платформи під час високих навантажень.",
+      "ai_title": "Як Uber захищається від лавин повторних запитів",
+      "video_keywords": "server racks, data center, flashing lights, engineers working"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\">https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49747070\">https://news.ycombinator.com/item?id=49747070</a></p>\n<p>Points: 52</p>\n<p># Comments: 40</p>",
+      "published": "2026-09-17T21:48:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор аналізує практичні підходи до спілкування зі штучним інтелектом під час написання текстів. Стаття пропонує поради щодо збереження власного голосу та уникнення типових пасток при використанні LLM.",
+      "ai_title": "Мистецтво створення текстів за допомогою великих мовних моделей",
+      "video_keywords": "person typing on laptop, hands on keyboard, glowing monitor screen"
+    },
+    {
+      "title": "Sex, AI, and the Apocalypse",
+      "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/\">https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746654\">https://news.ycombinator.com/item?id=49746654</a></p>\n<p>Points: 113</p>\n<p># Comments: 90</p>",
+      "published": "2026-09-17T21:15:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Роздуми на тему того, як розвиток штучного інтелекту впливає на інтимну сферу життя та суспільні трансформації. Автор досліджує культурні та психологічні наслідки інтеграції людиноподібних алгоритмів у повсякденність.",
+      "ai_title": "Секс, штучний інтелект та кінець світу",
+      "video_keywords": "futuristic city, neon lights, person looking at smartphone, digital abstract waves"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "published": "2026-09-16T00:20:39+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Генеральний директор Nvidia Дженсен Хуан заявив, що штучний інтелект не є чимось небезпечним і незбагненним, а є звичайним поєднанням апаратного та програмного забезпечення. На його думку, питання безпеки мають вирішувати самі розробники продуктів, а не державні регулятори.",
-      "ai_title": "Голова Nvidia виступив проти жорсткого регулювання штучного інтелекту",
-      "video_keywords": "tech conference, server room, microchip, businessman speaking"
-    },
     {
       "title": "Amazon launches Alexa+ in India with Hindi support",
       "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
@@ -696,6 +706,56 @@
       "ai_summary": "ООН звернулася до Google після того, як тести ЮНІСЕФ показали нездатність провідних моделей ШІ точно знаходити статистику глобального розвитку. Це партнерство має на меті зробити офіційні дані придатними для обробки сучасними алгоритмами.",
       "ai_title": "ООН залучає Google для підготовки глобальних даних до роботи зі штучним інтелектом",
       "video_keywords": "united nations building, modern office, data servers, global network map"
+    },
+    {
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "published": "2026-09-18T00:02:36+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Mazama Energy залучила значні інвестиції для буріння свердловин глибиною до трьох миль. Проєкт спрямований на використання надзвичайно гарячих порід для цілодобового виробництва електроенергії.",
+      "ai_title": "Стартап Mazama Energy залучив $135 млн на надглибоку геотермальну енергетику",
+      "video_keywords": "geothermal plant, drilling rig, steam pipes, renewable energy"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "published": "2026-09-17T23:25:52+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Масштабний раунд фінансування оцінив гіганта дата-центрів у $30,9 мільярда. Компанія спрямує кошти на розширення інфраструктури та створення модульних ШІ-фабрик.",
+      "ai_title": "Crusoe залучив $3,9 мільярда на будівництво дата-центрів для штучного інтелекту",
+      "video_keywords": "server racks, data center, flashing lights, supercomputer"
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "published": "2026-09-17T23:21:17+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нова структура створена задля залучення широкої громадськості та експертів до дискусій про розвиток загального штучного інтелекту (AGI). Інститут має на меті зробити обговорення етичних і технологічних викликів відкритішими.",
+      "ai_title": "Google DeepMind запускає інститут для публічного обговорення майбутнього ШІ",
+      "video_keywords": "modern office, conference room, people meeting, presentation screen"
+    },
+    {
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "published": "2026-09-17T23:08:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Amazon-owned Zoox незабаром позбудеться обмеження у 100 безпілотних автомобілів. Це відбувається на тлі загострення конкуренції на ринку автономного транспорту в Лас-Вегасі.",
+      "ai_title": "Zoox готується зняти ліміт на кількість роботаксі в Неваді",
+      "video_keywords": "autonomous car, robotaxi, street driving, futuristic vehicle"
+    },
+    {
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "published": "2026-09-17T22:14:59+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Відомство запускає нову програмну систему на основі штучного інтелекту. Вона має допомогти авіадиспетчерам ефективніше керувати повітряним рухом та справлятися з навантаженням.",
+      "ai_title": "Федеральне авіаційне управління США інвестує $875 млн у ШІ для диспетчерів",
+      "video_keywords": "air traffic control, radar screen, computer monitors, control tower"
     }
   ],
   "Крипта": [
@@ -1078,6 +1138,16 @@
       "ai_summary": "Американська комісія CFTC розширила регуляторні пільги для розробників пасивного торгового софту. Це рішення суттєво спростить для криптовалютних гаманців та мобільних додатків інтеграцію блокчейн-послуг для користувачів.",
       "ai_title": "Регулятори США пом'якшують правила для розробників криптододатків",
       "video_keywords": "financial office, businessman documents, computer code, trading software"
+    },
+    {
+      "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+      "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea drives onchain malware surge, CoinEx shuts: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg\" /></p><p>North Korea and Iran account for the majority of onchain malware, while Malaysia has been named among ",
+      "published": "2026-09-17T23:49:23+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Північна Корея та Іран стали головними джерелами поширення шкідливого програмного забезпечення в блокчейн-мережах. Через зростання загрози безпеці криптобіржа CoinEx була змушена призупинити свою роботу.",
+      "ai_title": "Північна Корея масово поширює шкідливе ПЗ у криптосфері",
+      "video_keywords": "hacker typing keyboard, dark room, computer screens, digital threat"
     }
   ]
 }
