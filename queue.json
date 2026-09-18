@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "link": "https://openspec.dev/",
-      "summary": "<p>Article URL: <a href=\"https://openspec.dev/\">https://openspec.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734264\">https://news.ycombinator.com/item?id=49734264</a></p>\n<p>Points: 38</p>\n<p># Comments: 8</p>",
-      "published": "2026-09-16T23:06:39+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено OpenSpec — гнучкий та конфігурований фреймворк для роботи зі специфікаціями штучного інтелекту. Інструмент створений для спрощення розробки та керування AI-проєктами завдяки своїй легкості та адаптивності.",
-      "ai_title": "OpenSpec: новий легковаговий фреймворк для ШІ",
-      "video_keywords": "coding, computer screen, software code, developer workspace"
-    },
-    {
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you [&#8230;]",
-      "published": "2026-09-16T23:40:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Snap представляє «Specs Intelligence» — новий штучний інтелект, який інтегрується з цифровими акаунтами для допомоги в роботі та плануванні подорожей. Цей асистент позиціонується як проактивний сервіс, що передбачає потреби користувача.",
-      "ai_title": "Snap випускає новий ШІ-інструмент Specs для iOS та Mac",
-      "video_keywords": "smartphone screen, typing, apple laptop, digital interface"
-    },
-    {
-      "title": "I wore Snap’s $2,200 smart glasses",
-      "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
-      "summary": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watching the tile snap down in [&#8230;]",
-      "published": "2026-09-16T23:40:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Журналісти протестували нові окуляри доповненої реальності від Snap під час гри у віртуальне доміно. Пристрій дозволяє взаємодіяти з віртуальними об'єктами за допомогою рухів рук та жестів у реальному часі.",
-      "ai_title": "Огляд нових розумних окулярів від Snap вартістю $2200",
-      "video_keywords": "augmented reality glasses, smart glasses, hand gestures, virtual reality"
-    },
-    {
       "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
       "link": "https://ryan.science/blog/keys-not-included",
       "summary": "<p>Article URL: <a href=\"https://ryan.science/blog/keys-not-included\">https://ryan.science/blog/keys-not-included</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735930\">https://news.ycombinator.com/item?id=49735930</a></p>\n<p>Points: 78</p>\n<p># Comments: 19</p>",
@@ -379,29 +349,29 @@
       "ai_summary": "Розсекречені судові документи у справі New York Times проти OpenAI та Microsoft виявили внутрішні попередження компаній. Вони визнавали, що їхній парсинг даних є \"найкрадіжкою праці в історії\" та запустить незворотний цикл руйнування для інтернету.",
       "ai_title": "OpenAI та Microsoft знали про руйнівний вплив своїх ШІ-моделей на веб",
       "video_keywords": "courtroom, documents, judge, office worker, stressed"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/llms-for-chip-design\">https://spectrum.ieee.org/llms-for-chip-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761432\">https://news.ycombinator.com/item?id=49761432</a></p>\n<p>Points: 19</p>\n<p># Comments: 11</p>",
+      "published": "2026-09-18T23:04:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія OpenAI застосувала свої штучні інтелекти для проєктування та оптимізації нового спеціалізованого чіпа під назвою Jalapeño. Цей крок демонструє зростаючу роль штучного інтелекту у створенні апаратного забезпечення наступного покоління. Використання LLM у процесі розробки дозволяє значно прискорити інженерні інновації.",
+      "ai_title": "OpenAI використала власні мовні моделі для створення нового чіпа",
+      "video_keywords": "microchip, circuit board, server rack, soldering iron"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/changelog\">https://code.claude.com/docs/en/changelog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49760187\">https://news.ycombinator.com/item?id=49760187</a></p>\n<p>Points: 408</p>\n<p># Comments: 148</p>",
+      "published": "2026-09-18T21:00:32+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інструмент розробки Claude Code оновився і тепер автоматично зчитує файл AGENTS.md, якщо в проєкті відсутній стандартний Claude.md. Це покращує налаштування контексту для агента та спрощує роботу з різними конфігураціями кодової бази. Оновлення вже доступне для розробників у системі контролю версій.",
+      "ai_title": "Claude Code отримав підтримку файлів AGENTS.md",
+      "video_keywords": "programmer hands, typing code, dual monitors, software developer"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "published": "2026-09-16T23:43:09+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Колишній віцепрезидент США Ел Гор заявив, що його менше хвилюють викиди від дата-центрів штучного інтелекту, ніж потенційні екзистенційні загрози, про які попереджають самі розробники. На його думку, головна небезпека криється у неконтрольованому розвитку технологій, а не в енергетичному сліді інфраструктури. Це інтерв'ю викликало жваві дискусії у технологічній спільноті.",
-      "ai_title": "Ел Гор поділився неочікуваною думкою щодо енергозатратності дата-центрів ШІ",
-      "video_keywords": "server room lights, futuristic glowing servers, data center cables, technician working on server"
-    },
-    {
-      "title": "US automakers could soon be forced to include AM radio for free",
-      "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
-      "published": "2026-09-16T22:37:08+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Палата представників США ухвалила законопроєкт, який вимагає обов'язкової наявності AM-радіоприймачів у нових автомобілях без додаткової плати. Це рішення здобуло рідкісну двопартійну підтримку у Конгресі завдяки важливості екстреного оповіщення населення. Тепер автоконцернам доведеться переглянути комплектацію своїх майбутніх моделей.",
-      "ai_title": "Автовиробників у США можуть зобов'язати встановлювати AM-радіо безплатно",
-      "video_keywords": "car dashboard electronics, modern car interior, person turning car radio knob, driving at night city lights"
-    },
     {
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
       "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
@@ -731,19 +701,39 @@
       "ai_summary": "Компанії, що працюють у сфері створення штучних світових моделей, володіють значними інвестиціями та увагою медіа. Проте засновники та постачальники даних ретельно приховують інформацію про те, що саме вони розробляють.",
       "ai_title": "Розробники світових моделей приховують свої технології",
       "video_keywords": "futuristic technology, server room, dark office, programmer typing code"
+    },
+    {
+      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "published": "2026-09-18T23:25:01+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія UP.Labs, яка тепер працює під назвою Vantora, залучила 100 мільйонів доларів інвестицій. Стартап спеціалізується на розробці та запуску технологічних компаній для великих промислових корпорацій з акцентом на фізичний штучний інтелект.",
+      "ai_title": "Стартап-студія зі створення промислового AI залучила $100 млн",
+      "video_keywords": "factory robotics, engineers collaborating, industrial automation, modern laboratory"
+    },
+    {
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "published": "2026-09-18T23:13:31+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Розробники штучного інтелекту активно обіцяють перемогти людські хвороби за допомогою технологій. Водночас дослідники з Anthropic паралельно застерігають про потенційні екзистенційні загрози від неконтрольованого розвитку AI.",
+      "ai_title": "Anthropic відкрила власну біологічну лабораторію для експериментів",
+      "video_keywords": "scientific laboratory, microscope, petri dish, biology research"
+    },
+    {
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "published": "2026-09-18T23:12:32+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Дослідники GovAI попереджають про серйозні ризики використання мовних моделей у військовій сфері. Вони наголошують, що військовослужбовці мають чітко розуміти невизначеність та помилки, притаманні сучасним системам штучного інтелекту.",
+      "ai_title": "Галюцинація штучного інтелекту ледь не спровокувала військову операцію США",
+      "video_keywords": "military control room, radar screens, tense operators, digital map interface"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
-      "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin absorbs Fed rate hike as officials see more tightening\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2PM955XFQTW2Q74Q14WCFR2/fed.jpg\" /></p><p>Bitcoin showed little immediate reaction to the Fed’s first rate increase since 2023, but 16 of 18 officials expect at least one m",
-      "published": "2026-09-17T02:52:08+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Головна криптовалюта демонструє стійкість і не показує різких рухів у відповідь на рішення Федеральної резервної системи США підвищити ключову ставку вперше з 2023 року. Водночас більшість посадовців регулятора очікують подальшого посилення монетарної політики.",
-      "ai_title": "Біткоїн стабільно тримається попри підвищення ставки ФРС",
-      "video_keywords": "bitcoin coin, stock market graphs, federal reserve building, digital currency chart"
-    },
     {
       "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
       "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
@@ -1093,6 +1083,16 @@
       "ai_summary": "Криптобіржа Coinbase подала заявку на дозвіл торгівлі безстроковими ф'ючерсами на окремі американські акції. Це дозволить інвесторам отримати доступ до інструментів цілодобової торгівлі деривативами на традиційному фондовому ринку.",
       "ai_title": "Coinbase готується запустити безстрокові ф'ючерси на акції в США",
       "video_keywords": "stock exchange, cryptocurrency trading, financial charts, computer screens"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
+      "published": "2026-09-18T21:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Огляд останніх новин та щоденних трендів, що впливають на ціну Біткоїна, технологію блокчейн, сектор DeFi та Web3. Аналітика ключових подій допомагає інвесторам залишатися в курсі ринкових змін та коливань курсу.",
+      "ai_title": "Головні події на криוринку за сьогодні",
+      "video_keywords": "cryptocurrency charts, trading screens, digital coins, stock market monitors"
     }
   ]
 }
