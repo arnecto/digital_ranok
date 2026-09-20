@@ -11,16 +11,6 @@
       "video_keywords": "microchip, circuit board, server rack, soldering iron"
     },
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "link": "https://code.claude.com/docs/en/changelog",
-      "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/changelog\">https://code.claude.com/docs/en/changelog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49760187\">https://news.ycombinator.com/item?id=49760187</a></p>\n<p>Points: 408</p>\n<p># Comments: 148</p>",
-      "published": "2026-09-18T21:00:32+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інструмент розробки Claude Code оновився і тепер автоматично зчитує файл AGENTS.md, якщо в проєкті відсутній стандартний Claude.md. Це покращує налаштування контексту для агента та спрощує роботу з різними конфігураціями кодової бази. Оновлення вже доступне для розробників у системі контролю версій.",
-      "ai_title": "Claude Code отримав підтримку файлів AGENTS.md",
-      "video_keywords": "programmer hands, typing code, dual monitors, software developer"
-    },
-    {
       "title": "SDCC – Small Device C Compiler",
       "link": "https://sdcc.sourceforge.net/",
       "summary": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
@@ -389,49 +379,19 @@
       "ai_summary": "Програміст представив власний експериментальний проект невеликого чат-бота на основі репозиторію Jevchat. Хоча бот вийшов доволі примітивним, він демонструє підходи до створення простих розмовних інтерфейсів.",
       "ai_title": "Розробник створив експериментального текстового чат-бота",
       "video_keywords": "person typing on laptop, computer monitor, software coding, developer workspace"
+    },
+    {
+      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "link": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/\">https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49779802\">https://news.ycombinator.com/item?id=49779802</a></p>\n<p>Points: 22</p>\n<",
+      "published": "2026-09-20T20:32:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Голова OpenAI Сем Альтман готується провести спеціальний брифінг для Ради Безпеки ООН. Подія стосуватиметься глобальних викликів та регулювання штучного інтелекту на міжнародному рівні.",
+      "ai_title": "Сем Альтман виступить перед Радою Безпеки ООН",
+      "video_keywords": "conference room, politicians speaking, microphone, UN assembly"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "published": "2026-09-18T21:44:33+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Консалтинговий гігант Accenture береться за один із найризикованіших проєктів у своїй історії, ставши партнером зі стартапом Anthropic. Це співробітництво може суттєво змінити підхід до впровадження корпоративного штучного інтелекту.",
-      "ai_title": "Accenture стає першим інтегрованим оцінювачем Anthropic",
-      "video_keywords": "business handshake, corporate meeting, modern office, executives talking"
-    },
-    {
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-      "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-      "published": "2026-09-18T20:24:33+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Випускник акселератора Y Combinator став прибутковим завдяки наданню послуг медичного страхування малого бізнесу. Компанія вже залучила 5 000 клієнтів і демонструє стрімке зростання на ринку InsurTech.",
-      "ai_title": "Страховий стартап Angle Health досяг оцінки в 2,7 мільярда доларів",
-      "video_keywords": "health insurance, office workspace, businesswoman working, financial growth chart"
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "published": "2026-09-18T20:18:14+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанії, що працюють у сфері створення штучних світових моделей, володіють значними інвестиціями та увагою медіа. Проте засновники та постачальники даних ретельно приховують інформацію про те, що саме вони розробляють.",
-      "ai_title": "Розробники світових моделей приховують свої технології",
-      "video_keywords": "futuristic technology, server room, dark office, programmer typing code"
-    },
-    {
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "published": "2026-09-18T23:25:01+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія UP.Labs, яка тепер працює під назвою Vantora, залучила 100 мільйонів доларів інвестицій. Стартап спеціалізується на розробці та запуску технологічних компаній для великих промислових корпорацій з акцентом на фізичний штучний інтелект.",
-      "ai_title": "Стартап-студія зі створення промислового AI залучила $100 млн",
-      "video_keywords": "factory robotics, engineers collaborating, industrial automation, modern laboratory"
-    },
     {
       "title": "Anthropic is operating a lab that conducts biology experiments",
       "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
@@ -561,29 +521,19 @@
       "ai_summary": "Експерти обговорюють гучні заяви лідерів технологічного ринку про необхідність пригальмувати гонку озброєнь у сфері штучного інтелекту. Залишається відкритим питання, чи готові топменеджмени реально зупинити свої розробки заради безпеки.",
       "ai_title": "Чи дійсно індустрія штучного інтелекту готова сповільнити темпи розвитку?",
       "video_keywords": "server room, data center, artificial intelligence, businessman thinking"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "published": "2026-09-20T20:29:07+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Попри величезні інвестиції та гучний ажіотаж навколо технологій світових моделей (world models), стартапи та їхні партнери ретельно приховують деталі своїх реальних розробок. Засновники та постачальники даних тримають свої проєкти в секреті через жорстку конкурентну боротьбу на ринку штучного інтелекту.",
+      "ai_title": "Секрети та прибутки: чому компанії у сфері world models приховують свої розробки",
+      "video_keywords": "server room, data center, computer screen, cybersecurity"
     }
   ],
   "Крипта": [
-    {
-      "title": "Coinbase files to bring single-stock perpetual futures to US market",
-      "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase files to bring single-stock perpetual futures to US market\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2V02EPZ2W43H6167S8HZBPZ/hi-uk-compliance-deadline-is-upcoming-coinbase.png\" /></p><p>Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, wi",
-      "published": "2026-09-18T19:53:54+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптобіржа Coinbase подала заявку на дозвіл торгівлі безстроковими ф'ючерсами на окремі американські акції. Це дозволить інвесторам отримати доступ до інструментів цілодобової торгівлі деривативами на традиційному фондовому ринку.",
-      "ai_title": "Coinbase готується запустити безстрокові ф'ючерси на акції в США",
-      "video_keywords": "stock exchange, cryptocurrency trading, financial charts, computer screens"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
-      "published": "2026-09-18T21:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Огляд останніх новин та щоденних трендів, що впливають на ціну Біткоїна, технологію блокчейн, сектор DeFi та Web3. Аналітика ключових подій допомагає інвесторам залишатися в курсі ринкових змін та коливань курсу.",
-      "ai_title": "Головні події на криוринку за сьогодні",
-      "video_keywords": "cryptocurrency charts, trading screens, digital coins, stock market monitors"
-    },
     {
       "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
       "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
