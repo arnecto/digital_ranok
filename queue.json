@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "From 1% to 26%. Claude now leads a quarter of Anthropic’s internal development on new AI models",
-      "link": "https://en.ain.ua/2026/09/18/claude-now-leads-a-quarter-of-anthropics-internal-development-on-new-ai-models/",
-      "summary": "Since the start of the year the share of the model’s independent work rose from 1% to 26%, and in August roughly 30,000 AI agents were simultaneously executing the company’s internal tasks.",
-      "published": "2026-09-18T09:02:00+00:00",
-      "source": "",
-      "ai_summary": "Частка самостійної роботи моделі Claude над новими проєктами компанії зросла з 1% до 26% з початку року. У серпні близько 30 тисяч штучних інтелектів одночасно виконували внутрішні завдання розробників.",
-      "ai_title": "Штучний інтелект Claude самостійно написав чверть нового коду для Anthropic",
-      "video_keywords": "software code scrolling on monitor, programmer typing at desk, server room blinking lights"
-    },
-    {
-      "title": "Bend 2 and the Vibe-Coding Trap",
-      "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-      "summary": "<p>Article URL: <a href=\"https://blog.liampwll.com/posts/bend_vibe_coding/\">https://blog.liampwll.com/posts/bend_vibe_coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753179\">https://news.ycombinator.com/item?id=49753179</a></p>\n<p>Points: 131</p>\n<p># Comments: 63</p>",
-      "published": "2026-09-18T12:03:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує феномен «вайб-кодингу», коли розробники покладаються на штучний інтелект для створення коду без належного розуміння архітектури. Це створює приховані пастки у вигляді складно відловлюваних помилок та вразливостей. Стаття закликає до критичного підходу при використанні генеративного ШІ в програмуванні.",
-      "ai_title": "Небезпека «вайб-кодингу»: чому сліпе довіри ШІ не працює",
-      "video_keywords": "programmer typing, computer screen, code, frustration"
-    },
-    {
       "title": "I don't like passkeys",
       "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
       "summary": "<p>Article URL: <a href=\"https://hawksley.dev/blog/i-dont-like-passkeys\">https://hawksley.dev/blog/i-dont-like-passkeys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753211\">https://news.ycombinator.com/item?id=49753211</a></p>\n<p>Points: 120</p>\n<p># Comments: 91</p>",
@@ -29,16 +9,6 @@
       "ai_summary": "У статті критично розглядається сучасна технологія passkeys, яка позиціонується як заміна звичним паролям. Автор пояснює потенційні незручності для користувачів та обмеження пристроїв при повній відмові від традиційних методів автентифікації. Це дискусійний погляд на безпеку в інтернеті.",
       "ai_title": "Чому паскеї не ідеальні: погляд критиків на майбутнє без паролів",
       "video_keywords": "smartphone lock screen, biometric scan, fingerprint scanner, frustration"
-    },
-    {
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
-      "published": "2026-09-18T11:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Розроблено інноваційну систему, здатну завчасно попереджати про раптові повені, які зазвичай виникають без попередження. Технологія має на меті врятувати життя людей у зонах ризику та мінімізувати руйнування від стихійних лих. Це значний крок вперед у сфері кліматичного моніторингу.",
-      "ai_title": "Нова технологія раннього попередження раптових повеней",
-      "video_keywords": "flash flood, heavy rain, overflowing river, emergency"
     },
     {
       "title": "Gavin Newsom is pushing for an AI kill switch",
@@ -389,6 +359,26 @@
       "ai_summary": "Компанія Stepfun анонсувала попередню версію своєї нової моделі штучного інтелекту Step 5. Розробники заявляють про значний прогрес у продуктивності та розширення меж можливого для сучасних нейромереж.",
       "ai_title": "Step 5 Preview: прорив у можливостях штучного інтелекту",
       "video_keywords": "artificial intelligence, futuristic interface, server rack, glowing code"
+    },
+    {
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549\">https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773998\">https://news.ycombinator.com/item?id=49773998</a></p>\n<p>Points",
+      "published": "2026-09-20T09:08:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Microsoft використала автономні AI-агенти для переписування середовища виконання Copilot на мову програмування Rust. Весь процес обійшовся усього в 120 тисяч доларів, що демонструє зростаючу ефективність ШІ у розробці програмного забезпечення.",
+      "ai_title": "Microsoft перенесла середовище Copilot на мову Rust за допомогою штучного інтелекту",
+      "video_keywords": "software code, computer screen, programmer typing, microchip"
+    },
+    {
+      "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+      "link": "https://faceanalysisai.com/",
+      "summary": "<p>Article URL: <a href=\"https://faceanalysisai.com/\">https://faceanalysisai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773871\">https://news.ycombinator.com/item?id=49773871</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-20T08:48:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили проєкт штучного інтелекту, який аналізує людські обличчя та оцінює їхню привабливість відповідно до суб'єктивних уподобань людей. Модель налаштована так, щоб максимально точно імітувати людське сприйняття краси.",
+      "ai_title": "Нова ШІ-модель оцінює привабливість облич за людськими вподобаннями",
+      "video_keywords": "human face, portrait, digital scanning, face recognition screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -595,36 +585,6 @@
   ],
   "Крипта": [
     {
-      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-      "summary": "",
-      "published": "2026-09-18T06:16:57+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Мережа Solana оновила показники швидкості формування блоків, однак загальна пропускна здатність транзакцій залишилася на колишньому рівні. Розробники продовжують працювати над оптимізацією блокчейна.",
-      "ai_title": "Solana прискорила створення блоків на 17%",
-      "video_keywords": "computer monitor, glowing lines, fast data stream, cryptocurrency network"
-    },
-    {
-      "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-      "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2STMBSK2VDWAGTJC3MX17R7/europe-binance-1.jpg\" /></p><p>Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed",
-      "published": "2026-09-18T08:50:38+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна біржа Binance відкинула спекуляції щодо можливого втручання ЄЦБ у процес ліцензування за правилами MiCA в Греції. Компанія наголосила на своїй відданості європейському регуляторному простору.",
-      "ai_title": "Binance підтвердила свої плани щодо ринку Європи",
-      "video_keywords": "modern skyscraper, corporate office, business handshake, city skyline"
-    },
-    {
-      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-      "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin cycle bottom may already be in at $58K, says analyst James Check\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SN22TNQ4C3YHZG80V0QR6A/bitcoin-domination-token-altcoin.jpg\" /></p><p>Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after two capitulat",
-      "published": "2026-09-18T08:47:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Відомий ончейн-аналітик Джеймс Чек припустив, що ціна біткоїна вже досягла свого мінімуму на рівні близько 58 000 доларів. За його словами, ринок пережив дві хвилі капітуляції та готовий до відновлення.",
-      "ai_title": "Аналітик назвав позначку $58 000 дном поточного циклу біткоїна",
-      "video_keywords": "stock market chart, trading floor, financial graphs, glowing numbers"
-    },
-    {
       "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
       "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
       "summary": "",
@@ -635,16 +595,6 @@
       "video_keywords": "bank building, European flag, financial district, businessman suit"
     },
     {
-      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
-      "summary": "",
-      "published": "2026-09-18T11:15:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалюта XRP демонструє технічні індикатори, які віщують появу класичного «золотого хреста» на графіках. Увага інвесторів масово перемикається з біткоїна на альтернативні цифрові активи, що підживлює оптимізм на ринку.",
-      "ai_title": "XRP готується до «золотого хреста» на тлі зростання альткоїнів",
-      "video_keywords": "stock market chart, digital currency graph, trading monitor, financial screen"
-    },
-    {
       "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
       "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HYPE hits record above $90 as Hyperliquid launches manual borrowing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T42CNV25QSYE1M3WVJM8MM/11111111.png\" /></p><p>HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bi",
@@ -653,16 +603,6 @@
       "ai_summary": "Криптовалюта HYPE злетіла до рекордних позначок після того, як платформа Hyperliquid запустила функцію ручного запозичення. Нова опція дозволяє користувачам брати стейблкоїни під заставу власних активів, що стимулювало попит.",
       "ai_title": "Токен HYPE встановив новий рекорд вище 90 доларів",
       "video_keywords": "cryptocurrency chart, digital coin, trading terminal, office computer screen"
-    },
-    {
-      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-      "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XA5XHGVP1S4E8DGH0JJ4XZ/sponsor-screen-traid2.jpg\" /></p><p>The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin",
-      "published": "2026-09-18T10:46:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Ціновий індикатор Fisher Transform сформував надзвичайно рідкісний бичачий перетин для біткоїна — лише вчетверте за всю історію. Ця подія посилила оптимістичні настрої серед трейдерів щодо подальшого розвитку поточного бичачого ринку.",
-      "ai_title": "Біткоїн подає потужні бичачі сигнали завдяки рідкісному індикатору",
-      "video_keywords": "bitcoin symbol, glowing cryptocurrency, stock market analysis, futuristic trading"
     },
     {
       "title": "Zcash targets November upgrade to make private payments up to three times faster",
@@ -853,6 +793,16 @@
       "ai_summary": "Компанія REX випустила новий біржовий фонд ASSX, який пропонує подвійну щоденну експозицію на акції криптоорієнтованої фірми Strive. Це дає трейдерам можливість агресивно спекулювати на активах, пов'язаних із резервами першої криптовалюти.",
       "ai_title": "Запуск нового біткоїн-ETF з подвійним кредитним плечем",
       "video_keywords": "stock market trading floor, digital charts, cryptocurrency graph, financial analytics screen"
+    },
+    {
+      "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
+      "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grayscale’s Zcash ETF files for 3-for-1 forward share split\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2Z0TBMW51CTC0HJ1PNB0RV6/hi-how-zcash-went-from-low-profile-token-to-the-most-searched-asset-in-november1.png\" /></p><p>At the close of trading on Sept. 28, shareholders will r",
+      "published": "2026-09-20T09:14:27+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Grayscale офіційно подала документи на проведення форвардного спліту акцій свого біржового фонду на базі криптовалюти Zcash. Згідно з планом, наприкінці вересня інвестори отримають по три акції замість кожної старої, що має підвищити ліквідність інструменту.",
+      "ai_title": "Grayscale запускає поділ акцій свого Zcash ETF у пропорції 3 до 1",
+      "video_keywords": "stock exchange trading floor, financial charts green, digital graphs screen"
     }
   ]
 }
