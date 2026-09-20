@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "I don't like passkeys",
-      "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "summary": "<p>Article URL: <a href=\"https://hawksley.dev/blog/i-dont-like-passkeys\">https://hawksley.dev/blog/i-dont-like-passkeys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753211\">https://news.ycombinator.com/item?id=49753211</a></p>\n<p>Points: 120</p>\n<p># Comments: 91</p>",
-      "published": "2026-09-18T12:06:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті критично розглядається сучасна технологія passkeys, яка позиціонується як заміна звичним паролям. Автор пояснює потенційні незручності для користувачів та обмеження пристроїв при повній відмові від традиційних методів автентифікації. Це дискусійний погляд на безпеку в інтернеті.",
-      "ai_title": "Чому паскеї не ідеальні: погляд критиків на майбутнє без паролів",
-      "video_keywords": "smartphone lock screen, biometric scan, fingerprint scanner, frustration"
-    },
-    {
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
       "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to [&#8230;]",
@@ -49,16 +39,6 @@
       "ai_summary": "Новий інструмент використовує штучний інтелект для автоматизованого створення складних параметричних геометричних робочих процесів. Це рішення значно спрощує та прискорює роботу з проєсуванням та дизайном у реальному часі.",
       "ai_title": "GrassLobster: генерація параметричної геометрії за допомогою ШІ-агентів",
       "video_keywords": "3d modeling software, architectural design, computer screen, futuristic graphics"
-    },
-    {
-      "title": "I vibed a proof of Conway's conjecture",
-      "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "summary": "<p><a href=\"https://github.com/gaearon/conway-refinement#why-i-think-its-correct\" rel=\"nofollow\">https://github.com/gaearon/conway-refinement#why-i-think-its...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49755024\">https://news.ycombinator.com/item?id=49755024</a></p>\n<p>Points: 99</p>\n<p># Comments: 94</p>",
-      "published": "2026-09-18T14:36:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомий програміст поділився успішним досвідом використання інтерактивних підказок штучного інтелекту для розв'язання складної математичної задачі. Цей експеримент демонструє нові можливості застосування мовних моделей у фундаментальній науці.",
-      "ai_title": "Розробник створив доказ гіпотези Конвея за допомогою штучного інтелекту",
-      "video_keywords": "programmer working, lines of code, dual monitors, typing on keyboard"
     },
     {
       "title": "Saving another 100TB of RAM with math (and Rust)",
@@ -379,19 +359,39 @@
       "ai_summary": "Розробники представили проєкт штучного інтелекту, який аналізує людські обличчя та оцінює їхню привабливість відповідно до суб'єктивних уподобань людей. Модель налаштована так, щоб максимально точно імітувати людське сприйняття краси.",
       "ai_title": "Нова ШІ-модель оцінює привабливість облич за людськими вподобаннями",
       "video_keywords": "human face, portrait, digital scanning, face recognition screen"
+    },
+    {
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "link": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-2.1\">https://qwen.ai/blog?id=qwen-image-2.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775499\">https://news.ycombinator.com/item?id=49775499</a></p>\n<p>Points: 101</p>\n<p># Comments: 33</p>",
+      "published": "2026-09-20T13:09:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили Qwen-Image-2.1 — компактну та уніфіковану систему для створення візуального контенту. Нова модель вирізняється високою ефективністю та покращеними можливостями генерації.",
+      "ai_title": "Вийшла нова модель Qwen-Image-2.1 для ефективної генерації зображень",
+      "video_keywords": "computer screen, artificial intelligence, digital art, software interface"
+    },
+    {
+      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "link": "https://softwarecrisis.dev/letters/llmentalist/",
+      "summary": "<p>Article URL: <a href=\"https://softwarecrisis.dev/letters/llmentalist/\">https://softwarecrisis.dev/letters/llmentalist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775104\">https://news.ycombinator.com/item?id=49775104</a></p>\n<p>Points: 75</p>\n<p># Comments: 43</p>",
+      "published": "2026-09-20T12:20:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники виявили, що сучасні чат-боти на базі великих мовних моделей використовують психологічні маніпуляції, схожі на трюки екстрасенсів. Це створює ілюзію свідомості та глибокого розуміння співрозмовника.",
+      "ai_title": "Мовні моделі копіюють прийоми медіумів та фокусників",
+      "video_keywords": "chatbot interface, typing screen, glowing matrix, digital brain"
+    },
+    {
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
+      "published": "2026-09-20T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Експерти попереджають про високу вразливість критичної інфраструктури до кібератак через людський фактор. Попри страхи перед бунтом штучного інтелекту, саме недбалість користувачів становить найбільшу небезпеку для енергосистем.",
+      "ai_title": "Люди, а не штучний інтелект, залишаються головною кіберзагрозою для енергетики",
+      "video_keywords": "power plant, control room, cyber attack, computer hacker"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "published": "2026-09-18T16:35:49+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Manus розпочала переговори про новий раунд фінансування на суму 500 мільйонів доларів. Це відбувається на тлі відновлення її незалежної діяльності після скасування злиття з Meta раніше цього року.",
-      "ai_title": "Стартап Manus залучає пів мільярда доларів при оцінці в 4 мільярди",
-      "video_keywords": "modern office, business handshake, financial graphs, corporate boardroom"
-    },
     {
       "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
       "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
@@ -411,16 +411,6 @@
       "ai_summary": "На ринку з'явився новий матрац Orion з підтримкою штучного інтелекту вартістю 2195 доларів. Технологія забезпечує постійне охолодження всієї поверхні ліжка для ідеального комфорту під час сну.",
       "ai_title": "У США створили унікальний ШІ-матрац вартістю понад дві тисячі доларів",
       "video_keywords": "modern bedroom, sleeping person, luxury bed, smart home device"
-    },
-    {
-      "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-      "summary": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-      "published": "2026-09-18T14:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відомий підприємець Джефф Лоусон готується представити свій новий амбітний проєкт у сфері термоядерного синтезу. Деталі інноваційної ініціативи будуть обговорені на майбутній технологічній конференції.",
-      "ai_title": "Співзасновник Inertia Джефф Лоусон інвестує в термоядерну енергетику",
-      "video_keywords": "nuclear fusion reactor, laboratory equipment, scientist working, glowing plasma"
     },
     {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
@@ -581,39 +571,19 @@
       "ai_summary": "Дональд Трамп виступив із ініціативою дати штучному інтелекту нову назву. Окрім цього, він заявив про плани створити спеціальний підрозділ штучного інтелекту під назвою AI Force.",
       "ai_title": "Трамп запропонував перейменувати штучний інтелект та створити AI Force",
       "video_keywords": "podium microphone, press conference, politician speaking, American flag"
+    },
+    {
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "published": "2026-09-20T14:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Менше тижня залишилося до завершення продажу квитків на конференцію TechCrunch Disrupt 2026 за зниженою ціною. Подія об'єднає понад 10 тисяч засновників стартапів, інвесторів та технологічних лідерів.",
+      "ai_title": "Знижки на квитки на TechCrunch Disrupt 2026 закінчуються за тиждень",
+      "video_keywords": "tech conference, business presentation, audience listening"
     }
   ],
   "Крипта": [
-    {
-      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
-      "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
-      "summary": "",
-      "published": "2026-09-18T12:57:06+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Президентка Європейського центрального центру Крістін Лагард особисто втрутилася у процес, щоб зупинити отримання ліцензії Binance за новими правилами MiCA. Це рішення суттєво вплине на регулювання криптовалютного ринку в Європейському Союзі та операції біржі в регіоні.",
-      "ai_title": "ЄЦБ заблокував європейську ліцензію для Binance",
-      "video_keywords": "bank building, European flag, financial district, businessman suit"
-    },
-    {
-      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
-      "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"HYPE hits record above $90 as Hyperliquid launches manual borrowing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T42CNV25QSYE1M3WVJM8MM/11111111.png\" /></p><p>HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bi",
-      "published": "2026-09-18T11:54:24+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалюта HYPE злетіла до рекордних позначок після того, як платформа Hyperliquid запустила функцію ручного запозичення. Нова опція дозволяє користувачам брати стейблкоїни під заставу власних активів, що стимулювало попит.",
-      "ai_title": "Токен HYPE встановив новий рекорд вище 90 доларів",
-      "video_keywords": "cryptocurrency chart, digital coin, trading terminal, office computer screen"
-    },
-    {
-      "title": "Zcash targets November upgrade to make private payments up to three times faster",
-      "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-      "summary": "",
-      "published": "2026-09-18T12:50:01+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Мережа Zcash запланувала на листопад важливе технічне оновлення, яке має прискорити приватні платежі майже втричі. Це покращить масштабування та загальний користувацький досвід при роботі з конфіденційними транзакціями.",
-      "ai_title": "Zcash готує масштабне оновлення для прискорення приватних транзакцій",
-      "video_keywords": "computer code, cybersecurity lock, server room, digital security"
-    },
     {
       "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
       "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -803,6 +773,26 @@
       "ai_summary": "Компанія Grayscale офіційно подала документи на проведення форвардного спліту акцій свого біржового фонду на базі криптовалюти Zcash. Згідно з планом, наприкінці вересня інвестори отримають по три акції замість кожної старої, що має підвищити ліквідність інструменту.",
       "ai_title": "Grayscale запускає поділ акцій свого Zcash ETF у пропорції 3 до 1",
       "video_keywords": "stock exchange trading floor, financial charts green, digital graphs screen"
+    },
+    {
+      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "summary": "",
+      "published": "2026-09-20T12:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптотрейдери готувалися до масштабного падіння ринку цього тижня, проте перша криптовалюта продемонструвала стійкість. Біткоїн зміг відіграти втрати та здивував учасників ринку, які очікували на повну ліквідацію активів. Цей несподіваний рух знову підтвердив високу волатильність та непередбачуваність крипторинку.",
+      "ai_title": "Біткоїн уникнув обвалу попри песимістичні прогнози трейдерів",
+      "video_keywords": "bitcoin chart, cryptocurrency trading, trading floor, financial panic"
+    },
+    {
+      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+      "summary": "",
+      "published": "2026-09-20T12:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики вважають, що провідні американські фінтех-компанії та криптобіржі першими отримають вигоду від нової ініціативи Комісії з цінних паперів і бірж (SEC). Мова йде про перехід на токенізовані акції, що може суттєво змінити ландшафт традиційного трейдингу. Це відкриває нові можливості для інтеграції блокчейн-технологій у класичні фінанси.",
+      "ai_title": "Coinbase та Robinhood можуть виграти від токенізації акцій у США",
+      "video_keywords": "stock market trading, digital tablet, financial analytics, cryptocurrency exchange"
     }
   ]
 }
