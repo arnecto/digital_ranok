@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "link": "https://spectrum.ieee.org/llms-for-chip-design",
-      "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/llms-for-chip-design\">https://spectrum.ieee.org/llms-for-chip-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49761432\">https://news.ycombinator.com/item?id=49761432</a></p>\n<p>Points: 19</p>\n<p># Comments: 11</p>",
-      "published": "2026-09-18T23:04:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI застосувала свої штучні інтелекти для проєктування та оптимізації нового спеціалізованого чіпа під назвою Jalapeño. Цей крок демонструє зростаючу роль штучного інтелекту у створенні апаратного забезпечення наступного покоління. Використання LLM у процесі розробки дозволяє значно прискорити інженерні інновації.",
-      "ai_title": "OpenAI використала власні мовні моделі для створення нового чіпа",
-      "video_keywords": "microchip, circuit board, server rack, soldering iron"
-    },
-    {
       "title": "SDCC – Small Device C Compiler",
       "link": "https://sdcc.sourceforge.net/",
       "summary": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
@@ -389,29 +379,29 @@
       "ai_summary": "Голова OpenAI Сем Альтман готується провести спеціальний брифінг для Ради Безпеки ООН. Подія стосуватиметься глобальних викликів та регулювання штучного інтелекту на міжнародному рівні.",
       "ai_title": "Сем Альтман виступить перед Радою Безпеки ООН",
       "video_keywords": "conference room, politicians speaking, microphone, UN assembly"
+    },
+    {
+      "title": "Google's Open Agentic Orchestrator",
+      "link": "https://agentexecutor.io",
+      "summary": "<p>Article URL: <a href=\"https://agentexecutor.io\">https://agentexecutor.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780797\">https://news.ycombinator.com/item?id=49780797</a></p>\n<p>Points: 68</p>\n<p># Comments: 20</p>",
+      "published": "2026-09-20T22:32:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Google випустила новий інструмент для управління та координації автономних штучних інтелектів. Платформа покликана спростити створення складних багаторазових AI-систем та їх взаємодію між собою.",
+      "ai_title": "Google представляє новий відкритий оркеструвальник для агентів",
+      "video_keywords": "artificial intelligence, code editor, computer screen, programmer"
+    },
+    {
+      "title": "Nobody pays for FOSS, we can force them to",
+      "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "summary": "<p>Article URL: <a href=\"https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/\">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780064\">https://news.ycombinator.com/item?id=49780064</a></p>\n<p>Points: 102</p>\n<p># Comments: 68</p>",
+      "published": "2026-09-20T21:04:32+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У світі розробки знову гостро постало питання фінансування Open Source проєктів. Експерти обговорюють радикальні методи стимулювання компаній та користувачів підтримувати вільний код фінансово.",
+      "ai_title": "Чи змусять розробники платити за відкрите програмне забезпечення?",
+      "video_keywords": "programmer typing, laptop keyboard, server room, coding session"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "published": "2026-09-18T23:13:31+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Розробники штучного інтелекту активно обіцяють перемогти людські хвороби за допомогою технологій. Водночас дослідники з Anthropic паралельно застерігають про потенційні екзистенційні загрози від неконтрольованого розвитку AI.",
-      "ai_title": "Anthropic відкрила власну біологічну лабораторію для експериментів",
-      "video_keywords": "scientific laboratory, microscope, petri dish, biology research"
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "published": "2026-09-18T23:12:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Дослідники GovAI попереджають про серйозні ризики використання мовних моделей у військовій сфері. Вони наголошують, що військовослужбовці мають чітко розуміти невизначеність та помилки, притаманні сучасним системам штучного інтелекту.",
-      "ai_title": "Галюцинація штучного інтелекту ледь не спровокувала військову операцію США",
-      "video_keywords": "military control room, radar screens, tense operators, digital map interface"
-    },
     {
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
       "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
@@ -534,16 +524,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
-      "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WA562VCY2PY1P3DW1N862B/hi-time-to-switch-license-hong-kong.png\" /></p><p>Former banking official gets four years in prison over false letters of cred",
-      "published": "2026-09-19T07:50:58+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Колишнього банкіра засуджено до чотирьох років ув'язнення за видачу фальшивих акредитивів на мільярди доларів. Слідство виявило, що частина хабарів за ці фінансові махінації виплачувалася в криптовалюті.",
-      "ai_title": "У Гонконзі засудили ексбанкіра за махинації на $1,6 мільярда та криптохабарі",
-      "video_keywords": "courtroom judge handcuffs prison bars, digital currency transfer, financial district skyline skyscraper"
-    },
     {
       "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
       "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
@@ -683,6 +663,16 @@
       "ai_summary": "Вартість акцій криптобіржі Gemini впала на 80% від показників після первинного розміщення на біржі. На тлі такого значного падіння на ринку знову почали активно обговорювати можливе поглинання компанії іншими гравцями.",
       "ai_title": "Акції криптоплатформи Gemini обвалилися на 80%",
       "video_keywords": "stock market crash, trading screen, down arrow, financial graph"
+    },
+    {
+      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30EAE44F9E8Z0P8M1SEBDSD/magazine-cover-collage-sept-21.png\" /></p><p>Crypto missed out CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced.",
+      "published": "2026-09-20T23:37:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Попри те, що криптовалютний ринок оминув закон CLARITY, сфера цифрових активів отримала важливі перемоги. Зокрема, було легалізовано токенизовані акції, а ініціатива зі створення біткоїн-резерву просунулася вперед, що відкриває нові можливості для інвесторів.",
+      "ai_title": "Бичачі настрої навколо ARB та легалізація токенизованих акцій",
+      "video_keywords": "cryptocurrency trading, digital coins, stock market graphs, financial screen"
     }
   ]
 }
