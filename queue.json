@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "SDCC – Small Device C Compiler",
-      "link": "https://sdcc.sourceforge.net/",
-      "summary": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
-      "published": "2026-09-19T02:32:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Оновлено популярний компілятор Small Device C Compiler, призначений для вбудованих систем та мікроконтролерів. Це важливий інструмент для розробників апаратного забезпечення, що оптимізує роботу з обмеженими ресурсами пам'яті.",
-      "ai_title": "Вийшов новий релиз компілятора SDCC для мікроконтролерів",
-      "video_keywords": "microcontroller, circuit board, soldering iron, electronics workbench"
-    },
-    {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "summary": "<p>Article URL: <a href=\"https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763987\">https://news.ycombinator.com/item?id=49763987</a></p>\n<p>Points: 74</p>\n<p># Comments: 34</p>",
-      "published": "2026-09-19T06:41:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Штучний інтелект нового покоління зміг розгадати складний німецький шифр часів Першої світової війни. Цей прорив демонструє зростаючі можливості штучного інтелекту в криптографії та історичних дослідженнях.",
-      "ai_title": "GPT-6 Astra успішно розшифрував радіошифр Першої світової війни",
-      "video_keywords": "computer screen, code, decipher, typing"
-    },
-    {
       "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
       "link": "https://browser.geekbench.com/v7/cpu/389219",
       "summary": "<p>Article URL: <a href=\"https://browser.geekbench.com/v7/cpu/389219\">https://browser.geekbench.com/v7/cpu/389219</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763883\">https://news.ycombinator.com/item?id=49763883</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
@@ -399,6 +379,16 @@
       "ai_summary": "У світі розробки знову гостро постало питання фінансування Open Source проєктів. Експерти обговорюють радикальні методи стимулювання компаній та користувачів підтримувати вільний код фінансово.",
       "ai_title": "Чи змусять розробники платити за відкрите програмне забезпечення?",
       "video_keywords": "programmer typing, laptop keyboard, server room, coding session"
+    },
+    {
+      "title": "Deterministic Core, Non-Deterministic Shell",
+      "link": "https://outdata.net/blog/260803",
+      "summary": "<p>Article URL: <a href=\"https://outdata.net/blog/260803\">https://outdata.net/blog/260803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49782220\">https://news.ycombinator.com/item?id=49782220</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-21T02:02:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті розглядається сучасний підхід до побудови програмних систем, де надійне та чітке ядро поєднується з гнучкими компонентами на базі штучного інтелекту. Такий підхід допомагає поєднати стабільність класичного коду з адаптивністю сучасних алгоритмів. Це рішення стає критично важливим для створення надійних AI-додатків.",
+      "ai_title": "Архітектура програмного забезпечення: детерміноване ядро та непередбачувана оболонка",
+      "video_keywords": "server room, computer code, developer typing, monitor screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -673,6 +663,46 @@
       "ai_summary": "Попри те, що криптовалютний ринок оминув закон CLARITY, сфера цифрових активів отримала важливі перемоги. Зокрема, було легалізовано токенизовані акції, а ініціатива зі створення біткоїн-резерву просунулася вперед, що відкриває нові можливості для інвесторів.",
       "ai_title": "Бичачі настрої навколо ARB та легалізація токенизованих акцій",
       "video_keywords": "cryptocurrency trading, digital coins, stock market graphs, financial screen"
+    },
+    {
+      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+      "summary": "",
+      "published": "2026-09-21T04:03:43+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта світу встановила новий локальний рекорд, перевищивши позначку в 81 000 доларів. Тим часом токен NEAR стрибнув одразу на 23% через зростання трафіку завдяки кроссчейн-обмінам із Zcash.",
+      "ai_title": "Біткоїн перевищив 81 000 доларів на тлі зростання альткоїнів",
+      "video_keywords": "bitcoin chart, crypto trading screen, rising stock market, cryptocurrency graphs"
+    },
+    {
+      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+      "summary": "",
+      "published": "2026-09-21T03:56:23+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Ціна біткоїна пробила важливий технічний рівень опору. Історично подібні прориви неодноразово передували масштабним ралі на криптовалютному ринку.",
+      "ai_title": "Біткоїн подолав ключовий рубіж перед можливим бичачим трендом",
+      "video_keywords": "bitcoin currency, digital gold, financial chart, up arrow graphics"
+    },
+    {
+      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin reclaims 50-week moving average: Is the bear market over? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M313HQ80FRZDHTGSS9YGGJSR/bitcoin-weekly-close.jpg\" /></p><p>Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts",
+      "published": "2026-09-21T04:29:59+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Закриття тижня вище важливої ковзної середньої історично сигналізувало про завершення затяжних спадних трендів. Аналітики обговорюють, чи є це остаточним розворотом ринку в бік росту.",
+      "ai_title": "Біткоїн повернув 50-тижневу ковзну середню: чи закінчився ведмежий ринок?",
+      "video_keywords": "trading terminal, stock market data, financial analytics, modern office monitor"
+    },
+    {
+      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+      "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hana Bank taps Euroclear blockchain for $100M bond issuance: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M310AVAYEMVP188717499P0H/sk-hana.png\" /></p><p>The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Eurocl",
+      "published": "2026-09-21T04:27:32+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Провідний банк успішно провів емісію п'ятирічних цифрових облігацій із використанням блокчейн-платформи. Це дозволило скоротити час розрахунків за цінними паперами з кількох днів до одного.",
+      "ai_title": "Південнокорейський Hana Bank випустив цифрові облігації на 100 мільйонів через блокчейн Euroclear",
+      "video_keywords": "modern bank building, corporate finance, digital tablet business, handshake contract"
     }
   ]
 }
