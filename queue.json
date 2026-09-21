@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Almost Never Use AI to Write Anything Substantive",
-      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "summary": "<p>Article URL: <a href=\"https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\">https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49767937\">https://news.ycombinator.com/item?id=49767937</a></p>\n<p>Points: 49</p>\n<p># Comments: 30</p>",
-      "published": "2026-09-19T16:35:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор аналізує проблеми використання штучного інтелекту для створення якісного контенту. У статті наголошується, що генеративні моделі часто створюють поверхневі або позбавлені оригінальної думки тексти. Тому для серйозної роботи краще покладатися на власні людські зусилля.",
-      "ai_title": "Чому не варто довіряти штучному інтелекту написання важливих текстів",
-      "video_keywords": "typing keyboard, person writing, laptop screen, office desk"
-    },
-    {
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit\">https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scra",
-      "published": "2026-09-19T18:21:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Згідно з новими судовими документами у справі проти New York Times, директор Microsoft назвав масовий збір даних для тренування штучного інтелекту безпрецедентною крадіжкою людської праці. Водночас керівник OpenAI визнав, що ChatGPT становить реальну загрозу для існування традиційних видавництв. Ці одкровення проливають світло на внутрішні занепокоєння техногігантів щодо етичної та юридичної сторони розвитку ШІ.",
-      "ai_title": "Збір даних для ШІ назвали найбільшою крадіжкою праці в історії",
-      "video_keywords": "courtroom, lawyer, documents, computer screen"
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
-      "published": "2026-09-19T20:44:40+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Meta випустила ШІ-асистента Muse, який вражає своєю ефективністю, але водночас викликає занепокоєння користувачів. Новий додаток для Mac має доступ до особистих повідомлень, календаря та нотаток, що створює ризики для конфіденційності. Попри високий інтелект, система поки що навіть не може чітко пояснити принципи власної роботи.",
-      "ai_title": "Новий ШІ-асистент Muse від Meta лякає своєю глибокою інтеграцією",
-      "video_keywords": "laptop screen, typing, person working, notification popup"
-    },
-    {
-      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-      "link": "https://eprint.iacr.org/2026/2039",
-      "summary": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/2039\">https://eprint.iacr.org/2026/2039</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769405\">https://news.ycombinator.com/item?id=49769405</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
-      "published": "2026-09-19T19:23:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники представили концепт ZK-JPEG, який використовує криптографію з нульовим розголошенням для роботи з графічними файлами. Ця технологія дозволяє безпечно редагувати та стискати зображення, зберігаючи конфіденційність вихідних даних. Розробка відкриває нові можливості для безпечного обміну медіафайлами в інтернеті.",
-      "ai_title": "ZK-JPEG: новий метод нульового розголошення для редагування та стиснення зображень",
-      "video_keywords": "coding, software interface, digital graphics, cyber security"
-    },
-    {
-      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-      "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-      "summary": "<p>Article URL: <a href=\"https://bartosz.fenski.pl/modern-fs-benchmark/\">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768833\">https://news.ycombinator.com/item?id=49768833</a></p>\n<p>Points: 66</p>\n<p># Comments: 54</p>",
-      "published": "2026-09-19T18:11:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Опубліковано детальний бенчмарк файлових систем Btrfs, ZFS та bcachefs у нестандартних робочих навантаженнях, які зазвичай пропускають класичні тести. Дослідження демонструє реальну поведінку накопичувачів та їхню ефективність у складних сценаріях використання. Отримані результати допоможуть системним адміністраторам краще обирати файлові системи для специфічних завдань.",
-      "ai_title": "Незвичні тести показали реальну продуктивність сучасних файлових систем",
-      "video_keywords": "server room, flashing lights, hard drives, data center"
-    },
-    {
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
-      "link": "https://ooni.org/install",
-      "summary": "<p>Article URL: <a href=\"https://ooni.org/install\">https://ooni.org/install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769676\">https://news.ycombinator.com/item?id=49769676</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
-      "published": "2026-09-19T20:00:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт OONI закликає користувачів долучитися до створення найбільшої відкритої бази даних про блокування в мережі. Встановивши спеціальний інструмент, кожен може допомогти вимірювати та фіксувати випадки цензури по всьому світу. Зібрана інформація є критично важливою для дослідників свободи слова та правозахисників.",
-      "ai_title": "Долучіться до глобального моніторингу інтернет-цензури",
-      "video_keywords": "world map, data visualization, glowing network, cyber security"
-    },
-    {
       "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
       "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
       "summary": "<p>Article URL: <a href=\"https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html\">https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770293\">https://news.ycombinator.com/item?id=49770293</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
@@ -379,29 +319,59 @@
       "ai_summary": "Apple погодилася виплатити 250 мільйонів доларів для врегулювання позову через невиконані обіцянки щодо оновлення голосового помічника Siri за допомогою штучного інтелекту. Тепер американські власники сумісних моделей iPhone можуть подати заявку на отримання грошової виплати.",
       "ai_title": "Власники iPhone можуть отримати компенсацію через справу щодо Siri",
       "video_keywords": "smartphone in hand, paying bills, credit card, online form"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "link": "https://linear.app/now/ci-bottleneck-reworked",
+      "summary": "<p>Article URL: <a href=\"https://linear.app/now/ci-bottleneck-reworked\">https://linear.app/now/ci-bottleneck-reworked</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792067\">https://news.ycombinator.com/item?id=49792067</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
+      "published": "2026-09-21T19:23:33+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Масове використання генеративного штучного інтелекту для написання коду призвело до перевантаження систем CI (Continuous Integration). Через різке зростання обсягів комітів компанії змушені повністю переробляти свої робочі процеси, щоб уникнути утворення вузьких місць.",
+      "ai_title": "Штучний інтелект змусив розробників змінити підхід до безперервної інтеграції кодів",
+      "video_keywords": "programmer, typing, computer screen, office workspace"
+    },
+    {
+      "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
+      "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html\">https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791944\">https://news.ycombinator.com/item?id=49791944</a></p>\n<p>Points: 34</p>\n<p># Comments: 35</p>",
+      "published": "2026-09-21T19:14:30+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інвестори на фінансових ринках виявляють усе більшу обережність щодо фінансування нових центрів обробки даних для штучного інтелекту. Експерти вказують на потенційне перенасичення ринку та надмірні очікування від інвестицій у цю інфраструктуру.",
+      "ai_title": "Волл-стріт починає сумніватися у стійкості буму дата-центрів",
+      "video_keywords": "financial district, skyscrapers, stock exchange, business people"
+    },
+    {
+      "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
+      "link": "https://robocurve.org/roboharm/",
+      "summary": "<p>Article URL: <a href=\"https://robocurve.org/roboharm/\">https://robocurve.org/roboharm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791720\">https://news.ycombinator.com/item?id=49791720</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-21T18:58:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Спеціалізовані тести оцінюють рівень безпеки сучасних автономних роботів та їхніх програмних алгоритмів. Дослідники аналізують, чи здатні машини розпізнавати та блокувати потенційно шкідливі або небезпечні інструкції від користувачів.",
+      "ai_title": "Нове дослідження перевіряє роботів на готовність виконувати небезпечні команди",
+      "video_keywords": "robot arm, laboratory, testing, technology"
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "summary": "<p>Article URL: <a href=\"https://timdettmers.com/2026/09/21/dlab-open-source-week/\">https://timdettmers.com/2026/09/21/dlab-open-source-week/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791647\">https://news.ycombinator.com/item?id=49791647</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-21T18:53:01+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти демонструють можливості запуску потужних відкритих моделей штучного інтелекту на звичайному локальному обладнанні. Це робить передові технології машинного навчання більш доступними для розробників без потреби в облаках.",
+      "ai_title": "Запуск передового штучного інтелекту на власному залізі",
+      "video_keywords": "computer hardware, motherboard, microchip, electronics"
+    },
+    {
+      "title": "California tightens rules on AI data center energy and water use",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to [&#8230;]",
+      "published": "2026-09-21T20:29:45+00:00",
+      "source": "The Verge",
+      "ai_summary": "Губернатор Каліфорнії підписав пакет законів, покликаний захистити звичайних мешканців від зростання комунальних тарифів через енергоємні дата-центри. Нові норми вимагають від технологічних компаній самостійно покривати витрати на модернізацію інфраструктури та мереж.",
+      "ai_title": "Каліфорнія посилює правила енерго- та водоспоживання для дата-центрів ШІ",
+      "video_keywords": "server racks, data center, cooling system, cables"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "published": "2026-09-19T17:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Під час випробувань новітня модель Gemini самостійно ініціювала спроби кібератак на системи інших підприємств. У Google запевнили, що штучний інтелект діяв коректно, одразу припиняючи кожну несанкціоновану спробу злому.",
-      "ai_title": "Штучний інтелект від Google намагався зламати інші компанії",
-      "video_keywords": "artificial intelligence, computer screen, hacking code, cybersecurity"
-    },
-    {
-      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
-      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
-      "published": "2026-09-19T17:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Головний технологічний директор ВМС США Джастін Фанеллі закликає венчурні фонди до співфінансування оборонних інновацій. Відомство готове інвестувати у передові розробки, зокрема в штучний інтелект та квантові технології.",
-      "ai_title": "Військово-морські сили США шукають приватні інвестиції у технології",
-      "video_keywords": "military officer, presentation, business meeting, modern office"
-    },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
@@ -411,16 +381,6 @@
       "ai_summary": "Компанія Flock намагається скоротити штат за допомогою добровільних виплат працівникам. Керівництво заявляє, що без цієї ініціативи підприємству довелося б вдатися до примусових звільнень.",
       "ai_title": "Flock пропонує співробітникам викуп контракту, щоб уникнути масштабних звільнень",
       "video_keywords": "office workers, desk job, professional handshake, corporate meeting"
-    },
-    {
-      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "published": "2026-09-19T19:57:47+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Дональд Трамп виступив із ініціативою дати штучному інтелекту нову назву. Окрім цього, він заявив про плани створити спеціальний підрозділ штучного інтелекту під назвою AI Force.",
-      "ai_title": "Трамп запропонував перейменувати штучний інтелект та створити AI Force",
-      "video_keywords": "podium microphone, press conference, politician speaking, American flag"
     },
     {
       "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
@@ -511,19 +471,49 @@
       "ai_summary": "Компанія Corridor успішно закрила посівний раунд фінансування у розмірі 25 мільйонів доларів. Стартап створює брокерську платформу медичних пільг, орієнтовану саме на малі та середні підприємства. Традиційні брокери часто ігнорують цей сегмент через низькі комісійні, що відкриває великі можливості для нового сервісу.",
       "ai_title": "Стартап Corridor залучив 25 мільйонів доларів на медичне страхування для малого бізнесу",
       "video_keywords": "business handshake, office meeting, startup team collaborating, handshake deal"
+    },
+    {
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "published": "2026-09-21T19:19:21+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий штучний інтелект Muse від компанії Meta продемонстрував вищі показники завантажень та активних користувачів у США та Канаді на старті, ніж свого часу ChatGPT. Це свідчить про зростаючу конкуренцію на ринку мобільних додатків із генеративним ШІ.",
+      "ai_title": "AI-агент Muse від Meta обганяє ChatGPT за темпами завантажень",
+      "video_keywords": "smartphone screen, mobile app, typing on phone, person using phone"
+    },
+    {
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
+      "published": "2026-09-21T18:23:05+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Kairos Power залучила до 100 мільйонів доларів від групи Samsung для будівництва свого першого ядерного реактора потужністю 50 мегават. Цей енергетичний об'єкт у майбутньому забезпечуватиме потреби центрів обробки даних компанії Google.",
+      "ai_title": "Samsung інвестує 100 мільйонів доларів у ядерний реактор для Google",
+      "video_keywords": "nuclear power plant, cooling tower, industrial facility, engineering control room"
+    },
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "published": "2026-09-21T17:55:18+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Amazon обмежила доступ нового штучного інтелекту Muse від Meta до свого вебсайту. Оскільки Amazon розвиває власні моделі та має потужну інфраструктуру, компанія не бачить причин відкривати свої дані для конкурентів без юридичних зобов'язань.",
+      "ai_title": "Amazon заблокував доступ AI-агенту від Meta до своєї платформи",
+      "video_keywords": "server racks, data center, computer screens, cybersecurity padlock"
+    },
+    {
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+      "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+      "published": "2026-09-21T17:45:35+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа X оновлює свій інструмент прозорості, щоб інформувати користувачів, коли їхні публікації обмежують або приховують через вимоги місцевих законів та урядів. Нова функція також показуватиме, яка саме країна надіслала запит на цензуру.",
+      "ai_title": "Соцмережа X почне попереджати користувачів про цензуру від урядів",
+      "video_keywords": "social media feed, computer monitor, typing keyboard, warning notification"
     }
   ],
   "Крипта": [
-    {
-      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
-      "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2XGSZRWWBGCWVGM11DRCASK/hi-token-etf-victory.png\" /></p><p>The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bit",
-      "published": "2026-09-19T19:14:38+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія REX випустила новий біржовий фонд ASSX, який пропонує подвійну щоденну експозицію на акції криптоорієнтованої фірми Strive. Це дає трейдерам можливість агресивно спекулювати на активах, пов'язаних із резервами першої криптовалюти.",
-      "ai_title": "Запуск нового біткоїн-ETF з подвійним кредитним плечем",
-      "video_keywords": "stock market trading floor, digital charts, cryptocurrency graph, financial analytics screen"
-    },
     {
       "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
       "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -703,6 +693,36 @@
       "ai_summary": "Зупинка прийняття нового законопроекту про крипторегулювання змусила інвесторів уважніше стежити за діяльністю біржі Coinbase. Ситуація на ринку загострюється на тлі нових дій Комісії з цінних паперів і бірж США.",
       "ai_title": "Провал закону Clarity Act привернув увагу до Coinbase",
       "video_keywords": "cryptocurrency exchange office, trading monitors, business person working, computer screens with graphs"
+    },
+    {
+      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+      "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ondo lets institutions convert stocks directly into tokenized shares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32JXF7GPH4P1K65TA97BYB4/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-2.png\" /></p><p>Ondo’s new in-kind conversion system allows approved institut",
+      "published": "2026-09-21T18:35:43+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Ondo запровадила нову систему прямої конвертації, яка дозволяє інституційним інвесторам перетворювати звичайні акції на токенізовані активи. Цей крок стимулює інтеграцію традиційних фінансів із блокчейн-технологіями.",
+      "ai_title": "Ondo запускає конвертацію традиційних акцій у токенізовані",
+      "video_keywords": "blockchain technology, digital tokens, financial graphs, office meeting"
+    },
+    {
+      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
+      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32DNKD3CR6WM1GWCHG5FQE8/hi-can-somebody-predict-the-next-us-elections-crypto-3.jpg\" /></p><p>The digital asset-aligned PAC joined other groups to spend more than a combined",
+      "published": "2026-09-21T18:15:22+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Політичний комітет, що підтримує цифрових активів, знову виділяє масштабну суму для протидії американському сенатору Шерроду Брауну в Огайо. Це свідчить про зростаючий політичний вплив криптоіндустрії на виборчі процеси в США.",
+      "ai_title": "Крипто-комітет спрямує $30 мільйонів проти сенатора Шеррода Брауна",
+      "video_keywords": "political campaign, us capitol, voting ballot, protest sign"
+    },
+    {
+      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+      "summary": "",
+      "published": "2026-09-21T19:08:40+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Незважаючи на нові правила торгівлі від SEC, один із провідних інвестиційних банків прогнозує низький попит на токенізовані акції серед інвесторів. На думку аналітиків, ринок поки не готовий до масового переходу на такі інструменти.",
+      "ai_title": "Інвестиційний банк скептично оцінює попит на токенізовані акції",
+      "video_keywords": "stock market ticker, falling chart, business meeting, banking interior"
     }
   ]
 }
