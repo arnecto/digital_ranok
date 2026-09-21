@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
-      "link": "https://browser.geekbench.com/v7/cpu/389219",
-      "summary": "<p>Article URL: <a href=\"https://browser.geekbench.com/v7/cpu/389219\">https://browser.geekbench.com/v7/cpu/389219</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763883\">https://news.ycombinator.com/item?id=49763883</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-19T06:19:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий процесор від Apple показав найвищий результат одноядерного тесту CPU серед сучасних чіпів. Це свідчить про значний технологічний ривок у сфері мобільних та десктопних обчислень.",
-      "ai_title": "Apple M6 Pro встановив новий рекорд продуктивності в Geekbench 7",
-      "video_keywords": "microchip, computer hardware, circuit board, soldering"
-    },
-    {
       "title": "Laya the open source version of Jev",
       "link": "https://laya.convaiinnovations.com/",
       "summary": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 66</p>\n<p># Comments: 10</p>",
@@ -389,19 +379,19 @@
       "ai_summary": "У статті розглядається сучасний підхід до побудови програмних систем, де надійне та чітке ядро поєднується з гнучкими компонентами на базі штучного інтелекту. Такий підхід допомагає поєднати стабільність класичного коду з адаптивністю сучасних алгоритмів. Це рішення стає критично важливим для створення надійних AI-додатків.",
       "ai_title": "Архітектура програмного забезпечення: детерміноване ядро та непередбачувана оболонка",
       "video_keywords": "server room, computer code, developer typing, monitor screen"
+    },
+    {
+      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+      "published": "2026-09-21T09:21:47+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Amazon обмежила доступ штучного інтелекту Muse від Meta до своєї торговельної платформи. Користувачі почали бачити сповіщення про те, що дії неавторизованого штучного інтелекту суперечать умовам використання сервісу. За попередніми даними, Meta не узгодила інтеграцію бота зі службою безпеки Amazon.",
+      "ai_title": "Amazon заблокував штучний інтелект від Meta через порушення правил",
+      "video_keywords": "online shopping, computer screen, warning popup, web browser"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "published": "2026-09-19T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Petlibro представила нову розумну годівницю Granary 2, оснащену вбудованими вагами та камерою на базі штучного інтелекту. Пристрій дозволяє точно відстежувати кількість спожитої їжі кожним котом у будинку, що особливо зручно для власників кількох тварин.",
-      "ai_title": "Petlibro випустила розумну годівницю з штучним інтелектом для котів",
-      "video_keywords": "smart cat feeder, cat eating, modern kitchen, pet technology"
-    },
     {
       "title": "Google’s Gemini is the latest AI model to hack other companies",
       "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
@@ -703,6 +693,56 @@
       "ai_summary": "Провідний банк успішно провів емісію п'ятирічних цифрових облігацій із використанням блокчейн-платформи. Це дозволило скоротити час розрахунків за цінними паперами з кількох днів до одного.",
       "ai_title": "Південнокорейський Hana Bank випустив цифрові облігації на 100 мільйонів через блокчейн Euroclear",
       "video_keywords": "modern bank building, corporate finance, digital tablet business, handshake contract"
+    },
+    {
+      "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
+      "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+      "summary": "",
+      "published": "2026-09-21T08:39:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта встановила новий локальний рекорд, сягнувши позначки у 85 тисяч доларів. Водночас за одну годину трейдери втратили позиції на 300 мільйонів доларів через масову ліквідацію коротких контрактів.",
+      "ai_title": "Біткоїн підскочив до 85 000 доларів на тлі масової ліквідації",
+      "video_keywords": "bitcoin chart, cryptocurrency trading, financial graph, digital currency screen"
+    },
+    {
+      "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+      "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ZetaChain holders approve plan to wind down L1, move ZETA to Solana\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31CC3ZSTPD82ESPKWZW2VAR/migration.png\" /></p><p>ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana, joining other crypto projects moving ",
+      "published": "2026-09-21T07:31:47+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Спільнота ZetaChain схвалила план закриття власної мережі першого рівня на базі Cosmos. Токен ZETA повністю мігрує на блокчейн Solana, приєднавшись до тенденції переходу проєктів на інші платформи.",
+      "ai_title": "ZetaChain залишає власний блокчейн заради Solana",
+      "video_keywords": "blockchain network, digital data flow, server room, cyberspace tech"
+    },
+    {
+      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"X sues Bitcoin account operators over alleged $278K payout fraud\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31EVJ5N046HYVF5DZ25S5DK/x-formerly-twitter.jpg\" /></p><p>X alleges six Bitcoin-focused accounts coordinated posts and engagement to inflate creator payouts, with claimed ",
+      "published": "2026-09-21T09:35:25+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія X звинуватила операторів кількох біткоїн-акаунтів у координації дій для штучного завищення показників залученості. Шахраї незаконно отримали близько 278 тисяч доларів у межах партнерських виплат для авторів.",
+      "ai_title": "Соцмережа X подала до суду на криптошахраїв через виплати",
+      "video_keywords": "smartphone screen, typing keyboard, social media feed, cyber crime"
+    },
+    {
+      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+      "summary": "",
+      "published": "2026-09-21T08:49:59+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Один із найбільших банків Південної Кореї успішно випустив дебютні цифрові облігації. Для цього було використано блокчейн-інфраструктуру міжнародного депозитарію Euroclear.",
+      "ai_title": "Південнокорейський Hana Bank випустив перші цифрові облігації на блокчейні",
+      "video_keywords": "bank building, modern office, corporate handshake, financial district"
+    },
+    {
+      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
+      "summary": "",
+      "published": "2026-09-21T09:12:42+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалютний ринок відновився та пішов угору після чергового засідання та зниження процентної ставки Федеральної резервної системи США. Інвестори позитивно оцінили макроекономічні зміни напередодні нового тижня.",
+      "ai_title": "Крипторинок демонструє зростання після рішень ФРС",
+      "video_keywords": "stock market ticker, green candles chart, trading floor, financial investment"
     }
   ]
 }
