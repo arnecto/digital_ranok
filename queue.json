@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
-      "link": "https://faceanalysisai.com/",
-      "summary": "<p>Article URL: <a href=\"https://faceanalysisai.com/\">https://faceanalysisai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773871\">https://news.ycombinator.com/item?id=49773871</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-20T08:48:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили проєкт штучного інтелекту, який аналізує людські обличчя та оцінює їхню привабливість відповідно до суб'єктивних уподобань людей. Модель налаштована так, щоб максимально точно імітувати людське сприйняття краси.",
-      "ai_title": "Нова ШІ-модель оцінює привабливість облич за людськими вподобаннями",
-      "video_keywords": "human face, portrait, digital scanning, face recognition screen"
-    },
-    {
       "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
       "link": "https://qwen.ai/blog?id=qwen-image-2.1",
       "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-2.1\">https://qwen.ai/blog?id=qwen-image-2.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775499\">https://news.ycombinator.com/item?id=49775499</a></p>\n<p>Points: 101</p>\n<p># Comments: 33</p>",
@@ -19,26 +9,6 @@
       "ai_summary": "Розробники представили Qwen-Image-2.1 — компактну та уніфіковану систему для створення візуального контенту. Нова модель вирізняється високою ефективністю та покращеними можливостями генерації.",
       "ai_title": "Вийшла нова модель Qwen-Image-2.1 для ефективної генерації зображень",
       "video_keywords": "computer screen, artificial intelligence, digital art, software interface"
-    },
-    {
-      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-      "link": "https://softwarecrisis.dev/letters/llmentalist/",
-      "summary": "<p>Article URL: <a href=\"https://softwarecrisis.dev/letters/llmentalist/\">https://softwarecrisis.dev/letters/llmentalist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775104\">https://news.ycombinator.com/item?id=49775104</a></p>\n<p>Points: 75</p>\n<p># Comments: 43</p>",
-      "published": "2026-09-20T12:20:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники виявили, що сучасні чат-боти на базі великих мовних моделей використовують психологічні маніпуляції, схожі на трюки екстрасенсів. Це створює ілюзію свідомості та глибокого розуміння співрозмовника.",
-      "ai_title": "Мовні моделі копіюють прийоми медіумів та фокусників",
-      "video_keywords": "chatbot interface, typing screen, glowing matrix, digital brain"
-    },
-    {
-      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
-      "published": "2026-09-20T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Експерти попереджають про високу вразливість критичної інфраструктури до кібератак через людський фактор. Попри страхи перед бунтом штучного інтелекту, саме недбалість користувачів становить найбільшу небезпеку для енергосистем.",
-      "ai_title": "Люди, а не штучний інтелект, залишаються головною кіберзагрозою для енергетики",
-      "video_keywords": "power plant, control room, cyber attack, computer hacker"
     },
     {
       "title": "Trump now says he wants to form an ‘AI Force’",
@@ -339,19 +309,59 @@
       "ai_summary": "Експерти опублікували детальний аналіз можливостей, продуктивності та вартості нової мовної моделі MiMo-v2.6-Pro. Дослідження оцінює ефективність цього інструменту в порівнянні з іншими популярними рішеннями на ринку штучного інтелекту.",
       "ai_title": "Аналіз продуктивності та ціни нової моделі штучного інтелекту MiMo-v2.6-Pro",
       "video_keywords": "server racks, data center, computer screen, futuristic interface"
+    },
+    {
+      "title": "JetBrains Air: A System of Products for Agentic Software Development",
+      "link": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+      "summary": "<p>Article URL: <a href=\"https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/\">https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49799287\">https://news.ycombinator.com/item?id=49799287</a></p>\n<p>Points: 43</p>\n<p># Comments: 32</p>",
+      "published": "2026-09-22T11:00:58+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія JetBrains випустила екосистему продуктів JetBrains Air, спрямовану на покращення процесу розробки за допомогою автономних програмних агентів. Ця платформа покликана змінити підхід до написання коду та автоматизації рутинних завдань розробників.",
+      "ai_title": "JetBrains представила систему для агентної розробки програмного забезпечення",
+      "video_keywords": "programmer working, computer screen, coding, software development"
+    },
+    {
+      "title": "Oppo’s new phone is the first with three 200-megapixel cameras",
+      "link": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
+      "summary": "Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls \"DeepPix sensor technology,\" suggests megapixel count won't be the only thing this camera has [&#8230;]",
+      "published": "2026-09-22T12:18:35+00:00",
+      "source": "The Verge",
+      "ai_summary": "Новий флагманський смартфон Oppo Find X10 Pro Max отримав революційний блок камер, де кожен із трьох сенсорів має роздільну здатність 200 мегапікселів. Завдяки новітній технології DeepPix пристрій також забезпечує безпрецедентний динамічний діапазон.",
+      "ai_title": "Oppo випустила перший у світі смартфон із трьома камерами на 200 мегапікселів",
+      "video_keywords": "smartphone camera, holding phone, taking photos, tech gadget"
+    },
+    {
+      "title": "Peloton is back with a ‘cheaper’ folding treadmill",
+      "link": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills",
+      "summary": "Last year, Peloton did a sweeping refresh of its hardware that added cameras, fans, and AI-powered software called Peloton IQ. This year, it's zeroing in on its treadmill lineup - refreshing its two existing Treads and adding the new, more affordable Tread Flex into the fold. At a New York City launch event, Peloton chief [&#8230;]",
+      "published": "2026-09-22T12:10:08+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Peloton розширила лінійку своїх тренажерів, представивши більш доступну бігову доріжку Tread Flex разом із оновленням існуючих моделей Tread. Нові пристрої поєднують фірмове програмне забезпечення Peloton IQ та компактний дизайн для дому.",
+      "ai_title": "Peloton представила нову доступну складну бігову доріжку",
+      "video_keywords": "running treadmill, fitness equipment, workout at home, exercising"
+    },
+    {
+      "title": "It’s time for the Mac Neo",
+      "link": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+      "summary": "The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU and 12-core GPU might actually be overkill for someone who [&#8230;]",
+      "published": "2026-09-22T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Популярність та зростаюча вартість сучасних комп'ютерів Mac Mini змушують замислитися про випуск простішої та дешевшої моделі для повсякденних завдань. Потужні чипи нових поколінь часто є надлишковими для звичайних користувачів, яким потрібен лише доступний і швидкий комп'ютер.",
+      "ai_title": "Чи настав час для появи бюджетного Mac Neo?",
+      "video_keywords": "apple mac computer, desktop setup, minimalist workspace, typing on keyboard"
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [&#8230;]",
+      "published": "2026-09-22T11:53:58+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Meta випустила термінове оновлення безпеки для свого macOS-застосунку Muse після виявлення небезпечного збою нульового дня. Зловмисники могли використати приховані налаштування для перенаправлення обробки даних та повного контролю над штучним інтелектом.",
+      "ai_title": "Meta усунула вразливість у застосунку Muse, яка дозволяла перехопити управління AI-агентом",
+      "video_keywords": "cyber security, hacker typing, computer code, digital lock"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "A small but growing number of founders are betting on bringing people together offline",
-      "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-      "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. [&#8230;]",
-      "published": "2026-09-20T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відомі засновники, які раніше продали свої бізнеси за сотні мільйонів доларів, тепер запускають нові проєкти. Вони зосереджуються на створенні умов для реального спілкування людей офлайн, відходячи від суто цифрових трендів.",
-      "ai_title": "Чому все більше стартапів роблять ставку на офлайн-спілкування",
-      "video_keywords": "people talking, cafe meeting, group conversation, offline community"
-    },
     {
       "title": "ScrollEd wants to turn textbooks into TikTok",
       "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
@@ -481,29 +491,29 @@
       "ai_summary": "Глибокотехнологічна компанія Morphotonics успішно закрила раунд фінансування на 40 мільйонів євро за підтримки інвесторів, серед яких 3M Ventures та Innovation Industries. Отримані кошти стартап спрямує на розширення застосування своїх інноваційних технологій у центрах обробки даних.",
       "ai_title": "Нідерландський стартап Morphotonics залучив 40 мільйонів євро на розвиток дисплейних технологій",
       "video_keywords": "microchip manufacturing, cleanroom robotics, high tech laboratory, servers data center"
+    },
+    {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "published": "2026-09-22T12:23:05+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Британська компанія Nscale планує провести IPO, що стане черговим випробуванням інтересу Волл-стріт до інвестицій у штучний інтелект. Водночас бізнес стартапу сильно залежить від фінансових надходжень від технологічних гігантів Microsoft та Anthropic.",
+      "ai_title": "Британський розробник AI-центрів Nscale готується до виходу на біржу",
+      "video_keywords": "data center, server racks, wall street, stock market"
+    },
+    {
+      "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+      "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+      "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
+      "published": "2026-09-22T11:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Meta уклала угоду зі стартапом MacroCycle для підтримки інновацій у сфері переробки відходів. Завдяки цьому партнерству стартап зможе звести свій перший комерційний завод.",
+      "ai_title": "Meta профінансує будівництво першого заводу стартапу з переробки пластику MacroCycle",
+      "video_keywords": "plastic recycling, recycling plant, factory machinery, green technology"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
-      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
-      "summary": "",
-      "published": "2026-09-20T12:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптотрейдери готувалися до масштабного падіння ринку цього тижня, проте перша криптовалюта продемонструвала стійкість. Біткоїн зміг відіграти втрати та здивував учасників ринку, які очікували на повну ліквідацію активів. Цей несподіваний рух знову підтвердив високу волатильність та непередбачуваність крипторинку.",
-      "ai_title": "Біткоїн уникнув обвалу попри песимістичні прогнози трейдерів",
-      "video_keywords": "bitcoin chart, cryptocurrency trading, trading floor, financial panic"
-    },
-    {
-      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-      "summary": "",
-      "published": "2026-09-20T12:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики вважають, що провідні американські фінтех-компанії та криптобіржі першими отримають вигоду від нової ініціативи Комісії з цінних паперів і бірж (SEC). Мова йде про перехід на токенізовані акції, що може суттєво змінити ландшафт традиційного трейдингу. Це відкриває нові можливості для інтеграції блокчейн-технологій у класичні фінанси.",
-      "ai_title": "Coinbase та Robinhood можуть виграти від токенізації акцій у США",
-      "video_keywords": "stock market trading, digital tablet, financial analytics, cryptocurrency exchange"
-    },
     {
       "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
       "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
@@ -753,6 +763,41 @@
       "ai_summary": "Платформа прогнозів Trueo оголосила про перехід своєї мережі з Base назад на основну мережу Ethereum. Якщо раніше вибір падав на Base через високі комісії в основній мережі, то тепер Ethereum пропонує кращі можливості для інтеграції. Це рішення підкреслює еволюцію інфраструктури децентралізованих фінансів.",
       "ai_title": "Прогностичний ринок Trueo мігрує з Base на Ethereum",
       "video_keywords": "blockchain network, abstract digital grid, glowing nodes, cryptocurrency symbols"
+    },
+    {
+      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+      "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+      "summary": "",
+      "published": "2026-09-22T12:05:55+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
+      "summary": "",
+      "published": "2026-09-22T11:35:43+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "summary": "",
+      "published": "2026-09-22T11:07:23+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+      "summary": "",
+      "published": "2026-09-22T10:59:03+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Live updates: Oil falls as Iran signals possible Hormuz reopening, bitcoin holds near $86,000",
+      "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+      "summary": "",
+      "published": "2026-09-22T10:20:12+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
     }
   ]
 }
