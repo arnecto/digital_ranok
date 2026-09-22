@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Google's Open Agentic Orchestrator",
-      "link": "https://agentexecutor.io",
-      "summary": "<p>Article URL: <a href=\"https://agentexecutor.io\">https://agentexecutor.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780797\">https://news.ycombinator.com/item?id=49780797</a></p>\n<p>Points: 68</p>\n<p># Comments: 20</p>",
-      "published": "2026-09-20T22:32:43+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Google випустила новий інструмент для управління та координації автономних штучних інтелектів. Платформа покликана спростити створення складних багаторазових AI-систем та їх взаємодію між собою.",
-      "ai_title": "Google представляє новий відкритий оркеструвальник для агентів",
-      "video_keywords": "artificial intelligence, code editor, computer screen, programmer"
-    },
-    {
-      "title": "Nobody pays for FOSS, we can force them to",
-      "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-      "summary": "<p>Article URL: <a href=\"https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/\">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780064\">https://news.ycombinator.com/item?id=49780064</a></p>\n<p>Points: 102</p>\n<p># Comments: 68</p>",
-      "published": "2026-09-20T21:04:32+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У світі розробки знову гостро постало питання фінансування Open Source проєктів. Експерти обговорюють радикальні методи стимулювання компаній та користувачів підтримувати вільний код фінансово.",
-      "ai_title": "Чи змусять розробники платити за відкрите програмне забезпечення?",
-      "video_keywords": "programmer typing, laptop keyboard, server room, coding session"
-    },
-    {
       "title": "Deterministic Core, Non-Deterministic Shell",
       "link": "https://outdata.net/blog/260803",
       "summary": "<p>Article URL: <a href=\"https://outdata.net/blog/260803\">https://outdata.net/blog/260803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49782220\">https://news.ycombinator.com/item?id=49782220</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
@@ -324,29 +304,29 @@
       "ai_summary": "Місто Сан-Франциско розпочало судовий процес проти Trump Media & Technology Group, якій належить платформа Truth Social. Позов стосується продажу раннього доступу до публікацій Дональда Трампа через спеціальний API-feed. Влада кваліфікує цю схему як порушення законів про недобросовестну конкуренцію.",
       "ai_title": "Сан-Франциско подало до суду на компанію Trump Media через платні пости",
       "video_keywords": "courtroom gavel, legal documents, courthouse exterior, lawyer working at desk"
+    },
+    {
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+      "published": "2026-09-22T20:52:40+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Rabbit випускає самостійний AI-агент під назвою OS3, який більше не потребує спеціального пристрою R1. Нова операційна система працює у хмарі та функціонує локально на комп'ютерах під управлінням Windows, Mac і Linux.",
+      "ai_title": "AI-агент від Rabbit тепер працює без фірмового гаджета",
+      "video_keywords": "laptop screen, artificial intelligence, software interface, person typing"
+    },
+    {
+      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+      "link": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hyper-angular, spaceship-like EVs, with plans to [&#8230;]",
+      "published": "2026-09-22T20:14:54+00:00",
+      "source": "The Verge",
+      "ai_summary": "Саудівський стартап Ceer представив незвичні електричні автомобілі з футуристичним угловатим дизайном, які зовні нагадують космічні кораблі. Ці нові електрокари вражають своїм радикальним виглядом на тлі традиційного автопрому.",
+      "ai_title": "У Саудівській Аравії презентували футуристичні електромобілі Exobot",
+      "video_keywords": "electric car, futuristic vehicle, automobile showroom, futuristic design"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "published": "2026-09-20T20:29:07+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Попри величезні інвестиції та гучний ажіотаж навколо технологій світових моделей (world models), стартапи та їхні партнери ретельно приховують деталі своїх реальних розробок. Засновники та постачальники даних тримають свої проєкти в секреті через жорстку конкурентну боротьбу на ринку штучного інтелекту.",
-      "ai_title": "Секрети та прибутки: чому компанії у сфері world models приховують свої розробки",
-      "video_keywords": "server room, data center, computer screen, cybersecurity"
-    },
-    {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
-      "published": "2026-09-21T14:39:22+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Google анонсував новий ноутбук Googlebook, який глибоко інтегрує асистент Gemini у всі аспекти користувацького досвіду. Штучний інтелект керуватиме курсором, диктуванням та віджетами безпосередньо на рівні операційної системи. Цей гаджет є амтною ставкою компанії на масовий перехід користувачів на нові ШІ-пристрої.",
-      "ai_title": "Google випускає ноутбук Googlebook за $899 для інтеграції штучного інтелекту Gemini",
-      "video_keywords": "laptop typing, person working on computer, artificial intelligence screen, modern office desk"
-    },
     {
       "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
       "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
@@ -516,6 +496,16 @@
       "ai_summary": "Сервіс безпілотних таксі Waymo розширює аудиторію та починає перевозити підлітків віком від 13 до 17 років. Нашвілл став другим містом, де неповнолітні можуть офіційно користуватися безпілотниками.",
       "ai_title": "Waymo дозволила поїздки в роботаксі для підлітків",
       "video_keywords": "autonomous car, robotaxi, passenger inside car, modern vehicle interior"
+    },
+    {
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "published": "2026-09-22T21:56:43+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Семирічний стартап залучив 350 мільйонів доларів у рамках раунду фінансування серії E. Кошти підуть на масштабування їхнього підходу до надання даних як послуги (data-as-a-service).",
+      "ai_title": "Snorkel AI оцінили у $3,5 млрд на тлі буму попиту на дані для ШІ",
+      "video_keywords": "data center, server racks, computer screen, artificial intelligence"
     }
   ],
   "Крипта": [
@@ -838,6 +828,41 @@
       "ai_summary": "Найбільші банки країни розпочали масштабне дослідження можливостей використання блокчейн-технологій. Вони планують випустити цифрові аналоги національної валюти для оптимізації внутрішніх транзакцій.",
       "ai_title": "Головні фінансові установи Канади тестують цифрові депозити",
       "video_keywords": "modern bank interior, businessman typing, stock market graphs, digital coins"
+    },
+    {
+      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+      "link": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
+      "summary": "",
+      "published": "2026-09-22T21:29:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
+      "link": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
+      "summary": "",
+      "published": "2026-09-22T20:31:02+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Arch Lending eyes tokenized stocks as next collateral market",
+      "link": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Arch Lending eyes tokenized stocks as next collateral market\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35CMATBHXN9K9THK2DTNQBJ/hi-euro-pegged-stablecoin-the-ultimate-growth-driver-for-crypto-lending-1.png\" /></p><p>Arch Lending’s Himanshu Sahay said on Cointelegraph’s Chain Re",
+      "published": "2026-09-22T21:06:52+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
+      "link": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Republican senator calls for probe into US presidents’ sons, citing crypto ventures\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35B0SEAKX3T0HQA25KHP9DJ/interrogation-lamp.jpg\" /></p><p>Many Democrats have previously called for investigations into the Trump family’s crypto ventur",
+      "published": "2026-09-22T20:57:51+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
+      "published": "2026-09-22T20:03:30+00:00",
+      "source": "Cointelegraph.com News"
     }
   ]
 }
