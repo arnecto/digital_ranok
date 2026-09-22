@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-      "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-2.1\">https://qwen.ai/blog?id=qwen-image-2.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775499\">https://news.ycombinator.com/item?id=49775499</a></p>\n<p>Points: 101</p>\n<p># Comments: 33</p>",
-      "published": "2026-09-20T13:09:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили Qwen-Image-2.1 — компактну та уніфіковану систему для створення візуального контенту. Нова модель вирізняється високою ефективністю та покращеними можливостями генерації.",
-      "ai_title": "Вийшла нова модель Qwen-Image-2.1 для ефективної генерації зображень",
-      "video_keywords": "computer screen, artificial intelligence, digital art, software interface"
-    },
-    {
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [&#8230;]",
-      "published": "2026-09-20T15:39:22+00:00",
-      "source": "The Verge",
-      "ai_summary": "Колишній президент США заявив про намір призначити спеціального радника з питань штучного інтелекту для керування новим державним органом. Ця ініціатива з'явилася на тлі закликів уповільнити темпи неконтрольованого розвитку технологій ШІ.",
-      "ai_title": "Трамп планує створити спеціальний підрозділ зі штучного інтелекту",
-      "video_keywords": "white house, politician speaking, press conference, american flag"
-    },
-    {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "summary": "<p>Article URL: <a href=\"https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/\">https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776729\">https://news.ycombinator.com/item?id=49776729</a></p>\n<p>Points: 85</p>\n<p># Comments: 42</p>",
-      "published": "2026-09-20T15:18:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нові дані свідчать про те, що чат-бот від OpenAI почав збирати інформацію про активність користувачів в інтернеті за допомогою вбудованих рекламних колекторів. Це викликає занепокоєння щодо конфіденційності та безпеки персональних даних.",
-      "ai_title": "ChatGPT тепер відстежує дії користувачів на інших сайтах через рекламні трекери",
-      "video_keywords": "person typing, laptop screen, web browsing, data streams"
-    },
-    {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "link": "https://pirateface.co/",
-      "summary": "<p>Article URL: <a href=\"https://pirateface.co/\">https://pirateface.co/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776699\">https://news.ycombinator.com/item?id=49776699</a></p>\n<p>Points: 165</p>\n<p># Comments: 54</p>",
-      "published": "2026-09-20T15:16:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий проєкт націлений на збереження та архівацію великих мовних моделей (LLM), яким загрожує зникнення з відкритих джерел. Це допомагає розробникам та дослідникам мати постійний доступ до різноманітних архітектур штучного інтелекту.",
-      "ai_title": "Платформа Pirate Face рятує мовні моделі від видалення",
-      "video_keywords": "server room, data center, flashing lights, computer monitors"
-    },
-    {
-      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
-      "link": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "summary": "<p>Article URL: <a href=\"https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0\">https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49777106\">https://news.ycombinator.com/item?id=49777106</a></p>\n<p>Points: 39</p>\n<p># Comments: 5</p>",
-      "published": "2026-09-20T15:58:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники запустили систему Laya на чипі Apple M4 за допомогою CoreML без підключення до інтернету. Швидкість роботи сягнула 45 рішень на секунду, що підкреслює потужність сучасних локальних нейромереж.",
-      "ai_title": "Мовна модель Laya демонструє високу продуктивність локально на Mac M4",
-      "video_keywords": "macbook screen, programmer working, microprocessor, office desk"
-    },
-    {
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "link": "https://radius.to/",
-      "summary": "<p>Hello HN!<p>I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that).<p>Radius started out from my frustration with not knowing what was going on around me.  The initial plan was to \"show all and every type of event\" from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them.<p>T",
-      "published": "2026-09-20T16:51:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розпочався перезапуск проєкту Radius, який створений як альтернатива популярному сервису Meetup. Платформа допомагає користувачам знаходити події, місцеві групи та спільноти для реального спілкування.",
-      "ai_title": "Запуск Radius — нової платформи для пошуку локальних спільнот замість Meetup",
-      "video_keywords": "people gathering, group conversation, smiling friends, outdoor meetup"
-    },
-    {
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
       "summary": "<p>Article URL: <a href=\"https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say\">https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778029\">https://news.ycombinator.com/item?id=49778029</a></p>\n<p>Points: 135</p>\n<p># Comments: 96</p>",
@@ -359,6 +299,41 @@
       "ai_summary": "Компанія Meta випустила термінове оновлення безпеки для свого macOS-застосунку Muse після виявлення небезпечного збою нульового дня. Зловмисники могли використати приховані налаштування для перенаправлення обробки даних та повного контролю над штучним інтелектом.",
       "ai_title": "Meta усунула вразливість у застосунку Muse, яка дозволяла перехопити управління AI-агентом",
       "video_keywords": "cyber security, hacker typing, computer code, digital lock"
+    },
+    {
+      "title": "Aging may be a program, not a breakdown",
+      "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/\">https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49804266\">https://news.ycombinator.com/item?id=49804266</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-22T16:48:33+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "A WordPress vulnerability scored 9.2/10 is present in all versions since 2016",
+      "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "summary": "<p>Article URL: <a href=\"https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp\">https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803959\">https://news.ycombinator.com/item?id=49803959</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+      "published": "2026-09-22T16:33:45+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Americans' Drinking Remains at Record Low: Gallup Poll",
+      "link": "https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx",
+      "summary": "<p>Article URL: <a href=\"https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx\">https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803894\">https://news.ycombinator.com/item?id=49803894</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
+      "published": "2026-09-22T16:29:11+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "<p><a href=\"https://github.com/anthropics/ClaudeForFoundationModels/commit/5180901338a50bef050d5e9464583753ed3869a3\" rel=\"nofollow\">https://github.com/anthropics/ClaudeForFoundationModels/comm...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803863\">https://news.ycombinator.com/item?id=49803863</a></p>\n<p>Points: 246</p>\n<p># Comments: 175</p>",
+      "published": "2026-09-22T16:27:30+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "link": "https://ai-rete-rag.com/",
+      "summary": "<p>Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on \"guardrails\" after the fact.<p>It runs the two in series instead:<p>1. A pure-Python Rete engine evaluates YAML rules against your facts. The verdict comes only from here. Same facts, same verdict, every time, with salience-based conf",
+      "published": "2026-09-22T16:15:06+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
@@ -511,29 +486,59 @@
       "ai_summary": "Компанія Meta уклала угоду зі стартапом MacroCycle для підтримки інновацій у сфері переробки відходів. Завдяки цьому партнерству стартап зможе звести свій перший комерційний завод.",
       "ai_title": "Meta профінансує будівництво першого заводу стартапу з переробки пластику MacroCycle",
       "video_keywords": "plastic recycling, recycling plant, factory machinery, green technology"
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "published": "2026-09-22T16:30:07+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Anthropic випустила модель Opus 5.5, яка демонструє найвищі результати продуктивності серед усіх протестованих систем за зниженою ціною. Розробники зазначають, що це значний крок вперед у сфері штучного інтелекту.",
+      "ai_title": "Anthropic презентувала нову потужну модель Opus 5.5",
+      "video_keywords": "server room, data center, computer monitor, artificial intelligence"
+    },
+    {
+      "title": "Stolen passwords are exposing America’s water providers to hackers",
+      "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+      "summary": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+      "published": "2026-09-22T15:50:58+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Дослідники попереджають про серйозну вразливість критичної інфраструктури США через витік облікових даних. Хакери можуть отримати доступ до систем управління водопостачанням американських міст.",
+      "ai_title": "Кіберзагроза для водопостачання США через вкрадені паролі",
+      "video_keywords": "water treatment plant, control room, computer hackers, typing keyboard"
+    },
+    {
+      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+      "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+      "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+      "published": "2026-09-22T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап розробив розумний автоматичний вимикач, який дозволяє домогосподарствам встановлювати зарядки для електрокарів без дорогої модернізації головного електрощита. Це робить перехід на електротранспорт набагато доступнішим.",
+      "ai_title": "Noble Carbon спрощує встановлення зарядних станцій для електромобілів",
+      "video_keywords": "electric car charger, circuit breaker, electrician tools, home garage"
+    },
+    {
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "published": "2026-09-22T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Космічний стартап готує місію Autonomy-1, у якій компактна модель штучного інтелекту на базі трансформерів керуватиме зондом у космосі. Це відкриває нові можливості для автономного дослідження космосу.",
+      "ai_title": "AstroForge довірить штучному інтелекту управління космічним зондом",
+      "video_keywords": "spacecraft assembly, satellite in space, control room, mission control"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "published": "2026-09-22T14:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Генеральний директор Hello Robot Аарон Едсінгер проведе живі демонстрації можливостей робота Stretch 4 на сцені конференції. Презентація покаже нові досягнення у сфері робототехніки та практичного застосування ШІ.",
+      "ai_title": "Hello Robot продемонструє робота Stretch 4 на TechCrunch Disrupt",
+      "video_keywords": "robot arm, robotic mechanism, tech conference stage, futuristic robot"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
-      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-      "summary": "",
-      "published": "2026-09-20T14:54:48+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Вартість акцій криптобіржі Gemini впала на 80% від показників після первинного розміщення на біржі. На тлі такого значного падіння на ринку знову почали активно обговорювати можливе поглинання компанії іншими гравцями.",
-      "ai_title": "Акції криптоплатформи Gemini обвалилися на 80%",
-      "video_keywords": "stock market crash, trading screen, down arrow, financial graph"
-    },
-    {
-      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30EAE44F9E8Z0P8M1SEBDSD/magazine-cover-collage-sept-21.png\" /></p><p>Crypto missed out CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced.",
-      "published": "2026-09-20T23:37:39+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Попри те, що криптовалютний ринок оминув закон CLARITY, сфера цифрових активів отримала важливі перемоги. Зокрема, було легалізовано токенизовані акції, а ініціатива зі створення біткоїн-резерву просунулася вперед, що відкриває нові можливості для інвесторів.",
-      "ai_title": "Бичачі настрої навколо ARB та легалізація токенизованих акцій",
-      "video_keywords": "cryptocurrency trading, digital coins, stock market graphs, financial screen"
-    },
     {
       "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
@@ -798,6 +803,41 @@
       "summary": "",
       "published": "2026-09-22T10:20:12+00:00",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
+      "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+      "summary": "",
+      "published": "2026-09-22T15:21:28+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+      "summary": "",
+      "published": "2026-09-22T14:32:59+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Zcash gets first European ETP following US ETF launch",
+      "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash gets first European ETP following US ETF launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg\" /></p><p>21shares listed physically backed ZEC and ETHFI products on Euronext Paris and Amsterdam, as issuers br",
+      "published": "2026-09-22T16:21:44+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price seeks $86K as new support after oil dips below $90\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34XETNPFDGERCB74XHN6SRJ/hi-why-oil-rich-investors-are-pushing-bitcoins-next-liquidity-wave.jpg\" /></p><p>Bitcoin price action avoided a significant drop below $86,000 as ",
+      "published": "2026-09-22T16:01:55+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
+      "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CLARITY vote failure could stoke more crypto PAC spending in key races\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32AXNQNHRMA169K2RJHWFNB/hi-crumpling-report-clarity-act.png\" /></p><p>Control of the US House and Senate is up for grabs in 2026, and some advocates speculate that ",
+      "published": "2026-09-22T15:55:37+00:00",
+      "source": "Cointelegraph.com News"
     }
   ]
 }
