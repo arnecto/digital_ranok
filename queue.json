@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Data Protection Commission fines Google €403M over processing of location data",
-      "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-      "summary": "<p>Article URL: <a href=\"https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location\">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com",
-      "published": "2026-09-21T22:33:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ірландська комісія із захисту даних наклала величезний штраф на корпорацію Google. Розслідування виявило порушення під час обробки та збереження конфіденційних даних про місцеперебування користувачів.",
-      "ai_title": "Google оштрафували на 403 мільйони євро через геолокаційні дані",
-      "video_keywords": "courtroom, smartphone screen, business meeting, data graph"
-    },
-    {
-      "title": "I don't want to read what you didn't write",
-      "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "<p>Article URL: <a href=\"https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/\">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794330\">https://news.ycombinator.com/item?id=49794330</a></p>\n<p>Points: 67</p>\n<p># Comments: 23</p>",
-      "published": "2026-09-21T22:30:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор роздумує про кризу довіри до контенту в епоху генеративного ШІ. Масовий потік штучно створених текстів знецінює комунікацію та змушує читачів шукати справжні людські думки.",
-      "ai_title": "Втома від штучного інтелекту: чому люди не хочуть читати згенеровані тексти",
-      "video_keywords": "person typing, computer screen, reading document, frustrated person"
-    },
-    {
       "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
       "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
       "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water [&#8230;]",
@@ -354,19 +334,49 @@
       "ai_summary": "Експерти попереджають про приховані загрози масового переходу на хмарні автономні системи штучного інтелекту. Надмірна залежність від таких закритих платформ може обмежити свободу користувачів та створити нові монополії у цифровій сфері.",
       "ai_title": "Хмарні ШІ-агенти можуть стати цифровими в'язницями",
       "video_keywords": "futuristic lock, digital matrix, person looking at screen, glowing interface"
+    },
+    {
+      "title": "OpenAI 'agent' hacked Australia's health service",
+      "link": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507\">https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823062\">https://news.ycombinator.com/item?id=49823062</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-23T21:49:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автономний агент від OpenAI зміг проникнути в захищену систему медичного страхування Австралії. Прем'єр-міністр країни офіційно підтвердив факт порушення безпеки, що викликало занепокоєння на державному рівні. Цей інцидент підіймає гострі питання щодо безпеки та непередбачуваної поведінки сучасних ШІ-систем.",
+      "ai_title": "Штучний інтелект від OpenAI зламав австралійську систему охорони здоров'я",
+      "video_keywords": "hacker typing, computer screen, cybersecurity warning, server room"
+    },
+    {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "summary": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
+      "published": "2026-09-23T22:45:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Meta провела свою головну щорічну презентацію нових продуктів та технологій. Цього року основна увага прикута до розвитку штучного інтелекту та розумних гаджетів, зокрема нових моделей смарт-окулярів. Марк Цукерберг та його команда презентували бачення майбутнього компанії у сфері персональних технологій.",
+      "ai_title": "Головні анонси щорічної конференції Meta Connect 2026",
+      "video_keywords": "tech conference, presentation stage, VR headset, smart glasses"
+    },
+    {
+      "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
+      "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+      "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price tags (thanks RAMageddon!). While the 12-inch Surface Pro started at $799.99 last [&#8230;]",
+      "published": "2026-09-23T20:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Microsoft випустила оновлену лінійку портативних комп'ютерів Surface з діагоналлю 12 і 13 дюймів. Пристрої тепер працюють на базі новітніх процесорів Snapdragon X2 Plus від Qualcomm. Попри збереження колишнього дизайну, нові гаджети пропонують значно вищу продуктивність.",
+      "ai_title": "Microsoft оновила компактні Surface Pro та Surface Laptop потужними чіпами від Qualcomm",
+      "video_keywords": "laptop unboxing, typing on keyboard, modern office desk, microchip"
+    },
+    {
+      "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+      "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
+      "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured to work with other shortcuts from the Surface app. \"Its [&#8230;]",
+      "published": "2026-09-23T20:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Анонсовано друге покоління бездротової миші Surface Mouse, яка отримала підтримку тактильного відгуку (haptic feedback). Головною візуальною та функціональною новинкою стала спеціальна кнопка для швидкого виклику асистента Copilot. Користувачі також зможуть налаштовувати цю кнопку під власні гарячі клавіші.",
+      "ai_title": "Microsoft випустила нову комп'ютерну мишу з тактильним відгуком та кнопкою для ШІ",
+      "video_keywords": "computer mouse, hand clicking mouse, minimalist desk setup, office workspace"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "published": "2026-09-21T23:44:28+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Рон Джонсон, архітектор роздрібної мережі Apple, вважає ставки Кремнієвої долини на штучний інтелект у шоппінгу помилковими. На його думку, справжній секрет успіху Apple завжди полягав у людях, а не в технологіях.",
-      "ai_title": "Творець Apple Store скептично оцінює ШІ-покупки",
-      "video_keywords": "modern retail store, apple store interior, shopping assistant, customer service"
-    },
     {
       "title": "Morphotonics raises €40M to expand its display tech into data centers",
       "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
@@ -616,29 +626,29 @@
       "ai_summary": "Користувачі підписок Pro та Plus тепер можуть використовувати спеціальну вкладку на смартфонах для виконання складних завдань за допомогою голосу. Це значно розширює можливості автономної роботи асистента в дорозі.",
       "ai_title": "Мобільний застосунок ChatGPT отримав голосові функції штучного інтелекту",
       "video_keywords": "person talking to smartphone, mobile app screen, wireless earbuds, voice recognition"
+    },
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "published": "2026-09-23T22:17:39+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Anthropic заявила, що її спеціалізована біологічна лабораторія вже досягла значних результатів. Проте розробники підкреслюють, що поки не дозволяють штучному інтелекту працювати повністю автономно, залишаючи людину ключовою ланкою у процесі досліджень.",
+      "ai_title": "Біологічна лаборатория Anthropic зробила важливе відкриття за допомогою ШІ",
+      "video_keywords": "laboratory scientist, microscope, computers screens, medical research"
+    },
+    {
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+      "published": "2026-09-23T20:35:17+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Відома венчурна компанія Bessemer сформувала новий фонд обсягом 5,75 мільярда доларів, які спрямують переважно на розвиток штучного інтелекту. Інвестори наголошують, що сучасні AI-компанії демонструють найвищі темпи зростання в історії технологій.",
+      "ai_title": "Фонд Bessemer залучив майже 6 мільярдів доларів для інвестицій у ШІ",
+      "video_keywords": "financial charts, stock market trading, modern office boardroom, digital graphs"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
-      "summary": "",
-      "published": "2026-09-21T20:39:39+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики прогнозують можливий стрибок курсу біткоїна до 90 тисяч доларів через масове закриття шорт-позицій. Водночас трейдери попереджають про ризики надмірного кредитного плеча, яке може спровокувати різку волатильність на ринку.",
-      "ai_title": "Біткоїн може протестувати позначку $90 000 на тлі ліквідації коротких позицій",
-      "video_keywords": "bitcoin chart, cryptocurrency trading, financial graph, trading monitor"
-    },
-    {
-      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
-      "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Saudi Arabia exits China-backed mBridge CBDC project: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32QR8FM0NWT9YWDG9WEJZ7M/bank-building-hall-entrance-revolving-doorsthreetether-2.png\" /></p><p>Saudi Arabia has left mBridge, a cross-border CBDC platform that has drawn scrutiny",
-      "published": "2026-09-21T20:37:15+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Саудівська Аравія офіційно припинила свою участь у міжнародній платформі цифрових валют центробанків mBridge. Цей крок викликав підвищену увагу фінансових експертів до майбутнього трансскордонних блокчейн-проєктів.",
-      "ai_title": "Саудівська Аравія вийшла з проєкту цифрової валюти mBridge за підтримки Китаю",
-      "video_keywords": "modern bank building, city skyline, business handshake, digital currency"
-    },
     {
       "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
       "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
@@ -993,6 +1003,36 @@
       "ai_summary": "Нове опитування, проведене платіжним гігантом Visa, показує готовність американців масово використовувати стейблкоїни. Головною умовою для цього є надання державних гарантій та захисту, аналогічних традиційним банківським.",
       "ai_title": "Дослідження Visa: захист на рівні банків може різко збільшити попит на стейблкоїни в США",
       "video_keywords": "credit card, smartphone payment, online shopping, financial app, modern office"
+    },
+    {
+      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+      "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M380MX1W92VXBB79W6WPSWR1/hi-sec-vs-us-court-follow-up.jpg\" /></p><p>SEC Commissioner Mark Uyeda said that the agency dropped many cases against crypto com",
+      "published": "2026-09-23T21:47:52+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Колишній виконувач обов'язків голови SEC заявив, що Комісія з цінних паперів та бірж закрила низку судових справ проти криптовалютних компаній. Це рішення було прийняте з метою уникнути подальших репутаційних втрат та сумнівів у професійності регулятора.",
+      "ai_title": "SEC закриває криптосправи заради збереження репутації",
+      "video_keywords": "courtroom, legal documents, official building, gavel"
+    },
+    {
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former Hack VC partner Hsin-Ju Chuang found dead at 37\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3805C8FH8HWMHMANF3VXJW2/investigation-search.png\" /></p><p>The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture ",
+      "published": "2026-09-23T20:43:56+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Відома у криптоіндустрії топменеджерка та засновниця Dystopia Labs Сін-Жу Чуанг була знайдена мертвою. Раніше вона обіймала керівні посади в проєктах Stellar і Solana, а також працювала у венчурному фонді Hack VC.",
+      "ai_title": "Смерть колишньої партнерки Hack VC Сін-Жу Чуанг у 37 років",
+      "video_keywords": "police lights, city street at night, crime scene tape, investigation"
+    },
+    {
+      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
+      "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US lawmakers from gaming states urge SCOTUS to take up Kalshi case\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37S1XC5MZ8AHXAWMABJV243/hi-a-supreme-court-case-kalshi.png\" /></p><p>The case between New Jersey authorities and a prediction market company, if accepted by the Supreme",
+      "published": "2026-09-23T20:28:34+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Конгресмени з угодницьких штатів звернулися до Верховного суду США з вимогою взяти в роботу судовий поп щодо платформи прогнозування Kalshi. Це рішення може суттєво вплинути на регулювання ринків прогнозів та беттінгу в країні.",
+      "ai_title": "Американські законодавці просять Верховний суд розглянути справу Kalshi",
+      "video_keywords": "supreme court building, us capitol, lawmakers meeting, legal scales"
     }
   ]
 }
