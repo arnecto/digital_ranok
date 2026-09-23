@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Deterministic Core, Non-Deterministic Shell",
-      "link": "https://outdata.net/blog/260803",
-      "summary": "<p>Article URL: <a href=\"https://outdata.net/blog/260803\">https://outdata.net/blog/260803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49782220\">https://news.ycombinator.com/item?id=49782220</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
-      "published": "2026-09-21T02:02:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті розглядається сучасний підхід до побудови програмних систем, де надійне та чітке ядро поєднується з гнучкими компонентами на базі штучного інтелекту. Такий підхід допомагає поєднати стабільність класичного коду з адаптивністю сучасних алгоритмів. Це рішення стає критично важливим для створення надійних AI-додатків.",
-      "ai_title": "Архітектура програмного забезпечення: детерміноване ядро та непередбачувана оболонка",
-      "video_keywords": "server room, computer code, developer typing, monitor screen"
-    },
-    {
-      "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
-      "published": "2026-09-21T09:21:47+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Amazon обмежила доступ штучного інтелекту Muse від Meta до своєї торговельної платформи. Користувачі почали бачити сповіщення про те, що дії неавторизованого штучного інтелекту суперечать умовам використання сервісу. За попередніми даними, Meta не узгодила інтеграцію бота зі службою безпеки Amazon.",
-      "ai_title": "Amazon заблокував штучний інтелект від Meta через порушення правил",
-      "video_keywords": "online shopping, computer screen, warning popup, web browser"
-    },
-    {
       "title": "Grok 4.7",
       "link": "https://x.ai/news/grok-4-7",
       "summary": "<p>Article URL: <a href=\"https://x.ai/news/grok-4-7\">https://x.ai/news/grok-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49788838\">https://news.ycombinator.com/item?id=49788838</a></p>\n<p>Points: 40</p>\n<p># Comments: 9</p>",
@@ -344,6 +324,26 @@
       "ai_summary": "Після репутаційної кризи через останні математичні розробки компанія OpenAI формує незалежну раду експертів. Провідні математики консультуватимуть розробників ШІ щодо етики та безпеки взаємодії з науковою спільнотою.",
       "ai_title": "OpenAI залучає елітних математиків після скандалу з дослідженнями",
       "video_keywords": "mathematician writing on blackboard, team meeting in office, serious researchers discussing"
+    },
+    {
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/\">https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811484\">https://news.ycombinator.com/item?id=49811484</a></p>\n<p>Points: 43</p>\n<p># Comments: 8</p",
+      "published": "2026-09-23T04:00:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі зіткнулися з неочікуваною проблемою під час спроби скасувати підписку на сервіс Grammarly. Система починає надсилати дивні та неадекватні повідомлення всім контактам або користувачам. Цей інцидент викликав бурхливу дискусію в ІТ-спільноті щодо етики та надійності підписок.",
+      "ai_title": "Зрив підписки у Grammarly розсилає дивні повідомлення користувачам",
+      "video_keywords": "computer screen, typing keyboard, frustration, notification popup"
+    },
+    {
+      "title": "Data-only attacks are easier than you think (2024)",
+      "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "summary": "<p>Article URL: <a href=\"https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think\">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811429\">https://news.ycombinator.com/item?id=49811429</a></p>\n<p>Points: 21</p>\n<p># Comments: 9</p>",
+      "published": "2026-09-23T03:49:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти з кібербезпеки попереджають про зростання ефективності так званих \"data-only\" атак. Вони дозволяють зловмисникам обходити традиційні захисні механізми без модифікації коду програми. Це вимагає від розробників нових підходів до захисту пам'яті та інформації.",
+      "ai_title": "Атаки лише на дані виявилися простішими, ніж вважалося",
+      "video_keywords": "hacker typing, digital code, cyber security, glowing monitor"
     }
   ],
   "Бізнес / Стартапи": [
@@ -536,39 +536,19 @@
       "ai_summary": "Учасники майбутнього TechCrunch Founder Summit отримають практичні поради щодо залучення інвестицій, найму команди та використання штучного інтелекту. Подія покликана допомогти підприємцям уникнути типових помилок на старті та прискорити розвиток бізнесу.",
       "ai_title": "TechCrunch анонсує саміт для засновників стартапів у Бостоні",
       "video_keywords": "startup conference, business presentation, modern office, entrepreneurs meeting"
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+      "published": "2026-09-23T04:59:08+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Під час торгової місії прем'єр-міністр Греції Кіріакос Міцотакіс відверто заявив, що наразі жодна держава не готова до масштабних змін, які несе штучний інтелект. За його словами, уряди намагаються вирішувати вчорашні проблеми замість того, щоб діяти на випередження технологічного прогресу.",
+      "ai_title": "Прем'єр-міністр Греції визнав неготовність урядів до викликів штучного інтелекту",
+      "video_keywords": "politician speaking, press conference, artificial intelligence concept, futuristic tech"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
-      "summary": "",
-      "published": "2026-09-21T03:56:23+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ціна біткоїна пробила важливий технічний рівень опору. Історично подібні прориви неодноразово передували масштабним ралі на криптовалютному ринку.",
-      "ai_title": "Біткоїн подолав ключовий рубіж перед можливим бичачим трендом",
-      "video_keywords": "bitcoin currency, digital gold, financial chart, up arrow graphics"
-    },
-    {
-      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
-      "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin reclaims 50-week moving average: Is the bear market over? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M313HQ80FRZDHTGSS9YGGJSR/bitcoin-weekly-close.jpg\" /></p><p>Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts",
-      "published": "2026-09-21T04:29:59+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Закриття тижня вище важливої ковзної середньої історично сигналізувало про завершення затяжних спадних трендів. Аналітики обговорюють, чи є це остаточним розворотом ринку в бік росту.",
-      "ai_title": "Біткоїн повернув 50-тижневу ковзну середню: чи закінчився ведмежий ринок?",
-      "video_keywords": "trading terminal, stock market data, financial analytics, modern office monitor"
-    },
-    {
-      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-      "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hana Bank taps Euroclear blockchain for $100M bond issuance: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M310AVAYEMVP188717499P0H/sk-hana.png\" /></p><p>The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Eurocl",
-      "published": "2026-09-21T04:27:32+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Провідний банк успішно провів емісію п'ятирічних цифрових облігацій із використанням блокчейн-платформи. Це дозволило скоротити час розрахунків за цінними паперами з кількох днів до одного.",
-      "ai_title": "Південнокорейський Hana Bank випустив цифрові облігації на 100 мільйонів через блокчейн Euroclear",
-      "video_keywords": "modern bank building, corporate finance, digital tablet business, handshake contract"
-    },
     {
       "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
       "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
@@ -893,6 +873,56 @@
       "ai_summary": "Американський регулятор CFTC випустив офіційне попередження щодо ризикованих контрактів на ринках прогнозів. Це рішення ухвалене через кілька тижнів після накладення штрафів на аналогічні платформи.",
       "ai_title": "Регулятори США застерігають від ризиків на ринках прогнозів",
       "video_keywords": "trading floor, financial chart, computer screen, warning sign"
+    },
+    {
+      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+      "summary": "",
+      "published": "2026-09-23T05:16:22+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Блокчейн Solana розпочав тестування нового оновлення, яке може зменшити час підтвердження транзакцій з 12,8 секунди до вражаючих 150 мілісекунд. Це виведе швидкість мережі на абсолютно новий рівень, наблизивши її до показників традиційних платіжних систем.",
+      "ai_title": "Solana готує масштабне оновлення мережі",
+      "video_keywords": "blockchain server, digital code stream, high tech graphic, glowing network"
+    },
+    {
+      "title": "Bitcoin's on a streak it hasn't hit since 2012",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
+      "summary": "",
+      "published": "2026-09-23T05:12:42+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Перша криптовалюта демонструє тривалу бичачу тенденцію, якої ринок не бачив ще з 2012 року. Така тривала серія прибуткових періодів підкреслює потужний інституційний інтерес та стійкість активу попри ринкові коливання.",
+      "ai_title": "Біткоїн встановив історичну серію зростання",
+      "video_keywords": "bitcoin coin, cryptocurrency chart, trading screen, stock market graph"
+    },
+    {
+      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
+      "summary": "",
+      "published": "2026-09-23T04:10:08+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Поки біткоїн стабільно тримається біля позначки 87 000 доларів, криптовалюта Zcash очолює список лідерів серед основних альткоїнів із приростом у 10%. Ринкові аналітики пов'язують це з посиленням інтересу до конфіденційних цифрових активів.",
+      "ai_title": "Zcash стрімко дорожчає на тлі стабільності біткоїна",
+      "video_keywords": "crypto trading, green candlestick chart, financial monitor, digital currency"
+    },
+    {
+      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
+      "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M369MS3S9YPWJYY37QN69SJ6/apple-ios-hacker.png\" /></p><p>SlowMist said malicious FomoPeek versions distributed through Apple’s App Store used iOS kernel exploits to e",
+      "published": "2026-09-23T05:22:21+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія SlowMist повідомила про виявлення небезпечного iOS-додатку FomoPeek, через який користувачі втратили криптовалюту на суму близько 580 000 доларів. Зловмисники використовували вразливості ядра операційної системи Apple для крадіжки коштів.",
+      "ai_title": "Шкідливий додаток в App Store обікрав користувачів на $580 тисяч",
+      "video_keywords": "smartphone screen, hacker typing, cyber security warning, mobile phone"
+    },
+    {
+      "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
+      "link": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI potential to drive crypto demand remains ‘underappreciated’: BlackRock\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M368H3Z8D0XWGWSGQZKMAXQJ/ai-crypto.jpg\" /></p><p>BlackRock says AI agents could drive demand for stablecoins and programmable payment rails, while tokenized compu",
+      "published": "2026-09-23T04:33:18+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Керівництво інвестиційного гіганта BlackRock вважає потенціал штучного інтелекту у створенні попиту на криптовалюту недооціненим. ШІ-агенти можуть стати активними користувачами стейблкоїнів та програмованих платіжних систем у найближчому майбутньому.",
+      "ai_title": "У BlackRock заявили про недооцінений зв'язок штучного інтелекту і крипти",
+      "video_keywords": "artificial intelligence, futuristic interface, data center, digital abstract"
     }
   ]
 }
