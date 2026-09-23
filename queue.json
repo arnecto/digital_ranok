@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "link": "https://linear.app/now/ci-bottleneck-reworked",
-      "summary": "<p>Article URL: <a href=\"https://linear.app/now/ci-bottleneck-reworked\">https://linear.app/now/ci-bottleneck-reworked</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792067\">https://news.ycombinator.com/item?id=49792067</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
-      "published": "2026-09-21T19:23:33+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Масове використання генеративного штучного інтелекту для написання коду призвело до перевантаження систем CI (Continuous Integration). Через різке зростання обсягів комітів компанії змушені повністю переробляти свої робочі процеси, щоб уникнути утворення вузьких місць.",
-      "ai_title": "Штучний інтелект змусив розробників змінити підхід до безперервної інтеграції кодів",
-      "video_keywords": "programmer, typing, computer screen, office workspace"
-    },
-    {
-      "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
-      "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html\">https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791944\">https://news.ycombinator.com/item?id=49791944</a></p>\n<p>Points: 34</p>\n<p># Comments: 35</p>",
-      "published": "2026-09-21T19:14:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інвестори на фінансових ринках виявляють усе більшу обережність щодо фінансування нових центрів обробки даних для штучного інтелекту. Експерти вказують на потенційне перенасичення ринку та надмірні очікування від інвестицій у цю інфраструктуру.",
-      "ai_title": "Волл-стріт починає сумніватися у стійкості буму дата-центрів",
-      "video_keywords": "financial district, skyscrapers, stock exchange, business people"
-    },
-    {
-      "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
-      "link": "https://robocurve.org/roboharm/",
-      "summary": "<p>Article URL: <a href=\"https://robocurve.org/roboharm/\">https://robocurve.org/roboharm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791720\">https://news.ycombinator.com/item?id=49791720</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-21T18:58:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Спеціалізовані тести оцінюють рівень безпеки сучасних автономних роботів та їхніх програмних алгоритмів. Дослідники аналізують, чи здатні машини розпізнавати та блокувати потенційно шкідливі або небезпечні інструкції від користувачів.",
-      "ai_title": "Нове дослідження перевіряє роботів на готовність виконувати небезпечні команди",
-      "video_keywords": "robot arm, laboratory, testing, technology"
-    },
-    {
-      "title": "Frontier AI on Your Own Hardware",
-      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "summary": "<p>Article URL: <a href=\"https://timdettmers.com/2026/09/21/dlab-open-source-week/\">https://timdettmers.com/2026/09/21/dlab-open-source-week/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791647\">https://news.ycombinator.com/item?id=49791647</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-21T18:53:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти демонструють можливості запуску потужних відкритих моделей штучного інтелекту на звичайному локальному обладнанні. Це робить передові технології машинного навчання більш доступними для розробників без потреби в облаках.",
-      "ai_title": "Запуск передового штучного інтелекту на власному залізі",
-      "video_keywords": "computer hardware, motherboard, microchip, electronics"
-    },
-    {
-      "title": "California tightens rules on AI data center energy and water use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to [&#8230;]",
-      "published": "2026-09-21T20:29:45+00:00",
-      "source": "The Verge",
-      "ai_summary": "Губернатор Каліфорнії підписав пакет законів, покликаний захистити звичайних мешканців від зростання комунальних тарифів через енергоємні дата-центри. Нові норми вимагають від технологічних компаній самостійно покривати витрати на модернізацію інфраструктури та мереж.",
-      "ai_title": "Каліфорнія посилює правила енерго- та водоспоживання для дата-центрів ШІ",
-      "video_keywords": "server racks, data center, cooling system, cables"
-    },
-    {
       "title": "Data Protection Commission fines Google €403M over processing of location data",
       "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
       "summary": "<p>Article URL: <a href=\"https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location\">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com",
@@ -354,49 +304,59 @@
       "ai_summary": "Платформа Discord розпочинає глобальне впровадження системи автоматичного визначення вікової категорії користувачів. На основі аналізу активності акаунта сервіс самостійно прийматиме рішення про застосування вікових обмежень без необхідності ручної перевірки.",
       "ai_title": "Discord запроваджує автоматичне визначення віку користувачів",
       "video_keywords": "person typing on keyboard, smartphone screen, chat app, young adult using laptop"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820134\">https://news.ycombinator.com/item?id=49820134</a></p>\n<p>Points: 143</p>\n<p># Comments: 114</p>",
+      "published": "2026-09-23T18:06:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Штучний інтелект Claude автономно виявив нову ферментну систему з повторами, схожими на технологію редагування геному CRISPR. Це стало першим значним досягненням нової біолабораторії Anthropic і продемонструвало величезний потенціал ШІ укладення наукових відкриттів.",
+      "ai_title": "Штучний інтелект від Anthropic самостійно відкрив новий ферментний комплекс",
+      "video_keywords": "laboratory, scientist, microscope, DNA strands"
+    },
+    {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "summary": "<p>Article URL: <a href=\"https://claude.dev/blog/how-we-made-claude-ai-faster/\">https://claude.dev/blog/how-we-made-claude-ai-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49821196\">https://news.ycombinator.com/item?id=49821196</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+      "published": "2026-09-23T19:23:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інженери поділилися технічними деталями оптимізації платформи, завдяки якій вдалося значно скоротити час відповіді штучного інтелекту. Це суттєво покращило користувацький досвід та продуктивність роботи з чат-ботом.",
+      "ai_title": "Як розробники прискорили роботу Claude.ai у три рази всього за два тижні",
+      "video_keywords": "person typing code, laptop screen, data streams, digital dashboard"
+    },
+    {
+      "title": "Data centers are black boxes, but California wants to change that",
+      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI [&#8230;]",
+      "published": "2026-09-23T18:22:57+00:00",
+      "source": "The Verge",
+      "ai_summary": "Губернатор Каліфорнії підписав нові закони, які зобов'яжуть компанії надавати місцевим громадам більше інформації про вплив дата-центрів на споживання води та електроенергії. Це рішення покликане врегулювати конфлікти між технологічними гігантами та місцевими мешканцями через стрімке зростання інфраструктури штучного інтелекту.",
+      "ai_title": "Каліфорнія хоче зробити дата-центри для ШІ більш відкритими для громадськості",
+      "video_keywords": "server racks, data center, flashing lights, industrial building"
+    },
+    {
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
+      "published": "2026-09-23T19:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Новий ШІ-агент від Meta виявився надзвичайно ефективним у виконанні повсякденних завдань, зокрема у здійсненні покупок та управлінні бюджетом. Попри свою симпатичну візуалізацію, цей помічник здатний швидко опустошити гаманець свого власника.",
+      "ai_title": "Штучний інтелект від Meta допомагає користувачам витрачати гроші",
+      "video_keywords": "smartphone screen, online shopping, credit card, smiling person"
+    },
+    {
+      "title": "Cloud Agents Are Inevitable AI Prisons",
+      "link": "https://normanponte.io/19df691f",
+      "summary": "<p>Article URL: <a href=\"https://normanponte.io/19df691f\">https://normanponte.io/19df691f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820267\">https://news.ycombinator.com/item?id=49820267</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+      "published": "2026-09-23T18:16:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти попереджають про приховані загрози масового переходу на хмарні автономні системи штучного інтелекту. Надмірна залежність від таких закритих платформ може обмежити свободу користувачів та створити нові монополії у цифровій сфері.",
+      "ai_title": "Хмарні ШІ-агенти можуть стати цифровими в'язницями",
+      "video_keywords": "futuristic lock, digital matrix, person looking at screen, glowing interface"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "published": "2026-09-21T19:19:21+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий штучний інтелект Muse від компанії Meta продемонстрував вищі показники завантажень та активних користувачів у США та Канаді на старті, ніж свого часу ChatGPT. Це свідчить про зростаючу конкуренцію на ринку мобільних додатків із генеративним ШІ.",
-      "ai_title": "AI-агент Muse від Meta обганяє ChatGPT за темпами завантажень",
-      "video_keywords": "smartphone screen, mobile app, typing on phone, person using phone"
-    },
-    {
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
-      "published": "2026-09-21T18:23:05+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Kairos Power залучила до 100 мільйонів доларів від групи Samsung для будівництва свого першого ядерного реактора потужністю 50 мегават. Цей енергетичний об'єкт у майбутньому забезпечуватиме потреби центрів обробки даних компанії Google.",
-      "ai_title": "Samsung інвестує 100 мільйонів доларів у ядерний реактор для Google",
-      "video_keywords": "nuclear power plant, cooling tower, industrial facility, engineering control room"
-    },
-    {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "published": "2026-09-21T17:55:18+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Amazon обмежила доступ нового штучного інтелекту Muse від Meta до свого вебсайту. Оскільки Amazon розвиває власні моделі та має потужну інфраструктуру, компанія не бачить причин відкривати свої дані для конкурентів без юридичних зобов'язань.",
-      "ai_title": "Amazon заблокував доступ AI-агенту від Meta до своєї платформи",
-      "video_keywords": "server racks, data center, computer screens, cybersecurity padlock"
-    },
-    {
-      "title": "X will now tell users when governments have forced it to limit their posts",
-      "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-      "summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
-      "published": "2026-09-21T17:45:35+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа X оновлює свій інструмент прозорості, щоб інформувати користувачів, коли їхні публікації обмежують або приховують через вимоги місцевих законів та урядів. Нова функція також показуватиме, яка саме країна надіслала запит на цензуру.",
-      "ai_title": "Соцмережа X почне попереджати користувачів про цензуру від урядів",
-      "video_keywords": "social media feed, computer monitor, typing keyboard, warning notification"
-    },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
       "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
@@ -606,29 +566,59 @@
       "ai_summary": "Інноваційний матрац став на 20% швидшим за попереднє покоління та пропонує користувачам покращені функції контролю температури. Нова модель доступна в менших та одиночних розмірах за ціною від 1999 доларів.",
       "ai_title": "Компанія Eight Sleep представила розумне ліжко Pod 6 у нових компактних розмірах",
       "video_keywords": "modern bedroom, smart bed, sleeping person, luxury interior"
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "published": "2026-09-23T19:31:28+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія залучила масштабне фінансування, яке оцінило її у $2 мільярди. Отримані кошти спрямують на клінічні випробування нових препаратів природного походження для лікування шкірних захворювань та підтримки ваги після прийому GLP-1.",
+      "ai_title": "Біотехнологічний стартап Enveda залучив $311 мільйонів для створення ліків за допомогою штучного інтелекту",
+      "video_keywords": "laboratory, scientist, microscope, medical research"
+    },
+    {
+      "title": "Modal Motors is trying to cut China out of electric motors entirely",
+      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+      "published": "2026-09-23T19:05:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий стартап створює легкі та компактні двигуни без використання дефіцитних магнітів. Такі технології ідеально підходять для використання в дронах, роботах та промислових вентиляторах.",
+      "ai_title": "Modal Motors розробляє електродвигуни без китайських рідкісноземельних матеріалів",
+      "video_keywords": "electric motor, factory assembly, robotics, drone parts"
+    },
+    {
+      "title": "The old cybersecurity model is breaking",
+      "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&#160;even seeing companies like&#160;Instinct&#160;and&#160;Simile&#160;bring in nine-figure checks and valuations that&",
+      "published": "2026-09-23T17:44:02+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі занепокоєння щодо безпеки ШІ інвестори масово вкладають кошти в стартапи нового покоління. Такі компанії залучають величезні інвестиції для захисту цифрового середовища в епоху штучного інтелекту.",
+      "ai_title": "Традиційна кібербезпека втрачає актуальність через розвиток штучного інтелекту",
+      "video_keywords": "cyber security, digital code, hacker screen, server room"
+    },
+    {
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+      "summary": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
+      "published": "2026-09-23T17:28:38+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Працівники повідомили про симптоми отруєння невідомим газом під час роботи. Через ці інциденти державні органи розпочали офіційне розслідування діяльності компанії.",
+      "ai_title": "Компанія Zoox призупинила випробування роботаксі в Атланті після скарг на токсичний газ",
+      "video_keywords": "autonomous car, testing facility, safety helmet, industrial accident"
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "published": "2026-09-23T17:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Користувачі підписок Pro та Plus тепер можуть використовувати спеціальну вкладку на смартфонах для виконання складних завдань за допомогою голосу. Це значно розширює можливості автономної роботи асистента в дорозі.",
+      "ai_title": "Мобільний застосунок ChatGPT отримав голосові функції штучного інтелекту",
+      "video_keywords": "person talking to smartphone, mobile app screen, wireless earbuds, voice recognition"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M32DNKD3CR6WM1GWCHG5FQE8/hi-can-somebody-predict-the-next-us-elections-crypto-3.jpg\" /></p><p>The digital asset-aligned PAC joined other groups to spend more than a combined",
-      "published": "2026-09-21T18:15:22+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Політичний комітет, що підтримує цифрових активів, знову виділяє масштабну суму для протидії американському сенатору Шерроду Брауну в Огайо. Це свідчить про зростаючий політичний вплив криптоіндустрії на виборчі процеси в США.",
-      "ai_title": "Крипто-комітет спрямує $30 мільйонів проти сенатора Шеррода Брауна",
-      "video_keywords": "political campaign, us capitol, voting ballot, protest sign"
-    },
-    {
-      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
-      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
-      "summary": "",
-      "published": "2026-09-21T19:08:40+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Незважаючи на нові правила торгівлі від SEC, один із провідних інвестиційних банків прогнозує низький попит на токенізовані акції серед інвесторів. На думку аналітиків, ринок поки не готовий до масового переходу на такі інструменти.",
-      "ai_title": "Інвестиційний банк скептично оцінює попит на токенізовані акції",
-      "video_keywords": "stock market ticker, falling chart, business meeting, banking interior"
-    },
     {
       "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
@@ -963,6 +953,46 @@
       "ai_summary": "Щотижневий обсяг транзакцій зі стблкоїнами на певній блокчейн-мережі сягнув колосальних 150 мільярдів доларів. Аналітики досліджують внутрішню кухню та архітектуру цієї надпотужної платіжної інфраструктури.",
       "ai_title": "Як працює блокчейн, що проводить розрахунки на $150 мільярдів стаблкоїнів щотижня",
       "video_keywords": "server room data center, glowing network cables, digital transaction animation"
+    },
+    {
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
+      "summary": "",
+      "published": "2026-09-23T18:59:36+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Колишню партнерку венчурного фонду Hack VC Сінь-Жу Чуан знайдено мертвою. Це сталося невдовзі після її публічного конфлікту з керівництвом компанії, що викликало широкий резонанс у криптовалютній спільноті.",
+      "ai_title": "Трагічна смерть колишнього партнера Hack VC після публічного конфлікту",
+      "video_keywords": "police tape, city street, night, dramatic lighting, empty office"
+    },
+    {
+      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
+      "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
+      "summary": "",
+      "published": "2026-09-23T18:04:11+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Радник Білого дому публічно став на захист зв'язків президента Дональда Трампа з криптовалютною індустрією. Захист пролунав на тлі нещодавньої поразки важливого законопроекту Clarity Act у конгресі.",
+      "ai_title": "Білий дім захищає криптоініціативи Трампа після поразки закону Clarity Act",
+      "video_keywords": "white house exterior, washington dc, press conference, american flag, politician speaking"
+    },
+    {
+      "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
+      "link": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump reveals up to $100K Strategy stock purchase in ethics filing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37S20R41W4NRY3RF09G3JDY/white-house-crypto2.png\" /></p><p>President Donald Trump disclosed a July purchase of Strategy shares as his administration continues to advance",
+      "published": "2026-09-23T19:05:14+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Згідно з новими документами про фінансову етику, президент США Дональд Трамп придбав акції компанії Strategy. Вартість пакета оцінюється сумою до ста тисяч доларів.",
+      "ai_title": "Трамп задекларував купівлю акцій Strategy на суму до 100 тисяч доларів",
+      "video_keywords": "stock market chart, digital screen, financial numbers, trading floor, businessman looking at monitor"
+    },
+    {
+      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+      "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US stablecoin adoption could surge with bank-like protections: Visa survey\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37J1B2V73G566QY4TGVRJ04/hi-why-the-us-is-one-of-the-most-crypto-friendly-countries-in-the-world2.jpg\" /></p><p>The survey released by Visa posited that bank-lik",
+      "published": "2026-09-23T18:17:48+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Нове опитування, проведене платіжним гігантом Visa, показує готовність американців масово використовувати стейблкоїни. Головною умовою для цього є надання державних гарантій та захисту, аналогічних традиційним банківським.",
+      "ai_title": "Дослідження Visa: захист на рівні банків може різко збільшити попит на стейблкоїни в США",
+      "video_keywords": "credit card, smartphone payment, online shopping, financial app, modern office"
     }
   ]
 }
