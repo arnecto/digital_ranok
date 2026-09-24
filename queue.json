@@ -1,71 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Aging may be a program, not a breakdown",
-      "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
-      "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/\">https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49804266\">https://news.ycombinator.com/item?id=49804266</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-22T16:48:33+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "A WordPress vulnerability scored 9.2/10 is present in all versions since 2016",
-      "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "summary": "<p>Article URL: <a href=\"https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp\">https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803959\">https://news.ycombinator.com/item?id=49803959</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-      "published": "2026-09-22T16:33:45+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Americans' Drinking Remains at Record Low: Gallup Poll",
-      "link": "https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx",
-      "summary": "<p>Article URL: <a href=\"https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx\">https://news.gallup.com/poll/713534/americans-drinking-remains-record-low.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803894\">https://news.ycombinator.com/item?id=49803894</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
-      "published": "2026-09-22T16:29:11+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "link": "https://www.anthropic.com/claude-opus-5-5",
-      "summary": "<p><a href=\"https://github.com/anthropics/ClaudeForFoundationModels/commit/5180901338a50bef050d5e9464583753ed3869a3\" rel=\"nofollow\">https://github.com/anthropics/ClaudeForFoundationModels/comm...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49803863\">https://news.ycombinator.com/item?id=49803863</a></p>\n<p>Points: 246</p>\n<p># Comments: 175</p>",
-      "published": "2026-09-22T16:27:30+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-      "link": "https://ai-rete-rag.com/",
-      "summary": "<p>Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on \"guardrails\" after the fact.<p>It runs the two in series instead:<p>1. A pure-Python Rete engine evaluates YAML rules against your facts. The verdict comes only from here. Same facts, same verdict, every time, with salience-based conf",
-      "published": "2026-09-22T16:15:06+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/graphics/2026-iran-school-attack/\">https://www.bloomberg.com/graphics/2026-iran-school-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49806430\">https://news.ycombinator.com/item?id=49806430</a></p>\n<p>Points: 177</p>\n<p># Comments: 86</p>",
-      "published": "2026-09-22T19:03:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Звіт Bloomberg розкриває деталі трагічного інциденту, де помилкові розрахунки штучного інтелекту призвели до ракетного удару по школі. У Пентагоні заявили, що надмірна довіра до автономних систем прийняття рішень стала ключовим фактором катастрофи. Це викликало серйозні занепокоєння щодо етики та безпеки використання військового ШІ.",
-      "ai_title": "Пентаган визнав надмірну залежність від штучного інтелекту в ударі по школі в Ірані",
-      "video_keywords": "military control room, computer screens, flashing red lights, serious operators"
-    },
-    {
-      "title": "GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-sol-and-luna/\">https://openai.com/index/introducing-gpt-6-sol-and-luna/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49805509\">https://news.ycombinator.com/item?id=49805509</a></p>\n<p>Points: 673</p>\n<p># Comments: 380</p>",
-      "published": "2026-09-22T18:00:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI офіційно анонсувала наступне покоління своїх флагманських мовних моделей — GPT-6 під назвами Sol та Luna. Новинки демонструють безпрецедентний рівень розуміння контексту та швидкості обробки даних. Експерти вже називають це черговим проривом у галузі генеративного штучного інтелекту.",
-      "ai_title": "OpenAI представила нові моделі штучного інтелекту GPT-6 Sol та Luna",
-      "video_keywords": "futuristic data center, server racks glowing, artificial intelligence code, glowing screens"
-    },
-    {
-      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-      "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-      "summary": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips [&#8230;]",
-      "published": "2026-09-22T20:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Qualcomm представила новий флагманський процесор Snapdragon 8 Elite Gen 6 разом із його ще потужнішою версією Extreme. Обидва чіпи орієнтовані на максимальну продуктивність в іграх, відеозйомці та задачах зі штучним інтелектом. Екстремальна версія пропонує покращені апаратні можливості для найвибагливіших користувачів.",
-      "ai_title": "Qualcomm анонсувала потужний мобільний чіп Snapdragon 8 Elite Gen 6",
-      "video_keywords": "microchip macro shot, processor on motherboard, electronic circuit board, tech manufacturing"
-    },
-    {
       "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
       "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
       "summary": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the [&#8230;]",
@@ -74,16 +9,6 @@
       "ai_summary": "Компанія Motorola стала першою, хто представив смартфон на базі найновішого процесора Snapdragon 8 Elite Extreme Gen 6. Нова модель Signature 27 вражає своїм незвичним дизайном та обіцяє стати найпотужнішим пристроєм бренду за останні роки. Повні характеристики та дата релізу поки тримаються в секреті.",
       "ai_title": "Motorola анонсувала футуристичний смартфон Signature 27 на новому чіпі",
       "video_keywords": "smartphone unboxing, futuristic mobile phone, sleek tech device, person holding phone"
-    },
-    {
-      "title": "San Francisco sues Trump Media for selling early access to Trump posts",
-      "link": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
-      "summary": "San Francisco is suing the Trump Media &#38; Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a \"corrupt business scheme\" that violates both California's Unfair Competition [&#8230;]",
-      "published": "2026-09-22T17:43:50+00:00",
-      "source": "The Verge",
-      "ai_summary": "Місто Сан-Франциско розпочало судовий процес проти Trump Media & Technology Group, якій належить платформа Truth Social. Позов стосується продажу раннього доступу до публікацій Дональда Трампа через спеціальний API-feed. Влада кваліфікує цю схему як порушення законів про недобросовестну конкуренцію.",
-      "ai_title": "Сан-Франциско подало до суду на компанію Trump Media через платні пости",
-      "video_keywords": "courtroom gavel, legal documents, courthouse exterior, lawyer working at desk"
     },
     {
       "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
@@ -454,19 +379,59 @@
       "ai_summary": "Останні статистичні дані, опубліковані компанією Waymo, демонструють, що її автономні автомобілі потрапляють в аварії рідше, ніж люди-водії. Це має допомогти компанії переконати скептиків та політиканів у надійності безпілотного транспорту.",
       "ai_title": "Безпілотники Waymo знову підтвердили свою безпеку на дорогах",
       "video_keywords": "autonomous car driving, self driving vehicle, steering wheel moving, empty driver seat"
+    },
+    {
+      "title": "Show HN: Radix – Visual UI for agentic programming",
+      "link": "https://radix-os.com",
+      "summary": "<p>Hey HN, I'm Jordan from Radix.<p>Radix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.<p>I built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up ",
+      "published": "2026-09-24T18:35:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий інструмент Radix, який дозволяє створювати інтерактивні робочі простори для програмування за допомогою текстових підказок. Віджети зберігаються локально на диску та допомагають розробникам тестувати ідеї й візуалізувати результати.",
+      "ai_title": "Radix: візуальний інтерфейс для програмування за допомогою AI-агентів",
+      "video_keywords": "coding on laptop, developer workspace, UI design screen, software engineer"
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "link": "https://github.com/devdotfast/whiteboard",
+      "summary": "<p>Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard, an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: <a href=\"https://github.com/devdotfast/whiteboard\" rel=\"nofollow\">https://github.com/devdotfast/whiteboard</a> and our homepage: <a href=\"https://whiteboard.dev.fast/\">https://whiteboard.dev.fast/</a><p>We",
+      "published": "2026-09-24T17:21:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Анонсовано Whiteboard — відкритий десктопний додаток, де люди та штучний інтелект можуть спільно архітектурити програмне забезпечення в єдиному робочому просторі. Проєкт створений для зручнішого та продуманішого дизайну коду.",
+      "ai_title": "Whiteboard: відкрите середовище для спільного проєктування з AI",
+      "video_keywords": "software architecture, whiteboard planning, open source code, team brainstorming"
+    },
+    {
+      "title": "Jensen Huang talks about AI and climate change like a supervillain",
+      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
+      "published": "2026-09-24T18:04:44+00:00",
+      "source": "The Verge",
+      "ai_summary": "Генеральний директор Nvidia заявив, що штучний інтелект дійсно може допомогти в боротьбі зі зміною клімату, але лише після того, як завдасть «величезної кількості болю та страждань» енергетичній системі. Його одіозні коментарі про майбутнє енергетики та AI викликали жваве обговорення.",
+      "ai_title": "Дженсен Хуанг порівняв вплив AI на клімат із діями суперлиходія",
+      "video_keywords": "tech conference, CEO speaking, futuristic server room, green energy wind turbines"
+    },
+    {
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in [&#8230;]",
+      "published": "2026-09-24T17:52:29+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Meta анонсувала два нові інструменти для платформи Horizon: мобільний додаток Horizon Create та браузерну версію Horizon Studio. Вони дозволяють генерувати власні ігри за допомогою текстових AI-промптів.",
+      "ai_title": "Meta дозволить створювати ігри за допомогою AI прямо на смартфоні",
+      "video_keywords": "mobile gaming, smartphone screen, VR headset, app interface"
+    },
+    {
+      "title": "Muse will apparently let you download its entire filesystem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on [&#8230;]",
+      "published": "2026-09-24T17:14:12+00:00",
+      "source": "The Verge",
+      "ai_summary": "Двом незалежним розробникам вдалося змусити нового AI-агента Muse від Meta запакувати та видати повний вміст кореневої файлової системи, системні файли Ubuntu та внутрішню документацію. Цей інцидент ставить під сумнів безпеку взаємодії з подібними асистентами.",
+      "ai_title": "Розробники знайшли вразливість, що дозволяє завантажити всю файлову систему AI-агента Muse від Meta",
+      "video_keywords": "hacker typing, command line interface, terminal code, computer security"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "published": "2026-09-22T16:30:07+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Anthropic випустила модель Opus 5.5, яка демонструє найвищі результати продуктивності серед усіх протестованих систем за зниженою ціною. Розробники зазначають, що це значний крок вперед у сфері штучного інтелекту.",
-      "ai_title": "Anthropic презентувала нову потужну модель Opus 5.5",
-      "video_keywords": "server room, data center, computer monitor, artificial intelligence"
-    },
     {
       "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
       "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
@@ -476,26 +441,6 @@
       "ai_summary": "Компанія Qualcomm анонсувала два нових процесори для мобільних пристроїв. Головною особливістю флагманського чіпа є здатність локально запускати потужні моделі штучного інтелекту без підключення до хмари.",
       "ai_title": "Qualcomm представила нові чіпи для смартфонів із акцентом на штучний інтелект",
       "video_keywords": "smartphone, microchip, electronics manufacturing, technology"
-    },
-    {
-      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-      "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-      "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
-      "published": "2026-09-22T18:24:34+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відома венчурна компанія Андрієсена Горويتца відкриває новий навчальний заклад для талановитих випускників шкіл. Проєкт поєднує елементи професійної освіти, акселератора стартапів та програми підтримки молодих таланти.",
-      "ai_title": "Фонд a16z запускає власну школу, кидаючи виклик культу засновників-недоучок",
-      "video_keywords": "modern classroom, university students, lecture hall, young people studying"
-    },
-    {
-      "title": "Waymo’s latest expansion strategy: teenagers",
-      "link": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
-      "summary": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
-      "published": "2026-09-22T17:36:06+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Сервіс безпілотних таксі Waymo розширює аудиторію та починає перевозити підлітків віком від 13 до 17 років. Нашвілл став другим містом, де неповнолітні можуть офіційно користуватися безпілотниками.",
-      "ai_title": "Waymo дозволила поїздки в роботаксі для підлітків",
-      "video_keywords": "autonomous car, robotaxi, passenger inside car, modern vehicle interior"
     },
     {
       "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
@@ -731,26 +676,59 @@
       "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
       "published": "2026-09-24T14:00:00+00:00",
       "source": "TechCrunch"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "published": "2026-09-24T19:00:42+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап прагне розвивати відкритий штучний інтелект, який запускається безпосередньо на пристроях. Це дозволяє ефективніше використовувати наявні обчислювальні потужності без потреби в постійному підключенні до хмари.",
+      "ai_title": "PrismML інтегрує свої компактні мовні моделі в розумні окуляри на базі Qualcomm",
+      "video_keywords": "smart glasses, wearable technology, augmented reality, microchip"
+    },
+    {
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "published": "2026-09-24T18:52:38+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія розробляє кастомізовану апаратну платформу вартістю 30 000 доларів. Проєкт позиціонується як своєрідна операційна система або «Android» у світі робототехніки для програмістів.",
+      "ai_title": "Стартап Feather створює універсальну робототехнічну платформу для розробників",
+      "video_keywords": "robotics, engineer assembling robot, laboratory, circuit board"
+    },
+    {
+      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "summary": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "published": "2026-09-24T17:39:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Пристрій зі штучним інтелектом зовнішньо нагадує тамагочі та кріпиться на сумку. Гаджет поєднує новітні технологічні тренди Gen Z із модою на ностальгійні аксесуари.",
+      "ai_title": "Meta представила новий гаджет Muse Charm у форматі ретро-аксесуара",
+      "video_keywords": "keychain gadget, trendy accessories, young person holding device, retro toy"
+    },
+    {
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "summary": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+      "published": "2026-09-24T17:07:55+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія поповнила портфоліо ще одним стартапом у межах своєї активної стратегії розширення бізнесу. Керівництво продовжує пошук перспективних технологічних проєктів для купівлі.",
+      "ai_title": "Databricks купує розробника хмарних таблиць Row Zero та готує нові поглинання",
+      "video_keywords": "business handshake, corporate office meeting, laptop screen with charts, teamwork"
+    },
+    {
+      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "published": "2026-09-24T17:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий інструмент автоматично створює цифрову шафу на основі ваших фотографій. Функція стала загальнодоступною для користувачів мобільних платформ Android та iOS.",
+      "ai_title": "Google Photos запустив функцію віртуального гардероба на базі штучного інтелекту",
+      "video_keywords": "smartphone screen, tapping touch screen, app interface, wardrobe closet"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price seeks $86K as new support after oil dips below $90\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34XETNPFDGERCB74XHN6SRJ/hi-why-oil-rich-investors-are-pushing-bitcoins-next-liquidity-wave.jpg\" /></p><p>Bitcoin price action avoided a significant drop below $86,000 as ",
-      "published": "2026-09-22T16:01:55+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
-      "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
-      "summary": "",
-      "published": "2026-09-22T17:34:03+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Шість найбільших банків Канади об'єднуються для створення спільної платформи на основі блокчейну. Ініціатива спрямована на впровадження міжбанківських розрахунків за допомогою токенізованих канадських доларів.",
-      "ai_title": "Провідні банки Канади запускають проєкт токенізованих депозитів",
-      "video_keywords": "bank building, digital currency, smartphone banking, financial district"
-    },
     {
       "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
       "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1145,6 +1123,36 @@
       "ai_summary": "Компанія IBM відкрила бета-доступ до мережевого шлюзу Swift, який дозволяє здійснювати перекази токенізованих депозитів у режимі 24/7. Нове рішення інтегрується зі звичними платіжними повідомленнями банків, спрощуючи використання блокчейн-активів. Це має прискорити розрахунки між глобальними фінансовими інститутами.",
       "ai_title": "IBM запустила бета-версію моста Swift для цілодобових токенізованих депозитів",
       "video_keywords": "server racks flashing lights, data center corridor, computer monitor with software code"
+    },
+    {
+      "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
+      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
+      "summary": "",
+      "published": "2026-09-24T18:46:58+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта перевищила ключовий технічний індикатор, який часто сигналізує про зміну ринкового тренду. Аналітики оцінюють поточну ситуацію та намагаються спрогнозувати подальший рух ціни.",
+      "ai_title": "Біткоїн подолав важливу довгострокову ковзну середню: що це означає для ринку",
+      "video_keywords": "bitcoin chart, crypto trading screen, financial graphs, glowing digits"
+    },
+    {
+      "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
+      "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto treasury model loses its edge as stock premiums fade: DWF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A24Y0DVXQSBK1VSJST05MZ/bear-bang-reg-falling-crypto.jpg\" /></p><p>Most DATs now trade below the value of their crypto holdings, weakening a financing model that once hel",
+      "published": "2026-09-24T17:14:35+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Більшість цифрових активних казначейств нині торгуються нижче вартості своїх криптовалютних резервів. Це суттєво послаблює фінансову модель, яка раніше була надзвичайно популярною серед компаній.",
+      "ai_title": "Модель криптоказначейства втрачає популярність через падіння премій на акції",
+      "video_keywords": "stock market crash, falling graphs, empty office, depressed trader"
+    },
+    {
+      "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+      "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3A44DGGE4E3FZMH613C6EH3/hi-limit-order-protocols-offer-more-flexibility-and-efficiency-to-traders.jpg\" /></p><p>The France-based semiconductor company has fully un",
+      "published": "2026-09-24T17:13:38+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Французький виробник напівпровідників повністю відмовився від концепції збереження капіталу в криптовалюті. Компанія реалізувала решту свого цифрового активу у розмірі 314 BTC.",
+      "ai_title": "Компанія Sequans повністю вийшла з біткоїн-стратегії, продавши останні біткоїни",
+      "video_keywords": "microchip factory, modern technology, business handshake, corporate office"
     }
   ]
 }
