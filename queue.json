@@ -409,29 +409,49 @@
       "ai_summary": "Відомий розробник опублікував резонансну статтю про причини свого остаточного переходу з сервісів Google на альтернативні платформи. Цей крок відображає ширшу тенденцію серед IT-фахівців, які шукають незалежності від техногігантів через питання приватності та екосистематичних обмежень.",
       "ai_title": "Чому розробники масово відмовляються від послуг Google",
       "video_keywords": "person typing computer, empty desk, frustration office, deleting files"
+    },
+    {
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "link": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "summary": "<p>Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a simple C++ CUDA Test Harness and handed that to AI agents. They can run kernels, get benchmarks, and even can profile via nsight</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842596\">https://news.ycombinator.com/item?id=49842596</a",
+      "published": "2026-09-25T10:32:58+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив інструмент на базі langgraph, який дозволяє ШT-агентам самостійно оптимізувати CUDA-кернели. Агенти можуть запускати код, тестувати продуктивність та проводити профілювання за допомогою спеціальних утиліт.",
+      "ai_title": "Штучний інтелект для оптимізації коду CUDA",
+      "video_keywords": "programmer coding, computer screen, lines of code, modern office"
+    },
+    {
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016\">https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842483\">https://news.ycombinator.com/item?id=49842483</a></p>\n<p>Points: 41</p>\n<p># Comments: 27</p>",
+      "published": "2026-09-25T10:19:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Oracle опинилася в ситуації, коли зобов'язана виплачувати кошти інвесторам дата-центрів навіть тоді, коли об'єкти не підключені до електроенергії. Це створює серйозні фінансові ризики на тлі стрімкого зростання попиту на інфраструктуру для штучного інтелекту.",
+      "ai_title": "Oracle змушена платити інвесторам дата-центрів без світла",
+      "video_keywords": "data center, server room, blinking lights, electrical cables"
+    },
+    {
+      "title": "Topcoat is pushing the boundary of server applications with Rust",
+      "link": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+      "summary": "<p>Article URL: <a href=\"https://tokio.rs/blog/2026-09-24-topcoat-server-applications\">https://tokio.rs/blog/2026-09-24-topcoat-server-applications</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842332\">https://news.ycombinator.com/item?id=49842332</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-09-25T09:59:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Команда розробників поділилася новим підходом до створення серверних додатків із використанням мови програмування Rust. Проєкт демонструє покращену продуктивність та надійність для сучасних вебсерверів.",
+      "ai_title": "Topcoat розширює можливості серверних застосунків на Rust",
+      "video_keywords": "server racks, glowing servers, IT professional working, data center corridor"
+    },
+    {
+      "title": "Ink and Switch Interactive Homepage",
+      "link": "https://www.inkandswitch.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.inkandswitch.com/\">https://www.inkandswitch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842270\">https://news.ycombinator.com/item?id=49842270</a></p>\n<p>Points: 53</p>\n<p># Comments: 9</p>",
+      "published": "2026-09-25T09:50:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відома дослідницька лабораторія Ink and Switch представила нову інтерактивну вебсторінку з унікальним інтерфейсом. Проєкт демонструє нестандартні підходи до взаємодії користувача з цифровими документами та нотатками.",
+      "ai_title": "Інтерактивна домашня сторінка від Ink and Switch",
+      "video_keywords": "touch screen, interactive display, typing on keyboard, modern web design"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
-      "published": "2026-09-23T12:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Ema зібрав значні кошти на розвиток платформи штучного інтелекту, яка трансформує корпоративне програмне забезпечення. Компанія вже має понад 50 великих клієнтів, серед яких технологічні гіганти Google та Microsoft, загалом залучивши 140 мільйонів доларів.",
-      "ai_title": "Штучний інтелект Ema залучив 77 мільйонів доларів інвестицій",
-      "video_keywords": "artificial intelligence, server room, office worker, dashboard screen"
-    },
-    {
-      "title": "YouTube will let you build your own algorithm with AI",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "published": "2026-09-23T14:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа запускає нові кастомні стрічки, які дозволяють користувачам описувати бажаний контент власними словами. Завдяки технології Gemini система формує персоналізовану стрічку відео на основі цих текстових запитів.",
-      "ai_title": "YouTube дозволить створювати власні алгоритмічні стрічки за допомогою штучного інтелекту",
-      "video_keywords": "smartphone screen, typing, social media feed, scrolling"
-    },
     {
       "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
       "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
@@ -699,46 +719,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
-      "link": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
-      "summary": "",
-      "published": "2026-09-23T10:24:44+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Піонер ринку безстрокових криптовалютних контрактів офіційно припиняє своє існування. Платформа завершує свою роботу після понад десятиліття діяльності в індустрії. Це знаменує кінець епохи для одного з найстаріших гравців крипторинку.",
-      "ai_title": "Біржа BitMEX закривається після 11 років роботи",
-      "video_keywords": "closed sign, empty office, computer monitor, financial charts dropping"
-    },
-    {
-      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
-      "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
-      "summary": "",
-      "published": "2026-09-23T09:17:53+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "На думку експертів BlackRock, автономні ШT-агенти невдовзі зможуть самостійно оплачувати обчислювальну потужність і дані. Для цього вони використовуватимуть криптовалюту у вигляді стейблкоїнів. Це відкриє новий етап автоматизації в цифровій економіці.",
-      "ai_title": "Штучний інтелект купуватиме ресурси за стейблкоїни",
-      "video_keywords": "futuristic AI, robot hand, server room, glowing digital currency"
-    },
-    {
-      "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-      "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC chair pushes tokenization as SEC opens door to onchain stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M36T3PBMVAR1PDJC7TZ5HKG0/hi-big-executives-that-joined-crypto-cftc-sec-1.jpg\" /></p><p>Michael Selig said tokenization could reshape financial markets as the CFTC and SE",
-      "published": "2026-09-23T10:06:55+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Керівник CFTC активно просуває ідею токенізації активів на тлі нових кроків SEC щодо блокчейн-акцій. Такі зміни можуть докорінно переформатувати традиційні фінансові ринки. Технологія блокчейн стає ближчою до класичного фондового ринку.",
-      "ai_title": "Регулятори США відкривають шлях до токенізації акцій",
-      "video_keywords": "stock exchange building, digital graphs, businessman pointing at screen, financial district"
-    },
-    {
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Raiffeisen to offer crypto trading across 11 European markets via Bitpanda\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg\" /></p><p>Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asse",
-      "published": "2026-09-23T09:42:39+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Банківська мережа Raiffeisen запроваджує послуги торгівлі цифровими активами у 11 європейських країнах. Партнером проєкту виступила платформа Bitpanda, яка забезпечить всю необхідну технологічну інфраструктуру. Це значно розширить доступ клієнтів до криптовалют.",
-      "ai_title": "Raiffeisen запускає криптоторгівлю в Європі",
-      "video_keywords": "modern bank interior, smartphone banking, European city street, ATM machine"
-    },
     {
       "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
       "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1118,6 +1098,36 @@
       "ai_summary": "Дослідники запропонували спосіб анонімних переказів у біткоїні за аналогією з криптовалютою Zcash. Для цього пропонується використовувати докази з нульовим розголошенням та зашифровані нотатки без необхідності проведення софт-форку.",
       "ai_title": "Новий метод дозволить здійснювати приватні транзакції в мережі Bitcoin",
       "video_keywords": "bitcoin logo, cryptography, digital code, modern computer screen"
+    },
+    {
+      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+      "summary": "",
+      "published": "2026-09-25T09:59:45+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Поки курс біткоїна стабілізується близько позначки 84 000 доларів, ринок альтернативних криптовалют демонструє масове зростання. Інвестори перерозподіляють капітал у менші монети, що свідчить про зміну настроїв на ринку. Це зазвичай вказує на початок нового сезону альткоїнів.",
+      "ai_title": "Альткоїни стрімко зростають на тлі консолідації біткоїна",
+      "video_keywords": "cryptocurrency charts, digital currency, stock market trading, glowing green arrows"
+    },
+    {
+      "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+      "summary": "",
+      "published": "2026-09-25T09:13:01+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Спотові біткоїн-фонди успішно ліквідували величезну фінансову «діру» у 5,8 мільярда доларів. Це свідчить про повернення інституційного капіталу та відновлення довіри до криптофондів. Ситуація підтверджує високий попит на регульовані криптоінструменти.",
+      "ai_title": "Біткоїн-ETF повністю відбили багатомільярдний спад",
+      "video_keywords": "financial graphs, stock exchange screen, investment portfolio, business data"
+    },
+    {
+      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+      "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Magic Eden scare puts 3,832 NFTs in whitehat protective custody\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BXKEGSARVJTVQV05A2NDRW/buy-internet-online-shop-nft.jpg\" /></p><p>Yuga Labs’ 0xQuit said the NFTs are safe and will be returned once the risk passes, while holders were u",
+      "published": "2026-09-25T09:48:53+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Понад 3800 NFT-токенів на платформі Magic Eden були тимчасово переведені у безпечне сховище через потенційну загрозу зламу. Експерти запевняють, що активам нічого не загрожує і їх повернуть власникам одразу після усунення ризиків. Цей випадок підкреслює важливість безпеки в цифровому середовищі.",
+      "ai_title": "Тисячі NFT врятовано завдяки швидким діям розробників",
+      "video_keywords": "digital padlock, cyber security, computer hacker, futuristic shield"
     }
   ]
 }
