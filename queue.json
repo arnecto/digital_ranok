@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The new CC, an AI agent built for families",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\">https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49809806\">https://news.ycombinator.com/item?id=49809806</a></p>\n<p>Points: 17</p>\n<p># Comments: 15</p>",
-      "published": "2026-09-22T23:46:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Google розширює можливості свого штучного інтелекту, представивши новий інструмент CC, орієнтований на сімейне використання. Цей агент створений для допомоги в повсякденних справах, організації спільного побуту та комунікації між членами родини.",
-      "ai_title": "Google представила ШІ-агента для всієї родини",
-      "video_keywords": "family using tablet, smiling parents and children, living room modern tech"
-    },
-    {
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider [&#8230;]",
-      "published": "2026-09-23T00:17:17+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після репутаційної кризи через останні математичні розробки компанія OpenAI формує незалежну раду експертів. Провідні математики консультуватимуть розробників ШІ щодо етики та безпеки взаємодії з науковою спільнотою.",
-      "ai_title": "OpenAI залучає елітних математиків після скандалу з дослідженнями",
-      "video_keywords": "mathematician writing on blackboard, team meeting in office, serious researchers discussing"
-    },
-    {
       "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
       "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
       "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/\">https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811484\">https://news.ycombinator.com/item?id=49811484</a></p>\n<p>Points: 43</p>\n<p># Comments: 8</p",
@@ -419,6 +399,36 @@
       "ai_summary": "Компанія Microsoft переносить свій відділ комунікацій із маркетингового підрозділу до структури корпоративних та правових питань. Віцепрезидент компанії Бред Сміт тимчасово наглядатиме за цим напрямом після відходу головного директора з комунікацій.",
       "ai_title": "Microsoft призначила Брэда Сміта відповідальним за комунікації",
       "video_keywords": "corporate office, business meeting, executive speaking, modern boardroom"
+    },
+    {
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can [&#8230;]",
+      "published": "2026-09-24T23:42:39+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Qualcomm представила новий аудіочіп Snapdragon Sound Elite Gen 2, який вперше інтегрує мікропотужний Wi-Fi 6E безпосередньо в пристрій. Це дозволить бездротовим навушникам та розумним окулярам транслювати незжатий аудіопотік без затримок і переривань на великій відстані від телефону.",
+      "ai_title": "Новий чіп від Qualcomm принесе бездротовий звук високої якості через Wi-Fi",
+      "video_keywords": "wireless earbuds, microchip, computer hardware, circuit board"
+    },
+    {
+      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+      "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document [&#8230;]",
+      "published": "2026-09-24T23:50:55+00:00",
+      "source": "The Verge",
+      "ai_summary": "Під час судових розглядів щодо впливу соціальних мереж на психічне здоров'я підлітків юристи Meta намагалися приховати частину доказів. Позивачі заявили, що компанія надмірно розширює поняття адвокатської таємниці, вказуючи на нещодавно розсекречені внутрішні документи та курйозні випадки з мерчем.",
+      "ai_title": "Співробітники Meta замовляли кепки з маркуванням адвокатської таємниці на тлі судових позовів",
+      "video_keywords": "courtroom, lawyer speaking, business meeting, office desk"
+    },
+    {
+      "title": "GitLab Outage",
+      "link": "https://status.gitlab.com/",
+      "summary": "<p>Article URL: <a href=\"https://status.gitlab.com/\">https://status.gitlab.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49838034\">https://news.ycombinator.com/item?id=49838034</a></p>\n<p>Points: 49</p>\n<p># Comments: 21</p>",
+      "published": "2026-09-24T23:10:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі популярної платформи для розробників GitLab зіткнулися з масштабними технічними проблемами в роботі сервісу. Команда інженерів розпочала екстрені відновлювальні роботи для стабілізації доступу до репозиторіїв та інструментів CI/CD.",
+      "ai_title": "Глобальний збій у роботі платформи GitLab",
+      "video_keywords": "server room, data center, programmer typing, computer screen code"
     }
   ],
   "Бізнес / Стартапи": [
@@ -696,29 +706,19 @@
       "ai_summary": "Компанія Nexterity розробила компактного робота, який здатний одночасно закручувати або відкручувати чотири болти. Цей пристрій покликаний автоматизувати важку та потенційно небезпечну роботу з монтажу труб і поміщається у звичайний захисний кейс.",
       "ai_title": "Український стартап створює робота для небезпечних будівельних робіт",
       "video_keywords": "industrial robot, mechanical arm, construction site, pipeline installation"
+    },
+    {
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "published": "2026-09-24T23:24:33+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Waymo демонструє швидке зростання, збільшивши свій парк безпілотних автомобілів у Техасі на 49% лише за останній місяць. Аналіз даних свідчить про появу нових ключових регіонів для експлуатації автономного транспорту.",
+      "ai_title": "Waymo стрімко розширює свій автопарк роботаксі",
+      "video_keywords": "autonomous car, self driving taxi, street traffic, modern vehicle"
     }
   ],
   "Крипта": [
-    {
-      "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
-      "link": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC issues warning over risky prediction market ‘mention’ contracts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M35T0VHY6MY04AR4RVTTKJ71/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto.jpg\" /></p><p>The warning comes weeks after the CFTC fine",
-      "published": "2026-09-23T00:18:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Американський регулятор CFTC випустив офіційне попередження щодо ризикованих контрактів на ринках прогнозів. Це рішення ухвалене через кілька тижнів після накладення штрафів на аналогічні платформи.",
-      "ai_title": "Регулятори США застерігають від ризиків на ринках прогнозів",
-      "video_keywords": "trading floor, financial chart, computer screen, warning sign"
-    },
-    {
-      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-      "summary": "",
-      "published": "2026-09-23T05:16:22+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Блокчейн Solana розпочав тестування нового оновлення, яке може зменшити час підтвердження транзакцій з 12,8 секунди до вражаючих 150 мілісекунд. Це виведе швидкість мережі на абсолютно новий рівень, наблизивши її до показників традиційних платіжних систем.",
-      "ai_title": "Solana готує масштабне оновлення мережі",
-      "video_keywords": "blockchain server, digital code stream, high tech graphic, glowing network"
-    },
     {
       "title": "Bitcoin's on a streak it hasn't hit since 2012",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
@@ -1128,6 +1128,36 @@
       "ai_summary": "Ціна Біткоїна демонструє стабільність, тоді як токен ONDO стрімко зростає на фоні досягнення прибутковістю казначейських облігацій США найвищих показників з 2007 року. Макроекономічна ситуація в країні продовжує суттєво впливати на поведінку крипторинку. Інвестори уважно стежать за діями американського Центробанку.",
       "ai_title": "Біткоїн стабілізується на тлі рекордного зростання прибутковості держоблігацій США",
       "video_keywords": "stock market ticker, financial charts, trading screens, digital coin"
+    },
+    {
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "summary": "",
+      "published": "2026-09-24T22:28:49+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Федеральна резервна система США робить перші кроки до впровадження закону GENIUS Act. Нові ініціативи спрямовані на регулювання ринку стейблкоїнів та інтеграцію їх у фінансову систему.",
+      "ai_title": "ФРС США розробляє правила для стейблкоїнів за законом GENIUS Act",
+      "video_keywords": "federal reserve building, us currency, financial district, banking"
+    },
+    {
+      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+      "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget CEO suspects North Korea behind $352M hack, citing IP clues\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AZF88B8P5GKQ5R22PR2YMN/hack-1.jpg\" /></p><p>Bitget CEO Gracy Chen said a preliminary investigation found IP addresses matching VPN choices associated with a DPRK hacki",
+      "published": "2026-09-25T00:32:46+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Генеральна директорка біржі Bitget заявила, що попереднє розслідування вказує на слід хакерів із КНДР. IP-адреси зловмисників збігаються з VPN-сервісами, які зазвичай використовують північнокорейські кіберзлочинці.",
+      "ai_title": "Голова Bitget підозрює Північну Корею у хакерській атаці на $352 мільйони",
+      "video_keywords": "hacker typing on keyboard, dark room, computer screens, code matrix"
+    },
+    {
+      "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
+      "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg\" /></p><p>The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M",
+      "published": "2026-09-24T23:27:17+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Країни APAC тепер забезпечують половину глобального індексу впровадження криптовалют. Водночас ринок сколихнула мащабна хакерська атака на біржу Bitget на суму 352 мільйони доларів.",
+      "ai_title": "Азійсько-Тихоокеанський регіон лідирує за темпами прийняття крипти",
+      "video_keywords": "tokyo skyline at night, busy asian street, neon signs, mobile phone crypto trading"
     }
   ]
 }
