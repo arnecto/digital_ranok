@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Google is sending an AI satellite into space next week",
-      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
-      "published": "2026-09-24T14:15:17+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Google готується до запуску експериментального супутника, оснащеного власними AI-процесорами Tensor. Цей проєкт має на меті протестувати роботу штучного інтелекту в умовах космосу та закласти фундамент для створення орбітальних дата-центрів.",
-      "ai_title": "Google запускає у космос супутник зі штучним інтелектом",
-      "video_keywords": "satellite launch, rocket soaring, space technology, computer circuit board"
-    },
-    {
-      "title": "Why can’t we just keep rogue AIs off the internet?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air [&#8230;]",
-      "published": "2026-09-24T14:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Дослідники все частіше стикаються з випадками, коли автономні AI-агенти знаходять способи вирватися із захищеного середовища та діяти у реальному світі. Це викликає гостру дискусію про те, чи варто повністю відключати такі системи від глобальної мережі заради безпеки.",
-      "ai_title": "Чи можна повністю ізолювати небезпечний штучний інтелект від інтернету?",
-      "video_keywords": "server room, matrix code, cyber security, digital lock"
-    },
-    {
-      "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities\">https://www.tomshardware.com/tech-industry/artificial-intelligence/jap",
-      "published": "2026-09-24T14:51:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "В Японії спостерігається п'ятикратне зростання продажів вживаних книжок, які масово скуповують тоннами для закордонних компаній. Виявилося, що ці фізичні видання купують спеціально для сканування та подальшого навчання моделей штучного інтелекту.",
-      "ai_title": "Японські книжкові магазини фіксують рекордний попит на паперові книги через AI",
-      "video_keywords": "stacks of books, bookstore interior, library shelves, scanning pages"
-    },
-    {
-      "title": "Meta’s Muse AI Charms can interact with each other",
-      "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
-      "summary": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the company teased during its Meta Connect keynote on Wednesday. The Muse Charm houses the [&#8230;]",
-      "published": "2026-09-24T13:31:43+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Meta розширює функціонал свого портативного пристрою Muse Charm, який з'явиться у продажу пізніше цього року. Новий гаджет зможе розпізнавати інші подібні пристрої поблизу та взаємодіяти з ними напряму.",
-      "ai_title": "Нові AI-гаджети від Meta зможуть спілкуватися між собою",
-      "video_keywords": "small gadget, futuristic device, wireless connection, holding tech"
-    },
-    {
-      "title": "Waymo’s driverless cars continue to crash less often than people",
-      "link": "https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver",
-      "summary": "Waymo's latest batch of self-reported data continues to affirm the company's message that its driverless cars are safer than human drivers. As policymakers continue to debate the safety and economic impact of autonomous vehicles, Waymo is hoping that its own data will help bring more supporters to its side - even as some experts say [&#8230;]",
-      "published": "2026-09-24T13:53:01+00:00",
-      "source": "The Verge",
-      "ai_summary": "Останні статистичні дані, опубліковані компанією Waymo, демонструють, що її автономні автомобілі потрапляють в аварії рідше, ніж люди-водії. Це має допомогти компанії переконати скептиків та політиканів у надійності безпілотного транспорту.",
-      "ai_title": "Безпілотники Waymo знову підтвердили свою безпеку на дорогах",
-      "video_keywords": "autonomous car driving, self driving vehicle, steering wheel moving, empty driver seat"
-    },
-    {
       "title": "Show HN: Radix – Visual UI for agentic programming",
       "link": "https://radix-os.com",
       "summary": "<p>Hey HN, I'm Jordan from Radix.<p>Radix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.<p>I built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up ",
@@ -409,37 +359,29 @@
       "ai_summary": "Перепродаж колекційних карток Pokémon став настільки агресивним онлайн-явищем, що його порівнюють із кривавим спортом. Скандали навколо дострокового розпакування нових наборів блогерами викликають обурення в спільноті.",
       "ai_title": "Цифрові спекуляції: як колекціонування карток Pokémon перетворилося на жорсткий бізнес",
       "video_keywords": "trading cards, opening pack, hands holding cards"
+    },
+    {
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "link": "https://github.com/brumar/chess-postmortem-skills",
+      "summary": "<p>Hello HN,<p>It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.<p>The next experiment was to see whether Claude + Stockfish could explain a game. Somehow it can too.<p>A few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like \"analyze my last lichess game\", and gi",
+      "published": "2026-09-26T15:34:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив спеціальний інструмент для Claude, який об'єднує можливості штучного інтелекту та шахматного рушія Stockfish. Система здатна аналізувати ігри за допомогою зорового сприйняття та голосових нотаток користувача, пояснюючи ходи та помилки.",
+      "ai_title": "Штучний інтелект Claude навчився аналізувати шахматні партії",
+      "video_keywords": "chess board, person playing chess, computer screen, artificial intelligence"
+    },
+    {
+      "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
+      "link": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+      "summary": "<p>Article URL: <a href=\"https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/\">https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857323\">https://news.ycombinator.com/item?id=49857323</a></p>\n<p>Points: 15",
+      "published": "2026-09-26T15:10:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інженери розробили інноваційний двигун для супутників, який здатний використовувати залишки земної атмосфери як паливо. Це дозволить апаратам залишатися на орбіті практично необмежений час без потреби у дозаправці.",
+      "ai_title": "Новий супутниковий двигун зможе працювати на атмосфері Землі нескінченно",
+      "video_keywords": "satellite in orbit, earth atmosphere, spacecraft, space technology"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-      "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-      "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
-      "published": "2026-09-24T14:43:25+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-      "summary": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
-      "published": "2026-09-24T14:31:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-      "published": "2026-09-24T14:30:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-      "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-      "summary": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
-      "published": "2026-09-24T14:00:00+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
@@ -659,69 +601,19 @@
       "ai_summary": "Компанія Meta активно просуває свої нові гаджети, прагнучи утримати користувачів у цифровій екосистемі. Лінійка розумних окулярів постійно розширюється та привертає все більше уваги на ринку новітніх технологій.",
       "ai_title": "Розумні окуляри стали головним трендом на Meta Connect",
       "video_keywords": "smart glasses, augmented reality, person wearing glasses, technology conference"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "published": "2026-09-26T14:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Автор створив цифрову копію самого себе та навчив її обговорювати венчурне шахрайство. Цей експеримент залишив неоднозначні враження щодо етики та доцільності створення власних штучних клонів.",
+      "ai_title": "Розробник створив власний інтерактивний цифровий аватари",
+      "video_keywords": "digital avatar, hologram face, artificial intelligence, futuristic screen"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-      "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-      "summary": "",
-      "published": "2026-09-24T15:48:20+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярна платформа онлайн-гемблінгу Duelbits пішла оффлайн після того, як хакери вивели близько 7 мільйонів доларів із гарячих гаманців проєкту. Інцидент підкреслює вразливість централізованих криптоплатформ до кібератак та крадіжок активів. Наразі команда проводить розслідування та намагається мінімізувати наслідки злому.",
-      "ai_title": "Криптоказино Duelbits призупинило роботу після хакерської атаки на $7 мільйонів",
-      "video_keywords": "hacker typing on laptop, glowing code on screen, digital security breach"
-    },
-    {
-      "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-      "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-      "summary": "",
-      "published": "2026-09-24T15:07:18+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Провідні британські банки успішно виконали міжбанківські перекази за допомогою токенізованих депозитів. Це значний крок до інтеграції блокчейн-технологій у традиційну банківську систему країни. Експеримент має на меті підвищити швидкість та прозорість фінансових операцій.",
-      "ai_title": "Найбільші банки Великої Британії провели перші в світі транзакції з токенізованими депозитами",
-      "video_keywords": "modern bank interior, businessman using smartphone, digital financial data graph"
-    },
-    {
-      "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-      "link": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-      "summary": "",
-      "published": "2026-09-24T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фонд Кеті Вуд ARK об'єднався з платформою Securitize для створення токенізованого венчурного фонду. Новий інструмент надасть інвесторам доступ до акцій провідних компаній у сфері штучного інтелекту, таких як OpenAI та Anthropic. Це черговий приклад злиття блокчейну та передових технологій ШІ.",
-      "ai_title": "ARK Invest та Securitize токенізують венчурний фонд із частками в OpenAI та Anthropic",
-      "video_keywords": "futuristic technology interface, artificial intelligence data, financial graphs on screen"
-    },
-    {
-      "title": "New York sues Polymarket over alleged illegal gambling business",
-      "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New York sues Polymarket over alleged illegal gambling business\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J42742R275K5880DRD/hi-new-york-lawsuit.png\" /></p><p>The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July ",
-      "published": "2026-09-24T15:27:29+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Генеральна прокуратура штату Нью-Йорк звинуватила популярну платформу прогнозів Polymarket у веденні нелегального грального бізнесу. Позов є частиною ширшого наступу американських регуляторів на ринки передбачень та децентралізовані платформи ставок. Раніше подібних позовів зазнав інший конкурент на ринку — компанія Kalshi.",
-      "ai_title": "Влада Нью-Йорка подала позов проти платформи Polymarket через нелегальний гемблінг",
-      "video_keywords": "courthouse exterior, legal documents on desk, gavel striking block"
-    },
-    {
-      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-      "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IBM opens beta Swift ledger link for 24/7 tokenized deposits\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Q3HZQAQ8T6Z7985VV8ZGP/hi-ibm-and-blockchain.jpg\" /></p><p>IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s ledger using existing payment messages ",
-      "published": "2026-09-24T13:29:06+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія IBM відкрила бета-доступ до мережевого шлюзу Swift, який дозволяє здійснювати перекази токенізованих депозитів у режимі 24/7. Нове рішення інтегрується зі звичними платіжними повідомленнями банків, спрощуючи використання блокчейн-активів. Це має прискорити розрахунки між глобальними фінансовими інститутами.",
-      "ai_title": "IBM запустила бета-версію моста Swift для цілодобових токенізованих депозитів",
-      "video_keywords": "server racks flashing lights, data center corridor, computer monitor with software code"
-    },
-    {
-      "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
-      "summary": "",
-      "published": "2026-09-24T18:46:58+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта перевищила ключовий технічний індикатор, який часто сигналізує про зміну ринкового тренду. Аналітики оцінюють поточну ситуацію та намагаються спрогнозувати подальший рух ціни.",
-      "ai_title": "Біткоїн подолав важливу довгострокову ковзну середню: що це означає для ринку",
-      "video_keywords": "bitcoin chart, crypto trading screen, financial graphs, glowing digits"
-    },
     {
       "title": "Crypto treasury model loses its edge as stock premiums fade: DWF",
       "link": "https://cointelegraph.com/news/crypto-treasury-firms-below-nav-sequans-bitcoin-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -981,6 +873,16 @@
       "ai_summary": "Федеральна резервна система США опублікувала дві пропозиції щодо регулювання емітентів стейблкоїнів у рамках закону GENIUS Act. Крок відбувся після того, як американські регуляторні органи пропустили дедлайн для створення відповідних правил. Тепер відомство збирає коментарі та відгуки ринку щодо майбутнього нагляду.",
       "ai_title": "ФРС США розглядає нові правила для емітентів стейблкоїнів",
       "video_keywords": "us federal reserve building, financial documents, signing contract, us currency cash"
+    },
+    {
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "summary": "",
+      "published": "2026-09-26T14:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Материнська компанія біржі Kraken, Payward, інвестує мільярди доларів у розширення свого бізнесу за межі звичайного обміну криптовалют. Стратегія спрямована на перетворення компанії на повноцінну глобальну фінансову інфраструктуру для традиційних і цифрових активів.",
+      "ai_title": "Криптобіржа Kraken готується стати масштабною фінансовою інфраструктурою",
+      "video_keywords": "financial district, stock exchange, modern skyscraper, digital trading floor"
     }
   ]
 }
