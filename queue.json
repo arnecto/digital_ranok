@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Goodbye Google",
-      "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-      "summary": "<p>Article URL: <a href=\"https://robert.ocallahan.org/2026/09/goodbye-google.html\">https://robert.ocallahan.org/2026/09/goodbye-google.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49840314\">https://news.ycombinator.com/item?id=49840314</a></p>\n<p>Points: 110</p>\n<p># Comments: 82</p>",
-      "published": "2026-09-25T04:52:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомий розробник опублікував резонансну статтю про причини свого остаточного переходу з сервісів Google на альтернативні платформи. Цей крок відображає ширшу тенденцію серед IT-фахівців, які шукають незалежності від техногігантів через питання приватності та екосистематичних обмежень.",
-      "ai_title": "Чому розробники масово відмовляються від послуг Google",
-      "video_keywords": "person typing computer, empty desk, frustration office, deleting files"
-    },
-    {
-      "title": "Show HN: Agentic CUDA Kernel Optimizer",
-      "link": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "summary": "<p>Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a simple C++ CUDA Test Harness and handed that to AI agents. They can run kernels, get benchmarks, and even can profile via nsight</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842596\">https://news.ycombinator.com/item?id=49842596</a",
-      "published": "2026-09-25T10:32:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив інструмент на базі langgraph, який дозволяє ШT-агентам самостійно оптимізувати CUDA-кернели. Агенти можуть запускати код, тестувати продуктивність та проводити профілювання за допомогою спеціальних утиліт.",
-      "ai_title": "Штучний інтелект для оптимізації коду CUDA",
-      "video_keywords": "programmer coding, computer screen, lines of code, modern office"
-    },
-    {
       "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
       "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
       "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016\">https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842483\">https://news.ycombinator.com/item?id=49842483</a></p>\n<p>Points: 41</p>\n<p># Comments: 27</p>",
@@ -313,16 +293,6 @@
   ],
   "Бізнес / Стартапи": [
     {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "published": "2026-09-25T05:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відома венчурна компанія із Кремнієвої долини готує новий фонд для підтримки індійських стартапів на ранніх стадіях. Уперше запуск цього фонду синхронізовано з глобальною стратегією фірми на тлі скорочення інвестиційних циклів.",
-      "ai_title": "Lightspeed залучає $250 мільйонів для нового фонду в Індії з акцентом на ШІ",
-      "video_keywords": "venture capital, business meeting, handshake, startup presentation"
-    },
-    {
       "title": "Meta is putting its muscle behind Muse as the AI app takes off",
       "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
       "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
@@ -514,26 +484,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-      "summary": "",
-      "published": "2026-09-25T04:29:34+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Генеральний директор біржі Bitget Грей Чен повідомив деталі масштабного злому на 352 мільйони доларів. За його словами, інцидент стався через маніпуляції з підробленими переказами, а не через компрометацію приватних ключів користувачів.",
-      "ai_title": "Хакерська атака на Bitget сталася через підроблені транзакції",
-      "video_keywords": "cybersecurity, hacker, computer monitor, digital theft"
-    },
-    {
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Researchers propose Zcash-style private Bitcoin transfers without a soft fork \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BDDFF8HPKJW2SF5YG537KT/shielded-bitcoin.png\" /></p><p>Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details with",
-      "published": "2026-09-25T04:41:06+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Дослідники запропонували спосіб анонімних переказів у біткоїні за аналогією з криптовалютою Zcash. Для цього пропонується використовувати докази з нульовим розголошенням та зашифровані нотатки без необхідності проведення софт-форку.",
-      "ai_title": "Новий метод дозволить здійснювати приватні транзакції в мережі Bitcoin",
-      "video_keywords": "bitcoin logo, cryptography, digital code, modern computer screen"
-    },
     {
       "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
       "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
