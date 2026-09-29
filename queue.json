@@ -11,16 +11,6 @@
       "video_keywords": "computer screen, user interface, designer working, web browsing"
     },
     {
-      "title": "Why OLPC’s $100 laptop never stood a chance",
-      "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
-      "summary": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, [&#8230;]",
-      "published": "2026-09-27T12:25:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Ініціатива One Laptop Per Child мала на меті забезпечити кожну дитину у світі дешевим комп'ютером для навчання. Проте через безліч економічних та організаційних перешкод амбітний план не зміг реалізуватися.",
-      "ai_title": "Чому амбітний проєкт дешевого ноутбука для дітей зазнав поразки",
-      "video_keywords": "vintage laptop, child learning, classroom, old computer"
-    },
-    {
       "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
       "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
       "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-Nvne3LzBls\">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49868831\">https://news.ycombinator.com/item?id=49868831</a></p>\n<p>Points: 123</p>\n<p># Comments: 33</p>",
@@ -224,6 +214,56 @@
       "ai_summary": "Розробники створили робочий кластер на базі компактних чіпів ESP32S3, який зміг запустити квантовану 1.58-бітну мовну модель. Це досягнення відкриває нові можливості для запуску штучного інтелекту на надзвичайно слабкому та енергоефективному «залізі».",
       "ai_title": "Кластер з мікроконтролерів ESP32S3 запустив мовну модель BitNet",
       "video_keywords": "microcontroller board, electronic components, circuit board, soldering wires"
+    },
+    {
+      "title": "OpenAI declines to release GPT-6.1 Astra due to safety concerns",
+      "link": "https://en.ain.ua/2026/09/29/openai-declines-to-release-gpt-61-astra-due-to-safety-concerns/",
+      "summary": "According to head of OpenAI's safety systems Saachi Jain, the model failed to meet the company's requirements for staying within assigned tasks.",
+      "published": "2026-09-29T10:39:00+00:00",
+      "source": "",
+      "ai_summary": "Компанія OpenAI вирішила не випускати штучний інтелект GPT-6.1 Astra через невідповідність суворим вимогам безпеки. За словами розробників, модель не змогла стабільно виконувати призначені завдання в межах встановлених лімітів.",
+      "ai_title": "OpenAI відклала реліз нової моделі через проблеми з безпекою",
+      "video_keywords": "server room, data center, computer screen, programmer typing"
+    },
+    {
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive\">https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49891480\">https://news.ycombinator.com/item?id=49891480</a></p>",
+      "published": "2026-09-29T11:35:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Тестування камер живого розпізнавання облич на залізничних станціях Лондона охопило пів мільйона пасажирів. Система не допомогла здійснити жодного арешту, проте зафіксувала одне хибнопозитивне спрацювання.",
+      "ai_title": "Розпізнавання облич у Лондоні: сотні тисяч сканувань і лише одна помилка",
+      "video_keywords": "train station, security camera, cctv, commuter walking"
+    },
+    {
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with [&#8230;]",
+      "published": "2026-09-29T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Представники американського конгресу вимагають укласти міжнародну угоду між США та Китаєм. Мета ініціативи — запобігти неконтрольованому розвитку технологій штучного інтелекту та глобальним ризикам.",
+      "ai_title": "Заклик до угоди: США шукають шляхи стримування китайського штучного інтелекту",
+      "video_keywords": "white house, washington dc, politicians talking, press conference"
+    },
+    {
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [&#8230;]",
+      "published": "2026-09-29T11:48:27+00:00",
+      "source": "The Verge",
+      "ai_summary": "Готуючись до первинного розміщення акцій із оцінкою у 2 трильйони доларів, компанія Anthropic офіційно попередила про потенційну загрозу шкоди від власних моделей. У документах також зазначено зростання фінансових збитків компанії.",
+      "ai_title": "Anthropic попередила про катастрофічні ризики ШІ перед виходом на біржу",
+      "video_keywords": "stock market, trading floor, wall street, financial charts"
+    },
+    {
+      "title": "Your car’s data privacy problems are worse than you think",
+      "link": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+      "summary": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerate, how hard you brake, how aggressively you turn, and much more. The legality of this [&#8230;]",
+      "published": "2026-09-29T10:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Сучасні автомобілі збирають величезні масиви інформації про своїх власників, відстежуючи маршрути, швидкість та стиль водіння. Масштаби такого прихованого збору даних виявилися значно серйознішими, ніж вважалося раніше.",
+      "ai_title": "Експерти попереджають про критичні проблеми з конфіденційністю даних у сучасних авто",
+      "video_keywords": "modern car dashboard, gps navigation, driving on highway, smartphone in car"
     }
   ],
   "Бізнес / Стартапи": [
@@ -356,19 +396,29 @@
       "ai_summary": "У своєму проспекті емісії розробник штучного інтелекту Anthropic повідомив про шалені темпи зростання та колосальні збитки в десятки мільярдів доларів щороку. Водночас компанія чесно попередила інвесторів, що її власні технології ШІ можуть становити екзистенційну загрозу для всього людства.",
       "ai_title": "Anthropic попередила інвесторів про ризики для людства та багатомільярдні збитки",
       "video_keywords": "futuristic data center, server racks blinking, artificial intelligence warning screen"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "published": "2026-09-29T12:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Reco закрила новий раунд фінансування, довівши загальну суму залучених коштів до $140 мільйонів. Це відбувається на тлі стрімкого зростання кількості подібних стартапів на ринку штучного інтелекту.",
+      "ai_title": "Стартап із безпеки AI-агентів Reco залучив $55 мільйонів",
+      "video_keywords": "cybersecurity dashboard, hacker screen, data center, futuristic lock"
+    },
+    {
+      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+      "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+      "published": "2026-09-29T10:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Protego Ventures успішно завершила запуск свого першого та найбільшого венчурного фонду, орієнтованого виключно на ізраїльський оборонний сектор. Кошти спрямують на підтримку інноваційних військових технологій.",
+      "ai_title": "Ізраїльський фонд Protego Ventures зібрав $125 мільйонів для оборонних технологій",
+      "video_keywords": "military technology, radar screen, defense control room, army command"
     }
   ],
   "Крипта": [
-    {
-      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-      "summary": "",
-      "published": "2026-09-27T14:29:13+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Співзасновник Ethereum опублікував глобальну стратегію, яка описує еволюцію мережі далеко за межі традиційного блокчейна. Нове бачення охоплює вдосконалення масштабованості, конфіденційності та інтеграції з передовими технологіями до кінця десятиліття.",
-      "ai_title": "Віталік Бутеріні представив масштабне бачення розвитку Ethereum до 2030 року",
-      "video_keywords": "futuristic city, digital network, glowing lines, server room"
-    },
     {
       "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -503,6 +553,56 @@
       "ai_summary": "Біржа Coinbase здобула офіційний дозвіл регуляторів США для роботи власної інфраструктури деривативів. Таким чином компанія приєдналася до Kraken у розвитку внутрішніх ринків похідних фінансових інструментів.",
       "ai_title": "Coinbase отримала схвалення CFTC на запуск американської клірингової палати деривативів",
       "video_keywords": "trading floor, financial district, office building, businesswoman typing"
+    },
+    {
+      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+      "summary": "",
+      "published": "2026-09-29T11:34:55+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Головна криптовалюта демонструє стрімке зростання, випереджаючи традиційні захисні активи на кшталт золота. Аналітики прогнозують високу ймовірність досягнення психологічного рубежу у 100 000 доларів у найближчій перспективі.",
+      "ai_title": "Біткоїн випереджає золото і націлюється на позначку в $100 000",
+      "video_keywords": "bitcoin coin, gold bars, financial chart, stock market trading"
+    },
+    {
+      "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
+      "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
+      "summary": "",
+      "published": "2026-09-29T10:13:40+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалютна компанія Blockchain.com планує провести первинне публічне розміщення акцій вже цього року. Очікувана оцінка компанії під час виходу на біржу може сягнути 6 мільярдів доларів.",
+      "ai_title": "Blockchain.com готується до IPO на $500 мільйонів",
+      "video_keywords": "stock exchange building, trading floor, corporate office, digital tablet"
+    },
+    {
+      "title": "ECB puts AI agent payments on the digital euro drawing board",
+      "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ECB puts AI agent payments on the digital euro drawing board\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PG8ZXT8HQTWKJ0JHNKVNVA/hi-digital-euro.jpg\" /></p><p>The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro",
+      "published": "2026-09-29T12:00:45+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Європейський центральний банк шукає технологічні компанії для інтеграції автономних агентів зі штучним інтелектом у платіжну систему майбутнього цифрового євро. Це дозволить здійснювати автоматизовані транзакції між пристроями без участі людини.",
+      "ai_title": "ЄЦБ вивчає платежі за допомогою штучного інтелекту для цифрового євро",
+      "video_keywords": "futuristic interface, digital currency, computer servers, financial technology"
+    },
+    {
+      "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3PCAM6EFZWRXAWSS5F2XJAN/fork-workout-ethereum.jpg\" /></p><p>Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainne",
+      "published": "2026-09-29T10:46:05+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Розробники Ethereum анонсували наступне велике оновлення мережі під назвою Glamsterdam. Тестування розпочнеться на тестовій мережі Sepolia, приносячи важливі архітектурні зміни та оптимізацію комісій.",
+      "ai_title": "Ethereum призначив оновлення Glamsterdam на мережі Sepolia",
+      "video_keywords": "computer programming, code scrolling, crypto mining, futuristic server"
+    },
+    {
+      "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+      "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg\" /></p><p>Bitcoin price action consolidated after early-week losses while protecting a",
+      "published": "2026-09-29T10:04:42+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Різке зростання прибутковості американських держоблігацій спричинило коливання на ринках, проте біткоїн зміг продемонструвати стійкість. Керуюча криптовалюта відскочила вище рівня 84 000 доларів після короткочасного спаду.",
+      "ai_title": "Біткоїн відновився до $84 000 на тлі коливань облігацій США",
+      "video_keywords": "financial graph, stock ticker, cryptocurrency trading screen, digital numbers"
     }
   ]
 }
