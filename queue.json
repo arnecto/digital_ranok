@@ -1,34 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Does Reddit have an astroturfing problem? What the data suggests",
-      "link": "https://www.petervijeh.com/projects/reddit-astroturf",
-      "summary": "<p>Article URL: <a href=\"https://www.petervijeh.com/projects/reddit-astroturf\">https://www.petervijeh.com/projects/reddit-astroturf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49877678\">https://news.ycombinator.com/item?id=49877678</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-28T13:30:54+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Show HN: Hntui – A TUI for Hacker News",
-      "link": "https://github.com/ahmd-sh/hntui",
-      "summary": "<p>hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49876760\">https://news.ycombinator.com/item?id=49876760</a></p>\n<p>Points: 32</p>\n<p># Comments: 13</p>",
-      "published": "2026-09-28T12:11:20+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "The smart home graveyard is getting crowded",
-      "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard\">https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49876373\">https://news.ycombinator.com/item?id=49876373</a></p>\n<p>Points: 32</p>\n<p># Comments: 27</p>",
-      "published": "2026-09-28T11:27:00+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within [&#8230;]",
-      "published": "2026-09-28T13:36:06+00:00",
-      "source": "The Verge"
-    },
-    {
       "title": "Sonnet 5.5",
       "link": "https://www.anthropic.com/claude-sonnet-5-5",
       "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-sonnet-5-5\">https://www.anthropic.com/claude-sonnet-5-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49881850\">https://news.ycombinator.com/item?id=49881850</a></p>\n<p>Points: 324</p>\n<p># Comments: 208</p>",
@@ -257,37 +229,59 @@
       "ai_summary": "Розробники реалізували підтримку мережевого протоколу QUIC для бази даних PostgreSQL. Це дозволяє прискорити передачу даних та зменшити затримки при мережевих з'єднаннях. Нововведення особливо корисне для розподілених систем та хмарних архітектур.",
       "ai_title": "Postgres тепер працює з протоколом QUIC",
       "video_keywords": "server rack, datacenter, glowing cables, computer screen"
+    },
+    {
+      "title": "Will cut managers, revise the release schedule and optimize costs. How Apple's new CEO John Ternus plans to change the company",
+      "link": "https://en.ain.ua/2026/09/30/will-cut-managers-revise-the-release-schedule-and-optimize-costs-how-apples-new-ceo-john-ternus-plans-to-change-the-company/",
+      "summary": "John Ternus is changing the company's 15-year habits after Tim Cook: moving away from strictly autumn presentations, cutting managers between engineers and top management, and seeking new revenue.",
+      "published": "2026-09-30T12:32:00+00:00",
+      "source": "",
+      "ai_summary": "Новий керівник Apple Джон Тернус планує відмовитися від 15-річних традицій Тіма Кука. Зокрема, компанія може змінити графік осінніх презентацій, скоротити зайву управлінську ланку між інженерами та топменеджментом і зосередитися на пошуку нових джерел доходу.",
+      "ai_title": "Новий гендиректор Apple готує масштабні зміни в компанії",
+      "video_keywords": "corporate office, executive meeting, business presentation, modern boardroom"
+    },
+    {
+      "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
+      "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+      "summary": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick Amazon launched earlier this year. The Fire TV Stick [&#8230;]",
+      "published": "2026-09-30T13:00:16+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Amazon представила оновлену версію пристрою Fire TV Stick 4K. Тепер медіаплеєр може живитися безпосередньо від USB-порту телевізора, що робить його встановлення набагато простішим і позбавляє необхідності використовувати окремий адаптер живлення.",
+      "ai_title": "Новий стрімінговий стік Fire TV Stick 4K тепер працює безпосередньо від телевізора",
+      "video_keywords": "plugging in cable, television back, smart tv remote, tech unboxing"
+    },
+    {
+      "title": "You’ll soon be able to order DoorDash by text message",
+      "link": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+      "summary": "DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorDash AI chatbot introduced to the DoorDash app in June, allowing you to get recommendations and offload your browsing while skipping the app entirely. [&#8230;]",
+      "published": "2026-09-30T13:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Сервіс доставки DoorDash запускає нові способи взаємодії з клієнтами, серед яких — замовлення через текстові повідомлення. Ця функція базується на можливостях штучного інтелекту та дозволяє отримувати рекомендації та оформлювати доставку, не відкриваючи сам додаток.",
+      "ai_title": "DoorDash дозволить замовляти їжу за допомогою звичайних текстових повідомлень",
+      "video_keywords": "smartphone typing, messaging app, person texting, mobile phone screen"
+    },
+    {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
+      "published": "2026-09-30T12:24:32+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стали відомі деталі «морально обов'язкової» угоди про безпеку ШІ, укладеної за адміністрації Трампа. Провідні керівники технологічних компаній погодилися самостійно регулювати розвиток своїх штучних інтелектів у межах нового спільного документа.",
+      "ai_title": "Лідери технологічних компаній підписали угоду про саморегулювання безпеки штучного інтелекту",
+      "video_keywords": "tech conference, signing contract, business handshake, press conference"
+    },
+    {
+      "title": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
+      "link": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
+      "summary": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device. All three products are set to showcase Siri AI, Apple's overhauled AI-powered assistant. The smart home hub, a new product [&#8230;]",
+      "published": "2026-09-30T11:11:24+00:00",
+      "source": "The Verge",
+      "ai_summary": "За чутками, Apple планує представити новий пристрій для керування розумним будинком вже 13 жовтня. Новинка має вийти разом з оновленими HomePod mini та Apple TV, а головною особливістю пристроїв стане оновлений голосовий помічник на базі штучного інтелекту Siri.",
+      "ai_title": "Apple готує до релізу новий розумний хаб для дому",
+      "video_keywords": "smart home, voice assistant, modern living room, tablet on wall"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-      "published": "2026-09-28T13:38:48+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "SpaceX’s Starship rocket reaches orbit for the first time",
-      "link": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
-      "summary": "Though not without some drama along the way.",
-      "published": "2026-09-28T13:19:18+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Ocean surveillance startup Quartermaster raises another $140M",
-      "link": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
-      "summary": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
-      "published": "2026-09-28T13:00:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-      "published": "2026-09-28T19:33:57+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "Tesla delays Roadster 2 event again due to bad weather",
       "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
@@ -485,44 +479,49 @@
       "ai_summary": "Специфічна реакція офіційного американського веб-ресурсу на запити про популярну гру Minecraft здивувала користувачів мережі. Проте фахівці запевнили, що це не технічний збій чи небезпечна галюцинація штучного інтелекту.",
       "ai_title": "Дивна поведінка державного сайту США щодо Minecraft виявилась не збою",
       "video_keywords": "computer screen, typing keyboard, server room, digital code"
+    },
+    {
+      "title": "Charter Space raises $5M to bring insurance to the stars",
+      "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+      "summary": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+      "published": "2026-09-30T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Charter Space залучила 5 мільйонів доларів інвестицій, щоб розв'язати проблему відсутності страховиків для космічного бізнесу. Традиційні страхові компанії часто відмовляють космічним підприємствам через складність та ризики галузі.",
+      "ai_title": "Космічний стартап залучив $5 млн для страхування у космосі",
+      "video_keywords": "satellite in space, rocket launch, astronaut, control room"
+    },
+    {
+      "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+      "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+      "summary": "As younger users grow increasingly tired of the endless scroll, dating apps are scrambling to adapt to a generation that increasingly wants dating to feel more social and rooted in real-world experiences. The latest example comes from Tinder, which on Wednesday announced the launch of “Group Hangouts,” a new feature that lets groups of friends [&#8230;]",
+      "published": "2026-09-30T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі втоми молоді від нескінченного гортання анкет Tinder представляє функцію «Group Hangouts». Вона дозволяє друзям об'єднуватися для організації спільних реальних зустрічей замість онлайн-листування.",
+      "ai_title": "Tinder запускає функцію для реальних зустрічей та групових побачень",
+      "video_keywords": "group of friends laughing, smartphone screen, cafe meeting, young adults hanging out"
+    },
+    {
+      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+      "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+      "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+      "published": "2026-09-30T12:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Два випускники Google сформували венчурний фонд BAG Ventures обсягом 11,3 мільйона доларів. Їхня мета — інвестувати у штучний інтелект та стартапи, які створюють реальні комерційні продукти для підприємств.",
+      "ai_title": "Колишні працівники Google залучили $11 млн у новий AI-фонд",
+      "video_keywords": "business meeting, modern office, computer screens, financial charts"
+    },
+    {
+      "title": "Airbnb adds AI search, more social features",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+      "published": "2026-09-30T12:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа Airbnb оновлює пошук за допомогою штучного інтелекту та додає нові соціальні функції. Окрім цього, у вибраних регіонах користувачам стануть доступні додаткові послуги, такі як доставка їжі та прання.",
+      "ai_title": "Airbnb інтегрує штучний інтелект та розширює сервіси для мандрівників",
+      "video_keywords": "person using smartphone, modern apartment interior, booking app, suitcase packing"
     }
   ],
   "Крипта": [
-    {
-      "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
-      "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
-      "summary": "",
-      "published": "2026-09-28T13:06:11+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks",
-      "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
-      "summary": "",
-      "published": "2026-09-28T12:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-      "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
-      "summary": "",
-      "published": "2026-09-28T12:13:09+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Traders aren't panicking yet despite cooling crypto sentiment",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
-      "summary": "",
-      "published": "2026-09-28T11:32:33+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
-      "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
-      "summary": "",
-      "published": "2026-09-28T11:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
     {
       "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
       "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
@@ -752,6 +751,56 @@
       "ai_summary": "Влада американського штату підготувала проєкт правил щодо оподаткування цифрових активів. Документ чітко визначає порядок стягнення податків для операцій зі стейблкоїнами та платформами децентралізованих фінансів.",
       "ai_title": "В Іллінойсі розробили правила оподаткування криптовалют",
       "video_keywords": "calculator money taxes, accountant desk paperwork, us dollar bills counting"
+    },
+    {
+      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+      "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
+      "summary": "",
+      "published": "2026-09-30T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Бразильський державний нафтовий гігант використовуватиме блокчейн Cardano для моніторингу постачань екологічно чистішого авіаційного палива та дизелю. Це дозволить підвищити прозорість ланцюжків постачань у нафтовій галузі. Проєкт підкреслює зростаюче практичне застосування блокчейн-технологій у промисловості.",
+      "ai_title": "Cardano інтегрують для відстеження екологічного палива в Бразилії",
+      "video_keywords": "oil refinery, industrial pipeline, gas station, container ship"
+    },
+    {
+      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
+      "link": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+      "summary": "",
+      "published": "2026-09-30T11:04:09+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Зловмисники перемістили 4 мільйони доларів, викрадених з біржі Bitget, до конфіденційного пулу криптовалюти Zcash. Завдяки цьому транзакції стало практично неможливо відстежити традиційними методами. Ця ситуація знову загострила дискусію навколо конфіденційних монет і регулювання безпеки.",
+      "ai_title": "Хакерське угруповання відмило мільйони через приватний пул Zcash",
+      "video_keywords": "hacker typing, computer screen code, dark room, digital security"
+    },
+    {
+      "title": "Could THORChain face prosecution over stolen Bitget funds?",
+      "link": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Could THORChain face prosecution over stolen Bitget funds? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3QSRG3BHR6KAP15GVPERVEN/thorchain-yuriy.png\" /></p><p>THORChain will not — or can not — block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted fo",
+      "published": "2026-09-30T13:30:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Платформа THORChain не може або не хоче блокувати адреси, пов'язані з масштабним хакерським зламом біржі Bitget на сотні мільйонів доларів. Через це експерти обговорюють ризики кримінального переслідування розробників протоколу. Ситуація створює небезпечний прецедент щодо відповідальності децентралізованих сервісів.",
+      "ai_title": "Чи загрожує кримінальна відповідальність THORChain через хакерські мільйони?",
+      "video_keywords": "cryptocurrency chart, digital glowing coins, blockchain network, computer keyboard"
+    },
+    {
+      "title": "Singapore crypto activity grows 55% as broader region contracts",
+      "link": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Singapore crypto activity grows 55% as broader region contracts\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RAGTSRKJH3XGCDAAGQTVXB/regulations-singapore-crypto.jpg\" /></p><p>Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, whi",
+      "published": "2026-09-30T13:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Обсяг криптоекономіки Сінгапуру досяг 284 мільярдів доларів завдяки стрибку активності на інституційних платформах на 94%. Це суттєво вирізняється на фоні загального спаду в ширшому азійському регіоні. Сінгапур продовжує зміцнювати статус головного фінансового хаба.",
+      "ai_title": "Крипторинок Сінгапуру зріс на понад 50% на тлі регіонального спаду",
+      "video_keywords": "singapore skyline, modern skyscrapers, financial district, city traffic"
+    },
+    {
+      "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
+      "link": "https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Altcoin exchange deposit count jumps 160% in 2 weeks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RX2E0NW5WYF163K39HM5Z6/article-covers-259677-crypto-etp-week-224-million-inflow-xrp-leads-gains-1280x854.webp\" /></p><p>CryptoQuant flagged potential selling pressure as deposit tra",
+      "published": "2026-09-30T11:23:56+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики CryptoQuant зафіксували стрибок транзакцій з депозитами альткоїнів на 160% усього за два тижні. Таке масове переведення активів на біржі зазвичай сигналізує про потенційний тиск продавців на ринку. Трейдери готуються до можливих коливань курсів цифрових монет.",
+      "ai_title": "Кількість депозитів альткоїнів на біржах різко зросла",
+      "video_keywords": "stock market graphs, financial trading floor, glowing monitors, numbers ticker"
     }
   ]
 }
