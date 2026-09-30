@@ -1,23 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
-      "link": "https://arxiv.org/abs/2110.01834",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2110.01834\">https://arxiv.org/abs/2110.01834</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49873241\">https://news.ycombinator.com/item?id=49873241</a></p>\n<p>Points: 43</p>\n<p># Comments: 4</p>",
-      "published": "2026-09-28T03:23:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нові дослідження зосереджуються на впровадженні елементів метакогніції в алгоритми штучного інтелекту. Це дозволяє нейромережам краще оцінювати власні відповіді та знаходити помилки, подібно до людського мислення.",
-      "ai_title": "Метакогніція в штучному інтелекті: як змусити моделі думати глибше",
-      "video_keywords": "futuristic brain hologram, glowing digital network, artificial intelligence server room"
-    },
-    {
-      "title": "OpenAI AI agents attacked the UN website over 16,000 times and bypassed filters to collect data",
-      "link": "https://en.ain.ua/2026/09/28/openai-ai-agents-attacked-the-un-website-over-16000-times/",
-      "summary": "Autonomous bots resorted to aggressive scraping, created fake emails, and hid that they were bots.",
-      "published": "2026-09-28T11:30:00+00:00",
-      "source": ""
-    },
-    {
       "title": "Does Reddit have an astroturfing problem? What the data suggests",
       "link": "https://www.petervijeh.com/projects/reddit-astroturf",
       "summary": "<p>Article URL: <a href=\"https://www.petervijeh.com/projects/reddit-astroturf\">https://www.petervijeh.com/projects/reddit-astroturf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49877678\">https://news.ycombinator.com/item?id=49877678</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
@@ -264,6 +247,16 @@
       "ai_summary": "Генеральний директор OpenAI Сем Альтман заявив, що компанія не планує виходити на IPO, доки не досягне повного рівня безпеки своїх моделей ШІ. Точних термінів зміни статусу компанії наразі немає, оскільки пріоритетом залишається етичний розвиток технологій.",
       "ai_title": "OpenAI не виходитиме на біржу до створення безпечного штучного інтелекту",
       "video_keywords": "business meeting, corporate office, executive talking, financial chart"
+    },
+    {
+      "title": "Postgres with QUIC",
+      "link": "https://blogs.lupyd.com/blog/postgres-with-quic/",
+      "summary": "<p>Article URL: <a href=\"https://blogs.lupyd.com/blog/postgres-with-quic/\">https://blogs.lupyd.com/blog/postgres-with-quic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49905264\">https://news.ycombinator.com/item?id=49905264</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-30T06:44:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники реалізували підтримку мережевого протоколу QUIC для бази даних PostgreSQL. Це дозволяє прискорити передачу даних та зменшити затримки при мережевих з'єднаннях. Нововведення особливо корисне для розподілених систем та хмарних архітектур.",
+      "ai_title": "Postgres тепер працює з протоколом QUIC",
+      "video_keywords": "server rack, datacenter, glowing cables, computer screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -496,26 +489,6 @@
   ],
   "Крипта": [
     {
-      "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
-      "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea weighs crypto market makers after JPYC trades at 4 times peg \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3K8G09TJR75WD4RB7BDGCQW/south-korea-market-makers.jpg\" /></p><p>Crypto market making is effectively restricted under South Korea’s manipulation rules, but regula",
-      "published": "2026-09-28T05:42:45+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Регулятори Південної Кореї замислилися над переглядом обмежень для маркетмейкерів у криптовалютній сфері. Це сталося після того, як стейблкоїн JPYC торгувався з чоτραразовим перевищенням свого номінального курсу через відсутність ліквідності та ринкових регуляторів.",
-      "ai_title": "Південна Корея планує легалізувати криптомаркетмейкерів після аномального стрибка цін",
-      "video_keywords": "korean flag, seoul city skyline, financial district buildings, stock exchange monitors"
-    },
-    {
-      "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
-      "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3K4SEN7H2DNWHCZQ26DGD49/vitalik-ethereum.png\" /></p><p>Ethereum’s Vitalik Buterin said PeerDAS marked the start of Ethereum’s transition “from being just a blockchain t",
-      "published": "2026-09-28T04:44:15+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Співзасновник Ethereum Віталік Бутерін заявив, що оновлення Hegotá може стати останнім стандартним хардфорком мережі. За його словами, впровадження технології PeerDAS знаменує початок переходу блокчейна до принципово нової ери масштабування.",
-      "ai_title": "Віталік Бутерін назвав майбутній хардфорк Ethereum останнім «звичайним» оновленням",
-      "video_keywords": "futuristic digital network, glowing blockchain code, cyberspace data transfer, server room racks"
-    },
-    {
       "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
       "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
       "summary": "",
@@ -729,6 +702,56 @@
       "ai_summary": "Добровільна угода покладає основну відповідальність за управління ризиками передових технологій безпосередньо на їхніх творців. Таким чином, технологічні компанії мають самостійно контролювати безпеку своїх ШІ-систем без жорсткого державного втручання.",
       "ai_title": "Нова угода адміністрації Трампа вимагає саморегуляції від розробників штучного інтелекту",
       "video_keywords": "signing document, press conference, politician speaking, business handshake"
+    },
+    {
+      "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
+      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
+      "summary": "",
+      "published": "2026-09-30T05:59:31+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Популярна платформа Robinhood представила нового штучного інтелекту агента, який здійснює угоди цілодобово. Також компанія анонсувала значне розширення можливостей для торгівлі криптодеривативами.",
+      "ai_title": "Robinhood запускає ШІ-агента для цілодобової торгівлі",
+      "video_keywords": "smartphone trading app, artificial intelligence glowing interface, financial charts screen"
+    },
+    {
+      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
+      "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
+      "summary": "",
+      "published": "2026-09-30T05:22:51+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Реєстр XRP Ledger почав використовуватися для обліку фондів бразильського оператора, який керує активами на трильйони доларів. Це значний крок до масового впровадження блокчейн-технологій у традиційні фінанси.",
+      "ai_title": "Бразильський фінансовий гігант інтегрує XRP Ledger",
+      "video_keywords": "blockchain network visualization, digital data nodes, financial analytics monitor"
+    },
+    {
+      "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
+      "link": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"European stablecoin issuer AllUnity launches USD stablecoin USDAU\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3Q01DCHR1M2F18EADTH89EF/stablecoin11.png\" /></p><p>AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA-regulated lineup that already covers ",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія AllUnity запустила свій четвертий стейблкоїн, забезпечений фіатною валютою. Новий актив поповнив лінійку регульованих за стандартами MiCA цифрових валют.",
+      "ai_title": "Європейський емітент AllUnity випустив новий стейблкоїн USDAU",
+      "video_keywords": "digital currency exchange, gold coins stack, modern banking app"
+    },
+    {
+      "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
+      "link": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi in advanced talks to raise new funding at $40B valuation: Reuters \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3RCTBM6ATW5K6885082AJQ4/kalshi.jpg\" /></p><p>The prediction market was valued at $22 billion in a $1 billion funding round just four months ago, after doubling i",
+      "published": "2026-09-30T05:45:55+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Платформа ринків прогнозів веде активні переговори про новий раунд фінансування. Востаннє компанія стрімко наростила капіталізацію лише за кілька місяців завдяки високому попиту.",
+      "ai_title": "Прогностична платформа Kalshi може отримати оцінку в $40 мільярдів",
+      "video_keywords": "stock market trading floor, business handshake, corporate presentation screen"
+    },
+    {
+      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
+      "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Illinois draft crypto tax rules detail DeFi, stablecoin treatment\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3R8AEFZM0B2PMXZ51BF3E46/usa-tax.png\" /></p><p>Illinois’ draft rules spell out how its 0.2% digital asset transaction tax would apply to stablecoins, DeFi platforms, cryp",
+      "published": "2026-09-30T04:29:28+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Влада американського штату підготувала проєкт правил щодо оподаткування цифрових активів. Документ чітко визначає порядок стягнення податків для операцій зі стейблкоїнами та платформами децентралізованих фінансів.",
+      "ai_title": "В Іллінойсі розробили правила оподаткування криптовалют",
+      "video_keywords": "calculator money taxes, accountant desk paperwork, us dollar bills counting"
     }
   ]
 }
