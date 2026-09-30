@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "link": "https://stateofutopia.com/experiments/microllmlab/",
-      "summary": "<p>Article URL: <a href=\"https://stateofutopia.com/experiments/microllmlab/\">https://stateofutopia.com/experiments/microllmlab/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882781\">https://news.ycombinator.com/item?id=49882781</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p>",
-      "published": "2026-09-28T18:58:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився новий експериментальний інструмент MicroLLM Lab, який дозволяє запускати та тестувати сім надкомпактних великих мовних моделей безпосередньо у вебпереглядачі. Це відкриває нові можливості для локальної роботи зі штучним інтелектом без потреби у потужних хмарних серверах.",
-      "ai_title": "MicroLLM Lab: запуск семи крихітних мовних моделей прямо у браузері",
-      "video_keywords": "web browser, person using laptop, typing on keyboard, hands on laptop"
-    },
-    {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
-      "published": "2026-09-28T21:31:35+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія AMD оголосила про придбання дослідницького стартапу World Labs, заснованого відомою дослідницею Фей-Фей Лі. Угоду оцінюють приблизно в 8,2 мільярда доларів, а сам стартап відомий своїми передовими моделями генерації віртуальних світів.",
-      "ai_title": "AMD купує AI-стартап World Labs за понад $8 мільярдів",
-      "video_keywords": "corporate boardroom, business handshake, skyscraper office, computer screens"
-    },
-    {
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/\">https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49886005\">https://news.ycombinator.com/item?id=49886005</a></p>\n<p>",
-      "published": "2026-09-28T23:40:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У своєму проспекті для первинного публічного розміщення акцій компанія Anthropic продемонструвала масштабне бачення розвитку штучного інтелекту. Водночас документи виявили суттєве зростання фінансових витрат на масштабування технологій та інфраструктури.",
-      "ai_title": "Проспект IPO Anthropic розкрив амбітні плани та стрімке зростання витрат",
-      "video_keywords": "financial charts, stock market graph, business presentation, modern office"
-    },
-    {
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884625\">https://news.ycombinator.com/item?id=49884625</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-      "published": "2026-09-28T21:26:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники створили робочий кластер на базі компактних чіпів ESP32S3, який зміг запустити квантовану 1.58-бітну мовну модель. Це досягнення відкриває нові можливості для запуску штучного інтелекту на надзвичайно слабкому та енергоефективному «залізі».",
-      "ai_title": "Кластер з мікроконтролерів ESP32S3 запустив мовну модель BitNet",
-      "video_keywords": "microcontroller board, electronic components, circuit board, soldering wires"
-    },
-    {
       "title": "OpenAI declines to release GPT-6.1 Astra due to safety concerns",
       "link": "https://en.ain.ua/2026/09/29/openai-declines-to-release-gpt-61-astra-due-to-safety-concerns/",
       "summary": "According to head of OpenAI's safety systems Saachi Jain, the model failed to meet the company's requirements for staying within assigned tasks.",
@@ -289,23 +249,59 @@
       "ai_summary": "Компанія оновила інфраструктуру Edge Functions, перейшовши від ізоляторів V8 до мікроВМ Firecracker. Завдяки цьому продуктивність та швидкість виконання операцій зросли вп'ятеро.",
       "ai_title": "Netlify прискорив Edge Functions у п'ять разів",
       "video_keywords": "server room, data center, blinking lights, computer servers"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "summary": "<p>See also: <i>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</i> - <a href=\"https://news.ycombinator.com/item?id=49914236\">https://news.ycombinator.com/item?id=49914236</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913571\">https://news.ycombinator.com/item?id=49913571</a></p>\n<p>Points: 734</p>\n<p># Comments: 488</p>",
+      "published": "2026-09-30T20:04:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Google представила нову передову модель штучного інтелекту Gemini 4 Argon, яка демонструє вражаючі результати у складних робочих процесах. Через високий потенціал та ризики компанія поки що обмежує доступ до неї, надаючи його лише перевіреним спеціалістам з кібербезпеки.",
+      "ai_title": "Google анонсувала нову модель штучного інтелекту Gemini 4 Argon",
+      "video_keywords": "artificial intelligence, server room, glowing data, futuristic computer screen"
+    },
+    {
+      "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+      "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+      "summary": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons license as required. Seeing an easy PR win, Neon is cashing in by [&#8230;]",
+      "published": "2026-09-30T20:45:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "На тлі скандалу навколо планів A24 зняти фільм за мотивами інтернет-феномену SCP Foundation без узгодження з автором спільноти, студія Neon вирішила скористатися ситуацією. Вони анонсували власний фільм, який буде випущено за ліцензією Creative Commons, як того й вимагає правила спільноти.",
+      "ai_title": "Кінокомпанія Neon кине виклик A24 фільмом за всесвітом SCP Foundation",
+      "video_keywords": "movie camera, cinema production, film set, clapperboard"
+    },
+    {
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "summary": "<p>Article URL: <a href=\"https://www.neuroai.science/p/functional-ultrasound-imaging-from\">https://www.neuroai.science/p/functional-ultrasound-imaging-from</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913604\">https://news.ycombinator.com/item?id=49913604</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+      "published": "2026-09-30T20:06:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова публікація присвячена методам функціональної ультразвукової візуалізації (fUSI) та її розробці з початкових етапів. Дослідження розкриває технічні аспекти цього методу для нейронаукових спостережень та аналізу мозкової активності.",
+      "ai_title": "Створення функціональної ультразвукової візуалізації з нуля",
+      "video_keywords": "medical monitor, ultrasound machine, laboratory scientist, healthcare technology"
+    },
+    {
+      "title": "Gitea 28.0",
+      "link": "https://blog.gitea.com/release-of-28.0.0/",
+      "summary": "<p>Article URL: <a href=\"https://blog.gitea.com/release-of-28.0.0/\">https://blog.gitea.com/release-of-28.0.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913975\">https://news.ycombinator.com/item?id=49913975</a></p>\n<p>Points: 53</p>\n<p># Comments: 18</p>",
+      "published": "2026-09-30T20:32:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Команда розробників випустила мажорне оновлення популярного сервісу для хостингу репозиторіїв Gitea версії 28.0. Новий реліз містить численні покращення продуктивності, виправлення помилок та нові функції для зручнішої роботи розробників.",
+      "ai_title": "Реліз нової версії платформи Gitea 28.0",
+      "video_keywords": "computer monitor, programming code, software developer, typing on keyboard"
+    },
+    {
+      "title": "Automating Wi-Fi setup testing on the ESP32",
+      "link": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+      "summary": "<p>Article URL: <a href=\"https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/\">https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915119\">https://news.ycombinator.com/item?id=49915119</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-09-30T22:07:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Опубліковано інструкцію та підхід до автоматизації процесу тестування підключення до Wi-Fi на популярних чіпах ESP32. Це рішення допомагає розробникам пришвидшити перевірку мережевих модулів у проєктах Інтернету речей (IoT).",
+      "ai_title": "Автоматизація тестування налаштування Wi-Fi для мікроконтролерів ESP32",
+      "video_keywords": "microchip, soldering iron, circuit board, electronics workbench"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
-      "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
-      "published": "2026-09-28T19:27:27+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "summary": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
-      "published": "2026-09-28T19:21:59+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "OpenAI reportedly ditches model over safety concerns",
       "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
@@ -325,16 +321,6 @@
       "ai_summary": "Компанія з розробки автономного транспорту Aurora озвучила амбітний план на найближчі роки. Фінансовий директор запевнив, що такі масштабні цілі є повністю реалістичними, а не просто маркетинговим ходом.",
       "ai_title": "Aurora планує вивести на дороги 30 тисяч безпілотних вантажівок до 2030 року",
       "video_keywords": "autonomous truck, highway, self driving, semi truck"
-    },
-    {
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "published": "2026-09-28T21:29:18+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Постачальник AI-інфраструктури Modal Labs готується закрити новий раунд фінансування. Очікується, що завдяки цьому оцінка компанії зросте більш ніж утричі всього за чотири місяці.",
-      "ai_title": "Стартап Modal Labs залучає 750 мільйонів доларів інвестицій",
-      "video_keywords": "financial chart, stock market, business meeting, handshake"
     },
     {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -555,6 +541,36 @@
       "ai_summary": "Стартап Destro AI знайшов унікальний підхід до взаємодії робототехніки та людського фактора. Успіх компанії полягає в тому, що вони позиціонують себе не просто як виробники роботів, а як розробники платформи управління.",
       "ai_title": "Destro AI об'єднує роботу роботів і людей в єдину систему",
       "video_keywords": "industrial robot arm, futuristic factory, engineer with tablet, modern technology"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "published": "2026-09-30T21:07:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Штучний інтелект активно проникає у сферу проєктування «заліза». Стартап Flow Engineering залучив потужне фінансування від відомих фондів, а також отримав зіркового інвестора в особі Роелофа Боти.",
+      "ai_title": "Штучний інтелект для апаратного забезпечення: стартап Flow Engineering оцінили в $750 млн",
+      "video_keywords": "artificial intelligence, microchip design, computer screen, engineering office"
+    },
+    {
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+      "published": "2026-09-30T20:39:09+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Гучний конфликт розгорівся в індустрії після того, як венчурний інвестор і колишній радник компанії Factory раптово перейшов на роботу до конкурентів з Cognition. Це викликало серйозні підозри у промисловому шпигунстві.",
+      "ai_title": "Шпигунський скандал у світі ШІ: очільник Factory звинуватив радника у злитті даних конкурентам",
+      "video_keywords": "business meeting, angry boss, corporate office, handshake"
+    },
+    {
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this cate",
+      "published": "2026-09-30T20:20:02+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Мільярдер та засновник Spotify запустив у США свій проєкт превентивної медицини Neko Health, який вже зібрав сотні мільйонів інвестицій. Інвестори масово вкладають кошти у стартапи з поглибленого медичного сканування організму.",
+      "ai_title": "Медичний стартап засновника Spotify прийшов до США: чи варті сканування тіла своїх грошей",
+      "video_keywords": "medical scanner, full body scan, futuristic clinic, doctor computer"
     }
   ],
   "Крипта": [
@@ -827,6 +843,16 @@
       "ai_summary": "Генеральна директорка Bitget Грейсі Чен заявила про повернення роботи біржі до звичного режиму. Це сталося на тлі зростання спеціального фонду захисту користувачів до 309 мільйонів доларів.",
       "ai_title": "Біржу Bitget відновлюють після збільшення фонду захисту до $309 млн",
       "video_keywords": "computer screen, stock charts, trading terminal, financial office"
+    },
+    {
+      "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "link": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SXTX0355JX9EYXHCG8DQG5/hi-usdc-onto-banking-banks-have-deeper-interest-in-digital-than-previously-thought.png\" /></p><p>The bank also expects Ethena’s ENA token to ri",
+      "published": "2026-09-30T20:57:32+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Британський банк Standard Chartered опублікував оптимістичний прогноз щодо проєкту Ethena. Аналітики очікують, що капіталізація стейблкоїна USDe досягне 40 мільярдів доларів, а нативний токен ENA зросте до двох доларів.",
+      "ai_title": "Standard Chartered прогнозує зростання USDe до $40 млрд та ENA до $2",
+      "video_keywords": "cryptocurrency chart, digital currency, stock market screen, financial graph"
     }
   ]
 }
