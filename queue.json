@@ -11,26 +11,6 @@
       "video_keywords": "lego bricks, building blocks, computer screen, coding"
     },
     {
-      "title": "What if we stopped using GPUs? [video]",
-      "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=xc2FTBGRSJo\">https://www.youtube.com/watch?v=xc2FTBGRSJo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936671\">https://news.ycombinator.com/item?id=49936671</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
-      "published": "2026-10-02T18:09:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нове відео порушує дискусію про майбутнє обчислень та штучного інтелекту без використання звичних відеокарт. Автор досліджує альтернативні архітектури та підходи до обробки даних у сучасних технологіях.",
-      "ai_title": "Що буде, якщо відмовитися від використання графічних процесорів (GPU)?",
-      "video_keywords": "computer processor, circuit board, server room, glowing microchip"
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "link": "https://dwarfstar.sh/",
-      "summary": "<p>Article URL: <a href=\"https://dwarfstar.sh/\">https://dwarfstar.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936575\">https://news.ycombinator.com/item?id=49936575</a></p>\n<p>Points: 53</p>\n<p># Comments: 5</p>",
-      "published": "2026-10-02T18:01:16+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Творець популярної бази даних Redis представив новий інструмент ds4 для зручного запуску великих мовних моделей (LLM) безпосередньо на локальному комп'ютері. Це дозволяє розробникам працювати з ШІ швидше та безпечніше без хмарних сервісів.",
-      "ai_title": "Локальний запуск мовних моделей від творця Redis",
-      "video_keywords": "developer typing on laptop, code on screen, office workspace"
-    },
-    {
       "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
       "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
@@ -209,6 +189,16 @@
       "ai_summary": "Популярні бездротові навушники з активним шумозаглушенням тимчасово здешевшали в межах розпродажу. У комплект входять п'ять розмірів амбушурів та сучасні функції на кшталт живого перекладу. Така пропозиція робить покупку однією з найвигідніших на ринку аудіогаджетів цього сезону.",
       "ai_title": "Apple AirPods Pro 3 отримали знижку до $179",
       "video_keywords": "wireless earbuds, unboxing tech, holding headphones, person listening music"
+    },
+    {
+      "title": "Building a RAG pipeline for semantic code search",
+      "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+      "summary": "<p>Article URL: <a href=\"https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/\">https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49956148\">https://news.ycombinator.com/item?id=49956148</a>",
+      "published": "2026-10-04T17:51:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники поділилися практичним досвідом побудови системи RAG для семантичного пошуку по кодовій базі. Стаття містить корисні поради, нотатки з поля та приклади реалізації для покращення роботи програмістів.",
+      "ai_title": "Створення RAG-пайлайн для семантичного пошуку коду",
+      "video_keywords": "programmer typing code, computer screen, software developer working, dark mode monitor"
     }
   ],
   "Бізнес / Стартапи": [
@@ -284,46 +274,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
-      "link": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"71% of UK finance leaders expect tokenization to reshape financial services: Lloyds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YKMQ9ZKPKNFEAPV81NBPWJ/blockchainweek2020uk1.png\" /></p><p>A Lloyds survey found that faster payments and settlement are the most significant perceive",
-      "published": "2026-10-02T16:20:24+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Згідно з опитуванням Lloyds, 71% лідерів фінансової сфери Великобританії вважають, що токенізація суттєво змінить ринок послуг. Головними перевагами вони називають прискорення платежів та розрахунків.",
-      "ai_title": "Більшість британських фінансистів прогнозують революцію завдяки токенізації",
-      "video_keywords": "business meeting, financial district, office handshake, modern workspace"
-    },
-    {
-      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-      "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg\" /></p><p>The reported cuts come as Anchorage expands its institutional footprint, including s",
-      "published": "2026-10-02T18:41:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Відомий криптобанк Anchorage Digital оголосив про звільнення 17% свого штату. Це відбувається на тлі розширення присутності компанії в інституційному сегменті ринку.",
-      "ai_title": "Криптобанк Anchorage Digital скорочує 17% співробітників",
-      "video_keywords": "office workers, stressed employee, modern workplace, computer terminal"
-    },
-    {
-      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
-      "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blast to wind down Ethereum L2 after costs outpace revenue\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png\" /></p><p>Once among Ethereum’s largest layer-2 networks by total value l",
-      "published": "2026-10-02T18:24:05+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Популярна мережа другого рівня Blast ухвалила рішення згорнути свою діяльність. Причиною стало те, що операційні витрати значно перевищили доходи проекту.",
-      "ai_title": "Мережа Blast згортає проєкт Ethereum L2 через високі витрати",
-      "video_keywords": "server room, data center, glowing lights, computer servers"
-    },
-    {
-      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-      "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png\" /></p><p>Speaking on Cointele",
-      "published": "2026-10-02T20:40:47+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "За словами співзасновника Bitpanda, нові правила MiCA значно підвищили довіру інвесторів до легальних криптофір у Європі. Регулювання створює безпечніше середовище для роботи з цифровими активами.",
-      "ai_title": "Європейські користувачі більше довіряють регульованим криптокомпаніям",
-      "video_keywords": "business meeting, handshake, corporate office, modern boardroom"
-    },
     {
       "title": "Community banks sue OCC over trust bank charters of crypto firms",
       "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -413,6 +363,26 @@
       "ai_summary": "Президент США Дональд Трамп доручив колишньому керівнику Комісії з цінних паперів і бірж (SEC) Джею Клейтону очолити новостворену структуру Super Intelligence Force (SIF). Новопризначений очільник звітуватиме безпосередньо перед президентом та головою апарату Білого дому.",
       "ai_title": "Трамп призначив ексглаву SEC Джея Клейтона очолити новий підрозділ Super Intelligence Force",
       "video_keywords": "white house, press conference, politician speaking, american flag"
+    },
+    {
+      "title": "There's an election next month: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+      "summary": "",
+      "published": "2026-10-04T18:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Напередодні виборів експерти оцінюють поточний стан криптоіндустрії та можливі наслідки політичних змін для регулювання цифрових активів. Політичний контекст стає ключовим фактором для подальшого розвитку ринку блокчейн-технологій у США.",
+      "ai_title": "Вплив майбутніх виборів на крипторинок",
+      "video_keywords": "voting booth, ballot box, politician speaking, American flag"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
+      "published": "2026-10-04T18:51:50+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Огляд найважливіших щоденних трендів та подій, які вплинули на курс біткоїна та розвиток сектора DeFi. Аналітики підсумовують ключові рухи в індустрії блокчейну та Web3 за останню добу.",
+      "ai_title": "Головні події на ринку крипти за день",
+      "video_keywords": "stock market chart, digital numbers, trading screen, financial graphs"
     }
   ]
 }
