@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "DeepSeek Harness",
-      "link": "https://www.deepseek.com/en/harness/",
-      "summary": "<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 51</p>\n<p># Comments: 21</p>",
-      "published": "2026-10-02T03:11:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Команда DeepSeek випустила новий програмний продукт Harness, який привернув увагу IT-спільноти. Деталі про призначення та можливості цього рішення активно обговорюються розробниками на профільних платформах.",
-      "ai_title": "DeepSeek презентує новий інструмент Harness",
-      "video_keywords": "software code, computer screen, programmer typing, developer workstation"
-    },
-    {
       "title": "AI music maker Suno now generates spoken words",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
       "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at [&#8230;]",
@@ -229,6 +219,16 @@
       "ai_summary": "Один із лідерів напряму безпеки OpenAI подав у відставку через внутрішню культуру компанії, яку він назвав зруйнованою. Цей вихід підкреслює зростаючу напругу між комерційними амбіціями розробників штучного інтелекту та питаннями етики й безпеки.",
       "ai_title": "Керівник відділу безпеки OpenAI звільнився через проблеми в компанії",
       "video_keywords": "person working on laptop, modern office, stressed professional, corporate meeting"
+    },
+    {
+      "title": "Why don't more developers \"use the platform\"?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "summary": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950554\">https://news.ycombinator.com/item?id=49950554</a></p>\n<p>Points: 46</p>\n<p># Comments: 22</p>",
+      "published": "2026-10-04T04:10:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор статті аналізує тенденцію серед сучасних програмістів покладатися на сторонні бібліотеки та фреймворки замість використання нативних можливостей браузерів чи операційних систем. Це часто призводить до ускладнення коду, роздування розміру додатків та зниження продуктивності. Обговорюються причини такого явища та переваги повернення до простих стандартних інструментів.",
+      "ai_title": "Чому розробники рідко використовують вбудовані можливості платформ?",
+      "video_keywords": "programmer typing code, computer screen, software developer, modern office"
     }
   ],
   "Бізнес / Стартапи": [
@@ -344,56 +344,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
-      "link": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea advances tokenized securities rules ahead of 2027 rollout \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XE74WBH0J6TWS0FYDKCWPS/south-korea-tokenization.png\" /></p><p>South Korea’s financial regulator proposed detailed rules for tokenized securities, including capital",
-      "published": "2026-10-02T05:08:32+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінансовий регулятор Південної Кореї запропонував детальні правила для токенізованих цінних паперів напередодні їхнього офіційного запуску у 2027 році. Це нововведення покликане створити чітку правову базу для цифрових активів у країні.",
-      "ai_title": "Південна Корея готує нові правила для токенізованих цінних паперів",
-      "video_keywords": "financial district, digital tablet, stock market, business meeting"
-    },
-    {
-      "title": "Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback",
-      "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zano exploiter created 36.9M unauthorized ZANO before blockchain rollback\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XFTC4Y1X9C4TEN43SCBMC8/coins.jpg\" /></p><p>The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without ro",
-      "published": "2026-10-02T05:02:23+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Зловмиснику вдалося згенерувати понад 36 мільйонів неавторизованих монет Zano, які зовні нічим не відрізнялися від легітимних. Команді проєкту довелося провести відкат блокчейну, щоб запобігти масштабному збитку.",
-      "ai_title": "Хакер створив мільйони незаконних монет Zano перед відкатом блокчейну",
-      "video_keywords": "hacker typing, computer screen, digital code, server room"
-    },
-    {
-      "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
-      "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Core Lightning warns attackers are targeting unpatched Bitcoin nodes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XCTY0H5CWTX6KGY7GT99ER/lightning-network.jpg\" /></p><p>Node operators running version 26.06.7 or earlier were told to upgrade immediately.</p>",
-      "published": "2026-10-02T04:18:43+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Операторів мережі Bitcoin, які використовують застарілі версії програмного забезпечення Core Lightning, закликали негайно оновитися. Зловмисники активно сканують та атакують вразливі незапатчорені ноди.",
-      "ai_title": "Розробники Core Lightning застерегли про атаки на застарілі ноди Bitcoin",
-      "video_keywords": "computer monitor, servers blinking, cybersecurity, technology dashboard"
-    },
-    {
-      "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-      "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s zkAPI brings privacy-preserving API payments to mainnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3X972EWX5K7AHE6FH5F9MX3/privacy-ai.png\" /></p><p>Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implemen",
-      "published": "2026-10-02T03:34:25+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Новий інструмент zkAPI на базі доказів з нульовим розголошенням офіційно запрацював у головній мережі Ethereum. Це дозволить користувачам здійснювати безпечні та конфіденційні API-платежі без розкриття чутливих даних.",
-      "ai_title": "Ethereum запустить zkAPI для конфіденційних платежів у мейннеті",
-      "video_keywords": "blockchain network, digital glowing lines, abstract technology, futuristic interface"
-    },
-    {
-      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "summary": "",
-      "published": "2026-10-02T10:31:16+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптотрейдери перейшли до активної торгівлі та готовності до ризику. Ринкова частка біткоїна стрімко зростає і наближається до позначки у шістдесят відсотків.",
-      "ai_title": "Домінування біткоїна наближається до 60%",
-      "video_keywords": "trading floor, stock market monitors, cryptocurrency charts, financial graphs"
-    },
     {
       "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
       "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
