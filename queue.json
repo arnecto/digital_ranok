@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "link": "https://github.com/anteloc/ldraw-nova",
-      "summary": "<p>Hi there :-) New on HN, first time posting.<p>Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.<p>This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.<p>When executed by specific tools, like e.g",
-      "published": "2026-10-02T20:00:15+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив відкритий інструмент, який використовує моделі ChatGPT та Claude для генерації спеціального коду LDraw. Цей мовний код описує процес збирання деталей конструктора LEGO крок за кроком.",
-      "ai_title": "Штучний інтелект для створення моделей з LEGO",
-      "video_keywords": "lego bricks, building blocks, computer screen, coding"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
-      "published": "2026-10-02T20:08:40+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Apple посилює безпеку macOS та вводить нові обмеження на повний доступ до дисків через зростання ризиків від автономних агентів зі штучним інтелектом. Зміни покликані захистити конфіденційні дані користувачів від потенційно небезпечного програмного забезпечення.",
-      "ai_title": "Apple обмежить доступ до дисків на Mac через загрози від ШІ",
-      "video_keywords": "apple macbook, security lock, typing password, computer screen"
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "link": "https://allenai.org/blog/astabrief",
-      "summary": "<p>Article URL: <a href=\"https://allenai.org/blog/astabrief\">https://allenai.org/blog/astabrief</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938783\">https://news.ycombinator.com/item?id=49938783</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
-      "published": "2026-10-02T21:25:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Організація Allen AI відкрила вихідний код моделі AstaBrief, призначеної для оперативного створення детальних звітів. Цей інструмент значно прискорює обробку інформації та генерацію текстових документів на основі великих масивів даних. Проєкт розширює можливості екосистеми Asta для дослідників і розробників.",
-      "ai_title": "Allen AI випустив модель для швидкого створення звітів AstaBrief",
-      "video_keywords": "computer screen, typing code, data visualization, modern office"
-    },
-    {
-      "title": "Cloudflare OHTTP gateway",
-      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\">https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941091\">https://news.ycombinator.com/item?id=49941091</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>",
-      "published": "2026-10-03T03:15:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Cloudflare анонсувала запуск шлюзу OHTTP (Oblivious HTTP), розробленого для підвищення конфіденційності в інтернеті. Ця технологія розділяє метадані запитів та IP-адреси користувачів, унеможливлюючи їх відстеження третіми сторонами. Нове рішення покликане забезпечити безпечніший та анонімніший доступ до вебсервісів.",
-      "ai_title": "Cloudflare запускає новий шлюз OHTTP для захисту приватності",
-      "video_keywords": "server rack, digital security, glowing network cables, data center"
-    },
-    {
       "title": "An OpenAI safety employee has quit and is sounding the alarm",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
       "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
@@ -199,6 +159,46 @@
       "ai_summary": "Розробники поділилися практичним досвідом побудови системи RAG для семантичного пошуку по кодовій базі. Стаття містить корисні поради, нотатки з поля та приклади реалізації для покращення роботи програмістів.",
       "ai_title": "Створення RAG-пайлайн для семантичного пошуку коду",
       "video_keywords": "programmer typing code, computer screen, software developer working, dark mode monitor"
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "summary": "<p>Paper: \n<a href=\"https://www.usenix.org/system/files/atc21-ousterhout.pdf\" rel=\"nofollow\">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href=\"https://lwn.net/Articles/1003059/\" rel=\"nofollow\">https://lwn.net/Articles/1003059/</a>, <a href=\"https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629\" rel",
+      "published": "2026-10-04T19:42:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники та інженери активно просувають ідею відмови від традиційного протоколу TCP у великих штучних кластерах. Новий підхід має значно підвищити швидкість передачі даних між серверами, що критично важливо для навчання сучасних моделей штучного інтелекту.",
+      "ai_title": "Кінець епохи TCP: чому для AI-кластерів створюють новий мережевий протокол",
+      "video_keywords": "server racks, data center cables, glowing fiber optics, network switches"
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "link": "https://github.com/omlahore/RemoveMacAI",
+      "summary": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p>\n<p>Points: 199</p>\n<p># Comments: 108</p>",
+      "published": "2026-10-04T19:42:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явився спеціальний інструмент для користувачів macOS, який дозволяє повністю вимкнути функції штучного інтелекту від Apple. Це рішення допомагає повернути цінне дисковий простір тим, хто не користується новими AI-можливостями.",
+      "ai_title": "Як повністю видалити Apple Intelligence на macOS та звільнити гігабайти пам'яті",
+      "video_keywords": "person typing on laptop, macbook screen, deleting files, storage capacity bar"
+    },
+    {
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "summary": "<p>Article URL: <a href=\"https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\">https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957068\">https://news.ycombinator.com/item?id=49957068</a>",
+      "published": "2026-10-04T19:37:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Через невдале редагування документів у відкритий доступ потрапили засекречені дані про ресурси, які використовує дата-центр Google у Лінкольні. Ця ситуація знову підняла питання про величезні екологічні витрати на забезпечення роботи сучасних технологій.",
+      "ai_title": "Витік даних: стала відома реальна кількість води та електрики, яку споживає дата-центр Google",
+      "video_keywords": "industrial cooling towers, massive server farm, electric power lines, water pipes"
+    },
+    {
+      "title": "The new Fitbit Edge leaks",
+      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [&#8230;]",
+      "published": "2026-10-04T21:02:09+00:00",
+      "source": "The Verge",
+      "ai_summary": "У відкритому доступі опинилися витоки про майбутній пристрій Fitbit Edge, який має стати наступником лінійки Charge. Зовні новинка поєднує в собі риси фітнес-браслета та розумного годинника Pixel Watch від Google.",
+      "ai_title": "У мережі з'явилися перші зображення та деталі нового фітнес-трекера Fitbit Edge",
+      "video_keywords": "smartwatch on wrist, fitness tracker screen, touching touchscreen, close-up gadget"
     }
   ],
   "Бізнес / Стартапи": [
@@ -271,6 +271,26 @@
       "ai_summary": "Колишній президент США представив нову ініціативу, покликану займатися питаннями безпеки штучного інтелекту. Цей крок став черговою відповіддю на запеклі дискусії навколо регулювання та контролю новітніх технологій. Підрозділ має на меті об'єднати зусилля для оцінки ризиків, пов'язаних із розвитком надпотужних систем.",
       "ai_title": "Трамп анонсував створення нового підрозділу Super Intelligence Force",
       "video_keywords": "artificial intelligence, technology conference, tech press conference, computer screen"
+    },
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "published": "2026-10-04T20:31:07+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Google тимчасово призупинила відкриту програму виявлення вразливостей через різке збільшення кількості низькоякісних заявок, згенерованих штучним інтелектом. Це стало серйозним викликом для інженерів, які змушені витрачати час на фільтрацію автоматизованого сміття замість реальних загроз.",
+      "ai_title": "Google зупинила програму винагород за помилки через потік спаму від штучного інтелекту",
+      "video_keywords": "programmer working on computer, typing on keyboard, frustration office worker, modern tech office"
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "published": "2026-10-04T20:08:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Експерти обговорюють ініціативи адміністрації Трампа щодо ребрендингу галузі штучного інтелекту. Залишається відкритим питанням, чи допоможуть концепції «суперінтелекту» та декларативні пакти з безпеки вирішити реальні проблеми довіри до технологій.",
+      "ai_title": "Як нова адміністрація США намагається змінити імідж штучного інтелекту",
+      "video_keywords": "white house washington dc, politicians meeting, press conference room, usa flag background"
     }
   ],
   "Крипта": [
