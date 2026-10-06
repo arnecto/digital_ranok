@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The AirPods Pro 3 are a fantastic deal at $179",
-      "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
-      "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and [&#8230;]",
-      "published": "2026-10-04T13:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Популярні бездротові навушники з активним шумозаглушенням тимчасово здешевшали в межах розпродажу. У комплект входять п'ять розмірів амбушурів та сучасні функції на кшталт живого перекладу. Така пропозиція робить покупку однією з найвигідніших на ринку аудіогаджетів цього сезону.",
-      "ai_title": "Apple AirPods Pro 3 отримали знижку до $179",
-      "video_keywords": "wireless earbuds, unboxing tech, holding headphones, person listening music"
-    },
-    {
       "title": "Building a RAG pipeline for semantic code search",
       "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
       "summary": "<p>Article URL: <a href=\"https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/\">https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49956148\">https://news.ycombinator.com/item?id=49956148</a>",
@@ -220,19 +210,59 @@
       "ai_summary": "Новий мобільний візок DuneRover із дистанційним керуванням та підсвіткою виявився напрочуд корисним ґаджетом для подорожей. Він легко справляється з важкими підйомами та може перевозити понад 90 кілограмів спорядження. Попри дещо кумедний вигляд, пристрій продемонстрував високу потужність і практичність.",
       "ai_title": "Тест дивовижного візка з дистанційним керуванням",
       "video_keywords": "remote control vehicle, outdoor gear, carrying luggage, modern gadget"
+    },
+    {
+      "title": "Mistral Large 4",
+      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "summary": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/mistral-large-4-0\">https://docs.mistral.ai/models/mistral-large-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49977979\">https://news.ycombinator.com/item?id=49977979</a></p>\n<p>Points: 719</p>\n<p># Comments: 411</p>",
+      "published": "2026-10-06T13:15:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Mistral представила свою нову флагманську мовну модель Mistral Large 4, яка вже привернула величезну увагу спільноти розробників. Ця версія обіцяє покращену продуктивність та розширені можливості порівняно з попередниками. Новинка активно обговорюється в tech-спільноті завдяки своїй продуктивності.",
+      "ai_title": "Вийшла нова потужна нейромережа Mistral Large 4",
+      "video_keywords": "artificial intelligence, server room, computer screen, futuristic technology"
+    },
+    {
+      "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
+      "link": "https://jotbus.com/",
+      "summary": "<p>Article URL: <a href=\"https://jotbus.com/\">https://jotbus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49978401\">https://news.ycombinator.com/item?id=49978401</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+      "published": "2026-10-06T13:45:04+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили Jotbus — захищений спільний простір для взаємодії штучного інтелекту та програмістів під час кодування. Сервіс дозволяє агентам ефективніше обмінюватися даними та координувати роботу над проєктами в реальному часі. Інструмент покликаний спростити процес розробки за допомогою штучного інтелекту.",
+      "ai_title": "Jotbus: новий спільний блокнот для AI-агентів",
+      "video_keywords": "programmer typing, dual monitors, lines of code, dark mode editor"
+    },
+    {
+      "title": "Vibecoding isn't as fun as writing code by hand",
+      "link": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
+      "summary": "<p>Article URL: <a href=\"https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/\">https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49979306\">https://news.ycombinator.com/item?id=49979306</a></p>\n<p>Points: 93</p>\n<p># Comments: 103</p>",
+      "published": "2026-10-06T14:45:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор свіжої публікації розмірковує про тренд «вайбкодингу» та зазначає, що делегування всього написання коду штучному інтелекту позбавляє процес творчого задоволення. Ручне написання коду залишає більше простору для інженерної творчості та глибокого розуміння системи. Дискусія набирає обертів серед розробників.",
+      "ai_title": "Чому писати код самостійно цікавіше, ніж покладатися на AI",
+      "video_keywords": "hands typing keyboard, developer working, coffee cup, modern office desk"
+    },
+    {
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "link": "https://www.parseable.com",
+      "summary": "<p>Article URL: <a href=\"https://www.parseable.com\">https://www.parseable.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49978171\">https://news.ycombinator.com/item?id=49978171</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
+      "published": "2026-10-06T13:30:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа Parseable продемонструвала вражаючу продуктивність свого відкрита дата-лейку для моніторингу та логування. Система здатна опрацьовувати до 100 мільйонів часових рядів на хвилину без втрати швидкості. Це робить рішення потужним інструментом для роботи з великими обсягами IT-даних.",
+      "ai_title": "Parseable обробляє до 100 мільйонів подій на хвилину",
+      "video_keywords": "data analytics, dashboard charts, server lights, digital graphs"
+    },
+    {
+      "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
+      "link": "https://mastodon.social/@bagder/117392573268225646",
+      "summary": "<p>Article URL: <a href=\"https://mastodon.social/@bagder/117392573268225646\">https://mastodon.social/@bagder/117392573268225646</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49977832\">https://news.ycombinator.com/item?id=49977832</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
+      "published": "2026-10-06T13:06:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У компіляторах GCC та Rust виявлено специфічні помилки оптимізації для архітектури ARM64, які вплинули на роботу відомої утиліти curl. Проблема вимагає уваги розробників та термінових виправлень для забезпечення стабільності. Експерти вже аналізують причини виникнення збоїв.",
+      "ai_title": "Помилки компілятора зачепили популярну бібліотеку curl",
+      "video_keywords": "computer terminal, software code, engineer troubleshooting, motherboard"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "published": "2026-10-04T20:31:07+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Google тимчасово призупинила відкриту програму виявлення вразливостей через різке збільшення кількості низькоякісних заявок, згенерованих штучним інтелектом. Це стало серйозним викликом для інженерів, які змушені витрачати час на фільтрацію автоматизованого сміття замість реальних загроз.",
-      "ai_title": "Google зупинила програму винагород за помилки через потік спаму від штучного інтелекту",
-      "video_keywords": "programmer working on computer, typing on keyboard, frustration office worker, modern tech office"
-    },
     {
       "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
       "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
@@ -322,39 +352,44 @@
       "ai_summary": "Нова модель орієнтована на підприємства та держави й дозволяє створювати власні локальні системи штучного інтелекту. Головна перевага розробки полягає в нижчих витратах обчислювальної потужності.",
       "ai_title": "Reflection презентувала відкриту AI-модель Beam для конкуренції з китайськими аналогами",
       "video_keywords": "server racks, data center, artificial intelligence interface, office worker watching monitor"
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "published": "2026-10-06T16:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "published": "2026-10-06T15:25:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+      "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+      "summary": "Wajo's Fo agent can hire humans to complete a task.",
+      "published": "2026-10-06T15:15:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bluesky wants to give you your own domain on the open web",
+      "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+      "summary": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+      "published": "2026-10-06T14:41:52+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+      "link": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+      "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+      "published": "2026-10-06T14:37:31+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto poured years into new products. The next challenge is keeping users",
-      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-      "summary": "",
-      "published": "2026-10-04T14:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Після багатьох років активної розробки та випуску інноваційних продуктів ринок криптовалют стикається з новою проблемою. Головним завданням для проєктів стає не створення нових технологій, а утримання наявної аудиторії та стимулювання її активності.",
-      "ai_title": "Криптоіндустрія шукає способи утримати користувачів після років запуску нових продуктів",
-      "video_keywords": "smartphone screen, crypto wallet, digital dashboard, user engagement"
-    },
-    {
-      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
-      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-      "summary": "",
-      "published": "2026-10-04T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ухвалення закону The Clarity Act забуксувало в законодавчих органах, проте традиційні фінансові інститути не зупиняють свої криптоугоди. Банки та інвестори продовжують шукати можливості для інтеграції цифрових активів, не чекаючи остаточних регуляторних роз'яснень.",
-      "ai_title": "Банки продовжують інвестувати в криптовалюту попри затримку закону про регулювання",
-      "video_keywords": "bank building, handshake, financial district, modern office"
-    },
-    {
-      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-      "link": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump taps intel chief Jay Clayton to lead new Super Intelligence Force\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43HDDKT65TRCAPN5G00GZPC/white-house-tron.png\" /></p><p>President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief o",
-      "published": "2026-10-04T13:48:48+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Президент США Дональд Трамп доручив колишньому керівнику Комісії з цінних паперів і бірж (SEC) Джею Клейтону очолити новостворену структуру Super Intelligence Force (SIF). Новопризначений очільник звітуватиме безпосередньо перед президентом та головою апарату Білого дому.",
-      "ai_title": "Трамп призначив ексглаву SEC Джея Клейтона очолити новий підрозділ Super Intelligence Force",
-      "video_keywords": "white house, press conference, politician speaking, american flag"
-    },
     {
       "title": "There's an election next month: State of Crypto",
       "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
@@ -541,6 +576,41 @@
       "ai_summary": "Розробники проєкту EEZ успішно виконали кросчейн-тест на Ethereum із передачею невеликої суми між рівнями L1 та L2. Ініціатива спрямована на створення єдиної інфраструктури, яка зв'яже основну мережу Ethereum із її рішеннями масштабування.",
       "ai_title": "EEZ протестувала атомарні транзакції між першим і другим рівнями для об'єднання Ethereum",
       "video_keywords": "code scrolling, computer monitor, programmer hands, technology lab"
+    },
+    {
+      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+      "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+      "summary": "",
+      "published": "2026-10-06T15:20:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
+      "link": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple expands Brevan Howard deal with prime brokerage services\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48VPXTAZCF52SY8JR6AA45A/handshake-agreement-union-partnership-cooperation-collaboration-join-deal-breaking-news-1.png\" /></p><p>Ripple Prime will provide prime brokerage, ",
+      "published": "2026-10-06T15:24:51+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s Glamsterdam upgrade launches on Sepolia testnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48FZG6BQZ9TK43EGQKZKHER/hi-vitalik-buterins-vision-for-ethereum-pectra-glamsterdam-beyond.jpg\" /></p><p>Sepolia marks one of the final major rehearsals before the final activat",
+      "published": "2026-10-06T14:00:00+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "OKX exchange raises fresh capital at $25B valuation",
+      "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX exchange raises fresh capital at $25B valuation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48NWDDYWBD7SNFGR28DNZC8/hi-how-to-migrate-crypto-from-an-exchange-to-okx.jpg\" /></p><p>OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investmen",
+      "published": "2026-10-06T13:32:32+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
+      "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital starting to rotate back to crypto from AI: Raoul Pal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4614HYVZJCWQV0ASPKJY445/trade-secrets-raoul-pal.png\" /></p><p>Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI age",
+      "published": "2026-10-06T13:30:00+00:00",
+      "source": "Cointelegraph.com News"
     }
   ]
 }
