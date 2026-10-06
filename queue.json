@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Building a RAG pipeline for semantic code search",
-      "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
-      "summary": "<p>Article URL: <a href=\"https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/\">https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49956148\">https://news.ycombinator.com/item?id=49956148</a>",
-      "published": "2026-10-04T17:51:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники поділилися практичним досвідом побудови системи RAG для семантичного пошуку по кодовій базі. Стаття містить корисні поради, нотатки з поля та приклади реалізації для покращення роботи програмістів.",
-      "ai_title": "Створення RAG-пайлайн для семантичного пошуку коду",
-      "video_keywords": "programmer typing code, computer screen, software developer working, dark mode monitor"
-    },
-    {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "summary": "<p>Paper: \n<a href=\"https://www.usenix.org/system/files/atc21-ousterhout.pdf\" rel=\"nofollow\">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href=\"https://lwn.net/Articles/1003059/\" rel=\"nofollow\">https://lwn.net/Articles/1003059/</a>, <a href=\"https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629\" rel",
-      "published": "2026-10-04T19:42:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники та інженери активно просувають ідею відмови від традиційного протоколу TCP у великих штучних кластерах. Новий підхід має значно підвищити швидкість передачі даних між серверами, що критично важливо для навчання сучасних моделей штучного інтелекту.",
-      "ai_title": "Кінець епохи TCP: чому для AI-кластерів створюють новий мережевий протокол",
-      "video_keywords": "server racks, data center cables, glowing fiber optics, network switches"
-    },
-    {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "link": "https://github.com/omlahore/RemoveMacAI",
-      "summary": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p>\n<p>Points: 199</p>\n<p># Comments: 108</p>",
-      "published": "2026-10-04T19:42:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "З'явився спеціальний інструмент для користувачів macOS, який дозволяє повністю вимкнути функції штучного інтелекту від Apple. Це рішення допомагає повернути цінне дисковий простір тим, хто не користується новими AI-можливостями.",
-      "ai_title": "Як повністю видалити Apple Intelligence на macOS та звільнити гігабайти пам'яті",
-      "video_keywords": "person typing on laptop, macbook screen, deleting files, storage capacity bar"
-    },
-    {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "summary": "<p>Article URL: <a href=\"https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\">https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957068\">https://news.ycombinator.com/item?id=49957068</a>",
-      "published": "2026-10-04T19:37:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Через невдале редагування документів у відкритий доступ потрапили засекречені дані про ресурси, які використовує дата-центр Google у Лінкольні. Ця ситуація знову підняла питання про величезні екологічні витрати на забезпечення роботи сучасних технологій.",
-      "ai_title": "Витік даних: стала відома реальна кількість води та електрики, яку споживає дата-центр Google",
-      "video_keywords": "industrial cooling towers, massive server farm, electric power lines, water pipes"
-    },
-    {
       "title": "The new Fitbit Edge leaks",
       "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
       "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [&#8230;]",
@@ -260,19 +220,59 @@
       "ai_summary": "У компіляторах GCC та Rust виявлено специфічні помилки оптимізації для архітектури ARM64, які вплинули на роботу відомої утиліти curl. Проблема вимагає уваги розробників та термінових виправлень для забезпечення стабільності. Експерти вже аналізують причини виникнення збоїв.",
       "ai_title": "Помилки компілятора зачепили популярну бібліотеку curl",
       "video_keywords": "computer terminal, software code, engineer troubleshooting, motherboard"
+    },
+    {
+      "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+      "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/\">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49983703\">https://news.ycombinator.com/item?id=49983703</a></p>\n<p>Points: 6</p>\n",
+      "published": "2026-10-06T20:33:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Paramount завершила масштабне злиття з Warner вартістю 111 мільярдів доларів. У результаті на медіаришку з'явився новий гігант під назвою Skydance.",
+      "ai_title": "Paramount та Warner об'єдналися у мегакорпорацію Skydance вартістю $111 млрд",
+      "video_keywords": "corporate building, handshake, business meeting, skyscrapers"
+    },
+    {
+      "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
+      "link": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
+      "summary": "<p>Article URL: <a href=\"https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/\">https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49983226\">https://news.ycombinator.com/item?id=49983226</a></p>\n<p>Points: 56</p>\n<p># Comments: 15</p>",
+      "published": "2026-10-06T19:55:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Після резонансних публікацій медіа про компанію Flock американські законодавці ініціювали низку нових законопроєктів. Документи покликані обмежити технології масового стеження та захистити приватність громадян.",
+      "ai_title": "Законодавці готують нові обмеження після розслідувань про стеження Flock",
+      "video_keywords": "politicians talking, courtroom, government building, signing documents"
+    },
+    {
+      "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
+      "link": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
+      "summary": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the Powerwall 2 and Powerwall [&#8230;]",
+      "published": "2026-10-06T20:37:54+00:00",
+      "source": "The Verge",
+      "ai_summary": "Tesla розширює функцію резервного живлення Powershare Home Backup на моделі Model 3 та Y. Тепер власники цих електромобілів зможуть використовувати акумулятор авто як генератор для дому під час блекаутів.",
+      "ai_title": "Електромобілі Tesla Model 3 та Model Y тепер можуть живити будинок під час відключення світла",
+      "video_keywords": "electric car charging, home exterior, modern house, power box"
+    },
+    {
+      "title": "Google’s power-hungry data centers crave nuclear energy",
+      "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+      "summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue [&#8230;]",
+      "published": "2026-10-06T20:32:10+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Google підписала 20-річну угоду з оператором Constellation про модернізацію шести атомних електростанцій у США. Це рішення спрямоване на забезпечення стабільного та масового постачання електроенергії для штучного інтелекту та центрів обробки даних.",
+      "ai_title": "Google інвестує в ядерну енергетику задля живлення енергоємних дата-центрів",
+      "video_keywords": "nuclear power plant, cooling towers, server room, glowing data servers"
+    },
+    {
+      "title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
+      "link": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications",
+      "summary": "Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents indicate that they could be updates to the PlayStation Portal, which might mean we're getting the OLED screen rumored earlier this year. The two devices, which are [&#8230;]",
+      "published": "2026-10-06T19:12:26+00:00",
+      "source": "The Verge",
+      "ai_summary": "Мережеві джерела повідомляють про сертифікацію двох загадкових пристроїв PlayStation від Sony. Ймовірно, одним із них стане оновлена версія портативної консолі PlayStation Portal з довгоочікуваним OLED-екраном.",
+      "ai_title": "Sony готує до випуску новий портативний пристрій PlayStation із OLED-екраном",
+      "video_keywords": "gaming console, handheld gaming, playing video games, glowing screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "published": "2026-10-04T20:08:34+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Експерти обговорюють ініціативи адміністрації Трампа щодо ребрендингу галузі штучного інтелекту. Залишається відкритим питанням, чи допоможуть концепції «суперінтелекту» та декларативні пакти з безпеки вирішити реальні проблеми довіри до технологій.",
-      "ai_title": "Як нова адміністрація США намагається змінити імідж штучного інтелекту",
-      "video_keywords": "white house washington dc, politicians meeting, press conference room, usa flag background"
-    },
     {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
@@ -387,39 +387,59 @@
       "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
       "published": "2026-10-06T14:37:31+00:00",
       "source": "TechCrunch"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "published": "2026-10-06T20:00:30+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Підтриманий Nvidia стартап Lambda готується до масштабного IPO у 2027 році та залучає до 4 мільярдів доларів інвестицій. Оцінка компанії перед раундом досягла 14,5 мільярда доларів за підтримки провідних фондів Coatue та Blackstone.",
+      "ai_title": "Штучний інтелект Lambda залучає 4 мільярди доларів перед виходом на біржу",
+      "video_keywords": "server room, data center, financial charts, business meeting"
+    },
+    {
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "summary": "Sigil Wen, backed by a Silicon Valley's who-who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "published": "2026-10-06T20:47:01+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Відомі інвестори Кремнієвої долини підтримали створення Underdog — локального ШІ-асистента, який працює безпосередньо на пристрої. Розробники обіцяють повну конфіденційність, безплатний доступ та високу ефективність у повсякденних завданнях.",
+      "ai_title": "У Кремнієвій долині створили новий надконфіденційний ШІ-асистент Underdog",
+      "video_keywords": "person typing, laptop screen, artificial intelligence, modern office"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "published": "2026-10-06T19:56:50+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Персональні ШІ-агенти обіцяють автоматично купувати квитки та бронювати столики, проте стикаються з жорстким захистом від ботів. Через це користувачі опиняються у пастці між новими технологіями та обмеженнями вебсайтів, які намагається вирішити новий галузевий стандарт.",
+      "ai_title": "Головна перешкода для ШІ-агентів: як сайти намагаються їх заблокувати",
+      "video_keywords": "frustrated person, computer screen, coding on monitor, office workspace"
+    },
+    {
+      "title": "How AI decision models could change content moderation",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "published": "2026-10-06T20:35:20+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Musubi представила легку відкриту модель PolicyLM-1.7B, створену спеціально для модерації контенту в реальному часі. Цей інструмент має суттєво змінити те, як платформи контролюють цифрові потоки інформації.",
+      "ai_title": "Нові моделі штучного інтелекту змінять підхід до модерації контенту",
+      "video_keywords": "cyber security, data monitoring, computer code, digital interface"
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "published": "2026-10-06T18:22:45+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нова ШІ-лабораторія випустила операційну систему майбутнього, створену для конкуренції з провідними асистентами на ринку. Головною перевагою платформи є суворий захист приватних даних користувача.",
+      "ai_title": "Стартап Hark анонсував персонального ШІ-асистента з акцентом на приватність",
+      "video_keywords": "smartphone screen, mobile app, futuristic interface, person swiping screen"
     }
   ],
   "Крипта": [
-    {
-      "title": "There's an election next month: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-      "summary": "",
-      "published": "2026-10-04T18:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Напередодні виборів експерти оцінюють поточний стан криптоіндустрії та можливі наслідки політичних змін для регулювання цифрових активів. Політичний контекст стає ключовим фактором для подальшого розвитку ринку блокчейн-технологій у США.",
-      "ai_title": "Вплив майбутніх виборів на крипторинок",
-      "video_keywords": "voting booth, ballot box, politician speaking, American flag"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
-      "published": "2026-10-04T18:51:50+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Огляд найважливіших щоденних трендів та подій, які вплинули на курс біткоїна та розвиток сектора DeFi. Аналітики підсумовують ключові рухи в індустрії блокчейну та Web3 за останню добу.",
-      "ai_title": "Головні події на ринку крипти за день",
-      "video_keywords": "stock market chart, digital numbers, trading screen, financial graphs"
-    },
-    {
-      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png\" /></p><p>Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar,",
-      "published": "2026-10-04T22:31:12+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Призначення колишнього голови SEC Джея Клейтона на посаду куратора з питань штучного інтелекту в адміністрації Трампа викликало неоднозначну реакцію в криптоспільноті. Водночас експерти прогнозують можливе зростання ціни біткоїна до рекордних 600 000 доларів у поточному ринковому циклі.",
-      "ai_title": "Ексглава SEC став радником з AI, а біткоїн може злетіти до $600 тисяч",
-      "video_keywords": "bitcoin chart, cryptocurrency trading, financial graph, digital currency screen"
-    },
     {
       "title": "Zcash gets a Washington lobbyist to push crypto policy",
       "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -611,6 +631,36 @@
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital starting to rotate back to crypto from AI: Raoul Pal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4614HYVZJCWQV0ASPKJY445/trade-secrets-raoul-pal.png\" /></p><p>Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI age",
       "published": "2026-10-06T13:30:00+00:00",
       "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+      "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49DR4VPPGS9RG9R18484EC5/hi-token-etf-victory-2.png\" /></p><p>The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affilia",
+      "published": "2026-10-06T20:53:19+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія за підтримки засновників Winklevoss подала офіційну заявку до Комісії з цінних паперів і бірж США (SEC) на створення біржового фонду на базі Zcash. Зберігачем активів планується виступити криптовалютна біржа Gemini, що може відкрити новий шлях для інституційного капіталу в конфіденційні криптовалюти.",
+      "ai_title": "Запуск спотового Zcash ETF: заявка на лістинг на Nasdaq",
+      "video_keywords": "stock market trading floor, financial charts, computer screens, digital currency"
+    },
+    {
+      "title": "UK names 6 banks to lead first digitally native government bond",
+      "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK names 6 banks to lead first digitally native government bond\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4997XE3Q73505XVEHSA997G/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.png\" /></p><p>The DIGIT pilot will test distributed ledger technology and onchain settlement ",
+      "published": "2026-10-06T19:19:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "У межах пілотного проєкту DIGIT уряд Великої Британії залучив шість провідних банків для тестування технології розподіленого реєстру. Ініціатива спрямована на впровадження блокчейн-розрахунків на рівні державного боргу та підвищення ефективності фінансової системи країни.",
+      "ai_title": "Велика Британія обрала шість банків для випуску перших цифрових держоблігацій",
+      "video_keywords": "modern bank building, london financial district, businessman working on laptop, digital graphs"
+    },
+    {
+      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+      "link": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M49574J2Y2HJE1HW5F7ZW209/russia-kremlin-moscow-red-square-cryptocurrency-coin-cbdc-winter.jpg\" /></p><p>The digital ruble’s early uptake comes as ",
+      "published": "2026-10-06T18:19:35+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "За перший місяць після запуску пілотного проєкту кількість відкритих гаманців із цифровою валютою центрального банку РФ перетнула позначку у 220 тисяч. Такий показник суттєво перевищує початкові прогнози регулятора, демонструючи швидке початкове поширення державного цифрового активу.",
+      "ai_title": "Кількість гаманців із цифровим рублем у Росії перевищила прогнози у чотири рази",
+      "video_keywords": "moscow cityscape, kremlin, smartphone screen, digital banking app"
     }
   ]
 }
