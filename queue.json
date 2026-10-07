@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html\">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49961057\">https://news.ycombinator.com/item?id=49961057</a></p>\n<p>Points: 42</p>\n<p># Comments: 36</p>",
-      "published": "2026-10-05T05:37:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic повідомила правоохоронців про вміст цифрового щоденника користувачки у чат-боті Claude. Через це жінка з Флориди тепер стикається з серйозними кримінальними звинуваченнями. Цей випадок піднімає гострі питання щодо конфіденційності даних та етики взаємодії з ШІ.",
-      "ai_title": "Anthropic передала поліції запис із щоденника штучного інтелекту",
-      "video_keywords": "police officer, smartphone screen, typing hands, interrogation room"
-    },
-    {
       "title": "OpenAI is sticking more ads in ChatGPT",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
       "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
@@ -289,19 +279,19 @@
       "ai_summary": "Для операційної системи Linux з'явився новий поштовий клієнт з відкритим вихідним кодом, написаний мовою Rust. Головною фішкою програми стала глибока інтеграція можливостей штучного інтелекту для керування поштою.",
       "ai_title": "Penguin Mail: новий поштовий клієнт на Rust з підтримкою ШІ для Linux",
       "video_keywords": "linux terminal, typing on keyboard, dual monitors, programming code"
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/\">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49988230\">https://news.ycombinator.com/item?id=49988230</a>",
+      "published": "2026-10-07T04:37:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Зловмисникам вдалося отримати фальшиві TLS-сертифікати, які використовуються для захисту з'єднань з Google та іншими відомими платформами. Цей інцидент становить серйозну загрозу для безпеки користувачів в інтернеті та може призвести до масштабних атак типу «людина посередині». Експерти з кібербезпеки закликають IT-фахівців уважно стежити за станом довірених сертифікатів.",
+      "ai_title": "Хакери отримали підроблені TLS-сертифікати для сервісів Google",
+      "video_keywords": "cyber security, hacker, laptop screen, code matrix"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
-      "published": "2026-10-05T15:14:24+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія OpenAI оголосила про тестування візуальної реклами, яка з'являтиметься поруч із результатами генерації зображень. Наразі нововведення запроваджується ексклюзивно для користувачів зі США.",
-      "ai_title": "OpenAI запускає візуальну рекламу при генерації зображень",
-      "video_keywords": "computer screen, digital advertisement, user interface, graphic design"
-    },
     {
       "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
       "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
@@ -480,16 +470,6 @@
   ],
   "Крипта": [
     {
-      "title": "Zcash gets a Washington lobbyist to push crypto policy",
-      "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash gets a Washington lobbyist to push crypto policy\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44PCPNQJ0FDJMVNEEJEXBKG/zcash-1.jpg\" /></p><p>The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby o",
-      "published": "2026-10-05T00:35:34+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Розробники конфіденційної криптовалюти Zcash офіційно залучили вашингтонських лобістів для захисту своїх інтересів у Конгресі. Вони планують фокусуватися на обговоренні законопроєкту CLARITY Act та ініціативах щодо оподаткування цифрових активів.",
-      "ai_title": "Zcash наймає лобістів у Вашингтоні для просування крипторегулювання",
-      "video_keywords": "washington dc capitol, lobbying meeting, politicians talking, government building"
-    },
-    {
       "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
       "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
       "summary": "",
@@ -498,26 +478,6 @@
       "ai_summary": "Головна криптовалюта світу наближається до рідкісного технічного сигнапу, якого ринок не бачив уже понад рік. Ця подія може суттєво вплинути на подальший висхідний тренд та привернути увагу нових інвесторів.",
       "ai_title": "Біткоїн готується отримати потужний бичачий сигнал",
       "video_keywords": "bitcoin chart, cryptocurrency trading, financial graph, digital coins"
-    },
-    {
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-      "summary": "",
-      "published": "2026-10-05T04:45:03+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Спільне підприємство криптобіржі OKX та материнської компанії Нью-Йоркської фондової біржі ICE подало заявку на запуску цілодобової торгівлі токенізованими акціями. Це крок до поєднання традиційних фінансів із технологією блокчейн без перерв на вихідні.",
-      "ai_title": "Обертання токенізованих акцій США 24/7 від OKX та власників NYSE",
-      "video_keywords": "stock exchange building, financial district, digital trading screen, new york stock exchange"
-    },
-    {
-      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-      "summary": "",
-      "published": "2026-10-05T04:23:25+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курс біткоїна майже досяг восьмимісячного максимуму, піднявшись до позначки в 87 000 доларів, однак згодом різко пішов на спад. Така волатильність вкотре продемонструвала напруження на ринку та боротьбу між покупцями й продавцями.",
-      "ai_title": "Біткоїн стрімко наближався до $87 000, але різко розвернувся",
-      "video_keywords": "cryptocurrency crash, red trading candles, falling chart, stock market panic"
     },
     {
       "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
@@ -710,6 +670,46 @@
       "ai_summary": "Підтримувана відомим NFT-проєктом Pudgy Penguins мережа Abstract припиняє своє існування. Генеральний директор компанії повідомив, що попри 18 місяців фінансування та значні інвестиції, знайти стабільний попит на ринку не вдалося.",
       "ai_title": "Блокчейн-проєкт Abstract закривається після мільйонних збитків",
       "video_keywords": "blockchain server, crypto mining, computer screen graphs, server room"
+    },
+    {
+      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+      "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+      "summary": "",
+      "published": "2026-10-07T05:58:25+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Американський уряд здійснив масштабний переказ біткоїнів та BNB на суму понад 100 мільйонів доларів. Наразі офіційного підтвердження можливого продажу цих активів немає, але ринок уважно стежить за ситуацією.",
+      "ai_title": "Уряд США переказав понад 100 мільйонів доларів у криптовалюті",
+      "video_keywords": "cryptocurrency wallet, digital coins, computer screen, blockchain network"
+    },
+    {
+      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+      "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+      "summary": "",
+      "published": "2026-10-07T04:11:33+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Мережа Cardano запровадила функціонал, який дозволяє емітентам токенів заморожувати, конфіскувати та обмежувати активи. Це викликало дискусії в спільноті щодо балансу між децентралізацією та регулюванням.",
+      "ai_title": "Cardano наділила емітентів токенів новими повноваженнями",
+      "video_keywords": "blockchain code, digital security, padlock icon, cyber lock"
+    },
+    {
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+      "summary": "",
+      "published": "2026-10-07T04:00:51+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Котирування першої криптовалюти просіли на тлі різкого зростання цін на нафту, спричиненого атаками на іранські танкери. Макроекономічні чинники знову посилили тиск на цифрови активи.",
+      "ai_title": "Біткоїн впав нижче 84 000 доларів через ситуацію на ринку нафти",
+      "video_keywords": "stock market chart, falling graph, financial crisis, oil tanker ship"
+    },
+    {
+      "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+      "link": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kalshi’s 15-min gold markets overtake Ether just weeks after launch \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ABH5KJ122D9KH3B20EG167/prediction-market-2.jpg\" /></p><p>Gold recorded 542 million contracts and an estimated $5 million in fees in September, surpassing Ether’s 318",
+      "published": "2026-10-07T04:57:54+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Нові 15-хвилинні контракти на золото на платформі Kalshi продемонстрували вражаючі обсяги торгів за лічені тижні після запуск. Вони навіть випередили показники Ethereum у відповідному сегменті.",
+      "ai_title": "Предиктивні ринки золота від Kalshi обігнали Ethereum",
+      "video_keywords": "gold bars, trading dashboard, financial charts, stock market exchange"
     }
   ]
 }
