@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [&#8230;]",
-      "published": "2026-10-05T13:09:48+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія OpenAI розширює рекламну інтеграцію у своєму чат-боті зі штучним інтелектом. Новий формат передбачає показ зображень спонсорованих продуктів та послуг безпосередньо під час генерації картинок користувачами.",
-      "ai_title": "OpenAI починає тестувати рекламні банери під час генерації зображень у ChatGPT",
-      "video_keywords": "smartphone screen, typing chatbot, digital advertising, person using AI"
-    },
-    {
       "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
       "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features [&#8230;]",
@@ -29,16 +19,6 @@
       "ai_summary": "Пристрої для стримінгу від Nvidia стали черговою жертвою глобального дефіциту пам'яті на ринку електроніки. Через це ціни на цифрові гаджети та ігрові консолі стрімко зростають, зачепивши і популярну модель Shield TV Pro.",
       "ai_title": "Популярна телеприставка Nvidia Shield TV Pro подорожчали на 100 доларів",
       "video_keywords": "living room, smart tv, holding remote control, electronics store"
-    },
-    {
-      "title": "Up to $10.5B. Venture investments in European Defence Tech to grow by over 300% in 2026 — Resilience Media",
-      "link": "https://en.ain.ua/2026/10/05/up-to-105b-venture-investments-in-european-defence-tech-to-grow-by-over-300-in-2026-resilience-media/",
-      "summary": "Share of defense startups in European venture capital rose to 11%. Drones and Germany lead.",
-      "published": "2026-10-05T13:29:00+00:00",
-      "source": "",
-      "ai_summary": "Частка оборонних стартапів у європейському венчурному капіталі зросла до 11%, досягнувши позначки у 10,5 мільярдів доларів. Лідерами у цьому секторі стали розробки дронів та ринок Німеччини.",
-      "ai_title": "Інвестиції у європейські оборонні технології зростуть на понад 300% у 2026 році",
-      "video_keywords": "military drone, tech startup, business meeting, financial charts"
     },
     {
       "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
@@ -289,6 +269,56 @@
       "ai_summary": "Зловмисникам вдалося отримати фальшиві TLS-сертифікати, які використовуються для захисту з'єднань з Google та іншими відомими платформами. Цей інцидент становить серйозну загрозу для безпеки користувачів в інтернеті та може призвести до масштабних атак типу «людина посередині». Експерти з кібербезпеки закликають IT-фахівців уважно стежити за станом довірених сертифікатів.",
       "ai_title": "Хакери отримали підроблені TLS-сертифікати для сервісів Google",
       "video_keywords": "cyber security, hacker, laptop screen, code matrix"
+    },
+    {
+      "title": "Google now lets you make games with AI",
+      "link": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+      "summary": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to creation\" and doesn't require coding experience. \"With Playground's [&#8230;]",
+      "published": "2026-10-07T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Google запустила експериментальну браузерну платформу Playground, яка дозволяє користувачам створювати власні ігри за допомогою текстових запитів до ШІ. Сервіс покликаний знизити бар'єри для розробки, адже для створення гри тепер не потрібні навички програмування.",
+      "ai_title": "Google представила платформу Playground для створення ігор за допомогою штучного інтелекту",
+      "video_keywords": "person typing keyboard, computer monitor, video game development, artificial intelligence"
+    },
+    {
+      "title": "Windows and Surface event: how to watch and what to expect",
+      "link": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
+      "summary": "Microsoft is heading to San Francisco this morning to reveal what's coming next for Windows and Surface and a \"conversation on how local AI will shape the next chapter of the PC.\" That conversation will include Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan Davuluri. I'm expecting to hear [&#8230;]",
+      "published": "2026-10-07T13:12:56+00:00",
+      "source": "The Verge",
+      "ai_summary": "У Сан-Франциско проходить масштабний захід Microsoft, присвячений майбутньому операційної системи Windows та пристроїв Surface. Участь у дискусії беруть керівники Microsoft Сатья Наддела та Nvidia Дженсен Хуанг, які обговорюють вплив локального ШІ на персональні комп'ютери.",
+      "ai_title": "Microsoft та Nvidia готують нові анонси щодо ролі штучного інтелекту в ПК",
+      "video_keywords": "tech conference, presentation stage, business executives speaking, modern auditorium"
+    },
+    {
+      "title": "AI could upend food delivery",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [&#8230;]",
+      "published": "2026-10-07T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Технології штучного інтелекту починають активно проникати у сферу доставки їжі, де домінують великі платформи на кшталт DoorDash. Невеликі стартапи вже використовують ШІ для оптимізації процесів, що може повністю перевернути звичний ринок ресторанного сервісу.",
+      "ai_title": "Штучний інтелект може кардинально змінити ринок доставки їжі",
+      "video_keywords": "food delivery, smartphone app, delivery courier, fast food packaging"
+    },
+    {
+      "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
+      "link": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
+      "summary": "Two weeks ago, journalists in the San Francisco Bay Area got to try two hot new wearables that weigh only around 100 grams: the just-revealed Meta VR Glasses, and the long-awaited transparent Google XR glasses built in partnership with Xreal. It turns out they're going head-to-head. Xreal has just opened Aura pre-orders starting at $1,279, [&#8230;]",
+      "published": "2026-10-07T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Xreal відкрила передзамовлення на свої нові прозорі XR-окуляри вартістю $1,279. Вони вагою близько 100 грамів стануть прямим конкурентом новітнім VR-окулярам від Meta на ринку портативних гаджетів.",
+      "ai_title": "Нові розумні окуляри Google Xreal Aura кинуть виклик пристроям від Meta",
+      "video_keywords": "person wearing smart glasses, augmented reality, futuristic technology, tech unboxing"
+    },
+    {
+      "title": "Google&#8217;s Pixel Buds update will put them to sleep along with you",
+      "link": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
+      "summary": "Google has detailed an update bringing a slew of new features to its Pixel Buds 2A and Pro 2, which the company says are rolling out now. The new features were first teased in August. The biggest update is Pixel Watch-powered sleep detection, rolling out to both pairs of earbuds. If you're wearing a Pixel [&#8230;]",
+      "published": "2026-10-07T12:01:22+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google випускає велике оновлення для навушників Pixel Buds 2A та Pro 2. Головною новою фічею стане інтегроване на основі Pixel Watch визначення моменту, коли користувач засинає, разом із низкою інших покращень.",
+      "ai_title": "Оновлення Pixel Buds додасть функцію автоматичного відстеження сну",
+      "video_keywords": "wireless earbuds, person sleeping in bed, night time, smartwatch tracking"
     }
   ],
   "Бізнес / Стартапи": [
@@ -466,29 +496,19 @@
       "ai_summary": "Після невдачі з першим продуктом команда розробників змінила вектор діяльності. Тепер їхня нова платформа фокусується на створенні рекламних креативів та автоматизації маркетингових кампаній.",
       "ai_title": "Колишні інженери Ramp залучили $20 мільйонів на новий стартап Melius",
       "video_keywords": "startup team, office meeting, laptop typing, modern workspace"
+    },
+    {
+      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+      "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+      "summary": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+      "published": "2026-10-07T13:45:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На ринку з'явився новий персональний помічник на основі штучного інтелекту під назвою Tab. Проєкт офіційно вийшов із тіні та одразу отримав вражаючу оцінку в 300 мільйонів доларів.",
+      "ai_title": "Ще один персональний ШІ-асистент: стартап Tab оцінили в $300 млн",
+      "video_keywords": "person wearing smart device, artificial intelligence assistant, tech startup office, futuristic wearable gadget"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-      "summary": "",
-      "published": "2026-10-05T06:57:40+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта світу наближається до рідкісного технічного сигнапу, якого ринок не бачив уже понад рік. Ця подія може суттєво вплинути на подальший висхідний тренд та привернути увагу нових інвесторів.",
-      "ai_title": "Біткоїн готується отримати потужний бичачий сигнал",
-      "video_keywords": "bitcoin chart, cryptocurrency trading, financial graph, digital coins"
-    },
-    {
-      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-      "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-      "summary": "",
-      "published": "2026-10-05T13:46:31+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінтех-гігант Stripe планує значно розширити доступність своїх карток на основі стейблкоїнів до кінця поточного року. Це нововведення дозволить мільйонам користувачів у всьому світі здійснювати швидкі та зручні криптоплатежі. Послуга охопить понад сто країн, що сприятиме масовому впровадженню цифрових валют у повсякденному житті.",
-      "ai_title": "Stripe масштабує картки зі стейблкоїнами на понад 100 країн",
-      "video_keywords": "credit card, online payment, smartphone screen, business person"
-    },
     {
       "title": "Bitcoin price fails to break higher after best weekly close in eight months",
       "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -508,16 +528,6 @@
       "ai_summary": "Компанія Metaplanet оприлюднила новий план розподілу капіталу, спрямований на збільшення своїх резервів у першій криптовалюті. Оновлена фінансова стратегія дозволить ефективніше акумулювати біткоїни за рахунок чистих прибутків компанії. Такий крок підкреслює зростаючу тенденцію серед корпорацій робити ставку на цифрові активи.",
       "ai_title": "Metaplanet змінює стратегію для активної купівлі Біткоїна",
       "video_keywords": "corporate office, business meeting, financial presentation, office desk"
-    },
-    {
-      "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
-      "link": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45C7SQN6DV5Z1GMPSEJ4CRN/china-ban-bitcoin.png\" /></p><p>Unique wallets sending P2P stablecoin transactions in China grew 43-fold between Q1 2024 and Q2 2026",
-      "published": "2026-10-05T13:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Згідно з даними Chainalysis, кількість активних P2P-гаманців зі стейблкоїнами в Китаї зросла у 43 рази за останні два роки. Це сталося попри суворі загальнодержавні обмеження на криптовалютні операції в країні. Громадяни продовжують знаходити обхідні шляхи для використання цифрових доларів у щоденних розрахунках.",
-      "ai_title": "У Китаї різко зросла популярність стейблкоїнів попри заборони",
-      "video_keywords": "mobile phone screen, digital wallet, person typing, hands holding smartphone"
     },
     {
       "title": "Crypto PAC announces support for 32 House candidates in US midterms",
@@ -710,6 +720,56 @@
       "ai_summary": "Нові 15-хвилинні контракти на золото на платформі Kalshi продемонстрували вражаючі обсяги торгів за лічені тижні після запуск. Вони навіть випередили показники Ethereum у відповідному сегменті.",
       "ai_title": "Предиктивні ринки золота від Kalshi обігнали Ethereum",
       "video_keywords": "gold bars, trading dashboard, financial charts, stock market exchange"
+    },
+    {
+      "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+      "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+      "summary": "",
+      "published": "2026-10-07T12:40:31+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Bitmine припиняє регулярні закупівлі токенів Ethereum, що позбавить ринок одного зі стабільних покупців. За заявою Тома Лі, це може суттєво вплинути на ліквідність та поточний курс активу.",
+      "ai_title": "Bitmine зупиняє купівлю Ethereum",
+      "video_keywords": "ethereum coin, digital currency, crypto trading, trading charts"
+    },
+    {
+      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+      "summary": "",
+      "published": "2026-10-07T12:34:13+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптогігант GSR інвестує 100 мільйонів доларів у новий напрямок ончейн-кредитування через кастодіальний сервіс сховищ. Цей крок підкреслює зростаючу інституційну цікавість до децентралізованих фінансових ринків та кредитування на блокчейні.",
+      "ai_title": "GSR запускає кредитний фонд на $100 мільйонів",
+      "video_keywords": "financial vault, digital banking, cryptocurrency exchange, modern office"
+    },
+    {
+      "title": "Here’s what bitcoin needs to break above $87,000",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+      "summary": "",
+      "published": "2026-10-07T11:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики оцінюють поточну ситуацію на ринку першої криптовалюти та визначають ключові рівні опору. Для подолання бар'єра в 87 000 доларів біткоїну необхідний додатковий приплив капіталу та бичачі настрої інвесторів.",
+      "ai_title": "Що потрібно біткоїну для прориву позначки у $87 000",
+      "video_keywords": "bitcoin price, stock market chart, crypto analysis, glowing numbers"
+    },
+    {
+      "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
+      "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg\" /></p><p>Some traders are looking for more predictable prediction market opportun",
+      "published": "2026-10-07T12:29:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Керівник платформи Polymarket застереріг трейдерів від сліпого пошуку токенів з потенціалом зростання у 100 разів. На його думку, така стратегія базується переважно на емоціях та ризикованій спекуляції, а не на реальній цінності активів.",
+      "ai_title": "Голова Polymarket назвав полювання на ікси «ірраціональною екuberантністю»",
+      "video_keywords": "angry trader, stock market crash, stressed person, computer screen"
+    },
+    {
+      "title": "Crypto card access doesn’t match global demand, Tangem says",
+      "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto card access doesn’t match global demand, Tangem says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AZ46ZEWXYZR13FPY46ZHFW/hi-crypto-cards-how-are-the-sector-developing-and-what-are-the-biggest-challenges-bitcoin.jpg\" /></p><p>Crypto card demand can be stronger where access",
+      "published": "2026-10-07T11:37:48+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Tangem заявляє про серйозний дисбаланс на ринку, де доступність криптовалютних карток суттєво відстає від реального світового попиту. Це вказує на те, що масове впровадження криптоплатежів гальмується інфраструктурними обмеженнями.",
+      "ai_title": "Попит на криптокарти перевищує глобальну пропозицію",
+      "video_keywords": "credit card payment, contactless terminal, crypto wallet, smart card"
     }
   ]
 }
