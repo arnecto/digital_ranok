@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
-      "link": "https://jotbus.com/",
-      "summary": "<p>Article URL: <a href=\"https://jotbus.com/\">https://jotbus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49978401\">https://news.ycombinator.com/item?id=49978401</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
-      "published": "2026-10-06T13:45:04+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили Jotbus — захищений спільний простір для взаємодії штучного інтелекту та програмістів під час кодування. Сервіс дозволяє агентам ефективніше обмінюватися даними та координувати роботу над проєктами в реальному часі. Інструмент покликаний спростити процес розробки за допомогою штучного інтелекту.",
-      "ai_title": "Jotbus: новий спільний блокнот для AI-агентів",
-      "video_keywords": "programmer typing, dual monitors, lines of code, dark mode editor"
-    },
-    {
-      "title": "Vibecoding isn't as fun as writing code by hand",
-      "link": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
-      "summary": "<p>Article URL: <a href=\"https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/\">https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49979306\">https://news.ycombinator.com/item?id=49979306</a></p>\n<p>Points: 93</p>\n<p># Comments: 103</p>",
-      "published": "2026-10-06T14:45:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор свіжої публікації розмірковує про тренд «вайбкодингу» та зазначає, що делегування всього написання коду штучному інтелекту позбавляє процес творчого задоволення. Ручне написання коду залишає більше простору для інженерної творчості та глибокого розуміння системи. Дискусія набирає обертів серед розробників.",
-      "ai_title": "Чому писати код самостійно цікавіше, ніж покладатися на AI",
-      "video_keywords": "hands typing keyboard, developer working, coffee cup, modern office desk"
-    },
-    {
-      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
-      "link": "https://www.parseable.com",
-      "summary": "<p>Article URL: <a href=\"https://www.parseable.com\">https://www.parseable.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49978171\">https://news.ycombinator.com/item?id=49978171</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
-      "published": "2026-10-06T13:30:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Платформа Parseable продемонструвала вражаючу продуктивність свого відкрита дата-лейку для моніторингу та логування. Система здатна опрацьовувати до 100 мільйонів часових рядів на хвилину без втрати швидкості. Це робить рішення потужним інструментом для роботи з великими обсягами IT-даних.",
-      "ai_title": "Parseable обробляє до 100 мільйонів подій на хвилину",
-      "video_keywords": "data analytics, dashboard charts, server lights, digital graphs"
-    },
-    {
-      "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
-      "link": "https://mastodon.social/@bagder/117392573268225646",
-      "summary": "<p>Article URL: <a href=\"https://mastodon.social/@bagder/117392573268225646\">https://mastodon.social/@bagder/117392573268225646</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49977832\">https://news.ycombinator.com/item?id=49977832</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
-      "published": "2026-10-06T13:06:00+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У компіляторах GCC та Rust виявлено специфічні помилки оптимізації для архітектури ARM64, які вплинули на роботу відомої утиліти curl. Проблема вимагає уваги розробників та термінових виправлень для забезпечення стабільності. Експерти вже аналізують причини виникнення збоїв.",
-      "ai_title": "Помилки компілятора зачепили популярну бібліотеку curl",
-      "video_keywords": "computer terminal, software code, engineer troubleshooting, motherboard"
-    },
-    {
       "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
       "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
       "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/\">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49983703\">https://news.ycombinator.com/item?id=49983703</a></p>\n<p>Points: 6</p>\n",
@@ -289,47 +249,59 @@
       "ai_summary": "Американські військові уклали контракт на закупівлю ударних безпілотників українського виробництва компанії F-Drones. Закупівля відбувається в межах спеціальної оборонної програми Drone Dominance.",
       "ai_title": "США замовили понад 1300 українських FPV-дронів",
       "video_keywords": "fpv drone, military drone, drone flight, tech testing"
+    },
+    {
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude\">https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008565\">https://news.ycombinator.com/item?id=50008565</a></p>\n<p>Points: 15</p>\n<p># Comments: 10</p>",
+      "published": "2026-10-08T17:08:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic оновила правила користування своїм штучним інтелектом. Тепер політика безпеки забороняє користувачам виявляти безпідставну жорстокість або знущатися з асистента Claude.",
+      "ai_title": "Anthropic заборонила жорстоке поводження з чат-ботом Claude",
+      "video_keywords": "chatbot, typing on laptop, artificial intelligence screen, frustrated user"
+    },
+    {
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "link": "https://openrouter.ai/stepfun/step-5-preview",
+      "summary": "<p>Article URL: <a href=\"https://openrouter.ai/stepfun/step-5-preview\">https://openrouter.ai/stepfun/step-5-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007764\">https://news.ycombinator.com/item?id=50007764</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+      "published": "2026-10-08T16:20:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа OpenRouter поповнилася новою моделлю Step 5 Preview від розробників StepFun. Ця архітектура типу MoE вирізняється величезним контекстним вікном на 1 мільйон токенів.",
+      "ai_title": "На OpenRouter з'явилася нова потужна модель Step 5 Preview",
+      "video_keywords": "code on screen, data center, futuristic interface, server racks"
+    },
+    {
+      "title": "New York accuses TikTok of serving users ‘placebo’ safety features",
+      "link": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features",
+      "summary": "New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given \"ghost\" versions of the platform's safety features rather than the working versions. Reuters reports the allegation is part of an \"updated, sealed version\" of New York's 2024 lawsuit against TikTok, which was \"later ordered unsealed by a judge.\" According [&#8230;]",
+      "published": "2026-10-08T16:53:49+00:00",
+      "source": "The Verge",
+      "ai_summary": "Згідно з оновленими матеріалами судового позову, тисячі користувачів TikTok отримували непрацюючі «бутафорські» інструменти захисту замість реальних функцій безпеки. Особливо це стосувалося акаунтів дітей та підлітків.",
+      "ai_title": "Штат Нью-Йорк звинуватив TikTok у використанні фальшивих функцій безпеки",
+      "video_keywords": "smartphone screen, scrolling social media, teenager with phone, courtroom lawsuit"
+    },
+    {
+      "title": "Amazon is phasing out Fire Tablets because they weren&#8217;t &#8216;giving customers what they were asking for&#8217;",
+      "link": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay",
+      "summary": "In an interview with Bloomberg, Amazon's head of consumer electronics, Panos Panay, confirmed the company would phase out the Fire brand in favor of Alexa Tablets. The new lineup runs proper Android, instead of the custom Fire OS, and has full access to the Play Store, which wasn't available on Fire tablets. To make matters [&#8230;]",
+      "published": "2026-10-08T16:34:57+00:00",
+      "source": "The Verge",
+      "ai_summary": "Amazon оголосила про поступову відмову від бренду планшетів Fire через невідповідність очікуванням покупців. На зміну їм прийдуть пристрої під назвою Alexa Tablets на базі повноцінної Android та з доступом до Google Play.",
+      "ai_title": "Amazon закриває лінійку планшетів Fire заради нового бренду Alexa Tablets",
+      "video_keywords": "unboxing tablet, holding modern device, touchscreen gadget, electronics store"
+    },
+    {
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. Similar to AI note-taking apps like Granola and Wispr Flow, Foresight summarizes [&#8230;]",
+      "published": "2026-10-08T15:27:30+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Google представила експериментальний інструмент для транскрипції та конспектування зустрічей. Застосунок працює повністю офлайн на macOS, використовуючи локальну модель EmbeddingGemma 2.",
+      "ai_title": "Google випустила застосунок для нотаток з ШІ, що працює без інтернету",
+      "video_keywords": "typing notes, laptop keyboard, offline working, office desk"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "LibreOffice says ‘no AI’ is now a software feature",
-      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "published": "2026-10-06T15:25:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
-      "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
-      "summary": "Wajo's Fo agent can hire humans to complete a task.",
-      "published": "2026-10-06T15:15:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Bluesky wants to give you your own domain on the open web",
-      "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
-      "summary": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
-      "published": "2026-10-06T14:41:52+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
-      "link": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
-      "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
-      "published": "2026-10-06T14:37:31+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "published": "2026-10-06T20:00:30+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Підтриманий Nvidia стартап Lambda готується до масштабного IPO у 2027 році та залучає до 4 мільярдів доларів інвестицій. Оцінка компанії перед раундом досягла 14,5 мільярда доларів за підтримки провідних фондів Coatue та Blackstone.",
-      "ai_title": "Штучний інтелект Lambda залучає 4 мільярди доларів перед виходом на біржу",
-      "video_keywords": "server room, data center, financial charts, business meeting"
-    },
     {
       "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
       "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
@@ -479,44 +451,59 @@
       "ai_summary": "Розробник Hermes Agent успішно закрив раунд фінансування Серії B на суму $90 мільйонів. Компанія створює штучний інтелект та спеціальних агентів для автоматизації бізнес-процесів.",
       "ai_title": "Nous Research досяг оцінки в $1,5 мільярда та випустив ШІ-агентів для бізнесу",
       "video_keywords": "futuristic technology, computer screen, artificial intelligence, software developer"
+    },
+    {
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "published": "2026-10-08T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Natura представила смарт-кільце Interface, яке дозволяє викликати ШІ-агентів одним натисканням. Гаджет допомагає виконувати повсякденні завдання, фіксувати думки та водночас працює як трекер здоров'я.",
+      "ai_title": "Розумне кільце за $99 приносить штучний інтелект на ваш палець",
+      "video_keywords": "smart ring, wearable technology, hand gesture, tech gadget"
+    },
+    {
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "published": "2026-10-08T16:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Goodfire розробила доступніші «внутрішні» монітори для перевірки безпеки ШІ-агентів. Замість залучення другої нейромережі, система зазирає всередину моделі під час її роботи та б'є на сполох лише у разі підозрілої активності.",
+      "ai_title": "Новий стартап пропонує бюджетний метод контролю за штучним інтелектом",
+      "video_keywords": "futuristic interface, server room, code on screen, cyber security"
+    },
+    {
+      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+      "link": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+      "summary": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
+      "published": "2026-10-08T15:06:17+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Влада Нью-Йорка подала позов проти TikTok, звинувативши компанію у створенні неправдивих захисних інструментів замість реальних. Це один із численних судових позовів від американських штатів через шкідливий вплив платформи на дітей.",
+      "ai_title": "Нью-Йорк звинуватив TikTok у використанні фальшивих функцій безпеки для підлітків",
+      "video_keywords": "smartphone in hand, teenager looking at phone, social media app, courtroom"
+    },
+    {
+      "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+      "link": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+      "summary": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
+      "published": "2026-10-08T15:01:15+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Хакери зламали систему безпеки ритейлера Asos та розіслали клієнтам поштові сповіщення про нібито повний компрометування хмарного сховища компанії. Наразі корпорація розслідує інцидент із безпекою даних.",
+      "ai_title": "Asos підтвердила витік даних після хакерської атаки через мобільний додаток",
+      "video_keywords": "hacker typing on laptop, data breach, red alert screen, cyber attack"
+    },
+    {
+      "title": "Spotify is getting more serious about selling enterprise software",
+      "link": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+      "published": "2026-10-08T14:34:33+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Музичний стримінговий гігант запустив окремий вебсайт для продажу своїх внутрішніх технологічних розробок стороннім компаніям. Це свідчить про серйозний намір Spotify розвивати напрямок B2B-софту.",
+      "ai_title": "Spotify виходить на ринок корпоративного програмного забезпечення",
+      "video_keywords": "person working on laptop, software code, modern office, business meeting"
     }
   ],
   "Крипта": [
-    {
-      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-      "summary": "",
-      "published": "2026-10-06T15:20:30+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "link": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple expands Brevan Howard deal with prime brokerage services\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48VPXTAZCF52SY8JR6AA45A/handshake-agreement-union-partnership-cooperation-collaboration-join-deal-breaking-news-1.png\" /></p><p>Ripple Prime will provide prime brokerage, ",
-      "published": "2026-10-06T15:24:51+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ethereum’s Glamsterdam upgrade launches on Sepolia testnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48FZG6BQZ9TK43EGQKZKHER/hi-vitalik-buterins-vision-for-ethereum-pectra-glamsterdam-beyond.jpg\" /></p><p>Sepolia marks one of the final major rehearsals before the final activat",
-      "published": "2026-10-06T14:00:00+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "OKX exchange raises fresh capital at $25B valuation",
-      "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OKX exchange raises fresh capital at $25B valuation\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48NWDDYWBD7SNFGR28DNZC8/hi-how-to-migrate-crypto-from-an-exchange-to-okx.jpg\" /></p><p>OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investmen",
-      "published": "2026-10-06T13:32:32+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-      "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Capital starting to rotate back to crypto from AI: Raoul Pal\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4614HYVZJCWQV0ASPKJY445/trade-secrets-raoul-pal.png\" /></p><p>Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI age",
-      "published": "2026-10-06T13:30:00+00:00",
-      "source": "Cointelegraph.com News"
-    },
     {
       "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
       "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -746,6 +733,56 @@
       "ai_summary": "Біткоїн-фонди в США зафіксували найбільший відтік капіталу з червня, втративши 485 мільйонів доларів за добу. На тлі цього загальне ралі цін на біткоїн тимчасово зупинилося.",
       "ai_title": "Американські біткоїн-ETF втратили майже пів мільярда доларів за день",
       "video_keywords": "stock exchange display, falling chart, financial crisis, red numbers"
+    },
+    {
+      "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+      "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+      "summary": "",
+      "published": "2026-10-08T15:43:04+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Американський уряд здійснив переказ великої суми біткоїнів, конфіскованих у справі хакерської атаки на біржа Bitfinex. Ознак того, що криптовалюта готується до продажу на ринку, наразі не виявлено.",
+      "ai_title": "Уряд США переказав мільярд доларів у біткоїнах",
+      "video_keywords": "bitcoin wallet, cryptocurrency transfer, digital coins, blockchain screen"
+    },
+    {
+      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+      "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+      "summary": "",
+      "published": "2026-10-08T15:23:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Регулятор ринку цінних паперів ЄС виставив суворий ультиматум криптоплатформам. Вони зобов'язані прибрати з лістингу всі цифрові монети, які не відповідають новим європейським правилам.",
+      "ai_title": "Євросоюз дає криптобіржам три місяці на видалення неавторизованих стейблкоїнів",
+      "video_keywords": "eu flag, financial regulation, computer monitor, office desk"
+    },
+    {
+      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+      "summary": "",
+      "published": "2026-10-08T15:11:15+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Цифрові активи показали вищу дохідність порівняно з традиційними фінансовими інструментами у третьому кварталі. Це привертає все більшу увагу інституційних інвесторів та фінансових радників.",
+      "ai_title": "Криптовалюта випередила акції та золото за прибутковістю в третьому кварталі",
+      "video_keywords": "stock market chart, digital gold, financial graphs, trading terminal"
+    },
+    {
+      "title": "IMF warns tokenized markets could amplify financial risks",
+      "link": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IMF warns tokenized markets could amplify financial risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E33RFBJJSYXE4M7F92S5P1/hi-imf-and-blockchain.png\" /></p><p>The global financial institution found tokenized equity markets less liquid and more volatile than traditional market",
+      "published": "2026-10-08T16:25:06+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Міжнародний валютний фонд застерігає, що токенізовані ринки можуть значно посилити фінансові ризики. Дослідження показують, що такі активи є менш ліквідними та набагато волатильнішими за традиційні.",
+      "ai_title": "МВФ попереджає про ризики токенізованих ринків",
+      "video_keywords": "global economy, stock exchange, economic crisis, financial chart"
+    },
+    {
+      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+      "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears 3-week low as oil heads higher on Iran strike woes \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E31FD5W40BBWD1JCVBH0A8/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-1.jpg\" /></p><p>Bitcoin dipped below $81,000 and oil prices gained after rep",
+      "published": "2026-10-08T15:55:55+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Курс біткоїна наблизився до тритижневого мінімуму на тлі зростання цін на нафту через побоювання військових ударів по Ірану. Геополітична нестабільність негативно впливає на ринок ризикових активів.",
+      "ai_title": "Біткоїн падає через напругу на Близькому Сході",
+      "video_keywords": "oil refinery, stock market crash, red arrows, trading charts"
     }
   ]
 }
