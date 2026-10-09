@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
-      "published": "2026-10-06T23:26:38+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія OpenAI випустила масштабну базу з 722 математичних рукописів, що містять вирішення давніх проблем за допомогою новітньої моделі штучного інтелекту. Це викликало чималий резонанс та обговорення в академічній спільноті щодо етики та майбутнього науки.",
-      "ai_title": "OpenAI опублікувала понад 700 математичних рукописів",
-      "video_keywords": "scientific equations, whiteboard, computer screen, researcher writing"
-    },
-    {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/\">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49985861\">https://news.ycombinator.com/item?id=49985861</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-      "published": "2026-10-06T23:50:33+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Влада Південної Кореї повідомила про ознаки того, що під час останніх кібератак на національні банки злочинці використовували автономні агенти на базі штучного інтелекту. Це свідчить про новий рівень складності та автоматизації сучасних кіберзагроз.",
-      "ai_title": "Південна Корея заявляє про використання ШІ-агентів у хакерських атаках на банки",
-      "video_keywords": "hacker typing, cyber attack, glowing computer code, server room"
-    },
-    {
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "link": "https://github.com/boykopovar/AnyPS5",
-      "summary": "<p>Article URL: <a href=\"https://github.com/boykopovar/AnyPS5\">https://github.com/boykopovar/AnyPS5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49985664\">https://news.ycombinator.com/item?id=49985664</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
-      "published": "2026-10-06T23:28:08+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили проєкт AnyPS5, який дає змогу напряму переносити бінарні файли PlayStation 5 на персональні комп'ютери без використання традиційної емуляції. Наразі успішно задекларовано мапінг 87% системних бібліотек.",
-      "ai_title": "Новий інструмент дозволяє запускати ігри з PS5 на ПК без емуляції",
-      "video_keywords": "gaming pc, playstation controller, computer monitor, code scrolling"
-    },
-    {
-      "title": "State of Devs 2026 survey results: developers are exhausted",
-      "link": "https://2026.stateofdevs.com/en-US/",
-      "summary": "<p>Article URL: <a href=\"https://2026.stateofdevs.com/en-US/\">https://2026.stateofdevs.com/en-US/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49985643\">https://news.ycombinator.com/item?id=49985643</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
-      "published": "2026-10-06T23:26:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Свіже масштабне опитування State of Devs показало тривожну тенденцію: сучасні програмісти та IT-спеціалісти відчувають серйозне фізичне та емоційне виснаження через високе навантаження та темп індустрії.",
-      "ai_title": "Результати опитування розробників за 2026 рік: IT-фахівці масово вигоріли",
-      "video_keywords": "tired developer, person rubbing eyes, dark room, glowing monitor"
-    },
-    {
-      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/\">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49988230\">https://news.ycombinator.com/item?id=49988230</a>",
-      "published": "2026-10-07T04:37:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Зловмисникам вдалося отримати фальшиві TLS-сертифікати, які використовуються для захисту з'єднань з Google та іншими відомими платформами. Цей інцидент становить серйозну загрозу для безпеки користувачів в інтернеті та може призвести до масштабних атак типу «людина посередині». Експерти з кібербезпеки закликають IT-фахівців уважно стежити за станом довірених сертифікатів.",
-      "ai_title": "Хакери отримали підроблені TLS-сертифікати для сервісів Google",
-      "video_keywords": "cyber security, hacker, laptop screen, code matrix"
-    },
-    {
       "title": "Google now lets you make games with AI",
       "link": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
       "summary": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to creation\" and doesn't require coding experience. \"With Playground's [&#8230;]",
@@ -289,29 +239,29 @@
       "ai_summary": "Компанія Microsoft випустила на етап тестування повністю перероблений інструмент Windows Search, який довгий час критикували користувачі. Нова пошукова система створена з акцентом на швидкість, розширені можливості та сучасний інтерфейс.",
       "ai_title": "Microsoft кардинально оновлює пошук у Windows 11",
       "video_keywords": "computer monitor, typing on keyboard, operating system interface, modern workspace"
+    },
+    {
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "link": "https://github.com/edrisranjbar/lifeos",
+      "summary": "<p>Article URL: <a href=\"https://github.com/edrisranjbar/lifeos\">https://github.com/edrisranjbar/lifeos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50014150\">https://news.ycombinator.com/item?id=50014150</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+      "published": "2026-10-09T00:02:19+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розпочато проєкт self-hosted платформи Edi Life OS, яка об'єднує особисті дані та завдання в єдину панель. Головна особливість системи — інтегрований MCP-сервер для зручної взаємодії зі штучним інтелектом. Це дозволяє користувачам ефективно керувати своїм розкладом та нотатками за допомогою локальних AI-інструментів.",
+      "ai_title": "Edi Life OS: персональна панель керування життям із підтримкою AI",
+      "video_keywords": "dashboard, computer screen, typing, coding"
+    },
+    {
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "link": "https://svg-spark.vercel.app/",
+      "summary": "<p>Article URL: <a href=\"https://svg-spark.vercel.app/\">https://svg-spark.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013931\">https://news.ycombinator.com/item?id=50013931</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
+      "published": "2026-10-08T23:32:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розгорнуто новий клієнтський набір інструментів SVG Spark, що містить 10 корисних утиліт для дизайнерів і розробників. Сервіс дозволяє швидко створювати, редагувати та оптимізувати SVG-графіку безпосередньо у браузері. Усі обчислення відбуваються на стороні клієнта, що гарантує високу швидкість роботи та конфіденційність даних.",
+      "ai_title": "SVG Spark: колекція веб-інструментів для роботи з векторною графікою",
+      "video_keywords": "vector graphics, design tools, computer mouse, web design"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
-      "published": "2026-10-06T22:53:09+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Корпорація Apple планує масштабне розширення у сфері домашньої автоматизації. Партнером у створенні лінійки нових пристроїв, зокрема розумних замків, термостатів та дверних дзвінків, стане компанія LG.",
-      "ai_title": "Apple готує вихід на ринок розумного дому спільно з LG",
-      "video_keywords": "smart home, smart lock, thermostat, modern living room"
-    },
-    {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "published": "2026-10-06T22:34:03+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Після невдачі з першим продуктом команда розробників змінила вектор діяльності. Тепер їхня нова платформа фокусується на створенні рекламних креативів та автоматизації маркетингових кампаній.",
-      "ai_title": "Колишні інженери Ramp залучили $20 мільйонів на новий стартап Melius",
-      "video_keywords": "startup team, office meeting, laptop typing, modern workspace"
-    },
     {
       "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
       "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
@@ -743,6 +693,16 @@
       "ai_summary": "Котирування Securitize підскочили більш ніж на 10% після анонсу запуску токенізованих акцій підприємств США на блокчейні Solana. Новий продукт відкриває кваліфікованим інвесторам швидкий доступ до класичних фондових ринків через децентралізовані мережі.",
       "ai_title": "Акції Securitize зросли після запуску токенізованих американських акцій на Solana",
       "video_keywords": "smartphone crypto trading, blockchain network visualization, stock market growth, digital currency"
+    },
+    {
+      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
+      "link": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties  \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4F1W4R51W8W7BPK0508NAMP/investigation.jpg\" /></p><p>The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key t",
+      "published": "2026-10-09T00:46:27+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американські сенатори від Демократичної партії звернулися до фінансової компанії Cantor Fitzgerald із вимогою надати роз'яснення щодо їхніх ділових відносин із емітентом стейблкоїнів Tether. Парламентарі занепокоєні можливими ризиками для фінансової системи через популярність USDT у тіньових розрахунках. Це розслідування підкреслює посилення тиску регуляторів на криптоіндустрію та її традиційних партнерів.",
+      "ai_title": "Cantor Fitzgerald пояснює зв'язки з Tether перед сенаторами США",
+      "video_keywords": "senate hearing, politicians talking, official meeting, american flag"
     }
   ]
 }
