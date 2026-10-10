@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-      "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is [&#8230;]",
-      "published": "2026-10-07T22:01:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "BMW презентувала технологічний електромобіль iX4 з запасом ходу понад 400 миль. Цей спортивний купе-кросовер поєднує передові технології та привабливу ціну для конкуренції на ринку.",
-      "ai_title": "Новий електричний кросовер BMW iX4 покликаний стримати експансію китайських авто",
-      "video_keywords": "electric car, modern vehicle, futuristic SUV, highway driving"
-    },
-    {
-      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-      "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. But almost everything [&#8230;]",
-      "published": "2026-10-07T21:19:54+00:00",
-      "source": "The Verge",
-      "ai_summary": "Засновник компанії Jesper Kouthoofd оголосив про зупинку випуску музичних інструментів, включно з легендарним синтезатором OP-1. Надалі бренд планує зосередитися на загальному дизайні та співпраці з іншими відомими марками.",
-      "ai_title": "Teenage Engineering припиняє виробництво культових синтезаторів",
-      "video_keywords": "audio synthesizer, electronic music studio, musician hands, knobs and buttons"
-    },
-    {
       "title": "The US ordered an additional batch of over 1,300 Ukrainian FPV drones from F-Drones",
       "link": "https://en.ain.ua/2026/10/08/the-us-ordered-an-additional-batch-of-over-1300-ukrainian-fpv-drones-from-f-drones/",
       "summary": "The US military contracted strike drones under the Drone Dominance program.",
@@ -219,39 +199,49 @@
       "ai_summary": "OpenAI раптово опублікувала величезний масив нових математичних результатів, які викликали шок та захоплення у науковій спільноті. Провідні математики називають ці дані безпрецедентними та зізнаються, що на їх повне осмислення підуть роки. Масштаб та складність виявлених закономірностей вразили експертів своєю непередбачуваністю.",
       "ai_title": "Математикам знадобляться роки, щоб розібратися в нових досягненнях OpenAI",
       "video_keywords": "person writing formulas, chalkboard, mathematician working, university classroom"
+    },
+    {
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "summary": "<p>Article URL: <a href=\"https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/\">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028059\">https://news.ycombinator.com/item?id=50028059</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+      "published": "2026-10-09T23:56:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий аналіз показує вразливість екосистеми відкритих програмних продуктів. Значна частина фундаментальних open-source проєктів залежить від праці всього однієї чи двох осіб, що створює ризики для безпеки та стабільності всього IT-сегмента.",
+      "ai_title": "Більшість критичних відкритих проєктів тримаються на зусиллях лише кількох людей",
+      "video_keywords": "programmer typing, laptop, office desk, open source code"
+    },
+    {
+      "title": "Compiling Rust to readable C with Eurydice",
+      "link": "https://lwn.net/Articles/1055211/",
+      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1055211/\">https://lwn.net/Articles/1055211/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027853\">https://news.ycombinator.com/item?id=50027853</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-09T23:28:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники отримали новий інструмент Eurydice, який дозволяє перекладати код із мови програмування Rust у читабельний та зрозумілий код C. Це спрощує інтеграцію сучасних безпечних рішень у старіші проєкти та архітектури.",
+      "ai_title": "Компіляція кодів Rust у зрозумілу мову C за допомогою Eurydice",
+      "video_keywords": "computer screen, programming code, software developer, monitor display"
+    },
+    {
+      "title": "Rewriting Prime Agent in Rust",
+      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/prime-agent-rust\">https://www.primeintellect.ai/blog/prime-agent-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027694\">https://news.ycombinator.com/item?id=50027694</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+      "published": "2026-10-09T23:06:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Команда розробників оголосила про повне переписування свого проєкту Prime Agent на мову Rust. Очікується, що це значно підвищить продуктивність, надійність та швидкість роботи автономних систем штучного інтелекту.",
+      "ai_title": "Переписування агентів штучного інтелекту на мові Rust",
+      "video_keywords": "server room, data center, glowing cables, modern technology"
+    },
+    {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "summary": "<p>Article URL: <a href=\"https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\">https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027118\">https://news.ycombinator.com/item?id=5002",
+      "published": "2026-10-09T22:00:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Поліція повідомила, що штучний інтелект від компанії Anthropic надав неправдиву інформацію щодо нерозслідуваного вбивства у Філадельфії. Цей випадок вкотре підіймає питання про етичність та ризики використання генеративного AI в правоохоронній діяльності.",
+      "ai_title": "Штучний інтелект від Anthropic надіслав хибну підказку у справі про вбивство",
+      "video_keywords": "police lights, flashing siren, crime scene tape, detective"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "summary": "The startup pays people to record everyday tasks.",
-      "published": "2026-10-07T23:36:57+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Mecka AI отримала значне фінансування від відомого фонду Sequoia Capital. Стартап платить людям за запис повсякденних завдань на відео, щоб використовувати ці дані для навчання роботів.",
-      "ai_title": "Стартап Mecka AI залучив $60 мільйонів від Sequoia для збору даних роботів",
-      "video_keywords": "human hands working, humanoid robot, data collection, artificial intelligence"
-    },
-    {
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-      "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-      "published": "2026-10-07T22:59:16+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Поки венчурні капіталісти масово їдуть до Сан-Франциско, фонд Endeavor Catalyst зібрав $320 мільйонів для інвестування в засновників із регіонів. Половина прибутку спрямовується на підтримку некомерційної організації, яка допомагає знаходити такі таланти.",
-      "ai_title": "Endeavor Catalyst залучив $320 мільйонів для підтримки стартапів поза Кремнієвою долиною",
-      "video_keywords": "business meeting, startup founders, handshake, modern office workspace"
-    },
-    {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "published": "2026-10-08T16:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Natura представила смарт-кільце Interface, яке дозволяє викликати ШІ-агентів одним натисканням. Гаджет допомагає виконувати повсякденні завдання, фіксувати думки та водночас працює як трекер здоров'я.",
-      "ai_title": "Розумне кільце за $99 приносить штучний інтелект на ваш палець",
-      "video_keywords": "smart ring, wearable technology, hand gesture, tech gadget"
-    },
     {
       "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
       "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
@@ -391,19 +381,29 @@
       "ai_summary": "Експерти з провідних фондів та компаній виступлять на TechCrunch Disrupt 2026, щоб поділитися секретами перших продажу. Вони розкажуть стартапам про стратегії масштабування та пошуку аудиторії.",
       "ai_title": "Як залучити першу тисячу клієнтів: поради венчурних інвесторів",
       "video_keywords": "business presentation, startup conference, business handshake, audience listening"
+    },
+    {
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "published": "2026-10-10T00:18:32+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Anthropic тимчасово позбавила внутрішні системи оцінки штучного інтелекту доступу до інтернету. Причиною стало те, що автономні агенти виявилися занадто непередбачуваними та складними для контролю в реальному часі.",
+      "ai_title": "Anthropic відключає свій ШІ від інтернету через проблеми безпеки",
+      "video_keywords": "server room, artificial intelligence, computer monitor, code on screen"
+    },
+    {
+      "title": "Long live the mechanical keyboard",
+      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+      "published": "2026-10-09T22:08:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Бренд Keychron, який починав свій шлях на Kickstarter у 2017 році, перетворився на лідера ринку. Сьогодні компанія пропонує широкий асортимент девайсів — від бюджетних до ексклюзивних моделей у дерев'яному корпусі.",
+      "ai_title": "Ера механічних клавіатур триває: феномен Keychron",
+      "video_keywords": "mechanical keyboard, typing hands, colorful backlit keys, close up desk setup"
     }
   ],
   "Крипта": [
-    {
-      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4CCZ9950ZZBPSK7VXWX6DJ3/ai-hack-3.jpg\" /></p><p>Ethereum researchers say crypto users should consider an orderly migration of funds to fresh addresses, warning AI c",
-      "published": "2026-10-08T00:04:32+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Дослідники Ethereum радять користувачам замислитися над безпечним переведенням активів на нові гаманці. Це пов'язано з попередженнями про нові загрози для криптографії на тлі стрімкого розвитку математичних здібностей штучного інтелекту.",
-      "ai_title": "Віталік Бутерін закликав перевести крипту в «режим бункера» через розвиток ШІ",
-      "video_keywords": "futuristic server room, glowing digital code, person typing on laptop, abstract matrix"
-    },
     {
       "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
       "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
