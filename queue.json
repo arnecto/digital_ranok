@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "The US ordered an additional batch of over 1,300 Ukrainian FPV drones from F-Drones",
-      "link": "https://en.ain.ua/2026/10/08/the-us-ordered-an-additional-batch-of-over-1300-ukrainian-fpv-drones-from-f-drones/",
-      "summary": "The US military contracted strike drones under the Drone Dominance program.",
-      "published": "2026-10-08T08:57:00+00:00",
-      "source": "",
-      "ai_summary": "Американські військові уклали контракт на закупівлю ударних безпілотників українського виробництва компанії F-Drones. Закупівля відбувається в межах спеціальної оборонної програми Drone Dominance.",
-      "ai_title": "США замовили понад 1300 українських FPV-дронів",
-      "video_keywords": "fpv drone, military drone, drone flight, tech testing"
-    },
-    {
-      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude\">https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008565\">https://news.ycombinator.com/item?id=50008565</a></p>\n<p>Points: 15</p>\n<p># Comments: 10</p>",
-      "published": "2026-10-08T17:08:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic оновила правила користування своїм штучним інтелектом. Тепер політика безпеки забороняє користувачам виявляти безпідставну жорстокість або знущатися з асистента Claude.",
-      "ai_title": "Anthropic заборонила жорстоке поводження з чат-ботом Claude",
-      "video_keywords": "chatbot, typing on laptop, artificial intelligence screen, frustrated user"
-    },
-    {
       "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
       "link": "https://openrouter.ai/stepfun/step-5-preview",
       "summary": "<p>Article URL: <a href=\"https://openrouter.ai/stepfun/step-5-preview\">https://openrouter.ai/stepfun/step-5-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50007764\">https://news.ycombinator.com/item?id=50007764</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
@@ -249,6 +229,36 @@
       "ai_summary": "Розроблено простий та зручний додаток для керування завданнями, який створено не лише для людей, а й для взаємодії з автономними штучними інтелектами. Проєкт спрямований на інтеграцію повсякденного планування з можливостями сучасних AI-агентів на різних пристроях Apple.",
       "ai_title": "Новий застосунок-планувальник для iPhone, Mac та AI-агентів",
       "video_keywords": "smartphone screen, typing on laptop, minimalist desk, digital calendar"
+    },
+    {
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "summary": "<p>Article URL: <a href=\"https://www.opengroup.org//openbrand/register/\">https://www.opengroup.org//openbrand/register/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031653\">https://news.ycombinator.com/item?id=50031653</a></p>\n<p>Points: 63</p>\n<p># Comments: 47</p>",
+      "published": "2026-10-10T10:57:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Операційна система macOS від Apple була непомітно видалена з офіційного реєстру Unix організації Open Group. Це викликало обговорення в технічній спільноті щодо майбутнього статусу та сертифікації платформи. Причина таких змін поки що залишається офіційно не поясненою.",
+      "ai_title": "Apple тихо виключили з офіційного реєстру Unix",
+      "video_keywords": "computer screen, typing keyboard, apple macbook, server room"
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 58</p>\n<p># Comments: 23</p>",
+      "published": "2026-10-10T10:52:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розгорнуто новий проєкт Talorys, який дозволяє користувачам запуск власного персонального штучного інтелекту. Система працює на базі безкоштовної інфраструктури Cloudflare, забезпечуючи автономність та приватність. Це рішення орієнтоване на розробників і ентузіастів самостійного хостингу.",
+      "ai_title": "Talorys: персональний AI-агент на безкоштовному тарифі Cloudflare",
+      "video_keywords": "coding on laptop, server lights, smart home tech, person working at night"
+    },
+    {
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
+      "published": "2026-10-10T13:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "На останній конференції OpenAI презентувала нового AI-агента Dots та заявила про намір встановити нові стандарти безпеки даних. Компанія також розкритикувала конкурентів за недоліки у захисті приватності користувачів. Питання того, чи зможуть технологічні гіганти дотриматися цих обіцянок, залишається відкритим.",
+      "ai_title": "Розробники AI-агентів обіцяють конфіденційність: чи виконають обіцянку?",
+      "video_keywords": "person using smartphone, digital lock animation, data security, futuristic interface"
     }
   ],
   "Бізнес / Стартапи": [
@@ -414,46 +424,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-      "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ESMA gives crypto firms 3 months to exit non-compliant stablecoins\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DDYJS1PK890DM0QY77B65J/hi-how-to-read-a-stablecoin-attestation-report-eu-mica-1.jpg\" /></p><p>ESMA urged EU crypto firms to halt services involving non-MiCA-compliant ",
-      "published": "2026-10-08T09:42:04+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Європейський орган ESMA закликав криптофірми припинити роботу з невідповідними вимогам MiCA стейблкоїнами. Компанії мають лише три місяці на приведення своєї діяльності у відповідність до нових європейських правил.",
-      "ai_title": "Єврорегулятор дав криптокомпаніям 3 місяці на відмову від нелегітимних стейблкоїнів",
-      "video_keywords": "eu flag, financial regulation, computer monitor, business meeting"
-    },
-    {
-      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
-      "link": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NEAR enters crypto’s top 20 after 140% surge in 30 days\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D89SE8351ZX3MBGPAJ0YKW/top-20.png\" /></p><p>NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR Intents surpassed $31 billion in cumulative transactio",
-      "published": "2026-10-08T08:17:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалюта NEAR піднялася у двадцятку найбільших за ринковою капіталізацією завдяки стрибку курсу на 140% за місяць. Обсяги транзакцій через екосистему перевищили 31 мільярд доларів.",
-      "ai_title": "Токен NEAR увійшов до топ-20 криптовалют після стрімкого зростання",
-      "video_keywords": "stock market chart, digital growth, green arrows, trading monitor"
-    },
-    {
-      "title": "Standard Chartered plans institutional crypto custody in Singapore",
-      "link": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Standard Chartered plans institutional crypto custody in Singapore\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D5M8YGHAPX4VAG5QCCZDDF/sponsored-marina-bay-sand-singapore-light-water-stablecoin.jpg\" /></p><p>Standard Chartered plans custody for cryptocurrencies, stablecoins and ",
-      "published": "2026-10-08T08:08:03+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Банківський гігант Standard Chartered розширює послуги зі зберігання криптовалют та цифрових активів на інституційному рівні у Сінгапурі. Це рішення спрямоване на залучення корпоративних клієнтів до легального крипторинку.",
-      "ai_title": "Standard Chartered запускає кастомізацію криптоактивів у Сінгапурі",
-      "video_keywords": "singapore skyline, modern bank building, financial district, corporate office"
-    },
-    {
-      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Bitcoin ETFs shed $485M in biggest daily outflow since June\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4D50JPZN9J6RZ7XKC5FMJCE/485.png\" /></p><p>Bitcoin ETFs erased October’s net inflows with $485 million in withdrawals, while Ether funds logged a seventh straight outflow se",
-      "published": "2026-10-08T07:30:42+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Біткоїн-фонди в США зафіксували найбільший відтік капіталу з червня, втративши 485 мільйонів доларів за добу. На тлі цього загальне ралі цін на біткоїн тимчасово зупинилося.",
-      "ai_title": "Американські біткоїн-ETF втратили майже пів мільярда доларів за день",
-      "video_keywords": "stock exchange display, falling chart, financial crisis, red numbers"
-    },
     {
       "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
       "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
@@ -703,6 +673,46 @@
       "ai_summary": "",
       "ai_title": "У блокчейні XRP виявили та усунули десятирічну вразливість",
       "video_keywords": "cyber security code, hacker computer screen, digital lock data stream"
+    },
+    {
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "summary": "",
+      "published": "2026-10-10T12:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Рік тому крипторинок пережив різкий обвал, який коштував інвесторам мільярдів. Наразі основні криптовалюти відновили ліквідність, проте альтернативні монети досі залишаються в зоні ризику.",
+      "ai_title": "Рівень ліквідності Bitcoin та Ethereum відновився після масштабного обвалу",
+      "video_keywords": "bitcoin chart, crypto trading screen, financial market data"
+    },
+    {
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "summary": "",
+      "published": "2026-10-10T12:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Ринок токенізованих активів стрімко розвивається та освоює нові ніші. Окрім звичного золота, тепер до сфери кредитування та блокчейну активно інтегрують нафту.",
+      "ai_title": "Токенізовані сировинні активи виходять за межі золота",
+      "video_keywords": "oil barrel, commodity trading, gold bars, financial technology"
+    },
+    {
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "summary": "",
+      "published": "2026-10-10T11:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Минуло рівно 12 місяців після шокового обвалу ринку на мільярди доларів. Експерти аналізують, чи зробили інвестори та біржі висновки з цієї масштабної кризи.",
+      "ai_title": "Уроки криптокраху на 19 мільярдів доларів: чи змінився ринок за рік",
+      "video_keywords": "stock market crash, stressed trader, digital charts falling"
+    },
+    {
+      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Justin Sun says Tron’s post-quantum cryptography has gone live on testnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JTDX55MBW63WXCMHPNB3P5/justin-sun.png\" /></p><p>“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.</p>",
+      "published": "2026-10-10T11:52:14+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Команда блокчейну Tron оголосила про успішний запуск постквантового захисту в тестовому середовищі. Розробники запевняють, що мережа повністю готова до переходу на новий рівень безпеки.",
+      "ai_title": "Tron запустив постквантову криптографію у тестовій мережі",
+      "video_keywords": "cyber security, futuristic digital code, quantum computing server"
     }
   ]
 }
