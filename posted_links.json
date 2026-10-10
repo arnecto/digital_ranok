@@ -1,12 +1,4 @@
 {
-  "https://blogs.lupyd.com/blog/postgres-with-quic/": {
-    "title": "Postgres тепер працює з протоколом QUIC",
-    "category": "IT / AI",
-    "posted_at": "2026-10-02T08:24:19.550281+03:00",
-    "summary": "Розробники реалізували підтримку мережевого протоколу QUIC для бази даних PostgreSQL. Це дозволяє прискорити передачу даних та зменшити затримки при мережевих з'єднаннях. Нововведення особливо корисне для розподілених систем та хмарних архітектур.",
-    "video_keywords": "server rack, datacenter, glowing cables, computer screen",
-    "link": "https://blogs.lupyd.com/blog/postgres-with-quic/"
-  },
   "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/": {
     "title": "Космічний стартап залучив $5 млн для страхування у космосі",
     "category": "Бізнес / Стартапи",
@@ -302,5 +294,13 @@
     "summary": "Компанія Natura представила смарт-кільце Interface, яке дозволяє викликати ШІ-агентів одним натисканням. Гаджет допомагає виконувати повсякденні завдання, фіксувати думки та водночас працює як трекер здоров'я.",
     "video_keywords": "smart ring, wearable technology, hand gesture, tech gadget",
     "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+  },
+  "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones": {
+    "title": "Samsung інтегрує стейблкоїн USDC для мільйонів користувачів Galaxy",
+    "category": "Крипта",
+    "posted_at": "2026-10-10T09:54:52.832275+03:00",
+    "summary": "Компанія Samsung додає підтримку USDC у свій гаманець для користувачів у США. Це дозволить здійснювати міжнародні грошові перекази та виводити кошти на банківські рахунки у понад 60 країн.",
+    "video_keywords": "smartphone screen, mobile payment, digital wallet, person tapping phone",
+    "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones"
   }
 }
