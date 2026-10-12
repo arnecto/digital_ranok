@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
-      "summary": "<p>Article URL: <a href=\"https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/\">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028059\">https://news.ycombinator.com/item?id=50028059</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
-      "published": "2026-10-09T23:56:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий аналіз показує вразливість екосистеми відкритих програмних продуктів. Значна частина фундаментальних open-source проєктів залежить від праці всього однієї чи двох осіб, що створює ризики для безпеки та стабільності всього IT-сегмента.",
-      "ai_title": "Більшість критичних відкритих проєктів тримаються на зусиллях лише кількох людей",
-      "video_keywords": "programmer typing, laptop, office desk, open source code"
-    },
-    {
-      "title": "Compiling Rust to readable C with Eurydice",
-      "link": "https://lwn.net/Articles/1055211/",
-      "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1055211/\">https://lwn.net/Articles/1055211/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027853\">https://news.ycombinator.com/item?id=50027853</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-10-09T23:28:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники отримали новий інструмент Eurydice, який дозволяє перекладати код із мови програмування Rust у читабельний та зрозумілий код C. Це спрощує інтеграцію сучасних безпечних рішень у старіші проєкти та архітектури.",
-      "ai_title": "Компіляція кодів Rust у зрозумілу мову C за допомогою Eurydice",
-      "video_keywords": "computer screen, programming code, software developer, monitor display"
-    },
-    {
-      "title": "Rewriting Prime Agent in Rust",
-      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/prime-agent-rust\">https://www.primeintellect.ai/blog/prime-agent-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027694\">https://news.ycombinator.com/item?id=50027694</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-      "published": "2026-10-09T23:06:25+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Команда розробників оголосила про повне переписування свого проєкту Prime Agent на мову Rust. Очікується, що це значно підвищить продуктивність, надійність та швидкість роботи автономних систем штучного інтелекту.",
-      "ai_title": "Переписування агентів штучного інтелекту на мові Rust",
-      "video_keywords": "server room, data center, glowing cables, modern technology"
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "summary": "<p>Article URL: <a href=\"https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\">https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027118\">https://news.ycombinator.com/item?id=5002",
-      "published": "2026-10-09T22:00:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Поліція повідомила, що штучний інтелект від компанії Anthropic надав неправдиву інформацію щодо нерозслідуваного вбивства у Філадельфії. Цей випадок вкотре підіймає питання про етичність та ризики використання генеративного AI в правоохоронній діяльності.",
-      "ai_title": "Штучний інтелект від Anthropic надіслав хибну підказку у справі про вбивство",
-      "video_keywords": "police lights, flashing siren, crime scene tape, detective"
-    },
-    {
       "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
       "link": "https://ilia.page/writing/introducing-nagare",
       "summary": "<p>Article URL: <a href=\"https://ilia.page/writing/introducing-nagare\">https://ilia.page/writing/introducing-nagare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029607\">https://news.ycombinator.com/item?id=50029607</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
@@ -259,19 +219,59 @@
       "ai_summary": "Навчальний заклад спробував скасувати угоду з компанією Flock Safety через побоювання щодо передачі даних правоохоронцям та слабкий захист систем. Проте компанія фактично відмовилася розривати контракт, що викликало скандал навколо приватності.",
       "ai_title": "Коледж в Іллінойсі не зміг розірвати контракт із виробником камер спостереження",
       "video_keywords": "security camera, cctv operating, modern college campus, digital surveillance"
+    },
+    {
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "link": "https://tedhaley.ca/pensieve/",
+      "summary": "<p>Article URL: <a href=\"https://tedhaley.ca/pensieve/\">https://tedhaley.ca/pensieve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049508\">https://news.ycombinator.com/item?id=50049508</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-12T00:03:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий підхід до локальної індексації дозволяє суттєво зменшити витрати токенів та оптимізувати виклики інструментів штучним інтелектом. Це робить роботу з великими мовними моделями більш ефективною та дешевою для розробників.",
+      "ai_title": "Локальна індексація для економії токенів ШІ",
+      "video_keywords": "server rack, computer code, developer typing, digital screen"
+    },
+    {
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "link": "https://github.com/plimsollmark/plimsoll",
+      "summary": "<p>Article URL: <a href=\"https://github.com/plimsollmark/plimsoll\">https://github.com/plimsollmark/plimsoll</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049388\">https://news.ycombinator.com/item?id=50049388</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+      "published": "2026-10-11T23:47:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий ізольований пісочний програмний блок (sandbox) під назвою Plimsoll для безпечного виконання коду, який генерують штучні інтелект-агенти. Це допомагає уникнути потенційних загроз та уразливостей при автоматичному написанні програм.",
+      "ai_title": "Безпечне середовище для коду від ШІ-агентів",
+      "video_keywords": "cyber security, programming code, hacker screen, digital padlock"
+    },
+    {
+      "title": "Fingerprints Are the New Cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "summary": "<p>Article URL: <a href=\"https://royfish.dev/fingerprints-are-the-new-cookies\">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048642\">https://news.ycombinator.com/item?id=50048642</a></p>\n<p>Points: 39</p>\n<p># Comments: 15</p>",
+      "published": "2026-10-11T22:33:39+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технології цифрового відбитка (fingerprinting) стають новим стандартом для відстеження користувачів в інтернеті замість традиційних файлів cookie. Це викликає занепокоєння щодо конфіденційності, оскільки такі методи набагато складніше заблокувати.",
+      "ai_title": "Цифровий відбиток браузера замінює файли cookie",
+      "video_keywords": "fingertip scanner, biometric security, digital screen, user tracking"
+    },
+    {
+      "title": "Recursive self-improvement through collective intelligence",
+      "link": "https://pub.sakana.ai/mass/",
+      "summary": "<p>Article URL: <a href=\"https://pub.sakana.ai/mass/\">https://pub.sakana.ai/mass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048522\">https://news.ycombinator.com/item?id=50048522</a></p>\n<p>Points: 40</p>\n<p># Comments: 13</p>",
+      "published": "2026-10-11T22:22:10+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники представили концепцію рекурсивного самовдосконалення ШІ на основі колективного інтелекту. Такий підхід дозволяє моделям навчатися та розвиватися самостійно, об'єднуючи зусилля багатьох агентів.",
+      "ai_title": "Рекурсивне самовдосконалення штучного інтелекту",
+      "video_keywords": "artificial intelligence network, neural network, glowing nodes, digital brain"
+    },
+    {
+      "title": "Passkeys are a trap. Do not use them",
+      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "summary": "<p>Article URL: <a href=\"https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them\">https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048312\">https://news.ycombinator.com/item?id=50048312</a></p>\n<p>Points: 185</p>\n<p># Comments: 93</p>",
+      "published": "2026-10-11T21:59:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти з безпеки попереджають про приховані ризики використання технології безпарольного входу (passkeys) та закликають з обережністю ставитися до її впровадження. Головна проблема полягає у складності відновлення доступу у разі втрати пристрою.",
+      "ai_title": "Чому паскеї можуть стати пасткою для користувачів",
+      "video_keywords": "smartphone lock screen, security warning, cyber padlock, frustrated user"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Long live the mechanical keyboard",
-      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-      "published": "2026-10-09T22:08:24+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Бренд Keychron, який починав свій шлях на Kickstarter у 2017 році, перетворився на лідера ринку. Сьогодні компанія пропонує широкий асортимент девайсів — від бюджетних до ексклюзивних моделей у дерев'яному корпусі.",
-      "ai_title": "Ера механічних клавіатур триває: феномен Keychron",
-      "video_keywords": "mechanical keyboard, typing hands, colorful backlit keys, close up desk setup"
-    },
     {
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
@@ -385,16 +385,6 @@
   ],
   "Крипта": [
     {
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "summary": "",
-      "published": "2026-10-10T05:43:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Волатильність першої криптовалюти суттєво знизилася порівняно з минулими роками, проте екстремальні коливання курсу тепер відбуваються частіше, ніж у 2018 році. Це вказує на зміни у структурі ринку та поведінці трейдерів.",
-      "ai_title": "Волатильність біткоїна впала, але різкі стрибки цін сталися частіше",
-      "video_keywords": "stock market chart, cryptocurrency graphs, digital currency trading screen"
-    },
-    {
       "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
       "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
       "summary": "",
@@ -483,6 +473,16 @@
       "ai_summary": "Невдача платформи Clarity здатна дати поштовх новим технологічним рішенням у секторі цифрових активів. Водночас це може посилити позиції вже наявних великих гравців у цій індустрії.",
       "ai_title": "Крах проєкту Clarity може прискорити інновації на криוринку",
       "video_keywords": "futuristic technology, digital network, cyber security, server room"
+    },
+    {
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png\" /></p><p>An user reports buying a tampered Ledger from a big retailer in Europe. Security researcher",
+      "published": "2026-10-11T22:57:53+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "У Європі зафіксували випадок купівлі зламаного апаратного гаманця Ledger у великому роздрібному магазині. Водночас дослідники безпеки за допомогою штучного інтелекту виявили критичну вразливість у мережі XRP, що дозволило виявити аномалію на мільярди токенів.",
+      "ai_title": "Атака на гаманці Ledger дісталася Європи, а штучний інтелект знайшов баг на трильйони XRP",
+      "video_keywords": "cryptocurrency hardware wallet, digital security breach, hacker typing on laptop, futuristic city digital grid"
     }
   ]
 }
