@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "link": "https://github.com/rociiu/talorys",
-      "summary": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 58</p>\n<p># Comments: 23</p>",
-      "published": "2026-10-10T10:52:09+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розгорнуто новий проєкт Talorys, який дозволяє користувачам запуск власного персонального штучного інтелекту. Система працює на базі безкоштовної інфраструктури Cloudflare, забезпечуючи автономність та приватність. Це рішення орієнтоване на розробників і ентузіастів самостійного хостингу.",
-      "ai_title": "Talorys: персональний AI-агент на безкоштовному тарифі Cloudflare",
-      "video_keywords": "coding on laptop, server lights, smart home tech, person working at night"
-    },
-    {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
-      "published": "2026-10-10T13:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "На останній конференції OpenAI презентувала нового AI-агента Dots та заявила про намір встановити нові стандарти безпеки даних. Компанія також розкритикувала конкурентів за недоліки у захисті приватності користувачів. Питання того, чи зможуть технологічні гіганти дотриматися цих обіцянок, залишається відкритим.",
-      "ai_title": "Розробники AI-агентів обіцяють конфіденційність: чи виконають обіцянку?",
-      "video_keywords": "person using smartphone, digital lock animation, data security, futuristic interface"
-    },
-    {
-      "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
-      "link": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
-      "summary": "<p>Article URL: <a href=\"https://wsj.com/tech/ai/tom-brown-athropic-669005ad\">https://wsj.com/tech/ai/tom-brown-athropic-669005ad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50033678\">https://news.ycombinator.com/item?id=50033678</a></p>\n<p>Points: 56</p>\n<p># Comments: 2</p>",
-      "published": "2026-10-10T15:04:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розслідування викриває деталі масштабних домовленостей щодо забезпечення обчислювальних потужностей для SpaceX. Угоду на мільярди доларів було укладено за участі впливових політичних зв'язків. Це підкреслює зростаючу потребу космічної індустрії в потужних штучних інтелектах та обчисленнях.",
-      "ai_title": "Мільярдні угоди у сфері суперкомп'ютерів для SpaceX",
-      "video_keywords": "server room, supercomputer, data center, futuristic technology"
-    },
-    {
       "title": "Ledger wallet tampering suspected after reports of crypto thefts",
       "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
       "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained [&#8230;]",
@@ -269,19 +239,59 @@
       "ai_summary": "Експерти обговорюють перспективи виходу мобільних операційних систем на базі Linux на широкий ринок смартфонів. Домінування дуополії Android та iOS робить появу незалежних альтернатив надзвичайно складною, проте цікавою для ентузіастів. Головними викликами залишаються екосистема додатків та підтримка обладнання.",
       "ai_title": "Чи зможуть Linux-телефони стати реальною альтернативою Android та iOS?",
       "video_keywords": "person holding smartphone, mobile screen, typing on phone, modern device"
+    },
+    {
+      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+      "link": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+      "summary": "<p>Article URL: <a href=\"https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html\">https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057956\">https://news.ycombinator.com/item?id=50057956</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+      "published": "2026-10-12T15:36:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Французькі мережі супермаркетів зіткнулися з безпрецедентною кібератакою, яка спричинила масове вимкнення холодильного обладнання. Інцидент завдав серйозних збитків логістиці та змусив компанії терміново шукати способи захисту інфраструктури.",
+      "ai_title": "Кібератака у Франції зупинила роботу холодильників у супермаркетах",
+      "video_keywords": "supermarket refrigerators, cyber attack, computer screen, data center"
+    },
+    {
+      "title": "Why aren't AI companies being charged for hacking?",
+      "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "summary": "<p>Article URL: <a href=\"https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/\">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057278\">https://news.ycombinator.com/item?id=50057278</a></p>\n<p>Points: 221</p>\n<p># Comments: 187</p>",
+      "published": "2026-10-12T14:52:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти обговорюють правові прогалини навколо збору даних великими мовними моделями. Виникає гостре питання, чи варто прирівнювати несанкціоноване копіювання захищеного контенту для тренування ШІ до класичного кіберзлому.",
+      "ai_title": "Чому компанії у сфері штучного інтелекту досі не звинувачують у хакерстві?",
+      "video_keywords": "programmer typing, code on screen, server room, artificial intelligence"
+    },
+    {
+      "title": "Deep dive into Azure Maia 300 architecture",
+      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+      "summary": "<p>Article URL: <a href=\"https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/\">https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057185\">https://news.ycombinator.com/item?id=50057185</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+      "published": "2026-10-12T14:45:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Microsoft розкрила деталі архітектури свого спеціалізованого процесора Azure Maia 300, створеного для навантажень штучного інтелекту. Цей чіп покликаний оптимізувати хмарні обчислення та підвищити ефективність роботи великих нейромереж.",
+      "ai_title": "Технічний огляд архітектури нового чіпа Azure Maia 300 від Microsoft",
+      "video_keywords": "microchip, computer hardware, motherboard, electronics laboratory"
+    },
+    {
+      "title": "The Yandex outage probably didn’t blitz Russian bots",
+      "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline [&#8230;]",
+      "published": "2026-10-12T15:43:07+00:00",
+      "source": "The Verge",
+      "ai_summary": "Нещодавні атаки на дата-центри в РФ та перебої в роботі сервісів суттєво знизили активність онлайн-ботів. Проте аналітики зазначають, що реальна структура ботоферм виявилася стійкішою, ніж показували графіки у соцмережах.",
+      "ai_title": "Збій у Яндексі не зміг остаточно зупинити російські бот-мережі",
+      "video_keywords": "server racks, flashing lights, digital analytics, matrix code"
+    },
+    {
+      "title": "No Man’s Sky is coming to the iPhone and iPad",
+      "link": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+      "summary": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of [&#8230;]",
+      "published": "2026-10-12T14:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Студія Hello Games оголосила про порт масштабного науково-фантастичного симулятора виживання на пристрої під управлінням iOS. Реліз мобільної версії для iPhone та iPad заплановано на кінець жовтня.",
+      "ai_title": "Культова гра No Man’s Sky виходить на iPhone та iPad",
+      "video_keywords": "playing tablet, mobile gaming, touchscreen, smartphone gaming"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "published": "2026-10-10T17:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Petra Power створює надзвичайно ефективні паливні елементи, які знижують витрати на енергію в період гострого дефіциту електроенергії в технологічному секторі. Технологія орієнтована на модернізацію енергопостачання як для центрів обробки даних, так і для військового транспорту.",
-      "ai_title": "Стартап Petra Power розробляє нові паливні елементи для дата-центрів",
-      "video_keywords": "fuel cell, data center, server racks, modern laboratory"
-    },
     {
       "title": "Cloudflare acquires Deno to improve its Workers programming model",
       "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
@@ -291,16 +301,6 @@
       "ai_summary": "Компанія Cloudflare оголосила про придбання платформи Deno. Ця угода спрямована на покращення середовища програмування та платформи Cloudflare Workers, що дозволить розробникам створювати додатки ще ефективніше.",
       "ai_title": "Cloudflare купує платформу Deno для вдосконалення Workers",
       "video_keywords": "programmer typing, computer screen, software code, tech office"
-    },
-    {
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-      "published": "2026-10-10T15:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Масштабна технологічна подія TechCrunch Disrupt 2026 пройде з 13 по 15 жовтня у Сан-Франциско. Понад 300 стартапів продемонструють свої інновації для 10 000 лідерів індустрії та 250 спікерів.",
-      "ai_title": "До TechCrunch Disrupt 2026 залишається три дні",
-      "video_keywords": "tech conference, presentation stage, audience clapping, exhibition hall"
     },
     {
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
@@ -381,49 +381,59 @@
       "ai_summary": "Компанія Apple планує презентувати новий хаб для розумного дому під назвою HomeView. Це може стати першою успішною спробою технологічного гіганта закріпитися на ринку домашніх смарт-пристроїв.",
       "ai_title": "Apple готує до запуску новий пристрій для розумного дому",
       "video_keywords": "smart home hub, tablet interface, modern living room, apple device"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "published": "2026-10-12T15:27:59+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Blueprints AI розробив програмне забезпечення, яке здатне генерувати готові до видачі дозволів будівельні креслення на основі фотографій, PDF-файлів або ескізів. Технологія покликана суттєво прискорити та спростити процес проєктування для будівельної галузі.",
+      "ai_title": "Штучний інтелект створює будівельні креслення за лічені хвилини",
+      "video_keywords": "blueprint, architect drawing, construction plans, engineer office"
+    },
+    {
+      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+      "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+      "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+      "published": "2026-10-12T14:09:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Виробник розумних каблучок Ultrahuman об'єднується з владою Абу-Дабі для впровадження моделі біологічного віку. Протягом наступних двох років компанії проводитимуть масштабні дослідження та клінічну валідацію цієї технології здоров'я.",
+      "ai_title": "Ultrahuman запускає інноваційну модель біологічного віку в ОАЕ",
+      "video_keywords": "smart ring, wearable tech, health tracking, fitness app"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "published": "2026-10-12T15:31:19+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Президент Microsoft Бред Сміт заявив про необхідність жорсткішого контролю над сферою ШІ. За його словами, наразі побутова техніка та повсякденні товари підлягають більшому нагляду, ніж компанії, що розробляють штучний інтелект.",
+      "ai_title": "Microsoft закликає до термінового регулювання штучного інтелекту",
+      "video_keywords": "business meeting, press conference, corporate executive, tech speech"
+    },
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "summary": "Could AI actually make PR better?",
+      "published": "2026-10-12T15:45:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Honeyjar пропонує штучний інтелект для оптимізації роботи піар-відділів та комунікаційних стратегій у компаніях будь-якого масштабу. Інструмент допомагає ефективніше створювати контент та взаємодіяти з аудиторією.",
+      "ai_title": "Нові AI-інструменти для покращення PR та корпоративних комунікацій",
+      "video_keywords": "office laptop, typing on keyboard, digital marketing, business analytics"
+    },
+    {
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+      "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+      "published": "2026-10-12T15:11:19+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Google випустила новий носимий гаджет вартістю $179.99, який поєднує в собі витончений дизайн моделі Fitbit Air та яскравий OLED-дисплей. Пристрій займає проміжне положення між бюджетними трекерами та преміальними смартгодинниками.",
+      "ai_title": "Google представив новий розумний годинник Fitbit Edge",
+      "video_keywords": "smartwatch display, wearable gadget, fitness tracker, touching screen"
     }
   ],
   "Крипта": [
-    {
-      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-      "summary": "",
-      "published": "2026-10-10T12:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Рік тому крипторинок пережив різкий обвал, який коштував інвесторам мільярдів. Наразі основні криптовалюти відновили ліквідність, проте альтернативні монети досі залишаються в зоні ризику.",
-      "ai_title": "Рівень ліквідності Bitcoin та Ethereum відновився після масштабного обвалу",
-      "video_keywords": "bitcoin chart, crypto trading screen, financial market data"
-    },
-    {
-      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-      "summary": "",
-      "published": "2026-10-10T12:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ринок токенізованих активів стрімко розвивається та освоює нові ніші. Окрім звичного золота, тепер до сфери кредитування та блокчейну активно інтегрують нафту.",
-      "ai_title": "Токенізовані сировинні активи виходять за межі золота",
-      "video_keywords": "oil barrel, commodity trading, gold bars, financial technology"
-    },
-    {
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "summary": "",
-      "published": "2026-10-10T11:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Минуло рівно 12 місяців після шокового обвалу ринку на мільярди доларів. Експерти аналізують, чи зробили інвестори та біржі висновки з цієї масштабної кризи.",
-      "ai_title": "Уроки криптокраху на 19 мільярдів доларів: чи змінився ринок за рік",
-      "video_keywords": "stock market crash, stressed trader, digital charts falling"
-    },
-    {
-      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Justin Sun says Tron’s post-quantum cryptography has gone live on testnet\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JTDX55MBW63WXCMHPNB3P5/justin-sun.png\" /></p><p>“We’re ready to bring quantum resistance to mainnet at any time,” Sun said in a post on X.</p>",
-      "published": "2026-10-10T11:52:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Команда блокчейну Tron оголосила про успішний запуск постквантового захисту в тестовому середовищі. Розробники запевняють, що мережа повністю готова до переходу на новий рівень безпеки.",
-      "ai_title": "Tron запустив постквантову криптографію у тестовій мережі",
-      "video_keywords": "cyber security, futuristic digital code, quantum computing server"
-    },
     {
       "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
       "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -493,6 +503,36 @@
       "ai_summary": "Французькі законодавці схвалили обов'язкове декларування криптовалютних гаманців вартістю понад 112 000 євро. Власникам незадекларованих активів загрожують штрафи до 10 000 євро.",
       "ai_title": "У Франції підтримали нові правила звітності для великих криптогаманців",
       "video_keywords": "parliament building, politicians meeting, european flag, legal documents"
+    },
+    {
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "summary": "",
+      "published": "2026-10-12T15:27:09+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Відомий аналітик Том Лі вважає, że масштабний перерозподіл капіталу на суму 2 трильйони доларів суттєво підштовхне попит на криптовалюту. Це відбувається на тлі активного накопичення Ethereum компанією Bitmine.",
+      "ai_title": "Том Лі прогнозує масовий притік капіталу в крипту",
+      "video_keywords": "cryptocurrency trading, digital coins, financial chart, stock market screen"
+    },
+    {
+      "title": "XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print",
+      "link": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R2M78QA8KZ200MJ7SRZ0MQ/hi-how-xrps-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg\" /></p><p>Evernorth’s share price rose by 5% as investors welcomed the",
+      "published": "2026-10-12T14:18:49+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Акції казначейства XRP під назвою Evernorth демонструють позитивну динаміку на фондовому ринку. Під час відкриття торгів на біржі Nasdaq їхня вартість підскочила на 5% завдяки оптимізму інвесторів.",
+      "ai_title": "Акції XRP-фонду Evernorth зросли на біржі Nasdaq",
+      "video_keywords": "nasdaq building, stock exchange floor, digital trading board, financial district"
+    },
+    {
+      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+      "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4R688Z9BFT3CGH1NFQ6QZ8X/hi-ledger3.jpg\" /></p><p>The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs ar",
+      "published": "2026-10-12T14:07:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Виявлення несанкצιонованого апаратного чіпа в пристроях Ledger знову розпалило дискусії про безпеку. Експерти обговорюють, чи є біржові фонди Bitcoin надійнішою альтернативою самостійному зберіганню.",
+      "ai_title": "Скандал з апаратними гаманцями Ledger похитнув довіру до криптозберігання",
+      "video_keywords": "hardware wallet, microchip soldering, digital security, computer circuit board"
     }
   ]
 }
