@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "AI agents in a stand-up call",
-      "link": "https://atoll92.github.io/agent-standup/",
-      "summary": "<p>Article URL: <a href=\"https://atoll92.github.io/agent-standup/\">https://atoll92.github.io/agent-standup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50039630\">https://news.ycombinator.com/item?id=50039630</a></p>\n<p>Points: 14</p>\n<p># Comments: 9</p>",
-      "published": "2026-10-11T03:42:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники створили експериментальну систему, де автономні агенти зі штучним інтелектом імітують щоденні стендап-зустрічі. Вони обговорюють робочі завдання, звітують про прогрес та взаємодіють між собою без участі людей.",
-      "ai_title": "Штучний інтелект влаштовує ранкові робочі наради",
-      "video_keywords": "office meeting, robot handshake, digital avatar, conference room"
-    },
-    {
-      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
-      "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=XiZmM6hwwAU\">https://www.youtube.com/watch?v=XiZmM6hwwAU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50039536\">https://news.ycombinator.com/item?id=50039536</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
-      "published": "2026-10-11T03:21:07+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Ентузіаст зміг запустити культову портативну консоль GameBoy на базі мікроконтролера ESP32 та екрана з електронного паперу. Проєкт демонструє вражаючу для такої технології плавність зображення у 30 кадрів за секунду.",
-      "ai_title": "GameBoy запустили на е-папері з кадрами 30 FPS",
-      "video_keywords": "retro gaming, handheld console, electronic paper, circuit board"
-    },
-    {
       "title": "AI is creating a 'human premium' for art created by people",
       "link": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
       "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5vgjm3gk7rzo\">https://www.bbc.com/news/articles/c5vgjm3gk7rzo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042107\">https://news.ycombinator.com/item?id=50042107</a></p>\n<p>Points: 36</p>\n<p># Comments: 27</p>",
@@ -269,6 +249,36 @@
       "ai_summary": "Запущено новий цікавий проєкт Brickbrag, який дозволяє користувачам будувати віртуальні світи з блоків просто у браузері. Гра підтримує багатокористувацький режим для спільної творчості у реальному часі. Це легкий та доступний спосіб поринути у ностальгійний процес конструювання.",
       "ai_title": "Brickbrag: браузерний мультиплеєрний світ з кубиків",
       "video_keywords": "plastic blocks, building toys, hands playing, colorful bricks"
+    },
+    {
+      "title": "Strengthening our defenses against distillation attacks",
+      "link": "https://www.anthropic.com/research/distillation-defenses",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/distillation-defenses\">https://www.anthropic.com/research/distillation-defenses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50065553\">https://news.ycombinator.com/item?id=50065553</a></p>\n<p>Points: 13</p>\n<p># Comments: 20</p>",
+      "published": "2026-10-13T01:46:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic презентувала нові дослідження та методи захисту штучного інтелекту від атак дистиляції. Ці заходи допоможуть розробникам ефективніше захищати свої великі мовні моделі від несанкціонованого копіювання знань конкурентами.",
+      "ai_title": "Anthropic посилює захист моделей ШІ від атак дистиляції",
+      "video_keywords": "server room, cybersecurity shield, data center, futuristic interface"
+    },
+    {
+      "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
+      "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+      "summary": "<p>Article URL: <a href=\"https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/\">https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50065805\">https://news.ycombinator.com/item?id=50065805</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
+      "published": "2026-10-13T02:25:00+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Згідно з новими даними за 2024 рік, Китай уперше посів перше місце у світі за обсягом інвестицій у наукові дослідження та розробки (R&D). Це свідчить про зміну глобального балансу сил у сфері високих технологій та інновацій.",
+      "ai_title": "Китай вперше випередив США за витратами на дослідження та розробки",
+      "video_keywords": "modern skyscrapers, neon lights, financial district, city traffic"
+    },
+    {
+      "title": "Leaving Tech",
+      "link": "https://ryanbigg.com/2026/10/leaving-tech",
+      "summary": "<p>Article URL: <a href=\"https://ryanbigg.com/2026/10/leaving-tech\">https://ryanbigg.com/2026/10/leaving-tech</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50065892\">https://news.ycombinator.com/item?id=50065892</a></p>\n<p>Points: 93</p>\n<p># Comments: 69</p>",
+      "published": "2026-10-13T02:39:35+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярний розробник поділився відвертими роздумами про причини свого виходу з ІТ-галузі. Стаття порушує проблеми професійного вигорання, токсичності середовища та перенасичення ринку сучасними технологіями.",
+      "ai_title": "Чому талановиті розробники залишають технологічну індустрію",
+      "video_keywords": "person closing laptop, empty desk, tired worker, window view"
     }
   ],
   "Бізнес / Стартапи": [
@@ -483,6 +493,36 @@
       "ai_summary": "Збанкрутіла криптовалютна біржа FTX раніше придбала частку в компанії Genesis Digital Assets. Тепер ці інфраструктурні потужності та колишнє майнінгове обладнання планують використовувати для розвитку технологій штучного інтелекту.",
       "ai_title": "Майнінгові потужності збанкрутілої FTX переорієнтують на штучний інтелект",
       "video_keywords": "server room, computer servers, data center, artificial intelligence"
+    },
+    {
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea moves to block 27 crypto websites, including KuCoin, MEXC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SJ32T5MFAHM21PB498EN3Q/korea-website-block.jpg\" /></p><p>Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers ",
+      "published": "2026-10-13T02:41:30+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Регулятори Південної Кореї ухвалили рішення про блокування 27 криптовалютних вебсайтів, серед яких опинилися такі відомі платформи, як KuCoin та MEXC. Обмеження спрямовані проти незареєстрованих бірж, що працюють поза межами місцевого законодавства.",
+      "ai_title": "Південна Корея блокує популярні криптобіржі",
+      "video_keywords": "smartphone screen, internet censorship, digital lock, computer monitor"
+    },
+    {
+      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+      "link": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Meta claims new Muse Wonder AI models rival OpenAI, Anthropic\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SEQQ4N93A3WPX8RG9DRBAR/meta.jpg\" /></p><p>Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”</p>",
+      "published": "2026-10-13T01:54:31+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Meta анонсувала нові ШІ-моделі Muse Wonder, які, за словами розробників, здатні конкурувати з технологіями OpenAI та Anthropic. Марк Цукерберг зазначив, що це важливий крок на шляху до створення персонального суперінтелекту.",
+      "ai_title": "Meta представила нові моделі штучного інтелекту",
+      "video_keywords": "futuristic interface, server rack, glowing data, artificial intelligence animation"
+    },
+    {
+      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+      "link": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SBPCTGPG3FDASX5ZEZCYYW/aptos.jpg\" /></p><p>The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending",
+      "published": "2026-10-13T00:52:52+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Блокчейн-мережа Aptos впроваджує функцію зашифрованого мемпулу для захисту користувачів від маніпуляцій та атак типу \"сендвіч\". Новий інструмент приховує деталі транзакцій до фіналізації, не даючи ботам можливості заробляти на чужих угодах.",
+      "ai_title": "Aptos запускає зашифрований мемпул проти ботів",
+      "video_keywords": "cyber security, digital code, modern computer screen, encryption tech"
     }
   ]
 }
