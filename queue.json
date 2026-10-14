@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "link": "https://github.com/plimsollmark/plimsoll",
-      "summary": "<p>Article URL: <a href=\"https://github.com/plimsollmark/plimsoll\">https://github.com/plimsollmark/plimsoll</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049388\">https://news.ycombinator.com/item?id=50049388</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-      "published": "2026-10-11T23:47:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий ізольований пісочний програмний блок (sandbox) під назвою Plimsoll для безпечного виконання коду, який генерують штучні інтелект-агенти. Це допомагає уникнути потенційних загроз та уразливостей при автоматичному написанні програм.",
-      "ai_title": "Безпечне середовище для коду від ШІ-агентів",
-      "video_keywords": "cyber security, programming code, hacker screen, digital padlock"
-    },
-    {
       "title": "Yandex bot traffic down 99% after data center attack",
       "link": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
       "summary": "<p>Article URL: <a href=\"https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic\">https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50051532\">https://news.ycombinator.com/item?id=50051532</a></p>\n<p>Points: 159</p>\n<p># Comments: 51</p>",
@@ -254,19 +244,23 @@
       "ai_summary": "У новій бета-версії iOS 27.2 червоний значок Apple Music замінили на чорно-білий варіант із дещо оновленим кутом нахилу ноти. Це стало несподіванкою для користувачів та продовженням серії візуальних оновлень сервісу.",
       "ai_title": "Apple Music готує зміну легендарної іконки",
       "video_keywords": "smartphone screen, mobile app icon, touching phone, minimalist design"
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "link": "https://pulseos.finance",
+      "summary": "<p>Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.<p>I felt there are not enough consumer apps that run locally with no calls to the outside world that help us mana",
+      "published": "2026-10-13T23:13:23+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Recreational Programming",
+      "link": "https://www.cphiri.dev/presentations/recreational-programming",
+      "summary": "<p>Article URL: <a href=\"https://www.cphiri.dev/presentations/recreational-programming\">https://www.cphiri.dev/presentations/recreational-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079865\">https://news.ycombinator.com/item?id=50079865</a></p>\n<p>Points: 45</p>\n<p># Comments: 11</p>",
+      "published": "2026-10-13T22:33:33+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "published": "2026-10-12T15:27:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Blueprints AI розробив програмне забезпечення, яке здатне генерувати готові до видачі дозволів будівельні креслення на основі фотографій, PDF-файлів або ескізів. Технологія покликана суттєво прискорити та спростити процес проєктування для будівельної галузі.",
-      "ai_title": "Штучний інтелект створює будівельні креслення за лічені хвилини",
-      "video_keywords": "blueprint, architect drawing, construction plans, engineer office"
-    },
     {
       "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
       "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
@@ -391,6 +385,27 @@
       "ai_summary": "Керівник Cerebras Ендрю Фельдман заявив, що занадто гучні попередження про ризики штучного інтелекту затьмарюють його реальну користь для суспільства. Він закликав техногігантів змінити фокус дискусії.",
       "ai_title": "Голова Cerebras закликав припинити лякати людство апокаліпсисом від ШІ",
       "video_keywords": "business presentation, conference stage, speaker microphone, audience listening"
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "published": "2026-10-13T23:13:31+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "published": "2026-10-13T23:05:34+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "published": "2026-10-13T23:00:00+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
@@ -603,6 +618,27 @@
       "ai_summary": "Обсяг ринку токенізованих акцій наблизився до 3,3 мільярда доларів. При цьому значна частина торгів такими активами на блокчейнах Solana та BNB Chain відбувається поза робочими годинами американського фондового ринку.",
       "ai_title": "Більшість токенізованих акцій на Solana та BNB Chain торгуються вночі",
       "video_keywords": "cryptocurrency trading dashboard, glowing blockchain network, computer screens at night, night city skyline office"
+    },
+    {
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "summary": "",
+      "published": "2026-10-14T01:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "summary": "",
+      "published": "2026-10-13T23:23:05+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ledger asks resellers to halt sales in Southeast Asia and Hong Kong\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VRR79KQN4B5CCVR567DB5T/ledger.jpg\" /></p><p>The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occu",
+      "published": "2026-10-13T23:28:19+00:00",
+      "source": "Cointelegraph.com News"
     }
   ]
 }
