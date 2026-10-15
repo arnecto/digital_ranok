@@ -1,51 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Coris (YC S22) Is Hiring Back End Engineer",
-      "link": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
-      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations\">https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074969\">https://news.ycombinator.com/item?id=50074969</a></p>\n<p>Po",
-      "published": "2026-10-13T17:00:39+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Show HN: How Random Are You?",
-      "link": "https://lab.specr.net/rigged-draw/",
-      "summary": "<p>Article URL: <a href=\"https://lab.specr.net/rigged-draw/\">https://lab.specr.net/rigged-draw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074909\">https://news.ycombinator.com/item?id=50074909</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-      "published": "2026-10-13T16:57:57+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "summary": "<p>Article URL: <a href=\"https://developers.googleblog.com/gemini-4-argon-for-robotics/\">https://developers.googleblog.com/gemini-4-argon-for-robotics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
-      "published": "2026-10-13T16:55:47+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
-      "link": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
-      "summary": "<p>Article URL: <a href=\"https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24\">https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074289\">https://news.ycombinator.com/item?id=50074289</a></p>\n<p>Points: 60</p>\n<p># Comments: ",
-      "published": "2026-10-13T16:24:15+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Scientists wonder: Is my AI stealing my ideas?",
-      "link": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
-      "summary": "<p>Article URL: <a href=\"https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/\">https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073926\">https://news.ycombinator.com/item?id=50073926</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
-      "published": "2026-10-13T16:05:51+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "summary": "<p><a href=\"https://x.com/OpenAINewsroom/status/2110095403198849132\" rel=\"nofollow\">https://x.com/OpenAINewsroom/status/2110095403198849132</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50078141\">https://news.ycombinator.com/item?id=50078141</a></p>\n<p>Points: 199</p>\n<p># Comments: 189</p>",
-      "published": "2026-10-13T20:23:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Поліція затримала співробітника OpenAI за підозрою у встановленні прихованого пристрою для прослуховування в конференц-залі компанії. Інцидент викликав широкий резонанс та обговорення безпеки всередині відомого розробника штучного інтелекту.",
-      "ai_title": "Інженера OpenAI заарештували за шпигунство в офісі",
-      "video_keywords": "police handcuffs, server room, businessman arrest, office corridor"
-    },
-    {
       "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
       "link": "https://parsimony.lasu.dev/",
       "summary": "<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts \"coding units\": syntax elements like statements, call",
@@ -308,6 +263,56 @@
       "ai_summary": "Милий робот-компаньйон Eiliko збирає всі розмови користувачів та відправляє їх на сервери в Китаї. Експерти попереджають про серйозні вразливості у кібербезпеці та ризик витоку особистих даних.",
       "ai_title": "Популярні розумні робоіграшки виявилися загрозою для приватності",
       "video_keywords": "cute robot toy, child playing, hacker computer, data breach"
+    },
+    {
+      "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
+      "link": "https://www.krea.ai/krea-3",
+      "summary": "<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p>\n<p>Points: 39</p>\n<p># Comments: 21</p>",
+      "published": "2026-10-15T16:04:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили нову передову модель для створення зображень Krea 3, яка працює в чотири рази швидше за попередні популярні аналоги. Вона значно підвищує продуктивність генерації візуального контенту для дизайнерів та творчих індустрій.",
+      "ai_title": "Вийшла нова модель генерації зображень Krea 3",
+      "video_keywords": "computer screen, digital artist, graphic design, 3d rendering"
+    },
+    {
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "summary": "<p>Article URL: <a href=\"https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/\">https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104654\">https://news.ycombinator.com/item?id=50104654</a></p>\n<p>Poin",
+      "published": "2026-10-15T14:58:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Спеціальна ініціатива від Simons Foundation покликана допомогти професійним математикам адаптуватися до змін, які приносять сучасні технології штучного інтелекту. Гроші підуть на дослідження, нові інструменти та підтримку наукової спільноти.",
+      "ai_title": "Фонд Саймонс виділяє 15 мільйонів доларів для математиків в епоху ШІ",
+      "video_keywords": "university classroom, mathematician, writing on chalkboard, research laboratory"
+    },
+    {
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
+      "published": "2026-10-15T16:21:45+00:00",
+      "source": "The Verge",
+      "ai_summary": "Експерти попереджають про стрімкий поширення тренду на гаджети та персональних асистентів, які збирають дані про користувачів та їхнє оточення. Такі системи часто створюють загрозу приватності, оскільки записують інформацію без згоди інших людей.",
+      "ai_title": "Небезпека передачі особистих даних ШІ-агентам",
+      "video_keywords": "person using smartphone, digital surveillance, cyberpunk interface, modern office worker"
+    },
+    {
+      "title": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
+      "link": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+      "summary": "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave radar technology instead of a camera to detect the [&#8230;]",
+      "published": "2026-10-15T15:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Shelly випустила пристрій для розумного будинку на базі радарної технології міліметрового діапазону. Він здатний одночасно виявляти до 10 людей у приміщенні, забезпечуючи автоматизацію без порушення приватності та використання камер.",
+      "ai_title": "Новий сенсор присутності від Shelly відстежує людей без камери",
+      "video_keywords": "smart home, motion sensor, modern living room, security device"
+    },
+    {
+      "title": "Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries",
+      "link": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud",
+      "summary": "Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new combined gallery experience aims to make it easier to manage and view your photos without jumping between apps or devices, while also improving [&#8230;]",
+      "published": "2026-10-15T14:53:38+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Microsoft переробила застосунок Photos для Windows 11, об'єднавши локальні файли користувача з хмарними сховищами OneDrive та iCloud в одному інтерфейсі. Оновлення також отримало покращений редактор і зручнішу навігацію по медіатеці.",
+      "ai_title": "Microsoft оновила застосунок \"Фотографії\" з підтримкою iCloud та OneDrive",
+      "video_keywords": "computer monitor, photo gallery, clicking mouse, windows operating system"
     }
   ],
   "Бізнес / Стартапи": [
@@ -316,20 +321,6 @@
       "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
       "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
       "published": "2026-10-13T17:30:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "published": "2026-10-13T17:18:25+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-      "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-      "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-      "published": "2026-10-13T17:00:00+00:00",
       "source": "TechCrunch"
     },
     {
@@ -582,39 +573,49 @@
       "ai_summary": "Дослідники Citizen Lab виявили докази того, що урядові структури зловживають рекламними мережами в інтернеті. З допомогою шкідливих оголошень здійснювалося приховане зараження пристроїв журналістів шпигунським ПЗ без відома користувачів.",
       "ai_title": "Уряди використовують онлайн-рекламу для шпигунства за допомогою zero-click атак",
       "video_keywords": "hacker typing on laptop, glowing cyber data, digital security breach, mobile phone hacking"
+    },
+    {
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+      "published": "2026-10-15T14:47:09+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Ramp залучила нове фінансування та досягла оцінки у 60 мільярдів доларів. Це сталося на тлі того, як її річний дохід перевищил 2 мільярди доларів, а кількість клієнтів зросла до 85 тисяч завдяки інтеграції штучного інтелекту.",
+      "ai_title": "Фінтех-стартап Ramp досяг оцінки в $60 мільярдів на тлі розширення в сфері ШІ",
+      "video_keywords": "financial charts, business meeting, credit card, modern office"
+    },
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "published": "2026-10-15T14:29:33+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Google презентувала новий сервіс Universal Cart для зручних покупок в інтернеті. Тепер цей інструмент доступний американським користувачам через пошукову систему Google та додаток Gemini.",
+      "ai_title": "Google запустила універсальний інструмент для онлайн-шопінгу в США",
+      "video_keywords": "online shopping, smartphone screen, credit card payment, e-commerce"
+    },
+    {
+      "title": "AI agents are coming to Rivian’s cars",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+      "published": "2026-10-15T15:02:36+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Автомобілі бренду Rivian незабаром оснастятмуть передовими агентами на базі штучного інтелекту. Більше деталей про функціонал та принципи роботи компанія обіцяє розкрити на спеціальному заході у грудні.",
+      "ai_title": "Електромобілі Rivian отримають інтегровані ШІ-агенти",
+      "video_keywords": "electric car, futuristic dashboard, autonomous driving, modern vehicle interior"
+    },
+    {
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "published": "2026-10-15T16:45:37+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Ділкарня Solidigm, що належить SK Hynix, намагається отримати дозвіл США на постачання чіпмейкерського обладнання на свої підприємства в Китаї. Водночас компанія розглядає можливість будівництва нового заводу з виробництва NAND-чіпів у США.",
+      "ai_title": "SK Hynix веде переговори щодо обладнання для заводів у Китаї та США",
+      "video_keywords": "microchip manufacturing, industrial factory, robotic arm, silicon wafer"
     }
   ],
   "Крипта": [
-    {
-      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
-      "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-      "summary": "",
-      "published": "2026-10-13T15:24:52+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "У Великій Британії почастішали випадки фізичного насильства проти власників цифрових активів. Черговою жертвою став трейдер, у якого під загрозою ножа та тортур викрали криптоактиви на суму близько 800 000 доларів. Злочинці все частіше використовують залякування в реальному житті для отримання доступу до цифрових гаманців.",
-      "ai_title": "Британський криптотрейдер втратив майже 800 тисяч доларів через напад",
-      "video_keywords": "police lights, dark alley, crime scene, handcuffs"
-    },
-    {
-      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-      "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strive reports $208M in warrant exercises as Bitcoin holdings jump 11% \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TW19B9G4WJ5289S60N1QGE/bitcoin-reserve.jpg\" /></p><p>Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to",
-      "published": "2026-10-13T15:57:55+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Strive успішно залучила 208 мільйонів доларів через виконання варантів, суттєво наростивши свої криптоактиви. Завдяки цьому її загальні запаси біткоїнів зросли на 11%, досягнувши 32 773 монет. Тепер фірма займає п'яте місце серед публічних компаній за обсягом утримуваної першої криптовалюти.",
-      "ai_title": "Компанія Strive збільшила свої біткоїн-резерви після залучення 208 мільйонів",
-      "video_keywords": "gold bitcoins, digital currency, financial growth, cryptocurrency coins"
-    },
-    {
-      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-      "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4TWQ4KGPDP463T3P3N9YZ3N/hi-japan-ipo-stocks-explained2-960x644.webp\" /></p><p>Bitcoin price action preserved overnight gains as US stocks quickly rebounded after ",
-      "published": "2026-10-13T15:27:32+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Курс біткоїна стабільно утримує позиції після нічного зростання та продовжує штурмувати психологічний рівень у 84 тисячі доларів. Американські фондові ринки швидко відновилися після локального падіння технологічного сектора, що позитивно позначилося і на криптоіндустрії. Інвестори зберігають оптимізм щодо подальшого руху головної криптовалюти.",
-      "ai_title": "Біткоїн продовжує тиснути на позначку 84 000 доларів на тлі ситуації на ринках",
-      "video_keywords": "stock market ticker, trading terminal, financial charts, cryptocurrency exchange"
-    },
     {
       "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
       "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
@@ -945,6 +946,56 @@
       "ai_summary": "Через масштабні атаки на біржі Bitget та інші платформи криптоіндустрія зазнала рекордних втрат. Злочинці все частіше компрометують інфраструктуру розробників та програмні інструменти.",
       "ai_title": "Збитки від криптозломів у третьому кварталі наблизилися до 1,2 мільярда доларів",
       "video_keywords": "hacker typing, computer code, cyber security, matrix background"
+    },
+    {
+      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+      "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mastercard brings stablecoin balances into traditional banking and card payments \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M501MR4NFX8WGM2DEYYC2STT/hi-could-those-who-left-mastercard-come-back3.jpg\" /></p><p>The launch of Global Money Platform marks Mastercard’s first major in",
+      "published": "2026-10-15T15:46:05+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Mastercard запускає Global Money Platform, яка дозволить використовувати баланси стейблкоїнів для звичайних банківських операцій та карткових платежів. Це важливий крок до об'єднання світу криптовалют та класичної фінансової системи. Нова платформа забезпечить користувачам більшу гнучкість у керуванні своїми цифровими активами.",
+      "ai_title": "Mastercard інтегрує стейблкоїни у традиційні банківські платежі",
+      "video_keywords": "credit card, terminal, digital payment, smartphone banking"
+    },
+    {
+      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin slips under $80K after US PPI gains most in four years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish-1280x853.webp\" /></p><p>BTC buyers attempted to defend $80,",
+      "published": "2026-10-15T15:10:44+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ціна біткоїна опустилася нижче психологічної позначки в 80 000 доларів після того, як у США зафіксували рекордне за чотири роки зростання індексу цін виробників (PPI). Покупці намагалися стримати падіння, проте ринок відреагував зниженням на посилення інфляційних ризиків. Це падіння демонструє чутливість криптовалюти до традиційних економічних показників.",
+      "ai_title": "Біткоїн впав нижче 80 тисяч доларів на тлі макроекономічних даних у США",
+      "video_keywords": "stock market chart, falling graphs, financial crisis, trading screen"
+    },
+    {
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "summary": "",
+      "published": "2026-10-15T15:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фінансові інститути Волл-стріт більше не готові чекати на ухвалення офіційного законодавства щодо криптовалют від американського Конгресу. Представники традиційного фінансового сектору закликають до прискорення регуляторних процесів через зростаючий попит на цифрової активи. Невизначеність змушує ринок самостійно шукати шляхи легітимізації.",
+      "ai_title": "Вол-стріт втрачає терпіння і вимагає чітких криптоправил від Конгресу",
+      "video_keywords": "new york stock exchange, wall street, financial district, businessman working"
+    },
+    {
+      "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+      "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Russia to ban direct peer-to-peer crypto trades starting July 2027\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZXEK5DTKX65782NKWA8C3M/russia-p2p-ban-illustration-1.png\" /></p><p>Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibi",
+      "published": "2026-10-15T14:22:43+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Російська влада має намір повністю заборонити прямі однорангові (P2P) криптовалютні транзакції починаючи з 1 липня 2027 року. Нові обмеження стануть черговим кроком до жорсткого державного контролю над цифровими активами в країні. Окрім цього, вже діють інші правила, що обмежують обіг криптовалюти.",
+      "ai_title": "У Росії планують заборонити прямі P2P-криптооперації з 2027 року",
+      "video_keywords": "warning sign, padlock, digital security, computer server"
+    },
+    {
+      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sweden revisits digital krona as ECB advances digital euro plans \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M505KEFKPMPQ9SXKC8HEV451/stockholm-sweden.jpg\" /></p><p>Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreig",
+      "published": "2026-10-15T16:49:59+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Центральний банк Швеції (Riksbank) рекомендував парламенту розпочати підготовку до можливого впровадження цифрової крони. Таке рішення зумовлене занепокоєнням через поширення іноземних цифрових валют та активним просуванням цифрового євро з боку Європейського центрального банку. Країна прагне зберегти суверенітет над своєю платіжною системою.",
+      "ai_title": "Швеція повертається до ідеї цифрової крони на тлі планів ЄЦБ",
+      "video_keywords": "sweden flag, stockholm cityscape, digital currency, central bank"
     }
   ]
 }
