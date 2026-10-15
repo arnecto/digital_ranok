@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-      "link": "https://parsimony.lasu.dev/",
-      "summary": "<p>Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.<p>Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts \"coding units\": syntax elements like statements, call",
-      "published": "2026-10-13T19:50:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено відкритий інструмент Parsimony, який вимірює обсяг надлишкового коду, що генерують штучні інтелекти. Це допомагає зрозуміти, наскільки якісними є рішення моделі для довгострокових проєктів без захаращення кодової бази.",
-      "ai_title": "Новий бенчмарк оцінює кількість зайвого коду від ШІ",
-      "video_keywords": "computer screen, programming code, software developer, typing hands"
-    },
-    {
       "title": "Apple’s HomeView ad is confusing to everyone except parents",
       "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
       "summary": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those [&#8230;]",
@@ -19,16 +9,6 @@
       "ai_summary": "Свіжий рекламний ролик Apple присвячений розумному дисплею HomeView та вирізняється надзвичайно динамічною й безладною атмосферою ранкових зборів родини. На відміну від звичного мінімалізму компанії, це відео викликало відгук саме у батьків завдяки життєвості.",
       "ai_title": "Нова хаотична реклама Apple припала до душі батькам",
       "video_keywords": "family morning, messy kitchen, parents children, breakfast chaos"
-    },
-    {
-      "title": "It looks like Apple Music is getting a new icon",
-      "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
-      "summary": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, [&#8230;]",
-      "published": "2026-10-13T20:05:02+00:00",
-      "source": "The Verge",
-      "ai_summary": "У новій бета-версії iOS 27.2 червоний значок Apple Music замінили на чорно-білий варіант із дещо оновленим кутом нахилу ноти. Це стало несподіванкою для користувачів та продовженням серії візуальних оновлень сервісу.",
-      "ai_title": "Apple Music готує зміну легендарної іконки",
-      "video_keywords": "smartphone screen, mobile app icon, touching phone, minimalist design"
     },
     {
       "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
@@ -313,26 +293,59 @@
       "ai_summary": "Компанія Microsoft переробила застосунок Photos для Windows 11, об'єднавши локальні файли користувача з хмарними сховищами OneDrive та iCloud в одному інтерфейсі. Оновлення також отримало покращений редактор і зручнішу навігацію по медіатеці.",
       "ai_title": "Microsoft оновила застосунок \"Фотографії\" з підтримкою iCloud та OneDrive",
       "video_keywords": "computer monitor, photo gallery, clicking mouse, windows operating system"
+    },
+    {
+      "title": "Why We're Banning AI",
+      "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "summary": "<p>Article URL: <a href=\"https://www.currentaffairs.org/news/why-were-banning-ai\">https://www.currentaffairs.org/news/why-were-banning-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108131\">https://news.ycombinator.com/item?id=50108131</a></p>\n<p>Points: 169</p>\n<p># Comments: 124</p>",
+      "published": "2026-10-15T18:32:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дискусія навколо використання генеративного штучного інтелекту продовжується на тлі етичних та практичних застережень. Деякі медіа та платформи вирішують повністю заборонити ШT-контент заради збереження автентичності. Це свідчить про глибокий розкол у суспільстві щодо ролі технологій у творчості.",
+      "ai_title": "Чому деякі видання повністю відмовляються від штучного інтелекту",
+      "video_keywords": "person typing, writing on paper, office desk, angry editor"
+    },
+    {
+      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said [&#8230;]",
+      "published": "2026-10-15T19:57:16+00:00",
+      "source": "The Verge",
+      "ai_summary": "Соціальна мережа Bluesky розширює можливості свого ШІ-інструмента Attie, який тепер дозволяє користувачам створювати невеликі соціальні додатки та ігри. Готові проєкти можна легко перетворити на повноцінні вебсайти та ділитися ними з іншими безпосередньо в стрічці. Це відкриває новий рівень інтерактивності для звичайних користувачів платформи.",
+      "ai_title": "Bluesky запускає ШІ-інструмент для створення міні-ігор та додатків",
+      "video_keywords": "person using smartphone, tapping screen, social media feed, digital tablet"
+    },
+    {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [&#8230;]",
+      "published": "2026-10-15T18:15:36+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Meta представила нову відкриту модель Muse Spark Open, яка демонструє вражаючі результати. Завдяки співпраці з Apple, цей потужний штучний інтелект вперше здатний ефективно працювати локально настільних комп'ютерах Mac завдяки фреймворку MLX. Така колаборація значно спрощує розгортання складних моделей на локальному залізі.",
+      "ai_title": "Meta та Apple об'єдналися задля оптимізації нової моделі Muse AI для Mac",
+      "video_keywords": "apple computer, desktop setup, programmer typing, modern office"
+    },
+    {
+      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
+      "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
+      "summary": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Driving (Supervised). Volvo says the new point-to-point system will be Level 2++, meaning it can [&#8230;]",
+      "published": "2026-10-15T17:30:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Автомобільний бренд Volvo планує впровадити повністю безконтактну систему автономного керування до 2030 року. Для реалізації цієї технології компанія використовуватиме новітні рішення штучного інтелекту від Nvidia. Нова система рівня 2++ забезпечить рух за маршрутом від точки до точки без участі водія.",
+      "ai_title": "Volvo готує автопілот нового покоління на базі технологій Nvidia",
+      "video_keywords": "autonomous car, driving steering wheel, modern dashboard, highway POV"
+    },
+    {
+      "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "summary": "<p>Article URL: <a href=\"https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\">https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108229\">https://news.ycombinator.com/item?id=50108229</a></p>\n<p>Points: 49</p>\n<p># Comments: ",
+      "published": "2026-10-15T18:38:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія E Ink офіційно анонсувала свій найновіший дисплейний модуль Kaleido 4 з підтримкою кольорового зображення. Ця технологія покращує насиченість кольорів та чіткість тексту на екранах електронних книг. Новинка обіцяє зробити пристрої для читання ще зручнішими та комфортнішими для очей.",
+      "ai_title": "E Ink представила нове покоління кольорового електронного паперу Kaleido 4",
+      "video_keywords": "e-reader device, touching screen, reading book, electronic paper"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
-      "published": "2026-10-13T17:30:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-      "published": "2026-10-13T20:59:11+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "ФБР затримало працівника OpenAI за підозрою у встановленні прихованого пристрою для запису в конференц-залі. Метою шпигунства було отримання конфіденційної інформації про технології штучного інтелекту.",
-      "ai_title": "Співробітника OpenAI заарештували за прихований диктофон",
-      "video_keywords": "police handcuffs, secret camera, surveillance device, office conference room"
-    },
     {
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
@@ -342,16 +355,6 @@
       "ai_summary": "Федеральний суддя постановив, що Apple отримає доступ до матеріалів співбесід та приватних повідомлень колишніх працівників в OpenAI. Це стосується судового позову щодо комерційної таємниці.",
       "ai_title": "Суд зобов'язав OpenAI передати документи у справі Apple",
       "video_keywords": "courtroom judge, legal documents, signing papers, lawyers discussing"
-    },
-    {
-      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-      "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-      "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-      "published": "2026-10-13T20:13:53+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Cambridge Heavy Industries створює компактний лазерний термоядерний пристрій. Ця технологія має забезпечити паливом нове покоління електростанцій майбутнього.",
-      "ai_title": "Стартап таємно розробляє настільний пристрій ядерного синтезу",
-      "video_keywords": "laser technology, scientific laboratory, glowing plasma, high tech equipment"
     },
     {
       "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
@@ -613,6 +616,56 @@
       "ai_summary": "Ділкарня Solidigm, що належить SK Hynix, намагається отримати дозвіл США на постачання чіпмейкерського обладнання на свої підприємства в Китаї. Водночас компанія розглядає можливість будівництва нового заводу з виробництва NAND-чіпів у США.",
       "ai_title": "SK Hynix веде переговори щодо обладнання для заводів у Китаї та США",
       "video_keywords": "microchip manufacturing, industrial factory, robotic arm, silicon wafer"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "published": "2026-10-15T20:04:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Meta та Apple об'єднали зусилля для запуску нової моделі Muse Spark Open. Вона здатна працювати локально на процесорах Apple silicon, забезпечуючи високу продуктивність.",
+      "ai_title": "Meta випустила відкриту AI-модель для комп'ютерів Mac",
+      "video_keywords": "laptop screen, computer user, developer coding, technology office"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "published": "2026-10-15T19:55:25+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Керівник напрямку пристроїв в Amazon Панос Панай заявив, що в майбутньому фонові AI-пристрої замінять потребу відкривати окремі додатки. Технологія самостійно передбачатиме потреби користувачів.",
+      "ai_title": "В Amazon прогнозують зникнення звичних додатків через штучний інтелект",
+      "video_keywords": "smart speaker, modern living room, person using device, futuristic technology"
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "published": "2026-10-15T19:14:26+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія дозволила незалежним дослідникам з METR вивчати роботу своїх моделей зсередини. Anthropic також відмовилася від права цензурувати їхні незалежні звіти про ризики.",
+      "ai_title": "Anthropic надала дослідникам повний доступ до своїх AI-систем",
+      "video_keywords": "server room, data center, engineers working, computer screens"
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "published": "2026-10-15T18:56:46+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Експериментальна платформа Attie від Bluesky тепер дозволяє будь-кому створювати інтерактивні ігри та вебсайти. Нова функція базується на концепції «соціального кодування» та взаємодіє з аудиторією мережі.",
+      "ai_title": "Bluesky запускає інструмент для створення сайтів та ігор за допомогою AI",
+      "video_keywords": "person typing keyboard, computer monitor, game design, digital workspace"
+    },
+    {
+      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
+      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+      "published": "2026-10-15T17:34:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Автовиробник Volvo розширює співпрацю з Nvidia для вдосконалення систем безпілотного керування. Нові технології впроваджуватимуться не лише в електромобілі, а й в інші моделі авто.",
+      "ai_title": "Volvo посилює партнерство з Nvidia заради автономного водіння",
+      "video_keywords": "autonomous car, steering wheel, dashboard screen, futuristic vehicle"
     }
   ],
   "Крипта": [
@@ -625,16 +678,6 @@
       "ai_summary": "Фінансові гіганти BNY та Citadel Securities запустили тестування токенізованих казначейських облігацій США. Це нововведення покликане суттєво прискорити та спростити фінансування на Волл-стріт за допомогою блокчейн-технологій.",
       "ai_title": "Волл-стріт тестує токенізовані держоблігації США",
       "video_keywords": "stock exchange trading floor, digital tablet finance, modern bank office, financial charts screen"
-    },
-    {
-      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4VA9NB54GWFZ29JZYNA4293/hi-how-ripple-plans-to-bridge-crypto-and-wall-street.jpg\" /></p><p>Tokenized equities have reached nearly $3.3 billion in value as",
-      "published": "2026-10-13T19:48:06+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Обсяг ринку токенізованих акцій наблизився до 3,3 мільярда доларів. При цьому значна частина торгів такими активами на блокчейнах Solana та BNB Chain відбувається поза робочими годинами американського фондового ринку.",
-      "ai_title": "Більшість токенізованих акцій на Solana та BNB Chain торгуються вночі",
-      "video_keywords": "cryptocurrency trading dashboard, glowing blockchain network, computer screens at night, night city skyline office"
     },
     {
       "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
@@ -996,6 +1039,26 @@
       "ai_summary": "Центральний банк Швеції (Riksbank) рекомендував парламенту розпочати підготовку до можливого впровадження цифрової крони. Таке рішення зумовлене занепокоєнням через поширення іноземних цифрових валют та активним просуванням цифрового євро з боку Європейського центрального банку. Країна прагне зберегти суверенітет над своєю платіжною системою.",
       "ai_title": "Швеція повертається до ідеї цифрової крони на тлі планів ЄЦБ",
       "video_keywords": "sweden flag, stockholm cityscape, digital currency, central bank"
+    },
+    {
+      "title": "At the White House, crypto policy vacancy looms large",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "summary": "",
+      "published": "2026-10-15T18:48:02+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Адміністрація президента США шукає фахівця на ключову посаду, що відповідає за регулювання цифрових активів. Це призначення може суттєво вплинути на подальший розвиток криптовалютної галузі в країні та відносини регуляторів з індустрією.",
+      "ai_title": "У Білому домі утворилася вакансія щодо формування криптополітики",
+      "video_keywords": "white house exterior, businessman in suit, desk with laptop, american flag"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
+      "published": "2026-10-15T19:37:27+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Огляд найважливіших новин та щоденних трендів, які формують ринок цифрових активів. Аналітики розглядають ключові події, що впливають на курс Біткоїна, розвиток блокчейн-технологій та сектор децентралізованих фінансів.",
+      "ai_title": "Головні події на крипторынку за сьогодні",
+      "video_keywords": "stock market charts, crypto trading screens, digital coins, glowing graphs"
     }
   ]
 }
