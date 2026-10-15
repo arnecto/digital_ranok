@@ -1,27 +1,10 @@
 {
   "IT / AI": [
     {
-      "title": "Apple’s HomeView ad is confusing to everyone except parents",
-      "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
-      "summary": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those [&#8230;]",
-      "published": "2026-10-13T22:10:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Свіжий рекламний ролик Apple присвячений розумному дисплею HomeView та вирізняється надзвичайно динамічною й безладною атмосферою ранкових зборів родини. На відміну від звичного мінімалізму компанії, це відео викликало відгук саме у батьків завдяки життєвості.",
-      "ai_title": "Нова хаотична реклама Apple припала до душі батькам",
-      "video_keywords": "family morning, messy kitchen, parents children, breakfast chaos"
-    },
-    {
       "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
       "link": "https://pulseos.finance",
       "summary": "<p>Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.<p>I felt there are not enough consumer apps that run locally with no calls to the outside world that help us mana",
       "published": "2026-10-13T23:13:23+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Recreational Programming",
-      "link": "https://www.cphiri.dev/presentations/recreational-programming",
-      "summary": "<p>Article URL: <a href=\"https://www.cphiri.dev/presentations/recreational-programming\">https://www.cphiri.dev/presentations/recreational-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50079865\">https://news.ycombinator.com/item?id=50079865</a></p>\n<p>Points: 45</p>\n<p># Comments: 11</p>",
-      "published": "2026-10-13T22:33:33+00:00",
       "source": "Hacker News: Front Page"
     },
     {
@@ -343,58 +326,54 @@
       "ai_summary": "Компанія E Ink офіційно анонсувала свій найновіший дисплейний модуль Kaleido 4 з підтримкою кольорового зображення. Ця технологія покращує насиченість кольорів та чіткість тексту на екранах електронних книг. Новинка обіцяє зробити пристрої для читання ще зручнішими та комфортнішими для очей.",
       "ai_title": "E Ink представила нове покоління кольорового електронного паперу Kaleido 4",
       "video_keywords": "e-reader device, touching screen, reading book, electronic paper"
+    },
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+      "published": "2026-10-15T22:43:23+00:00",
+      "source": "The Verge",
+      "ai_summary": "Розширення ChatGPT для Google Chrome отримало оновлення, яке дозволяє штучному інтелекту взаємодіяти з активними вкладками користувача. Завдяки цьому можна швидко обробляти інформацію з вебсторінок безпосередньо через інтерфейс ChatGPT.",
+      "ai_title": "ChatGPT тепер може аналізувати відкриті вкладки у браузері Chrome",
+      "video_keywords": "web browser, computer screen, typing, internet"
+    },
+    {
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
+      "published": "2026-10-15T22:35:55+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Sega була змушена вилучити з магазинів гру Total War: Shogun 2 - Complete Edition через шквал критики. Гравці поскаржилися на численні баги та низьку якість масштабування графіки, яке, ймовірно, було виконане за допомогою штучного інтелекту.",
+      "ai_title": "Sega зняла з продажу ремастер Total War через невдалий запуск та використання ШІ",
+      "video_keywords": "video game, computer monitor, gaming setup, keyboard"
+    },
+    {
+      "title": "The tech backlash is now in theaters",
+      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can [&#8230;]",
+      "published": "2026-10-15T21:39:52+00:00",
+      "source": "The Verge",
+      "ai_summary": "У 2026 році на екрани вийшла низка фільмів, які критично оцінюють вплив сучасних технологій та засновників IT-компаній на суспільство. Голлівуд все частіше демонструє темний бік цифрової революції та небезпеку безконтрольного розвитку соцмереж.",
+      "ai_title": "Кінематограф розпочав жорстку критику Кремнієвої долини та технологічних гігантів",
+      "video_keywords": "cinema screen, movie theater, audience watching, projector light"
+    },
+    {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or [&#8230;]",
+      "published": "2026-10-15T21:09:33+00:00",
+      "source": "The Verge",
+      "ai_summary": "Президент США поділився знімками оновленого Білого дому, проте одна з фотографій виявилася створеною або зміненою за допомогою штучного інтелекту. Експерти та детектекри виявили на зображенні характерні артефакти та розбіжності в архітектурних елементах.",
+      "ai_title": "Дональд Трамп опублікував відредаговане за допомогою ШІ фото Білого дому",
+      "video_keywords": "white house, smartphone screen, social media, press conference"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "published": "2026-10-13T20:36:44+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Федеральний суддя постановив, що Apple отримає доступ до матеріалів співбесід та приватних повідомлень колишніх працівників в OpenAI. Це стосується судового позову щодо комерційної таємниці.",
-      "ai_title": "Суд зобов'язав OpenAI передати документи у справі Apple",
-      "video_keywords": "courtroom judge, legal documents, signing papers, lawyers discussing"
-    },
-    {
-      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-      "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-      "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-      "published": "2026-10-13T21:15:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап знайшов спосіб повторно використовувати забруднення від доменних печей у сталеливарній промисловості. Це дозволяє скоротити викиди вуглецю та покращити економічні показники.",
-      "ai_title": "Helix Carbon знижує вартість заліза завдяки переробці викидів",
-      "video_keywords": "industrial factory, smokestacks pollution, metal recycling, steel mill"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "published": "2026-10-13T22:36:59+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Керівник Cerebras Ендрю Фельдман заявив, що занадто гучні попередження про ризики штучного інтелекту затьмарюють його реальну користь для суспільства. Він закликав техногігантів змінити фокус дискусії.",
-      "ai_title": "Голова Cerebras закликав припинити лякати людство апокаліпсисом від ШІ",
-      "video_keywords": "business presentation, conference stage, speaker microphone, audience listening"
-    },
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
       "published": "2026-10-13T23:13:31+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "published": "2026-10-13T23:05:34+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "published": "2026-10-13T23:00:00+00:00",
       "source": "TechCrunch"
     },
     {
@@ -666,26 +645,19 @@
       "ai_summary": "Автовиробник Volvo розширює співпрацю з Nvidia для вдосконалення систем безпілотного керування. Нові технології впроваджуватимуться не лише в електромобілі, а й в інші моделі авто.",
       "ai_title": "Volvo посилює партнерство з Nvidia заради автономного водіння",
       "video_keywords": "autonomous car, steering wheel, dashboard screen, futuristic vehicle"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+      "published": "2026-10-15T20:38:13+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Керівник напрямку пристроїв в Amazon Панос Панай поділився думками про те, як помилки допомагають створювати кращі продукти. Він наголосив, що компанії та підприємці можуть успішно відновлюватися навіть після серйозних провалів.",
+      "ai_title": "Панос Панай з Amazon розповів про важливість невдач для бізнесу",
+      "video_keywords": "business meeting, frustrated person, brainstorming, office desk"
     }
   ],
   "Крипта": [
-    {
-      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-      "summary": "",
-      "published": "2026-10-13T21:52:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фінансові гіганти BNY та Citadel Securities запустили тестування токенізованих казначейських облігацій США. Це нововведення покликане суттєво прискорити та спростити фінансування на Волл-стріт за допомогою блокчейн-технологій.",
-      "ai_title": "Волл-стріт тестує токенізовані держоблігації США",
-      "video_keywords": "stock exchange trading floor, digital tablet finance, modern bank office, financial charts screen"
-    },
-    {
-      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-      "summary": "",
-      "published": "2026-10-14T01:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
     {
       "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
       "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
@@ -1059,6 +1031,26 @@
       "ai_summary": "Огляд найважливіших новин та щоденних трендів, які формують ринок цифрових активів. Аналітики розглядають ключові події, що впливають на курс Біткоїна, розвиток блокчейн-технологій та сектор децентралізованих фінансів.",
       "ai_title": "Головні події на крипторынку за сьогодні",
       "video_keywords": "stock market charts, crypto trading screens, digital coins, glowing graphs"
+    },
+    {
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Scammer loses $4.8M stored on tampered Ledgers: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50Q9CPRKY0N68C9BSYHP5PM/asia-express-12.jpg\" /></p><p>A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs laun",
+      "published": "2026-10-15T22:42:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Анонімний зловмисник втратив мільйони доларів у криптовалюті, які зберігав на підроблених апаратних гаманцях Ledger. Іронічно, що вкрадені кошти стали здобиччю інших хакерів через уразливість пристроїв.",
+      "ai_title": "Криптошахрай втратив $4,8 мільйона через модифіковані гаманці Ledger",
+      "video_keywords": "hardware wallet, cryptocurrency, hacker, digital security"
+    },
+    {
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance.US seeks $1B valuation in potential $100M funding round: Report\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg\" /></p><p>The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’",
+      "published": "2026-10-15T20:21:11+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американський підрозділ криптобіржі Binance шукає нове фінансування, оцінюючи компанію в $1 мільярд. Залучені кошти планується спрямувати на відновлення втрачених позицій на ринку США.",
+      "ai_title": "Binance.US планує залучити $100 мільйонів інвестицій",
+      "video_keywords": "stock market, business meeting, financial chart, corporate office"
     }
   ]
 }
