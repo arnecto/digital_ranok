@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Leaving Tech",
-      "link": "https://ryanbigg.com/2026/10/leaving-tech",
-      "summary": "<p>Article URL: <a href=\"https://ryanbigg.com/2026/10/leaving-tech\">https://ryanbigg.com/2026/10/leaving-tech</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50065892\">https://news.ycombinator.com/item?id=50065892</a></p>\n<p>Points: 93</p>\n<p># Comments: 69</p>",
-      "published": "2026-10-13T02:39:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярний розробник поділився відвертими роздумами про причини свого виходу з ІТ-галузі. Стаття порушує проблеми професійного вигорання, токсичності середовища та перенасичення ринку сучасними технологіями.",
-      "ai_title": "Чому талановиті розробники залишають технологічну індустрію",
-      "video_keywords": "person closing laptop, empty desk, tired worker, window view"
-    },
-    {
       "title": "AI models may soon self-replicate without access to data centers",
       "link": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
       "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/\">https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069333\">https://news.ycombinator.com/item?id=50069333</",
@@ -308,16 +298,19 @@
       "ai_summary": "У світі розробки обговорюють свіжий підхід до відкритих проєктів, де заборонено прямі пул-реквести, але заохочується створення власних модифікацій та реміксів. Це змінює звичну модель колаборації в спільноті програмістів.",
       "ai_title": "Нова парадигма Open Source: закритий код для правок і вільний ремікс",
       "video_keywords": "computer monitor, programming code, developer hands, office workspace"
+    },
+    {
+      "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
+      "link": "https://github.com/andunieee/flipflop",
+      "summary": "<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50099136\">https://ne",
+      "published": "2026-10-15T04:25:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник представив Flipflop — новий проєкт для передачі файлів між пристроями, створений на базі технології iroh та фреймворку Slint. Інструмент розв'язує проблему зручного та постійного захищеного зв'язку для обміну даними з довіреними користувачами.",
+      "ai_title": "Flipflop: новий швидкий інструмент для обміну файлами через постійні тунелі",
+      "video_keywords": "file transfer, computer screen, data cable, office workspace"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
-      "summary": "Longshot is trying to build a gun big enough to make space data centers a reality.",
-      "published": "2026-10-13T18:05:00+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
@@ -559,29 +552,19 @@
       "ai_summary": "Біотехнологічний стартап пропонує фармкомпаніям тестувати нові ліки на вирощених у лабораторії міні-кишківниках людини. Це рішення відповідає новим вимогам регуляторів щодо пошуку альтернатив лабораторним тваринам та відкриває шлях до масштабування органоїдних технологій.",
       "ai_title": "Intero Biosystems замінює тестування на тваринах штучними органами",
       "video_keywords": "laboratory, petri dish, microscope, scientist hands"
+    },
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "published": "2026-10-15T04:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Популярна платформа для дизайну Figma анонсувала нові функції, які визначають принципи взаємодії штучного інтелекту зі своєю екосистемою. Крім того компанія відкрила публічний бета-тест для функції шарів коду.",
+      "ai_title": "Figma запускає нові інструменти для роботи зі штучним інтелектом",
+      "video_keywords": "ui design, software interface, computer screen, designer working"
     }
   ],
   "Крипта": [
-    {
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea moves to block 27 crypto websites, including KuCoin, MEXC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SJ32T5MFAHM21PB498EN3Q/korea-website-block.jpg\" /></p><p>Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers ",
-      "published": "2026-10-13T02:41:30+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Регулятори Південної Кореї ухвалили рішення про блокування 27 криптовалютних вебсайтів, серед яких опинилися такі відомі платформи, як KuCoin та MEXC. Обмеження спрямовані проти незареєстрованих бірж, що працюють поза межами місцевого законодавства.",
-      "ai_title": "Південна Корея блокує популярні криптобіржі",
-      "video_keywords": "smartphone screen, internet censorship, digital lock, computer monitor"
-    },
-    {
-      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-      "link": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Meta claims new Muse Wonder AI models rival OpenAI, Anthropic\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SEQQ4N93A3WPX8RG9DRBAR/meta.jpg\" /></p><p>Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”</p>",
-      "published": "2026-10-13T01:54:31+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Meta анонсувала нові ШІ-моделі Muse Wonder, які, за словами розробників, здатні конкурувати з технологіями OpenAI та Anthropic. Марк Цукерберг зазначив, що це важливий крок на шляху до створення персонального суперінтелекту.",
-      "ai_title": "Meta представила нові моделі штучного інтелекту",
-      "video_keywords": "futuristic interface, server rack, glowing data, artificial intelligence animation"
-    },
     {
       "title": "Live updates: Bitcoin whipsaws between $81,000 and $84,000 as altcoins slide",
       "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
@@ -902,6 +885,56 @@
       "ai_summary": "Мережа Polygon завершила поглинання компанії Coinme, що відкрило їй доступ до ліцензій на грошові перекази у 37 штатах. Це суттєво посилює позиції блокчейн-протоколу у сфері легальних фінансових послуг на американському ринку.",
       "ai_title": "Polygon отримав ліцензії на платежі у США після угоди з Coinme",
       "video_keywords": "smartphone payment, digital wallet, credit card, handshake business"
+    },
+    {
+      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+      "summary": "",
+      "published": "2026-10-15T06:17:58+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керівник інвестиційного гіганта BlackRock Ларрі Фінк висловив занепокоєння щодо національного боргу США у розмірі 40 трильйонів доларів. Він також назвав потенційні чинники, які можуть спровокувати економічну рецесію в країні.",
+      "ai_title": "Глава BlackRock попередив про загрозу через величезний держборг США",
+      "video_keywords": "stock market chart, financial district, businessman talking, economy graph"
+    },
+    {
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+      "summary": "",
+      "published": "2026-10-15T04:25:15+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Різке зниження курсу біткоїна, ефіріума та XRP призвело до масового закриття маржинальних позицій трейдерів. Загальна сума ліквідацій на ринку наблизилася до позначки в один мільярд доларів.",
+      "ai_title": "Масштабна ліквідація криптопозицій на мільярд доларів на тлі падіння ринку",
+      "video_keywords": "trading terminal, red decreasing charts, stressed trader, stock market crash"
+    },
+    {
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+      "summary": "",
+      "published": "2026-10-15T04:13:56+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Один із біткоїн-майнінг-пулів, який раніше контролював понад 2% мережі, був змушений закритися. Це сталося після різкого падіння загального хешрейту майнеру на 65%.",
+      "ai_title": "Відомий майнінг-пул припинив роботу через падіння хешрейту",
+      "video_keywords": "server room, computer hardware, blinking lights, mining rigs"
+    },
+    {
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "link": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Z1KM9Q4QJVB0NC8VRX5GG8/south-korea-coin-1.jpg\" /></p><p>South Korea is proposing tougher cybersecurity assessments after a review identified security defic",
+      "published": "2026-10-15T05:52:21+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Уряд Південної Кореї планує масштабну реформу системи кібербезпеки через нещодавні атаки хакерів на місцеві банки та криптовалютні біржі. Нові правила передбачають жорсткіші перевірки та стандарти захисту.",
+      "ai_title": "Південна Корея посилить кібербезпеку після хакерських атак на криптокомпанії",
+      "video_keywords": "hacker typing, cybersecurity code, digital lock screen, server security"
+    },
+    {
+      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "link": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia seeks feedback on crypto platform rules ahead of 2027 rollout\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YYDDF50Q9P09A46TZD9523/hi-world-bank-blockchain-bond-for-australia.jpg\" /></p><p>The consultation follows Parliament’s passage of digital asset legislation in Apr",
+      "published": "2026-10-15T05:00:40+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Австралійська влада запустила процес громадського обговорення майбутніх правил для криптовалютних платформ. Нове законодавство планують повністю впровадити до 2027 року після прийняття базових законів про цифрові активи.",
+      "ai_title": "Австралія готує нові правила регулювання криптоплатформ до 2027 року",
+      "video_keywords": "parliament building, business meeting, signing documents, financial regulation"
     }
   ]
 }
