@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-      "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-      "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency, it tracked scam activity back to [&#8230;]",
-      "published": "2026-10-14T20:03:43+00:00",
-      "source": "The Verge",
-      "ai_summary": "Спільна операція Microsoft та Національного поліцейського управління Японії дозволила зруйнувати міжнародну інфраструктуру шахраїв. Зловмисники розіслали понад мільярд фейкових повідомлень та фішингових посилань по всьому світу.",
-      "ai_title": "Microsoft та Японія ліквідували масштабну мережу кіберзлочинців",
-      "video_keywords": "cyber security, hacker screen, digital code, police investigation"
-    },
-    {
-      "title": "The AI race is back on",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [&#8230;]",
-      "published": "2026-10-14T19:06:03+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після тимчасового лідерства кількох компаній конкуренція на ринку штучного інтепевту знову загострюється. Попри величезні витрати, такі гравці як Google та Meta намагаються наздогнати лідерів і представити власні потужні моделі.",
-      "ai_title": "Штучний інтелект: гонка озброєнь серед технологічних гігантів відновлюється",
-      "video_keywords": "futuristic technology, server room, artificial intelligence, glowing screens"
-    },
-    {
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
       "summary": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm2-5-24b-a2b\">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097369\">https://news.ycombinator.com/item?id=50097369</a></p>\n<p>Points: 67</p>\n<p># Comments: 18</p>",
@@ -364,29 +344,59 @@
       "ai_summary": "Після багатьох років покладання на сторонніх виробників Apple представила власну лінійку пристроїв для розумного дому. До серії увійшли камери, термостати, датчики та дверні замки, створені у партнерстві з LG та Schneider Electric.",
       "ai_title": "Чому Apple нарешті почала випускати власні пристрої для розумного дому",
       "video_keywords": "smart home, modern living room, security camera, thermostat display"
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "summary": "<p>Article URL: <a href=\"https://github.com/home-assistant/home-assistant.io/issues/49314\">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124251\">https://news.ycombinator.com/item?id=50124251</a></p>\n<p>Points: 96</p>\n<p># Comments: 47</p>",
+      "published": "2026-10-16T20:33:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі виявили, що сторонні інтеграції сканують конфіденційні дані та секретні ключі без попереднього дозволу. Це викликало серйозне занепокоєння щодо безпеки та приватності в системі розумного дому.",
+      "ai_title": "Скандал із несанкціонованим скануванням файлів у Home Assistant",
+      "video_keywords": "programmer working laptop, security code, computer screen"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 52</p>\n<p># Comments: 8</p>",
+      "published": "2026-10-16T19:47:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія BFL випустила нову ітерацію своєї передової моделі для створення графіки. Оновлення пропонує покращену деталізацію, швидкість роботи та нові можливості для цифрових художників.",
+      "ai_title": "Реліз нової моделі генерації зображень FLUX 3 Image Klein",
+      "video_keywords": "digital artist drawing tablet, computer graphics, futuristic interface"
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 132</p>\n<p># Comments: 123</p>",
+      "published": "2026-10-16T19:04:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Антропік поділилася внутрішніми практиками організації код-рев'ю для проєкту Claude Code. Стаття розкриває методи підвищення якості коду та ефективності командної розробки за допомогою штучного інтелекту.",
+      "ai_title": "Як команда Claude Code організовує процес рев'ю коду",
+      "video_keywords": "software engineer typing, dual monitors, programming code"
+    },
+    {
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a [&#8230;]",
+      "published": "2026-10-16T20:50:27+00:00",
+      "source": "The Verge",
+      "ai_summary": "Ексклюзивний та майже недоступний для прослуховування альбом Once Upon A Time in Shaolin нарешті частково став публічним. Подкаст Pablo Torre Finds Out опублікував два рідкісні уривки з цієї загадкової платівки.",
+      "ai_title": "У мережі з'явилися уривки легендарного секретного альбому Wu-Tang Clan",
+      "video_keywords": "vinyl record spinning, DJ turntable, retro music"
+    },
+    {
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding [&#8230;]",
+      "published": "2026-10-16T20:49:04+00:00",
+      "source": "The Verge",
+      "ai_summary": "У Каліфорнії сталася чергова аварія за участю електромобіля на автопілоті, внаслідок якої постраждали автомобілі патрульної служби. Поліція нагадує, що поточні системи допомоги водієві не роблять транспорт повністю автономним.",
+      "ai_title": "Водій Tesla заснув за кермом у режимі автопілота та врізався в поліцейську машину",
+      "video_keywords": "police car flashing lights, highway night, traffic accident"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
-      "published": "2026-10-14T20:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий набір для тестування допомагає визначити циркадний ритм людини за допомогою біологічного годинника. Технологія спрямована на зниження побічних ефектів від агресивного лікування онкозахворювань.",
-      "ai_title": "Німецький стартап TimeTeller розробив тест слини для персоналізованої медицини",
-      "video_keywords": "laboratory scientist, pipette, liquid sample, test tubes, medical research"
-    },
-    {
-      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
-      "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
-      "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
-      "published": "2026-10-14T19:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Розробники знайшли спосіб закріпити біометричний датчик на будь-який наручний годинник без використання магнітів чи клейких стрічок. Це робить моніторинг показників здоров'я зручнішим для користувачів.",
-      "ai_title": "Колишні інженери Apple створили трекер здоров'я, що кріпиться до звичайного годинника",
-      "video_keywords": "smartwatch on wrist, putting on watch, checking fitness tracker, close up hands, wearable technology"
-    },
     {
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
       "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
@@ -676,29 +686,29 @@
       "ai_summary": "Компанія розробила пристрій Plait Pilot, який допомагає перукарям швидше готувати волосся до плетіння. Новинка покликана полегшити роботу майстрів із текстурованим волоссям.",
       "ai_title": "Стартап Tressfecta створює гаджети для автоматизації плетіння косичок",
       "video_keywords": "hairstylist braiding hair salon professional tools"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "published": "2026-10-16T21:22:28+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа для розробки Replit офіційно завершила партнерство з компанією Anthropic. За словами генерального директора, це рішення зумовлене кількома чинниками, зокрема фінансовими витратами на тлі нещодавньої співпраці з OpenAI.",
+      "ai_title": "Replit припиняє співпрацю з Anthropic через витрати",
+      "video_keywords": "coding, laptop screen, developer working, software code"
+    },
+    {
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "published": "2026-10-16T19:40:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий електричний кросовер Porsche Macan Turbo 2026 року вражає своїми характеристиками: він оснащений батареєю на 100 кВт-год та розвиває потужність у 630 кінських сил. Це авто є важливою віхою в електрифікації спортивних автомобілів преміум-класу.",
+      "ai_title": "Електричний Porsche Macan Turbo: новий виклик для бренду",
+      "video_keywords": "electric car, luxury SUV, driving fast, modern vehicle"
     }
   ],
   "Крипта": [
-    {
-      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-      "link": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EU authority classifies Circle’s USDC as ‘significant’ under MiCA \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XTT3VWKHJ84ZJBP443TGSN/hi-globe-usdc.png\" /></p><p>The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification a",
-      "published": "2026-10-14T19:03:52+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Регулятори Європейського Союзу та Франції взяли під особливий нагляд другу за капіталізацією криптовалюту USDC. Це рішення ухвалене відповідно до нового європейського законодавства MiCA щодо ринків криптоактивів.",
-      "ai_title": "Євросоюз визнав стейблкоїн USDC значним активам за новими правилами",
-      "video_keywords": "european union flag, digital currency, financial regulation, computer screen"
-    },
-    {
-      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-      "link": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VanEck seeks to withdraw application for Lido staked Ether ETF\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4YJ7E5P377C783E6HEWNS55/hi-using-proprietary-indicators-vaneck.jpg\" /></p><p>VanEck initially filed an S-1 registration statement for the exchange-traded fund in October la",
-      "published": "2026-10-15T01:21:52+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія VanEck вирішила відмовитися від подальшого просування спотового ETF на базі Lido staked Ether. Спочатку заявка за формою S-1 була подана наприкінці минулого року, але ринкові умови та регуляторна ситуація змусили переглянути плани.",
-      "ai_title": "VanEck відкликає заявку на запуск ETF на базі стейкінгового Ethereum",
-      "video_keywords": "cryptocurrency chart, financial document, computer screen, trading desk"
-    },
     {
       "title": "Polygon gains US payments licenses after closing Coinme deal",
       "link": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
