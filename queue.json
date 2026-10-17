@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "summary": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm2-5-24b-a2b\">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097369\">https://news.ycombinator.com/item?id=50097369</a></p>\n<p>Points: 67</p>\n<p># Comments: 18</p>",
-      "published": "2026-10-14T23:59:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Liquid AI представила нову мовну модель LFM2.5-24B-A2B, оптимізовану для швидкої роботи безпосередньо на пристроях користувачів. Вона створена для створення автономних AI-агентів нового покоління з низькою затримкою.",
-      "ai_title": "Liquid AI випустила компактну модель LFM2.5 для швидких локальних агентах",
-      "video_keywords": "smartphone screen, artificial intelligence, microchip, typing hands"
-    },
-    {
-      "title": "A new model for open source: closed to pull requests, open to remix",
-      "link": "https://ghuntley.com/remix/",
-      "summary": "<p>Article URL: <a href=\"https://ghuntley.com/remix/\">https://ghuntley.com/remix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097182\">https://news.ycombinator.com/item?id=50097182</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
-      "published": "2026-10-14T23:40:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У світі розробки обговорюють свіжий підхід до відкритих проєктів, де заборонено прямі пул-реквести, але заохочується створення власних модифікацій та реміксів. Це змінює звичну модель колаборації в спільноті програмістів.",
-      "ai_title": "Нова парадигма Open Source: закритий код для правок і вільний ремікс",
-      "video_keywords": "computer monitor, programming code, developer hands, office workspace"
-    },
-    {
-      "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
-      "link": "https://github.com/andunieee/flipflop",
-      "summary": "<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50099136\">https://ne",
-      "published": "2026-10-15T04:25:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник представив Flipflop — новий проєкт для передачі файлів між пристроями, створений на базі технології iroh та фреймворку Slint. Інструмент розв'язує проблему зручного та постійного захищеного зв'язку для обміну даними з довіреними користувачами.",
-      "ai_title": "Flipflop: новий швидкий інструмент для обміну файлами через постійні тунелі",
-      "video_keywords": "file transfer, computer screen, data cable, office workspace"
-    },
-    {
       "title": "Ledger’s new hardware wallet is an Android phone without the phone",
       "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
       "summary": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply [&#8230;]",
@@ -394,6 +364,26 @@
       "ai_summary": "У Каліфорнії сталася чергова аварія за участю електромобіля на автопілоті, внаслідок якої постраждали автомобілі патрульної служби. Поліція нагадує, що поточні системи допомоги водієві не роблять транспорт повністю автономним.",
       "ai_title": "Водій Tesla заснув за кермом у режимі автопілота та врізався в поліцейську машину",
       "video_keywords": "police car flashing lights, highway night, traffic accident"
+    },
+    {
+      "title": "All the news about the iPhone Duo",
+      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and [&#8230;]",
+      "published": "2026-10-16T23:36:26+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Apple офіційно анонсувала свій перший складаний телефон під назвою iPhone Duo. Пристрій отримав 5,4-дюймовий зовнішній та 7,6-дюймовий внутрішній екрани з майже непомітним згином, а також сканер відбитків пальців Touch ID на кнопці живлення замість Face ID.",
+      "ai_title": "Apple представила довгоочікуваний складаний смартфон iPhone Duo",
+      "video_keywords": "folding smartphone, touchscreen phone, mobile device, tech unboxing"
+    },
+    {
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App [&#8230;]",
+      "published": "2026-10-16T22:51:22+00:00",
+      "source": "The Verge",
+      "ai_summary": "App Store запровадив пряму заборону на програми, які використовують штучний інтелект для створення неконсенсусних інтимних фотографій. Це рішення стало відповіддю на хвилю критики після скандалів із генерацією штучних діпфейків за допомогою сторонніх інструментів.",
+      "ai_title": "Apple оновила правила App Store через інтимні AI-додатки",
+      "video_keywords": "smartphone screen, app store, digital security, cyber crime"
     }
   ],
   "Бізнес / Стартапи": [
@@ -416,26 +406,6 @@
       "ai_summary": "Генеральний директор компанії Flock захищає системи відеоспостереження на тлі національної хвилі критики та занепокоєння щодо приватності. За його словами, переваги у боротьбі зі злочинністю значно перевищують ризики зловживань, тому не можна зупиняти технологічний прогрес.",
       "ai_title": "Скандал навколо технологій стеження Flock",
       "video_keywords": "security camera, surveillance, police car, city street"
-    },
-    {
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
-      "published": "2026-10-15T00:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стартап Gudea розробив систему моніторингу, яка відстежує поширення чуток, дезінформації та шкідливого контенту в інтернеті. Технологія працює як «метеорологічний радар для мережі», допомагаючи компаніям запобігати публічним скандалам до того, як вони переростуть у кризу.",
-      "ai_title": "Gudea прогнозує кризові ситуації в соцмережах за допомогою ШІ",
-      "video_keywords": "smartphone screen, social media, dashboard, analytics"
-    },
-    {
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-      "published": "2026-10-14T23:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Біотехнологічний стартап пропонує фармкомпаніям тестувати нові ліки на вирощених у лабораторії міні-кишківниках людини. Це рішення відповідає новим вимогам регуляторів щодо пошуку альтернатив лабораторним тваринам та відкриває шлях до масштабування органоїдних технологій.",
-      "ai_title": "Intero Biosystems замінює тестування на тваринах штучними органами",
-      "video_keywords": "laboratory, petri dish, microscope, scientist hands"
     },
     {
       "title": "Figma announces new features to define how agents work on its platform",
