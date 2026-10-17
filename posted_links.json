@@ -1,12 +1,4 @@
 {
-  "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/": {
-    "title": "Хакери отримали підроблені TLS-сертифікати для сервісів Google",
-    "category": "IT / AI",
-    "posted_at": "2026-10-09T05:26:10.598135+03:00",
-    "summary": "Зловмисникам вдалося отримати фальшиві TLS-сертифікати, які використовуються для захисту з'єднань з Google та іншими відомими платформами. Цей інцидент становить серйозну загрозу для безпеки користувачів в інтернеті та може призвести до масштабних атак типу «людина посередині». Експерти з кібербезпеки закликають IT-фахівців уважно стежити за станом довірених сертифікатів.",
-    "video_keywords": "cyber security, hacker, laptop screen, code matrix",
-    "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
-  },
   "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/": {
     "title": "Ще один персональний ШІ-асистент: стартап Tab оцінили в $300 млн",
     "category": "Бізнес / Стартапи",
@@ -318,5 +310,13 @@
     "summary": "Розробник представив Flipflop — новий проєкт для передачі файлів між пристроями, створений на базі технології iroh та фреймворку Slint. Інструмент розв'язує проблему зручного та постійного захищеного зв'язку для обміну даними з довіреними користувачами.",
     "video_keywords": "file transfer, computer screen, data cable, office workspace",
     "link": "https://github.com/andunieee/flipflop"
+  },
+  "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/": {
+    "title": "Amazon представила нові персональні AI-пристрої від 75 доларів",
+    "category": "Бізнес / Стартапи",
+    "posted_at": "2026-10-17T07:47:08.460009+03:00",
+    "summary": "Компанія Bee, що належить Amazon, випустила свої перші ШІ-ґаджети після придбання. Серед новинок — оновлений пристрій, що носиться, та мініатюрний диктофон для смартфонів, які здатні підсумовувати розмови та інтегруватися з Alexa.",
+    "video_keywords": "wearable gadget, smart recorder, person using ai device, modern technology",
+    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
   }
 }
