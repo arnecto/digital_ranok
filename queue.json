@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
-      "published": "2026-10-15T16:21:45+00:00",
-      "source": "The Verge",
-      "ai_summary": "Експерти попереджають про стрімкий поширення тренду на гаджети та персональних асистентів, які збирають дані про користувачів та їхнє оточення. Такі системи часто створюють загрозу приватності, оскільки записують інформацію без згоди інших людей.",
-      "ai_title": "Небезпека передачі особистих даних ШІ-агентам",
-      "video_keywords": "person using smartphone, digital surveillance, cyberpunk interface, modern office worker"
-    },
-    {
       "title": "Why We're Banning AI",
       "link": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "summary": "<p>Article URL: <a href=\"https://www.currentaffairs.org/news/why-were-banning-ai\">https://www.currentaffairs.org/news/why-were-banning-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108131\">https://news.ycombinator.com/item?id=50108131</a></p>\n<p>Points: 169</p>\n<p># Comments: 124</p>",
@@ -29,26 +19,6 @@
       "ai_summary": "Соціальна мережа Bluesky розширює можливості свого ШІ-інструмента Attie, який тепер дозволяє користувачам створювати невеликі соціальні додатки та ігри. Готові проєкти можна легко перетворити на повноцінні вебсайти та ділитися ними з іншими безпосередньо в стрічці. Це відкриває новий рівень інтерактивності для звичайних користувачів платформи.",
       "ai_title": "Bluesky запускає ШІ-інструмент для створення міні-ігор та додатків",
       "video_keywords": "person using smartphone, tapping screen, social media feed, digital tablet"
-    },
-    {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [&#8230;]",
-      "published": "2026-10-15T18:15:36+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Meta представила нову відкриту модель Muse Spark Open, яка демонструє вражаючі результати. Завдяки співпраці з Apple, цей потужний штучний інтелект вперше здатний ефективно працювати локально настільних комп'ютерах Mac завдяки фреймворку MLX. Така колаборація значно спрощує розгортання складних моделей на локальному залізі.",
-      "ai_title": "Meta та Apple об'єдналися задля оптимізації нової моделі Muse AI для Mac",
-      "video_keywords": "apple computer, desktop setup, programmer typing, modern office"
-    },
-    {
-      "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-      "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-      "summary": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Driving (Supervised). Volvo says the new point-to-point system will be Level 2++, meaning it can [&#8230;]",
-      "published": "2026-10-15T17:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Автомобільний бренд Volvo планує впровадити повністю безконтактну систему автономного керування до 2030 року. Для реалізації цієї технології компанія використовуватиме новітні рішення штучного інтелекту від Nvidia. Нова система рівня 2++ забезпечить рух за маршрутом від точки до точки без участі водія.",
-      "ai_title": "Volvo готує автопілот нового покоління на базі технологій Nvidia",
-      "video_keywords": "autonomous car, driving steering wheel, modern dashboard, highway POV"
     },
     {
       "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
@@ -374,6 +344,26 @@
       "ai_summary": "Поки техногіганти активно просувають автономних штучних інтелектів для пошуку інформації та покупок в інтернеті, звичайні сайти все частіше закривають для них свої двері. Веб-ресурси намагаються захистити власний трафік і контент від несанкціонованого парсингу роботами.",
       "ai_title": "Власники сайтів масово блокують доступ автономним ШІ-агентам",
       "video_keywords": "computer screen error, website blocked, cyber security shield, person closing laptop"
+    },
+    {
+      "title": "OpenAI discloses four more rogue incidents",
+      "link": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/\">https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132502\">https://news.ycombinator.com/item?id=50132502</",
+      "published": "2026-10-17T16:31:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія OpenAI розкрила інформацію про чотири додаткові випадки несанкціонованого використання або загрози для фінансових, медичних і державних даних. Такі інциденти підіймають серйозні питання щодо надійності захисту конфіденційної інформації в сучасних системах штучного інтелекту.",
+      "ai_title": "OpenAI повідомила про нові інциденти з безпекою даних",
+      "video_keywords": "server room, data breach, computer monitor, digital security"
+    },
+    {
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "summary": "<p>Article URL: <a href=\"https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/\">https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132278\">https://news.ycombinator.",
+      "published": "2026-10-17T16:04:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Amazon використовує штучний інтелект для моніторингу та оцінки ризиків створення профспілок на своїх складах у британських містах. Це викликало занепокоєння щодо приватності працівників та законності методів корпоративного нагляду.",
+      "ai_title": "Amazon стежить за профспілками у Великій Британії за допомогою ШT",
+      "video_keywords": "warehouse workers, security camera, surveillance monitor, industrial interior"
     }
   ],
   "Бізнес / Стартапи": [
@@ -416,16 +406,6 @@
       "ai_summary": "Експериментальна платформа Attie від Bluesky тепер дозволяє будь-кому створювати інтерактивні ігри та вебсайти. Нова функція базується на концепції «соціального кодування» та взаємодіє з аудиторією мережі.",
       "ai_title": "Bluesky запускає інструмент для створення сайтів та ігор за допомогою AI",
       "video_keywords": "person typing keyboard, computer monitor, game design, digital workspace"
-    },
-    {
-      "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-      "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-      "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-      "published": "2026-10-15T17:34:40+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Автовиробник Volvo розширює співпрацю з Nvidia для вдосконалення систем безпілотного керування. Нові технології впроваджуватимуться не лише в електромобілі, а й в інші моделі авто.",
-      "ai_title": "Volvo посилює партнерство з Nvidia заради автономного водіння",
-      "video_keywords": "autonomous car, steering wheel, dashboard screen, futuristic vehicle"
     },
     {
       "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
@@ -599,26 +579,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
-      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sweden revisits digital krona as ECB advances digital euro plans \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M505KEFKPMPQ9SXKC8HEV451/stockholm-sweden.jpg\" /></p><p>Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreig",
-      "published": "2026-10-15T16:49:59+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Центральний банк Швеції (Riksbank) рекомендував парламенту розпочати підготовку до можливого впровадження цифрової крони. Таке рішення зумовлене занепокоєнням через поширення іноземних цифрових валют та активним просуванням цифрового євро з боку Європейського центрального банку. Країна прагне зберегти суверенітет над своєю платіжною системою.",
-      "ai_title": "Швеція повертається до ідеї цифрової крони на тлі планів ЄЦБ",
-      "video_keywords": "sweden flag, stockholm cityscape, digital currency, central bank"
-    },
-    {
-      "title": "At the White House, crypto policy vacancy looms large",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-      "summary": "",
-      "published": "2026-10-15T18:48:02+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Адміністрація президента США шукає фахівця на ключову посаду, що відповідає за регулювання цифрових активів. Це призначення може суттєво вплинути на подальший розвиток криптовалютної галузі в країні та відносини регуляторів з індустрією.",
-      "ai_title": "У Білому домі утворилася вакансія щодо формування криптополітики",
-      "video_keywords": "white house exterior, businessman in suit, desk with laptop, american flag"
-    },
     {
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -856,6 +816,16 @@
       "ai_summary": "Згідно з аналізом Fidelity, блокчейн Solana демонструє вражаючу стабільність без збоїв у мережі протягом двох років. Проте експерти радять продовжувати моніторинг певних вразливих зон мережі.",
       "ai_title": "Fidelity високо оцінила стійкість Solana, але закликала до обережності",
       "video_keywords": "cryptocurrency chart, computer screen, financial trading graphs"
+    },
+    {
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+      "summary": "",
+      "published": "2026-10-17T17:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Провідні фінансові гіганти Goldman Sachs, Wells Fargo та Morgan Stanley перестали сприймати токенізацію як загрозу. Вони розглядають нову технологію як ключовий драйвер для подальшого розширення та розвитку свого бізнесу.",
+      "ai_title": "Волл-стріт бачить у токенізації можливості для зростання",
+      "video_keywords": "financial district, stock exchange, digital trading, modern office"
     }
   ]
 }
