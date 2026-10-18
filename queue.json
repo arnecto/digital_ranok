@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "I never authorized an integration that scans my secrets",
-      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-      "summary": "<p>Article URL: <a href=\"https://github.com/home-assistant/home-assistant.io/issues/49314\">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124251\">https://news.ycombinator.com/item?id=50124251</a></p>\n<p>Points: 96</p>\n<p># Comments: 47</p>",
-      "published": "2026-10-16T20:33:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі виявили, що сторонні інтеграції сканують конфіденційні дані та секретні ключі без попереднього дозволу. Це викликало серйозне занепокоєння щодо безпеки та приватності в системі розумного дому.",
-      "ai_title": "Скандал із несанкціонованим скануванням файлів у Home Assistant",
-      "video_keywords": "programmer working laptop, security code, computer screen"
-    },
-    {
-      "title": "FLUX 3 Image Klein",
-      "link": "https://bfl.ai/blog/flux-3-image-klein",
-      "summary": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 52</p>\n<p># Comments: 8</p>",
-      "published": "2026-10-16T19:47:13+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія BFL випустила нову ітерацію своєї передової моделі для створення графіки. Оновлення пропонує покращену деталізацію, швидкість роботи та нові можливості для цифрових художників.",
-      "ai_title": "Реліз нової моделі генерації зображень FLUX 3 Image Klein",
-      "video_keywords": "digital artist drawing tablet, computer graphics, futuristic interface"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "summary": "<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 132</p>\n<p># Comments: 123</p>",
-      "published": "2026-10-16T19:04:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Антропік поділилася внутрішніми практиками організації код-рев'ю для проєкту Claude Code. Стаття розкриває методи підвищення якості коду та ефективності командної розробки за допомогою штучного інтелекту.",
-      "ai_title": "Як команда Claude Code організовує процес рев'ю коду",
-      "video_keywords": "software engineer typing, dual monitors, programming code"
-    },
-    {
-      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
-      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a [&#8230;]",
-      "published": "2026-10-16T20:50:27+00:00",
-      "source": "The Verge",
-      "ai_summary": "Ексклюзивний та майже недоступний для прослуховування альбом Once Upon A Time in Shaolin нарешті частково став публічним. Подкаст Pablo Torre Finds Out опублікував два рідкісні уривки з цієї загадкової платівки.",
-      "ai_title": "У мережі з'явилися уривки легендарного секретного альбому Wu-Tang Clan",
-      "video_keywords": "vinyl record spinning, DJ turntable, retro music"
-    },
-    {
-      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding [&#8230;]",
-      "published": "2026-10-16T20:49:04+00:00",
-      "source": "The Verge",
-      "ai_summary": "У Каліфорнії сталася чергова аварія за участю електромобіля на автопілоті, внаслідок якої постраждали автомобілі патрульної служби. Поліція нагадує, що поточні системи допомоги водієві не роблять транспорт повністю автономним.",
-      "ai_title": "Водій Tesla заснув за кермом у режимі автопілота та врізався в поліцейську машину",
-      "video_keywords": "police car flashing lights, highway night, traffic accident"
-    },
-    {
       "title": "All the news about the iPhone Duo",
       "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
       "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and [&#8230;]",
@@ -299,19 +249,19 @@
       "ai_summary": "Жінку затримали у Філадельфії після того, як вона свідомо заблокувала шлях автономному роботу-доставнику Uber та відмовилася звільнити дорогу. Свій вчинок вона пояснила протестом проти того, що штучний інтелект та автоматизація позбавляють роботи людей-кур'єрів. Цей інцидент підняв гостру дискусію про етичність впровадження робототехніки в міське середовище.",
       "ai_title": "У Філадельфії заарештували жінку через протест проти робота-кур'єра",
       "video_keywords": "delivery robot, sidewalk, urban street, pedestrian walking"
+    },
+    {
+      "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+      "link": "https://arxiv.org/abs/2610.18861",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.18861\">https://arxiv.org/abs/2610.18861</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145337\">https://news.ycombinator.com/item?id=50145337</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+      "published": "2026-10-18T20:48:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники представили гібридні агенти міркувань, які суттєво оптимізують роботу штучного інтелекту. Новий підхід дозволяє витрачати на 35–55% менше токенів та забезпечує прискорення генерації відповідей до 2,6 раза.",
+      "ai_title": "Нові агенти штучного інтелекту працюють удвічі швидше",
+      "video_keywords": "server room, data center, glowing code, computer screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-      "published": "2026-10-16T19:40:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий електричний кросовер Porsche Macan Turbo 2026 року вражає своїми характеристиками: він оснащений батареєю на 100 кВт-год та розвиває потужність у 630 кінських сил. Це авто є важливою віхою в електрифікації спортивних автомобілів преміум-класу.",
-      "ai_title": "Електричний Porsche Macan Turbo: новий виклик для бренду",
-      "video_keywords": "electric car, luxury SUV, driving fast, modern vehicle"
-    },
     {
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
@@ -391,19 +341,39 @@
       "ai_summary": "Компанія Rivian готує до запуску свої нові проєкти, які мають змінити правила гри на ринку електромобілів. Особливу увагу розробники приділяють інтеграції штучного інтелекту в сучасні транспортні системи.",
       "ai_title": "Наступний крок Rivian: майбутнє електротранспорту та штучного інтелекту",
       "video_keywords": "electric vehicle, automotive factory, futuristic car, technology"
+    },
+    {
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "published": "2026-10-18T21:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Партнери легендарного фонду Benchmark поділилися стратегією інвестування в умовах шаленого ринку. Вони наголошують на відсутності жорсткого порядку денного та важливості збереження присутності в Сан-Франциско. Попри зміни у складі та розмірах фондів, компанія зберігає свій унікальний підхід.",
+      "ai_title": "Секрети успіху венчурного фонду Benchmark у Кремнієвій долині",
+      "video_keywords": "venture capitalist, modern office, business meeting, San Francisco skyline"
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "published": "2026-10-18T20:37:40+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Штучний інтелект-стартап Anthropic оголосив про передачу 5% своїх акцій до спеціального фонду суспільного благополуччя. Це рішення підкреслює зобов'язання компанії розвивати технології відповідально та на користь суспільства. Крок демонструє новий тренд соціальної відповідальності серед техногігантів.",
+      "ai_title": "Anthropic спрямує 5% своїх акцій до фонду суспільного благо, заявляють розробники",
+      "video_keywords": "artificial intelligence, hand shaking, corporate office, stock market chart"
+    },
+    {
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "published": "2026-10-18T19:03:38+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Нова стрічка «You Can See Everything» про скандальну засновницю Theranos демонструє другий за величиною касовий старт в історії документального кіно. Глядачі з усім світу продовжують стежити за деталями однієї з найбільших афер у Кремнієвій долині. Фільм викликав неабиякий резонанс у медіапросторі.",
+      "ai_title": "Документальний фільм про Елізабет Голмс б'є рекорди за переглядами",
+      "video_keywords": "cinema audience, watching movie, documentary screening, movie theater"
     }
   ],
   "Крипта": [
-    {
-      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-      "summary": "",
-      "published": "2026-10-17T02:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Новий квантовий чіп Willow від Google наблизив еру потужних квантових обчислень. Це створює потенційну загрозу безпеці ранніх гаманців Bitcoin, які використовують вразливі алгоритми шифрування.",
-      "ai_title": "Квантовий прорив Google створює загрозу для біткоїнів епохи Сатоші",
-      "video_keywords": "quantum computer, microchip, server room, glowing futuristic circuit"
-    },
     {
       "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
       "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
