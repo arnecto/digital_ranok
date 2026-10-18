@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/designing-efficient-quantum-circuits\">https://www.anthropic.com/research/designing-efficient-quantum-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121939\">https://news.ycombinator.com/item?id=50121939</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
-      "published": "2026-10-16T18:00:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic опублікувала дослідження про застосування моделі Claude для розробки оптимізованих квантових схем. Штучний інтелект допомагає знаходити нові підходи до проєктування складних квантових алгоритмів.",
-      "ai_title": "Створення ефективніших квантових схем за допомогою штучного інтелекту Claude",
-      "video_keywords": "quantum computer, glowing circuit board, futuristic laboratory, digital code"
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 166</p>\n<p># Comments: 134</p>",
-      "published": "2026-10-16T17:08:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нове дослідження ринку праці показало, що близько 90% робочих годин витрачається на процеси, які погано покриваються сучасними бенчмарками штучного інтелекту. Це демонструє значний розрив між можливостями поточних ШІ-моделей та реаліями повсякденної роботи.",
-      "ai_title": "Більшість робочого часу в США припадає на завдання, які ШІ поки не може якісно виконувати",
-      "video_keywords": "office workers, busy workplace, computer monitor, analytics charts"
-    },
-    {
-      "title": "Why Apple is finally making its own smart home devices",
-      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, [&#8230;]",
-      "published": "2026-10-16T18:30:27+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після багатьох років покладання на сторонніх виробників Apple представила власну лінійку пристроїв для розумного дому. До серії увійшли камери, термостати, датчики та дверні замки, створені у партнерстві з LG та Schneider Electric.",
-      "ai_title": "Чому Apple нарешті почала випускати власні пристрої для розумного дому",
-      "video_keywords": "smart home, modern living room, security camera, thermostat display"
-    },
-    {
       "title": "I never authorized an integration that scans my secrets",
       "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
       "summary": "<p>Article URL: <a href=\"https://github.com/home-assistant/home-assistant.io/issues/49314\">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124251\">https://news.ycombinator.com/item?id=50124251</a></p>\n<p>Points: 96</p>\n<p># Comments: 47</p>",
@@ -299,29 +269,39 @@
       "ai_summary": "Портативний пристрій Legion Go S став потужним конкурентом для Steam Deck завдяки більшому екрану та вдвічі більшому обсягу пам'яті. Тепер консоль продається зі знижкою у кілька сотень доларів.",
       "ai_title": "Нова портативна консоль Lenovo з SteamOS отримала велику знижку",
       "video_keywords": "handheld game console, gaming device, person hands playing, modern gadget"
+    },
+    {
+      "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+      "link": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+      "summary": "<p>Article URL: <a href=\"https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/\">https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50143876\">https://news.ycombinator.com/item?id=50143876</a></p>\n<p>",
+      "published": "2026-10-18T18:26:40+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Бюро фінансового захисту споживачів США ініціювало масштабне розслідування щодо діяльності дев'яти найбільших національних банків. Приводом стали скарги на неправомірне закриття рахунків та обмеження доступу клієнтів до їхніх коштів. Це розслідування може суттєво змінити правила роботи банківської сфери.",
+      "ai_title": "Регулятори США розпочали розслідування проти великих банків через блокування рахунків",
+      "video_keywords": "bank building, businessman, corporate office, financial district"
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\">https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50142866\">https://news.ycombinator.com/item?id=50142866</a></p>\n<p>Points: 81</p>\n<p># Comments: 34",
+      "published": "2026-10-18T16:56:56+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Популярний реєстратор доменів Namecheap опинився в епіцентрі скандалу після того, як клієнт повідомив про раптове вилучення та відключення всіх його вебсайтів. Ця ситуація викликала занепокоєння серед адміністраторів щодо надійності хмарних сервісів та безпеки цифрових активів. Користувачі масово обговорюють ризики втрати контролю над власними доменами.",
+      "ai_title": "Скандал з Namecheap: користувач заявив про масове блокування його доменів",
+      "video_keywords": "frustrated person, computer screen, typing keyboard, office worker"
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
+      "published": "2026-10-18T18:28:10+00:00",
+      "source": "The Verge",
+      "ai_summary": "Жінку затримали у Філадельфії після того, як вона свідомо заблокувала шлях автономному роботу-доставнику Uber та відмовилася звільнити дорогу. Свій вчинок вона пояснила протестом проти того, що штучний інтелект та автоматизація позбавляють роботи людей-кур'єрів. Цей інцидент підняв гостру дискусію про етичність впровадження робототехніки в міське середовище.",
+      "ai_title": "У Філадельфії заарештували жінку через протест проти робота-кур'єра",
+      "video_keywords": "delivery robot, sidewalk, urban street, pedestrian walking"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "published": "2026-10-16T17:52:24+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Експерти зафіксували в країні кібератаки, здійснені автономними штучними інтелектами. Зловмисники використовували незахищені облікові дані та вразливості у хмарних конфігураціях для проникнення в системи.",
-      "ai_title": "Індія зіткнулася з першими випадками активності автономних шкідливих ШІ-агентів",
-      "video_keywords": "cybersecurity hacker computer code glowing screen"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "published": "2026-10-16T21:22:28+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа для розробки Replit офіційно завершила партнерство з компанією Anthropic. За словами генерального директора, це рішення зумовлене кількома чинниками, зокрема фінансовими витратами на тлі нещодавньої співпраці з OpenAI.",
-      "ai_title": "Replit припиняє співпрацю з Anthropic через витрати",
-      "video_keywords": "coding, laptop screen, developer working, software code"
-    },
     {
       "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
       "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
@@ -401,19 +381,19 @@
       "ai_summary": "Після оголошення про банкрутство чат-бот стартапу Character.AI, більшість його співробітників отримають роботу в корпорації Disney. Це сталося після того, як колишній гендиректор стартапу очолив технологічний напрямок медіагіганта, а компанії уклали угоду про придбання активів.",
       "ai_title": "Disney працевлаштовує більшість команди стартапу Character.AI",
       "video_keywords": "office workers, corporate meeting, modern workspace, software developers"
+    },
+    {
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "published": "2026-10-18T16:05:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Rivian готує до запуску свої нові проєкти, які мають змінити правила гри на ринку електромобілів. Особливу увагу розробники приділяють інтеграції штучного інтелекту в сучасні транспортні системи.",
+      "ai_title": "Наступний крок Rivian: майбутнє електротранспорту та штучного інтелекту",
+      "video_keywords": "electric vehicle, automotive factory, futuristic car, technology"
     }
   ],
   "Крипта": [
-    {
-      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-      "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoin remittances cost 84% less than traditional transfers, report finds \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52M2X6XQAK15HXKMTSR830M/hi-how-to-send-money-to-family-and-friends-abroad-with-cryptocurrency.jpg\" /></p><p>Borderless.xyz data shows major savings on cross",
-      "published": "2026-10-16T17:21:45+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Згідно з новими даними, міжнародні грошові перекази з використанням стейблкоїнів дозволяють суттєво зекономити порівняно зі звичайними банківськими операціями. Це робить криптовалюту дедалі привабливішою для транскордонних платежів та відправки коштів родичам за кордон.",
-      "ai_title": "Перекази у стейблкоїнах виявилися на 84% дешевшими за традиційні",
-      "video_keywords": "smartphone, digital wallet, money transfer, cryptocurrency trading"
-    },
     {
       "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
       "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
@@ -563,6 +543,16 @@
       "ai_summary": "Попри стабілізацію загальної емісії стейблкоїнів, обсяги реальних транзакцій підскочили на 45%. Цьому сприяла інтеграція криптоактивів у традиційні платіжні системи такими гігантами, як Visa, Mastercard та Stripe, що зближує цифрові валюти з готівкою.",
       "ai_title": "Обсяги платежів у стейблкоїнах стрімко зростають завдяки гігантам індустрії",
       "video_keywords": "credit card payment, contactless terminal, smartphone shopping, digital wallet"
+    },
+    {
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "summary": "",
+      "published": "2026-10-18T18:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Ключова фігура з питань криптовалютної політики в адміністрації США йде зі своєї посади. Це рішення може вплинути на подальший курс регулювання цифрових активів у країні та взаємодію влади з криптоіндустрією.",
+      "ai_title": "Головний криптоексперт Білого дому залишає посаду",
+      "video_keywords": "white house, political press conference, politician speaking, government building"
     }
   ]
 }
