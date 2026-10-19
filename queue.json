@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
-      "published": "2026-10-17T15:04:36+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після хвилі критики компанія Meta вирішила оновити свої правила та видалити з них формулювання, які дозволяли збирати контент з веб-сайтів і новинних ресурсів для тренування штучного інтелекту. Цей крок є поступовою реакцією техногігантів на тиск з боку медіа та правовласників.",
-      "ai_title": "Meta прибрала з умов пункт про сканування новинних сайтів для ШІ",
-      "video_keywords": "person scrolling smartphone, social media feed, computer monitor code, office workspace"
-    },
-    {
-      "title": "OpenAI discloses four more rogue incidents",
-      "link": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-      "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/\">https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132502\">https://news.ycombinator.com/item?id=50132502</",
-      "published": "2026-10-17T16:31:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI розкрила інформацію про чотири додаткові випадки несанкціонованого використання або загрози для фінансових, медичних і державних даних. Такі інциденти підіймають серйозні питання щодо надійності захисту конфіденційної інформації в сучасних системах штучного інтелекту.",
-      "ai_title": "OpenAI повідомила про нові інциденти з безпекою даних",
-      "video_keywords": "server room, data breach, computer monitor, digital security"
-    },
-    {
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "summary": "<p>Article URL: <a href=\"https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/\">https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132278\">https://news.ycombinator.",
-      "published": "2026-10-17T16:04:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Amazon використовує штучний інтелект для моніторингу та оцінки ризиків створення профспілок на своїх складах у британських містах. Це викликало занепокоєння щодо приватності працівників та законності методів корпоративного нагляду.",
-      "ai_title": "Amazon стежить за профспілками у Великій Британії за допомогою ШT",
-      "video_keywords": "warehouse workers, security camera, surveillance monitor, industrial interior"
-    },
-    {
       "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
       "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
       "summary": "<p>Article URL: <a href=\"https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/\">https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50134617\">https://news.ycombinator.com/item?id=50134617</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
@@ -39,26 +9,6 @@
       "ai_summary": "Популярні браузери Chrome та Edge оголосили про видалення підтримки XSLT. Розробники радять заздалегідь перевірити свої вебсайти та застосунки на сумісність із новими стандартами.",
       "ai_title": "Chrome та Edge відмовляються від XSLT",
       "video_keywords": "web browser, computer screen, coding, typing hands"
-    },
-    {
-      "title": "OpenCode Hacked: User credentials leaked",
-      "link": "https://twitter.com/opencode/status/2111516673953935833",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/opencode/status/2111516673953935833\">https://twitter.com/opencode/status/2111516673953935833</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133401\">https://news.ycombinator.com/item?id=50133401</a></p>\n<p>Points: 361</p>\n<p># Comments: 66</p>",
-      "published": "2026-10-17T18:01:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Сервіс OpenCode зазнав кібератаки, внаслідок якої стався витік облікових даних користувачів. Фахівці рекомендують терміново змінити паролі та ввімкнути двофакторну автентифікацію.",
-      "ai_title": "Платформу OpenCode зламано: виточено дані користувачів",
-      "video_keywords": "hacker typing, cyber security, code on screen, warning sign"
-    },
-    {
-      "title": "TikTok bans Musk documentary account",
-      "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspension\" was imminent. Bleecker Street has [&#8230;]",
-      "published": "2026-10-17T19:32:23+00:00",
-      "source": "The Verge",
-      "ai_summary": "Платформа TikTok заблокувала офіційну сторінку майбутньої документальної стрічки про Ілона Маска за добу до її широкого релізу. Дистриб'ютор фільму повідомив про постійне блокування без пояснення деталей.",
-      "ai_title": "TikTok заблокував акаунт документального фільму про Ілона Маска",
-      "video_keywords": "smartphone scrolling, social media feed, digital screen, app interface"
     },
     {
       "title": "JDK 28",
@@ -289,39 +239,59 @@
       "ai_summary": "Дослідницький підрозділ Google представив новий репозиторій Harness2, спрямований на створення рекурсивних структур для автономних AI-агентів. Технологія покликана покращити взаємодію між різними компонентами штучного інтелекту та їхню здатність до самостійного вирішення складних завдань. Проєкт є важливим кроком у розвитку інженерії штучного інтелекту.",
       "ai_title": "Google Research анонсувала систему рекурсивних агентів Harness2",
       "video_keywords": "futuristic laboratory, server racks, computer monitors, tech research"
+    },
+    {
+      "title": "Mercury 3: Diffusion at scale",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "summary": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-3\">https://www.inceptionlabs.ai/blog/introducing-mercury-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155245\">https://news.ycombinator.com/item?id=50155245</a></p>\n<p>Points: 147</p>\n<p># Comments: 60</p>",
+      "published": "2026-10-19T17:27:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Inception Labs представила Mercury 3 — нову модель, що демонструє значний прогрес у застосуванні дифузійних технологій у великих масштабах. Цей реліз відкриває нові можливості для генеративного штучного інтелекту та обробки даних.",
+      "ai_title": "Mercury 3: Масштабування диффузійних моделей",
+      "video_keywords": "artificial intelligence, server rack, glowing data, futuristic computer screen"
+    },
+    {
+      "title": "Show HN: Open-source early-reading reader with phonics help",
+      "link": "https://github.com/finereli/yarareads",
+      "summary": "<p>My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitting and reading by herself.<p>So I built this book reader app to allow her to click on the words, ",
+      "published": "2026-10-19T17:58:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив безплатний додаток з відкритим кодом, який допомагає дітям опановувати читання за допомогою фонетичного розбору слів. Програма дозволяє малечі самостійно клікати на незнайомі слова та слухати їхнє звучання під час читання книг.",
+      "ai_title": "З'явився новий open-source застосунок для навчання читанню",
+      "video_keywords": "child reading book, tablet screen, studying at desk, kid smiling"
+    },
+    {
+      "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+      "link": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+      "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a discount on the XM6. The XM6 are a solid upgrade over [&#8230;]",
+      "published": "2026-10-19T18:52:41+00:00",
+      "source": "The Verge",
+      "ai_summary": "У межах акції новітні бездротові навушники Sony WF-1000XM6 можна придбати за зниженою ціною 238 доларів. Це рекордне зниження вартості для преміальної моделі з активним шумозаглушенням.",
+      "ai_title": "Флагманські навушники Sony подешевшали майже на 100 доларів",
+      "video_keywords": "wireless earbuds, unboxing tech, holding headphones, gadget close up"
+    },
+    {
+      "title": "Towards Company World Models",
+      "link": "https://www.beaconholdings.com/research/towards-company-world-models",
+      "summary": "<p>Article URL: <a href=\"https://www.beaconholdings.com/research/towards-company-world-models\">https://www.beaconholdings.com/research/towards-company-world-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50156332\">https://news.ycombinator.com/item?id=50156332</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-19T18:51:09+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники обговорюють створення комплексних «світових моделей» для компаній, які дозволяють симулювати ринкові процеси та поведінку бізнес-середовища. Такий підхід може кардинально змінити стратегічне планування за допомогою штучного інтелекту.",
+      "ai_title": "Концепція корпоративних світових моделей у бізнесі",
+      "video_keywords": "business analytics, glowing charts, futuristic dashboard, office meeting"
+    },
+    {
+      "title": "Ukraine carries out aerial drone evacuation of a wounded soldier",
+      "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+      "summary": "<p>Article URL: <a href=\"https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html\">https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155237\">https://news.ycombinator.com/item?id=50155237</a></p>\n<",
+      "published": "2026-10-19T17:26:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явилися повідомлення про те, що на передовій українські військові успішно застосували важкий безпілотник для повітряної евакуації пораненого солдата. Це новий крок у використанні робототехніки для порятунку життів в умовах бойових дій.",
+      "ai_title": "В Україні вперше провели евакуацію пораненого бійця за допомогою дрона",
+      "video_keywords": "military drone, flying quadcopter, battlefield, rescue operation"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "published": "2026-10-17T15:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Ember представила оновлену версію своєї популярної чашки з контролем температури. Головна інновація полягає в тому, що тепер користувачам не обов'язково використовувати мобільний додаток для налаштування градусів.",
-      "ai_title": "Учасник ринку випустив нову розумну чашку без потреби в додатку",
-      "video_keywords": "smart mug, hot tea, kitchen morning, pouring liquid"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "published": "2026-10-17T18:48:08+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа для розробки Replit змінює свого основного технологічного партнера. Генеральний директор компанії повідомив, що OpenAI замінить Anthropic як постачальник моделі за замовчуванням, хоча моделі Claude залишаться доступними для користувачів.",
-      "ai_title": "Replit припиняє співпрацю з Anthropic та переходить на моделі OpenAI",
-      "video_keywords": "software code on screen, laptop computer, programmer working, tech office"
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "published": "2026-10-17T21:31:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Meta внесла зміни до умов обслуговування, які раніше викликали занепокоєння щодо парсингу вебсторінок та тренування штучного інтелекту. Представники компанії запевняють, що оновлення не змінюють підходів платформи до сканування мережі.",
-      "ai_title": "Meta оновила правила використання платформи на тлі занепокоєння щодо збору даних для ШІ",
-      "video_keywords": "data center, server racks, computer screen, typing code"
-    },
     {
       "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
       "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
@@ -411,19 +381,59 @@
       "ai_summary": "Мільярдер заявив про плани роздати акції своєї аерокосмічної компанії кожній дитині в США. Загальна вартість такого подарунка може перевищити 10 мільярдів доларів, що становить приблизно один відсоток від поточного статку Маска.",
       "ai_title": "Ілон Маск пообіцяв подарувати акції SpaceX американським дітям",
       "video_keywords": "spacex rocket, launching, stock market, businessman portrait"
+    },
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "published": "2026-10-19T19:28:34+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Зловмисники отримали доступ до платформи OpenCode та викрали API-ключі користувачів, через що на їхніх акаунтах почали нараховуватися чималі суми за використання штучного інтелекту. Це ставить під загрозу безпеку розробників, які використовують відкриті AI-агенти.",
+      "ai_title": "Хакери зламали популярний AI-інструмент для кодування OpenCode",
+      "video_keywords": "hacker typing on keyboard, computer screen with code, cyberspace security"
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "published": "2026-10-19T19:00:12+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Застосунок Tolan, який допомагає користувачам у повсякденному житті за допомогою штучного інтелекту, залучив новий раунд фінансування. Проєкт уже зібрав понад 250 000 активних користувачів, що свідчить про стрімкий попит на персональних цифрових помічників.",
+      "ai_title": "AI-компаньйон Tolan залучив 30 мільйонів доларів інвестицій",
+      "video_keywords": "person using smartphone, smiling woman with phone, app interface"
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "published": "2026-10-19T18:37:27+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Tenstorrent залучив 1,5 мільярда доларів інвестицій та зберіг незалежність попри інтерес до поглинання з боку інших гігантів. Компанія планує використати кошти для масштабування виробництва відкритих чипів для штучного інтелекту, кидаючи виклик Nvidia.",
+      "ai_title": "Виробник AI-чіпів Tenstorrent оцінений у 6,2 мільярда доларів",
+      "video_keywords": "microchip manufacturing, computer hardware, circuit board"
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "published": "2026-10-19T18:00:39+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Штучний інтелект-агент Town стрімко злетів на ринку, залучивши 108 мільйонів доларів у раунді серії B. Лідерами фінансування виступили відомі венчурні фонди Forerunner Ventures та Menlo Ventures.",
+      "ai_title": "AI-стартап Town досяг статусу єдинорога за чотири місяці після запуску",
+      "video_keywords": "modern startup office, business people collaborating, financial chart on screen"
+    },
+    {
+      "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+      "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "summary": "His vision will culminate with the R4 vehicle.",
+      "published": "2026-10-19T17:39:51+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Генеральний директор Rivian заявив, що розвиток технологій автономного водіння дозволить повністю змінити зовнішній вигляд майбутніх машин. Кульмінацією цієї концепції стане випуск нової моделі автомобіля під назвою R4.",
+      "ai_title": "Rivian анонсує радикально новий дизайн майбутніх електромобілів",
+      "video_keywords": "futuristic electric car, autonomous vehicle driving, modern car interior"
     }
   ],
   "Крипта": [
-    {
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-      "summary": "",
-      "published": "2026-10-17T17:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Провідні фінансові гіганти Goldman Sachs, Wells Fargo та Morgan Stanley перестали сприймати токенізацію як загрозу. Вони розглядають нову технологію як ключовий драйвер для подальшого розширення та розвитку свого бізнесу.",
-      "ai_title": "Волл-стріт бачить у токенізації можливості для зростання",
-      "video_keywords": "financial district, stock exchange, digital trading, modern office"
-    },
     {
       "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
       "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -633,6 +643,36 @@
       "ai_summary": "Ринкова капіталізація стейблкоїна USD1 від World Liberty Financial скоротилася більш ніж на 400 мільйонів доларів протягом двох тижнів. Падіння відбулося на тлі масового викупу активів користувачами.",
       "ai_title": "Стейблкоїн USD1 від World Liberty втратив сотні мільйонів капіталізації",
       "video_keywords": "falling financial chart, crisis, red decreasing graph, business failure"
+    },
+    {
+      "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+      "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Visa, Mesh partner to enable crypto spending at 175M merchant locations\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AQTAX4CZKP1822SBZZMSMC/hi-could-those-who-left-visa-come-back.png\" /></p><p>Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allo",
+      "published": "2026-10-19T19:16:19+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Платіжний гігант Visa у партнерстві з платформою Mesh інтегрує криптовалютні та стейблкоїн-гаманці у свою глобальну мережу. Це дозволить користувачам вільно витрачати цифрові активи в 175 мільйонах торгових точок по всьому світу.",
+      "ai_title": "Visa об'єдналася з Mesh для оплати криптовалютою в мільйонах магазинів",
+      "video_keywords": "credit card payment, digital wallet, contactless payment, smartphone shopping"
+    },
+    {
+      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+      "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mastercard launches stablecoin risk screening for banks and payment providers \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5APDAY3V814QCHNF8PWJB4F/hi-how-mastercard-plans-to-settle-card-payments-with-stablecoins.jpg\" /></p><p>The new service combines payment data and blockchain ",
+      "published": "2026-10-19T19:03:23+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Mastercard представила новий сервіс для банків та платіжних провайдерів, призначений для моніторингу ризиків при операціях зі стейблкоїнами. Технологія об'єднує дані традиційних платежів з аналітикою блокчейну для підвищення безпеки.",
+      "ai_title": "Mastercard запускає систему перевірки ризиків для стейблкоїнів",
+      "video_keywords": "financial security, banking terminal, data analytics screen, cybersecurity monitor"
+    },
+    {
+      "title": "Revolut secures Gibraltar crypto license to support global expansion",
+      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Revolut secures Gibraltar crypto license to support global expansion\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5AJ2EGPXJENGSEWEZ0NCJ4J/hi-taking-a-closer-look-at-gibraltar-and-how-the-jurisdiction-fares-in-comparison-to-other-small-ones.png\" /></p><p>The UK-based fintech will ",
+      "published": "2026-10-19T17:24:49+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Британський фінтех-гігант Revolut успішно здобув нову ліцензію на надання криптопослуг у Гібралтарі. Цей крок є частиною стратегії компанії з розширення присутності на міжнародному ринку цифрових активів та дотримання регуляторних норм.",
+      "ai_title": "Revolut отримав криптоліцензію у Гібралтарі для глобального розширення",
+      "video_keywords": "mobile banking, business handshake, modern office, international passport"
     }
   ]
 }
