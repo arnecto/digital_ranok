@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Cities want to put the boot on robotaxis",
-      "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law [&#8230;]",
-      "published": "2026-10-18T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Муніципалітети все частіше намагаються жорстко регулювати роботу роботаксі через проблеми з безпекою дорожнього руху та конфлікти з міською інфраструктурою. Нові правила можуть суттєво обмежити розгортання автономного транспорту на вулицях великих міст.",
-      "ai_title": "Міста прагнуть запровадити суворі обмеження для безпілотних таксі",
-      "video_keywords": "autonomous car, robotaxi, city street, traffic"
-    },
-    {
       "title": "macOS 15.8.2 Breaks OpenGL",
       "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
       "summary": "<p>Article URL: <a href=\"https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550\">https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141909\">https://news.ycombinator.com/item?id=50141909</a></p>\n<p>Points: 76</p>\n<p># Comments: 35</p>",
@@ -349,6 +339,46 @@
       "ai_summary": "Запущено новий інструмент з відкритим кодом для незалежних розробників, який спрацьовує у разі зникнення чи смерті власника. Система автоматично передає необхідні дані довіреним особам, щоб бізнес та клієнти продовжували отримувати підтримку.",
       "ai_title": "Death Plan Switch — система автосповіщення для solo-розробників",
       "video_keywords": "empty office desk, laptop computer, modern workspace, thoughtful person"
+    },
+    {
+      "title": "Germany wants to become a global leader in industrial AI: government signs memorandum with NVIDIA on 'physical AI'",
+      "link": "https://en.ain.ua/2026/10/20/germany-wants-to-become-a-global-leader-in-industrial-ai-government-signs-memorandum-with-nvidia-on-physical-ai/",
+      "summary": "The German government and NVIDIA agreed to jointly develop models for physical AI and more widely deploy AI in manufacturing. The company also announced new investments in German startups.",
+      "published": "2026-10-20T11:49:00+00:00",
+      "source": "",
+      "ai_summary": "Уряд Німеччини підписав меморандум про співпрацю з компанією NVIDIA для розвитку технологій «фізичного ШІ». Партнерство передбачає масове впровадження штучного інтелекту у виробничі процеси та нові інвестиції в німецькі стартапи.",
+      "ai_title": "Німеччина об'єднується з NVIDIA заради лідерства у промисловому штучному інтелекті",
+      "video_keywords": "factory robotics, microchip, servers rack, industrial manufacturing"
+    },
+    {
+      "title": "Google cloud outage takes down banks",
+      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "summary": "<p>Article URL: <a href=\"https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/\">https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163961\">https://news.ycombinator.com/item?id=50163961</a></p>\n<p>Points: 98</p>\n<",
+      "published": "2026-10-20T10:26:02+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Технічні проблеми в хмарній інфраструктурі Google призвели до серйозних перебоїв у роботі низки великих банків та фінансових сервісів, зокрема HSBC та Revolut. Користувачі зіткнулися з труднощами під час доступу до своїх рахунків та здійснення платежів.",
+      "ai_title": "Масштабний збій Google Cloud паралізував роботу провідних банків",
+      "video_keywords": "server room, flashing red lights, frustrated person at computer, ATM machine"
+    },
+    {
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "summary": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, [&#8230;]",
+      "published": "2026-10-20T10:16:47+00:00",
+      "source": "The Verge",
+      "ai_summary": "Користувачі Google Home повідомили про критичний збій, через який їхні колонки у фоновому режимі безперервно завантажують сотні гігабайтів даних. Ймовірною причиною проблеми є помилка під час спроби завантажити та встановити оновлення прошивки.",
+      "ai_title": "Розумні колонки Google Home зафіксували завантаження гігабайтів дивного трафіку",
+      "video_keywords": "smart speaker, blinking LED light, digital data stream, internet router"
+    },
+    {
+      "title": "Spotify’s new podcast memberships let you pay for extra perks",
+      "link": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
+      "summary": "Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, [&#8230;]",
+      "published": "2026-10-20T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стрімінгова платформа розгортає нову функцію монетизації для авторів у 34 регіонах світу. Тепер слухачі можуть купувати спеціальні підписки для доступу до бонусних епізодів, раннього доступу до матеріалів та інших привілеїв.",
+      "ai_title": "Spotify запускає платні підписки для подкастів із ексклюзивним контентом",
+      "video_keywords": "person wearing headphones, smartphone screen, podcast recording studio, smiling creator"
     }
   ],
   "Бізнес / Стартапи": [
@@ -521,19 +551,49 @@
       "ai_summary": "Компанія Blackwall підняла свою оцінку в чотири рази завдяки розробці інструментів безпеки та фільтрації трафіку. Вони допомагають вебсайтам ефективно боротися зі зростаючою кількістю ботів та штучного інтелекту в інтернеті.",
       "ai_title": "Австралійський стартап Blackwall залучив $100 млн та оцінюється у $2,2 млрд",
       "video_keywords": "cybersecurity, server room, code on screen, data center"
+    },
+    {
+      "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+      "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+      "summary": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+      "published": "2026-10-20T12:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Spotify дозволяє авторам подкастів пропонувати слухачам платні підписки з додатковими перевагами, такими як прослуховування без реклами та ранній доступ. При цьому автори отримують 90% від загального доходу з таких підписок.",
+      "ai_title": "Spotify запускає платні підписки на подкасти з ексклюзивними бонусами",
+      "video_keywords": "podcast microphone, headphones, smartphone screen"
+    },
+    {
+      "title": "Oura adds new fitness metrics to show how workouts impact your body",
+      "link": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
+      "summary": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart ring market gets more crowded.",
+      "published": "2026-10-20T12:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі зростаючої конкуренції з боку RingConn та Ultrahuman, компанія Oura додає до свого розумного кільця розширені показники тренувань. Це дозволить бренду виділитися на перенасиченому ринку пристроїв, що носяться.",
+      "ai_title": "Oura оновлює розумне кільце новими фітнес-метриками для конкуренції на ринку",
+      "video_keywords": "smart ring, finger jewelry, fitness tracker app"
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "published": "2026-10-20T11:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Популярний сервіс Yelp інтегрує нові функції на базі штучного інтелекту, які можуть самостійно телефонувати до ресторанів задля перевірки часу очікування. Також ІІ створює персоналізовані рекомендації з урахуванням уподобань користувача.",
+      "ai_title": "Yelp додає штучний інтелект для дзвінків у ресторани та перевірки черг",
+      "video_keywords": "smartphone app, restaurant table, calling phone"
+    },
+    {
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230",
+      "published": "2026-10-20T11:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа Otter.ai отримала 320 мільйонів доларів від фонду General Catalyst без розмиття капіталу. Залучені кошти компанія спрямує на масштабування корпоративного бізнесу, міжнародну експансію та оновлення продукту.",
+      "ai_title": "Сервіс для нотаток Otter.ai залучив 320 мільйонів доларів інвестицій",
+      "video_keywords": "business meeting, laptop screen, office presentation"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-      "summary": "",
-      "published": "2026-10-18T13:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики не мають єдиної думки щодо шансів біткоїна досягти позначки в 100 000 доларів до кінця року. Ситуація на ринку залишається невизначеною через інфляційні ризики та макроекономічні фактори, які тиснуть на настрої інвесторів.",
-      "ai_title": "Чи досягне біткоїн 100 тисяч доларів до кінця року: думки експертів розділилися",
-      "video_keywords": "bitcoin chart, cryptocurrency trading, stock market graph, financial dashboard"
-    },
     {
       "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
       "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
@@ -543,26 +603,6 @@
       "ai_summary": "Згідно з даними компанії Hacken, стандартні криптоаудити створюють у інвесторів помилкове відчуття захищеності. Водночас масштаби хакерських атак продовжують зростати, досягнувши показника у 1,18 мільярда доларів за третій квартал.",
       "ai_title": "Зломи у третьому кварталі завдали збитків на 1,18 мільярда доларів: криптоаудит не гарантує безпеки",
       "video_keywords": "hacker typing on keyboard, cybersecurity code, server room, digital lock"
-    },
-    {
-      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-      "summary": "",
-      "published": "2026-10-18T12:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Провідні криптобіржі Binance та Coinbase взяли участь у масовій спецоперації правоохоронців у Західній Африці. У результаті спільних дій вдалося виявити шахрайські схеми на суму близько 11 мільйонів доларів.",
-      "ai_title": "Binance та Coinbase долучилися до спецоперації проти шахраїв у Західній Африці",
-      "video_keywords": "police arresting suspect, handcuffs, digital currency exchange office, smartphone security"
-    },
-    {
-      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cysic crypto bridge halted after unauthorized mint of 10M CYS\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M579P8BRBQSA398D6CZ7DFCZ/hi-company-halts-bridge-after-reported-exploit.jpg\" /></p><p>Cysic said the incident was limited to bridge message processing and minting and did not",
-      "published": "2026-10-18T10:43:12+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Проєкт Cysic був змушений тимчасово зупинити роботу свого кросчейн-мосту після того злому, що дозволив згенерувати 10 мільйонів токенів CYS. Розробники запевняють, що проблему вдалося локалізувати в межах обробки повідомлень.",
-      "ai_title": "Криптоміст Cysic зупинили через несанкціонований випуск токенів",
-      "video_keywords": "computer screen error message, cybersecurity warning, server crash, digital tokens flow"
     },
     {
       "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
@@ -783,6 +823,56 @@
       "ai_summary": "Користувачі проєкту Sophon мають забрати свої активи до 25 листопада через майбутнє припинення роботи основної мережі. Розробники ухвалили таке рішення через занадто високі витрати на утримання блокчейна.",
       "ai_title": "Проєкт Sophon встановив дедлайн для виведення коштів перед закриттям мережі",
       "video_keywords": "computer screen warning, digital wallet app, crypto transaction, person typing on laptop"
+    },
+    {
+      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+      "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+      "summary": "",
+      "published": "2026-10-20T11:10:40+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітики JPMorgan прогнозують, що річна прибутковість біткоїна становитиме близько 10% протягом наступного десятиліття. Це вище за прогнози для традиційних акцій, облігацій та золото. Подібні перспективи зміцнюють статус криптовалюти як привабливого інвестиційного активу.",
+      "ai_title": "JPMorgan прогнозує високу прибутковість біткоїна",
+      "video_keywords": "financial charts, stock market, computer screen, trading graphs"
+    },
+    {
+      "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+      "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+      "summary": "",
+      "published": "2026-10-20T10:22:55+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Вартість біткоїна знизилася до 81 400 доларів на тлі падіння акцій азіатських виробників чипів. Трейдери на ринку опціонів масово шукають захисту від подальшого падіння цін. Волатильність на фондовому ринку безпосередньо впливає на криптоактиви.",
+      "ai_title": "Падіння курсу біткоїна через ситуацію на ринку чипів",
+      "video_keywords": "red trading charts, stock market crash, stressed trader, computer monitor"
+    },
+    {
+      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+      "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Drift exploiter sends $61M ETH to Tornado Cash, holds $194M \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FK6GAEQRFQBFCE1EBGAMG5/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it-1.jpg\" /></p><p>The April 1 hack caused about $295 million in losses and was later attributed ",
+      "published": "2026-10-20T12:38:28+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Зловмисник, відповідальний за масштабний хакерський злам платформи Drift, переказав 61 мільйон доларів у Ethereum через сервіс Tornado Cash. На його рахунках досі залишається значна сума вкрадених коштів. Це викликає занепокоєння щодо безпеки та відстеження транзакцій.",
+      "ai_title": "Хакер перевів мільйони в криптовалюті через міксер",
+      "video_keywords": "hacker typing on keyboard, dark room, glowing computer screen, cyber security"
+    },
+    {
+      "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
+      "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CCKGBRR4HTKS9W4W83F5VC/hi-what-are-inflows-and-outflows-on-crypto-exchanges2.jpg\" /></p><p>Mt. Gox extended its repayment deadline by another year as some creditors",
+      "published": "2026-10-20T10:20:13+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Збанкрутіла криптобіржа Mt. Gox вшосте відклала дедлайн виплат своїм кредиторам, перенісши його на 2027 рік. Таке рішення ще раз затягує багаторічний процес розрахунків з постраждалими користувачами. Постійні перенесення викликають невдоволення в криптоспільноті.",
+      "ai_title": "Mt. Gox знову перенесла виплати кредиторам",
+      "video_keywords": "calendar, office desk, waiting person, clock ticking"
+    },
+    {
+      "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
+      "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget plans Thai crypto exchange acquisition weeks after $388M hack \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5913E3NB29C5XXKGWE4B5TQ/thailand-2.jpg\" /></p><p>The proposed acquisition would give Bitget a route into Thailand’s crypto market through a locally licensed operator",
+      "published": "2026-10-20T10:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютна біржа Bitget планує придбати ліцензованого оператора в Таїланді всього через кілька тижнів після масштабного хакерського злому на 388 мільйонів доларів. Ця угода відкриє компанії офіційний вихід на ринок країни. Експерти стежать за тим, як біржа відновлює позиції після інциденту.",
+      "ai_title": "Біржа Bitget купує платформу в Таїланді після злому",
+      "video_keywords": "business handshake, corporate office, signing contract, modern workspace"
     }
   ]
 }
