@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "link": "https://api-docs.deepseek.com/guides/search/",
-      "summary": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/search/\">https://api-docs.deepseek.com/guides/search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138531\">https://news.ycombinator.com/item?id=50138531</a></p>\n<p>Points: 164</p>\n<p># Comments: 70</p>",
-      "published": "2026-10-18T06:50:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія DeepSeek офіційно представила новий сервіс пошуку та збору інформації для розробників. Вартість послуги становить лише 0,75 долара за 1000 успішних запитів, що створює серйозну конкуренцію на ринку.",
-      "ai_title": "DeepSeek запускає власні послуги пошуку та вилучення даних за доступною ціною",
-      "video_keywords": "coding on screen, data analytics, server room, typing on keyboard"
-    },
-    {
-      "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
-      "link": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
-      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c\">https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138462\">https://news.ycombinator.com/item?id=50138462</a></p>\n<p>Points: 37</p>\n<p># Comments: 38</p>",
-      "published": "2026-10-18T06:36:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Попри наявність престижного наукового ступеня PhD з Прінстонського університету, фахівець зіткнувся з жорстким застоєм на ринку праці. Він безуспішно подав резюме на понад 2300 вакансій, що підкреслює глибоку кризу при наймі у технологічній сфері.",
-      "ai_title": "Криза на ринку праці: випускник Прінстона не може знайти роботу після тисяч відгуків",
-      "video_keywords": "stressed person at desk, job rejection letter, computer screen, modern office workspace"
-    },
-    {
       "title": "Cities want to put the boot on robotaxis",
       "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law [&#8230;]",
@@ -349,19 +329,29 @@
       "ai_summary": "Нове дослідження показує, що спеціально змінені моделі штучного інтелекту без захисних фільтрів можуть сприяти хакерським атакам. Зловмисники використовують такі 'очищені' нейромережі для генерації шкідливого коду та пошуку вразливостей. Це створює нові загрози для корпоративної безпеки.",
       "ai_title": "Як модифіковані штучні інтелекти створюють ризики кібербезпеки",
       "video_keywords": "hacker typing, glowing code, computer monitor, dark room"
+    },
+    {
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "link": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "summary": "<p>Article URL: <a href=\"https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en\">https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50162198\">https://news.ycombinator.com/item?id=50162198</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+      "published": "2026-10-20T06:40:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники пропонують використовувати інструментарій Vite+ для ефективнішої розробки сучасних штучних інтелектів та агентів. Це рішення покликане спростити робочі процеси та пришвидшити створення програмних продуктів на базі AI.",
+      "ai_title": "Vite+ як новий інструмент для створення AI-агентів",
+      "video_keywords": "programmer working, glowing computer code, dual monitors, typing on keyboard"
+    },
+    {
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "link": "https://deathplanswitch.com/",
+      "summary": "<p>Hi HN,<p>I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs.<p>I've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients.<p>There's a backstory to this project, I was hospitalised in 2012 and lost my business back then and I cou",
+      "published": "2026-10-20T04:37:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Запущено новий інструмент з відкритим кодом для незалежних розробників, який спрацьовує у разі зникнення чи смерті власника. Система автоматично передає необхідні дані довіреним особам, щоб бізнес та клієнти продовжували отримувати підтримку.",
+      "ai_title": "Death Plan Switch — система автосповіщення для solo-розробників",
+      "video_keywords": "empty office desk, laptop computer, modern workspace, thoughtful person"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal [&#8230;]",
-      "published": "2026-10-18T16:30:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Після оголошення про банкрутство чат-бот стартапу Character.AI, більшість його співробітників отримають роботу в корпорації Disney. Це сталося після того, як колишній гендиректор стартапу очолив технологічний напрямок медіагіганта, а компанії уклали угоду про придбання активів.",
-      "ai_title": "Disney працевлаштовує більшість команди стартапу Character.AI",
-      "video_keywords": "office workers, corporate meeting, modern workspace, software developers"
-    },
     {
       "title": "TechCrunch Mobility: Rivian’s next act",
       "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
@@ -521,19 +511,19 @@
       "ai_summary": "Розробник штучного інтелекту Anthropic обговорює чергову мегаугоду у сфері обчислювальних потужностей. Цей контракт стане найбільшим у низці подібних багатомільярдних інвестицій компанії за останній рік.",
       "ai_title": "Anthropic веде переговори про масштабну угоду на 45 мільярдів доларів",
       "video_keywords": "server racks, data center, supercomputer, engineer server room"
+    },
+    {
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "published": "2026-10-20T07:01:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Blackwall підняла свою оцінку в чотири рази завдяки розробці інструментів безпеки та фільтрації трафіку. Вони допомагають вебсайтам ефективно боротися зі зростаючою кількістю ботів та штучного інтелекту в інтернеті.",
+      "ai_title": "Австралійський стартап Blackwall залучив $100 млн та оцінюється у $2,2 млрд",
+      "video_keywords": "cybersecurity, server room, code on screen, data center"
     }
   ],
   "Крипта": [
-    {
-      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-      "summary": "",
-      "published": "2026-10-18T07:13:32+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Через особливості торгівлі акціями пов'язаних із криптою компаній у неробочий час на Волл-стріт ринок зазнав різкого обвалу. Учасники торгів втратили десятки мільйонів доларів усього за кілька хвилин.",
-      "ai_title": "Трейдери втратили $52 мільйони за 10 хвилин через закриту Волл-стріт",
-      "video_keywords": "stock market crash, red charts, trading screens, stressed trader"
-    },
     {
       "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
       "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
@@ -773,6 +763,26 @@
       "ai_summary": "Зростання курсу біткоїна знову привертає увагу корпоративних казначейств до цифрових активів. Проте експерти зазначають, що епоха легких грошей та масового залучення капіталу в минулому, тому компанії діють набагато обережніше.",
       "ai_title": "Ралі біткоїна повертає інтерес компаній до резервів у криптовалюті",
       "video_keywords": "bitcoin chart, cryptocurrency trading, financial graph, business office"
+    },
+    {
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Bitcoin ETFs draw $527M in biggest showing since September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BWEPE5GWQF5EJR6RBF5RFF/bitcoin111.png\" /></p><p>BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while oth",
+      "published": "2026-10-20T05:39:20+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американські спотові біткоїн-ETF залучили понад пів мільярда доларів за день. Головним драйвером зростання став фонд від BlackRock, чиї надходження з легкістю перекрили відтік коштів з інших платформ.",
+      "ai_title": "Приплив капіталу в біткоїн-ETF досяг максимуму з вересня",
+      "video_keywords": "bitcoin chart, digital currency screen, stock exchange graph, financial trading floor"
+    },
+    {
+      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "link": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BTX2A4AWVPY2BYEAS2GXFK/hi-is-the-imf-shutting-the-door-prematurely-on-nft.jpg\" /></p><p>In June, Sophon’s developers said the costs of maintaining a standalone blockcha",
+      "published": "2026-10-20T05:14:11+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Користувачі проєкту Sophon мають забрати свої активи до 25 листопада через майбутнє припинення роботи основної мережі. Розробники ухвалили таке рішення через занадто високі витрати на утримання блокчейна.",
+      "ai_title": "Проєкт Sophon встановив дедлайн для виведення коштів перед закриттям мережі",
+      "video_keywords": "computer screen warning, digital wallet app, crypto transaction, person typing on laptop"
     }
   ]
 }
