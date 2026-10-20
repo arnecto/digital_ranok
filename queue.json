@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "A woman was arrested in Philly for blocking a delivery robot",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
-      "published": "2026-10-18T18:28:10+00:00",
-      "source": "The Verge",
-      "ai_summary": "Жінку затримали у Філадельфії після того, як вона свідомо заблокувала шлях автономному роботу-доставнику Uber та відмовилася звільнити дорогу. Свій вчинок вона пояснила протестом проти того, що штучний інтелект та автоматизація позбавляють роботи людей-кур'єрів. Цей інцидент підняв гостру дискусію про етичність впровадження робототехніки в міське середовище.",
-      "ai_title": "У Філадельфії заарештували жінку через протест проти робота-кур'єра",
-      "video_keywords": "delivery robot, sidewalk, urban street, pedestrian walking"
-    },
-    {
-      "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
-      "link": "https://arxiv.org/abs/2610.18861",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.18861\">https://arxiv.org/abs/2610.18861</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145337\">https://news.ycombinator.com/item?id=50145337</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-      "published": "2026-10-18T20:48:14+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники представили гібридні агенти міркувань, які суттєво оптимізують роботу штучного інтелекту. Новий підхід дозволяє витрачати на 35–55% менше токенів та забезпечує прискорення генерації відповідей до 2,6 раза.",
-      "ai_title": "Нові агенти штучного інтелекту працюють удвічі швидше",
-      "video_keywords": "server room, data center, glowing code, computer screen"
-    },
-    {
       "title": "Show HN: WhatsApp MCP running free on Cloudflare",
       "link": "https://github.com/finereli/whatsapp-mcp",
       "summary": "<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contac",
@@ -29,16 +9,6 @@
       "ai_summary": "Розробник створив інструмент, який дозволяє підключити персональний акаунт WhatsApp до мобільного Claude без використання платних серверів. Проєкт працює на базі Cloudflare та додатково інтегрується з Google для зручного пошуку імен контактів.",
       "ai_title": "Безкоштовний шлюз WhatsApp для Claude через Cloudflare",
       "video_keywords": "smartphone screen, typing message, cloud server, software code"
-    },
-    {
-      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-      "link": "https://github.com/Netflix/vmaf",
-      "summary": "<p>Article URL: <a href=\"https://github.com/Netflix/vmaf\">https://github.com/Netflix/vmaf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145295\">https://news.ycombinator.com/item?id=50145295</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
-      "published": "2026-10-18T20:43:40+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стрімінговий гігант Netflix продовжує розвивати свій алгоритм VMAF для оцінки перцептивної якості відео за допомогою мультиметодичного злиття. Цей інструмент допомагає інженерам оптимізувати стиснення та передачу відеоданих для мільйонів користувачів у всьому світі.",
-      "ai_title": "Netflix оновлює відкриту систему оцінки якості відео VMAF",
-      "video_keywords": "computer monitor, video editing software, timeline scrubbing, digital display"
     },
     {
       "title": "William Gibson and the trademarking of cyberspace",
@@ -369,39 +339,49 @@
       "ai_summary": "Компанія Google виклала у відкритий доступ TorchTPU — власний бекенд фреймворку PyTorch, оптимізований для тензорних процесорів TPU. Це нововведення спростить розробку та прискорить навчання моделей штучного інтелекту.",
       "ai_title": "Google відкрила вихідний код TorchTPU для роботи з PyTorch",
       "video_keywords": "server racks, computer hardware, glowing cables, data center"
+    },
+    {
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "summary": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 [&#8230;]",
+      "published": "2026-10-20T20:26:58+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія SpaceX оголосила про рекордні доходи у 14,6 мільярда доларів за третій квартал, продемонструвавши зростання на 161%. Головними драйверами такого фінансового стрибка стали підрозділ Суперінтелекту (SI) та розвиток супутникового зв'язку.",
+      "ai_title": "SpaceX заявляє про стрімке зростання завдяки штучному інтелекту",
+      "video_keywords": "rocket launch, satellite dish, computer screens, server room"
+    },
+    {
+      "title": "Snap is paying Robert Downey Jr. to do the Iron Man thing",
+      "link": "https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr",
+      "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt, practice art, [&#8230;]",
+      "published": "2026-10-20T20:32:09+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Snap призначила актора Роберта Дауні-молодшого на роль головного директора з кліентського досвіду для своїх AR-окулярів Specs. У серії промо-відео актор демонструє можливості нової технології в повсякденному житті.",
+      "ai_title": "Snap залучила Роберта Дауні-молодшого як амбасадора AR-окулярів",
+      "video_keywords": "augmented reality glasses, smart glasses, actor in studio, tech presentation"
+    },
+    {
+      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+      "link": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+      "summary": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are [&#8230;]",
+      "published": "2026-10-20T20:26:04+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Oura додала до своїх гаджетів дві ключові функції для моніторингу серцево-судинної системи. Вони допоможуть користувачам краще розуміти вплив регулярних тренувань на довгострокове здоров'я та оптимізувати навантаження.",
+      "ai_title": "Розумні каблучки Oura отримали нові функції для відстеження серцевого ритму",
+      "video_keywords": "smart ring, health tracking, fitness wristband, person exercising"
+    },
+    {
+      "title": "TikTok has started censoring searches for popular peptides",
+      "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
+      "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino acids that include substances like insulin and GLP-1. The problem is peptides also [&#8230;]",
+      "published": "2026-10-20T20:16:04+00:00",
+      "source": "The Verge",
+      "ai_summary": "Платформа TikTok почала блокувати видачу результатів за запитами, пов'язаними з популярними пептидами та препаратами для схуднення. Під цензуру потрапили такі терміни, як семаглутид та BPC-157, через їхнє суперечливе медичне застосування.",
+      "ai_title": "TikTok почав цензурувати пошук популярних пептидів",
+      "video_keywords": "smartphone screen, typing on phone, social media app, warning sign"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-      "published": "2026-10-18T21:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Партнери легендарного фонду Benchmark поділилися стратегією інвестування в умовах шаленого ринку. Вони наголошують на відсутності жорсткого порядку денного та важливості збереження присутності в Сан-Франциско. Попри зміни у складі та розмірах фондів, компанія зберігає свій унікальний підхід.",
-      "ai_title": "Секрети успіху венчурного фонду Benchmark у Кремнієвій долині",
-      "video_keywords": "venture capitalist, modern office, business meeting, San Francisco skyline"
-    },
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "published": "2026-10-18T20:37:40+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Штучний інтелект-стартап Anthropic оголосив про передачу 5% своїх акцій до спеціального фонду суспільного благополуччя. Це рішення підкреслює зобов'язання компанії розвивати технології відповідально та на користь суспільства. Крок демонструє новий тренд соціальної відповідальності серед техногігантів.",
-      "ai_title": "Anthropic спрямує 5% своїх акцій до фонду суспільного благо, заявляють розробники",
-      "video_keywords": "artificial intelligence, hand shaking, corporate office, stock market chart"
-    },
-    {
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-      "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-      "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
-      "published": "2026-10-18T19:03:38+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Нова стрічка «You Can See Everything» про скандальну засновницю Theranos демонструє другий за величиною касовий старт в історії документального кіно. Глядачі з усім світу продовжують стежити за деталями однієї з найбільших афер у Кремнієвій долині. Фільм викликав неабиякий резонанс у медіапросторі.",
-      "ai_title": "Документальний фільм про Елізабет Голмс б'є рекорди за переглядами",
-      "video_keywords": "cinema audience, watching movie, documentary screening, movie theater"
-    },
     {
       "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
       "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
@@ -606,19 +586,59 @@
       "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
       "published": "2026-10-20T15:03:41+00:00",
       "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "published": "2026-10-20T20:40:41+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія SpaceX завершила третій квартал із рекордним прибутком у 4,4 мільярда доларів. Головним рушієм такого фінансового успіху став бізнес напрямок, пов'язаний зі штучним інтелектом.",
+      "ai_title": "Штучний інтелект допоміг SpaceX отримати мільярдні прибутки",
+      "video_keywords": "spacex rocket, server room, artificial intelligence screen"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "published": "2026-10-20T20:35:10+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "OpenAI посилює свої позиції у сфері наук про життя шляхом поглинання команди та технологій стартапу Orchestra Bio. Це допоможе розвивати спеціалізовану ШІ-модель Rosalind для планування досліджень та аналізу результатів.",
+      "ai_title": "OpenAI купує біотехнологічний стартап Orchestra",
+      "video_keywords": "laboratory microscope, scientist DNA, biotechnology research"
+    },
+    {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "published": "2026-10-20T20:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Автомобільна версія помічника Gemini зможе використовувати дані з Gmail, Calendar, Maps та YouTube. Це дозволить штучному інтелекту надавати водію більш персоналізовані та контекстні відповіді під час поїздок.",
+      "ai_title": "Google інтегрує персоналізований ШІ Gemini у сучасні автомобілі",
+      "video_keywords": "car dashboard, GPS navigation screen, driver hands on steering wheel"
+    },
+    {
+      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+      "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+      "published": "2026-10-20T19:32:43+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Google слідом за Amazon випустила новий інструмент для розробників. Він дозволяє користувачам PyTorch легко переносити свої додатки з графічних процесорів Nvidia на інші платформи.",
+      "ai_title": "Google кидає виклик домінуванню Nvidia на ринку ШІ-розробників",
+      "video_keywords": "server rack, computer code scrolling, microchip hardware"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "published": "2026-10-20T18:38:24+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "OpenAI додала можливість захистити приватні розмови від сторонніх очей. Ця функція стане в пригоді, якщо ви передаєте свій телефон друзям чи родичам і хочете приховати особисті листування.",
+      "ai_title": "У ChatGPT з'явилася функція блокування окремих чатів",
+      "video_keywords": "smartphone screen, lock icon, typing on mobile phone"
     }
   ],
   "Крипта": [
-    {
-      "title": "The White House's crypto chief departs: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-      "summary": "",
-      "published": "2026-10-18T18:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Ключова фігура з питань криптовалютної політики в адміністрації США йде зі своєї посади. Це рішення може вплинути на подальший курс регулювання цифрових активів у країні та взаємодію влади з криптоіндустрією.",
-      "ai_title": "Головний криптоексперт Білого дому залишає посаду",
-      "video_keywords": "white house, political press conference, politician speaking, government building"
-    },
     {
       "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
       "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
@@ -893,6 +913,26 @@
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CW3NTKT5PSES4HTCWWPBKD/new-york-stock-exchange-nyse.jpg\" /></p><p>About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform propos",
       "published": "2026-10-20T16:23:17+00:00",
       "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DEQWS5T9NWD3NCPZKH095N/hi-how-you-could-save-money-when-reporting-crypto-mica.png\" /></p><p>The firms are seeking clearer guidance on the classification of crypto ",
+      "published": "2026-10-20T20:38:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанії звернулися до Комісії з цінних паперів і бірж США з вимогою оновити регулювання. Вони прагнуть отримати чіткіші правила класифікації криптовалют для торгівлі та аірдропів.",
+      "ai_title": "Bitwise та Hyperliquid вимагають від SEC змінити правила торгівлі токенами",
+      "video_keywords": "cryptocurrency trading, computer screen, financial charts, digital coins"
+    },
+    {
+      "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "link": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto’s 2026 shutdown wave claims 82 projects. What went wrong? \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg\" /></p><p>Crypto projects are struggling to survive as falling revenues,",
+      "published": "2026-10-20T19:59:39+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Стрімке падіння доходів та криза ліквідності призвели до закриття 82 криптопроєктів у 2026 році. Експерти аналізують причини масового банкрутства у секторі.",
+      "ai_title": "Хвиля закриттів у криптоіндустрії: понад 80 проєктів припинили роботу",
+      "video_keywords": "empty office, business failure, stressed person, laptop closing"
     }
   ]
 }
