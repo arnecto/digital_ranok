@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "link": "https://github.com/finereli/whatsapp-mcp",
-      "summary": "<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contac",
-      "published": "2026-10-18T21:36:10+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив інструмент, який дозволяє підключити персональний акаунт WhatsApp до мобільного Claude без використання платних серверів. Проєкт працює на базі Cloudflare та додатково інтегрується з Google для зручного пошуку імен контактів.",
-      "ai_title": "Безкоштовний шлюз WhatsApp для Claude через Cloudflare",
-      "video_keywords": "smartphone screen, typing message, cloud server, software code"
-    },
-    {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "link": "https://colo.to/cyberspace.html",
-      "summary": "<p>Article URL: <a href=\"https://colo.to/cyberspace.html\">https://colo.to/cyberspace.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146625\">https://news.ycombinator.com/item?id=50146625</a></p>\n<p>Points: 55</p>\n<p># Comments: 3</p>",
-      "published": "2026-10-18T23:37:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Історія про те, як відомий письменник-фантаст Вільям Гібсон намагався вплинути на використання та комерціалізацію терміна «кіберпростір». Стаття досліджує культурний вплив його творчості на сучасні технології та концепцію інтернету.",
-      "ai_title": "Вільям Гібсон та спроби зарезервувати кіберпростір",
-      "video_keywords": "vintage typewriter, cyberpunk city, neon lights, old books"
-    },
-    {
       "title": "DeepSeek V4.1 Flash 1017 (Max)",
       "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
       "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017\">https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148452\">https://news.ycombinator.com/item?id=50148452</a></p>\n<p>Points: 90</p>\n<p># Comments: 25</p>",
@@ -379,6 +359,26 @@
       "ai_summary": "Платформа TikTok почала блокувати видачу результатів за запитами, пов'язаними з популярними пептидами та препаратами для схуднення. Під цензуру потрапили такі терміни, як семаглутид та BPC-157, через їхнє суперечливе медичне застосування.",
       "ai_title": "TikTok почав цензурувати пошук популярних пептидів",
       "video_keywords": "smartphone screen, typing on phone, social media app, warning sign"
+    },
+    {
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+      "published": "2026-10-20T23:04:19+00:00",
+      "source": "The Verge",
+      "ai_summary": "Федеральний суддя закрив справу за позовом сестри генерального директора OpenAI Сема Альтмана через її неявку на медичну експертизу. Позивачка раніше звинувачувала брата у домаганнях у дитячому віці.",
+      "ai_title": "Суд відхилив позов проти Сема Альтмана",
+      "video_keywords": "courtroom, judge gavel, legal documents"
+    },
+    {
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
+      "published": "2026-10-20T22:11:34+00:00",
+      "source": "The Verge",
+      "ai_summary": "Штучний інтелект Gemini в Android Auto отримує доступ до особистих даних користувача через сервіси Google. Тепер водії зможуть запитувати асистента про деталі поїздок, календар чи пошту прямо під час кермування.",
+      "ai_title": "Google інтегрує персоналізований Gemini у在 автомобільні системи",
+      "video_keywords": "car dashboard, touch screen, driving car"
     }
   ],
   "Бізнес / Стартапи": [
@@ -636,39 +636,39 @@
       "ai_summary": "OpenAI додала можливість захистити приватні розмови від сторонніх очей. Ця функція стане в пригоді, якщо ви передаєте свій телефон друзям чи родичам і хочете приховати особисті листування.",
       "ai_title": "У ChatGPT з'явилася функція блокування окремих чатів",
       "video_keywords": "smartphone screen, lock icon, typing on mobile phone"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "published": "2026-10-20T23:01:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Anthropic розробила законопроєкт щодо регулювання штучного інтелекту, який передбачає блокування моделей у разі загрози життю людей. Водночас критики зазначають, що документ фактично обмежує федеральні відомства у забороні нових моделей без рішення суду.",
+      "ai_title": "Anthropic пропонує закон про безпеку ШІ з неоднозначними обмеженнями",
+      "video_keywords": "artificial intelligence, courtroom, computer screen, legal document"
+    },
+    {
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "published": "2026-10-20T22:57:57+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Ради директорів обох компаній Ілона Маска сформували спеціальні комітети з незалежних директорів для вивчення ідеї об'єднання бізнесу. Сам мільярдер схвалює цю ініціативу, але запевняє, що не бере участі в роботі цих комітетів.",
+      "ai_title": "SpaceX та Tesla створюють спеціальні комітети для оцінки можливого злиття",
+      "video_keywords": "corporate meeting, boardroom, businessmen shaking hands, modern office"
+    },
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "published": "2026-10-20T21:25:22+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Напередодні запланованого виходу на IPO Anthropic намагається забезпечити достатні обчислювальні потужності. Однак хмарні провайдери все частіше сприймають стартап як прямого конкурента, через що співпраця стає проблемною.",
+      "ai_title": "Anthropic стикається з труднощами у партнерстві з хмарними провайдерами",
+      "video_keywords": "server room, data center, blinking lights, IT engineers"
     }
   ],
   "Крипта": [
-    {
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-      "summary": "",
-      "published": "2026-10-18T23:28:06+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Великі компанії, зокрема Broadcom та Verizon, висловили заперечення проти нових правил лістингу токенізованих акцій на платформі OKX-ICE. Це створює серйозні перешкоди для реалізації регуляторної рамки Комісії з цінних паперів і бірж США.",
-      "ai_title": "Емітенти виступили проти ініціативи SEC щодо токенізованих акцій",
-      "video_keywords": "stock market chart, financial documents, business meeting, computer monitors"
-    },
-    {
-      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg\" /></p><p>HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes t",
-      "published": "2026-10-18T22:58:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Засновника HEX Річарда Гаррта було затримано під час ранкового рейду в Стамбулі. Тим часом токен Starknet різко впав у ціні майже на 50% на тлі внутрішнього голосування та нових технологічних викликів.",
-      "ai_title": "Затримання засновника HEX та інші криптоновини тижня",
-      "video_keywords": "police lights, handcuffs, digital graphs falling, server room"
-    },
-    {
-      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-      "link": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic freezes chain after attacker drains 1.4K wallets with weak seeds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58TDQ3XD133AKC254WEC04M/wallet.jpg\" /></p><p>Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network valida",
-      "published": "2026-10-19T01:03:27+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Мережа Qubic була змушена зупинити роботу після того, як зловмисник використав слабкі сід-фрази для виведення коштів із 1400 криптовалютних гаманців. Більшу частину викрадених активів вдалося заблокувати на біржах та відстежити в мережі.",
-      "ai_title": "Блокчейн Qubic зупинили через масштабну крадіжку коштів із гаманців",
-      "video_keywords": "hacker typing on laptop, cryptocurrency wallet, digital security, padlock on screen"
-    },
     {
       "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
       "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
@@ -933,6 +933,26 @@
       "ai_summary": "Стрімке падіння доходів та криза ліквідності призвели до закриття 82 криптопроєктів у 2026 році. Експерти аналізують причини масового банкрутства у секторі.",
       "ai_title": "Хвиля закриттів у криптоіндустрії: понад 80 проєктів припинили роботу",
       "video_keywords": "empty office, business failure, stressed person, laptop closing"
+    },
+    {
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic restarts blockchain, opens recovery claims after $1.4M hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DSAH36P14HYENYBM6CHPAW/blockchain-network.jpg\" /></p><p>The network’s validators approved a recovery plan and opened claims until May 1, 2027.</p>",
+      "published": "2026-10-20T23:26:02+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Мережа успішно перезапустила блокчейн за рішенням валідаторів та відкрила прийом заяв на компенсацію збитків для постраждалих користувачів. Процес повернення коштів триватиме до весни 2027 року.",
+      "ai_title": "Блокчейн Qubic відновив роботу після хакерської атаки на 1,4 мільйона доларів",
+      "video_keywords": "blockchain network, server room, cybersecurity, digital code"
+    },
+    {
+      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+      "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Utah AG sues Kalshi, pursues profits from prediction market company\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M5NCSJSS1MAFGEDXXFPQN1/court-vs-kalshi-3.jpg\" /></p><p>Derek Brown likened the prediction market company to a “public nuisance“ that was “causing a significant and su",
+      "published": "2026-10-20T21:19:15+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Генеральний прокурор штату звинуватив компанію у створенні «суспільної небезпеки» та вимагає конфіскації її прибутків. Позов спрямований проти легальності роботи ринків прогнозів на базі криптовалют та подій.",
+      "ai_title": "Влада Юти подала до суду на платформу прогнозів Kalshi",
+      "video_keywords": "courtroom, gavel, judge, legal documents"
     }
   ]
 }
