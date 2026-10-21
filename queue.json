@@ -21,36 +21,6 @@
       "video_keywords": "hacker typing on keyboard, glowing computer screens, digital security, data matrix"
     },
     {
-      "title": "Vibe coding is turning the music gear world upside down",
-      "link": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
-      "summary": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost all of them is that they were made possible by increasingly sophisticated vibe coding tools. These sorts of custom firmware were exceedingly [&#8230;]",
-      "published": "2026-10-19T12:30:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Нові інструменти програмування на основі штучного інтелекту спричинили справжній бум створення кастомних прошивок для музичних синтезаторів та семплерів. Ентузіасти тепер можуть легко створювати складний софт для застарілого чи нового обладнання без глибоких знань традиційного кодування. Це явище кардинально трансформує ринок музичних девайсів.",
-      "ai_title": "AI-кодування змінює світ музичного обладнання",
-      "video_keywords": "musician in studio, electronic synthesizer, mixing console, glowing buttons"
-    },
-    {
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "link": "https://100toolkit.com/blog/deslop-model/",
-      "summary": "<p>Article URL: <a href=\"https://100toolkit.com/blog/deslop-model/\">https://100toolkit.com/blog/deslop-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151928\">https://news.ycombinator.com/item?id=50151928</a></p>\n<p>Points: 52</p>\n<p># Comments: 21</p>",
-      "published": "2026-10-19T13:00:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники представили оптимізовану модель Qwen3-4B, з якої за допомогою спеціального тренування прибрали надокучливі кліше та штампи, притаманні багатьом сучасним чат-ботам. Це робить згенерований текст набагато більш природним, людяним і позбавленим «роботизованого» стилю. Оновлення вже привернуло увагу спільноти програмістів та дослідників.",
-      "ai_title": "Вийшла нова версія мовної моделі Qwen3 без типових шаблонних фраз AI",
-      "video_keywords": "coding on screen, developer workspace, artificial intelligence, typing code"
-    },
-    {
-      "title": "Harness2 by Google Research – Recursive Agent Harnessing",
-      "link": "https://github.com/google-research/harness2",
-      "summary": "<p>Article URL: <a href=\"https://github.com/google-research/harness2\">https://github.com/google-research/harness2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151059\">https://news.ycombinator.com/item?id=50151059</a></p>\n<p>Points: 25</p>\n<p># Comments: 1</p>",
-      "published": "2026-10-19T11:28:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідницький підрозділ Google представив новий репозиторій Harness2, спрямований на створення рекурсивних структур для автономних AI-агентів. Технологія покликана покращити взаємодію між різними компонентами штучного інтелекту та їхню здатність до самостійного вирішення складних завдань. Проєкт є важливим кроком у розвитку інженерії штучного інтелекту.",
-      "ai_title": "Google Research анонсувала систему рекурсивних агентів Harness2",
-      "video_keywords": "futuristic laboratory, server racks, computer monitors, tech research"
-    },
-    {
       "title": "Mercury 3: Diffusion at scale",
       "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
       "summary": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-3\">https://www.inceptionlabs.ai/blog/introducing-mercury-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50155245\">https://news.ycombinator.com/item?id=50155245</a></p>\n<p>Points: 147</p>\n<p># Comments: 60</p>",
@@ -379,19 +349,59 @@
       "ai_summary": "Розроблено новий інструмент командного рядка Nexus-CLI на мові Go. Він забезпечує зручну взаємодію з передовими моделями штучного інтелекту, такими як DeepSeek R1/V3, а також підтримує Claude Code та Ollama.",
       "ai_title": "Nexus-CLI: новий міст для інтеграції DeepSeek, Claude Code та Ollama",
       "video_keywords": "terminal, coding, developer, laptop screen"
+    },
+    {
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "link": "https://www.ncsc.nl/actueel",
+      "summary": "<p>Article URL: <a href=\"https://www.ncsc.nl/actueel\">https://www.ncsc.nl/actueel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50179828\">https://news.ycombinator.com/item?id=50179828</a></p>\n<p>Points: 20</p>\n<p># Comments: 9</p>",
+      "published": "2026-10-21T12:31:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Національний центр кібербезпеки Нідерландів тимчасово призупинив роботу свого сайту. Причиною стали технічні труднощі, пов'язані з використанням мови програмування PHP.",
+      "ai_title": "Кіберцентр Нідерландів змушений піти в офлайн через проблеми з PHP",
+      "video_keywords": "server room, computer error, offline screen"
+    },
+    {
+      "title": "I reviewed the iPhone Duo, ask me anything",
+      "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+      "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, and I'm ready to answer your questions about it. The Duo represents [&#8230;]",
+      "published": "2026-10-21T12:15:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Експерти протестували новий складний смартфон від Apple протягом тижня. Пристрій вже активно обговорюють у технологічній спільноті, відповідаючи на питання користувачів щодо його практичності.",
+      "ai_title": "Огляд складного iPhone Duo: перші враження",
+      "video_keywords": "folding smartphone, touchscreen, mobile phone"
+    },
+    {
+      "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+      "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+      "summary": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware - eliminating the need for phone tethering, Bluetooth connections, or aux cables. It's the clearest sign yet [&#8230;]",
+      "published": "2026-10-21T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Стрімінговий сервіс анонсував нативний автомобільний додаток на базі Android Automotive. Він працює безпосередньо на мультимедійній системі автомобіля без потреби підключення через телефон.",
+      "ai_title": "Spotify випускає власний додаток для автомобілів",
+      "video_keywords": "car dashboard, touchscreen display, driving car"
+    },
+    {
+      "title": "I can’t get enough of the iPhone Duo’s matte inner display",
+      "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+      "summary": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past week to watch movies on a plane, peruse my [&#8230;]",
+      "published": "2026-10-21T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Користувачі позитивно оцінили матове покриття внутрішнього екрана складного смартфона від Apple. Воно робить перегляд фільмів та читання текстів зручнішими в дорозі.",
+      "ai_title": "Матовий екран нового iPhone Duo: головна перевага",
+      "video_keywords": "matte screen, watching movie, airplane window"
+    },
+    {
+      "title": "A critical PHP vulnerability may take websites down today",
+      "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+      "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of [&#8230;]",
+      "published": "2026-10-21T11:49:17+00:00",
+      "source": "The Verge",
+      "ai_summary": "Розробники PHP готують термінові патчі безпеки через виявлення двох критичних вразливостей. Проблема може негативно вплинути на роботу багатьох веб-сайтів і додатків в інтернеті.",
+      "ai_title": "Критична вразливість у PHP загрожує роботі сайтів",
+      "video_keywords": "cyber security, hacker typing, computer code"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-      "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
-      "summary": "That's more than $10 billion in shares, or around 1% of Musk's current net worth.",
-      "published": "2026-10-19T12:42:55+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Мільярдер заявив про плани роздати акції своєї аерокосмічної компанії кожній дитині в США. Загальна вартість такого подарунка може перевищити 10 мільярдів доларів, що становить приблизно один відсоток від поточного статку Маска.",
-      "ai_title": "Ілон Маск пообіцяв подарувати акції SpaceX американським дітям",
-      "video_keywords": "spacex rocket, launching, stock market, businessman portrait"
-    },
     {
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
@@ -656,29 +666,19 @@
       "ai_summary": "Напередодні запланованого виходу на IPO Anthropic намагається забезпечити достатні обчислювальні потужності. Однак хмарні провайдери все частіше сприймають стартап як прямого конкурента, через що співпраця стає проблемною.",
       "ai_title": "Anthropic стикається з труднощами у партнерстві з хмарними провайдерами",
       "video_keywords": "server room, data center, blinking lights, IT engineers"
+    },
+    {
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+      "published": "2026-10-21T13:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стартап Mach9, який спочатку планував створювати апаратне забезпечення для геодезії, успішно переорієнтувався на розробку програмного забезпечення на основі штучного інтелекту для САПР. Це дозволило компанії залучити 34 мільйони доларів інвестицій для подальшого масштабування свого продукту.",
+      "ai_title": "Український/світовий стартап Mach9 залучив $34 млн після зміни курсу на ШІ-софт",
+      "video_keywords": "software engineer, computer screen, artificial intelligence, office meeting"
     }
   ],
   "Крипта": [
-    {
-      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-      "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-      "summary": "",
-      "published": "2026-10-19T12:16:58+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Засновник Cardano Чарльз Госкінсон оголосив про створення нової мови програмування для мережі. Це нововведення має покращити функціональність блокчейну та полегшити роботу розробників.",
-      "ai_title": "Cardano розробляє нову мову програмування",
-      "video_keywords": "programmer typing code, computer screen, software development, futuristic interface"
-    },
-    {
-      "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
-      "link": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Made an ‘honest’ mistake with crypto taxes? New bill offers way out\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4Y6ADK23SXVZZ2X6X5VB391/grounded-figure-for-taxes.png\" /></p><p>A proposed US bill would let crypto investors correct past tax reporting mistakes through a dedicated d",
-      "published": "2026-10-19T13:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "У США запропонували законопроєкт, який дає змогу криптоінвесторам легально та без штрафів виправити минулі помилки у звітності про податки. Механізм передбачає спеціальну процедуру коригування декларацій.",
-      "ai_title": "Новий законопроєкт дозволить виправити помилки в податках на крипту",
-      "video_keywords": "person filling tax form, calculator, financial documents, pen signing paper"
-    },
     {
       "title": "Public companies object to OKX-ICE’s tokenized stock plan",
       "link": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -688,26 +688,6 @@
       "ai_summary": "Дев'ятеро публічних компаній висловили протест проти ініціативи OKX-ICE пропонувати їхні акції у токенізованому вигляді. Емітенти стурбовані потенційними регуляторними та ринковими ризиками такого кроку.",
       "ai_title": "Публічні компанії виступили проти токенізованих акцій OKX-ICE",
       "video_keywords": "stock exchange board, financial charts, corporate office building, business meeting"
-    },
-    {
-      "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
-      "link": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy buys $22M in Bitcoin, repurchases $193M in STRC\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31XS0NMWAFA2WAAJKR59VQ7/hi-strategyb-buys-bitcoin-1.jpg\" /></p><p>Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC shares and boosted its preferred ",
-      "published": "2026-10-19T12:30:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Strategy поповнила свої активи на 267 біткоїнів, інвестувавши 22 мільйони доларів. Також вона викупила власні акції на значну суму для зміцнення капіталу.",
-      "ai_title": "Компанія Strategy придбала біткоїни на мільйони доларів",
-      "video_keywords": "cryptocurrency trading dashboard, bitcoin coins, digital wallet, financial growth chart"
-    },
-    {
-      "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
-      "link": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59YSQ28A26ADD8VD1ZH7KKN/usd1.png\" /></p><p>World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large rede",
-      "published": "2026-10-19T11:57:58+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Ринкова капіталізація стейблкоїна USD1 від World Liberty Financial скоротилася більш ніж на 400 мільйонів доларів протягом двох тижнів. Падіння відбулося на тлі масового викупу активів користувачами.",
-      "ai_title": "Стейблкоїн USD1 від World Liberty втратив сотні мільйонів капіталізації",
-      "video_keywords": "falling financial chart, crisis, red decreasing graph, business failure"
     },
     {
       "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
@@ -953,6 +933,56 @@
       "ai_summary": "Провідні IT-компанії терміново блокують низку цифрових сертифікатів через виявлені криптографічні вразливості. Проблема могла дозволити зловмисникам підробляти захищені HTTPS-зєднання для будь-яких вебсайтів.",
       "ai_title": "Технологічні гіганти блокують вразливі сертифікати безпеки",
       "video_keywords": "cyber security, hacker typing, warning screen, digital lock"
+    },
+    {
+      "title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
+      "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+      "summary": "",
+      "published": "2026-10-21T10:30:40+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Курс біткоїна продемонстрував стрімке зростання, перетнувши позначку у 83 000 доларів. Позитивну динаміку ринку підтримали фінансові результати компанії SpaceX та чутки про можливе об'єднання з Tesla.",
+      "ai_title": "Біткоїн перевищив 83 000 доларів на тлі новин від SpaceX та можливого злиття з Tesla",
+      "video_keywords": "bitcoin price chart, stock market trading floor, futuristic financial screen"
+    },
+    {
+      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+      "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Drift exploiter sends $109M in Ether to Tornado Cash in 2 days\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K817QH0K358EBX7ENA8QG7/hacker-and-lasers-ethereum.jpg\" /></p><p>Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 mi",
+      "published": "2026-10-21T10:13:52+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Зловмисник, причетний до масштабного квітневого зламу на 295 мільйонів доларів, протягом двох днів відправив величезну суму в Ether через міксер Tornado Cash. Попри це, у пов'язаних із хакером гаманцях досі залишаються мільйони.",
+      "ai_title": "Хакер protocol Drift перевів 109 мільйонів доларів у Ethereum через Tornado Cash",
+      "video_keywords": "hacker typing on laptop, glowing cyber code, dark room computer screen"
+    },
+    {
+      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+      "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+      "summary": "",
+      "published": "2026-10-21T12:10:39+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Провідні фінансові структури Shinhan та SBI уклали партнерство для тестування платежів у стейблкоїнах. Нова ініціатива дозволить японським мандрівникам зручно здійснювати транзакції під час поїздок до Південної Кореї.",
+      "ai_title": "Японські туристи зможуть розраховуватися єєновими стейблкоїнами в Південній Кореї",
+      "video_keywords": "smartphone mobile payment, tourist scanning QR code, busy street in Seoul"
+    },
+    {
+      "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+      "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"PancakeSwap TVL tops $380M as major fee overhaul heads to vote \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F0XMYD8030VW50866B29EH/defi-pancakeswap-icon-changed.png\" /></p><p>PancakeSwap’s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAK",
+      "published": "2026-10-21T10:50:52+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Децентралізована біржа PancakeSwap фіксує приплив капіталу в очікуванні голосування за масштабне оновлення системи комісій. Нововведення передбачає спрямування більшої частини зборів на користь постачальників ліквідності.",
+      "ai_title": "Заблокована вартість у PancakeSwap перевищила 380 мільйонів доларів на фоні реформи комісій",
+      "video_keywords": "cryptocurrency exchange interface, digital graphics, modern computer monitor"
+    },
+    {
+      "title": "France proposes liability for crypto exchanges offering DeFi access",
+      "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"France proposes liability for crypto exchanges offering DeFi access\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EW6T8X7HNP6HYDF0Y90R51/cointelegraph-with-french-flag.png\" /></p><p>French authorities want crypto exchanges to conduct checks on DeFi protocols and face liability fo",
+      "published": "2026-10-21T10:46:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Французькі регулятори виступили з ініціативою зобов'язати криптовалютні біржі ретельно перевіряти децентралізовані протоколи. У разі недотримання правил торгові платформи можуть понести юридичну відповідальність за роботу з DeFi.",
+      "ai_title": "Франція пропонує запровадити відповідальність для криптобірж за доступ до DeFi",
+      "video_keywords": "Paris cityscape, legal document signing, business meeting in modern office"
     }
   ]
 }
