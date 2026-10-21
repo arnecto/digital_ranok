@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Verisign .com Domain Name Registry Consumer Class Action",
-      "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-      "summary": "<p>Article URL: <a href=\"https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action\">https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148441\">https://news.ycombinator.com/item?id=50148441</a></p>\n<p>Points: 47</p>\n<p># Comments: 10</p>",
-      "published": "2026-10-19T04:40:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Verisign зіткнулася з колективним позовом від споживачів через управління зоною .com. Позов стосується ціноутворення та умов надання послуг реєстрації доменів. Це може суттєво вплинути на ринок доменних імен та правила роботи найбільшого реєстратора.",
-      "ai_title": "Проти реєстру доменів .com подано колективний позов",
-      "video_keywords": "courtroom, judge gavel, legal documents, signing contract"
-    },
-    {
       "title": "Stripe will acquire OpenRouter for $7.5B",
       "link": "https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/",
       "summary": "<p>Article URL: <a href=\"https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/\">https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152207\">https://news.ycombinator.com/item?id=50152207</a></p>\n<p>Points: 45</p>\n<p># Comments: 7</p>",
@@ -379,19 +369,19 @@
       "ai_summary": "Платформа YouTube почала експериментувати з інтерфейсом, переміщуючи або повністю приховуючи кнопку дизлайку для деяких користувачів. Тестувальники помітили, що цей елемент керування може ховатися у випадаючому меню з трьома крапками.",
       "ai_title": "YouTube тестує приховування кнопки «Не подобається»",
       "video_keywords": "computer screen, smartphone display, clicking buttons, social media interface"
+    },
+    {
+      "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "link": "https://github.com/xamrayev/nexus-cli",
+      "summary": "<p>Article URL: <a href=\"https://github.com/xamrayev/nexus-cli\">https://github.com/xamrayev/nexus-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176129\">https://news.ycombinator.com/item?id=50176129</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+      "published": "2026-10-21T04:37:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий інструмент командного рядка Nexus-CLI на мові Go. Він забезпечує зручну взаємодію з передовими моделями штучного інтелекту, такими як DeepSeek R1/V3, а також підтримує Claude Code та Ollama.",
+      "ai_title": "Nexus-CLI: новий міст для інтеграції DeepSeek, Claude Code та Ollama",
+      "video_keywords": "terminal, coding, developer, laptop screen"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-      "summary": "Apple said that it will ban AI apps that don't moderate offensive content.",
-      "published": "2026-10-19T12:56:14+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Apple оновила правила App Store, щоб блокувати штучний інтелект, який створює відверті зображення під виглядом звичайних програм. Нові обмеження покромлюють немодернований контент та посилюють контроль за безпекою користувачів.",
-      "ai_title": "Apple посилює правила проти AI-додатків із відвертим контентом",
-      "video_keywords": "smartphone screen, app store, mobile phone, touching screen"
-    },
     {
       "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
       "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
@@ -670,46 +660,6 @@
   ],
   "Крипта": [
     {
-      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-      "summary": "",
-      "published": "2026-10-19T06:23:16+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Давній власник біткоїнів перемістив активи, які він придбав у 2013 році, коли ціна однієї монети становила лише 131 долар. За роки вартість цього криптогаманця зросла у сотні разів, привернувши увагу аналітиків ринку до сплячих великих капіталів.",
-      "ai_title": "Бвіткаїн-кит переказав монети на $34 мільйони вперше з 2013 року",
-      "video_keywords": "cryptocurrency wallet, digital coins, computer screen, trading charts"
-    },
-    {
-      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-      "summary": "",
-      "published": "2026-10-19T05:23:02+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Команда проєкту Zcash працює над оновленням протоколу, щоб убезпечити конфіденційні транзакції від потенційних загроз з боку майбутніх квантових комп'ютерів. Це нововведення має зберегти анонімність користувачів у довгостроковій перспективі.",
-      "ai_title": "Розробники Zcash готують захист від майбутніх квантових комп'ютерів",
-      "video_keywords": "quantum computer, cybersecurity, server rack, digital matrix"
-    },
-    {
-      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
-      "link": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zoom adds ‘proof of human’ badges to show you’re not a deepfake\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59B8YTZZ7CK80RS5T00W25K/cia2-1.jpg\" /></p><p>Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake i",
-      "published": "2026-10-19T05:55:44+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "За підтримки Сема Альтмана платформа World інтегрувала біометричну верифікацію для корпоративних користувачів Zoom. Нові позначки покликані підтверджувати, що співрозмовник є реальною людиною, а не штучно створеним штучним інтелектом дипфейком.",
-      "ai_title": "Zoom запроваджує значки «підтвердження людини» для боротьби з дипфейками",
-      "video_keywords": "video call, facial recognition, biometric scanner, businesswoman smiling"
-    },
-    {
-      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea to meet crypto exchanges amid calls for tax delay\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg\" /></p><p>Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislat",
-      "published": "2026-10-19T05:14:06+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінансові чиновники Південної Кореї планують зустрітися з керівниками провідних криптовалютних бірж країни. Переговори відбуваються на тлі нещодавніх законодавчих ініціатив щодо можливого відтермінування оподаткування цифрових активів.",
-      "ai_title": "Південна Корея проведе зустріч із криптобіржами на тлі закликів відкласти податки",
-      "video_keywords": "business meeting, corporate handshake, modern office, Skyscraper"
-    },
-    {
       "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
       "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
       "summary": "",
@@ -963,6 +913,46 @@
       "ai_summary": "Ілон Маск висловився на підтримку потенційного об'єднання Tesla та SpaceX. Це може об'єднати виробника електромобілів з розробником ШІ Grok та платформою X в одну корпоративну структуру.",
       "ai_title": "Маск назвав злиття Tesla та SpaceX гарною ідеєю на тлі зростання доходів від штучного інтелекту",
       "video_keywords": "electric car factory, rocket launch, futuristic technology, corporate boardroom"
+    },
+    {
+      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+      "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+      "summary": "",
+      "published": "2026-10-21T05:25:57+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Ripple відкриває доступ до торгівлі акціями в режимі 24/7, наближаючи традиційні фінанси до криптоіндустрії. Водночас експерти HSBC застерігають, що ринки залишаються занадто тонкими та вразливими до різких коливань.",
+      "ai_title": "Ripple інтегрує Волл-стріт у цілодобову торгівлю акціями",
+      "video_keywords": "trading floor, stock market charts, digital currency, financial district"
+    },
+    {
+      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+      "summary": "",
+      "published": "2026-10-21T04:35:52+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Блокчейн Solana здійснив одне з найважливіших оновлень своєї інфраструктури з 2020 року. Нововведення покликане суттєво підвищити стабільність мережі та швидкість обробки транзакцій.",
+      "ai_title": "Solana запускає масштабне оновлення мережі Alpenglow",
+      "video_keywords": "server room, data center, glowing network lines, futuristic computer tech"
+    },
+    {
+      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Malaysia central bank launches DLT platform for tokenized bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought-1.png\" /></p><p>The platform tracks tokenized securities ownership and transfer",
+      "published": "2026-10-21T05:56:29+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Регулятор Малайзії представив нову блокчейн-платформу на базі технології розподіленого реєстру. Вона призначена для ефективного відстеження права власності та переказу цифрових цінних паперів.",
+      "ai_title": "Центробанк Малайзії запустив платформу для токенізованих облігацій",
+      "video_keywords": "digital tablet, financial graphs, banking office, modern skyscraper"
+    },
+    {
+      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+      "link": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech giants rush to block 8 eMudhra certs that could enable fake sites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EC7DBTTRHAW1KTA88RS4JK/hi-timeframes3-warning.jpg\" /></p><p>A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website",
+      "published": "2026-10-21T05:15:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Провідні IT-компанії терміново блокують низку цифрових сертифікатів через виявлені криптографічні вразливості. Проблема могла дозволити зловмисникам підробляти захищені HTTPS-зєднання для будь-яких вебсайтів.",
+      "ai_title": "Технологічні гіганти блокують вразливі сертифікати безпеки",
+      "video_keywords": "cyber security, hacker typing, warning screen, digital lock"
     }
   ]
 }
