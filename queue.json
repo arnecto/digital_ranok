@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Germany wants to become a global leader in industrial AI: government signs memorandum with NVIDIA on 'physical AI'",
-      "link": "https://en.ain.ua/2026/10/20/germany-wants-to-become-a-global-leader-in-industrial-ai-government-signs-memorandum-with-nvidia-on-physical-ai/",
-      "summary": "The German government and NVIDIA agreed to jointly develop models for physical AI and more widely deploy AI in manufacturing. The company also announced new investments in German startups.",
-      "published": "2026-10-20T11:49:00+00:00",
-      "source": "",
-      "ai_summary": "Уряд Німеччини підписав меморандум про співпрацю з компанією NVIDIA для розвитку технологій «фізичного ШІ». Партнерство передбачає масове впровадження штучного інтелекту у виробничі процеси та нові інвестиції в німецькі стартапи.",
-      "ai_title": "Німеччина об'єднується з NVIDIA заради лідерства у промисловому штучному інтелекті",
-      "video_keywords": "factory robotics, microchip, servers rack, industrial manufacturing"
-    },
-    {
-      "title": "Google cloud outage takes down banks",
-      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "summary": "<p>Article URL: <a href=\"https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/\">https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163961\">https://news.ycombinator.com/item?id=50163961</a></p>\n<p>Points: 98</p>\n<",
-      "published": "2026-10-20T10:26:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технічні проблеми в хмарній інфраструктурі Google призвели до серйозних перебоїв у роботі низки великих банків та фінансових сервісів, зокрема HSBC та Revolut. Користувачі зіткнулися з труднощами під час доступу до своїх рахунків та здійснення платежів.",
-      "ai_title": "Масштабний збій Google Cloud паралізував роботу провідних банків",
-      "video_keywords": "server room, flashing red lights, frustrated person at computer, ATM machine"
-    },
-    {
-      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-      "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
-      "summary": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, [&#8230;]",
-      "published": "2026-10-20T10:16:47+00:00",
-      "source": "The Verge",
-      "ai_summary": "Користувачі Google Home повідомили про критичний збій, через який їхні колонки у фоновому режимі безперервно завантажують сотні гігабайтів даних. Ймовірною причиною проблеми є помилка під час спроби завантажити та встановити оновлення прошивки.",
-      "ai_title": "Розумні колонки Google Home зафіксували завантаження гігабайтів дивного трафіку",
-      "video_keywords": "smart speaker, blinking LED light, digital data stream, internet router"
-    },
-    {
-      "title": "Spotify’s new podcast memberships let you pay for extra perks",
-      "link": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
-      "summary": "Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, [&#8230;]",
-      "published": "2026-10-20T12:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Стрімінгова платформа розгортає нову функцію монетизації для авторів у 34 регіонах світу. Тепер слухачі можуть купувати спеціальні підписки для доступу до бонусних епізодів, раннього доступу до матеріалів та інших привілеїв.",
-      "ai_title": "Spotify запускає платні підписки для подкастів із ексклюзивним контентом",
-      "video_keywords": "person wearing headphones, smartphone screen, podcast recording studio, smiling creator"
-    },
-    {
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
       "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
       "summary": "<p>Article URL: <a href=\"https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop\">https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50168190\">https://news.ycombinator.com/item?id=50168190</a></p>\n<p>Points: 57</p>\n<",
@@ -69,16 +29,6 @@
       "ai_summary": "Компанія AMD анонсувала випуск оновленої технології апскейлінгу FSR 4.1 для ігрових консолей Xbox Series X/S та портативних пристроїв. Оновлення також стане доступним для відеокарт серії Radeon RX 6000 та нових процесорів Ryzen AI.",
       "ai_title": "AMD інтегрує технологію масштабування FSR 4.1 у консолі Xbox та портативні пристрої",
       "video_keywords": "gaming console controller, video game graphics, modern computer hardware, microchip"
-    },
-    {
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "link": "https://github.com/AbdullahAlhariri/penmentor",
-      "summary": "<p>Article URL: <a href=\"https://github.com/AbdullahAlhariri/penmentor\">https://github.com/AbdullahAlhariri/penmentor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50167604\">https://news.ycombinator.com/item?id=50167604</a></p>\n<p>Points: 28</p>\n<p># Comments: 2</p>",
-      "published": "2026-10-20T15:10:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблений утилітний інструмент Penmentor використовує штучний інтелект Claude для перевірки та коментування рукописних математичних прикладів. ШІ аналізує розв'язання на папері подібно до справжнього вчителя.",
-      "ai_title": "Штучний інтелект Claude почав перевіряти рукописну математику",
-      "video_keywords": "handwritten notes, pen writing on paper, math formulas, desk workspace"
     },
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
@@ -429,39 +379,44 @@
       "ai_summary": "Інженери досягли неймовірної швидкості триангуляції майже 4 мільйонів картографічних полігонів менш ніж за півсекунди. Новий алгоритм значно перевершує традиційні методи на зразок earcut і відкриває нові можливості для геоінформаційних систем. Це дозволяє миттєво обробляти складні масивні геодані.",
       "ai_title": "Рекордне прискорення обробки картографічних полігонів",
       "video_keywords": "digital map, GPS navigation, satellite view, computer graphics"
+    },
+    {
+      "title": "Anthropic introduced Claude Duet — an agent that autonomously tracks work tasks and executes them",
+      "link": "https://en.ain.ua/2026/10/22/anthropic-introduced-claude-duet-an-agent-that-autonomously-tracks-work-tasks-and-executes-them/",
+      "summary": "The assistant can check email, prepare documents, work with business apps, and perform tasks even when the user is offline.",
+      "published": "2026-10-22T15:09:00+00:00",
+      "source": ""
+    },
+    {
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "summary": "<p>Article URL: <a href=\"https://quad9.net/news/blog/au-revoir-france/\">https://quad9.net/news/blog/au-revoir-france/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195959\">https://news.ycombinator.com/item?id=50195959</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-22T14:32:38+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "What's Getting Pwned",
+      "link": "https://pwn.watch/",
+      "summary": "<p>Article URL: <a href=\"https://pwn.watch/\">https://pwn.watch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195543\">https://news.ycombinator.com/item?id=50195543</a></p>\n<p>Points: 51</p>\n<p># Comments: 12</p>",
+      "published": "2026-10-22T14:08:12+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "<p>Article URL: <a href=\"https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\">https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195110\">https://news.ycombinator.com/item?id=50195110</a></p>\n<p>Points: 214</p>\n<p># Comments: 120</p>",
+      "published": "2026-10-22T13:33:39+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Crystal 1.22.0 Is Released",
+      "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "summary": "<p>Article URL: <a href=\"https://crystal-lang.org/2026/10/12/1.22.0-released/\">https://crystal-lang.org/2026/10/12/1.22.0-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50194938\">https://news.ycombinator.com/item?id=50194938</a></p>\n<p>Points: 52</p>\n<p># Comments: 17</p>",
+      "published": "2026-10-22T13:20:13+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Oura adds new fitness metrics to show how workouts impact your body",
-      "link": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
-      "summary": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart ring market gets more crowded.",
-      "published": "2026-10-20T12:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На тлі зростаючої конкуренції з боку RingConn та Ultrahuman, компанія Oura додає до свого розумного кільця розширені показники тренувань. Це дозволить бренду виділитися на перенасиченому ринку пристроїв, що носяться.",
-      "ai_title": "Oura оновлює розумне кільце новими фітнес-метриками для конкуренції на ринку",
-      "video_keywords": "smart ring, finger jewelry, fitness tracker app"
-    },
-    {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "published": "2026-10-20T11:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярний сервіс Yelp інтегрує нові функції на базі штучного інтелекту, які можуть самостійно телефонувати до ресторанів задля перевірки часу очікування. Також ІІ створює персоналізовані рекомендації з урахуванням уподобань користувача.",
-      "ai_title": "Yelp додає штучний інтелект для дзвінків у ресторани та перевірки черг",
-      "video_keywords": "smartphone app, restaurant table, calling phone"
-    },
-    {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230",
-      "published": "2026-10-20T11:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа Otter.ai отримала 320 мільйонів доларів від фонду General Catalyst без розмиття капіталу. Залучені кошти компанія спрямує на масштабування корпоративного бізнесу, міжнародну експансію та оновлення продукту.",
-      "ai_title": "Сервіс для нотаток Otter.ai залучив 320 мільйонів доларів інвестицій",
-      "video_keywords": "business meeting, laptop screen, office presentation"
-    },
     {
       "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
       "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
@@ -488,13 +443,6 @@
       "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
       "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
       "published": "2026-10-20T16:00:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-      "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-      "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
-      "published": "2026-10-20T15:03:41+00:00",
       "source": "TechCrunch"
     },
     {
@@ -706,56 +654,44 @@
       "ai_summary": "Керівник підрозділу штучного інтелекту у Blackstone Джас Хайра заявив, що побоювання інвесторів щодо боргового навантаження через бум ШІ є сильно перебільшеними. Інвестиційний гігант не бачить причин для паніки на тлі поточних коливань на ринку.",
       "ai_title": "У Blackstone заспокоюють ринок щодо ризиків боргів на розробку систем штучного інтелекту",
       "video_keywords": "financial skyscraper, business handshake, modern office building, businessman tablet"
+    },
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "published": "2026-10-22T15:03:58+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+      "published": "2026-10-22T14:59:28+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+      "published": "2026-10-22T14:03:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "published": "2026-10-22T13:53:26+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "published": "2026-10-22T13:26:52+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
-    {
-      "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-      "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-      "summary": "",
-      "published": "2026-10-20T11:10:40+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітики JPMorgan прогнозують, що річна прибутковість біткоїна становитиме близько 10% протягом наступного десятиліття. Це вище за прогнози для традиційних акцій, облігацій та золото. Подібні перспективи зміцнюють статус криптовалюти як привабливого інвестиційного активу.",
-      "ai_title": "JPMorgan прогнозує високу прибутковість біткоїна",
-      "video_keywords": "financial charts, stock market, computer screen, trading graphs"
-    },
-    {
-      "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-      "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-      "summary": "",
-      "published": "2026-10-20T10:22:55+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Вартість біткоїна знизилася до 81 400 доларів на тлі падіння акцій азіатських виробників чипів. Трейдери на ринку опціонів масово шукають захисту від подальшого падіння цін. Волатильність на фондовому ринку безпосередньо впливає на криптоактиви.",
-      "ai_title": "Падіння курсу біткоїна через ситуацію на ринку чипів",
-      "video_keywords": "red trading charts, stock market crash, stressed trader, computer monitor"
-    },
-    {
-      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-      "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Drift exploiter sends $61M ETH to Tornado Cash, holds $194M \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FK6GAEQRFQBFCE1EBGAMG5/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it-1.jpg\" /></p><p>The April 1 hack caused about $295 million in losses and was later attributed ",
-      "published": "2026-10-20T12:38:28+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Зловмисник, відповідальний за масштабний хакерський злам платформи Drift, переказав 61 мільйон доларів у Ethereum через сервіс Tornado Cash. На його рахунках досі залишається значна сума вкрадених коштів. Це викликає занепокоєння щодо безпеки та відстеження транзакцій.",
-      "ai_title": "Хакер перевів мільйони в криптовалюті через міксер",
-      "video_keywords": "hacker typing on keyboard, dark room, glowing computer screen, cyber security"
-    },
-    {
-      "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
-      "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CCKGBRR4HTKS9W4W83F5VC/hi-what-are-inflows-and-outflows-on-crypto-exchanges2.jpg\" /></p><p>Mt. Gox extended its repayment deadline by another year as some creditors",
-      "published": "2026-10-20T10:20:13+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Збанкрутіла криптобіржа Mt. Gox вшосте відклала дедлайн виплат своїм кредиторам, перенісши його на 2027 рік. Таке рішення ще раз затягує багаторічний процес розрахунків з постраждалими користувачами. Постійні перенесення викликають невдоволення в криптоспільноті.",
-      "ai_title": "Mt. Gox знову перенесла виплати кредиторам",
-      "video_keywords": "calendar, office desk, waiting person, clock ticking"
-    },
-    {
-      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-      "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-      "summary": "",
-      "published": "2026-10-20T17:02:31+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
     {
       "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
       "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1063,6 +999,41 @@
       "ai_summary": "Американські спотові біткоїн-фонди отримали приплив капіталу в розмірі 528 мільйонів доларів за один день. Загальний триденний показник перевищив позначку в 1 мільярд доларів, відновивши позитивну динаміку жовтня.",
       "ai_title": "Біткоїн-ETF залучили понад мільярд доларів за три дні",
       "video_keywords": "wealth management, digital currency, financial growth, modern bank"
+    },
+    {
+      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+      "summary": "",
+      "published": "2026-10-22T14:58:31+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+      "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+      "summary": "",
+      "published": "2026-10-22T14:37:12+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+      "summary": "",
+      "published": "2026-10-22T13:00:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "summary": "",
+      "published": "2026-10-22T12:14:29+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+      "link": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fireblocks disputes report of $2.5B Visa acquisition talks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J0A93M8W14V9Z0MG6RYGGR/fishes-shark-dolphin-new.png\" /></p><p>Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are “not true at prese",
+      "published": "2026-10-22T14:41:00+00:00",
+      "source": "Cointelegraph.com News"
     }
   ]
 }
