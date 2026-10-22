@@ -399,29 +399,39 @@
       "ai_summary": "Математики опублікували дослідження про новий алгоритм множення цілих чисел із часовою складністю o(n log n). Це досягнення може суттєво оптимізувати обчислювальні процеси у сфері комп'ютерних наук.",
       "ai_title": "Запропоновано новий алгоритм множення цілих чисел",
       "video_keywords": "math formulas on blackboard, scientific research, numbers on screen, calculator"
+    },
+    {
+      "title": "Achieving AI-style reasoning without an LLM",
+      "link": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+      "summary": "<p>Article URL: <a href=\"https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/\">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50192868\">https://news.ycombinator.com/item?id=50192868</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-22T08:46:58+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники досліджують нові методи досягнення складної логіки та міркувань, подібних до AI, спираючись на альтернативні підходи замість традиційних LLM. Це може суттєво змінити архітектуру створення розумних систем та знизити їхню ресурсомісткість. Дослідження відкриває перспективи для більш прозорих і контрольованих алгоритмів.",
+      "ai_title": "Штучний інтелект із міркуваннями без використання великих мовних моделей",
+      "video_keywords": "server room, data center, computer screen, code scrolling"
+    },
+    {
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "summary": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-111943\">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50192900\">https://news.ycombinator.com/item?id=50192900</a></p>\n<p>Points: 64</p>\n<p># Comments: 12</p>",
+      "published": "2026-10-22T08:51:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Фахівці з кібербезпеки зафіксували компрометацію проміжного центру сертифікації, що становить загрозу для шифрування даних. Ця вразливість вимагає негайного оновлення протоколів захисту та перевірки довірених сертифікатів. Іцидент підкреслює вразливість інфраструктури публічних ключів.",
+      "ai_title": "Критична вразливість сертифікатів безпеки CVE-2026-111943",
+      "video_keywords": "cyber security, hacker typing, digital lock, warning screen"
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "summary": "<p>Article URL: <a href=\"https://globus.software/blog/2026/10/16/cutting-map-polygons/\">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193170\">https://news.ycombinator.com/item?id=50193170</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-22T09:31:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Інженери досягли неймовірної швидкості триангуляції майже 4 мільйонів картографічних полігонів менш ніж за півсекунди. Новий алгоритм значно перевершує традиційні методи на зразок earcut і відкриває нові можливості для геоінформаційних систем. Це дозволяє миттєво обробляти складні масивні геодані.",
+      "ai_title": "Рекордне прискорення обробки картографічних полігонів",
+      "video_keywords": "digital map, GPS navigation, satellite view, computer graphics"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-      "published": "2026-10-20T07:01:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Blackwall підняла свою оцінку в чотири рази завдяки розробці інструментів безпеки та фільтрації трафіку. Вони допомагають вебсайтам ефективно боротися зі зростаючою кількістю ботів та штучного інтелекту в інтернеті.",
-      "ai_title": "Австралійський стартап Blackwall залучив $100 млн та оцінюється у $2,2 млрд",
-      "video_keywords": "cybersecurity, server room, code on screen, data center"
-    },
-    {
-      "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
-      "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
-      "summary": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
-      "published": "2026-10-20T12:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Spotify дозволяє авторам подкастів пропонувати слухачам платні підписки з додатковими перевагами, такими як прослуховування без реклами та ранній доступ. При цьому автори отримують 90% від загального доходу з таких підписок.",
-      "ai_title": "Spotify запускає платні підписки на подкасти з ексклюзивними бонусами",
-      "video_keywords": "podcast microphone, headphones, smartphone screen"
-    },
     {
       "title": "Oura adds new fitness metrics to show how workouts impact your body",
       "link": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
@@ -700,26 +710,6 @@
   ],
   "Крипта": [
     {
-      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Bitcoin ETFs draw $527M in biggest showing since September\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BWEPE5GWQF5EJR6RBF5RFF/bitcoin111.png\" /></p><p>BlackRock’s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while oth",
-      "published": "2026-10-20T05:39:20+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Американські спотові біткоїн-ETF залучили понад пів мільярда доларів за день. Головним драйвером зростання став фонд від BlackRock, чиї надходження з легкістю перекрили відтік коштів з інших платформ.",
-      "ai_title": "Приплив капіталу в біткоїн-ETF досяг максимуму з вересня",
-      "video_keywords": "bitcoin chart, digital currency screen, stock exchange graph, financial trading floor"
-    },
-    {
-      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
-      "link": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BTX2A4AWVPY2BYEAS2GXFK/hi-is-the-imf-shutting-the-door-prematurely-on-nft.jpg\" /></p><p>In June, Sophon’s developers said the costs of maintaining a standalone blockcha",
-      "published": "2026-10-20T05:14:11+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Користувачі проєкту Sophon мають забрати свої активи до 25 листопада через майбутнє припинення роботи основної мережі. Розробники ухвалили таке рішення через занадто високі витрати на утримання блокчейна.",
-      "ai_title": "Проєкт Sophon встановив дедлайн для виведення коштів перед закриттям мережі",
-      "video_keywords": "computer screen warning, digital wallet app, crypto transaction, person typing on laptop"
-    },
-    {
       "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
       "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
       "summary": "",
@@ -758,16 +748,6 @@
       "ai_summary": "Збанкрутіла криптобіржа Mt. Gox вшосте відклала дедлайн виплат своїм кредиторам, перенісши його на 2027 рік. Таке рішення ще раз затягує багаторічний процес розрахунків з постраждалими користувачами. Постійні перенесення викликають невдоволення в криптоспільноті.",
       "ai_title": "Mt. Gox знову перенесла виплати кредиторам",
       "video_keywords": "calendar, office desk, waiting person, clock ticking"
-    },
-    {
-      "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
-      "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitget plans Thai crypto exchange acquisition weeks after $388M hack \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5913E3NB29C5XXKGWE4B5TQ/thailand-2.jpg\" /></p><p>The proposed acquisition would give Bitget a route into Thailand’s crypto market through a locally licensed operator",
-      "published": "2026-10-20T10:00:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна біржа Bitget планує придбати ліцензованого оператора в Таїланді всього через кілька тижнів після масштабного хакерського злому на 388 мільйонів доларів. Ця угода відкриє компанії офіційний вихід на ринок країни. Експерти стежать за тим, як біржа відновлює позиції після інциденту.",
-      "ai_title": "Біржа Bitget купує платформу в Таїланді після злому",
-      "video_keywords": "business handshake, corporate office, signing contract, modern workspace"
     },
     {
       "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
@@ -1043,6 +1023,46 @@
       "ai_summary": "Курс біткоина знизився після спроби подолати рубіж у 85 000 доларів. Це сталося на тлі падіння акцій Tesla та Meta, що посилило тривожність інвесторів щодо галузі штучного інтелекту.",
       "ai_title": "Біткоин відступив від позначки у 85 000 доларів",
       "video_keywords": "cryptocurrency trading, stock market crash, red candles chart, computer monitor finance"
+    },
+    {
+      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+      "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "summary": "",
+      "published": "2026-10-22T09:54:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Різкі коливання курсу біткоїна призвели до масової ліквідації позицій як покупців, так і продавців. Ринок продовжує демонструвати високу непередбачуваність на тлі досягнення ключових цінових позначок.",
+      "ai_title": "Волатильність біткоїна знищила позиції трейдерів на 85 000 доларів",
+      "video_keywords": "bitcoin chart, trading terminal, stock market crash, financial graphs"
+    },
+    {
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+      "summary": "",
+      "published": "2026-10-22T08:49:08+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фондові індекси в Азії стрімко знижуються, тягнучи за собою і криптовалютний ринок. Курс біткоїна також демонструє відступ на тлі загального погіршення глобальних економічних настроїв.",
+      "ai_title": "Азійські ринки падають через входження Китаю в ведмежий ринок",
+      "video_keywords": "asian stock market, red trading screen, depressed investors, financial district"
+    },
+    {
+      "title": "Starknet voters back research into life beyond Ethereum",
+      "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Starknet voters back research into life beyond Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2HS/quantum.png\" /></p><p>StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.</p>",
+      "published": "2026-10-22T09:37:54+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Виборці Starknet проголосували за фінансування досліджень щодо створення нової квантово-стійкої мережі. Команда планує опублікувати проєкт білої книги вже в листопаді.",
+      "ai_title": "Спільнота Starknet підтримала розробку незалежного блокчейна",
+      "video_keywords": "quantum computer, futuristic technology, server room, glowing code"
+    },
+    {
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs bag another $528M, taking 3-day haul past $1B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg\" /></p><p>US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.<",
+      "published": "2026-10-22T07:37:32+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американські спотові біткоїн-фонди отримали приплив капіталу в розмірі 528 мільйонів доларів за один день. Загальний триденний показник перевищив позначку в 1 мільярд доларів, відновивши позитивну динаміку жовтня.",
+      "ai_title": "Біткоїн-ETF залучили понад мільярд доларів за три дні",
+      "video_keywords": "wealth management, digital currency, financial growth, modern bank"
     }
   ]
 }
