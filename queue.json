@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
-      "published": "2026-10-20T23:04:19+00:00",
-      "source": "The Verge",
-      "ai_summary": "Федеральний суддя закрив справу за позовом сестри генерального директора OpenAI Сема Альтмана через її неявку на медичну експертизу. Позивачка раніше звинувачувала брата у домаганнях у дитячому віці.",
-      "ai_title": "Суд відхилив позов проти Сема Альтмана",
-      "video_keywords": "courtroom, judge gavel, legal documents"
-    },
-    {
-      "title": "YouTube might be testing hiding the dislike button",
-      "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, [&#8230;]",
-      "published": "2026-10-21T00:00:56+00:00",
-      "source": "The Verge",
-      "ai_summary": "Платформа YouTube почала експериментувати з інтерфейсом, переміщуючи або повністю приховуючи кнопку дизлайку для деяких користувачів. Тестувальники помітили, що цей елемент керування може ховатися у випадаючому меню з трьома крапками.",
-      "ai_title": "YouTube тестує приховування кнопки «Не подобається»",
-      "video_keywords": "computer screen, smartphone display, clicking buttons, social media interface"
-    },
-    {
       "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
       "link": "https://github.com/xamrayev/nexus-cli",
       "summary": "<p>Article URL: <a href=\"https://github.com/xamrayev/nexus-cli\">https://github.com/xamrayev/nexus-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176129\">https://news.ycombinator.com/item?id=50176129</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
@@ -424,19 +404,59 @@
       "ai_summary": "Керівництво компаній сформувало спеціальні комітети для обговорення потенційного об'єднання бізнесів. Тим часом SpaceX залучає величезні кредитні кошти для масштабних закупівель графічних процесорів Nvidia.",
       "ai_title": "SpaceX та Tesla готуються до можливого злиття на тлі мільярдних інвестицій в AI-чіпи",
       "video_keywords": "electric car, futuristic vehicle, corporate office, financial charts"
+    },
+    {
+      "title": "AI compute is the new oil–and needs a new market",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market\">https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202671\">https://news.ycombinator.com/item?id=50202671</a></p>\n<p>Points: 4</p>\n<p># C",
+      "published": "2026-10-22T23:45:16+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти зазначають, що ресурси для штучного інтелекту перетворилися на найголовніший стратегічний ресурс сучасності. Для їхнього ефективного розподілу та продажу ринку терміново потрібні нові економічні механізми.",
+      "ai_title": "Обчислювальна потужність для ШІ стала новою нафтою",
+      "video_keywords": "server room, data center, computer hardware, microchip"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/formal-verification\">https://www.anthropic.com/research/formal-verification</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50202217\">https://news.ycombinator.com/item?id=50202217</a></p>\n<p>Points: 57</p>\n<p># Comments: 17</p>",
+      "published": "2026-10-22T22:54:43+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідження показують, що сучасні мовні моделі здатні значно спростити та масштабувати формальну верифікацію програмного забезпечення. Це дозволяє розробникам знаходити критичні помилки набагато швидше і ефективніше.",
+      "ai_title": "Штучний інтелект виводить перевірку коду на новий рівень",
+      "video_keywords": "programmer typing, computer screen, code lines, software developer"
+    },
+    {
+      "title": "Etsy is cracking down on AI slop listings",
+      "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use [&#8230;]",
+      "published": "2026-10-23T00:09:58+00:00",
+      "source": "The Verge",
+      "ai_summary": "Платформа запроваджує жорсткіші правила щодо використання штучного інтелекту в оголошеннях через скарги покупців. Користувачам все важче знаходити унікальні речі серед масиву однотипного контенту, створеного ботами.",
+      "ai_title": "Etsy оголошує війну товарам, створеним за допомогою ШІ",
+      "video_keywords": "online shopping, computer screen, artisan crafts, e-commerce"
+    },
+    {
+      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+      "summary": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdown,\" he called it a [&#8230;]",
+      "published": "2026-10-22T23:02:43+00:00",
+      "source": "The Verge",
+      "ai_summary": "Керівництво компанії підтвердило використання нової системи перевірки через QR-коди для сімейних акаунтів. Тепер сервіс активно вираховує та блокує користувачів, які діляться підпискою, але не живуть під одним дахом.",
+      "ai_title": "Spotify жорстко бореться зі зловживаннями сімейними підписками",
+      "video_keywords": "smartphone screen, mobile app, listening to music, headphones"
+    },
+    {
+      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that [&#8230;]",
+      "published": "2026-10-22T23:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Інсайдерські звіти свідчать, що ціна на майбутню консоль від Microsoft у 2028 році може скласти від 1200 до 1800 доларів. Така вартість викликає занепокоєння у геймерів та ставить під сумнів успіх майбутнього пристрою.",
+      "ai_title": "Наступне покоління Xbox може коштувати понад тисячу доларів",
+      "video_keywords": "video game controller, gaming setup, playing console, modern TV"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "SpaceX and Tesla boards form special committees to review merger",
-      "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-      "published": "2026-10-20T22:57:57+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Ради директорів обох компаній Ілона Маска сформували спеціальні комітети з незалежних директорів для вивчення ідеї об'єднання бізнесу. Сам мільярдер схвалює цю ініціативу, але запевняє, що не бере участі в роботі цих комітетів.",
-      "ai_title": "SpaceX та Tesla створюють спеціальні комітети для оцінки можливого злиття",
-      "video_keywords": "corporate meeting, boardroom, businessmen shaking hands, modern office"
-    },
     {
       "title": "Mach9 raises $34M after pivoting to AI CAD software",
       "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
@@ -691,29 +711,49 @@
       "ai_summary": "Провідні фахівці індустрії поділилися порадами для засновників щодо досягнення успіху в перші 90 днів роботи. Виявляється, фокус на ранніх продажах не є головним рушієм стрімкого розвитку нового бізнесу.",
       "ai_title": "Експерти назвали справжній секрет швидкого зростання стартапів",
       "video_keywords": "startup team, brainstorm meeting, whiteboard, teamwork, modern coworking"
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "published": "2026-10-23T00:45:37+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Дослідники з MIT залишили 13 агентів зі штучним інтелектом на віртуальному острові без завдань. У результаті ШІ почав створювати власні ігри, сумувати за втраченими речами та навіть покращив свої робочі навички.",
+      "ai_title": "Штучний інтелект почав грати в ігри та вигадувати власні ритуали на віртуальному острові",
+      "video_keywords": "virtual island, artificial intelligence, robot hand, computer screen"
+    },
+    {
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "published": "2026-10-22T23:50:41+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія запускає новий клас акцій, який частково розроблений спеціально для того, щоб генеральний директор Марк Цукерберг зміг сплатити потенційний «податок для мільярдерів» у Каліфорнії. Це дозволить йому зберегти повний контроль над техногігантом.",
+      "ai_title": "Марк Цукерберг готує хитру схему для сплати податків без втрати контролю над Meta",
+      "video_keywords": "business executive, corporate boardroom, smartphone, financial charts"
+    },
+    {
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+      "published": "2026-10-22T23:15:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий проєкт Бен Ламма та Палмера Лакея вийшов із тіні з амбітною метою. Вони планують вирощувати та готувати спеціальні породи собак для військових потреб та правоохоронних органів, оснащуючи їх спорядженням Anduril.",
+      "ai_title": "Стартап Warhound залучив $200 млн на створення військових собак із високотехнологічним озброєнням",
+      "video_keywords": "military dog, German shepherd, tactical gear, high-tech laboratory"
+    },
+    {
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "published": "2026-10-22T22:34:54+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Підрозділ цифрових активів під керівництвом Кріса Діксона вирішив розширити свій інвестиційний фокус. Зміна бренду відображає відхід від виключно криптоорієнтованої стратегії до ширшого спектра технологій.",
+      "ai_title": "Відомий венчурний фонд a16z Crypto змінює назву на a16z Frontier на тлі спаду інтересу до блокчейну",
+      "video_keywords": "modern office, financial district, city skyscrapers, digital tablet"
     }
   ],
   "Крипта": [
-    {
-      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
-      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Qubic restarts blockchain, opens recovery claims after $1.4M hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5DSAH36P14HYENYBM6CHPAW/blockchain-network.jpg\" /></p><p>The network’s validators approved a recovery plan and opened claims until May 1, 2027.</p>",
-      "published": "2026-10-20T23:26:02+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Мережа успішно перезапустила блокчейн за рішенням валідаторів та відкрила прийом заяв на компенсацію збитків для постраждалих користувачів. Процес повернення коштів триватиме до весни 2027 року.",
-      "ai_title": "Блокчейн Qubic відновив роботу після хакерської атаки на 1,4 мільйона доларів",
-      "video_keywords": "blockchain network, server room, cybersecurity, digital code"
-    },
-    {
-      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-      "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5E0JNAWGS0RJBJ6F6WV37FG/spacex.jpg\" /></p><p>A merger would bring Tesla into the same corporate group as Grok developer SpaceXAI and social media platform X.</p>",
-      "published": "2026-10-21T01:19:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Ілон Маск висловився на підтримку потенційного об'єднання Tesla та SpaceX. Це може об'єднати виробника електромобілів з розробником ШІ Grok та платформою X в одну корпоративну структуру.",
-      "ai_title": "Маск назвав злиття Tesla та SpaceX гарною ідеєю на тлі зростання доходів від штучного інтелекту",
-      "video_keywords": "electric car factory, rocket launch, futuristic technology, corporate boardroom"
-    },
     {
       "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
       "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
@@ -1048,6 +1088,26 @@
       "ai_summary": "Політичний комітет, підтримуваний засновниками Gemini братами Вінклвос, спрямував кошти на рекламу в рамках виборів до Сенату в Техасі. Це черговий крок криптоіндустрії до посилення свого впливу на американську політику.",
       "ai_title": "Крипто-PAC братів Вінклвос інвестує в сенатську гонку в Техасі",
       "video_keywords": "political campaign, rally crowd, television screens, voting booth"
+    },
+    {
+      "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+      "link": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Pentagon bans US forces from using military info to bet in prediction markets\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5K096NQSA2F50PNPGJYG3Z7/soldier.jpg\" /></p><p>Hegseth warned that prediction market wagers could expose military operations to adversaries.</p>",
+      "published": "2026-10-22T23:50:42+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Міністерство оборони США запровадило заборону для військовослужбовців на використання секретних та службових даних для ставок на платформах прогнозів. Керівництво наголосило, що подібна діяльність може розкрити чутливі військові операції потенційним супротивникам.",
+      "ai_title": "Пентагон заборонив військовим використовувати службову інформацію для ставок на ринках прогнозів",
+      "video_keywords": "military soldier uniform smartphone typing, us flag tactical gear, person typing computer screen surveillance"
+    },
+    {
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "link": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JV90GX9YTTQQZEH3XNN8PG/asia-express-1.jpg\" /></p><p>DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe’s only spot Bitc",
+      "published": "2026-10-22T22:50:22+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Влада США ввела заборону на використання штучного інтелекту DeepSeek у федеральних цивільних відомствах через загрози шпигунства. Тим часом фінансові ринки Азії та Швейцарії зміцнюють партнерство у сфері криптовалют та блокчейн-технологій.",
+      "ai_title": "Нові обмеження проти DeepSeek у США та посилення криптозв'язків між Швейцарією та Азією",
+      "video_keywords": "cyber security warning screen, server rack data center, digital asia map glowing nodes"
     }
   ]
 }
