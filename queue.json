@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-      "link": "https://github.com/xamrayev/nexus-cli",
-      "summary": "<p>Article URL: <a href=\"https://github.com/xamrayev/nexus-cli\">https://github.com/xamrayev/nexus-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176129\">https://news.ycombinator.com/item?id=50176129</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
-      "published": "2026-10-21T04:37:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий інструмент командного рядка Nexus-CLI на мові Go. Він забезпечує зручну взаємодію з передовими моделями штучного інтелекту, такими як DeepSeek R1/V3, а також підтримує Claude Code та Ollama.",
-      "ai_title": "Nexus-CLI: новий міст для інтеграції DeepSeek, Claude Code та Ollama",
-      "video_keywords": "terminal, coding, developer, laptop screen"
-    },
-    {
-      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-      "link": "https://www.ncsc.nl/actueel",
-      "summary": "<p>Article URL: <a href=\"https://www.ncsc.nl/actueel\">https://www.ncsc.nl/actueel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50179828\">https://news.ycombinator.com/item?id=50179828</a></p>\n<p>Points: 20</p>\n<p># Comments: 9</p>",
-      "published": "2026-10-21T12:31:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Національний центр кібербезпеки Нідерландів тимчасово призупинив роботу свого сайту. Причиною стали технічні труднощі, пов'язані з використанням мови програмування PHP.",
-      "ai_title": "Кіберцентр Нідерландів змушений піти в офлайн через проблеми з PHP",
-      "video_keywords": "server room, computer error, offline screen"
-    },
-    {
       "title": "I reviewed the iPhone Duo, ask me anything",
       "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
       "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, and I'm ready to answer your questions about it. The Duo represents [&#8230;]",
@@ -454,6 +434,16 @@
       "ai_summary": "Інсайдерські звіти свідчать, що ціна на майбутню консоль від Microsoft у 2028 році може скласти від 1200 до 1800 доларів. Така вартість викликає занепокоєння у геймерів та ставить під сумнів успіх майбутнього пристрою.",
       "ai_title": "Наступне покоління Xbox може коштувати понад тисячу доларів",
       "video_keywords": "video game controller, gaming setup, playing console, modern TV"
+    },
+    {
+      "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+      "link": "https://news.ycombinator.com/item?id=50204125",
+      "summary": "<p>The \"product graveyard\" of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It's been hovering around 4y for quite some time. However, there's a sharp decline in 2026 leading to about 1.5y these days. <a href=\"https://www.saashub.com/product-graveyard\" rel=\"nofollow\">https://www.saashub.com/product-graveyard</a> That's a huge drop. And, it matches my \"hu",
+      "published": "2026-10-23T03:20:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналіз платформи SaaSHub показує стрімке скорочення середнього терміну життя цифрових продуктів. Якщо раніше він становив близько чотирьох років, то тепер цей показник впав приблизно до півтора року, що свідчить про високу конкуренцію та швидкі зміни на ринку.",
+      "ai_title": "Життєвий цикл IT-продуктів скоротився майже втричі",
+      "video_keywords": "software dashboard, data analytics, falling graph, computer screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -751,29 +741,29 @@
       "ai_summary": "Підрозділ цифрових активів під керівництвом Кріса Діксона вирішив розширити свій інвестиційний фокус. Зміна бренду відображає відхід від виключно криптоорієнтованої стратегії до ширшого спектра технологій.",
       "ai_title": "Відомий венчурний фонд a16z Crypto змінює назву на a16z Frontier на тлі спаду інтересу до блокчейну",
       "video_keywords": "modern office, financial district, city skyscrapers, digital tablet"
+    },
+    {
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "published": "2026-10-23T04:22:57+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Oura звинуватила свого конкурента Ultrahuman у порушенні двох патентів. Це ставить під загрозу повернення смарт-кілець Ultrahuman на ринок США.",
+      "ai_title": "Oura знову подала до суду на конкурента Ultrahuman",
+      "video_keywords": "smart ring, tech gadgets, legal documents, courtroom"
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "published": "2026-10-23T04:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Сервіс поїздок inDrive об'єднався з Pony.ai та Nvidia для запуску тестування автономних автомобілів у Казахстані. Початок випробувань заплановано на першу половину 2027 року.",
+      "ai_title": "inDrive планує тестування роботаксі у Центральній Азії",
+      "video_keywords": "autonomous car, robotaxi, futuristic driving, city street"
     }
   ],
   "Крипта": [
-    {
-      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-      "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-      "summary": "",
-      "published": "2026-10-21T05:25:57+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Ripple відкриває доступ до торгівлі акціями в режимі 24/7, наближаючи традиційні фінанси до криптоіндустрії. Водночас експерти HSBC застерігають, що ринки залишаються занадто тонкими та вразливими до різких коливань.",
-      "ai_title": "Ripple інтегрує Волл-стріт у цілодобову торгівлю акціями",
-      "video_keywords": "trading floor, stock market charts, digital currency, financial district"
-    },
-    {
-      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-      "summary": "",
-      "published": "2026-10-21T04:35:52+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Блокчейн Solana здійснив одне з найважливіших оновлень своєї інфраструктури з 2020 року. Нововведення покликане суттєво підвищити стабільність мережі та швидкість обробки транзакцій.",
-      "ai_title": "Solana запускає масштабне оновлення мережі Alpenglow",
-      "video_keywords": "server room, data center, glowing network lines, futuristic computer tech"
-    },
     {
       "title": "Malaysia central bank launches DLT platform for tokenized bonds",
       "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -783,16 +773,6 @@
       "ai_summary": "Регулятор Малайзії представив нову блокчейн-платформу на базі технології розподіленого реєстру. Вона призначена для ефективного відстеження права власності та переказу цифрових цінних паперів.",
       "ai_title": "Центробанк Малайзії запустив платформу для токенізованих облігацій",
       "video_keywords": "digital tablet, financial graphs, banking office, modern skyscraper"
-    },
-    {
-      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-      "link": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech giants rush to block 8 eMudhra certs that could enable fake sites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EC7DBTTRHAW1KTA88RS4JK/hi-timeframes3-warning.jpg\" /></p><p>A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website",
-      "published": "2026-10-21T05:15:00+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Провідні IT-компанії терміново блокують низку цифрових сертифікатів через виявлені криптографічні вразливості. Проблема могла дозволити зловмисникам підробляти захищені HTTPS-зєднання для будь-яких вебсайтів.",
-      "ai_title": "Технологічні гіганти блокують вразливі сертифікати безпеки",
-      "video_keywords": "cyber security, hacker typing, warning screen, digital lock"
     },
     {
       "title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
@@ -1108,6 +1088,56 @@
       "ai_summary": "Влада США ввела заборону на використання штучного інтелекту DeepSeek у федеральних цивільних відомствах через загрози шпигунства. Тим часом фінансові ринки Азії та Швейцарії зміцнюють партнерство у сфері криптовалют та блокчейн-технологій.",
       "ai_title": "Нові обмеження проти DeepSeek у США та посилення криптозв'язків між Швейцарією та Азією",
       "video_keywords": "cyber security warning screen, server rack data center, digital asia map glowing nodes"
+    },
+    {
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "summary": "",
+      "published": "2026-10-23T04:59:34+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Розробники Ethereum вирішили відкласти тестування оновлення Glamsterdam через потенційні ризики для існуючих смарт-контрактів. Аудитори безпеки виявили вразливості, які можуть загрожувати стабільності мережі, тому запуск тестнету перенесено.",
+      "ai_title": "Ethereum відкладає запуск тесту Glamsterdam через проблеми безпеки",
+      "video_keywords": "ethereum blockchain, computer code, developer office, cyber security"
+    },
+    {
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Core changes security policy as AI makes bugs easier to find\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg\" /></p><p>Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted",
+      "published": "2026-10-23T04:34:14+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Розробники Bitcoin Core оновили свою політику безпеки, оскільки інструменти на базі штучного інтелекту значно прискорили пошук вразливостей у коді. Тепер традиційне приховування деяких багів більше не гарантує захисту, що вимагає нових підходів до безпеки мережі.",
+      "ai_title": "Bitcoin Core змінює політику безпеки через штучний інтелект",
+      "video_keywords": "artificial intelligence, bitcoin symbol, digital code, cybersecurity screen"
+    },
+    {
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+      "summary": "",
+      "published": "2026-10-23T03:13:01+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалюта та золото змогли відіграти ранкові падіння на ринках після того, як японська єна втратила свої позиції. Водночас ціни на нефть залишаються стабільно високими, впливаючи на глобальні фінансові ринки.",
+      "ai_title": "Біткоїн та золото скорочують втрати на тлі коливань валют",
+      "video_keywords": "stock market ticker, trading charts, gold bars, cryptocurrency screen"
+    },
+    {
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "summary": "",
+      "published": "2026-10-23T05:01:19+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Прогнозний ринок Polymarket розірвав стосунки зі своєю директоркою з маркетингу, яка також була близькою подругою генерального директора. Це рішення стало несподіванкою для спільноти та викликало обговорення внутрішньої політики компанії.",
+      "ai_title": "Polymarket звільнила керівницю маркетингу через конфлікт інтересів",
+      "video_keywords": "corporate office, business meeting, modern workspace, professional handshake"
+    },
+    {
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+      "summary": "",
+      "published": "2026-10-23T04:36:51+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Учасникам екосистеми Cardano запропонували зробити масивну ставку на те, чи зможе мідь досягти нового історичного рекорду. Цей незвичний фінансовий експеримент поєднує криптовалютні активи з реальним сировинним ринком.",
+      "ai_title": "Власникам Cardano пропонують ризикнути 5 мільйонами доларів на ціні міді",
+      "video_keywords": "copper pipes, financial market, trading floor, cryptocurrency coins"
     }
   ]
 }
