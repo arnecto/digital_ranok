@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "summary": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-111943\">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50192900\">https://news.ycombinator.com/item?id=50192900</a></p>\n<p>Points: 64</p>\n<p># Comments: 12</p>",
-      "published": "2026-10-22T08:51:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Фахівці з кібербезпеки зафіксували компрометацію проміжного центру сертифікації, що становить загрозу для шифрування даних. Ця вразливість вимагає негайного оновлення протоколів захисту та перевірки довірених сертифікатів. Іцидент підкреслює вразливість інфраструктури публічних ключів.",
-      "ai_title": "Критична вразливість сертифікатів безпеки CVE-2026-111943",
-      "video_keywords": "cyber security, hacker typing, digital lock, warning screen"
-    },
-    {
-      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-      "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "summary": "<p>Article URL: <a href=\"https://globus.software/blog/2026/10/16/cutting-map-polygons/\">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193170\">https://news.ycombinator.com/item?id=50193170</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-10-22T09:31:18+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Інженери досягли неймовірної швидкості триангуляції майже 4 мільйонів картографічних полігонів менш ніж за півсекунди. Новий алгоритм значно перевершує традиційні методи на зразок earcut і відкриває нові можливості для геоінформаційних систем. Це дозволяє миттєво обробляти складні масивні геодані.",
-      "ai_title": "Рекордне прискорення обробки картографічних полігонів",
-      "video_keywords": "digital map, GPS navigation, satellite view, computer graphics"
-    },
-    {
       "title": "Anthropic introduced Claude Duet — an agent that autonomously tracks work tasks and executes them",
       "link": "https://en.ain.ua/2026/10/22/anthropic-introduced-claude-duet-an-agent-that-autonomously-tracks-work-tasks-and-executes-them/",
       "summary": "The assistant can check email, prepare documents, work with business apps, and perform tasks even when the user is offline.",
@@ -404,16 +384,19 @@
       "ai_summary": "У статті досліджується, наскільки близько чисте функціональне програмування може підібратися до продуктивності та низькорівневих можливостей мови C. Автор аналізує сильні та слабкі сторони обох підходів у контексті оптимізації коду. Це питання є важливим для розробників, які прагнуть поєднати безпеку типів із максимальною продуктивністю.",
       "ai_title": "Чи зможе функціональне програмування зрівнятися за швидкістю з C?",
       "video_keywords": "computer screen, programming code, typing on keyboard, developer workspace"
+    },
+    {
+      "title": "ThinkRail from JetBrains",
+      "link": "https://thinkrail.ai/",
+      "summary": "<p>Article URL: <a href=\"https://thinkrail.ai/\">https://thinkrail.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219186\">https://news.ycombinator.com/item?id=50219186</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-24T08:08:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія JetBrains представила новий проєкт ThinkRail, спрямований на покращення робочих процесів у сфері штучного інтелекту та розробки програмного забезпечення. Деталі платформи поки розкриваються поступово, але вона вже привернула увагу технологічної спільноти на Hacker News.",
+      "ai_title": "JetBrains анонсувала інструмент ThinkRail для розробників",
+      "video_keywords": "programmer typing, computer screen, software code, office desk"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "published": "2026-10-22T15:03:58+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
       "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
@@ -683,36 +666,6 @@
       "ai_summary": "Різкі коливання курсу біткоїна призвели до масової ліквідації позицій як покупців, так і продавців. Ринок продовжує демонструвати високу непередбачуваність на тлі досягнення ключових цінових позначок.",
       "ai_title": "Волатильність біткоїна знищила позиції трейдерів на 85 000 доларів",
       "video_keywords": "bitcoin chart, trading terminal, stock market crash, financial graphs"
-    },
-    {
-      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
-      "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
-      "summary": "",
-      "published": "2026-10-22T08:49:08+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Фондові індекси в Азії стрімко знижуються, тягнучи за собою і криптовалютний ринок. Курс біткоїна також демонструє відступ на тлі загального погіршення глобальних економічних настроїв.",
-      "ai_title": "Азійські ринки падають через входження Китаю в ведмежий ринок",
-      "video_keywords": "asian stock market, red trading screen, depressed investors, financial district"
-    },
-    {
-      "title": "Starknet voters back research into life beyond Ethereum",
-      "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Starknet voters back research into life beyond Ethereum\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HD0868XDVMAEX50APTK2HS/quantum.png\" /></p><p>StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.</p>",
-      "published": "2026-10-22T09:37:54+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Виборці Starknet проголосували за фінансування досліджень щодо створення нової квантово-стійкої мережі. Команда планує опублікувати проєкт білої книги вже в листопаді.",
-      "ai_title": "Спільнота Starknet підтримала розробку незалежного блокчейна",
-      "video_keywords": "quantum computer, futuristic technology, server room, glowing code"
-    },
-    {
-      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin ETFs bag another $528M, taking 3-day haul past $1B\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NJXA13RF9N1Q13C8RH5D6G/surfing-blockchain-wave-etf-1.jpg\" /></p><p>US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.<",
-      "published": "2026-10-22T07:37:32+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Американські спотові біткоїн-фонди отримали приплив капіталу в розмірі 528 мільйонів доларів за один день. Загальний триденний показник перевищив позначку в 1 мільярд доларів, відновивши позитивну динаміку жовтня.",
-      "ai_title": "Біткоїн-ETF залучили понад мільярд доларів за три дні",
-      "video_keywords": "wealth management, digital currency, financial growth, modern bank"
     },
     {
       "title": "Crypto for Advisors: Stablecoins are ready for prime time",
