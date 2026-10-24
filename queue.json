@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
-      "published": "2026-10-22T18:15:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Марк Цукерберг просуває концепцію майбутнього, де наші повсякденні завдання та комунікацію виконуватимуть автономні мережі штучного інтелекту. Люди спілкуватимуться між собою переважно через персоналізованих ботів-посередників.",
-      "ai_title": "Бачення майбутнього від Meta: спілкування через автономні AI-агенти",
-      "video_keywords": "futuristic interface, hologram, virtual assistant, cyberpunk"
-    },
-    {
-      "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
-      "link": "https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california",
-      "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the accident from the Tesla's dashcam, which \"showed the Tesla's brakes [&#8230;]",
-      "published": "2026-10-22T18:07:02+00:00",
-      "source": "The Verge",
-      "ai_summary": "У Каліфорнії сталася трагічна аварія за участю автомобіля Tesla, який рухався в режимі повного самокерування (FSD). Машина збила 71-річного чоловіка, який намагався перейти дорогу пізно вночі.",
-      "ai_title": "Автомобіль Tesla у режимі автопілота смертельно травмував пішохода",
-      "video_keywords": "self driving car, highway at night, police lights, dashboard camera"
-    },
-    {
-      "title": "Nvidia OpenShell",
-      "link": "https://github.com/NVIDIA/OpenShell",
-      "summary": "<p>Article URL: <a href=\"https://github.com/NVIDIA/OpenShell\">https://github.com/NVIDIA/OpenShell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50198675\">https://news.ycombinator.com/item?id=50198675</a></p>\n<p>Points: 82</p>\n<p># Comments: 39</p>",
-      "published": "2026-10-22T17:44:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Nvidia випустила новий проєкт з відкритим кодом під назвою OpenShell. Новий інструмент вже привернув значну увагу розробників та спільноти програмістів на платформі GitHub.",
-      "ai_title": "Nvidia презентувала новий інструмент OpenShell",
-      "video_keywords": "computer code, programmer, screen, software development"
-    },
-    {
       "title": "Canva’s first AI image model plans designs before generating them",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
@@ -359,59 +329,49 @@
       "ai_summary": "Швейцарські дослідники розробили інноваційний нейрочіп, здатний в реальному часі декодувати складні сигнали та взаємозв'язки між різними структурами головного мозку. Цей прорив відкриває нові можливості для вивчення неврологічних захворювань та створення вдосконалених нейроінтерфейсів. Технологія дозволяє вченим краще розуміти принципи обробки інформації живим організмом.",
       "ai_title": "Нейрочіп розшифровує взаємодію між ділянками мозку",
       "video_keywords": "microchip, brain scan, laboratory, scientific equipment"
+    },
+    {
+      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+      "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/\">https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50224074\">https://news.ycombinator.com/item?id=50224074</a></",
+      "published": "2026-10-24T19:03:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Фонд PHP працює в умовах серйозного браку коштів та має лише одного штатного співробітника. Це ставить під загрозу подальшу підтримку та розвиток однієї з найпопулярніших мов програмування у світі.",
+      "ai_title": "PHP Foundation зіткнулася з критичним недофінансуванням",
+      "video_keywords": "programmer typing code, computer monitor, office desk, software development"
+    },
+    {
+      "title": "Danish Government silently drops plan to dump MS Office",
+      "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+      "summary": "<p>Article URL: <a href=\"https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft\">https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/ite",
+      "published": "2026-10-24T18:31:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Уряд Данії тихо згорнув масштабний експеримент із відмови від офісного пакета Microsoft на користь вільних програм. Державні органи продовжують використовувати звичні комерційні рішення.",
+      "ai_title": "Данія відмовилася від переходу на open-source альтернативи Microsoft",
+      "video_keywords": "office workers, computer screens, corporate building, business meeting"
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "link": "https://arxiv.org/abs/2610.29162",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.29162\">https://arxiv.org/abs/2610.29162</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50223647\">https://news.ycombinator.com/item?id=50223647</a></p>\n<p>Points: 6</p>\n<p># Comments: 4</p>",
+      "published": "2026-10-24T18:04:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники вивчають причини, чому тексти, створені штучним інтелектом, часто здаються неприродними та важкими для розуміння людиною. Проблема криється в особливості побудови нейромережами мовних конструкцій.",
+      "ai_title": "Чому штучний інтелект генерує настільки складну для сприйняття мову?",
+      "video_keywords": "futuristic interface, digital text, glowing screen, typing on keyboard"
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as [&#8230;]",
+      "published": "2026-10-24T18:32:21+00:00",
+      "source": "The Verge",
+      "ai_summary": "Губернатор Пенсильванії підписав закон про оманливу рекламу зі штучним інтелектом. Тепер усі згенеровані чи суттєво змінені нейромережами оголошення у відео, аудіо чи текстовому форматі повинні мати спеціальне маркування.",
+      "ai_title": "У Пенсильванії вимагатимуть маркувати рекламу зі штучним інтелектом",
+      "video_keywords": "smartphone screen, social media scrolling, digital advertising, billboard in city"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "published": "2026-10-22T19:07:09+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія 1Password запустила функцію, яка дозволяє ШІ-агентам авторизовуватися в облікових записах користувачів замість них. Це робить роботу з ботами безпечнішою, оскільки конфіденційні дані та самі паролі залишаються захищеними від сторонніх очей.",
-      "ai_title": "1Password дозволить штучному інтелекту входити в акаунти без розкриття паролів",
-      "video_keywords": "cybersecurity, password, login, computer screen, artificial intelligence"
-    },
-    {
-      "title": "Canva releases its first image generation model",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "published": "2026-10-22T19:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярний сервіс дизайну Canva представив свою першу модель для створення картинок і зробив її доступною для всіх користувачів. Розробники обіцяють вищу якість, гнучкіші налаштування генерації та нижчу вартість порівняно з аналогами.",
-      "ai_title": "Canva випустила власну модель генерації зображень",
-      "video_keywords": "graphic designer, computer monitor, digital art, creative workspace"
-    },
-    {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "published": "2026-10-22T18:43:53+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Топменеджер Microsoft Мустафа Сулейман заявив про прагнення створити «медичний суперінтелект» після того, як новітня ШІ-система компанії перевершила лікарів загальної практики у складних клінічних кейсах. Проте дослідження показало, що успіх більше залежить від базових моделей, ніж від самого продукту корпорації.",
-      "ai_title": "У Microsoft заявили про створення ШІ, який перевершує лікарів у складних діагнозах",
-      "video_keywords": "doctor office, hospital laboratory, medical technology, futuristic interface"
-    },
-    {
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-      "published": "2026-10-22T18:38:47+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Колишній науковий керівник OpenAI створив компанію Warp Science, яка прагне автоматизувати роботу хімічних лабораторій за допомогою роботів. Люди-хіміки в спеціальних рукавичках та з камерами навчають робототехніку виконувати складні лабораторні завдання.",
-      "ai_title": "Екс-керівник відділу науки OpenAI запустив стартап Warp Science для автоматизації лабораторій",
-      "video_keywords": "robotic arm, chemistry lab, scientist, laboratory equipment"
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "published": "2026-10-22T22:08:24+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія OpenAI веде роботу над залученням 30 мільярдів доларів інвестицій, що може підняти її оцінку до 1,25 трильйона. Якщо угода відбудеться, це встановить історичний рекорд для приватних компаній перед виходом на IPO.",
-      "ai_title": "OpenAI готується до рекордного раунду фінансування з оцінкою понад трильйон",
-      "video_keywords": "financial chart, stock market, skyscraper, modern office, business handshake"
-    },
     {
       "title": "Rivian buys world model startup to accelerate self-driving ambitions",
       "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
@@ -631,19 +591,19 @@
       "ai_summary": "Новий компактний рідер Boox Palma 2 Pro із чорно-білим екраном E Ink створений для тих, хто хоче читати книжки та статті на мініатюрному пристрої. Гаджет допомагає людям рідше відволікатися на звичайний смартфон.",
       "ai_title": "Кишенькова електронна книга змінила звички читання",
       "video_keywords": "person reading e-reader, electronic book, hands holding device"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "published": "2026-10-24T19:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Світ штучного інтелекту стикається з жорстокою реальністю: чимало гучних проєктів та амбітних стартапів закриваються або не виправдовують очікувань. У цьому списку зібрані найгучніші провали техногігантів та нових компаній у гонці за домінування в галузі ШІ.",
+      "ai_title": "Кладовище штучного інтелекту: стартапи та проєкти, які зазнали невдачі",
+      "video_keywords": "server room, broken computer, graveyard, futuristic technology failure"
     }
   ],
   "Крипта": [
-    {
-      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-      "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-      "summary": "",
-      "published": "2026-10-22T18:30:57+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Відомий венчурний фонд Andreessen Horowitz активно диверсифікує свій портфель. Окрім криптовалютного сегмента, компанія тепер робить великі ставки на штучний інтелект та інші новітні технології.",
-      "ai_title": "A16z розширює інвестиції за межі крипти в ШІ",
-      "video_keywords": "artificial intelligence, futuristic technology, venture capital, server room"
-    },
     {
       "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
       "link": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
