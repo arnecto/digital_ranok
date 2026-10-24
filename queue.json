@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "LLM agents play Pokemon showdown",
-      "link": "https://olivergrabner.com/research/pokemon/",
-      "summary": "<p>Article URL: <a href=\"https://olivergrabner.com/research/pokemon/\">https://olivergrabner.com/research/pokemon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190334\">https://news.ycombinator.com/item?id=50190334</a></p>\n<p>Points: 21</p>\n<p># Comments: 11</p>",
-      "published": "2026-10-22T02:13:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники навчили автономних агентів на базі великих мовних моделей грати в стратегічну гру Pokemon Showdown. Агенти демонструють здатність аналізувати бойові ситуації, приймати рішення та змагатися проти реальних гравців.",
-      "ai_title": "Штучний інтелект грає в Pokemon Showdown",
-      "video_keywords": "person playing video game, computer screen, gaming setup, hands on keyboard"
-    },
-    {
-      "title": "I can't believe PowerShell is good",
-      "link": "https://www.spacebar.news/powershell-is-actually-good/",
-      "summary": "<p>Article URL: <a href=\"https://www.spacebar.news/powershell-is-actually-good/\">https://www.spacebar.news/powershell-is-actually-good/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190959\">https://news.ycombinator.com/item?id=50190959</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
-      "published": "2026-10-22T03:47:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники переосмислюють роль командного рядка PowerShell, відзначаючи його значний прогрес та зручність у повсякденній роботі. Інструмент отримав нові можливості, які роблять адміністрування та автоматизацію набагато ефективнішими.",
-      "ai_title": "Чому сучасний PowerShell став зручним інструментом",
-      "video_keywords": "programmer typing code, computer monitor, dark mode terminal, software developer"
-    },
-    {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "<p>Article URL: <a href=\"https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190455\">https://news.ycombinator.com/item?id=50190455</a></p>\n<p>Points: 65</p>\n<p># Comments: 28</p>",
-      "published": "2026-10-22T02:30:52+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Математики опублікували дослідження про новий алгоритм множення цілих чисел із часовою складністю o(n log n). Це досягнення може суттєво оптимізувати обчислювальні процеси у сфері комп'ютерних наук.",
-      "ai_title": "Запропоновано новий алгоритм множення цілих чисел",
-      "video_keywords": "math formulas on blackboard, scientific research, numbers on screen, calculator"
-    },
-    {
-      "title": "Achieving AI-style reasoning without an LLM",
-      "link": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
-      "summary": "<p>Article URL: <a href=\"https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/\">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50192868\">https://news.ycombinator.com/item?id=50192868</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-      "published": "2026-10-22T08:46:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники досліджують нові методи досягнення складної логіки та міркувань, подібних до AI, спираючись на альтернативні підходи замість традиційних LLM. Це може суттєво змінити архітектуру створення розумних систем та знизити їхню ресурсомісткість. Дослідження відкриває перспективи для більш прозорих і контрольованих алгоритмів.",
-      "ai_title": "Штучний інтелект із міркуваннями без використання великих мовних моделей",
-      "video_keywords": "server room, data center, computer screen, code scrolling"
-    },
-    {
       "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
       "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
       "summary": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-111943\">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50192900\">https://news.ycombinator.com/item?id=50192900</a></p>\n<p>Points: 64</p>\n<p># Comments: 12</p>",
@@ -434,6 +394,16 @@
       "ai_summary": "Суд у Німеччині виніс рішення щодо методів збору даних компанією Google, кваліфікувавши їхні аерофотознімки як незаконне спостереження. Це рішення створює важливий прецедент щодо захисту приватності громадян та обмеження збору геоданих техногігантами в Європі. Компанія може зіштовхнутися з новими регуляторними обмеженнями на свою діяльність у регіоні.",
       "ai_title": "Німецький суд визнав аерофотозйомку Google шпигунством",
       "video_keywords": "aerial map on computer screen, satellite imagery interface, judge banging gavel, digital surveillance map"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "summary": "<p>Article URL: <a href=\"https://rtfeldman.com/fp-vs-c\">https://rtfeldman.com/fp-vs-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218195\">https://news.ycombinator.com/item?id=50218195</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
+      "published": "2026-10-24T03:43:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті досліджується, наскільки близько чисте функціональне програмування може підібратися до продуктивності та низькорівневих можливостей мови C. Автор аналізує сильні та слабкі сторони обох підходів у контексті оптимізації коду. Це питання є важливим для розробників, які прагнуть поєднати безпеку типів із максимальною продуктивністю.",
+      "ai_title": "Чи зможе функціональне програмування зрівнятися за швидкістю з C?",
+      "video_keywords": "computer screen, programming code, typing on keyboard, developer workspace"
     }
   ],
   "Бізнес / Стартапи": [
@@ -704,16 +674,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-      "summary": "",
-      "published": "2026-10-22T03:51:34+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Курс біткоина знизився після спроби подолати рубіж у 85 000 доларів. Це сталося на тлі падіння акцій Tesla та Meta, що посилило тривожність інвесторів щодо галузі штучного інтелекту.",
-      "ai_title": "Біткоин відступив від позначки у 85 000 доларів",
-      "video_keywords": "cryptocurrency trading, stock market crash, red candles chart, computer monitor finance"
-    },
     {
       "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
       "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
@@ -1048,6 +1008,16 @@
       "ai_summary": "Податкова служба США (IRS) планує знизити штрафи за несвоєчасне або неповне подання податкових декларацій, зокрема для власників криптовалют. Нова ініціатива спрямована на прискорення врегулювання спорів та створення гнучкіших умов оплати для платників податків. Це може зменшити тиск на криптоінвесторів у США.",
       "ai_title": "Податкова США хоче пом'якшити штрафи за незадекларовану крипту",
       "video_keywords": "calculator, tax form, pen writing, laptop keyboard"
+    },
+    {
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+      "summary": "",
+      "published": "2026-10-24T04:45:43+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Franklin Templeton розмістила паї свого фонду на суму 150 мільйонів доларів безпосередньо в блокчейні XRP Ledger. Весь обсяг активів було сконцентровано в одному цифровому гаманці, що підкреслює зростаючу інституційну цікавість до цієї мережі.",
+      "ai_title": "Franklin Templeton інтегрувала фонд на $150 мільйонів у мережу XRP",
+      "video_keywords": "digital wallet, cryptocurrency, blockchain network, financial data"
     }
   ]
 }
