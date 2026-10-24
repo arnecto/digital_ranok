@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able [&#8230;]",
-      "published": "2026-10-21T23:36:31+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Tesla оголосила дедлайн щодо амбітного проєкту автономного водіння. Вже наступного року власники електромобілів зможуть додавати власні машини до загального флоту роботаксі.",
-      "ai_title": "Tesla обіцяє запустити власний автопарк роботаксі наступного року",
-      "video_keywords": "electric car, autonomous driving, steering wheel, futuristic vehicle"
-    },
-    {
-      "title": "YouTube says it isn’t testing hiding the dislike button",
-      "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding [&#8230;]",
-      "published": "2026-10-21T23:46:45+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після появи в соцмережах скриншотів із перенесеною кнопкою дизлайка представники YouTube офіційно спростували чутки. Платформа заявила, що наразі не проводить подібних експериментів.",
-      "ai_title": "YouTube заперечує тестування приховування кнопки дизлайка",
-      "video_keywords": "smartphone screen, social media app, clicking button, person using phone"
-    },
-    {
       "title": "LLM agents play Pokemon showdown",
       "link": "https://olivergrabner.com/research/pokemon/",
       "summary": "<p>Article URL: <a href=\"https://olivergrabner.com/research/pokemon/\">https://olivergrabner.com/research/pokemon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190334\">https://news.ycombinator.com/item?id=50190334</a></p>\n<p>Points: 21</p>\n<p># Comments: 11</p>",
@@ -434,19 +414,29 @@
       "ai_summary": "Компанія OpenAI опублікувала звіт про заходи безпеки, які застосовуються для захисту середовища навчання передових нейромереж. Інженери зосередилися на ізоляції критичної інфраструктури від потенційних зовнішніх загроз. Такі кроки мають гарантувати стабільність та захищеність майбутніх технологій штучного інтелекту.",
       "ai_title": "OpenAI підвищує рівень безпеки для тренування нових моделей ШІ",
       "video_keywords": "data center, glowing servers, engineer working, futuristic technology"
+    },
+    {
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "summary": "<p>Article URL: <a href=\"https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8\">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMh",
+      "published": "2026-10-23T23:30:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники безпеки виявили критичну вразливість віддаленого виконання кодів (RCE), яка зачіпає популярні платформи на Node.js та Python. Ця загроза вимагає від розробників термінового оновлення систем для запобігання потенційним кібератакам. Експерти радять ретельно перевірити наявні сервери на ознаки компрометації.",
+      "ai_title": "Нова вразливість http2shell загрожує Node.js та Python",
+      "video_keywords": "hacker typing on laptop, glowing lines of code, cybersecurity threat matrix, server room blinking lights"
+    },
+    {
+      "title": "German court calls Google aerial imagery 'spying'",
+      "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+      "summary": "<p>Article URL: <a href=\"https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/\">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50216142\">https://news.ycombinator.com/item?id=50216142</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+      "published": "2026-10-23T22:18:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Суд у Німеччині виніс рішення щодо методів збору даних компанією Google, кваліфікувавши їхні аерофотознімки як незаконне спостереження. Це рішення створює важливий прецедент щодо захисту приватності громадян та обмеження збору геоданих техногігантами в Європі. Компанія може зіштовхнутися з новими регуляторними обмеженнями на свою діяльність у регіоні.",
+      "ai_title": "Німецький суд визнав аерофотозйомку Google шпигунством",
+      "video_keywords": "aerial map on computer screen, satellite imagery interface, judge banging gavel, digital surveillance map"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "published": "2026-10-21T22:51:22+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Керівник підрозділу штучного інтелекту у Blackstone Джас Хайра заявив, що побоювання інвесторів щодо боргового навантаження через бум ШІ є сильно перебільшеними. Інвестиційний гігант не бачить причин для паніки на тлі поточних коливань на ринку.",
-      "ai_title": "У Blackstone заспокоюють ринок щодо ризиків боргів на розробку систем штучного інтелекту",
-      "video_keywords": "financial skyscraper, business handshake, modern office building, businessman tablet"
-    },
     {
       "title": "Spotify’s current AI bet is about being the music service that agents choose",
       "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
@@ -691,19 +681,29 @@
       "ai_summary": "У Бостоні відбудеться TechCrunch Founder Summit 2026, який об'єднає підприємців, інвесторів та експертів. Учасників чекають практичні сесії, живі пітчі, нетворкінг та дискусії щодо актуальних викликів у бізнесі.",
       "ai_title": "TechCrunch анонсує масштабний саміт засновників стартапів на 2026 рік",
       "video_keywords": "tech conference, audience listening, stage presentation, business networking event"
+    },
+    {
+      "title": "Startups don’t need to go viral to win customers",
+      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "published": "2026-10-23T23:07:45+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На конференції TechCrunch Disrupt засновники компаній та венчурний інвестор обговорили стратегії побудови лояльної бази клієнтів на ранніх етапах. Експерти зосередилися на тому, чому стабільне зростання важливіше за тимчасовий хайп і вірусність у соцмережах.",
+      "ai_title": "Як стартапам залучати та утримувати клієнтів без вірусного маркетингу",
+      "video_keywords": "business meeting, startup presentation, office brainstorm, professional handshake"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "published": "2026-10-23T23:05:49+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія вирішила відмовитися від використання живих інтернет-даних для навчання своїх передових моделей через значні ризики безпеки. Це рішення було прийняте незважаючи на попередні заяви розробників про те, що подібні обмеження є неефективними.",
+      "ai_title": "OpenAI припиняє тренування штучного інтелекту на даних з живого інтернету",
+      "video_keywords": "futuristic data center, server racks blinking, cyber security shield, coder typing on laptop"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-      "summary": "",
-      "published": "2026-10-22T04:41:59+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Спотові біткоин-ETF за три дні залучили 1,08 мільярда доларів США від інвесторів. Проте аналітики зазначають, що цього може бути замало для стрімкого зростання ринку в найближчому майбутньому.",
-      "ai_title": "Біткоин-ETF залучили понад мільярд доларів",
-      "video_keywords": "bitcoin chart, digital currency, stock market, finance graphs"
-    },
     {
       "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
       "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
