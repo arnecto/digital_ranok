@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-      "link": "https://news.ycombinator.com/item?id=50204125",
-      "summary": "<p>The \"product graveyard\" of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It's been hovering around 4y for quite some time. However, there's a sharp decline in 2026 leading to about 1.5y these days. <a href=\"https://www.saashub.com/product-graveyard\" rel=\"nofollow\">https://www.saashub.com/product-graveyard</a> That's a huge drop. And, it matches my \"hu",
-      "published": "2026-10-23T03:20:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналіз платформи SaaSHub показує стрімке скорочення середнього терміну життя цифрових продуктів. Якщо раніше він становив близько чотирьох років, то тепер цей показник впав приблизно до півтора року, що свідчить про високу конкуренцію та швидкі зміни на ринку.",
-      "ai_title": "Життєвий цикл IT-продуктів скоротився майже втричі",
-      "video_keywords": "software dashboard, data analytics, falling graph, computer screen"
-    },
-    {
       "title": "No, the iPhone Duo isn’t a small phone",
       "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
       "summary": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no. [&#8230;]",
@@ -353,16 +343,6 @@
   ],
   "Бізнес / Стартапи": [
     {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "published": "2026-10-23T04:00:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Сервіс поїздок inDrive об'єднався з Pony.ai та Nvidia для запуску тестування автономних автомобілів у Казахстані. Початок випробувань заплановано на першу половину 2027 року.",
-      "ai_title": "inDrive планує тестування роботаксі у Центральній Азії",
-      "video_keywords": "autonomous car, robotaxi, futuristic driving, city street"
-    },
-    {
       "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
       "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
       "summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
@@ -524,66 +504,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-      "summary": "",
-      "published": "2026-10-23T04:59:34+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Розробники Ethereum вирішили відкласти тестування оновлення Glamsterdam через потенційні ризики для існуючих смарт-контрактів. Аудитори безпеки виявили вразливості, які можуть загрожувати стабільності мережі, тому запуск тестнету перенесено.",
-      "ai_title": "Ethereum відкладає запуск тесту Glamsterdam через проблеми безпеки",
-      "video_keywords": "ethereum blockchain, computer code, developer office, cyber security"
-    },
-    {
-      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin Core changes security policy as AI makes bugs easier to find\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KGJ7H1P06HPDXG7J0T2HX1/bitcoin-bug.jpg\" /></p><p>Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted",
-      "published": "2026-10-23T04:34:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Розробники Bitcoin Core оновили свою політику безпеки, оскільки інструменти на базі штучного інтелекту значно прискорили пошук вразливостей у коді. Тепер традиційне приховування деяких багів більше не гарантує захисту, що вимагає нових підходів до безпеки мережі.",
-      "ai_title": "Bitcoin Core змінює політику безпеки через штучний інтелект",
-      "video_keywords": "artificial intelligence, bitcoin symbol, digital code, cybersecurity screen"
-    },
-    {
-      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-      "summary": "",
-      "published": "2026-10-23T03:13:01+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалюта та золото змогли відіграти ранкові падіння на ринках після того, як японська єна втратила свої позиції. Водночас ціни на нефть залишаються стабільно високими, впливаючи на глобальні фінансові ринки.",
-      "ai_title": "Біткоїн та золото скорочують втрати на тлі коливань валют",
-      "video_keywords": "stock market ticker, trading charts, gold bars, cryptocurrency screen"
-    },
-    {
-      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-      "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-      "summary": "",
-      "published": "2026-10-23T05:01:19+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Прогнозний ринок Polymarket розірвав стосунки зі своєю директоркою з маркетингу, яка також була близькою подругою генерального директора. Це рішення стало несподіванкою для спільноти та викликало обговорення внутрішньої політики компанії.",
-      "ai_title": "Polymarket звільнила керівницю маркетингу через конфлікт інтересів",
-      "video_keywords": "corporate office, business meeting, modern workspace, professional handshake"
-    },
-    {
-      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-      "summary": "",
-      "published": "2026-10-23T04:36:51+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Учасникам екосистеми Cardano запропонували зробити масивну ставку на те, чи зможе мідь досягти нового історичного рекорду. Цей незвичний фінансовий експеримент поєднує криптовалютні активи з реальним сировинним ринком.",
-      "ai_title": "Власникам Cardano пропонують ризикнути 5 мільйонами доларів на ціні міді",
-      "video_keywords": "copper pipes, financial market, trading floor, cryptocurrency coins"
-    },
-    {
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "summary": "",
-      "published": "2026-10-23T10:22:56+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Британський банківський гігант HSBC інтегрував свій дебютний стейблкоїн у мобільний додаток. Нововслуга охопить понад три мільйони роздрібних користувачів, відкриваючи для них нові можливості повсякденних криптоплатежів.",
-      "ai_title": "HSBC запускає перший стейблкоїн для мільйонів користувачів",
-      "video_keywords": "smartphone app, banking app, digital wallet, person tapping phone"
-    },
     {
       "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
       "link": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
