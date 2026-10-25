@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
-      "published": "2026-10-23T21:11:07+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія OpenAI почала тренувати свої найновіші моделі штучного інтелекту повністю без доступу до інтернету. Це рішення було прийняте після низки хакерських інцидентів задля безпеки та ізоляції навчального середовища. Тепер моделі взаємодіють лише з попередньо кешованим вебконтентом.",
-      "ai_title": "OpenAI ізолювала свої передові моделі штучного інтелекту від інтернету",
-      "video_keywords": "server room, cyber security, matrix code, computer monitor"
-    },
-    {
-      "title": "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
-      "link": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
-      "summary": "<p>Article URL: <a href=\"https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left\">https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50214447\">https://news.ycombinator.com/item?id=50214447</a></p>\n<p>Points: 50</p>\n<p># Comm",
-      "published": "2026-10-23T19:53:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Sony повністю згортає виробництво своїх останніх 4K Blu-ray плеєрів на внутрішньому ринку Японії. Через це єдиним пристроєм від Sony для перегляду дискового метенті залишається ігрова консоль PlayStation 5. Це знаменує черговий крок до повної домінації цифрового стрімінгу.",
-      "ai_title": "Sony припиняє виробництво останніх плеєрів 4K Blu-ray у Японії",
-      "video_keywords": "game console, living room, television screen, electronics store"
-    },
-    {
-      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-      "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-      "summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot [&#8230;]",
-      "published": "2026-10-23T19:35:15+00:00",
-      "source": "The Verge",
-      "ai_summary": "Популярний у минулому піратський сервіс для стрімінгу через торренти Popcorn Time остаточно вимкнули. Закинутий додаток, який досі залишався на мільйонах пристроїв, міг стати частиною масової кібератаки. Розробники заблокували роботу старих версій, щоб запобігти створенню небезпечної мережі зомбі-комп'ютерів.",
-      "ai_title": "Застарілі додатки Popcorn Time відключили через загрозу ботнетів",
-      "video_keywords": "hacker typing, glowing screen, digital threat, warning sign"
-    },
-    {
-      "title": "Xbox’s first chief operating officer is out after just a few months",
-      "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief [&#8230;]",
-      "published": "2026-10-23T21:39:26+00:00",
-      "source": "The Verge",
-      "ai_summary": "Підрозділ Microsoft Xbox втратив свого першого головного операційного директора (COO) всього через кілька місяців після створення цієї посади. Гелен Чіанг, яка пропрацювала в компанії 21 рік та керувала проєктом Minecraft, вирішила залишити корпорацію. Внутрішня записка підтвердила її відхід із сьогоднішнього дня.",
-      "ai_title": "Перший операційний директор Xbox залишає посаду після кількох місяців роботи",
-      "video_keywords": "modern office, business meeting, corporate handshake, office building"
-    },
-    {
-      "title": "OpenAI: Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/securing-our-frontier-model-training-environment/\">https://openai.com/index/securing-our-frontier-model-training-environment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50214416\">https://news.ycombinator.com/item?id=50214416</a></p>\n<p>Points: 43</p>\n<p># Comments: 37</p>",
-      "published": "2026-10-23T19:50:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія OpenAI опублікувала звіт про заходи безпеки, які застосовуються для захисту середовища навчання передових нейромереж. Інженери зосередилися на ізоляції критичної інфраструктури від потенційних зовнішніх загроз. Такі кроки мають гарантувати стабільність та захищеність майбутніх технологій штучного інтелекту.",
-      "ai_title": "OpenAI підвищує рівень безпеки для тренування нових моделей ШІ",
-      "video_keywords": "data center, glowing servers, engineer working, futuristic technology"
-    },
-    {
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "summary": "<p>Article URL: <a href=\"https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8\">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMh",
-      "published": "2026-10-23T23:30:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники безпеки виявили критичну вразливість віддаленого виконання кодів (RCE), яка зачіпає популярні платформи на Node.js та Python. Ця загроза вимагає від розробників термінового оновлення систем для запобігання потенційним кібератакам. Експерти радять ретельно перевірити наявні сервери на ознаки компрометації.",
-      "ai_title": "Нова вразливість http2shell загрожує Node.js та Python",
-      "video_keywords": "hacker typing on laptop, glowing lines of code, cybersecurity threat matrix, server room blinking lights"
-    },
-    {
       "title": "German court calls Google aerial imagery 'spying'",
       "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
       "summary": "<p>Article URL: <a href=\"https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/\">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50216142\">https://news.ycombinator.com/item?id=50216142</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
@@ -299,6 +239,56 @@
       "ai_summary": "Популярний аксесуар Nitro Deck отримав оновлення для підтримки оригінального Switch та майбутнього Switch 2. Пристрій пропонує геймерам покращені стіки на датчиках Холла, проте певні конструктивні нюанси заважають йому стати ідеальним.",
       "ai_title": "Огляд нового аксесуара Nitro Deck для консолей Nintendo",
       "video_keywords": "gaming console, handheld gaming, playing video games, gamer hands"
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "link": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2026/10/cheap-llms/\">https://minimaxir.com/2026/10/cheap-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50236102\">https://news.ycombinator.com/item?id=50236102</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+      "published": "2026-10-25T21:11:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Провідні компанії у сфері штучного інтелекту OpenAI та Anthropic скоротили вартість використання своїх великих мовних моделей (LLM) до 80% за кілька місяців. Це свідчить про зростаючу конкуренцію на ринку та оптимізацію витрат на обчислення. Експерти аналізують причини такого різкого цінопаду та його вплив на всю індустрію.",
+      "ai_title": "OpenAI та Anthropic різко знизили ціни на свої мовні моделі",
+      "video_keywords": "datacenter, server racks, artificial intelligence, computer screen"
+    },
+    {
+      "title": "The State of Context Engineering",
+      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html\">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235780\">https://news.ycombinator.com/item?id=50235780</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-25T20:32:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття досліджує еволюцію інженерії контексту в епоху розвитку штучного інтелекту та великих мовних моделей. Автор аналізує нові підходи до передачі інформації моделям для підвищення їхньої точності та ефективності. Обговорюються головні технічні труднощі, з якими стикаються розробники під час оптимізації контекстних вікон.",
+      "ai_title": "Сучасний стан та виклики інженерії контексту",
+      "video_keywords": "developer typing, code on screen, programmer working, tech office"
+    },
+    {
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles\">https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235010\">https://news.ycombinator.com/item?id=50235010</a></p>\n<p>Points: 30</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-25T19:10:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Фахівці з кібербезпеки зафіксували масштабну кампанію Gheist, спрямовану на зловживання викраденими токенами GitHub. Зловмисники намагалися автоматизувати створення робочих процесів для витоку конфіденційних даних. Завдяки швидкій реакції системи безпеки атаку вдалося вчасно зупинити.",
+      "ai_title": "Кібератака Gheist: зловмисники використали вкрадені токени GitHub",
+      "video_keywords": "cybersecurity, hacker coding, security breach, glowing code"
+    },
+    {
+      "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the [&#8230;]",
+      "published": "2026-10-25T21:40:27+00:00",
+      "source": "The Verge",
+      "ai_summary": "Експерти з ремонту iFixit розібрали новий складаний смартфон від Apple, щоб вивчити його внутрішню бустройство. Вони виявили особливості конструкції шарніра, які можуть пояснити масові скарги користувачів на пошкоджені екрани. Пристрій отримав оцінку 5 із 10 за ремонтопридатність.",
+      "ai_title": "Розбір нового iPhone Duo від iFixit розкрив таємницю зламаних екранів",
+      "video_keywords": "smartphone repair, fixing electronics, technician screwdriver, gadget teardown"
+    },
+    {
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]",
+      "published": "2026-10-25T19:24:50+00:00",
+      "source": "The Verge",
+      "ai_summary": "Після того як компанія Atlassian придбала розробників браузера Arc та змінила фокус на інший проєкт, користувачі почали шукати заміну. Новий веббраузер Zen швидко набирає популярність завдяки нестандартному дизайну та зручним функціям. Він пропонує свіжий погляд на організацію вкладки та навігацію в інтернеті.",
+      "ai_title": "Zen Browser стає новою альтернативою для користувачів Arc",
+      "video_keywords": "web browsing, computer monitor, person using laptop, software interface"
     }
   ],
   "Бізнес / Стартапи": [
@@ -311,26 +301,6 @@
       "ai_summary": "Генеральний директор Nvidia продемонстрував мініатюрних роботів Microduck, які виконують команди, видають смішні звуки та роблять сальто. Новинка миттєво підкорила мережу, а перша партія у 20 тисяч штук була повністю розпродана.",
       "ai_title": "Роботи-качки від Nvidia стали хітом перед різдвяними святами",
       "video_keywords": "small robot toy, cute robot walking, electronics assembly, robotic duck"
-    },
-    {
-      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-      "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
-      "published": "2026-10-23T20:57:13+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Провідні інвестори та засновник успішного сервісу Superhuman Mail поділилися досвідом побудови затребуваних продуктів. Вони назвали ключові червоні прапорці, яких слід уникати стартапам на шляху до досягнення product-market fit.",
-      "ai_title": "Головні помилки у пошуку ринкового попиту: поради від венчурних інвесторів",
-      "video_keywords": "business meeting, startup presentation, office discussion, entrepreneurs brainstorming"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
-      "published": "2026-10-23T20:03:14+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "У Бостоні відбудеться TechCrunch Founder Summit 2026, який об'єднає підприємців, інвесторів та експертів. Учасників чекають практичні сесії, живі пітчі, нетворкінг та дискусії щодо актуальних викликів у бізнесі.",
-      "ai_title": "TechCrunch анонсує масштабний саміт засновників стартапів на 2026 рік",
-      "video_keywords": "tech conference, audience listening, stage presentation, business networking event"
     },
     {
       "title": "Startups don’t need to go viral to win customers",
@@ -451,19 +421,29 @@
       "ai_summary": "Попри масові інвестиції та гучний ажіотаж навколо штучного інтелекту, технологія ще не забезпечила реальної фінансової віддачі для більшості американських корпорацій за межами технологічного сектору. Про це заявляють економісти, вказуючи на розрив між очікуваннями бізнесу та реабiлiтацією вкладеного капіталу.",
       "ai_title": "Штучний інтелект поки не приносить прибутку більшості компаній",
       "video_keywords": "office workers, computer screens, stressed businessman, corporate meeting"
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "published": "2026-10-25T21:31:16+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа представила початковий фрагмент свого нового відео, створеного за допомогою штучного інтелекту. Візуальний ряд виглядає прийнятно, проте критиці бракує художньої цінності та справжньої людської емоції.",
+      "ai_title": "Grok випустив перші сім хвилин штучного інтелекту «Odyssey»",
+      "video_keywords": "artificial intelligence, computer screen, futuristic technology, digital art"
+    },
+    {
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "published": "2026-10-25T20:20:08+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Авторка скандальної праці знову привертає увагу суспільства до ідей техно-лібертаріанства. Видання, яке раніше вважалося забутим, знову обговорюють у контексті сучасного розвитку технологій.",
+      "ai_title": "Критика техно-лібертаріанства: скандальна книга повертається з небуття",
+      "video_keywords": "book reading, library interior, angry reader, modern author"
     }
   ],
   "Крипта": [
-    {
-      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-      "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"IRS plans lower tax disclosure penalties, including for crypto: Forbes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N6SNMRK1BS8PGZSR5F8GRG/hi-taxes-on-crypto-kraken.png\" /></p><p>The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers vo",
-      "published": "2026-10-23T20:54:17+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Податкова служба США (IRS) планує знизити штрафи за несвоєчасне або неповне подання податкових декларацій, зокрема для власників криптовалют. Нова ініціатива спрямована на прискорення врегулювання спорів та створення гнучкіших умов оплати для платників податків. Це може зменшити тиск на криптоінвесторів у США.",
-      "ai_title": "Податкова США хоче пом'якшити штрафи за незадекларовану крипту",
-      "video_keywords": "calculator, tax form, pen writing, laptop keyboard"
-    },
     {
       "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
       "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
