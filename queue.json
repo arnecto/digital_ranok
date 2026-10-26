@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "How close can pure functional programming get to C?",
-      "link": "https://rtfeldman.com/fp-vs-c",
-      "summary": "<p>Article URL: <a href=\"https://rtfeldman.com/fp-vs-c\">https://rtfeldman.com/fp-vs-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218195\">https://news.ycombinator.com/item?id=50218195</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
-      "published": "2026-10-24T03:43:54+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У статті досліджується, наскільки близько чисте функціональне програмування може підібратися до продуктивності та низькорівневих можливостей мови C. Автор аналізує сильні та слабкі сторони обох підходів у контексті оптимізації коду. Це питання є важливим для розробників, які прагнуть поєднати безпеку типів із максимальною продуктивністю.",
-      "ai_title": "Чи зможе функціональне програмування зрівнятися за швидкістю з C?",
-      "video_keywords": "computer screen, programming code, typing on keyboard, developer workspace"
-    },
-    {
       "title": "ThinkRail from JetBrains",
       "link": "https://thinkrail.ai/",
       "summary": "<p>Article URL: <a href=\"https://thinkrail.ai/\">https://thinkrail.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219186\">https://news.ycombinator.com/item?id=50219186</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
@@ -289,6 +279,56 @@
       "ai_summary": "Команда Proton випустила нову інтерактивну карту, яка демонструє поширення систем спостереження та збору даних Flock. Цей інструмент покликаний привернути увагу суспільства до проблем приватності та масового стеження за громадянами. Проєкт дає змогу краще зрозуміти масштаб використання таких технологій у повсякденному житті.",
       "ai_title": "Інтерактивна карта камер спостереження Proton Flock",
       "video_keywords": "surveillance camera, security monitor, city street, digital map"
+    },
+    {
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "summary": "<p>Article URL: <a href=\"https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/\">https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238620\">https://news.ycombinator.com/item?id=50238620</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+      "published": "2026-10-26T03:12:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Microsoft презентувала деталі запуску нової компактної моделі Qwen обсягом 9 мільярдів параметрів. Цей реліз є частиною стратегії компанії з впровадження ефективних та продуктивних штучних інтелектів.",
+      "ai_title": "Microsoft запускає нову мовну модель Qwen 9B",
+      "video_keywords": "computer screen, artificial intelligence, typing code, tech office"
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "<p>Article URL: <a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238739\">https://news.ycombinator.com/item?id=50238739</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+      "published": "2026-10-26T03:29:05+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розпочався розпуск унікального PDF-рушія PaperPilot, який працює без використання хмарних сервісів. Проєкт написаний на мові Rust із підтримкою WebAssembly та протоколу MCP.",
+      "ai_title": "PaperPilot: новий швидкий PDF-рушій на Rust та WASM",
+      "video_keywords": "laptop keyboard, programming, software development, screen closeup"
+    },
+    {
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238088\">https://news.ycombinator.com/it",
+      "published": "2026-10-26T01:47:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Керівник IBM зазначив, що сучасні відкриті штучні інтелекти стали настільки якісними та доступними для локального розгортання, що відмовитися від них уже неможливо. Це створює нові можливості для корпоративного сегмента.",
+      "ai_title": "Голова IBM заявив про перевагу моделей із відкритими вагами",
+      "video_keywords": "server room, data center, blinking lights, IT professional"
+    },
+    {
+      "title": "If AI displaces human workers, they will lose more than just pay",
+      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay\">https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238351\">https://news.ycombinator.com/item?id=50238351</a></p>\n<p>Points: 19</p>\n<",
+      "published": "2026-10-26T02:22:38+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти аналізують наслідки масового витіснення працівників штучним інтелектом. Окрім фінансових втрат, люди стикаються з психологічними та соціальними викликами через зміну ролі у суспільстві.",
+      "ai_title": "Як штучний інтелект змінить життя працівників у разі втрати роботи",
+      "video_keywords": "stressed worker, empty office, looking out window, thoughtful person"
+    },
+    {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=50238708</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
+      "published": "2026-10-26T03:23:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий вебсервіс TitleArt, який дозволяє створювати візуальний текст у стилі епохи інтернету 1997 року. Проєкт викликав ностальгію у користувачів мережі своїм ретро-дизайном.",
+      "ai_title": "Ностальгійний генератор текстового дизайну з 1990-х",
+      "video_keywords": "retro computer, 90s style, colorful pixels, vintage monitor"
     }
   ],
   "Бізнес / Стартапи": [
@@ -405,16 +445,6 @@
   ],
   "Крипта": [
     {
-      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-      "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-      "summary": "",
-      "published": "2026-10-24T04:45:43+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Franklin Templeton розмістила паї свого фонду на суму 150 мільйонів доларів безпосередньо в блокчейні XRP Ledger. Весь обсяг активів було сконцентровано в одному цифровому гаманці, що підкреслює зростаючу інституційну цікавість до цієї мережі.",
-      "ai_title": "Franklin Templeton інтегрувала фонд на $150 мільйонів у мережу XRP",
-      "video_keywords": "digital wallet, cryptocurrency, blockchain network, financial data"
-    },
-    {
       "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
       "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
       "summary": "",
@@ -503,6 +533,36 @@
       "ai_summary": "Дослідники Ethereum використали автономних ШT-агентів для захисту мережі під час оновлення Glamsterdam. Це інноваційне рішення допомогло запобігти потенційним загрозам безпеки та продемонструвало нові можливості штучного інтелекту в управлінні блокчейном.",
       "ai_title": "Штучний інтелект врятував хардфорк Ethereum від зльому",
       "video_keywords": "artificial intelligence, glowing network, futuristic code, server room"
+    },
+    {
+      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+      "summary": "",
+      "published": "2026-10-26T04:37:02+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Котирування біткоїна знизилися на тлі того, як трейдери почали масово зменшувати ризики перед черговим засіданням Федеральної резервної системи США. Ринки демонструють обережність у зв'язку з можливими змінами монетарної політики. Така динаміка свідчить про чутливість криптовалютного ринку до макроекономічних новин.",
+      "ai_title": "Біткоїн впав нижче 80 000 доларів перед засіданням ФРС",
+      "video_keywords": "trading floor, stock market chart, computer screen, red numbers"
+    },
+    {
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong names Nasdaq-listed Solana Company a strategic enterprise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg\" /></p><p>The Nasdaq-listed firm said it plans to establish Solana validator ",
+      "published": "2026-10-26T03:21:26+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Зареєстрована на біржі Nasdaq компанія, що спеціалізується на Solana, отримала статус стратегічного підприємства в Гонконзі. У рамках цієї ініціативи фірма планує розгорнути валідатори мережі в регіоні. Це підкреслює зростаючу інституційну підтримку блокчейн-технологій в азіатському фінансовому центрі.",
+      "ai_title": "Гонконг визнав компанію з екосистеми Solana стратегічним підприємством",
+      "video_keywords": "Hong Kong skyline, skyscraper, modern office, digital map"
+    },
+    {
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Keystone says website breach exposed hardware wallet buyers’ addresses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg\" /></p><p>A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams a",
+      "published": "2026-10-26T02:24:04+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Виробник апаратних гаманців Keystone повідомив про злам свого сайту, внаслідок якого постраждали дані клієнтів. Зловмисники могли отримати доступ до адрес доставки покупців пристроїв. Експерти попереджають, що цей витік створює ризики цільових шахрайських атак на власників криптоактивів.",
+      "ai_title": "Витік даних у Keystone: адреси покупців апаратних гаманців опинилися під загрозою",
+      "video_keywords": "hacker typing, computer code, security breach, padlock icon"
     }
   ]
 }
