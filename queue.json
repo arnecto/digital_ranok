@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-      "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
-      "summary": "<p>Article URL: <a href=\"https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics\">https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234329\">https://news.ycombinator.com/item?id=50234329</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
-      "published": "2026-10-25T18:11:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Автор статті аргументує, що традиційні підходи до збору метрик, логів і траєкторій систем обмежують розробників. Натомість концепція «широких подій» (wide events) забезпечує набагато кращу прозорість та ефективність під час аналізу збоїв у складних ІТ-системах.",
-      "ai_title": "Новий підхід до моніторингу: чому ширші події важливіші за логи та метрики",
-      "video_keywords": "developer coding, multiple monitors, dashboard data, server room"
-    },
-    {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "link": "https://talkweb.eu/openweb/4558/",
-      "summary": "<p>Article URL: <a href=\"https://talkweb.eu/openweb/4558/\">https://talkweb.eu/openweb/4558/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233929\">https://news.ycombinator.com/item?id=50233929</a></p>\n<p>Points: 170</p>\n<p># Comments: 71</p>",
-      "published": "2026-10-25T17:30:55+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Технологічна спільнота активно обговорює проблему посилення цензури в мережі та закликає до об'єднання задля збереження принципу відкритого інтернету. Конференція FOSDEM стає майданчиком для пошуку технічних рішень проти цензурування та обмежень.",
-      "ai_title": "Боротьба за вільний інтернет: заклик до участі у конференції FOSDEM",
-      "video_keywords": "server racks, data center, cybersecurity, programmer typing"
-    },
-    {
-      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
-      "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
-      "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of [&#8230;]",
-      "published": "2026-10-25T17:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Популярний аксесуар Nitro Deck отримав оновлення для підтримки оригінального Switch та майбутнього Switch 2. Пристрій пропонує геймерам покращені стіки на датчиках Холла, проте певні конструктивні нюанси заважають йому стати ідеальним.",
-      "ai_title": "Огляд нового аксесуара Nitro Deck для консолей Nintendo",
-      "video_keywords": "gaming console, handheld gaming, playing video games, gamer hands"
-    },
-    {
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "link": "https://minimaxir.com/2026/10/cheap-llms/",
       "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2026/10/cheap-llms/\">https://minimaxir.com/2026/10/cheap-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50236102\">https://news.ycombinator.com/item?id=50236102</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
@@ -41,26 +11,6 @@
       "video_keywords": "datacenter, server racks, artificial intelligence, computer screen"
     },
     {
-      "title": "The State of Context Engineering",
-      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html\">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235780\">https://news.ycombinator.com/item?id=50235780</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-10-25T20:32:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стаття досліджує еволюцію інженерії контексту в епоху розвитку штучного інтелекту та великих мовних моделей. Автор аналізує нові підходи до передачі інформації моделям для підвищення їхньої точності та ефективності. Обговорюються головні технічні труднощі, з якими стикаються розробники під час оптимізації контекстних вікон.",
-      "ai_title": "Сучасний стан та виклики інженерії контексту",
-      "video_keywords": "developer typing, code on screen, programmer working, tech office"
-    },
-    {
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles\">https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235010\">https://news.ycombinator.com/item?id=50235010</a></p>\n<p>Points: 30</p>\n<p># Comments: 0</p>",
-      "published": "2026-10-25T19:10:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Фахівці з кібербезпеки зафіксували масштабну кампанію Gheist, спрямовану на зловживання викраденими токенами GitHub. Зловмисники намагалися автоматизувати створення робочих процесів для витоку конфіденційних даних. Завдяки швидкій реакції системи безпеки атаку вдалося вчасно зупинити.",
-      "ai_title": "Кібератака Gheist: зловмисники використали вкрадені токени GitHub",
-      "video_keywords": "cybersecurity, hacker coding, security breach, glowing code"
-    },
-    {
       "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
       "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
       "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the [&#8230;]",
@@ -69,16 +19,6 @@
       "ai_summary": "Експерти з ремонту iFixit розібрали новий складаний смартфон від Apple, щоб вивчити його внутрішню бустройство. Вони виявили особливості конструкції шарніра, які можуть пояснити масові скарги користувачів на пошкоджені екрани. Пристрій отримав оцінку 5 із 10 за ремонтопридатність.",
       "ai_title": "Розбір нового iPhone Duo від iFixit розкрив таємницю зламаних екранів",
       "video_keywords": "smartphone repair, fixing electronics, technician screwdriver, gadget teardown"
-    },
-    {
-      "title": "Zen Browser is the Arc replacement I was looking for",
-      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]",
-      "published": "2026-10-25T19:24:50+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після того як компанія Atlassian придбала розробників браузера Arc та змінила фокус на інший проєкт, користувачі почали шукати заміну. Новий веббраузер Zen швидко набирає популярність завдяки нестандартному дизайну та зручним функціям. Він пропонує свіжий погляд на організацію вкладки та навігацію в інтернеті.",
-      "ai_title": "Zen Browser стає новою альтернативою для користувачів Arc",
-      "video_keywords": "web browsing, computer monitor, person using laptop, software interface"
     },
     {
       "title": "Proton Flock Camera Map",
@@ -349,39 +289,39 @@
       "ai_summary": "Apple додає штучний інтелект до свого пакета офісних програм Pages, Keynote та Numbers. Новий асистент на базі моделей Apple та OpenAI допомагатиме користувачам створювати презентації, редагувати текст та структурувати документи.",
       "ai_title": "Apple інтегрує AI-чатбот у фірмові офісні програми",
       "video_keywords": "office worker, typing, charts on screen, business presentation"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "summary": "<p>Article URL: <a href=\"https://www.brangus.io/survival-llm\">https://www.brangus.io/survival-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264853\">https://news.ycombinator.com/item?id=50264853</a></p>\n<p>Points: 41</p>\n<p># Comments: 17</p>",
+      "published": "2026-10-27T19:55:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий штучний інтелект, який працює безпосередньо на вашому комп'ютері та діє як цифрова екстрена бібліотека. Цей асистент створений для автономного використання під час кризових ситуацій, коли немає доступ до інтернету.",
+      "ai_title": "Survival LLM: автономний штучний інтелект на вашому комп'ютері для екстрених ситуацій",
+      "video_keywords": "laptop computer screen, digital interface, emergency preparedness, offline technology"
+    },
+    {
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "summary": "<p>Article URL: <a href=\"https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263854\">https://news.ycombinator.com/item?id=50263854</a></p>\n<p>Points: 94</p>\n<p># Comments: 57</p>",
+      "published": "2026-10-27T18:44:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Платформа Discord оголосила про оновлення, завдяки якому повідомлення з публічних серверів стануть доступними для пошуку через Google. Це значно спростить пошук корисної інформації з відкритих спільнот для звичайних користувачів мережі.",
+      "ai_title": "Discord дозволить індексувати публічні повідомлення серверів через Google",
+      "video_keywords": "typing on keyboard, computer monitor, search engine, web browsing"
+    },
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+      "published": "2026-10-27T20:48:58+00:00",
+      "source": "The Verge",
+      "ai_summary": " OpenAI продовжує демонструвати вражаючі досягнення у математиці та фізиці, водночас змінюючи підхід до комунікації. Проте незалежні дослідники все частіше висловлюють невдоволення тим, що компанія приховує свої детальні наукові прориви.",
+      "ai_title": "Дослідники втомилися від політики закритості досліджень компанії OpenAI",
+      "video_keywords": " frustrated person at computer, server room, technology research, scientist working"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "published": "2026-10-25T16:57:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Попри масові інвестиції та гучний ажіотаж навколо штучного інтелекту, технологія ще не забезпечила реальної фінансової віддачі для більшості американських корпорацій за межами технологічного сектору. Про це заявляють економісти, вказуючи на розрив між очікуваннями бізнесу та реабiлiтацією вкладеного капіталу.",
-      "ai_title": "Штучний інтелект поки не приносить прибутку більшості компаній",
-      "video_keywords": "office workers, computer screens, stressed businessman, corporate meeting"
-    },
-    {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "published": "2026-10-25T21:31:16+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Платформа представила початковий фрагмент свого нового відео, створеного за допомогою штучного інтелекту. Візуальний ряд виглядає прийнятно, проте критиці бракує художньої цінності та справжньої людської емоції.",
-      "ai_title": "Grok випустив перші сім хвилин штучного інтелекту «Odyssey»",
-      "video_keywords": "artificial intelligence, computer screen, futuristic technology, digital art"
-    },
-    {
-      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-      "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-      "summary": "\"That's a 12-year-old view of the world.\"",
-      "published": "2026-10-25T20:20:08+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Авторка скандальної праці знову привертає увагу суспільства до ідей техно-лібертаріанства. Видання, яке раніше вважалося забутим, знову обговорюють у контексті сучасного розвитку технологій.",
-      "ai_title": "Критика техно-лібертаріанства: скандальна книга повертається з небуття",
-      "video_keywords": "book reading, library interior, angry reader, modern author"
-    },
     {
       "title": "Anthropic officially files for its public debut",
       "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
@@ -531,6 +471,26 @@
       "ai_summary": "Свіжий ноутбук від Apple отримав рекордна 24 години автономної роботи та підтримку найсучасніших стандартів зв'язку Wi-Fi 7 і Bluetooth 6. Пристрій оснащено новітнім фірмовим процесором серії M.",
       "ai_title": "Apple анонсувала новий MacBook Pro на базі чіпа M6",
       "video_keywords": "laptop, modern workspace, typing, desk setup"
+    },
+    {
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+      "published": "2026-10-27T20:31:17+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Виробничий акселератор Re:Build, який виокремився зі Slate Auto, залучив вражаючу суму в $2,1 млрд. Компанія позиціонує себе як американську відповідь китайському промисловому центру Шеньчжень, прагнувши відродити важку промисловість та інновації в США.",
+      "ai_title": "Re:Build залучила $2,1 мільярда для розвитку виробництва в США",
+      "video_keywords": "factory manufacturing, industrial robots, assembly line, modern warehouse"
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "published": "2026-10-27T18:55:35+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Інвестиційна компанія Disruptive сформувала новий фонд обсягом $10 мільярдів, спрямований на масштабні інвестиції щонайменше у 10 перспективних компаній. Раніше фонд прославився великими вкладеннями в такі передові проєкти, як розробник чіпів Groq та стартап зі штучного інтелекту ElevenLabs.",
+      "ai_title": "Фонд Disruptive запускає $10-мільярдну ініціативу для підтримки техгігантів",
+      "video_keywords": "business meeting, handshake, corporate office, financial charts screen"
     }
   ],
   "Крипта": [
@@ -763,6 +723,56 @@
       "ai_summary": "Провайдер CF Benchmarks переносить фінансові дані Волл-стріт на блокчейн, зокрема інформацію, якою користується інвестиційний гігант BlackRock. Такий крок підвищує прозорість та надійність ціноутворення для децентралізованих додатків.",
       "ai_title": "CF Benchmarks інтегрує цінову інфраструктуру Волл-стріт у блокчейн",
       "video_keywords": "financial district, stock market ticker, digital data streams, modern office computer"
+    },
+    {
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "summary": "",
+      "published": "2026-10-27T20:41:33+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Кандидат на посаду міністра фінансів США Скотт Бессент вважає криптовалюту ключовим інструментом для збереження глобального лідерства американського долара. За його словами, цифрові активи можуть підтримати традиційну фінансову систему країни в майбутньому. Це свідчить про зміну риторики влади США щодо блокчейн-технологій.",
+      "ai_title": "Криптовалюта як інструмент зміцнення долара",
+      "video_keywords": "us dollar, banknote, cryptocurrency, financial district"
+    },
+    {
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZBHWRX2BG8Y30Y9AEP1V37/hi-what-is-the-significance-of-bis-statement-that-fiat-and-stablecoins-can-co-exist.png\" /></p><p>Ripple also expanded its",
+      "published": "2026-10-27T19:54:05+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанії Ripple та Robinhood оголосили про розширення співпраці задля інтеграції стейблкоїна RLUSD для роздрібних та інституційних інвесторів. Цей крок має на меті підвищити ліквідність та спростити транзакції на платформі. Партнерство відкриває нові можливості для використання цифрових валют у трейдингу.",
+      "ai_title": "Ripple та Robinhood розширюють партнерство зі стейблкоїнами",
+      "video_keywords": "smartphone trading, mobile app, financial transaction, business handshake"
+    },
+    {
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Quantum fears already limiting Bitcoin’s growth, Stacks founder says \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZF47DDZ978GBXA3FCAVDQG/hi-bitcoins-quantum-upgrade-path-what-bip-360-changes-and-what-it-doesnt-1.jpg\" /></p><p>Speaking on Cointelegraph’s Chain Reaction podcast, ",
+      "published": "2026-10-27T20:33:19+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Засновник платформи Stacks заявив, що побоювання щодо розвитку квантових комп'ютерів вже стримують потенційне зростання Біткоїна. Інвестори та розробники замислюються над майбутнім захистом блокчейну від майбутніх криптографічних загроз. Це питання стає все більш актуальним для довгострокової безпеки мережі.",
+      "ai_title": "Квантова загроза обмежує зростання Біткоїна",
+      "video_keywords": "quantum computer, futuristic server, glowing data, digital code"
+    },
+    {
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "link": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+      "summary": "",
+      "published": "2026-10-27T20:32:21+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "У порівнянні з минулим роком доходи онлайн-брокера Robinhood від операцій з криптовалютами скоротилися більш ніж вдвічі. Водночас показники виявилися вищими за песимістичні прогнози Волл-стріт. Компанія продовжує шукати нові шляхи диверсифікації доходів на тлі волатильності ринку.",
+      "ai_title": "Доходи Robinhood від криптоторгівлі впали на 55%",
+      "video_keywords": "stock market chart, computer screen, financial graph, trading desk"
+    },
+    {
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+      "summary": "",
+      "published": "2026-10-27T18:13:02+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Intel, Oracle та IBM приєдналися до списку компаній, які висловлюють заперечення проти планів OKX та ICE щодо запуску токенізованих акцій. Корпорації стурбовані потенційними юридичними та регуляторними ризиками таких ініціатив. Це створює додаткові перешкоди для інтеграції традиційних цінних паперів у блокчейн.",
+      "ai_title": "Техногіганти виступили проти токенізованих акцій",
+      "video_keywords": "corporate office, business meeting, modern building, server room"
     }
   ]
 }
