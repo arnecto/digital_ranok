@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-      "summary": "<p>Article URL: <a href=\"https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/\">https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238620\">https://news.ycombinator.com/item?id=50238620</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-      "published": "2026-10-26T03:12:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Microsoft презентувала деталі запуску нової компактної моделі Qwen обсягом 9 мільярдів параметрів. Цей реліз є частиною стратегії компанії з впровадження ефективних та продуктивних штучних інтелектів.",
-      "ai_title": "Microsoft запускає нову мовну модель Qwen 9B",
-      "video_keywords": "computer screen, artificial intelligence, typing code, tech office"
-    },
-    {
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "summary": "<p>Article URL: <a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238739\">https://news.ycombinator.com/item?id=50238739</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
-      "published": "2026-10-26T03:29:05+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розпочався розпуск унікального PDF-рушія PaperPilot, який працює без використання хмарних сервісів. Проєкт написаний на мові Rust із підтримкою WebAssembly та протоколу MCP.",
-      "ai_title": "PaperPilot: новий швидкий PDF-рушій на Rust та WASM",
-      "video_keywords": "laptop keyboard, programming, software development, screen closeup"
-    },
-    {
-      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\">https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238088\">https://news.ycombinator.com/it",
-      "published": "2026-10-26T01:47:46+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Керівник IBM зазначив, що сучасні відкриті штучні інтелекти стали настільки якісними та доступними для локального розгортання, що відмовитися від них уже неможливо. Це створює нові можливості для корпоративного сегмента.",
-      "ai_title": "Голова IBM заявив про перевагу моделей із відкритими вагами",
-      "video_keywords": "server room, data center, blinking lights, IT professional"
-    },
-    {
-      "title": "If AI displaces human workers, they will lose more than just pay",
-      "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-      "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay\">https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238351\">https://news.ycombinator.com/item?id=50238351</a></p>\n<p>Points: 19</p>\n<",
-      "published": "2026-10-26T02:22:38+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти аналізують наслідки масового витіснення працівників штучним інтелектом. Окрім фінансових втрат, люди стикаються з психологічними та соціальними викликами через зміну ролі у суспільстві.",
-      "ai_title": "Як штучний інтелект змінить життя працівників у разі втрати роботи",
-      "video_keywords": "stressed worker, empty office, looking out window, thoughtful person"
-    },
-    {
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "link": "https://titleart.dvy.io/",
-      "summary": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=50238708</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
-      "published": "2026-10-26T03:23:57+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий вебсервіс TitleArt, який дозволяє створювати візуальний текст у стилі епохи інтернету 1997 року. Проєкт викликав ностальгію у користувачів мережі своїм ретро-дизайном.",
-      "ai_title": "Ностальгійний генератор текстового дизайну з 1990-х",
-      "video_keywords": "retro computer, 90s style, colorful pixels, vintage monitor"
-    },
-    {
-      "title": "The city that fought Flock",
-      "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
-      "summary": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a [&#8230;]",
-      "published": "2026-10-26T10:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Місто Гантінгтон у Західній Вірджинії стало ареною запеклого протистояння через встановлення камер автоматичного розпізнавання номерних знаків компанії Flock. Мешканці та місцева влада зійшлися в дискусії щодо балансу між громадською безпекою та правом на приватність. Цей випадок демонструє зростаючий опір громадами технологіям тотального стеження.",
-      "ai_title": "Як одне американське місто повстало проти систем масового спостереження",
-      "video_keywords": "security camera, traffic monitoring, city council, protest crowd"
-    },
-    {
       "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
       "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
       "summary": "<p>Article URL: <a href=\"https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\">https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245524\">https://news.ycombinator.com/item?id=50245524</a></p>\n<p>",
@@ -531,29 +471,19 @@
       "ai_summary": "Крупний американський банк нагадує користувачам про правила безпеки. Клієнти самостійно несуть відповідальність за будь-які фінансові операції, до яких отримали доступ їхні персональні ШІ-агенти.",
       "ai_title": "Bank of America закликає клієнтів не довіряти паролі штучному інтелекту",
       "video_keywords": "person typing smartphone, online banking, credit card, security warning"
+    },
+    {
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "published": "2026-10-28T05:20:32+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Індійський телекомунікаційний гігант Jio успішно вийшов на фондовий ринок, продемонструвавши рекордне зростання під час первинного публічного розміщення акцій (IPO). Завдяки цьому компанія одразу стала другою за вартістю публічною компанією в Індії після своєї материнської структури Reliance Industries.",
+      "ai_title": "Акції Jio злетіли на 21% після дебюту на біржі",
+      "video_keywords": "stock market, trading floor, financial charts, digital graph"
     }
   ],
   "Крипта": [
-    {
-      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong names Nasdaq-listed Solana Company a strategic enterprise\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V29PC31CCCR3TY3KBGFNVX/hi-an-overview-of-the-cryptocurrency-regulations-in-hong-kong.jpg\" /></p><p>The Nasdaq-listed firm said it plans to establish Solana validator ",
-      "published": "2026-10-26T03:21:26+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Зареєстрована на біржі Nasdaq компанія, що спеціалізується на Solana, отримала статус стратегічного підприємства в Гонконзі. У рамках цієї ініціативи фірма планує розгорнути валідатори мережі в регіоні. Це підкреслює зростаючу інституційну підтримку блокчейн-технологій в азіатському фінансовому центрі.",
-      "ai_title": "Гонконг визнав компанію з екосистеми Solana стратегічним підприємством",
-      "video_keywords": "Hong Kong skyline, skyscraper, modern office, digital map"
-    },
-    {
-      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Keystone says website breach exposed hardware wallet buyers’ addresses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5V04TXMGNCT7SCNB1WB3PZF/customer-address.jpg\" /></p><p>A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams a",
-      "published": "2026-10-26T02:24:04+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Виробник апаратних гаманців Keystone повідомив про злам свого сайту, внаслідок якого постраждали дані клієнтів. Зловмисники могли отримати доступ до адрес доставки покупців пристроїв. Експерти попереджають, що цей витік створює ризики цільових шахрайських атак на власників криптоактивів.",
-      "ai_title": "Витік даних у Keystone: адреси покупців апаратних гаманців опинилися під загрозою",
-      "video_keywords": "hacker typing, computer code, security breach, padlock icon"
-    },
     {
       "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -813,6 +743,56 @@
       "ai_summary": "Побільшало компаній, які заперечують проти внесення їхніх цінних паперів до списку токенізованих акцій. Зокрема, такі гіганти як Intel, IBM, Oracle та IonQ висловили протест проти ініціативи OKX-ICE.",
       "ai_title": "Техногіганти виступають проти токенізованих акцій від OKX-ICE",
       "video_keywords": "modern corporate office, computer servers, business handshake, digital contract"
+    },
+    {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+      "summary": "",
+      "published": "2026-10-28T05:28:13+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Datavault AI втратила доступ до власних біткоїн-активів, що спричинило обвальний спад її капіталізації на 50%. Інвестори панікують на тлі невизначеності щодо безпеки збереження цифрових активів на балансах публічних компаній.",
+      "ai_title": "Акції крипторезерву Datavault AI впали вдвічі через втрату доступу до біткоїнів",
+      "video_keywords": "crypto chart crash, falling stock market, digital wallet lock, server error"
+    },
+    {
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "summary": "",
+      "published": "2026-10-28T05:10:36+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалютна біржа Bithumb зазнала хакерської атаки через вразливість у системі співробітників. Іцидент стався на тлі загальної хвилі кібератак на фінансові установи Південної Кореї.",
+      "ai_title": "Південнокорейську біржу Bithumb зламали через внутрішню систему працівника",
+      "video_keywords": "hacker typing keyboard, cyber attack screen, security breach, financial data matrix"
+    },
+    {
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "summary": "",
+      "published": "2026-10-28T04:15:20+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Вартість головної криптовалюти демонструє стрімке зростання перед засіданням Федеральної резервної системи США. Паралельно з цим альткоїн ZEC стрибнув у ціні на 8% за добу.",
+      "ai_title": "Біткоїн наближається до 81 000 доларів напередодні рішення ФРС",
+      "video_keywords": "bitcoin green candle, stock market ticker, cryptocurrency trading screen, digital coin growth"
+    },
+    {
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "summary": "",
+      "published": "2026-10-28T03:11:14+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Платформа Coinbase повідомила про витік контактних даних користувачів через стороннього підрядника. Попри інцидент, представники біржі гарантують, що самі активи та кошти клієнтів залишаються в повній безпеці.",
+      "ai_title": "Coinbase запевнила у безпеці коштів після витоку даних клієнтів",
+      "video_keywords": "smartphone security alert, typing credit card, data privacy warning, hacker code"
+    },
+    {
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60AA98877AY8VNQ1K7M74CW/robinhood-1.jpg\" /></p><p>Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the ",
+      "published": "2026-10-28T03:55:57+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "CEO Robinhood Влад Тенев заявив, що відсутність чітких законів США щодо токенізації відлякує серйозних інвесторів. Ринок потребує стабільних правил від SEC замість тимчасових винятків для розвитку ринку активів.",
+      "ai_title": "Голова Robinhood попередив про загрозу токенізації через регуляторну невизначеність у США",
+      "video_keywords": "financial district, stock exchange building, businessman talking, modern office skyscraper"
     }
   ]
 }
