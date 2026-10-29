@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Genie 4",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261319\">https://news.ycombinator.com/item?id=50261319</a></p>\n<p>Points: 31</p>\n<p># Comments: 9</p>",
-      "published": "2026-10-27T16:06:01+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія представила нову версію своєї моделі світу для генерації інтерактивних симуляцій за допомогою штучного інтелекту. Система здатна створювати реалістичні віртуальні середовища та генерувати аудіо в реальному часі.",
-      "ai_title": "Google анонсувала модель штучного інтелекту Genie 4",
-      "video_keywords": "artificial intelligence, virtual reality, futuristic interface, computer screen"
-    },
-    {
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "summary": "<p>Article URL: <a href=\"https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/\">https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260814\">https://news.ycombinator.com/item?id=50260814</a></p>\n<p>Points: 35</p>\n<p># Comments: 14</p>",
-      "published": "2026-10-27T15:28:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Стало відомо, що компанія Anthropic тренувала свій штучний інтелект на захищених авторським правом книжках професорів Стенфордського університету. Матеріали були отримані з нелегальних джерел без згоди авторів.",
-      "ai_title": "Anthropic звинуватили у використанні піратських книжок для навчання Claude",
-      "video_keywords": "library, books, reading, angry person"
-    },
-    {
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
-      "published": "2026-10-27T16:14:18+00:00",
-      "source": "The Verge",
-      "ai_summary": "Mozilla оновлює функцію Smart Window у браузері Firefox за допомогою нових інструментів штучного інтелекту. Тепер ШІ може автоматично аналізувати відкриті вкладки та заповнювати онлайн-форми на основі вашого резюме чи робочого портфоліо.",
-      "ai_title": "У браузері Firefox з'явився розумний помічник для заповнення форм",
-      "video_keywords": "web browser, typing on keyboard, computer monitor, office desk"
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "link": "https://www.brangus.io/survival-llm",
-      "summary": "<p>Article URL: <a href=\"https://www.brangus.io/survival-llm\">https://www.brangus.io/survival-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50264853\">https://news.ycombinator.com/item?id=50264853</a></p>\n<p>Points: 41</p>\n<p># Comments: 17</p>",
-      "published": "2026-10-27T19:55:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий штучний інтелект, який працює безпосередньо на вашому комп'ютері та діє як цифрова екстрена бібліотека. Цей асистент створений для автономного використання під час кризових ситуацій, коли немає доступ до інтернету.",
-      "ai_title": "Survival LLM: автономний штучний інтелект на вашому комп'ютері для екстрених ситуацій",
-      "video_keywords": "laptop computer screen, digital interface, emergency preparedness, offline technology"
-    },
-    {
-      "title": "Discord will soon let anyone find public server messages through Google",
-      "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-      "summary": "<p>Article URL: <a href=\"https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263854\">https://news.ycombinator.com/item?id=50263854</a></p>\n<p>Points: 94</p>\n<p># Comments: 57</p>",
-      "published": "2026-10-27T18:44:17+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Платформа Discord оголосила про оновлення, завдяки якому повідомлення з публічних серверів стануть доступними для пошуку через Google. Це значно спростить пошук корисної інформації з відкритих спільнот для звичайних користувачів мережі.",
-      "ai_title": "Discord дозволить індексувати публічні повідомлення серверів через Google",
-      "video_keywords": "typing on keyboard, computer monitor, search engine, web browsing"
-    },
-    {
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
       "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
@@ -359,39 +309,59 @@
       "ai_summary": "Компанія Anthropic подала документи для первинного розміщення акцій (IPO) на біржі Nasdaq. У своїй фінансовій звітності розробник намагається переконати інвесторів у комерційному успіху майбутнього штучного загального інтелекту (AGI). Це IPO стане одним із найгучніших у технологічному секторі.",
       "ai_title": "Anthropic готується до виходу на біржу та переконує Волл-стріт у перспективності AGI",
       "video_keywords": "stock market, financial district, skyscraper, business meeting"
+    },
+    {
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in [&#8230;]",
+      "published": "2026-10-29T18:45:31+00:00",
+      "source": "The Verge",
+      "ai_summary": "Користувачі штучного інтелекту Google Gemini тепер можуть створювати, переглядати та редагувати файли Google Docs, таблиці та код прямо в чаті. Нова функція покликана спростити роботу з документами без необхідності перемикатися між вкладками.",
+      "ai_title": "Google інтегрувала створення та редагування документів прямо в Gemini",
+      "video_keywords": "artificial intelligence, chatbot interface, typing on laptop, office worker"
+    },
+    {
+      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+      "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+      "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"express consent\" from [&#8230;]",
+      "published": "2026-10-29T19:19:28+00:00",
+      "source": "The Verge",
+      "ai_summary": "Автоконцерн GM погодився на мільйонний штраф задля врегулювання звинувачень у незаконному продажі даних про поїздки та геолокацію стороннім брокерам. Тепер компанія зобов'язана обмежити збір такої інформації та отримувати чітку згоду від водіїв.",
+      "ai_title": "General Motors виплатить 220 мільйонів через продаж даних водіїв",
+      "video_keywords": "modern car interior, digital dashboard, corporate lawyers, signing contract"
+    },
+    {
+      "title": "Apple’s new laptop supports one of the coolest features for color pros",
+      "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+      "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it uses to display an [&#8230;]",
+      "published": "2026-10-29T17:48:09+00:00",
+      "source": "The Verge",
+      "ai_summary": "Apple представила новий MacBook Pro, який вперше в історії лінійки оснастили OLED-екраном та підтримкою сенсорного керування. Окрім цього, дисплей отримав передові технології точного передачі кольору для професіоналів.",
+      "ai_title": "Новий ноутбук Apple отримав сенсорний OLED-дисплей",
+      "video_keywords": "unboxing laptop, modern computer display, using touchscreen, digital creator workspace"
+    },
+    {
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "link": "https://github.com/johncassil/dontallow",
+      "summary": "<p>This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.  Would love to hear feedback!</p>\n<hr />\n<p>Comments URL: <a",
+      "published": "2026-10-29T19:27:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив легку утиліту для macOS, яка автоматично закриває надокучливе вікно запиту на пошук пристроїв у локальній мережі. Додаток вирішує давню проблему користувачів, знімаючи необхідність постійно клікати вручну.",
+      "ai_title": "Новий додаток для Mac автоматично закриває набридливі системні сповіщення",
+      "video_keywords": "computer screen, clicking mouse, desktop interface, programmer workspace"
+    },
+    {
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "summary": "<p><a href=\"https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html\" rel=\"nofollow\">https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-...</a>, <a href=\"https://archive.ph/K7bih\" rel=\"nofollow\">https://archive.ph/K7bih</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50293047\">https://news.ycombinator.com/item?id=50293047</a></p>\n<p",
+      "published": "2026-10-29T17:43:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Американські ЗМІ повідомили про тісні відносини між фігурантом справи про китайське шпигунство та генеральним директором Nvidia Дженсеном Хуангом. Ця ситуація привернула пильну увагу на тлі політичних дискусій щодо технологічної безпеки.",
+      "ai_title": "Ймовірного китайського шпигуна підозрюють у зв'язках з головою Nvidia",
+      "video_keywords": "microchip factory, server room, corporate meeting, business news"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
-      "published": "2026-10-27T16:30:57+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Підрозділ Google DeepMind представив дослідну версію моделі віртуальних світів Genie 4. Вона генерує більш реалістичні симуляції в реальному часі, додає звуковий супровід та дозволяє керувати процесом за допомогою текстових підказок.",
-      "ai_title": "Google випустила нову модель Genie 4 із підтримкою звуку та реалістичною фізикою",
-      "video_keywords": "artificial intelligence, neural network, computer screen, futuristic technology"
-    },
-    {
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-      "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-      "summary": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
-      "published": "2026-10-27T20:31:17+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Виробничий акселератор Re:Build, який виокремився зі Slate Auto, залучив вражаючу суму в $2,1 млрд. Компанія позиціонує себе як американську відповідь китайському промисловому центру Шеньчжень, прагнувши відродити важку промисловість та інновації в США.",
-      "ai_title": "Re:Build залучила $2,1 мільярда для розвитку виробництва в США",
-      "video_keywords": "factory manufacturing, industrial robots, assembly line, modern warehouse"
-    },
-    {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "published": "2026-10-27T18:55:35+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Інвестиційна компанія Disruptive сформувала новий фонд обсягом $10 мільярдів, спрямований на масштабні інвестиції щонайменше у 10 перспективних компаній. Раніше фонд прославився великими вкладеннями в такі передові проєкти, як розробник чіпів Groq та стартап зі штучного інтелекту ElevenLabs.",
-      "ai_title": "Фонд Disruptive запускає $10-мільярдну ініціативу для підтримки техгігантів",
-      "video_keywords": "business meeting, handshake, corporate office, financial charts screen"
-    },
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
@@ -596,19 +566,59 @@
       "ai_summary": "Оновлення дозволяє користувачам за допомогою штучного інтелекту створювати списки покупок, керувати підписками та змінювати інструкції для доставки товарів. Бот став ще інтерактивнішим.",
       "ai_title": "Amazon оновив голосовий помічник Alexa для кращого управління покупками",
       "video_keywords": "smart speaker, human talking to device, smart home, online shopping"
+    },
+    {
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "published": "2026-10-29T20:08:31+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі змін у пошукових системах через штучний інтелект Reddit відходить від моделі відкритого вебсайту. Платформа прагне захистити свою аудиторію та бізнес, заохочуючи користувачів заходити в облікові записи.",
+      "ai_title": "Reddit змінює стратегію та робить ставку на авторизованих користувачів",
+      "video_keywords": "person using smartphone, browsing internet, social media feed, computer screen"
+    },
+    {
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "published": "2026-10-29T20:05:47+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Автомобільні компанії поглиблюють своє масштабне партнерство. Новий етап спільного підприємства передбачає інтеграцію штучного інтелекту безпосередньо у майбутні моделі електромобілів.",
+      "ai_title": "Rivian та Volkswagen розширюють співпрацю заради ШІ-асистента",
+      "video_keywords": "electric car dashboard, modern vehicle interior, steering wheel, technology interface"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "published": "2026-10-29T19:56:19+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Інвестиційна компанія Thrive Holdings, яку підтримує OpenAI, купує гіганта домашньої безпеки ADT. Угоди передбачають впровадження сучасних технологій штучного інтелекту у сферу охорони житла.",
+      "ai_title": "Інвестори OpenAI купують компанію ADT за 15 мільярдів доларів",
+      "video_keywords": "smart home security camera, modern living room, electronic keypad, businessman handshake"
+    },
+    {
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "published": "2026-10-29T19:14:36+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий сервіс Style Sketch інтегрується з Instagram та створює віртуальний гардероб на основі опублікованих фотографій. Користувачі також можуть додавати речі вручну за допомогою знімків або коротких відео.",
+      "ai_title": "Meta тихо запустила мобільний додаток для моди зі штучним інтелектом",
+      "video_keywords": "clothing rack, fashion boutique, woman trying clothes, smartphone screen"
+    },
+    {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "published": "2026-10-29T17:54:38+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Сервіс для нотаток Granola інтегрує функцію диктування у відповідь на подібні кроки конкурентів. Ринкова конкуренція між стартапами у сфері голосових технологій штучного інтелекту стрімко загострюється.",
+      "ai_title": "Війна голосового ШІ: нотатки зустрічей проти диктування",
+      "video_keywords": "person speaking into microphone, recording audio, laptop keyboard, office workspace"
     }
   ],
   "Крипта": [
-    {
-      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
-      "link": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YYH4W8ZJZR3K8EWNZDKXQ3/coin-crushing-euro.jpg\" /></p><p>USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liqui",
-      "published": "2026-10-27T15:59:58+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Частка USDC у торгівлі євро-стейблкоїнами зросла до 56% завдяки новим європейським правилам регулювання ринку. Змін зазнала ліквідність активів, що перерозподілило вплив ключових гравців у криптоіндустрії Європи.",
-      "ai_title": "USDC випередив USDT у торгівлі євро-стейблкоїнами",
-      "video_keywords": "digital currency, euro banknotes, smartphone trading, stock exchange screen"
-    },
     {
       "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
       "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
@@ -618,16 +628,6 @@
       "ai_summary": "Кандидат на посаду міністра фінансів США Скотт Бессент вважає криптовалюту ключовим інструментом для збереження глобального лідерства американського долара. За його словами, цифрові активи можуть підтримати традиційну фінансову систему країни в майбутньому. Це свідчить про зміну риторики влади США щодо блокчейн-технологій.",
       "ai_title": "Криптовалюта як інструмент зміцнення долара",
       "video_keywords": "us dollar, banknote, cryptocurrency, financial district"
-    },
-    {
-      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-      "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZBHWRX2BG8Y30Y9AEP1V37/hi-what-is-the-significance-of-bis-statement-that-fiat-and-stablecoins-can-co-exist.png\" /></p><p>Ripple also expanded its",
-      "published": "2026-10-27T19:54:05+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанії Ripple та Robinhood оголосили про розширення співпраці задля інтеграції стейблкоїна RLUSD для роздрібних та інституційних інвесторів. Цей крок має на меті підвищити ліквідність та спростити транзакції на платформі. Партнерство відкриває нові можливості для використання цифрових валют у трейдингу.",
-      "ai_title": "Ripple та Robinhood розширюють партнерство зі стейблкоїнами",
-      "video_keywords": "smartphone trading, mobile app, financial transaction, business handshake"
     },
     {
       "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
@@ -648,16 +648,6 @@
       "ai_summary": "У порівнянні з минулим роком доходи онлайн-брокера Robinhood від операцій з криптовалютами скоротилися більш ніж вдвічі. Водночас показники виявилися вищими за песимістичні прогнози Волл-стріт. Компанія продовжує шукати нові шляхи диверсифікації доходів на тлі волатильності ринку.",
       "ai_title": "Доходи Robinhood від криптоторгівлі впали на 55%",
       "video_keywords": "stock market chart, computer screen, financial graph, trading desk"
-    },
-    {
-      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-      "link": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
-      "summary": "",
-      "published": "2026-10-27T18:13:02+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Intel, Oracle та IBM приєдналися до списку компаній, які висловлюють заперечення проти планів OKX та ICE щодо запуску токенізованих акцій. Корпорації стурбовані потенційними юридичними та регуляторними ризиками таких ініціатив. Це створює додаткові перешкоди для інтеграції традиційних цінних паперів у блокчейн.",
-      "ai_title": "Техногіганти виступили проти токенізованих акцій",
-      "video_keywords": "corporate office, business meeting, modern building, server room"
     },
     {
       "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
@@ -938,6 +928,26 @@
       "ai_summary": "Аналітична компанія Chainalysis відстежила схему переведення в готівку криптовалюти північнокорейськими хакерами через біржу Garantex. Розслідування стало продовженням нових санкцій США проти осіб та організацій, причетних до кіберзлочинів.",
       "ai_title": "Chainalysis викрила переведення в готівку хакерських коштів",
       "video_keywords": "cyber crime, digital surveillance, computer hacker, analytical dashboard"
+    },
+    {
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+      "summary": "",
+      "published": "2026-10-29T18:55:35+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Популярна платформа прогнозів Polymarket була змушена зупинити торгові операції після того, як сторонній злам призвів до фінансових втрат користувачів. Наразі команда розслідує інцидент та намагається мінімізувати наслідки безпекового збою.",
+      "ai_title": "Polymarket призупинила торги через злам",
+      "video_keywords": "hacker typing laptop, security warning screen, digital lock data breach"
+    },
+    {
+      "title": "Public companies double share of blockchain revenue since 2022: Report",
+      "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Public companies double share of blockchain revenue since 2022: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg\" /></p><p>A new 1kx report finds that public companies are capturing a larger share of blockchain ",
+      "published": "2026-10-29T19:53:14+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Згідно з новим звітом компанії 1kx, публічні компанії значно збільшили свою частку доходів у сфері блокчейн-технологій порівняно з 2022 роком. Це свідчить про зростаючу інтеграцію традиційного бізнесу в криптоіндустрію.",
+      "ai_title": "Публічні компанії подвоїли свої доходи від блокчейну з 2022 року",
+      "video_keywords": "stock market chart, corporate office business meeting, digital analytics dashboard"
     }
   ]
 }
