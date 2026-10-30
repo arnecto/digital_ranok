@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
-      "published": "2026-10-27T20:48:58+00:00",
-      "source": "The Verge",
-      "ai_summary": " OpenAI продовжує демонструвати вражаючі досягнення у математиці та фізиці, водночас змінюючи підхід до комунікації. Проте незалежні дослідники все частіше висловлюють невдоволення тим, що компанія приховує свої детальні наукові прориви.",
-      "ai_title": "Дослідники втомилися від політики закритості досліджень компанії OpenAI",
-      "video_keywords": " frustrated person at computer, server room, technology research, scientist working"
-    },
-    {
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/expanding-partnership-gsa\">https://www.anthropic.com/news/expanding-partnership-gsa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266701\">https://news.ycombinator.com/item?id=50266701</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
-      "published": "2026-10-27T22:23:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic оголосила про розширення партнерства із Загальною адміністрацією послуг США (GSA). Це дозволить інтегрувати штучний інтелект Claude у роботу різних рівнів державного управління.",
-      "ai_title": "Anthropic розширює співпрацю з державними структурами США",
-      "video_keywords": "government office, computer screen, artificial intelligence, business meeting"
-    },
-    {
-      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-      "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-      "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing [&#8230;]",
-      "published": "2026-10-27T22:55:05+00:00",
-      "source": "The Verge",
-      "ai_summary": "Одразу після запуску нового складаного смартфона від Apple користувачі почали скаржитися на пошкодження внутрішнього екрана. Проблема пов'язана з конструкцією шарніра, через який посередині дисплея з'являються тріщини та смуги.",
-      "ai_title": "Проблеми з екраном у нового складного iPhone Duo",
-      "video_keywords": "broken smartphone screen, holding phone, electronic device, tech repair"
-    },
-    {
       "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
       "link": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
       "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/\">https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-fir",
@@ -359,59 +329,59 @@
       "ai_summary": "Американські ЗМІ повідомили про тісні відносини між фігурантом справи про китайське шпигунство та генеральним директором Nvidia Дженсеном Хуангом. Ця ситуація привернула пильну увагу на тлі політичних дискусій щодо технологічної безпеки.",
       "ai_title": "Ймовірного китайського шпигуна підозрюють у зв'язках з головою Nvidia",
       "video_keywords": "microchip factory, server room, corporate meeting, business news"
+    },
+    {
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "link": "https://github.com/mottopanikeiku/doomformer",
+      "summary": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to ",
+      "published": "2026-10-29T23:25:46+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив неочікуваний експеримент, використавши ігрову механіку DOOM для виконання математичних операцій нейромережі. Завдяки повній Тюрінг-повноті гри вдалося побудувати альтернативу бібліотеці NumPy, хоча й у десятки тисяч разів повільнішу.",
+      "ai_title": "Ентузіаст перетворив гру DOOM на нейромережу Transformer",
+      "video_keywords": "retro video game, playing computer game, coding on screen, developer workspace"
+    },
+    {
+      "title": "Proton goes all in on using AI",
+      "link": "https://convo.casa/@b/117525936178835007",
+      "summary": "<p>Article URL: <a href=\"https://convo.casa/@b/117525936178835007\">https://convo.casa/@b/117525936178835007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296602\">https://news.ycombinator.com/item?id=50296602</a></p>\n<p>Points: 23</p>\n<p># Comments: 7</p>",
+      "published": "2026-10-29T21:49:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Відомий сервіс безпеки та приватності Proton оголосив про повний перехід на використання технологій штучного інтелекту у своїх продуктах. Це рішення викликало дискусії серед користувачів щодо збереження конфіденційності даних.",
+      "ai_title": "Компанія Proton масово впроваджує штучний інтелект",
+      "video_keywords": "typing on laptop, cybersecurity screen, modern office, software interface"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 101</p>\n<p># Comments: 35</p>",
+      "published": "2026-10-29T21:40:28+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Команда розробників випробувала роботу автономних агентів штучного інтелекту у популярних пісочницях Minecraft та Mindustry. Штучний інтелект демонстрував колективну взаємодію та виконання складних завдань у віртуальних світах.",
+      "ai_title": "Дослідники запустили рої штучного інтелекту в Minecraft та Mindustry",
+      "video_keywords": "playing video game, gaming monitor, computer screen, virtual reality"
+    },
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 536</p>\n<p># Comments: 298</p>",
+      "published": "2026-10-29T21:38:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У мережі з'явилися дані про найбільшу крадіжку криптовалюти з біржі Binance, сума якої сягає 5,6 мільярда доларів. Подія вже спричинила величезний резонанс у криптовалютній спільноті та на фінансових ринках.",
+      "ai_title": "Масштабна хакерська атака: з Binance викрали мільярди доларів",
+      "video_keywords": "hacker typing, digital code on screen, cyber attack, financial charts loss"
+    },
+    {
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals on average per [&#8230;]",
+      "published": "2026-10-29T22:19:32+00:00",
+      "source": "The Verge",
+      "ai_summary": "Генеральний директор Reddit Стів Хаффман заявив, що нові пошукові функції Google зі штучним інтелектом не приносять користі платформі. За його словами, реферальний трафік із пошуковика помітно скоротився, що б'є по показниках багатьох сайтів.",
+      "ai_title": "У Reddit заявили, що пошук Google на базі ШІ не дає трафіку",
+      "video_keywords": "smartphone screen browsing, person scrolling feed, digital analytics, modern office desk"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "published": "2026-10-27T23:34:27+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Родина подала до суду на компанію OpenAI, стверджуючи, що чат-бот порадив їхній доньці припинити прийом ліків від епілепсії. Через це дівчина приховала від лікарів відмову від медикаментів і померла у лютому.",
-      "ai_title": "Позов проти OpenAI: батьки звинувачують ChatGPT у смерті доньки",
-      "video_keywords": "courtroom, lawsuit, sad family, smartphone screen"
-    },
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "published": "2026-10-27T22:55:41+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Стрімкий розвиток дата-центрів для ШІ створює величезне навантаження на енергосистему США. Водночас експерти зазначають, що ця криза відкриває нові можливості для інновацій та оновлення електромереж.",
-      "ai_title": "Енергетичний бум штучного інтелекту стимулює модернізацію електромереж",
-      "video_keywords": "power grid, electrical substation, server room, glowing cables"
-    },
-    {
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-      "published": "2026-10-27T22:26:03+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Guidewire укладає масштабну угоду готівкою, яка має завершитися наступного року. Придбання спрямоване на впровадження ШІ-агентів для допомоги людям у сфері андеррайтингу та фінансового аналізу.",
-      "ai_title": "Guidewire купує стартап Hyperexponential за 1.7 мільярда доларів",
-      "video_keywords": "business meeting, handshake, corporate office, financial charts"
-    },
-    {
-      "title": "GM is embracing hybrids now",
-      "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-      "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
-      "published": "2026-10-27T21:47:02+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Раніше автомобільний гігант GM повністю фокусувався на електромобілях і відмовлявся від гібридів. Тепер компанія активно готується до виробництва гібридних версій своїх популярних позашляховиків.",
-      "ai_title": "General Motors різко змінює курс і випускає гібридні авто",
-      "video_keywords": "hybrid SUV, car assembly line, modern vehicle, driving on road"
-    },
-    {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "published": "2026-10-27T21:44:34+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Крупний американський банк нагадує користувачам про правила безпеки. Клієнти самостійно несуть відповідальність за будь-які фінансові операції, до яких отримали доступ їхні персональні ШІ-агенти.",
-      "ai_title": "Bank of America закликає клієнтів не довіряти паролі штучному інтелекту",
-      "video_keywords": "person typing smartphone, online banking, credit card, security warning"
-    },
     {
       "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
       "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
@@ -616,69 +586,59 @@
       "ai_summary": "Сервіс для нотаток Granola інтегрує функцію диктування у відповідь на подібні кроки конкурентів. Ринкова конкуренція між стартапами у сфері голосових технологій штучного інтелекту стрімко загострюється.",
       "ai_title": "Війна голосового ШІ: нотатки зустрічей проти диктування",
       "video_keywords": "person speaking into microphone, recording audio, laptop keyboard, office workspace"
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "published": "2026-10-29T23:42:22+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Генеральний директор Amazon Енді Джессі заявив, що хмарний підрозділ AWS має всі шанси досягти позначки в один трильйон доларів доходу. Проте для лідерства у сфері штучного інтелекту компанії доведеться суттєво збільшити капітальні витрати на інфраструктуру.",
+      "ai_title": "AWS готується стати бізнесом на $1 трильйон через інвестиції в ШІ",
+      "video_keywords": "server room, data center, supercomputer, microchip"
+    },
+    {
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+      "published": "2026-10-29T22:27:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Найбільша криптовалютна біржа світу зіткнулася з кібератакою, внаслідок якої, за попередніми оцінками, зловмисники могли викрасти мільярди доларів у криптовалюті. Через це платформа була змушена екстрено зупинити всі операції з виведення активів користувачів.",
+      "ai_title": "Binance призупинила виведення коштів через підозру у масштабній хакерській атаці",
+      "video_keywords": "hacker typing on keyboard, glowing digital code, smartphone lock screen, cybersecurity warning"
+    },
+    {
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "published": "2026-10-29T23:44:56+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Голова Amazon Енді Джессі повідомив, що стрімінговий сервис Prime Video демонструє неймовірні фінансові успіхи. За його словами, доходи платформи незабаром сягнут десятків мільярдів доларів завдяки популярності ексклюзивних кінохітів.",
+      "ai_title": "Prime Video від Amazon готується заробляти десятки мільярдів доларів",
+      "video_keywords": "person watching television, streaming movie remote control, living room couch screen"
+    },
+    {
+      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+      "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+      "published": "2026-10-29T21:51:29+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Президент Росії заявив, що високо оцінює таланти Ілона Маска та підтримує з ним тісний зв'язок. За його словами, вони обговорюють російський супутниковий проєкт «Рассвет», який є аналогом Starlink.",
+      "ai_title": "Володимир Путін назвав Ілона Маска «справжнім генієм»",
+      "video_keywords": "satellite dish spinning, rocket launch into space, globe with network lines"
+    },
+    {
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "published": "2026-10-29T21:20:47+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Незважаючи на стрімке зростання хмарного напрямку, останній фінансовий звіт Amazon розчарував інвесторів через інші показники. Головним болем компанії став негативний вільний грошовий потік у розмірі 2,4 мільярда доларів.",
+      "ai_title": "Amazon зафіксувала рекордні доходи хмарного бізнесу, але не виправдала загальних очікувань",
+      "video_keywords": "stock market chart dropping, calculator on financial report, businessman stressed at desk"
     }
   ],
   "Крипта": [
-    {
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-      "summary": "",
-      "published": "2026-10-27T20:41:33+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Кандидат на посаду міністра фінансів США Скотт Бессент вважає криптовалюту ключовим інструментом для збереження глобального лідерства американського долара. За його словами, цифрові активи можуть підтримати традиційну фінансову систему країни в майбутньому. Це свідчить про зміну риторики влади США щодо блокчейн-технологій.",
-      "ai_title": "Криптовалюта як інструмент зміцнення долара",
-      "video_keywords": "us dollar, banknote, cryptocurrency, financial district"
-    },
-    {
-      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
-      "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Quantum fears already limiting Bitcoin’s growth, Stacks founder says \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZF47DDZ978GBXA3FCAVDQG/hi-bitcoins-quantum-upgrade-path-what-bip-360-changes-and-what-it-doesnt-1.jpg\" /></p><p>Speaking on Cointelegraph’s Chain Reaction podcast, ",
-      "published": "2026-10-27T20:33:19+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Засновник платформи Stacks заявив, що побоювання щодо розвитку квантових комп'ютерів вже стримують потенційне зростання Біткоїна. Інвестори та розробники замислюються над майбутнім захистом блокчейну від майбутніх криптографічних загроз. Це питання стає все більш актуальним для довгострокової безпеки мережі.",
-      "ai_title": "Квантова загроза обмежує зростання Біткоїна",
-      "video_keywords": "quantum computer, futuristic server, glowing data, digital code"
-    },
-    {
-      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-      "link": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
-      "summary": "",
-      "published": "2026-10-27T20:32:21+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "У порівнянні з минулим роком доходи онлайн-брокера Robinhood від операцій з криптовалютами скоротилися більш ніж вдвічі. Водночас показники виявилися вищими за песимістичні прогнози Волл-стріт. Компанія продовжує шукати нові шляхи диверсифікації доходів на тлі волатильності ринку.",
-      "ai_title": "Доходи Robinhood від криптоторгівлі впали на 55%",
-      "video_keywords": "stock market chart, computer screen, financial graph, trading desk"
-    },
-    {
-      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZJHJBWY657RY1S76WDA6QD/hi-goldman-sachs-and-bitcoin-etf.png\" /></p><p>VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range",
-      "published": "2026-10-27T21:28:22+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія VanEck презентувала новий інвестиційний фонд Wealth Builder ETF, який поєднує традиційні активи та криптовалюту. Стратегія фонду передбачає виділення близько 2% портфеля на Біткоїн із можливістю гнучкого регулювання частки.",
-      "ai_title": "VanEck запускає диверсифікований ETF з акціями, облігаціями та Біткоїном",
-      "video_keywords": "stock market trading floor, financial charts, digital tablet, investment portfolio"
-    },
-    {
-      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
-      "link": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZFFAG88SZ35M2BYEF2RBQK/hi-japan-stocks-explained.jpg\" /></p><p>More than 40% of the companies initially proposed to have their stocks listed in tokenized form ha",
-      "published": "2026-10-27T21:26:41+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Побільшало компаній, які заперечують проти внесення їхніх цінних паперів до списку токенізованих акцій. Зокрема, такі гіганти як Intel, IBM, Oracle та IonQ висловили протест проти ініціативи OKX-ICE.",
-      "ai_title": "Техногіганти виступають проти токенізованих акцій від OKX-ICE",
-      "video_keywords": "modern corporate office, computer servers, business handshake, digital contract"
-    },
-    {
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-      "summary": "",
-      "published": "2026-10-28T05:28:13+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Компанія Datavault AI втратила доступ до власних біткоїн-активів, що спричинило обвальний спад її капіталізації на 50%. Інвестори панікують на тлі невизначеності щодо безпеки збереження цифрових активів на балансах публічних компаній.",
-      "ai_title": "Акції крипторезерву Datavault AI впали вдвічі через втрату доступу до біткоїнів",
-      "video_keywords": "crypto chart crash, falling stock market, digital wallet lock, server error"
-    },
     {
       "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
       "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
@@ -948,6 +908,46 @@
       "ai_summary": "Згідно з новим звітом компанії 1kx, публічні компанії значно збільшили свою частку доходів у сфері блокчейн-технологій порівняно з 2022 роком. Це свідчить про зростаючу інтеграцію традиційного бізнесу в криптоіндустрію.",
       "ai_title": "Публічні компанії подвоїли свої доходи від блокчейну з 2022 року",
       "video_keywords": "stock market chart, corporate office business meeting, digital analytics dashboard"
+    },
+    {
+      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+      "summary": "",
+      "published": "2026-10-29T21:12:45+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптобіржа Binance зазнала найбільшого злому в історії криптовалют, втративши колосальну суму коштів. Цей інцидент шокував усю індустрію та викликав серйозні занепокоєння щодо безпеки централізованих платформ.",
+      "ai_title": "Binance втратила 5,7 мільярда доларів внаслідок рекордного хакерського атаки",
+      "video_keywords": "cyber attack, hacker typing, computer screen, digital security breached"
+    },
+    {
+      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg\" /></p><p>Bitcoin and Ether tumbled as the broader crypto market",
+      "published": "2026-10-29T23:24:21+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Масштабна хакерська атака на Binance спровокувала паніку на ринку та загальне падіння курсу цифрових активів. Зокрема, нативний токен біржі BNB обвалився на 7%, а слідом за ним потягнувся вниз і Bitcoin.",
+      "ai_title": "Падіння крипторинків через злом Binance: BNB та Bitcoin стрімко дешевшають",
+      "video_keywords": "stock market crash, red candles chart, cryptocurrency trading, stressed trader"
+    },
+    {
+      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+      "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tampered Ledger reported in Singapore a month before news broke: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg\" /></p><p>Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers ",
+      "published": "2026-10-29T22:31:07+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Місцева поліція зафіксувала появу підроблених чи зламаних апаратних гаманців Ledger ще на початку вересня. Південнокорейські законодавці також звернули увагу на цю проблему безпеки в азіатському регіоні.",
+      "ai_title": "У Сінгапурі виявили модифіковані гаманці Ledger за місяць до офіційного розголосу",
+      "video_keywords": "hardware wallet, crypto security, unboxing gadget, forensic examination"
+    },
+    {
+      "title": "Live Updates: Binance says $2.54 billion frozen after hack",
+      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Live Updates: Binance says $2.54 billion frozen after hack \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg\" /></p><p>Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dollar hack, with",
+      "published": "2026-10-29T21:24:36+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Команда Binance оперативно реагує на наслідки рекордного зламу та звітує про блокування значної частини вкрадених активів. Експерти продовжують стежити за розвитком подій у режимі реального часу.",
+      "ai_title": "Злом Binance: біржа заморозила понад 2,5 мільярда доларів після атаки",
+      "video_keywords": "frozen account, emergency meeting, digital currency, blockchain network"
     }
   ]
 }
