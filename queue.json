@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in [&#8230;]",
-      "published": "2026-10-29T18:45:31+00:00",
-      "source": "The Verge",
-      "ai_summary": "Користувачі штучного інтелекту Google Gemini тепер можуть створювати, переглядати та редагувати файли Google Docs, таблиці та код прямо в чаті. Нова функція покликана спростити роботу з документами без необхідності перемикатися між вкладками.",
-      "ai_title": "Google інтегрувала створення та редагування документів прямо в Gemini",
-      "video_keywords": "artificial intelligence, chatbot interface, typing on laptop, office worker"
-    },
-    {
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-      "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"express consent\" from [&#8230;]",
-      "published": "2026-10-29T19:19:28+00:00",
-      "source": "The Verge",
-      "ai_summary": "Автоконцерн GM погодився на мільйонний штраф задля врегулювання звинувачень у незаконному продажі даних про поїздки та геолокацію стороннім брокерам. Тепер компанія зобов'язана обмежити збір такої інформації та отримувати чітку згоду від водіїв.",
-      "ai_title": "General Motors виплатить 220 мільйонів через продаж даних водіїв",
-      "video_keywords": "modern car interior, digital dashboard, corporate lawyers, signing contract"
-    },
-    {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "link": "https://github.com/johncassil/dontallow",
-      "summary": "<p>This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.  Would love to hear feedback!</p>\n<hr />\n<p>Comments URL: <a",
-      "published": "2026-10-29T19:27:44+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив легку утиліту для macOS, яка автоматично закриває надокучливе вікно запиту на пошук пристроїв у локальній мережі. Додаток вирішує давню проблему користувачів, знімаючи необхідність постійно клікати вручну.",
-      "ai_title": "Новий додаток для Mac автоматично закриває набридливі системні сповіщення",
-      "video_keywords": "computer screen, clicking mouse, desktop interface, programmer workspace"
-    },
-    {
       "title": "Show HN: I Turned DOOM into a Transformer",
       "link": "https://github.com/mottopanikeiku/doomformer",
       "summary": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to ",
@@ -289,49 +259,59 @@
       "ai_summary": "Математик за освітою розробив захопливу логічну гру, яка поєднує принципи популярних головоломок на кшталт Sudoku та Wordle. Нова вебгра пропонує гравцям щодня розв'язувати завдання, використовуючи з'єднання точок та ліній за мінімалістичними правилами.",
       "ai_title": "Jointter: нова щоденна головоломка з крапками та лініями",
       "video_keywords": "hand drawing, paper puzzle, mathematics notebook, brainstorming"
+    },
+    {
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "summary": "<p>Article URL: <a href=\"https://ryanmadden.net/gpt-56-beats-factorio/\">https://ryanmadden.net/gpt-56-beats-factorio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50318871\">https://news.ycombinator.com/item?id=50318871</a></p>\n<p>Points: 100</p>\n<p># Comments: 100</p>",
+      "published": "2026-10-31T18:50:34+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова версія штучного інтелекту успішно пройшла випробування та змогла здобути перемогу в грі Factorio у мирному режимі. Це демонструє значний прогрес у здатності штучного інтелекту планувати складні стратегії та керувати ресурсами в реальному часі.",
+      "ai_title": "Штучний інтелект GPT-5.6 Sol навчився грати у Factorio",
+      "video_keywords": "computer gaming, AI screen, strategy game, typing on keyboard"
+    },
+    {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/jiahaoshao1/status/2116475922190922088\">https://twitter.com/jiahaoshao1/status/2116475922190922088</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319358\">https://news.ycombinator.com/item?id=50319358</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+      "published": "2026-10-31T19:39:19+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic почала активно блокувати акаунти користувачів, які намагаються використовувати їхні сервіси для створення та навчання більших штучних моделей. Такі заходи спрямовані на захист авторських прав та запобігання несанкціонованому копіюванню технологій.",
+      "ai_title": "Anthropic блокує користувачів через спроби навчання великих моделей",
+      "video_keywords": "computer error screen, internet security, modern office, stressed programmer"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "summary": "<p>Article URL: <a href=\"https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf\">https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319143\">https://news.ycombinator.com/item?id=50319143</a></p>\n<p>Points: 108</p>\n<p># Comments: 54</p>",
+      "published": "2026-10-31T19:16:30+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники безпеки повідомили про нову критичну вразливість типу Use-After-Free в протоколі IPv4 TCP для Linux. Проблема має найвищий бал за шкалою CVSS, що вимагає негайного оновлення систем для запобігання потенційним атакам.",
+      "ai_title": "Виявлено критичну вразливість у протоколі TCP з високим рівнем небезпеки",
+      "video_keywords": "cyber security, hacker typing, glowing code, server room"
+    },
+    {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "summary": "<p><a href=\"https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf\" rel=\"nofollow\">https://www.microsoft.com/en-us/research/wp-content/uploads/...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50318401\">https://news.ycombinator.com/item?id=50318401</a></p>\n<p>Points: 65</p>\n<p># Comments: 43</p>",
+      "published": "2026-10-31T18:02:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий звіт дослідників Microsoft аналізує дані щодо того, як масове використання генеративного штучного інтелекту впливає на здатність людей самостійно аналізувати інформацію. Опитування демонструє різноманітні тенденції та зміни у когнітивних звичках користувачів.",
+      "ai_title": "Дослідження Microsoft виявило вплив генеративного штучного інтелекту на критичне мислення",
+      "video_keywords": "person thinking, using laptop, modern workspace, thoughtful expression"
+    },
+    {
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less [&#8230;]",
+      "published": "2026-10-31T18:40:32+00:00",
+      "source": "The Verge",
+      "ai_summary": "Після рекордного зламу, в результаті якого з платформи викрали понад шість мільярдів доларів, керівництво Binance заявило про повернення більшої частини коштів. Компанія планує самостійно покрити решту збитків, аби захистити інтереси користувачів.",
+      "ai_title": "Binance обіцяє повністю відшкодувати мільярди доларів після масштабного хакерського зламу",
+      "video_keywords": "cryptocurrency, digital coins, financial chart, hacker attack"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "published": "2026-10-29T20:05:47+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Автомобільні компанії поглиблюють своє масштабне партнерство. Новий етап спільного підприємства передбачає інтеграцію штучного інтелекту безпосередньо у майбутні моделі електромобілів.",
-      "ai_title": "Rivian та Volkswagen розширюють співпрацю заради ШІ-асистента",
-      "video_keywords": "electric car dashboard, modern vehicle interior, steering wheel, technology interface"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "published": "2026-10-29T19:56:19+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Інвестиційна компанія Thrive Holdings, яку підтримує OpenAI, купує гіганта домашньої безпеки ADT. Угоди передбачають впровадження сучасних технологій штучного інтелекту у сферу охорони житла.",
-      "ai_title": "Інвестори OpenAI купують компанію ADT за 15 мільярдів доларів",
-      "video_keywords": "smart home security camera, modern living room, electronic keypad, businessman handshake"
-    },
-    {
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "published": "2026-10-29T19:14:36+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий сервіс Style Sketch інтегрується з Instagram та створює віртуальний гардероб на основі опублікованих фотографій. Користувачі також можуть додавати речі вручну за допомогою знімків або коротких відео.",
-      "ai_title": "Meta тихо запустила мобільний додаток для моди зі штучним інтелектом",
-      "video_keywords": "clothing rack, fashion boutique, woman trying clothes, smartphone screen"
-    },
-    {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "published": "2026-10-29T17:54:38+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Сервіс для нотаток Granola інтегрує функцію диктування у відповідь на подібні кроки конкурентів. Ринкова конкуренція між стартапами у сфері голосових технологій штучного інтелекту стрімко загострюється.",
-      "ai_title": "Війна голосового ШІ: нотатки зустрічей проти диктування",
-      "video_keywords": "person speaking into microphone, recording audio, laptop keyboard, office workspace"
-    },
     {
       "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
@@ -474,36 +454,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Polymarket suspends trading after third-party breach leads to user losses",
-      "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
-      "summary": "",
-      "published": "2026-10-29T18:55:35+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Популярна платформа прогнозів Polymarket була змушена зупинити торгові операції після того, як сторонній злам призвів до фінансових втрат користувачів. Наразі команда розслідує інцидент та намагається мінімізувати наслідки безпекового збою.",
-      "ai_title": "Polymarket призупинила торги через злам",
-      "video_keywords": "hacker typing laptop, security warning screen, digital lock data breach"
-    },
-    {
-      "title": "Public companies double share of blockchain revenue since 2022: Report",
-      "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Public companies double share of blockchain revenue since 2022: Report \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64KJ64YRMXTP1BG2ZXATA10/wallet-crypto-savings-digital-assets.jpg\" /></p><p>A new 1kx report finds that public companies are capturing a larger share of blockchain ",
-      "published": "2026-10-29T19:53:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Згідно з новим звітом компанії 1kx, публічні компанії значно збільшили свою частку доходів у сфері блокчейн-технологій порівняно з 2022 роком. Це свідчить про зростаючу інтеграцію традиційного бізнесу в криптоіндустрію.",
-      "ai_title": "Публічні компанії подвоїли свої доходи від блокчейну з 2022 року",
-      "video_keywords": "stock market chart, corporate office business meeting, digital analytics dashboard"
-    },
-    {
-      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
-      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-      "summary": "",
-      "published": "2026-10-29T21:12:45+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптобіржа Binance зазнала найбільшого злому в історії криптовалют, втративши колосальну суму коштів. Цей інцидент шокував усю індустрію та викликав серйозні занепокоєння щодо безпеки централізованих платформ.",
-      "ai_title": "Binance втратила 5,7 мільярда доларів внаслідок рекордного хакерського атаки",
-      "video_keywords": "cyber attack, hacker typing, computer screen, digital security breached"
-    },
     {
       "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
       "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
