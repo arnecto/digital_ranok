@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "link": "https://divagr.com/blog/qwenputer",
-      "summary": "<p>Article URL: <a href=\"https://divagr.com/blog/qwenputer\">https://divagr.com/blog/qwenputer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282838\">https://news.ycombinator.com/item?id=50282838</a></p>\n<p>Points: 66</p>\n<p># Comments: 11</p>",
-      "published": "2026-10-29T00:25:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники створили повноцінний та детермінований процесор RISC-V всередині мовної моделі Qwen3.5. Цей експеримент демонструє незвичні можливості штучного інтелекту симулювати апаратне забезпечення на рівні коду. Подібні інновації відкривають нові горизонти для досліджень у сфері нейромереж та віртуалізації.",
-      "ai_title": "Емулятор процесора RISC-V запустили всередині моделі Qwen",
-      "video_keywords": "microchip, computer code, futuristic screen, electronics"
-    },
-    {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "summary": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282544\">https://news.ycombinator.com/item?id=50282544</a></p>\n<p>Points: 77</p>\n<p># Comments: 22</p>",
-      "published": "2026-10-28T23:45:46+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Alpine Linux повідомила про спробу експлуатації критичної вразливості CVE-2026-97229, пов'язаної з безпекою GitLab. Користувачам і адміністраторам рекомендовано терміново перевірити системи та встановити оновлення. Подібні інциденти вкотре нагадують про важливість оперативного реагування на загрози в інфраструктурі розробки.",
-      "ai_title": "Інцидент безпеки в GitLab: спроба атаки через вразливість",
-      "video_keywords": "hacker typing, cybersecurity screen, server room, digital code"
-    },
-    {
-      "title": "The first wired XR glasses powered by Android XR",
-      "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-      "summary": "<p>Article URL: <a href=\"https://blog.google/products-and-platforms/platforms/android/xreal-aura/\">https://blog.google/products-and-platforms/platforms/android/xreal-aura/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282538\">https://news.ycombinator.com/item?id=50282538</a></p>\n<p>Points: 25</p>\n<p># Comments: 22</p>",
-      "published": "2026-10-28T23:45:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Google анонсувала випуск нових дротових окулярів змішаної реальності, які працюють під управлінням платформи Android XR. Новинка пропонує користувачам глибоку інтеграцію з екосистемою Android та покращений досвід взаємодії з віртуальним контентом. Пристрій покликаний зробити технології XR більш доступними та зручними для повсякденного використання.",
-      "ai_title": "Google представив перші дротові XR-окуляри на базі Android XR",
-      "video_keywords": "smart glasses, virtual reality headset, person wearing glasses, futuristic technology"
-    },
-    {
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "summary": "<p>Article URL: <a href=\"https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1\">https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282454\">https://news.ycombinator.com/item?id=50282454</a></p>\n<p>Points: 97</p>\n<p># Comments: 127</p>",
-      "published": "2026-10-28T23:35:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Статистика показує стрімке падіння активності на StackOverflow: кількість нових запитань від користувачів скоротилася до менш ніж 1000 на місяць. Головною причиною такого спаду експерти вважають масовий перехід розробників на використання AI-помічників для написання коду та пошуку відповідей. Це сигналізує про глобальну трансформацію звичок програмістів усього світу.",
-      "ai_title": "Кількість нових запитань на StackOverflow впала нижче тисячі на місяць",
-      "video_keywords": "person typing laptop, frustrated developer, computer screen, empty office"
-    },
-    {
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
-      "published": "2026-10-28T23:05:39+00:00",
-      "source": "The Verge",
-      "ai_summary": "Глава Instagram Адам Моссері заявив, що суспільний негатив і скептицизм щодо штучного інтелекту найближчим часом лише посилюватимуться. Під час подкасту він зазначив, що невдоволення технологією висловлюють не лише креативні професії та молодь, а й ширші верстви суспільства. Це ставить перед технологічними гігантами серйозні виклики щодо комунікації з користувачами.",
-      "ai_title": "Керівник Instagram попереджає про зростання негативу навколо ШІ",
-      "video_keywords": "podcast microphones, studio interview, serious faces, conversation"
-    },
-    {
       "title": "Zero click, silent, remote Android DoS",
       "link": "https://smsofdeath.com/",
       "summary": "<p>Article URL: <a href=\"https://smsofdeath.com/\">https://smsofdeath.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285452\">https://news.ycombinator.com/item?id=50285452</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
@@ -349,59 +299,29 @@
       "ai_summary": "OpenAI, Google, Microsoft та Anthropic домовилися підтримати новий загальний стандарт, який дозволить медіа та видавцям легко забороняти збір своїх даних для тренування моделей. Завдяки цьому авторам контенту більше не доведеться налаштовувати обмеження окремо для кожної компанії.",
       "ai_title": "Лідери AI-індустрії запроваджують єдиний стандарт для захисту контенту від копіювання",
       "video_keywords": "coding on screen, data security, internet browser, typing on keyboard"
+    },
+    {
+      "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/\">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311311\">https://news.ycombinator.com/item?i",
+      "published": "2026-10-30T23:08:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "За даними аналітиків, після проведення IPO кредитні агентства планують присвоїти компанії Anthropic високий спекулятивний статус, відомий як «сміттєвий» рейтинг. Це відображає фінансові ризики та високі витрати на розвиток штучного інтелекту, які лягають на плечі інвесторів. Попри значний інтерес ринку до AI-технологій, стабільність подібних стартапів викликає занепокоєння експертів.",
+      "ai_title": "Anthropic отримає спекулятивний рейтинг після виходу на біржу",
+      "video_keywords": "financial charts, stock market, computer screen, business graphs"
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
+      "published": "2026-10-30T22:32:53+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Apple офіційно оголосила про запуск власних функцій штучного інтелекту на китайському ринку. Спочатку нововведення стане доступним у бета-версії iOS 27.3 вже на початку листопада, а повноцінний реліз оновлення заплановано на грудень. Це важливий крок для розширення глобальної присутності AI-сервісів компанії.",
+      "ai_title": "Apple Intelligence нарешті з'явиться в Китаї з оновленням iOS 27.3",
+      "video_keywords": "smartphone screen, mobile phone, person tapping screen, technology lifestyle"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-      "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
-      "published": "2026-10-28T22:47:50+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Apple випустила новий ноутбук із сенсорним екраном, повна комплектація якого обійдеться покупцям у рекордну суму. Це встановлює нову цінову планку на ринку персональних комп'ютерів преміум-класу.",
-      "ai_title": "Новий сенсорний MacBook Pro вражає своєю ціною",
-      "video_keywords": "laptop touchscreen, person typing keyboard, modern office desk"
-    },
-    {
-      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-      "published": "2026-10-28T21:58:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія вперше офіційно назвала квартальний дохід Azure у доларах, який склав $33,2 мільярда. Це демонструє, як хмарний бізнес Microsoft наближається до свого головного конкурента — AWS.",
-      "ai_title": "Microsoft вперше розкрила точні доходи хмарного сервісу Azure",
-      "video_keywords": "server room, data center, glowing computer servers"
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "published": "2026-10-28T21:48:37+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "На тлі сповільнення зростання базової реклами Google розгортає нові рекламні формати зі штучним інтелектом по всьому світу. Нововведення супроводжується сильними фінансовими результатами материнської компанії Alphabet.",
-      "ai_title": "Google масштабує рекламу в пошуку на базі штучного інтелекту",
-      "video_keywords": "smartphone screen, internet browsing, typing search bar"
-    },
-    {
-      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-      "published": "2026-10-28T23:15:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Фінтех-стартап у сфері хмарної безпеки Upwind залучив інвестиції серії C при оцінці в 3,8 мільярда доларів. Засновники вирішили розвивати бізнес самостійно, відмовившись від вигідної пропозиції про поглинання за цю ж суму.",
-      "ai_title": "Кібербезпековий стартап Upwind залучив 400 мільйонів замість продажу компанії",
-      "video_keywords": "cybersecurity, server room, businessman working, data center"
-    },
-    {
-      "title": "DoorDash to acquire Instacart for $17B",
-      "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-      "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
-      "published": "2026-10-29T13:40:57+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Величезна угода об'єднує двох гігантів ринку доставки за запитом. DoorDash підсилює свої позиції в ресторанах завдяки потужній присутності Instacart у сфері доставки продуктів харчування.",
-      "ai_title": "DoorDash купує Instacart за 17 мільярдів доларів",
-      "video_keywords": "delivery person, smartphone app, grocery bags, fast food packaging"
-    },
     {
       "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
       "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
@@ -581,19 +501,29 @@
       "ai_summary": "На тлі гучного падіння відомої юрописом з Волл-стріт Weil, Gotshal & Manges на ринок несподівано виходить молода компанія, що базується на технологіях ШІ. Цей крок нагадує події з драматичних серіалів про юристів та може змінити ринок юридичних послуг.",
       "ai_title": "Юридичний стартап зі штучним інтелектом націлився на купівлю легендарної фірми",
       "video_keywords": "modern law office, digital tablet, business handshake, skyscraper window"
+    },
+    {
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "published": "2026-10-30T23:21:23+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Salesforce продовжує серію поглинань і готується придбати розробника оборонних технологій Rune. Ця угода спрямована на посилення спеціалізованої платформи Missionforce для державних та оборонних структур.",
+      "ai_title": "Salesforce купує оборонний стартап Rune за 375 мільйонів доларів",
+      "video_keywords": "software dashboard, corporate meeting, data analytics, defense technology"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "published": "2026-10-30T22:56:13+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі перенасичення ринку подібними сервісами, засновник AI-асистента Ollie оголосив про припинення роботи проєкту вже за тиждень. Головною фішкою стартапу був захист персональних даних користувачів, проте витримати конкуренцію не вдалося.",
+      "ai_title": "Закривається штучний інтелект Ollie, що фокусувався на конфіденційності",
+      "video_keywords": "smartphone screen, disappointed person, laptop, empty office"
     }
   ],
   "Крипта": [
-    {
-      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
-      "link": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Canadian ‘crypto king’ case to go to jury as criminal trial winds down \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3MQWPR3MTCT9E31PTGCN3TH/court-law-judge-flags-canada.jpg\" /></p><p>Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi s",
-      "published": "2026-10-28T21:35:52+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "У Канаді добігає кінця кримінальний процес над Ейденом Плетерскі, відомим як «криптокороль». Справу незабаром передадуть присяжним, які мають винести вердикт щодо звинувачень у масштабному шахрайстві та створенні фінансової піраміди.",
-      "ai_title": "Суд у справі канадського «криптокороля» наближається до фіналу",
-      "video_keywords": "courtroom, judge, legal trial, courtroom gavel"
-    },
     {
       "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
       "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -883,6 +813,16 @@
       "ai_summary": "Емітент стейблкоїна Tether повідомив про значне збільшення своїх надлишкових резервів, які подвоїлися та досягли 8 мільярдів доларів. Водночас квартальний прибуток компанії склав 1,5 мільярда доларів, що підтверджує її міцні фінансові позиції на ринку.",
       "ai_title": "Надликові резерви Tether сягнули $8 мільярдів на тлі рекордного прибутку",
       "video_keywords": "cryptocurrency, digital currency, financial chart, stock market trading"
+    },
+    {
+      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+      "summary": "",
+      "published": "2026-10-31T00:48:56+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія OpenAI переглядає свої плани щодо залучення капіталу та знижує очікувану оцінку вартості бізнесу. Це відбувається на тлі зростаючої занепокоєності інвесторів щодо темпів розвитку та монетизації технологій штучного інтелекту.",
+      "ai_title": "OpenAI зменшує цілі з фінансування на тлі хвилювань на ринку штучного інтелекту",
+      "video_keywords": "business meeting, financial chart, corporate office, investors"
     }
   ]
 }
