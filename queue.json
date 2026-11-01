@@ -1,36 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Backdoors in official Claude Code extensions",
-      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "summary": "<p>Article URL: <a href=\"https://cyberplace.social/@GossiTheDog/117528831681803563\">https://cyberplace.social/@GossiTheDog/117528831681803563</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302334\">https://news.ycombinator.com/item?id=50302334</a></p>\n<p>Points: 51</p>\n<p># Comments: 6</p>",
-      "published": "2026-10-30T11:05:53+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з кібербезпеки знайшли вразливості у вигляді прихованих бекдорів в офіційних розширеннях для Claude Code. Такі закладки дозволяють зловмисникам потенційно отримувати несанкціонований доступ до систем розробників. Ситуація вимагає термінового оновлення та перевірки безпеки використаних інструментів.",
-      "ai_title": "У офіційних розширеннях Claude Code виявлено бекдори",
-      "video_keywords": "computer programming code, screen monitor typing, cyber security breach"
-    },
-    {
-      "title": "Maine’s data center revolt will decide who controls the Senate",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, [&#8230;]",
-      "published": "2026-10-30T11:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Екологічні проблеми, спричинені масовим будівництвом енергоємних дата-центрів для штучного інтелекту, перетворилися на головну тему політичних дебатів у США. Виборці стурбовані впливом таких об'єктів на клімат і водні ресурси регіону. Це питання може вирішити результат боротьби за місця в Сенаті.",
-      "ai_title": "Енергетичний бунт у штаті Мен: дата-центри стають новою політичною зброєю",
-      "video_keywords": "server racks flashing lights, industrial power plant, protesting crowd"
-    },
-    {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [&#8230;]",
-      "published": "2026-10-30T09:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Фонд Вікімедія закликає суди зважено підійти до справ про авторське право та штучний інтелект. На їхню думку, легальне навчання великих мовних моделей на захищеному контенті має бути захищене, проте пряме копіювання чат-ботами неприпустиме. Надто радикальні заборони можуть зашкодити як розвитку ШІ-інструментів, так і всьому відкритому інтернету.",
-      "ai_title": "Wikimedia попереджає: помилкове рішення щодо авторських прав в AI знищить відкритий веб",
-      "video_keywords": "person typing keyboard, digital library servers, legal documents scales"
-    },
-    {
       "title": "US tech stocks see sharp falls over AI cost fears",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "summary": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cvwy72e0n72yo\">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50306008\">https://news.ycombinator.com/item?id=50306008</a></p>\n<p>Points: 41</p>\n<p># Comments: 12</p>",
@@ -269,6 +239,16 @@
       "ai_summary": "Журналісти The Verge підготували колекцію найбільш тривожних, сюрреалістичних та химерних роликів з відеохостингу. Добірка охоплює все: від авторського артхаусного жаху до моторошної космологічної фантастики.",
       "ai_title": "Добірка моторошних та дивних відео з YouTube для геловіну",
       "video_keywords": "horror movie, dark room, glowing screen, creepy video"
+    },
+    {
+      "title": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
+      "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization\">https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</a></p>\n<p>Comments URL: <a href=\"ht",
+      "published": "2026-11-01T10:28:22+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Генеральний директор OpenAI заявив, що використання великих об'ємів DRAM у звичайних персональних комп'ютерах є неефективним. На його думку, ці ресурси набагато краще слугуватимуть у хмарних дата-центрах для розвитку штучного інтелекту.",
+      "ai_title": "Сем Альтман вважає оперативну пам'ять важливішою для дата-центрів, ніж для ПК",
+      "video_keywords": "server racks, data center, computer hardware, microchip"
     }
   ],
   "Бізнес / Стартапи": [
@@ -374,66 +354,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-      "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-      "summary": "",
-      "published": "2026-10-30T11:09:24+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Недавній хакерський атака на біржу Binance призвела до різкого падіння курсів біткоїна та ефіріума. На тлі паніки обсяг примусових ліквідацій на крипторинку зріс до рекордних 1.57 мільярда доларів.",
-      "ai_title": "Масштабний злам Binance обвалив ринок і спричинив ліквідацію криптопозицій на $1.57 мільярда",
-      "video_keywords": "stock market crash, red candles chart, digital currency loss"
-    },
-    {
-      "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
-      "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"EIP-7702 didn’t cause Binance hack, but may have amplified losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6602N70GW2FG23Y7A1E55CV/hi-binance-hack.jpg\" /></p><p>Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may ",
-      "published": "2026-10-30T11:00:10+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Експерти з безпеки зазначають, що зловмисники могли пограбувати гаманці біржі й без оновлення EIP-7702. Проте сама технологічна модернізація Ethereum потенційно посилила масштаби втрат під час атаки.",
-      "ai_title": "Оновлення Ethereum не створювало вразливості, але збільшило збитки від зламу Binance",
-      "video_keywords": "cyber security, hacker code, digital vault"
-    },
-    {
-      "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-      "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M663XBRMVF35RHDZ0MC72744/hacker-binance-bitcoin-treasury.jpg\" /></p><p>The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an E",
-      "published": "2026-10-30T10:54:30+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Кіберзлочинці, які атакували Binance, зосередили у своїх руках величезну кількість криптовалюти. Їхні запаси біткоїнів тепер перевищують офіційні корпоративні резерви відомої біржі Coinbase.",
-      "ai_title": "Обсяг викрадених хакерами біткоїнів перевищив корпоративні резерви Coinbase",
-      "video_keywords": "bitcoin coins, digital wallet, glowing gold coins"
-    },
-    {
-      "title": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
-      "link": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trezor warns CryptoBilis buyers to move funds over suspected implant\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65XV5M4X2K1YMKC92QM6YWV/trezor-cryptobilis.jpg\" /></p><p>Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of ",
-      "published": "2026-10-30T09:26:45+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Trezor звернулася до клієнтів, які придбали пристрої у реселлера CryptoBilis. Через підозру на стороннє втручання та імплантацію шкідливих елементів власникам радять негайно захистити свої активи.",
-      "ai_title": "Trezor закликає користувачів терміново переказати кошти через небезпеку у апаратних гаманцях",
-      "video_keywords": "hardware wallet, USB security device, man typing laptop"
-    },
-    {
-      "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
-      "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Live updates: Binance says $6.34B set aside to cover hack losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg\" /></p><p>Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 bill",
-      "published": "2026-10-30T09:08:25+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Керівництво біржі Binance оголосило про резермування 6.34 мільярда доларів для компенсації наслідків найбільшої хакерської атаки. Компанія намагається заспокоїти ринок та гарантує захист коштів користувачів.",
-      "ai_title": "Binance виділяє понад $6 мільярдів для покриття збитків від масштабного зламу",
-      "video_keywords": "empty office, stressed trader, computer monitor"
-    },
-    {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-      "summary": "",
-      "published": "2026-10-30T16:31:17+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Біржа Binance розслідує деталі рекордного хакерського нападу на суму 6,3 мільярда доларів. Команда планує відновити роботу з виведення активів уже найближчої неділі після завершення перевірки безпеки.",
-      "ai_title": "Binance готується відновити виведення коштів після масштабного зламу",
-      "video_keywords": "cryptocurrency exchange, server room, cybersecurity, digital security"
-    },
     {
       "title": "Recap: How Binance’s record $6.3B hack unfolded",
       "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -548,6 +468,16 @@
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance says 90% of stolen assets replenished, targets Sunday withdrawals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png\" /></p><p>Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets throu",
       "published": "2026-10-31T15:36:01+00:00",
       "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "summary": "",
+      "published": "2026-11-01T10:35:42+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалютна біржа Binance поступово відновлює операції з виведення цифрових активів, почавши з біткоїна. Це сталося після серйозного інциденту безпеки, в результаті якого система зазнала збитків на суму 6,3 мільярда доларів. Команда платформи працює над стабілізацією роботи та посиленням захисту користувацьких коштів.",
+      "ai_title": "Binance частково відновлює виведення криптовалюти після масштабного збою",
+      "video_keywords": "smartphone screen, cryptocurrency trading app, digital coins, financial chart"
     }
   ]
 }
