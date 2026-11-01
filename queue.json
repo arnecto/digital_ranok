@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "link": "https://github.com/mottopanikeiku/doomformer",
-      "summary": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to ",
-      "published": "2026-10-29T23:25:46+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив неочікуваний експеримент, використавши ігрову механіку DOOM для виконання математичних операцій нейромережі. Завдяки повній Тюрінг-повноті гри вдалося побудувати альтернативу бібліотеці NumPy, хоча й у десятки тисяч разів повільнішу.",
-      "ai_title": "Ентузіаст перетворив гру DOOM на нейромережу Transformer",
-      "video_keywords": "retro video game, playing computer game, coding on screen, developer workspace"
-    },
-    {
-      "title": "Proton goes all in on using AI",
-      "link": "https://convo.casa/@b/117525936178835007",
-      "summary": "<p>Article URL: <a href=\"https://convo.casa/@b/117525936178835007\">https://convo.casa/@b/117525936178835007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296602\">https://news.ycombinator.com/item?id=50296602</a></p>\n<p>Points: 23</p>\n<p># Comments: 7</p>",
-      "published": "2026-10-29T21:49:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Відомий сервіс безпеки та приватності Proton оголосив про повний перехід на використання технологій штучного інтелекту у своїх продуктах. Це рішення викликало дискусії серед користувачів щодо збереження конфіденційності даних.",
-      "ai_title": "Компанія Proton масово впроваджує штучний інтелект",
-      "video_keywords": "typing on laptop, cybersecurity screen, modern office, software interface"
-    },
-    {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "link": "https://labs.ycombinator.com/projects/games/index.html",
-      "summary": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 101</p>\n<p># Comments: 35</p>",
-      "published": "2026-10-29T21:40:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Команда розробників випробувала роботу автономних агентів штучного інтелекту у популярних пісочницях Minecraft та Mindustry. Штучний інтелект демонстрував колективну взаємодію та виконання складних завдань у віртуальних світах.",
-      "ai_title": "Дослідники запустили рої штучного інтелекту в Minecraft та Mindustry",
-      "video_keywords": "playing video game, gaming monitor, computer screen, virtual reality"
-    },
-    {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "summary": "<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 536</p>\n<p># Comments: 298</p>",
-      "published": "2026-10-29T21:38:59+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У мережі з'явилися дані про найбільшу крадіжку криптовалюти з біржі Binance, сума якої сягає 5,6 мільярда доларів. Подія вже спричинила величезний резонанс у криптовалютній спільноті та на фінансових ринках.",
-      "ai_title": "Масштабна хакерська атака: з Binance викрали мільярди доларів",
-      "video_keywords": "hacker typing, digital code on screen, cyber attack, financial charts loss"
-    },
-    {
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals on average per [&#8230;]",
-      "published": "2026-10-29T22:19:32+00:00",
-      "source": "The Verge",
-      "ai_summary": "Генеральний директор Reddit Стів Хаффман заявив, що нові пошукові функції Google зі штучним інтелектом не приносять користі платформі. За його словами, реферальний трафік із пошуковика помітно скоротився, що б'є по показниках багатьох сайтів.",
-      "ai_title": "У Reddit заявили, що пошук Google на базі ШІ не дає трафіку",
-      "video_keywords": "smartphone screen browsing, person scrolling feed, digital analytics, modern office desk"
-    },
-    {
-      "title": "Anthropic hacked to deliver remote access trojan",
-      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "summary": "<p>Article URL: <a href=\"https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301983\">https://news.ycombinator.com/item?id=503019",
-      "published": "2026-10-30T10:22:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic зазнала кібератаки, внаслідок якої зловмисники намагалися розповсюдити шкідливе програмне забезпечення. Трояни віддаленого доступу загрожують ноутбукам розробників, які працюють із сервісом Claude по всьому світу. Це ставить під загрозу безпеку даних та інфраструктуру компанії.",
-      "ai_title": "Злом систем Anthropic: розробників атакують троянами віддаленого доступу",
-      "video_keywords": "hacker typing laptop, cybersecurity warning, dark room code screen"
-    },
-    {
       "title": "Backdoors in official Claude Code extensions",
       "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
       "summary": "<p>Article URL: <a href=\"https://cyberplace.social/@GossiTheDog/117528831681803563\">https://cyberplace.social/@GossiTheDog/117528831681803563</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302334\">https://news.ycombinator.com/item?id=50302334</a></p>\n<p>Points: 51</p>\n<p># Comments: 6</p>",
@@ -309,59 +249,29 @@
       "ai_summary": "Після рекордного зламу, в результаті якого з платформи викрали понад шість мільярдів доларів, керівництво Binance заявило про повернення більшої частини коштів. Компанія планує самостійно покрити решту збитків, аби захистити інтереси користувачів.",
       "ai_title": "Binance обіцяє повністю відшкодувати мільярди доларів після масштабного хакерського зламу",
       "video_keywords": "cryptocurrency, digital coins, financial chart, hacker attack"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "<p>Article URL: <a href=\"https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320995\">https://news.ycombinator.com/item?id=50320995</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+      "published": "2026-10-31T22:46:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нова розробка Memdoor продемонструвала, що об'єднання кількох моделей Qwen здатне ефективно вирішувати найскладніші завдання з написання та аналізу коду. Такий підхід відкриває нові можливості для створення автономних програмних агентів.",
+      "ai_title": "Команда ШІ-моделей перевершила складні бенчмарки з програмування",
+      "video_keywords": "coding screen, programming code, futuristic computer, artificial intelligence"
+    },
+    {
+      "title": "Get in the spirit with these horrors from YouTube",
+      "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or [&#8230;]",
+      "published": "2026-10-31T21:06:58+00:00",
+      "source": "The Verge",
+      "ai_summary": "Журналісти The Verge підготували колекцію найбільш тривожних, сюрреалістичних та химерних роликів з відеохостингу. Добірка охоплює все: від авторського артхаусного жаху до моторошної космологічної фантастики.",
+      "ai_title": "Добірка моторошних та дивних відео з YouTube для геловіну",
+      "video_keywords": "horror movie, dark room, glowing screen, creepy video"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "published": "2026-10-29T23:42:22+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Генеральний директор Amazon Енді Джессі заявив, що хмарний підрозділ AWS має всі шанси досягти позначки в один трильйон доларів доходу. Проте для лідерства у сфері штучного інтелекту компанії доведеться суттєво збільшити капітальні витрати на інфраструктуру.",
-      "ai_title": "AWS готується стати бізнесом на $1 трильйон через інвестиції в ШІ",
-      "video_keywords": "server room, data center, supercomputer, microchip"
-    },
-    {
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-      "published": "2026-10-29T22:27:23+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Найбільша криптовалютна біржа світу зіткнулася з кібератакою, внаслідок якої, за попередніми оцінками, зловмисники могли викрасти мільярди доларів у криптовалюті. Через це платформа була змушена екстрено зупинити всі операції з виведення активів користувачів.",
-      "ai_title": "Binance призупинила виведення коштів через підозру у масштабній хакерській атаці",
-      "video_keywords": "hacker typing on keyboard, glowing digital code, smartphone lock screen, cybersecurity warning"
-    },
-    {
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
-      "published": "2026-10-29T23:44:56+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Голова Amazon Енді Джессі повідомив, що стрімінговий сервис Prime Video демонструє неймовірні фінансові успіхи. За його словами, доходи платформи незабаром сягнут десятків мільярдів доларів завдяки популярності ексклюзивних кінохітів.",
-      "ai_title": "Prime Video від Amazon готується заробляти десятки мільярдів доларів",
-      "video_keywords": "person watching television, streaming movie remote control, living room couch screen"
-    },
-    {
-      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-      "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-      "published": "2026-10-29T21:51:29+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Президент Росії заявив, що високо оцінює таланти Ілона Маска та підтримує з ним тісний зв'язок. За його словами, вони обговорюють російський супутниковий проєкт «Рассвет», який є аналогом Starlink.",
-      "ai_title": "Володимир Путін назвав Ілона Маска «справжнім генієм»",
-      "video_keywords": "satellite dish spinning, rocket launch into space, globe with network lines"
-    },
-    {
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-      "published": "2026-10-29T21:20:47+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Незважаючи на стрімке зростання хмарного напрямку, останній фінансовий звіт Amazon розчарував інвесторів через інші показники. Головним болем компанії став негативний вільний грошовий потік у розмірі 2,4 мільярда доларів.",
-      "ai_title": "Amazon зафіксувала рекордні доходи хмарного бізнесу, але не виправдала загальних очікувань",
-      "video_keywords": "stock market chart dropping, calculator on financial report, businessman stressed at desk"
-    },
     {
       "title": "Google’s first data center satellite is online and writing poetry",
       "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
@@ -451,39 +361,29 @@
       "ai_summary": "Популярна платформа TikTok активно розширює функціонал, додаючи нові послуги від ресторанних гідів до платіжних систем. Компанія прагне стати універсальним додатком для всіх цифрових потреб користувачів.",
       "ai_title": "TikTok перетворюється на супердодаток для повсякденних послуг",
       "video_keywords": "smartphone screen, mobile app, person scrolling, digital payment"
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "published": "2026-10-31T21:41:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Генеральний директор Apple прокоментував стратегію компанії у сфері штучного інтелекту. Він наголосив, що технології впроваджуються лише тоді, коли вони приносять реальну користь користувачам, а не просто для галочки.",
+      "ai_title": "Apple не випускатиме штучний інтелект заради тренду",
+      "video_keywords": "smartphone screen, typing, modern office, corporate presentation"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "published": "2026-10-31T21:17:03+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Суддя дозволив продовжити розгляд позову NAACP проти компанії Ілона Маска. Організація звинувачує xAI у порушенні закону про чисте повітря через роботу дата-центру.",
+      "ai_title": "Суд дозволив позов проти дата-центру xAI через забруднення повітря",
+      "video_keywords": "industrial factory, smoke stacks, pollution, courtroom judge"
     }
   ],
   "Крипта": [
-    {
-      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
-      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64Y4PTFHTAMEWNV8MMJQWCT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1.jpeg\" /></p><p>Bitcoin and Ether tumbled as the broader crypto market",
-      "published": "2026-10-29T23:24:21+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Масштабна хакерська атака на Binance спровокувала паніку на ринку та загальне падіння курсу цифрових активів. Зокрема, нативний токен біржі BNB обвалився на 7%, а слідом за ним потягнувся вниз і Bitcoin.",
-      "ai_title": "Падіння крипторинків через злом Binance: BNB та Bitcoin стрімко дешевшають",
-      "video_keywords": "stock market crash, red candles chart, cryptocurrency trading, stressed trader"
-    },
-    {
-      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
-      "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tampered Ledger reported in Singapore a month before news broke: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RA36J2CBE1BC6ZENWQDFJ/asia-express-13.jpg\" /></p><p>Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers ",
-      "published": "2026-10-29T22:31:07+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Місцева поліція зафіксувала появу підроблених чи зламаних апаратних гаманців Ledger ще на початку вересня. Південнокорейські законодавці також звернули увагу на цю проблему безпеки в азіатському регіоні.",
-      "ai_title": "У Сінгапурі виявили модифіковані гаманці Ledger за місяць до офіційного розголосу",
-      "video_keywords": "hardware wallet, crypto security, unboxing gadget, forensic examination"
-    },
-    {
-      "title": "Live Updates: Binance says $2.54 billion frozen after hack",
-      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Live Updates: Binance says $2.54 billion frozen after hack \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M64RM2NG4HTR1FTZN6XKT10N/trying-to-open-monitor.jpg\" /></p><p>Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dollar hack, with",
-      "published": "2026-10-29T21:24:36+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Команда Binance оперативно реагує на наслідки рекордного зламу та звітує про блокування значної частини вкрадених активів. Експерти продовжують стежити за розвитком подій у режимі реального часу.",
-      "ai_title": "Злом Binance: біржа заморозила понад 2,5 мільярда доларів після атаки",
-      "video_keywords": "frozen account, emergency meeting, digital currency, blockchain network"
-    },
     {
       "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
       "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
