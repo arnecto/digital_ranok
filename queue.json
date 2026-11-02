@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "We Took over ChatGPT Accounts",
-      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "summary": "<p>Article URL: <a href=\"https://www.parameter.ai/labs/we-found-a-gap-at-openai\">https://www.parameter.ai/labs/we-found-a-gap-at-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50314699\">https://news.ycombinator.com/item?id=50314699</a></p>\n<p>Points: 63</p>\n<p># Comments: 27</p>",
-      "published": "2026-10-31T10:30:11+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Спеціалісти з кібербезпеки виявили вразливість у системі OpenAI, яка дозволила перехопити управління акаунтами користувачів ChatGPT. Цей інцидент нагадує про важливість посилення захисту даних та усунення прогалин у безпеці популярних AI-сервісів.",
-      "ai_title": "Дослідники отримали контроль над акаунтами ChatGPT",
-      "video_keywords": "hacker typing, computer code, cyberspace, security warning"
-    },
-    {
-      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-      "link": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-      "summary": "<p>Article URL: <a href=\"https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/\">https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50316760\">https://news.ycombinator.com/item?id=50316760</a></p>\n<p>Points",
-      "published": "2026-10-31T14:57:33+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Колишній дослідник компанії Meta завантажив через торрент велику базу даних піратських книжок для навчання штучного інтелекту. Проте він був змушений повністю видалити зібрані матеріали через хвилю судових позовів щодо авторських прав.",
-      "ai_title": "Ексдослідник Meta видалив піратську базу книжок через погрози судів",
-      "video_keywords": "server rack, computer screen, courtroom, data deletion"
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
-      "published": "2026-10-31T16:05:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Поки Марк Цукерберг готує до продажу пристрої зі штучним інтелектом у стилі ностальгійних іграшок тамагочі, незалежні розробники створюють власні аналогічні гаджети вдома. Ентузіасти доводять, що подібні інтерактивні компаньйони зі ШІ можна реалізувати самостійно без дорогих комерційних релізів.",
-      "ai_title": "Розробник створив власного ШІ-тамагочі раніше за Meta",
-      "video_keywords": "handheld console, microchip, soldering iron, cybernetic pet"
-    },
-    {
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-      "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter results for files, actions, or web results. [&#8230;]",
-      "published": "2026-10-31T15:12:19+00:00",
-      "source": "The Verge",
-      "ai_summary": "Свіжа тестова збірка Windows 11 принесла корисні оновлення для гравців та покращену систему пошуку. Тепер у ігровому режимі Xbox можна швидко керувати бездротовими мережами та живленням без потреби вигортати гру на робочий стіл.",
-      "ai_title": "У Windows 11 з'явилися зручні комбінації клавіш для геймерів",
-      "video_keywords": "gaming pc, mechanical keyboard, computer monitor, gamepad"
-    },
-    {
-      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-      "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch [&#8230;]",
-      "published": "2026-10-31T15:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Покупці, які оформлюють попереднє замовлення на новітні ноутбуки MacBook Pro з сенсорними екранами та сучасними дисплеями, отримують приємний бонус. Мережа магазинів Best Buy автоматично додає до кошика подарунковий сертифікат на суму 100 доларів.",
-      "ai_title": "Best Buy дарує подарункову карту на $100 при попередньому замовленні нового MacBook Pro",
-      "video_keywords": "laptop unboxing, credit card, retail store, modern tech"
-    },
-    {
-      "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
-      "link": "https://www.jointter.com/",
-      "summary": "<p>Hello everyone. I’m a mathematician by training, and I love mathematical and logical puzzles and brain-teasers. Inspired by popular games like Sudoku and Wordle, I decided to come up with an engaging game of my own.<p>As it turns out, that’s not so easy! I had a few ideas, but beyond the core mechanics, a game also needs to be interesting and easy to explain — after all, nobody (including me) w",
-      "published": "2026-10-31T16:24:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Математик за освітою розробив захопливу логічну гру, яка поєднує принципи популярних головоломок на кшталт Sudoku та Wordle. Нова вебгра пропонує гравцям щодня розв'язувати завдання, використовуючи з'єднання точок та ліній за мінімалістичними правилами.",
-      "ai_title": "Jointter: нова щоденна головоломка з крапками та лініями",
-      "video_keywords": "hand drawing, paper puzzle, mathematics notebook, brainstorming"
-    },
-    {
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
       "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
       "summary": "<p>Article URL: <a href=\"https://ryanmadden.net/gpt-56-beats-factorio/\">https://ryanmadden.net/gpt-56-beats-factorio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50318871\">https://news.ycombinator.com/item?id=50318871</a></p>\n<p>Points: 100</p>\n<p># Comments: 100</p>",
@@ -89,16 +29,6 @@
       "ai_summary": "Дослідники безпеки повідомили про нову критичну вразливість типу Use-After-Free в протоколі IPv4 TCP для Linux. Проблема має найвищий бал за шкалою CVSS, що вимагає негайного оновлення систем для запобігання потенційним атакам.",
       "ai_title": "Виявлено критичну вразливість у протоколі TCP з високим рівнем небезпеки",
       "video_keywords": "cyber security, hacker typing, glowing code, server room"
-    },
-    {
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "summary": "<p><a href=\"https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf\" rel=\"nofollow\">https://www.microsoft.com/en-us/research/wp-content/uploads/...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50318401\">https://news.ycombinator.com/item?id=50318401</a></p>\n<p>Points: 65</p>\n<p># Comments: 43</p>",
-      "published": "2026-10-31T18:02:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий звіт дослідників Microsoft аналізує дані щодо того, як масове використання генеративного штучного інтелекту впливає на здатність людей самостійно аналізувати інформацію. Опитування демонструє різноманітні тенденції та зміни у когнітивних звичках користувачів.",
-      "ai_title": "Дослідження Microsoft виявило вплив генеративного штучного інтелекту на критичне мислення",
-      "video_keywords": "person thinking, using laptop, modern workspace, thoughtful expression"
     },
     {
       "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
@@ -239,39 +169,59 @@
       "ai_summary": "Пекін офіційно оголосив про нові правила експортного контролю у сфері передового штучного інтелекту згідно з розпорядженням Mofcom №48. Ці заходи спрямовані на регулювання глобального поширення китайських технологій та зміцнення національної безпеки.",
       "ai_title": "Китай запроваджує перші експортні обмеження на штучний інтелект",
       "video_keywords": "server room, data center, digital map, globe, security system"
+    },
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "link": "https://subvocal.company/",
+      "summary": "<p>Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech.<p>Here's a video of Dave from YC trying it out: <a href=\"https://www.youtube.com/watch?v=9QdX1eObVYI\" rel=\"nofollow\">https://www.youtube.",
+      "published": "2026-11-02T17:16:17+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили розумні окуляри Subvocal, які зчитують слова, сказані мовчки без звуку. Пристрій миттєво розпізнає беззвучну промову та перетворює її на текст зі швидкістю звичайного спілкування.",
+      "ai_title": "Розумні окуляри Subvocal дозволяють керувати комп'ютером беззвучно",
+      "video_keywords": "smart glasses, person wearing glasses, typing on keyboard, futuristic technology"
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "link": "https://momentic.ai/",
+      "summary": "<p>Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs.<p>Here’s a demo: <a href=\"https://youtu.be/BFsM-Se1Fh8\" rel=\"nofollow\">https://youtu.be/BFsM-Se1Fh8</a><p>We’re both software engineers that spent our careers on dev tooling and infra across com",
+      "published": "2026-11-02T17:05:25+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий інструмент Momentic використовує автономних ШІ-агентів для тестування та пошуку багів у веб-, iOS та Android застосунках. Агенти самостійно планують сценарії використання, досліджують інтерфейс та знаходять програмні помилки.",
+      "ai_title": "ШІ-агент Momentic для автоматичного пошуку помилок у застосунках",
+      "video_keywords": "software code on screen, developer working, computer monitor, app testing"
+    },
+    {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11\">https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50339494\">https://news.ycombinator.com/item?id=50339494</a></p>\n<p>Points: 95</p>\n<p># Comments: 65</",
+      "published": "2026-11-02T16:40:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Anthropic зіткнулася з новою реальністю: вартість використання власних ШІ-моделей для внутрішніх завдань за роздрібними цінами тепер перевищує сукупний фонд оплати праці всіх її працівників. Це свідчить про колосальні обчислювальні витрати сучасних AI-лабораторій.",
+      "ai_title": "Витрати Anthropic на внутрішнє використання ШІ перевищили зарплати співробітників",
+      "video_keywords": "server room, data center, glowing computer servers, artificial intelligence"
+    },
+    {
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]",
+      "published": "2026-11-02T18:01:30+00:00",
+      "source": "The Verge",
+      "ai_summary": "OpenAI оголосила про запуск програми \"Grid Protectors Program\" для майбутнього дата-центру в Джорджії. Компанія обіцяє вивільняти до 1000 мегаватів електроенергії під час надзвичайних ситуацій для забезпечення потреб місцевих жителів.",
+      "ai_title": "OpenAI планує будувати власні електростанції для живлення дата-центрів",
+      "video_keywords": "power plant, electricity generators, industrial facility, energy infrastructure"
+    },
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the companies that run New York Daily News, the [&#8230;]",
+      "published": "2026-11-02T17:51:19+00:00",
+      "source": "The Verge",
+      "ai_summary": "Група медіакомпаній на чолі з The New York Times звинувачує розробників браузера Brave у незаконному парсингу контенту для навчання штучного інтелекту. Також у позові йдеться про те, що браузер дозволяє користувачам обходити платні пейволи видань.",
+      "ai_title": "The New York Times подала до суду на браузер Brave за збір даних для ШІ",
+      "video_keywords": "courtroom, lawsuit, person browsing internet, digital security"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "published": "2026-10-31T16:12:55+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія OpenAI переглянула свої фінансові очікування у бік зменшення для поточного раунду інвестицій. Це свідчить про те, що залучення капіталу може бути складнішим, ніж прогнозувалося спочатку.",
-      "ai_title": "OpenAI зменшує суму очікуваного фінансування у новому раунді",
-      "video_keywords": "business meeting, handshake, financial chart, corporate office"
-    },
-    {
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "published": "2026-10-31T15:41:57+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Популярна платформа TikTok активно розширює функціонал, додаючи нові послуги від ресторанних гідів до платіжних систем. Компанія прагне стати універсальним додатком для всіх цифрових потреб користувачів.",
-      "ai_title": "TikTok перетворюється на супердодаток для повсякденних послуг",
-      "video_keywords": "smartphone screen, mobile app, person scrolling, digital payment"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "published": "2026-10-31T21:41:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Генеральний директор Apple прокоментував стратегію компанії у сфері штучного інтелекту. Він наголосив, що технології впроваджуються лише тоді, коли вони приносять реальну користь користувачам, а не просто для галочки.",
-      "ai_title": "Apple не випускатиме штучний інтелект заради тренду",
-      "video_keywords": "smartphone screen, typing, modern office, corporate presentation"
-    },
     {
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
@@ -311,74 +261,49 @@
       "ai_summary": "Компанія розглядає ребрендинг енергоємних дата-центрів через їхню низьку популярність серед місцевих громад. Нова назва має змінити сприйняття інфраструктури та підкреслити її інноваційний характер.",
       "ai_title": "OpenAI планує перейменувати свої дата-центри на «кампуси штучного інтелекту»",
       "video_keywords": "server room, data center, futuristic building, supercomputer"
+    },
+    {
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+      "published": "2026-11-02T17:54:11+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Marvell планує придбати Lumentum за рекордну суму. Обидва підприємства мають спільного стратегічного інвестора в особі Nvidia, що робить цю угоду ключовою для ринку високих технологій.",
+      "ai_title": "Marvell купує Lumentum за $115 млрд у межах однієї з найбільших техноугод в історії",
+      "video_keywords": "corporate boardroom, business handshake, skyscrapers, stock market charts"
+    },
+    {
+      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+      "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+      "summary": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+      "published": "2026-11-02T17:49:41+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий додаток Readwise Books об'єднує магазин електронних книг, трекер читання, детальну статистику та ШІ-функції. Цей крок спрямований на створення серйозної конкуренції екосистемі Amazon.",
+      "ai_title": "Сервіс Readwise кидає виклик Amazon Kindle та Goodreads власним додатком",
+      "video_keywords": "person reading tablet, digital bookshelf, turning pages, modern smartphone app"
+    },
+    {
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+      "published": "2026-11-02T16:44:48+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "SpaceX шукає нові шляхи інтеграції мережі Starlink. Потенційне об'єднання з мобільним оператором Boost Mobile надасть компанії необхідний наземний доступ для прямого зв'язку.",
+      "ai_title": "SpaceX планує придбати Boost Mobile для конкуренції з гігантами зв'язку",
+      "video_keywords": "satellite dish, smartphone in hand, telecommunication tower, cell phone signal"
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "published": "2026-11-02T16:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія вийшла з тіні з амбітним проєктом: створенням світової моделі штучного інтелекту. Технологія здатна прогнозувати дії людини навіть у абсолютно нових та непередбачуваних ситуаціях.",
+      "ai_title": "Стартап 42AI залучив $62,5 млн для створення ШІ-моделі, здатної передбачати поведінку людей",
+      "video_keywords": "futuristic data visualization, glowing neural network, computer screen, artificial intelligence abstract"
     }
   ],
   "Крипта": [
-    {
-      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-      "summary": "",
-      "published": "2026-10-31T12:49:47+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Одна з компаній, що котирується на біржі Nasdaq, розглядає можливість продажу біткоїнів на суму 450 мільйонів доларів. Таке рішення зумовлене нещодавнім зномом біржі Binance та зростаючими побоюваннями щодо загроз квантових комп'ютерів для криптографії.",
-      "ai_title": "Nasdaq-компанія планує продати біткоїни на $450 млн через побоювання хакерів",
-      "video_keywords": "stock market ticker, computer screen, financial charts, digital currency"
-    },
-    {
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
-      "summary": "",
-      "published": "2026-10-31T12:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Масштабна хакерська атака на біржу Binance виявила парадоксальну ситуацію у криптосвіті. Централізована структура платформи, яку часто критикують пуристи, водночас дозволила оперативно заморозити та врятувати близько 3 мільярдів доларів.",
-      "ai_title": "Парадокс зльому Binance на $6,3 мільярда: як централізація врятувала мільярди",
-      "video_keywords": "hacker typing on keyboard, glowing binary code, digital security shield, cyber attack screen"
-    },
-    {
-      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
-      "link": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Blockchain investigator Chainalysis hit by cybersecurity incident \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg\" /></p><p>Chainalysis has engaged world-class third-party ex",
-      "published": "2026-10-31T11:22:49+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Провідна компанія з аналізу блокчейну Chainalysis стала жертвою кібератаки. Для розслідування інциденту та ліквідації наслідків організація залучила сторонніх експертів світового рівня.",
-      "ai_title": "Криптодетективів Chainalysis зламали: компанія постраждала від кіберінциденту",
-      "video_keywords": "cybersecurity office, server room, digital lock glowing, IT specialist working"
-    },
-    {
-      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-      "summary": "",
-      "published": "2026-10-31T16:09:30+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
-      "link": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
-      "summary": "",
-      "published": "2026-10-31T16:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-      "summary": "",
-      "published": "2026-10-31T15:24:10+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Institutions embrace crypto staking despite shrinking yields",
-      "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-      "summary": "",
-      "published": "2026-10-31T15:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance says 90% of stolen assets replenished, targets Sunday withdrawals\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png\" /></p><p>Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets throu",
-      "published": "2026-10-31T15:36:01+00:00",
-      "source": "Cointelegraph.com News"
-    },
     {
       "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
       "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
@@ -448,6 +373,56 @@
       "ai_summary": "Розробники платформи BTCPay Server попередили операторів про загрозу несанкціонованого виведення коштів із гарячих гаманців. Атакам піддаються сервери, що працюють на застарілих версіях програмного забезпечення, тому користувачів наполегливо просять зупинити роботу систем до оновлення.",
       "ai_title": "BTCPay Server закликав користувачів терміново оновити ПЗ через загрозу крадіжок",
       "video_keywords": "hacker typing on laptop, computer code, cybersecurity warning, server room"
+    },
+    {
+      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+      "summary": "",
+      "published": "2026-11-02T18:13:57+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Відтік біткоїнів з криптобірж вказує на можливий дефіцит пропозиції на ринку. На тлі цього трейдери очікують на стрімке ралі курсу першої криптовалюти після завершення виборів. Зменшення кількості монет на платформах зазвичай свідчить про намір інвесторів тримати їх довгостроково.",
+      "ai_title": "Трейдери готуються до зростання біткоїна після виборів",
+      "video_keywords": "bitcoin chart, crypto trading floor, glowing green graphs, stock market screens"
+    },
+    {
+      "title": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
+      "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+      "summary": "",
+      "published": "2026-11-02T16:41:46+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "NYSE залучила фінансового гіганта Broadridge для запровадження голосування акціонерів на базі блокчейну. Цей крок покликаний об'єднати традиційні фінанси з можливостями токенізованих активів. Нова система спростить процедури корпоративного управління для інвесторів.",
+      "ai_title": "Нью-Йоркська фондова біржа інтегрує токенізовані акції",
+      "video_keywords": "wall street building, stock exchange floor, digital tablet graphs, businessman handshake"
+    },
+    {
+      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+      "summary": "",
+      "published": "2026-11-02T15:53:29+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Платформа Mercado Bitcoin призупинила транзакції після того, як зловмисники вивели близько 40 мільйонів доларів у різних блокчейнах. Кібератака зачепила одразу десять мереж, що стало серйозним ударом по безпеці біржі. Наразі команда розслідує інцидент та намагається повернути активи.",
+      "ai_title": "Бразильська криптобіржа зупинила виведення коштів через масштабний хакерський злам",
+      "video_keywords": "hacker typing on laptop, glowing cyber security screen, digital lock animation, red warning lights"
+    },
+    {
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "summary": "",
+      "published": "2026-11-02T15:26:43+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Такі гіганти, як Nvidia, Costco та Nike, приєдналися до спротиву планам запусків токенізованих акцій платформами OKX та ICE. Компанії висловлюють занепокоєння щодо правового регулювання та безпеки використання їхніх активів у цифровому форматі. Це ставить під сумнів легітимність таких криптопродуктів.",
+      "ai_title": "Глобальні бренди виступили проти токенізованих акцій від OKX та ICE",
+      "video_keywords": "corporate boardroom, business meeting, executives talking, office building exterior"
+    },
+    {
+      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+      "link": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Animoca Brands clears final hurdle for Abu Dhabi fund management\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png\" /></p><p>The former mobile games company is building out its fund management business in Abu Dhabi as it targets i",
+      "published": "2026-11-02T18:00:16+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Колишній розробник мобільних ігор успішно пройшов останній етапі регуляторних перевірок у столиці ОАЕ. Тепер компанія зможе повноцінно розгорнути свій бізнес з управління фондами в Абу-Дабі. Це відкриває нові можливості для інвестицій у регіоні та зміцнює позиції криптоіндустрії на Близькому Сході.",
+      "ai_title": "Animoca Brands отримала дозвіл на управління фондами в Абу-Дабі",
+      "video_keywords": "modern skyscrapers abu dhabi, luxury office interior, business handshake, digital presentation screen"
     }
   ]
 }
