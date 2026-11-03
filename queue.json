@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "summary": "<p>Article URL: <a href=\"https://ryanmadden.net/gpt-56-beats-factorio/\">https://ryanmadden.net/gpt-56-beats-factorio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50318871\">https://news.ycombinator.com/item?id=50318871</a></p>\n<p>Points: 100</p>\n<p># Comments: 100</p>",
-      "published": "2026-10-31T18:50:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова версія штучного інтелекту успішно пройшла випробування та змогла здобути перемогу в грі Factorio у мирному режимі. Це демонструє значний прогрес у здатності штучного інтелекту планувати складні стратегії та керувати ресурсами в реальному часі.",
-      "ai_title": "Штучний інтелект GPT-5.6 Sol навчився грати у Factorio",
-      "video_keywords": "computer gaming, AI screen, strategy game, typing on keyboard"
-    },
-    {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "summary": "<p>Article URL: <a href=\"https://twitter.com/jiahaoshao1/status/2116475922190922088\">https://twitter.com/jiahaoshao1/status/2116475922190922088</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319358\">https://news.ycombinator.com/item?id=50319358</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-      "published": "2026-10-31T19:39:19+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Anthropic почала активно блокувати акаунти користувачів, які намагаються використовувати їхні сервіси для створення та навчання більших штучних моделей. Такі заходи спрямовані на захист авторських прав та запобігання несанкціонованому копіюванню технологій.",
-      "ai_title": "Anthropic блокує користувачів через спроби навчання великих моделей",
-      "video_keywords": "computer error screen, internet security, modern office, stressed programmer"
-    },
-    {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "summary": "<p>Article URL: <a href=\"https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf\">https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319143\">https://news.ycombinator.com/item?id=50319143</a></p>\n<p>Points: 108</p>\n<p># Comments: 54</p>",
-      "published": "2026-10-31T19:16:30+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники безпеки повідомили про нову критичну вразливість типу Use-After-Free в протоколі IPv4 TCP для Linux. Проблема має найвищий бал за шкалою CVSS, що вимагає негайного оновлення систем для запобігання потенційним атакам.",
-      "ai_title": "Виявлено критичну вразливість у протоколі TCP з високим рівнем небезпеки",
-      "video_keywords": "cyber security, hacker typing, glowing code, server room"
-    },
-    {
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less [&#8230;]",
-      "published": "2026-10-31T18:40:32+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після рекордного зламу, в результаті якого з платформи викрали понад шість мільярдів доларів, керівництво Binance заявило про повернення більшої частини коштів. Компанія планує самостійно покрити решту збитків, аби захистити інтереси користувачів.",
-      "ai_title": "Binance обіцяє повністю відшкодувати мільярди доларів після масштабного хакерського зламу",
-      "video_keywords": "cryptocurrency, digital coins, financial chart, hacker attack"
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "summary": "<p>Article URL: <a href=\"https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320995\">https://news.ycombinator.com/item?id=50320995</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
-      "published": "2026-10-31T22:46:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нова розробка Memdoor продемонструвала, що об'єднання кількох моделей Qwen здатне ефективно вирішувати найскладніші завдання з написання та аналізу коду. Такий підхід відкриває нові можливості для створення автономних програмних агентів.",
-      "ai_title": "Команда ШІ-моделей перевершила складні бенчмарки з програмування",
-      "video_keywords": "coding screen, programming code, futuristic computer, artificial intelligence"
-    },
-    {
-      "title": "Get in the spirit with these horrors from YouTube",
-      "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or [&#8230;]",
-      "published": "2026-10-31T21:06:58+00:00",
-      "source": "The Verge",
-      "ai_summary": "Журналісти The Verge підготували колекцію найбільш тривожних, сюрреалістичних та химерних роликів з відеохостингу. Добірка охоплює все: від авторського артхаусного жаху до моторошної космологічної фантастики.",
-      "ai_title": "Добірка моторошних та дивних відео з YouTube для геловіну",
-      "video_keywords": "horror movie, dark room, glowing screen, creepy video"
-    },
-    {
       "title": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
       "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
       "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization\">https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</a></p>\n<p>Comments URL: <a href=\"ht",
@@ -219,19 +159,59 @@
       "ai_summary": "Група медіакомпаній на чолі з The New York Times звинувачує розробників браузера Brave у незаконному парсингу контенту для навчання штучного інтелекту. Також у позові йдеться про те, що браузер дозволяє користувачам обходити платні пейволи видань.",
       "ai_title": "The New York Times подала до суду на браузер Brave за збір даних для ШІ",
       "video_keywords": "courtroom, lawsuit, person browsing internet, digital security"
+    },
+    {
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html\">https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50346153\">https:/",
+      "published": "2026-11-03T00:08:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ситуація навколо Intel стрімко погіршується через загальну кризу на ринку напівпровідників, що охопила індустрію. Падіння акцій компанії стає частиною масштабного розпродажу технологічних активів на трильйони доларів.",
+      "ai_title": "Обвал акцій Intel поглиблюється на тлі масштабної кризи на ринку чіпів",
+      "video_keywords": "stock market crash, trading floor, computer screen, red charts"
+    },
+    {
+      "title": "WorkOS reports security breach",
+      "link": "https://news.ycombinator.com/item?id=50345712",
+      "summary": "<p>It's not on their website or Trust center yet, but we received the following breach notification from WorkOS:<p>We are writing to notify you of a data security incident that we detected on October 30, 2026 and are continuing to investigate. We value your trust and want to keep you informed while our investigation continues.<p>What Happened<p>On October 30, 2026, at 16:39 UTC, WorkOS detected an",
+      "published": "2026-11-02T23:30:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Сервіс WorkOS зафіксував інцидент безпеки та почав розслідування можливого несанкціонованого доступу. Клієнти вже почали отримувати офіційні сповіщення про порушення безпеки даних.",
+      "ai_title": "Компанія WorkOS повідомила про витік даних",
+      "video_keywords": "cyber security, hacker typing, warning screen, data breach"
+    },
+    {
+      "title": "Anthropic's growth just flattened",
+      "link": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "summary": "<p>Article URL: <a href=\"https://www.regenerator1.com/p/anthropics-growth-just-flattened\">https://www.regenerator1.com/p/anthropics-growth-just-flattened</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50344958\">https://news.ycombinator.com/item?id=50344958</a></p>\n<p>Points: 141</p>\n<p># Comments: 173</p>",
+      "published": "2026-11-02T22:33:20+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітики фіксують зупинку стрімкого зростання розробника штучного інтелекту Anthropic. Це може свідчити про зміну ринкових тенденцій та посилення конкуренції у сфері генеративного ШІ.",
+      "ai_title": "Темпи зростання компанії Anthropic різко сповільнилися",
+      "video_keywords": "business graphs, falling chart, office meeting, analytics dashboard"
+    },
+    {
+      "title": "Apple reports fourth quarter results",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/\">https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50344670\">https://news.ycombinator.com/item?id=50344670</a></p>\n<p>Points: 74</p>\n<p># Comments: 76</p>",
+      "published": "2026-11-02T22:13:42+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Apple поділилася офіційними результатами своєї діяльності за останній квартал року. Звіт демонструє поточні фінансові показники техногіганта та стан його ключових ринків.",
+      "ai_title": "Apple опублікувала фінансовий звіт за четвертий квартал",
+      "video_keywords": "modern office, business presentation, person using laptop, corporate building"
+    },
+    {
+      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this &#8203;point, we're not able to predict when supply and demand will be in [&#8230;]",
+      "published": "2026-11-02T22:56:11+00:00",
+      "source": "The Verge",
+      "ai_summary": "Керівництво Apple визнало наявність серйозних проблем із постачанням нових смартфонів iPhone Duo. Компанія наразі не береться прогнозувати, коли дефіцит пристроїв на ринку завершиться.",
+      "ai_title": "Apple не може спрогнозувати, коли задовольнить попит на нові iPhone Duo",
+      "video_keywords": "smartphone unboxing, retail store, customer buying phone, hands holding device"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "published": "2026-10-31T21:17:03+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Суддя дозволив продовжити розгляд позову NAACP проти компанії Ілона Маска. Організація звинувачує xAI у порушенні закону про чисте повітря через роботу дата-центру.",
-      "ai_title": "Суд дозволив позов проти дата-центру xAI через забруднення повітря",
-      "video_keywords": "industrial factory, smoke stacks, pollution, courtroom judge"
-    },
     {
       "title": "Binance resumes withdrawals following $6.3 billion breach",
       "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
@@ -301,19 +281,49 @@
       "ai_summary": "Компанія вийшла з тіні з амбітним проєктом: створенням світової моделі штучного інтелекту. Технологія здатна прогнозувати дії людини навіть у абсолютно нових та непередбачуваних ситуаціях.",
       "ai_title": "Стартап 42AI залучив $62,5 млн для створення ШІ-моделі, здатної передбачати поведінку людей",
       "video_keywords": "futuristic data visualization, glowing neural network, computer screen, artificial intelligence abstract"
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator Garry Tan has, in the past, jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, set to publish on Tuesday, Tan put a price tag on his passion.",
+      "published": "2026-11-03T00:35:52+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Гаррі Тан настільки захоплений роботою з автономними агентами штучного інтелекту, що його витрати на цифрові токени сягають рекордних сум. Він зізнається, що ШІ повністю змінив його підхід до роботи та щоденні звички.",
+      "ai_title": "Голова Y Combinator витрачає до $200 000 на рік лише на токени для штучного інтелекту",
+      "video_keywords": "person working laptop, server room, artificial intelligence, office desk night"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "published": "2026-11-02T23:13:53+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Однорічний стартап досяг оцінки в $300 мільйонів завдяки своїй технології. Вона дозволяє експертам без технічної підготовки легко тренувати власні моделі штучного інтелекту.",
+      "ai_title": "Стартап Trajectory залучив $45 мільйонів для створення ШІ без навичок програмування",
+      "video_keywords": "startup meeting, modern office, team collaboration, business presentation"
+    },
+    {
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "published": "2026-11-02T23:04:57+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Apple стикнулася зі стрімким зростанням цін на карти пам'яті та комплектуючі. Через це вартість складських запасів компанії досягла $14,5 мільярда, що ставить під загрозу стабільність цін на майбутні пристрої.",
+      "ai_title": "Товарні запаси Apple зросли на 154% через подорожчання мікрочипів",
+      "video_keywords": "warehouse storage, electronics factory, computer chips, microchip manufacturing"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "published": "2026-11-02T22:14:50+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Розробники заявляють про близькість появи систем, які зможуть самостійно покращувати власне навчання. Це може призвести до неконтрольованого та надзвичайно швидкого стрибка в можливостях штучного інтелекту.",
+      "ai_title": "Anthropic попередила про наближення ери самовідтворюваного штучного інтелекту",
+      "video_keywords": "futuristic technology, abstract data streams, server racks flashing, digital code matrix"
     }
   ],
   "Крипта": [
-    {
-      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-      "summary": "",
-      "published": "2026-11-01T10:35:42+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалютна біржа Binance поступово відновлює операції з виведення цифрових активів, почавши з біткоїна. Це сталося після серйозного інциденту безпеки, в результаті якого система зазнала збитків на суму 6,3 мільярда доларів. Команда платформи працює над стабілізацією роботи та посиленням захисту користувацьких коштів.",
-      "ai_title": "Binance частково відновлює виведення криптовалюти після масштабного збою",
-      "video_keywords": "smartphone screen, cryptocurrency trading app, digital coins, financial chart"
-    },
     {
       "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
       "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
@@ -423,6 +433,26 @@
       "ai_summary": "Колишній розробник мобільних ігор успішно пройшов останній етапі регуляторних перевірок у столиці ОАЕ. Тепер компанія зможе повноцінно розгорнути свій бізнес з управління фондами в Абу-Дабі. Це відкриває нові можливості для інвестицій у регіоні та зміцнює позиції криптоіндустрії на Близькому Сході.",
       "ai_title": "Animoca Brands отримала дозвіл на управління фондами в Абу-Дабі",
       "video_keywords": "modern skyscrapers abu dhabi, luxury office interior, business handshake, digital presentation screen"
+    },
+    {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korea denies role in $6.3B Binance hack, points finger at US\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F7B7K3T1C90EANET9800H1/north-korea.jpg\" /></p><p>Pyongyang has pushed back against the FBI’s attribution of the Binance attack, with Kim Yo Jong calling the US allegat",
+      "published": "2026-11-02T23:07:07+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Північна Корея офіційно відкинула звинувачення ФБР у причетності до кібератаки на біржу Binance на суму 6,3 мільярда доларів. Пхеньян назвав ці заяви безпідставними та звинуватим у відповідь США. Цей інцидент знову загострив дискусії щодо безпеки централізованих криптоплатформ.",
+      "ai_title": "Північна Корея заперечує причетність до масштабного хакерського зльому Binance",
+      "video_keywords": "hacker, cyber security, computer screen, digital map"
+    },
+    {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New Jersey drops Coinbase staking order ahead of crypto’s midterm test\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F487G3J8FRTKB5QXJC6MD5/larger-brian-armstrong.png\" /></p><p>New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to re",
+      "published": "2026-11-02T22:22:30+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Влада штату Нью-Джерсі вирішила зняти заборону на послуги стейкінгу та скасувати штраф у розмірі 5 мільйонів доларів проти криптобіржі Coinbase. Це рішення відкриває шлях для повноцінного відновлення сервісів компанії в регіоні на тлі змін у регуляторному полі США.",
+      "ai_title": "Нью-Джерсі скасував заборону на стейкінг для Coinbase",
+      "video_keywords": "courtroom, legal document, signing contract, business handshake"
     }
   ]
 }
