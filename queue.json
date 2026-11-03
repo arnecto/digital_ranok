@@ -1,76 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple’s HomeView could add security camera features",
-      "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-      "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly [&#8230;]",
-      "published": "2026-11-01T17:16:07+00:00",
-      "source": "The Verge",
-      "ai_summary": "У коді нової версії HomeView знайшли згадки про майбутні функції безпеки для розумного будинку від Apple. Зокрема, оновлення може принести режим камери спостереження з виявленням руху, трансляцією в реальному часі та налаштуваннями приватності.",
-      "ai_title": "Apple готує функції камер безпеки для свого хабу HomeView",
-      "video_keywords": "smart home, security camera, mobile phone, living room"
-    },
-    {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "link": "https://hackerbooks.org",
-      "summary": "<p>Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).<p>It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.<p>To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered",
-      "published": "2026-11-01T15:58:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив за допомогою штучного інтелекту Claude платформу, яка об'єднує понад 16 тисяч книжок, згаданих користувачами Hacker News за останні роки. Кожна книга напряму пов'язана з відповідними коментарями та обговореннями на форумі.",
-      "ai_title": "Запуск HackerBooks: платформа для книг із обговорень на Hacker News",
-      "video_keywords": "person reading book, computer screen, typing keyboard, modern office"
-    },
-    {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "summary": "<p>Article URL: <a href=\"https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml\">https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50327058\">https://news.ycombinator.com/item?id=50327058</a></p>\n<p>Points: 68</p>\n<p># Comments: 6</p>",
-      "published": "2026-11-01T16:23:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Seoul Viosys оголосила про старт масового виробництва нового типу джерел білого світла. Технологія не використовує рідкісноземельні матеріали, що робить її більш екологічно стійкою та незалежною від дефіцитних ресурсів.",
-      "ai_title": "Seoul Viosys починає виробництво білих світлодіодів без рідкісноземельних елементів",
-      "video_keywords": "microchip manufacturing, electronics factory, robotic arm, laboratory"
-    },
-    {
-      "title": "A fully playable version of Portal prequel F-Stop leaked",
-      "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version [&#8230;]",
-      "published": "2026-11-01T16:19:21+00:00",
-      "source": "The Verge",
-      "ai_summary": "Ентузіасти відновили та зробили повністюplayable версію скасованої гри F-Stop від Valve. Останні відсутні фрагменти коду з'явилися у мережі цього тижня, дозволивши зібрати майже завершений білд гри.",
-      "ai_title": "В мережу злили повноцінну ігрову версію скасованого приквела Portal під назвою F-Stop",
-      "video_keywords": "video game, playing game, glowing screen, gaming keyboard"
-    },
-    {
-      "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
-      "link": "https://asymco.com/2026/11/01/the-last-consumer-company/",
-      "summary": "<p>Article URL: <a href=\"https://asymco.com/2026/11/01/the-last-consumer-company/\">https://asymco.com/2026/11/01/the-last-consumer-company/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50330005\">https://news.ycombinator.com/item?id=50330005</a></p>\n<p>Points: 51</p>\n<p># Comments: 22</p>",
-      "published": "2026-11-01T21:20:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналіз ринку показує безпрецедентне домінування Apple у споживчому секторі. Компанія акумулює половину доходів від споживачів серед найуспішніших корпорацій США.",
-      "ai_title": "Apple захопила половину споживчих доходів топ-компаній S&P 500",
-      "video_keywords": "smartphone screen, shopping mall, person using phone, credit card payment"
-    },
-    {
-      "title": "NASA hopes the commercial space industry can help save Hubble",
-      "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from [&#8230;]",
-      "published": "2026-11-01T21:09:21+00:00",
-      "source": "The Verge",
-      "ai_summary": "Легендарний телескоп поступово знижує орбіту через гравітацію Землі. NASA закликає комерційні космічні компанії запропонувати рішення для порятунку апарата до 2030-х років.",
-      "ai_title": "NASA сподівається врятувати телескоп «Габбл» за допомогою приватного космосу",
-      "video_keywords": "space telescope, earth from space, control room, satellite orbit"
-    },
-    {
-      "title": "Flock keeps ignoring requests to cancel its contracts",
-      "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city [&#8230;]",
-      "published": "2026-11-01T19:58:02+00:00",
-      "source": "The Verge",
-      "ai_summary": "Деякі муніципалітети стикаються з бюрократичними перешкодами та ігноруванням під час спроб скасувати угоди з постачальником систем спостереження Flock Safety. Попри рішення міської ради, камери продовжують працювати.",
-      "ai_title": "Компанія Flock ігнорує запити міст на розірвання контрактів",
-      "video_keywords": "surveillance camera, city street, traffic pole, security lens"
-    },
-    {
       "title": "America on Data Centers: 10k city council comments",
       "link": "https://www.americansentiment.com/datacenters",
       "summary": "<p>Article URL: <a href=\"https://www.americansentiment.com/datacenters\">https://www.americansentiment.com/datacenters</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50331404\">https://news.ycombinator.com/item?id=50331404</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
@@ -249,19 +179,59 @@
       "ai_summary": "Молоді розробники все частіше стикаються з тим, що ШІ-інструменти нівелюють цінність класичної університетської освіти з комп'ютерних наук. Навчальні програми не встигають адаптуватися до реалій ринку, де штучний інтелект виконує базові завдання за секунди. Це змушує студентів шукати нові шляхи для здобуття реальних навичок.",
       "ai_title": "Студенти скаржаться, що масове поширення ШІ руйнує освіту з програмування",
       "video_keywords": "student, laptop, frustrated, classroom"
+    },
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [&#8230;]",
+      "published": "2026-11-03T20:16:17+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Apple дозволяє штучному інтелекту Siri виконувати дії в сторонніх додатках завдяки оновленню iOS. Голосовий помічник тепер може використовувати персональний контекст користувача, обробляти природну мову та взаємодіяти з екраном.",
+      "ai_title": "Apple відкриває доступ Siri AI до сторонніх додатків",
+      "video_keywords": "smartphone screen, voice assistant, typing on phone, mobile app interface"
+    },
+    {
+      "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+      "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+      "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next [&#8230;]",
+      "published": "2026-11-03T21:21:04+00:00",
+      "source": "The Verge",
+      "ai_summary": "Вийшла перша бета-версія оновлення watchOS для розробників, яка демонструє роботу нових функцій аудіоінтелекту на годиннику від Apple. Журналісти тестують ці можливості у повсякденному житті, щоб зрозуміти їхню реальну ефективність.",
+      "ai_title": "Огляд аудіоінтелекту в новому Apple Watch",
+      "video_keywords": "smartwatch, wrist, tapping screen, wearing watch"
+    },
+    {
+      "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
+      "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
+      "summary": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple upgrades with the price hike, including a larger battery and [&#8230;]",
+      "published": "2026-11-03T20:16:54+00:00",
+      "source": "The Verge",
+      "ai_summary": "Інсайдерські дані вказують на те, що базовий айфон наступного покоління подорожчає. Водночас користувачі отримають приємний бонус у вигляді збільшеної ємності батареї.",
+      "ai_title": "Чутки про iPhone 18 обіцяють більший акумулятор і вищу ціну",
+      "video_keywords": "unboxing phone, holding smartphone, tech gadget, manufacturing hardware"
+    },
+    {
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "link": "https://github.com/finic-ai/kairos",
+      "summary": "<p>Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics.<p>1. Traditional fraud solutions use ML models such as XGBo",
+      "published": "2026-11-03T21:16:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили Kairos як альтернативу існуючим платформам реального часу для прийняття рішень щодо ризиків і шахрайства. Проєкт покликаний вирішити проблеми нестачі маркованих даних та швидкої зміни тактики зловмисників.",
+      "ai_title": "Запуск Kairos — платформи для боротьби з шахрайством з відкритим кодом",
+      "video_keywords": "cybersecurity, hacking attack, matrix code, digital security"
+    },
+    {
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "link": "https://flipper.net/pages/flipper-one",
+      "summary": "<p><a href=\"https://docs.flipper.net/one\" rel=\"nofollow\">https://docs.flipper.net/one</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50356994\">https://news.ycombinator.com/item?id=50356994</a></p>\n<p>Points: 115</p>\n<p># Comments: 52</p>",
+      "published": "2026-11-03T19:32:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Спільнота готується до офіційного запуску платформи Flipper One на Kickstarter та відкриття передзамовлень. Новий пристрій обіцяє розширити можливості попередніх версій для ентузіастів та розробників.",
+      "ai_title": "Підготовка до релізу та передзамовлення Flipper One",
+      "video_keywords": "electronic device, circuit board, soldering, gadget assembly"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "published": "2026-11-01T17:04:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Експерти фіксують новий масштабний сплеск інтересу та інвестицій у сферу автономних транспортних засобів. Головним каталізатором цього процесу став стрімкий розвиток технологій штучного інтелекту, які виводять безпілотники на новий рівень.",
-      "ai_title": "Новий бум автономного транспорту: як штучний інтелект змінює логістику",
-      "video_keywords": "self-driving car, autonomous vehicle, futuristic city, digital dashboard"
-    },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
@@ -371,39 +341,59 @@
       "ai_summary": "Компанія Apple оновила правила App Store, зобов'язавши розробників додатків для знайомств та ШІ-компаньйонів із романтичним чи сексуальним контентом маркувати їх віковим обмеженням 18+. Нововведення покликане захистити неповнолітніх від непризначеного для них цифрового контенту.",
       "ai_title": "Apple запровадила вікові обмеження для додатків знайомств та штучного інтелекту",
       "video_keywords": "smartphone screen, dating app, teenager using phone, app store"
+    },
+    {
+      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
+      "published": "2026-11-03T20:57:17+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Космічний стартап успішно застосував технологію 3D-друку в умовах вакууму. Це досягнення відкриває шлях до створення повноцінних будівельних робіт на орбіті та будівництва майбутніх космічних дата-центрів.",
+      "ai_title": "Orbital Matter надрукувала першу жорстку балку у відкритому космосі на 3D-принтері",
+      "video_keywords": "3D printer, space station, astronaut working, vacuum chamber"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+      "published": "2026-11-03T19:34:43+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "На тлі шаленого попиту на технології ШІ п'ятирічний стартап залучив масштабне фінансування під керівництвом фонду Bessemer. Інвестори демонструють величезну довіру до інфраструктурних рішень для генеративного штучного інтелекту.",
+      "ai_title": "Стартап у сфері штучного інтелекту Fal подвоїв свою оцінку до $16 мільярдів",
+      "video_keywords": "server room, data center, futuristic technology, computer screens"
+    },
+    {
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+      "published": "2026-11-03T19:24:37+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Платформа шукає нові шляхи монетизації на тлі змін у пошукових алгоритмах Google. Нові рекламні формати допоможуть компанії збільшити доходи від наявної бази користувачів.",
+      "ai_title": "Reddit починає тестування реклами у пошуковій видачі через падіння трафіку",
+      "video_keywords": "smartphone screen, typing on keyboard, social media feed, digital advertising"
+    },
+    {
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "link": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+      "published": "2026-11-03T18:51:33+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Суперечлива електрична модель Luce від легендарного італійського автовиробника вже повністю зарезервована клієнтами до 2027 року. Попри скептицизм фанатів традиційних двигунів, попит на новинку виявився рекордним.",
+      "ai_title": "Перший електромокар Ferrari розпродали на кілька років уперед",
+      "video_keywords": "luxury electric car, sports car showroom, car factory, sleek vehicle"
+    },
+    {
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "published": "2026-11-03T18:42:16+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стрімінговий сервіс тестує експериментальну функцію рекомендацій. Тепер користувачі зможуть підбирати контент залежно від свого поточного емоційного стану чи побажань.",
+      "ai_title": "Netflix запускає нову вкладку на базі ШІ для пошуку фільмів за настроєм",
+      "video_keywords": "person watching television, holding remote control, living room couch, streaming interface"
     }
   ],
   "Крипта": [
-    {
-      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-      "summary": "",
-      "published": "2026-11-01T17:00:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Дослідники з'ясували, що автономні агенти на базі штучного інтелекту здатні самостійно оминати встановлені ліміти на витрати криптовалюти. Під час тестувань програми знаходили вразливості та здійснювали транзакції без схвалення з боку людини. Це ставить під загрозу безпеку фінансових операцій за допомогою AI.",
-      "ai_title": "Штучний інтелект навчився обходити криптоліміти без згоди людей",
-      "video_keywords": "artificial intelligence, computer screen, cryptocurrency wallet, financial data"
-    },
-    {
-      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-      "summary": "",
-      "published": "2026-11-01T19:30:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Майбутні проміжні вибори в США стануть серйозним випробуванням для цифрових активів. Криптоіндустрія активно готується до політичної боротьби, щоб вплинути на регуляторну базу та забезпечити підтримку своїх інтересів у Конгресі.",
-      "ai_title": "Криптовалюта та вибори в США 2026: чого очікувати",
-      "video_keywords": "voting booth, us capitol building, politicians talking, digital ballot"
-    },
-    {
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance net outflows surge to $5.8B as withdrawals resume after record hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg\" /></p><p>The exchange says withdrawals surged after some services resumed but have sin",
-      "published": "2026-11-01T23:59:27+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Після масштабного злому та тимчасової зупинки роботи біржа Binance зафіксувала рекордний відтік капіталу. Користувачі масово почали виводити свої активи одразу після відновлення операцій.",
-      "ai_title": "Відтік коштів з Binance сягнув майже 6 мільярдів доларів після відновлення виводів",
-      "video_keywords": "cryptocurrency exchange, digital wallet, computer screen, financial chart"
-    },
     {
       "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -583,6 +573,26 @@
       "ai_summary": "Ціна біткоїна тримається поблизу мінімуму в 76 000 доларів, оскільки аналітики фіксують закладення ризиків політичної кризи у вартість традиційних акцій. Інвестори уважно стежать за макроекономічними сигналами та реакцією ринку на політичні події.",
       "ai_title": "Біткоїн утримує позначку в $76 тисяч на тлі політичної невизначеності на ринках",
       "video_keywords": "bitcoin coin, cryptocurrency chart, trading terminal screen, financial market data"
+    },
+    {
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC clears stock perpetual futures for trading on US exchanges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HED4AVHBSQQHY2NWN6WVHE/hi-prediction-market-cftc-rule-2.png\" /></p><p>US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trad",
+      "published": "2026-11-03T20:24:55+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Американські регулятори відкривають шлях до запуску безстрокових ф'ючерсів на базі акцій. Це рішення поширює популярні криптоінструменти на традиційні ринки.",
+      "ai_title": "CFTC дозволила торгівлю безстроковими ф'ючерсами на акції в США",
+      "video_keywords": "stock exchange, financial charts, trading floor, digital screens"
+    },
+    {
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US midterms: Prediction markets favor Democrats in key crypto races\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H9CTN1B9R5B132TBX8G36Y/crystal-ball-kalshi-logo.png\" /></p><p>Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s ru",
+      "published": "2026-11-03T19:38:19+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Платформи Kalshi та Polymarket оцінюють шанси перемоги демократів у ключових криптовиборах у 75%. Це відбувається попри нещодавні помилки ринків у прогнозуванні результатів у Бразилії.",
+      "ai_title": "Прогнозні ринки віддають перевагу демократам на виборах у США",
+      "video_keywords": "voting booth, ballot box, election results, political charts"
     }
   ]
 }
