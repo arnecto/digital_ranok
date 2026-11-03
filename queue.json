@@ -41,16 +41,6 @@
       "video_keywords": "video game, playing game, glowing screen, gaming keyboard"
     },
     {
-      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
-      "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
-      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673\">https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326609\">https://news.",
-      "published": "2026-11-01T15:33:49+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Openreach нагадує про невідворотність переходу на цифрові мережі зв'язку. Старі аналогові телефони повністю припинять роботу в країні вже за 100 днів без жодних додаткових відтермінувань.",
-      "ai_title": "У Великій Британії остаточно відключать аналогові стаціонарні телефони через 100 днів",
-      "video_keywords": "old telephone, vintage phone, office desk, calling device"
-    },
-    {
       "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
       "link": "https://asymco.com/2026/11/01/the-last-consumer-company/",
       "summary": "<p>Article URL: <a href=\"https://asymco.com/2026/11/01/the-last-consumer-company/\">https://asymco.com/2026/11/01/the-last-consumer-company/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50330005\">https://news.ycombinator.com/item?id=50330005</a></p>\n<p>Points: 51</p>\n<p># Comments: 22</p>",
@@ -209,19 +199,59 @@
       "ai_summary": "Компанія Cloudflare повідомила про виникнення кількох активних інцидентів у своїй мережі. Це може призводити до проблем із доступністю вебсайтів та сервісів, які користуються послугами провайдера. Технічні фахівці вже працюють над усуненням неполадок.",
       "ai_title": "Cloudflare зафіксувала серію масштабних технічних збоїв",
       "video_keywords": "server room, flashing lights, data center, computer screen"
+    },
+    {
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "link": "https://news.ycombinator.com/item?id=50352757",
+      "summary": "<p>My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.<p>You can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve ",
+      "published": "2026-11-03T14:53:41+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Користувачі помітили, що налаштування конфіденційності в Codex були змінені без їхньої відомості, дозволивши знову збирати дані для тренування ШІ. Це викликало занепокоєння у компаній, які намагаються захистити свої інтелектуальні права від витоку. Фахівці радять перевірити параметри безпеки у своєму профілі.",
+      "ai_title": "OpenAI без попередження вмикає навчання моделей на чатах Codex",
+      "video_keywords": "programmer, coding, computer screen, settings menu"
+    },
+    {
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing [&#8230;]",
+      "published": "2026-11-03T15:00:44+00:00",
+      "source": "The Verge",
+      "ai_summary": "Через негативне ставлення суспільства до галасливих та ресурсомістких дата-центрів компанія вирішила провести ребрендинг. Нова назва покликана знизити рівень критики з боку місцевих громад та політиків. Це чергова спроба технологічних гігантів покращити публічний імідж своєї інфраструктури.",
+      "ai_title": "OpenAI намагається перейменувати дата-центри на «обчислювальні кампуси»",
+      "video_keywords": "server racks, data center, blinking lights, large building"
+    },
+    {
+      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a [&#8230;]",
+      "published": "2026-11-03T15:24:51+00:00",
+      "source": "The Verge",
+      "ai_summary": "Останній фінансовий звіт Apple показав рекордні прибутки завдяки успішній стратегії впровадження ШІ без надмірних витрат на власну інфраструктуру. Компанія продовжує демонструвати стійке зростання продажів iPhone та Mac. Це доводить ефективність їхнього підходу до ринку новітніх технологій.",
+      "ai_title": "Apple робить ставку на власний та чужий штучний інтелект",
+      "video_keywords": "smartphone, financial chart, modern office, businessman"
+    },
+    {
+      "title": "The AI Bubble Monitor",
+      "link": "https://cepr.net/publications/ai-bubble-monitor/",
+      "summary": "<p>Article URL: <a href=\"https://cepr.net/publications/ai-bubble-monitor/\">https://cepr.net/publications/ai-bubble-monitor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352727\">https://news.ycombinator.com/item?id=50352727</a></p>\n<p>Points: 29</p>\n<p># Comments: 15</p>",
+      "published": "2026-11-03T14:51:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий монітор ринку ШІ аналізує поточні інвестиції та реальну віддачу від технологій штучного інтелекту. Експерти попереджають про можливі фінансові ризики через надмірний ажіотаж навколо генеративних моделей. Це ставить під сумнів стабільність нинішнього технологічного буму.",
+      "ai_title": "Економісти оцінюють ризики «бульбашки» штучного інтелекту",
+      "video_keywords": "stock market chart, financial graphs, calculator, office desk"
+    },
+    {
+      "title": "AI is destroying my CS degree",
+      "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "summary": "<p>Article URL: <a href=\"https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/\">https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353300\">https://news.ycombinator.com/item?id=50353300</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+      "published": "2026-11-03T15:35:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Молоді розробники все частіше стикаються з тим, що ШІ-інструменти нівелюють цінність класичної університетської освіти з комп'ютерних наук. Навчальні програми не встигають адаптуватися до реалій ринку, де штучний інтелект виконує базові завдання за секунди. Це змушує студентів шукати нові шляхи для здобуття реальних навичок.",
+      "ai_title": "Студенти скаржаться, що масове поширення ШІ руйнує освіту з програмування",
+      "video_keywords": "student, laptop, frustrated, classroom"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
-      "published": "2026-11-01T16:20:10+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Криптовалютна біржа Binance відновила стандартні операції після того, як зазнала кібератаки на мільярди доларів. Компанія заявила, що вже змогла покрити 95% вкрадених активів завдяки власним резервам та оперативному реагуванню безпеки.",
-      "ai_title": "Binance відновлює виведення коштів після масштабного злому на $6,3 мільярда",
-      "video_keywords": "cryptocurrency exchange, computer screen, trading graphs, hacker code"
-    },
     {
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
       "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
@@ -331,6 +361,16 @@
       "ai_summary": "Компанія Apple запустила тестування нових можливостей штучного інтелекту Audio Intelligence для смарт-годинників. Ця функція допомагає користувачам легко згадувати деталі попередніх розмов та автоматично створювати нотатки на їх основі.",
       "ai_title": "Apple випустила бета-версію AI-функцій для запису та аналізу розмов у Apple Watch",
       "video_keywords": "smartwatch, person talking, digital screen, wearable technology"
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "published": "2026-11-03T15:38:27+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Apple оновила правила App Store, зобов'язавши розробників додатків для знайомств та ШІ-компаньйонів із романтичним чи сексуальним контентом маркувати їх віковим обмеженням 18+. Нововведення покликане захистити неповнолітніх від непризначеного для них цифрового контенту.",
+      "ai_title": "Apple запровадила вікові обмеження для додатків знайомств та штучного інтелекту",
+      "video_keywords": "smartphone screen, dating app, teenager using phone, app store"
     }
   ],
   "Крипта": [
@@ -493,6 +533,56 @@
       "ai_summary": "Криптовалютна біржа Crypto.com оголосила про припинення роботи свого споживчого додатка в Гонконзі. Таке рішення ухвалено через зміни у місцевому законодавстві та регуляторних вимогах.",
       "ai_title": "Crypto.com закриває свій споживчий додаток у Гонконзі через нові правила",
       "video_keywords": "smartphone app, financial district, Hong Kong skyline, mobile phone screen"
+    },
+    {
+      "title": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
+      "link": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+      "summary": "",
+      "published": "2026-11-03T14:53:19+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Представники криптовалютної біржі Binance повідомили, що масштабний хакерський злам на суму 6,3 мільярда доларів був ініційований через підроблене запрошення на роботу. Зловмисники використали соціальну інженерію проти співробітника, щоб отримати доступ до систем безпеки платформи.",
+      "ai_title": "Хакерська атака на Binance на $6,3 мільярда почалася з фальшивої співбесіди",
+      "video_keywords": "hacker typing on laptop, computer screen code, cyber attack, office worker"
+    },
+    {
+      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.4 billion heist",
+      "link": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
+      "summary": "",
+      "published": "2026-11-03T14:22:09+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Засновник Binance CZ попередив криптовалютну індустрію про зростаючу загрозу нових хакерських атак, керованих штучним інтелектом. Це сталося невдовзі після історичного пограбування біржі на мільярди доларів, що виявило нові вразливості у сфері кібербезпеки.",
+      "ai_title": "CZ застерігає про нові кібератаки зі штучним інтелектом після масштабного зламу Binance",
+      "video_keywords": "artificial intelligence, futuristic cybersecurity, digital matrix screen, hacker silhouette"
+    },
+    {
+      "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+      "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+      "summary": "",
+      "published": "2026-11-03T15:02:13+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Американський регулятор CFTC дозволив запуск безстрокових ф'ючерсів на акції, фактично адаптувавши популярну модель торгівлі з крипторинку для традиційної Волл-стріт. Цей крок стирає межі між класичними фінансовими інструментами та криптовалютними деривативами.",
+      "ai_title": "CFTC схвалила безстрокові ф'ючерси на акції, перенісши криптомодель на Волл-стріт",
+      "video_keywords": "stock exchange trading floor, financial charts, wall street sign, stock market graphs"
+    },
+    {
+      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+      "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Moscow Exchange to launch Bitcoin, Ether and USDT trading in December \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GN6W7C4H29GR4MQT2Q1EN2/moscow-btc-eth-tether.png\" /></p><p>Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase li",
+      "published": "2026-11-03T13:15:47+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Московська біржа планує розпочати торгівлю провідними криптовалютами та стейблкоїнами вже з 1 грудня відповідно до нового законодавства РФ. Операції здійснюватимуться з певними лімітами на річні обсяги придбання для учасників ринку.",
+      "ai_title": "Московська біржа запускає торгівлю біткоїном, ефіром та USDT у грудні",
+      "video_keywords": "moscow city skyline, stock exchange building, financial district, modern skyscraper"
+    },
+    {
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GYWTMJRC5WVDCDG7QCTRRJ/article-covers-180463-us-cpi-lower-expected-rate-cuts-coming-1280x853-960x640.webp\" /></p><p>Bitcoin made modest gains at th",
+      "published": "2026-11-03T15:44:42+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Ціна біткоїна тримається поблизу мінімуму в 76 000 доларів, оскільки аналітики фіксують закладення ризиків політичної кризи у вартість традиційних акцій. Інвестори уважно стежать за макроекономічними сигналами та реакцією ринку на політичні події.",
+      "ai_title": "Біткоїн утримує позначку в $76 тисяч на тлі політичної невизначеності на ринках",
+      "video_keywords": "bitcoin coin, cryptocurrency chart, trading terminal screen, financial market data"
     }
   ]
 }
