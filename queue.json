@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
-      "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
-      "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization\">https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</a></p>\n<p>Comments URL: <a href=\"ht",
-      "published": "2026-11-01T10:28:22+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Генеральний директор OpenAI заявив, що використання великих об'ємів DRAM у звичайних персональних комп'ютерах є неефективним. На його думку, ці ресурси набагато краще слугуватимуть у хмарних дата-центрах для розвитку штучного інтелекту.",
-      "ai_title": "Сем Альтман вважає оперативну пам'ять важливішою для дата-центрів, ніж для ПК",
-      "video_keywords": "server racks, data center, computer hardware, microchip"
-    },
-    {
       "title": "Apple’s HomeView could add security camera features",
       "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
       "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly [&#8230;]",
@@ -209,6 +199,16 @@
       "ai_summary": "Керівництво Apple визнало наявність серйозних проблем із постачанням нових смартфонів iPhone Duo. Компанія наразі не береться прогнозувати, коли дефіцит пристроїв на ринку завершиться.",
       "ai_title": "Apple не може спрогнозувати, коли задовольнить попит на нові iPhone Duo",
       "video_keywords": "smartphone unboxing, retail store, customer buying phone, hands holding device"
+    },
+    {
+      "title": "Cloudflare experiencing multiple active incidents",
+      "link": "https://www.cloudflarestatus.com/",
+      "summary": "<p>Article URL: <a href=\"https://www.cloudflarestatus.com/\">https://www.cloudflarestatus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50348260\">https://news.ycombinator.com/item?id=50348260</a></p>\n<p>Points: 31</p>\n<p># Comments: 4</p>",
+      "published": "2026-11-03T04:57:27+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Cloudflare повідомила про виникнення кількох активних інцидентів у своїй мережі. Це може призводити до проблем із доступністю вебсайтів та сервісів, які користуються послугами провайдера. Технічні фахівці вже працюють над усуненням неполадок.",
+      "ai_title": "Cloudflare зафіксувала серію масштабних технічних збоїв",
+      "video_keywords": "server room, flashing lights, data center, computer screen"
     }
   ],
   "Бізнес / Стартапи": [
@@ -321,6 +321,16 @@
       "ai_summary": "Розробники заявляють про близькість появи систем, які зможуть самостійно покращувати власне навчання. Це може призвести до неконтрольованого та надзвичайно швидкого стрибка в можливостях штучного інтелекту.",
       "ai_title": "Anthropic попередила про наближення ери самовідтворюваного штучного інтелекту",
       "video_keywords": "futuristic technology, abstract data streams, server racks flashing, digital code matrix"
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "published": "2026-11-03T07:20:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Apple запустила тестування нових можливостей штучного інтелекту Audio Intelligence для смарт-годинників. Ця функція допомагає користувачам легко згадувати деталі попередніх розмов та автоматично створювати нотатки на їх основі.",
+      "ai_title": "Apple випустила бета-версію AI-функцій для запису та аналізу розмов у Apple Watch",
+      "video_keywords": "smartwatch, person talking, digital screen, wearable technology"
     }
   ],
   "Крипта": [
@@ -453,6 +463,36 @@
       "ai_summary": "Влада штату Нью-Джерсі вирішила зняти заборону на послуги стейкінгу та скасувати штраф у розмірі 5 мільйонів доларів проти криптобіржі Coinbase. Це рішення відкриває шлях для повноцінного відновлення сервісів компанії в регіоні на тлі змін у регуляторному полі США.",
       "ai_title": "Нью-Джерсі скасував заборону на стейкінг для Coinbase",
       "video_keywords": "courtroom, legal document, signing contract, business handshake"
+    },
+    {
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+      "summary": "",
+      "published": "2026-11-03T05:36:56+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналітичні дані показують, що біржа Binance використала приблизно половину активів свого фонду безпеки SAFU у біткоїнах. Загальна сума витрачених коштів становить близько 580 мільйонів доларів США.",
+      "ai_title": "Binance витратила половину свого резервного фонду SAFU у біткоїнах",
+      "video_keywords": "cryptocurrency exchange, digital wallet, computer screen, trading graphs"
+    },
+    {
+      "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+      "summary": "",
+      "published": "2026-11-03T05:25:12+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Керівна рада мережі Arbitrum здійснила транзакцію на 30 мільйонів доларів, які були пов'язані з минулим злом Binance. Переказ відбувся без використання приватного ключа хакера, що викликало чимало обговорень у спільноті.",
+      "ai_title": "Рада Arbitrum перемістила 30 мільйонів доларів хакерських коштів без ключа зловмисника",
+      "video_keywords": "blockchain network, code scrolling, hacker screen, digital security"
+    },
+    {
+      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+      "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto.com to withdraw Hong Kong consumer app citing regulatory changes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FWJCR3YC78YRVRCAXWNJWS/hong-kong-license.jpg\" /></p><p>Crypto.com will discontinue its consumer app services in Hong Kong in February next year.</p>",
+      "published": "2026-11-03T05:10:19+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютна біржа Crypto.com оголосила про припинення роботи свого споживчого додатка в Гонконзі. Таке рішення ухвалено через зміни у місцевому законодавстві та регуляторних вимогах.",
+      "ai_title": "Crypto.com закриває свій споживчий додаток у Гонконзі через нові правила",
+      "video_keywords": "smartphone app, financial district, Hong Kong skyline, mobile phone screen"
     }
   ]
 }
