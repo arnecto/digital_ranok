@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "America on Data Centers: 10k city council comments",
-      "link": "https://www.americansentiment.com/datacenters",
-      "summary": "<p>Article URL: <a href=\"https://www.americansentiment.com/datacenters\">https://www.americansentiment.com/datacenters</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50331404\">https://news.ycombinator.com/item?id=50331404</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
-      "published": "2026-11-02T00:17:33+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Аналіз десяти тисяч коментарів міських рад показує зростаючу занепокоєність жителів США щодо будівництва масивних дата-центрів. Громадяни обговорюють вплив інфраструктури штучного інтелекту на місцеві електромережі та екологію.",
-      "ai_title": "Реакція американців на дата-центри ШІ: тисячі коментарів",
-      "video_keywords": "server racks, data center, city map, public meeting"
-    },
-    {
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-      "summary": "<p>Article URL: <a href=\"https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/\">https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50334038\">https://news.ycombinator.com/item?id=50334038</a></p>\n<p>Points: 3</p>\n<p",
-      "published": "2026-11-02T07:27:28+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Пекін офіційно оголосив про нові правила експортного контролю у сфері передового штучного інтелекту згідно з розпорядженням Mofcom №48. Ці заходи спрямовані на регулювання глобального поширення китайських технологій та зміцнення національної безпеки.",
-      "ai_title": "Китай запроваджує перші експортні обмеження на штучний інтелект",
-      "video_keywords": "server room, data center, digital map, globe, security system"
-    },
-    {
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "link": "https://subvocal.company/",
       "summary": "<p>Hi HN, we're Aarush and Arnav from The Subvocal Company (YC F26). We’re building smart glasses that let you talk to your computer without talking out loud. You can mouth words silently and discreetly and the glasses decode them to text at the speed of speech.<p>Here's a video of Dave from YC trying it out: <a href=\"https://www.youtube.com/watch?v=9QdX1eObVYI\" rel=\"nofollow\">https://www.youtube.",
@@ -229,19 +209,39 @@
       "ai_summary": "Спільнота готується до офіційного запуску платформи Flipper One на Kickstarter та відкриття передзамовлень. Новий пристрій обіцяє розширити можливості попередніх версій для ентузіастів та розробників.",
       "ai_title": "Підготовка до релізу та передзамовлення Flipper One",
       "video_keywords": "electronic device, circuit board, soldering, gadget assembly"
+    },
+    {
+      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+      "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is [&#8230;]",
+      "published": "2026-11-04T01:15:34+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія AMD оголосила про найуспішніший і найприбутковіший квартал у своїй історії з рекордним доходом у 13,4 мільярда доларів. Головним рушієм такого зростання став бурхливий розвиток напрямку дата-центрів та штучного інтелекту.",
+      "ai_title": "AMD встановила історичний рекорд прибутків завдяки ринку дата-центрів",
+      "video_keywords": "server room, computer processor, microchip, data center"
+    },
+    {
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
+      "published": "2026-11-04T00:42:10+00:00",
+      "source": "The Verge",
+      "ai_summary": "Найбільша платформа для модифікацій відеоігор Nexus Mods зобов'язує авторів повідомляти про використання штучного інтелекту при створенні їхніх робіт. Це рішення покликане внести прозорість щодо контенту, згенерованого за допомогою ШІ на платформі.",
+      "ai_title": "Nexus Mods запроваджує обов'язкове маркування штучного інтелекту для модів",
+      "video_keywords": "gamer at computer, video game interface, typing on keyboard, dual monitors"
+    },
+    {
+      "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+      "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+      "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying goodbye to teammates and friends who have [&#8230;]",
+      "published": "2026-11-03T22:59:36+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Canva оголосила про серйозні внутрішні зміни, які зачеплять 1271 працівника, що становить 22% від загального штату. Частині співробітників змінять ролі або запропонують релокацію, проте значній кількості доведеться піти з компанії.",
+      "ai_title": "Canva проводить масштабну реструктуризацію та звільняє 22% співробітників",
+      "video_keywords": "office workers, sad employee, modern office, corporate meeting"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "published": "2026-11-01T21:55:23+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія розглядає ребрендинг енергоємних дата-центрів через їхню низьку популярність серед місцевих громад. Нова назва має змінити сприйняття інфраструктури та підкреслити її інноваційний характер.",
-      "ai_title": "OpenAI планує перейменувати свої дата-центри на «кампуси штучного інтелекту»",
-      "video_keywords": "server room, data center, futuristic building, supercomputer"
-    },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
       "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
@@ -394,16 +394,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6CFEHJM62TV7283ZYDNNCBP/collage-new.jpg\" /></p><p>Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founde",
-      "published": "2026-11-01T23:09:13+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Відновлення виводів на Binance супроводжувалося масовим виведенням мільярдів доларів. Тим часом розбіжності в криптоспільноті посилилися через заяву засновника THORChain щодо недоцільності заморожування вкрадених активів.",
-      "ai_title": "Мільярди тікають з Binance, а засновник THORChain виступає проти заморожування монет",
-      "video_keywords": "crypto trading, panic selling, smartphone screen, business person stressed"
-    },
     {
       "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -593,6 +583,36 @@
       "ai_summary": "Платформи Kalshi та Polymarket оцінюють шанси перемоги демократів у ключових криптовиборах у 75%. Це відбувається попри нещодавні помилки ринків у прогнозуванні результатів у Бразилії.",
       "ai_title": "Прогнозні ринки віддають перевагу демократам на виборах у США",
       "video_keywords": "voting booth, ballot box, election results, political charts"
+    },
+    {
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "summary": "",
+      "published": "2026-11-03T23:00:07+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Експерти стурбовані ризиками кібератак на токенізовані активи традиційних фінансів. Північнокорейські хакери можуть націлитися на нові блокчейн-продукти Уолл-стріт, що вимагає посилення заходів безпеки. Потенційна крадіжка таких активів здатна підірвати довіру до інституційної криптоіндустрії.",
+      "ai_title": "Загроза токенізованим активам Уолл-стріт з боку хакерів з Північної Кореї",
+      "video_keywords": "hacker, computer screen, digital security, glowing code"
+    },
+    {
+      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+      "link": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"1inch lawyer sees agencies driving US crypto regulation as midterms unfold\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DJ3V1RSDPDYAETXYR8NEK1/hi-us-government-has-shut-down-bitcoin-crypto.jpg\" /></p><p>Crypto executives expect US regulators to drive crypto policymaking regardle",
+      "published": "2026-11-04T00:45:16+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Представники криптоіндустрії та юристи вважають, що ключову роль у регулюванні цифрових активів відіграватимуть державні агенції. Політичні зміни та проміжні вибори можуть суттєво вплинути на майбутню правову базу для криптовалют. Експерти аналізують можливі сценарії розвитку взаємодії влади та блокчейн-компаній.",
+      "ai_title": "Регулятори формують майбутнє крипторинку на тлі виборів у США",
+      "video_keywords": "government building, USA flag, press conference, business meeting"
+    },
+    {
+      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+      "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"RUNE rallies 15% as THORChain restarts most swaps after halt\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6HX7RYCH2V2GKPP6BB2MVAX/thorchain-crypto-crowd-people-hype-mainstream-1.jpg\" /></p><p>THORChain has restored trading on Bitcoin, Ethereum and several other networks following",
+      "published": "2026-11-03T23:56:09+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Децентралізований протокол THORChain успішно відновив більшість кроссчейн-обмінів після тимчасової зупинки. На тлі цієї новини нативний токен проєкту RUNE продемонстрував стрімке зростання на 15%. Користувачі знову можуть здійснювати операції з Bitcoin, Ethereum та іншими мережами.",
+      "ai_title": "Токен RUNE зріс на 15% після відновлення роботи THORChain",
+      "video_keywords": "stock market chart, digital currency, rising graph, trading screen"
     }
   ]
 }
