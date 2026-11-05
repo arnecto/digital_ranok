@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Cloudflare experiencing multiple active incidents",
-      "link": "https://www.cloudflarestatus.com/",
-      "summary": "<p>Article URL: <a href=\"https://www.cloudflarestatus.com/\">https://www.cloudflarestatus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50348260\">https://news.ycombinator.com/item?id=50348260</a></p>\n<p>Points: 31</p>\n<p># Comments: 4</p>",
-      "published": "2026-11-03T04:57:27+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Cloudflare повідомила про виникнення кількох активних інцидентів у своїй мережі. Це може призводити до проблем із доступністю вебсайтів та сервісів, які користуються послугами провайдера. Технічні фахівці вже працюють над усуненням неполадок.",
-      "ai_title": "Cloudflare зафіксувала серію масштабних технічних збоїв",
-      "video_keywords": "server room, flashing lights, data center, computer screen"
-    },
-    {
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "link": "https://news.ycombinator.com/item?id=50352757",
       "summary": "<p>My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.<p>You can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve ",
@@ -435,46 +425,6 @@
   ],
   "Крипта": [
     {
-      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-      "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
-      "summary": "",
-      "published": "2026-11-03T05:36:56+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Аналітичні дані показують, що біржа Binance використала приблизно половину активів свого фонду безпеки SAFU у біткоїнах. Загальна сума витрачених коштів становить близько 580 мільйонів доларів США.",
-      "ai_title": "Binance витратила половину свого резервного фонду SAFU у біткоїнах",
-      "video_keywords": "cryptocurrency exchange, digital wallet, computer screen, trading graphs"
-    },
-    {
-      "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
-      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
-      "summary": "",
-      "published": "2026-11-03T05:25:12+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Керівна рада мережі Arbitrum здійснила транзакцію на 30 мільйонів доларів, які були пов'язані з минулим злом Binance. Переказ відбувся без використання приватного ключа хакера, що викликало чимало обговорень у спільноті.",
-      "ai_title": "Рада Arbitrum перемістила 30 мільйонів доларів хакерських коштів без ключа зловмисника",
-      "video_keywords": "blockchain network, code scrolling, hacker screen, digital security"
-    },
-    {
-      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
-      "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto.com to withdraw Hong Kong consumer app citing regulatory changes\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6FWJCR3YC78YRVRCAXWNJWS/hong-kong-license.jpg\" /></p><p>Crypto.com will discontinue its consumer app services in Hong Kong in February next year.</p>",
-      "published": "2026-11-03T05:10:19+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптовалютна біржа Crypto.com оголосила про припинення роботи свого споживчого додатка в Гонконзі. Таке рішення ухвалено через зміни у місцевому законодавстві та регуляторних вимогах.",
-      "ai_title": "Crypto.com закриває свій споживчий додаток у Гонконзі через нові правила",
-      "video_keywords": "smartphone app, financial district, Hong Kong skyline, mobile phone screen"
-    },
-    {
-      "title": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
-      "link": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
-      "summary": "",
-      "published": "2026-11-03T14:53:19+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Представники криптовалютної біржі Binance повідомили, що масштабний хакерський злам на суму 6,3 мільярда доларів був ініційований через підроблене запрошення на роботу. Зловмисники використали соціальну інженерію проти співробітника, щоб отримати доступ до систем безпеки платформи.",
-      "ai_title": "Хакерська атака на Binance на $6,3 мільярда почалася з фальшивої співбесіди",
-      "video_keywords": "hacker typing on laptop, computer screen code, cyber attack, office worker"
-    },
-    {
       "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.4 billion heist",
       "link": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
       "summary": "",
@@ -688,6 +638,41 @@
       "ai_summary": "Криптобіржа Mercado Bitcoin оголосила про початок поступового розблокування платформи з понеділка. На першому етапі користувачі зможуть переглядати свої баланси, тоді як виведення коштів та торгівля залишаються тимчасово обмеженими.",
       "ai_title": "Mercado Bitcoin готується до поетапного відновлення роботи та компенсації збитків",
       "video_keywords": "smartphone trading app, crypto exchange dashboard, person looking at phone, financial charts"
+    },
+    {
+      "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+      "link": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
+      "summary": "",
+      "published": "2026-11-05T08:35:37+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+      "link": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
+      "summary": "",
+      "published": "2026-11-05T08:26:26+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+      "link": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"France budget rejection sidelines stablecoin tax, wallet reporting\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NC2PJZNEWTEF3KDZR53T20/hi-setting-court-precedent-for-btc-1.jpg\" /></p><p>Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away",
+      "published": "2026-11-05T09:04:42+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N87QAZCRG7H93QMDFANP2Q/hi-blockchain-and-elections.jpg\" /></p><p>Fidelity led Bitcoin ETF inflows, while BlackRock’s IBIT shed another $201 million, extending its outflo",
+      "published": "2026-11-05T08:22:30+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
+      "link": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crédit Mutuel Arkéa resumes operations after attack, assesses losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N6NXVHKBRJXY07Q6DE59G9/bank-french-credit-mutuel-arkea.png\" /></p><p>The bank said customer funds were unaffected after attackers accessed its systems through a serv",
+      "published": "2026-11-05T07:23:06+00:00",
+      "source": "Cointelegraph.com News"
     }
   ]
 }
