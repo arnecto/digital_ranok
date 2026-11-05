@@ -1,66 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "link": "https://news.ycombinator.com/item?id=50352757",
-      "summary": "<p>My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.<p>You can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve ",
-      "published": "2026-11-03T14:53:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Користувачі помітили, що налаштування конфіденційності в Codex були змінені без їхньої відомості, дозволивши знову збирати дані для тренування ШІ. Це викликало занепокоєння у компаній, які намагаються захистити свої інтелектуальні права від витоку. Фахівці радять перевірити параметри безпеки у своєму профілі.",
-      "ai_title": "OpenAI без попередження вмикає навчання моделей на чатах Codex",
-      "video_keywords": "programmer, coding, computer screen, settings menu"
-    },
-    {
-      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing [&#8230;]",
-      "published": "2026-11-03T15:00:44+00:00",
-      "source": "The Verge",
-      "ai_summary": "Через негативне ставлення суспільства до галасливих та ресурсомістких дата-центрів компанія вирішила провести ребрендинг. Нова назва покликана знизити рівень критики з боку місцевих громад та політиків. Це чергова спроба технологічних гігантів покращити публічний імідж своєї інфраструктури.",
-      "ai_title": "OpenAI намагається перейменувати дата-центри на «обчислювальні кампуси»",
-      "video_keywords": "server racks, data center, blinking lights, large building"
-    },
-    {
-      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a [&#8230;]",
-      "published": "2026-11-03T15:24:51+00:00",
-      "source": "The Verge",
-      "ai_summary": "Останній фінансовий звіт Apple показав рекордні прибутки завдяки успішній стратегії впровадження ШІ без надмірних витрат на власну інфраструктуру. Компанія продовжує демонструвати стійке зростання продажів iPhone та Mac. Це доводить ефективність їхнього підходу до ринку новітніх технологій.",
-      "ai_title": "Apple робить ставку на власний та чужий штучний інтелект",
-      "video_keywords": "smartphone, financial chart, modern office, businessman"
-    },
-    {
-      "title": "The AI Bubble Monitor",
-      "link": "https://cepr.net/publications/ai-bubble-monitor/",
-      "summary": "<p>Article URL: <a href=\"https://cepr.net/publications/ai-bubble-monitor/\">https://cepr.net/publications/ai-bubble-monitor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352727\">https://news.ycombinator.com/item?id=50352727</a></p>\n<p>Points: 29</p>\n<p># Comments: 15</p>",
-      "published": "2026-11-03T14:51:31+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий монітор ринку ШІ аналізує поточні інвестиції та реальну віддачу від технологій штучного інтелекту. Експерти попереджають про можливі фінансові ризики через надмірний ажіотаж навколо генеративних моделей. Це ставить під сумнів стабільність нинішнього технологічного буму.",
-      "ai_title": "Економісти оцінюють ризики «бульбашки» штучного інтелекту",
-      "video_keywords": "stock market chart, financial graphs, calculator, office desk"
-    },
-    {
-      "title": "AI is destroying my CS degree",
-      "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
-      "summary": "<p>Article URL: <a href=\"https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/\">https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353300\">https://news.ycombinator.com/item?id=50353300</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
-      "published": "2026-11-03T15:35:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Молоді розробники все частіше стикаються з тим, що ШІ-інструменти нівелюють цінність класичної університетської освіти з комп'ютерних наук. Навчальні програми не встигають адаптуватися до реалій ринку, де штучний інтелект виконує базові завдання за секунди. Це змушує студентів шукати нові шляхи для здобуття реальних навичок.",
-      "ai_title": "Студенти скаржаться, що масове поширення ШІ руйнує освіту з програмування",
-      "video_keywords": "student, laptop, frustrated, classroom"
-    },
-    {
-      "title": "Apple starts giving Siri AI access to third-party apps",
-      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [&#8230;]",
-      "published": "2026-11-03T20:16:17+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Apple дозволяє штучному інтелекту Siri виконувати дії в сторонніх додатках завдяки оновленню iOS. Голосовий помічник тепер може використовувати персональний контекст користувача, обробляти природну мову та взаємодіяти з екраном.",
-      "ai_title": "Apple відкриває доступ Siri AI до сторонніх додатків",
-      "video_keywords": "smartphone screen, voice assistant, typing on phone, mobile app interface"
-    },
-    {
       "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
       "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
       "summary": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next [&#8230;]",
@@ -269,19 +209,44 @@
       "ai_summary": "Платформа X почала розгортання оновленої версії свого вебдодатка, яка працює набагато швидше за попередню. Покращення особливо помітні для користувачів із повільним інтернет-з'єднанням завдяки оптимізації коду.",
       "ai_title": "Соцмережа X випустила значно швидший вебдодаток",
       "video_keywords": "smartphone screen, social media scrolling, hand holding phone, browsing web"
+    },
+    {
+      "title": "Launch HN: Rivet (YC F25) – Scale and Orchestrate Agents on S3",
+      "link": "https://github.com/rivet-dev/rivet",
+      "summary": "<p>Hey HN, this is Nathan and Nicholas from Rivet (<a href=\"https://rivet.dev\">https://rivet.dev</a>).<p>Rivet is a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3.<p>Actors provide a long-lived process for long agent turns, in-memory state for context, a",
+      "published": "2026-11-05T17:17:42+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/bild-ai/jobs\">https://www.ycombinator.com/companies/bild-ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381512\">https://news.ycombinator.com/item?id=50381512</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "published": "2026-11-05T17:01:23+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Vibe Coding Keypad",
+      "link": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+      "summary": "<p>Article URL: <a href=\"https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad\">https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381302\">https://news.ycombinator.com/item?id=50381302</a></p>\n<p>Points: 34</p>\n<p># Comments: 16</p>",
+      "published": "2026-11-05T16:43:16+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "summary": "<p>Article URL: <a href=\"https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf\">https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381033\">https://news.ycombinator.com/item?id=50381033</a></p>\n<p>Points: 48</p>\n<p># Comments: 7</p>",
+      "published": "2026-11-05T16:21:12+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "The Stacks Project, Formalized in Lean",
+      "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "summary": "<p>Article URL: <a href=\"https://axiommath.ai/research/the-stacks-project-formalized/\">https://axiommath.ai/research/the-stacks-project-formalized/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380979\">https://news.ycombinator.com/item?id=50380979</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+      "published": "2026-11-05T16:16:59+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "published": "2026-11-03T15:38:27+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Apple оновила правила App Store, зобов'язавши розробників додатків для знайомств та ШІ-компаньйонів із романтичним чи сексуальним контентом маркувати їх віковим обмеженням 18+. Нововведення покликане захистити неповнолітніх від непризначеного для них цифрового контенту.",
-      "ai_title": "Apple запровадила вікові обмеження для додатків знайомств та штучного інтелекту",
-      "video_keywords": "smartphone screen, dating app, teenager using phone, app store"
-    },
     {
       "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
       "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
@@ -421,49 +386,44 @@
       "ai_summary": "Питання протидії появі нових дата-центрів об'єднало представників різних політичних сил під час виборів. Це створює загрозу для подальшого розширення інфраструктури великих технологічних компаній та стартапів.",
       "ai_title": "Зростає опір будівництву дата-центрів у США",
       "video_keywords": "server room, data center, construction site, protest crowd"
+    },
+    {
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "link": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "published": "2026-11-05T17:11:48+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "published": "2026-11-05T16:16:45+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Bluesky hit peak usage for the year on election night",
+      "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+      "published": "2026-11-05T15:44:58+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+      "published": "2026-11-05T15:40:34+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+      "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+      "published": "2026-11-05T15:33:58+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
-    {
-      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.4 billion heist",
-      "link": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-      "summary": "",
-      "published": "2026-11-03T14:22:09+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Засновник Binance CZ попередив криптовалютну індустрію про зростаючу загрозу нових хакерських атак, керованих штучним інтелектом. Це сталося невдовзі після історичного пограбування біржі на мільярди доларів, що виявило нові вразливості у сфері кібербезпеки.",
-      "ai_title": "CZ застерігає про нові кібератаки зі штучним інтелектом після масштабного зламу Binance",
-      "video_keywords": "artificial intelligence, futuristic cybersecurity, digital matrix screen, hacker silhouette"
-    },
-    {
-      "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-      "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-      "summary": "",
-      "published": "2026-11-03T15:02:13+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Американський регулятор CFTC дозволив запуск безстрокових ф'ючерсів на акції, фактично адаптувавши популярну модель торгівлі з крипторинку для традиційної Волл-стріт. Цей крок стирає межі між класичними фінансовими інструментами та криптовалютними деривативами.",
-      "ai_title": "CFTC схвалила безстрокові ф'ючерси на акції, перенісши криптомодель на Волл-стріт",
-      "video_keywords": "stock exchange trading floor, financial charts, wall street sign, stock market graphs"
-    },
-    {
-      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-      "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Moscow Exchange to launch Bitcoin, Ether and USDT trading in December \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GN6W7C4H29GR4MQT2Q1EN2/moscow-btc-eth-tether.png\" /></p><p>Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase li",
-      "published": "2026-11-03T13:15:47+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Московська біржа планує розпочати торгівлю провідними криптовалютами та стейблкоїнами вже з 1 грудня відповідно до нового законодавства РФ. Операції здійснюватимуться з певними лімітами на річні обсяги придбання для учасників ринку.",
-      "ai_title": "Московська біржа запускає торгівлю біткоїном, ефіром та USDT у грудні",
-      "video_keywords": "moscow city skyline, stock exchange building, financial district, modern skyscraper"
-    },
-    {
-      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GYWTMJRC5WVDCDG7QCTRRJ/article-covers-180463-us-cpi-lower-expected-rate-cuts-coming-1280x853-960x640.webp\" /></p><p>Bitcoin made modest gains at th",
-      "published": "2026-11-03T15:44:42+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Ціна біткоїна тримається поблизу мінімуму в 76 000 доларів, оскільки аналітики фіксують закладення ризиків політичної кризи у вартість традиційних акцій. Інвестори уважно стежать за макроекономічними сигналами та реакцією ринку на політичні події.",
-      "ai_title": "Біткоїн утримує позначку в $76 тисяч на тлі політичної невизначеності на ринках",
-      "video_keywords": "bitcoin coin, cryptocurrency chart, trading terminal screen, financial market data"
-    },
     {
       "title": "CFTC clears stock perpetual futures for trading on US exchanges",
       "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -672,6 +632,34 @@
       "link": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crédit Mutuel Arkéa resumes operations after attack, assesses losses\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6N6NXVHKBRJXY07Q6DE59G9/bank-french-credit-mutuel-arkea.png\" /></p><p>The bank said customer funds were unaffected after attackers accessed its systems through a serv",
       "published": "2026-11-05T07:23:06+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+      "link": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+      "summary": "",
+      "published": "2026-11-05T16:58:21+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+      "summary": "",
+      "published": "2026-11-05T16:49:08+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+      "summary": "",
+      "published": "2026-11-05T16:13:32+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin crashes 6% to 7-week low as US stocks erase election gains \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P7EQ58JKF3EYDQMECJPRQF/hi-crypto-market-trading-trader-red-960x640.webp\" /></p><p>Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-",
+      "published": "2026-11-05T16:48:41+00:00",
       "source": "Cointelegraph.com News"
     }
   ]
