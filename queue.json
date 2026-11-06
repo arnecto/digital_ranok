@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "US voters roundly reject data centers in ballot measures",
-      "link": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
-      "summary": "<p>Article URL: <a href=\"https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures\">https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50365982\">https://news.ycombinator.com/item?id=50365982</a></p>\n<p>Points: 208</p>\n<p># Comments: 340</",
-      "published": "2026-11-04T14:27:02+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "На останніх виборах мешканці низки американських штатів виступили проти будівництва нових дата-центрів. Це створює серйозні перешкоди для подальшого швидкого розширення інфраструктури штучного інтелекту.",
-      "ai_title": "Американські виборці масово голосують проти нових дата-центрів",
-      "video_keywords": "server racks, data center, blinking lights, computer servers"
-    },
-    {
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
-      "published": "2026-11-04T15:58:45+00:00",
-      "source": "The Verge",
-      "ai_summary": "Під час звітного кварталу сторонні AI-агенти змогли оформити лише чотири поїздки через сервіс Uber. Водночас кількість замовлень через Uber Eats за допомогою штучного інтелекту виявилася трохи більшою, склавши близько 500.",
-      "ai_title": "Штучний інтелект поки не зміг масово захопити замовлення таксі в Uber",
-      "video_keywords": "smartphone screen, taxi app, typing on phone, city street"
-    },
-    {
-      "title": "Bluetooth is getting a big boost to data transfer speeds",
-      "link": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
-      "summary": "The Bluetooth Special Interest Group (SIG) that oversees the wireless standard has formally adopted Bluetooth High Data Throughput (HDT) as an optional feature of the Bluetooth Core 7.0. It's an upgrade the Bluetooth SIG has been previewing over the past year that increases Bluetooth LE's maximum supported bit rate from 2 Mbps to 7.5 Mbps. [&#8230;]",
-      "published": "2026-11-04T15:19:54+00:00",
-      "source": "The Verge",
-      "ai_summary": "Організація Bluetooth SIG офіційно прийняла специфікацію Bluetooth High Data Throughput (HDT). Це необов'язкове оновлення збільшує максимальну швидкість передачі даних для Bluetooth LE з 2 до 7,5 Мбіт/с.",
-      "ai_title": "Bluetooth отримає значне прискорення передачі даних",
-      "video_keywords": "wireless technology, digital connection, modern smartphone, glowing tech lines"
-    },
-    {
-      "title": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "summary": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [&#8230;]",
-      "published": "2026-11-04T14:46:01+00:00",
-      "source": "The Verge",
-      "ai_summary": "Генеральний директор OpenAI Сем Альтман у жартівливій формі змінив ім'я в соцмережах на «Ram Altman». Він підтримав користувачів, які прагнуть встановлювати якомога більше оперативної пам'яті у свої комп'ютери.",
-      "ai_title": "Сем Альтман відреагував на дискусію навколо оперативної пам'яті ПК",
-      "video_keywords": "computer motherboard, ram sticks, installing hardware, pc gaming setup"
-    },
-    {
       "title": "Everything is an AI scam now",
       "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
       "summary": "<p>Article URL: <a href=\"https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/\">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50371508\">https://news.ycombinator.com/item?id=50371508</a></p>\n<p>Points: 59</p>\n<p># Comments: 16</p>",
@@ -239,29 +199,59 @@
       "ai_summary": "Компаنية Ілона Маска планує зупинити випуск пікапів Cybertruck на заводі в Техасі вже наступного року. Це рішення ухвалили для того, щоб звільнити виробничі потужності під масовий випуск автономних роботаксі Cybercab.",
       "ai_title": "Tesla згортає виробництво Cybertruck заради роботаксі",
       "video_keywords": "electric car factory, robotic arm, automotive assembly line, futuristic vehicle"
+    },
+    {
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "link": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "summary": "<p>Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services.<p>The broker solves three major challenges that are especially relevant in corporate environments: (A) Enable users to delegate workloads to agents without providing the agents all the user’s toke",
+      "published": "2026-11-06T15:07:47+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено новий брокер ідентифікації на базі протоколу OAuth2 для корпоративного середовища. Це рішення дозволяє користувачам безпечно делегувати завдання ШІ-агентам, надаючи їм обмежений та контрольований доступ до сервісів.",
+      "ai_title": "Новий брокер ідентифікації для безпечного керування ШІ-агентами",
+      "video_keywords": "artificial intelligence, cybersecurity, coding, software engineer, futuristic technology"
+    },
+    {
+      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+      "link": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+      "summary": "<p>Article URL: <a href=\"https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air\">https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393183\">https://news.ycombinator.com/item?id=50393183</a></p>\n<",
+      "published": "2026-11-06T15:03:24+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Міністерство транспорту США розпочало процес поетапного виведення з експлуатації застарілих дискет, які десятиліттями використовувалися в системах керування повітряним рухом. Цей крок є частиною масштабної модернізації критичної інфраструктури країни.",
+      "ai_title": "Авіадиспетчерська служба США нарешті відмовляється від дискет",
+      "video_keywords": "vintage computer, floppy disk, retro technology, server room, old hardware"
+    },
+    {
+      "title": "Just about anyone can rent access to White House IP addresses",
+      "link": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+      "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synthient, which discovered residential proxy activity on the White [&#8230;]",
+      "published": "2026-11-06T17:40:06+00:00",
+      "source": "The Verge",
+      "ai_summary": "Експерти з кібербезпеки виявили на мережевих ресурсах Білого дому активність житлових проксі-серверів. Зловмисники або неавторизовані користувачі могли фактично орендувати президентські IP-адреси всього за кілька доларів.",
+      "ai_title": "Вразливість у Білому домі: доступ до IP-адрес здавали в оренду",
+      "video_keywords": "cyber security, hacking, server racks, digital data, matrix code"
+    },
+    {
+      "title": "AI is the new dating dealbreaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
+      "published": "2026-11-06T17:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Користувачі додатків для знайомств усе частіше стикаються з трендом, коли анкети, створені або доповнені за допомогою ШІ, відлякують потенційних партнерів. Живе спілкування та автентичність знову стають головним критерієм вибору.",
+      "ai_title": "Штучний інтелект стає новою перешкодою для знайомств",
+      "video_keywords": "couple dating app, smartphone screen, swiping profile, modern romance, frustrated person"
+    },
+    {
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+      "link": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+      "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as predictive text suggestions and iOS's keyboard may [&#8230;]",
+      "published": "2026-11-06T15:10:28+00:00",
+      "source": "The Verge",
+      "ai_summary": "Дослідники виявили у системі автозаповнення та швидкого введення тексту iOS масштабний список із понад 100 000 заблокованих слів і виразів різними мовами. Зокрема, туди потрапили політично чутливі та конспірологічні тези.",
+      "ai_title": "Apple приховала понад 100 тисяч заборонених фраз у клавіатурі iOS",
+      "video_keywords": "typing smartphone, mobile screen, censorship, digital typing, hands texting"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-      "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-      "summary": "Glade Brook, Coatue and T. Rowe Price were among the investors that led the share sale.",
-      "published": "2026-11-04T14:10:10+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Вартість компанії Revolut стрибнула на 53% під час продажу акцій за участю провідних інвесторів. Це сталося на тлі підготовки фінансового сервісу до запуску власного банку у США.",
-      "ai_title": "Оцінка фінтех-гіганта Revolut зросла до $115 млрд",
-      "video_keywords": "smartphone, banking app, credit card, modern office"
-    },
-    {
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "summary": "During its busiest week last quarter, Uber said only 4 people booked a ride using an AI agent.",
-      "published": "2026-11-04T21:56:01+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Uber повідомила про вкрай низьку популярність замовлення поїздок через ШT-агентів. Протягом найавтивнішого тижня минулого кварталу лише чотири користувачі скористалися цією технологією для виклику машини.",
-      "ai_title": "Штучний інтелект поки не допомагає замовляти таксі в Uber",
-      "video_keywords": "smartphone screen, typing app, taxi booking, empty street"
-    },
     {
       "title": "Snapchat surpasses 30M paid subscribers",
       "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
@@ -390,44 +380,49 @@
       "ai_summary": "Провідні технологічні компанії об'єдналися заради судового позову проти нового закону штату Каліфорнія. Документ передбачає жорсткі обмеження на доступ неповнолітніх до соціальних мереж із наступного року.",
       "ai_title": "Meta, Google та TikTok подали до суду на закон Каліфорнії про захист підлітків",
       "video_keywords": "smartphone social media notification, teenager looking at phone screen, courtroom gavel law"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
+      "published": "2026-11-06T17:23:52+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Результати виборів у США показали масову підтримку обмежень на будівництво нових дата-центрів. Це може суттєво вплинути на подальший розвиток технологічної галузі та інфраструктури штучного інтелекту.",
+      "ai_title": "Зростання обмежень на дата-центри загрожує індустрії штучного інтелекту в США",
+      "video_keywords": "data center, server racks, server room, electronics cooling"
+    },
+    {
+      "title": "Pentagon offers battery startup 6K $250M loan to build U.S. factory",
+      "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+      "published": "2026-11-06T16:50:01+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Міністерство оборони США погодило надання масштабного кредиту для компанії 6K. Кошти підуть на масштабування виробництва інноваційних матеріалів для акумуляторів за допомогою мікрохвильово-плазмового процесу.",
+      "ai_title": "Пентагон виділив стартапу 6K 250 мільйонів доларів на будівництво заводу в США",
+      "video_keywords": "factory interior, industrial manufacturing, battery production, robotic arm"
+    },
+    {
+      "title": "Fox completes its $22B acquisition of Roku",
+      "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+      "published": "2026-11-06T16:05:36+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Медіакомпанія Fox остаточно завершила масштабну угоду з купівлі стримінгової платформи Roku попри попередні розслідування Міністерства юстиції США. Це придбання значно посилить позиції Fox у цифровому відеопросторі.",
+      "ai_title": "Fox завершила поглинання стримінгового гіганта Roku за 22 мільярди доларів",
+      "video_keywords": "television screen, streaming device, remote control, living room couch"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "published": "2026-11-06T15:54:47+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Незважаючи на постійне зростання використання штучного інтелекту, реальні витрати компаній на нього почали сповільнюватися через оптимізацію бюджетів. Це стає викликом для інвесторів, які розраховували на надзвичайно стрімке зростання цього ринку.",
+      "ai_title": "Дані Ramp свідчать про гальмування витрат на штучний інтелект перед виходом Anthropic на IPO",
+      "video_keywords": "financial charts, stock market graphs, digital dashboard, office analytics"
     }
   ],
   "Крипта": [
-    {
-      "title": "Wall Street cuts Bitcoin miner price targets as newly blue Texas threatens data center boom",
-      "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
-      "summary": "",
-      "published": "2026-11-04T16:08:14+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
-      "summary": "",
-      "published": "2026-11-04T15:27:20+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "The election changes Washington. The work on crypto continues",
-      "link": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-      "summary": "",
-      "published": "2026-11-04T14:25:12+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-      "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-      "summary": "",
-      "published": "2026-11-04T14:00:53+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits $80.5K as US stocks rally on midterm election results\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6KGZKGX8HBQZ86GKFQW8S8B/bitcoin-lazer-eyes-and-bull-run-graph-5-960x640.webp\" /></p><p>Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm elect",
-      "published": "2026-11-04T15:29:23+00:00",
-      "source": "Cointelegraph.com News"
-    },
     {
       "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
       "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
@@ -631,6 +626,16 @@
       "ai_summary": "Казначейська компанія HYPE прагне отримати офіційну реєстрацію ф'ючерсів для безстрокових контрактів. Раніше стало відомо про масивні інвестиції компанії у токени на суму $785 мільйонів.",
       "ai_title": "Hyperliquid Strategies подає заявку на реєстрацію ф'ючерсів",
       "video_keywords": "financial district, skyscraper glass, business people meeting, laptop charts"
+    },
+    {
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "summary": "",
+      "published": "2026-11-06T15:26:38+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалютний сектор знаходить інноваційні способи для розширення та залучення користувачів на тлі зміни ринкових умов. Проте реальне отримання прибутку від цих нових напрямків залишається складним завданням для інвесторів.",
+      "ai_title": "Нові шляхи розвитку криптоіндустрії: як заробити на нових трендах",
+      "video_keywords": "cryptocurrency trading, digital coins, computer monitor, financial graphs"
     }
   ]
 }
