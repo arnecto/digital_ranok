@@ -1,12 +1,4 @@
 {
-  "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc": {
-    "title": "Акції крипторезерву Datavault AI впали вдвічі через втрату доступу до біткоїнів",
-    "category": "Крипта",
-    "posted_at": "2026-10-30T02:07:17.661195+02:00",
-    "summary": "Компанія Datavault AI втратила доступ до власних біткоїн-активів, що спричинило обвальний спад її капіталізації на 50%. Інвестори панікують на тлі невизначеності щодо безпеки збереження цифрових активів на балансах публічних компаній.",
-    "video_keywords": "crypto chart crash, falling stock market, digital wallet lock, server error",
-    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
-  },
   "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/": {
     "title": "Amazon купує супутникового оператора Globalstar за $11.5 млрд",
     "category": "IT / AI",
@@ -270,5 +262,13 @@
     "summary": "Кібербезпекова агенція Індії зафіксувала активізацію хакерів, які використовують штучний інтелект для швидких атак на криптовалютні біржі. Загроза діє на надвисокій швидкості, що ускладнює традиційний захист.",
     "video_keywords": "hacker typing laptop, cybersecurity screen, matrix code, digital server room",
     "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://github.com/rivet-dev/rivet": {
+    "title": "Rivet: нова платформа для масштабування та оркестрації AI-агентів",
+    "category": "IT / AI",
+    "posted_at": "2026-11-07T04:13:28.716903+02:00",
+    "summary": "Розробники запустили Rivet — високопродуктивний оркестратор для роботи з автономними AI-агентами. Система використовує легковагові актори на базі S3 замість важких ізольованих середовищ, що дозволяє ефективно керувати станом та довгими сесіями агентів.",
+    "video_keywords": "server room, data center, computer screens, code scrolling",
+    "link": "https://github.com/rivet-dev/rivet"
   }
 }
