@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-      "link": "https://github.com/zalando-incubator/agentic-identity-broker",
-      "summary": "<p>Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services.<p>The broker solves three major challenges that are especially relevant in corporate environments: (A) Enable users to delegate workloads to agents without providing the agents all the user’s toke",
-      "published": "2026-11-06T15:07:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розроблено новий брокер ідентифікації на базі протоколу OAuth2 для корпоративного середовища. Це рішення дозволяє користувачам безпечно делегувати завдання ШІ-агентам, надаючи їм обмежений та контрольований доступ до сервісів.",
-      "ai_title": "Новий брокер ідентифікації для безпечного керування ШІ-агентами",
-      "video_keywords": "artificial intelligence, cybersecurity, coding, software engineer, futuristic technology"
-    },
-    {
-      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
-      "link": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
-      "summary": "<p>Article URL: <a href=\"https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air\">https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393183\">https://news.ycombinator.com/item?id=50393183</a></p>\n<",
-      "published": "2026-11-06T15:03:24+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Міністерство транспорту США розпочало процес поетапного виведення з експлуатації застарілих дискет, які десятиліттями використовувалися в системах керування повітряним рухом. Цей крок є частиною масштабної модернізації критичної інфраструктури країни.",
-      "ai_title": "Авіадиспетчерська служба США нарешті відмовляється від дискет",
-      "video_keywords": "vintage computer, floppy disk, retro technology, server room, old hardware"
-    },
-    {
       "title": "Just about anyone can rent access to White House IP addresses",
       "link": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
       "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synthient, which discovered residential proxy activity on the White [&#8230;]",
@@ -39,16 +19,6 @@
       "ai_summary": "Користувачі додатків для знайомств усе частіше стикаються з трендом, коли анкети, створені або доповнені за допомогою ШІ, відлякують потенційних партнерів. Живе спілкування та автентичність знову стають головним критерієм вибору.",
       "ai_title": "Штучний інтелект стає новою перешкодою для знайомств",
       "video_keywords": "couple dating app, smartphone screen, swiping profile, modern romance, frustrated person"
-    },
-    {
-      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
-      "link": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
-      "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as predictive text suggestions and iOS's keyboard may [&#8230;]",
-      "published": "2026-11-06T15:10:28+00:00",
-      "source": "The Verge",
-      "ai_summary": "Дослідники виявили у системі автозаповнення та швидкого введення тексту iOS масштабний список із понад 100 000 заблокованих слів і виразів різними мовами. Зокрема, туди потрапили політично чутливі та конспірологічні тези.",
-      "ai_title": "Apple приховала понад 100 тисяч заборонених фраз у клавіатурі iOS",
-      "video_keywords": "typing smartphone, mobile screen, censorship, digital typing, hands texting"
     },
     {
       "title": "AI is dramatically accelerating AI research",
@@ -184,19 +154,39 @@
       "ai_summary": "Розробник створив десктопний компаньйон, який допомагає програмістам та дизайнерам контролювати частоту момикання. Це запобігає синдрому сухого ока та перенапруженню зору під час тривалої роботи за екраном.",
       "ai_title": "Офлайн-додаток для захисту очей від втоми",
       "video_keywords": "person working on computer, tired eyes, blinking, office desk"
+    },
+    {
+      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up\">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50414021\">https://news.ycombinator.com/item",
+      "published": "2026-11-08T15:19:51+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Керівництво Apple наполягає на прискоренні розвитку штучного інтелекту та перетворенні Siri на повноцінного автономного агента. Це може призвести до масштабних змін у наступних версіях iOS та розширення можливостей екосистеми компанії.",
+      "ai_title": "Apple вимагає від керівників більш амбітної стратегії в галузі штучного інтелекту",
+      "video_keywords": "smartphone screen, typing message, modern office, tech executive"
+    },
+    {
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "summary": "<p>Article URL: <a href=\"https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/\">https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413822\">https://n",
+      "published": "2026-11-08T14:49:23+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія OpenAI успішно закрила новий раунд фінансування, залучивши 11 мільярдів доларів. Попри те, що фінальна оцінка виявилася дещо нижчою за початкові амбітні очікування, це підтверджує колосальний інтерес інвесторів до ринку генеративного ШІ.",
+      "ai_title": "OpenAI залучила 11 мільярдів доларів інвестицій при оцінці в 1,25 трильйона",
+      "video_keywords": "financial charts, stock market screen, digital currency, corporate boardroom"
+    },
+    {
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
+      "published": "2026-11-08T15:00:30+00:00",
+      "source": "The Verge",
+      "ai_summary": "У бета-версії iOS було виявлено згадки про нову категорію «розмовних застосунків» для розумного хаба HomeView. Це свідчить про те, що незабаром користувачі зможуть інтегрувати популярні ШІ-чати безпосередньо у свої системи керування житлом.",
+      "ai_title": "Чат-боти можуть з'явитися у розумному будинку від Apple",
+      "video_keywords": "smart home display, touching screen, modern living room, home automation"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
-      "published": "2026-11-06T17:23:52+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Результати виборів у США показали масову підтримку обмежень на будівництво нових дата-центрів. Це може суттєво вплинути на подальший розвиток технологічної галузі та інфраструктури штучного інтелекту.",
-      "ai_title": "Зростання обмежень на дата-центри загрожує індустрії штучного інтелекту в США",
-      "video_keywords": "data center, server racks, server room, electronics cooling"
-    },
     {
       "title": "Pentagon offers battery startup 6K $250M loan to build U.S. factory",
       "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
@@ -216,16 +206,6 @@
       "ai_summary": "Медіакомпанія Fox остаточно завершила масштабну угоду з купівлі стримінгової платформи Roku попри попередні розслідування Міністерства юстиції США. Це придбання значно посилить позиції Fox у цифровому відеопросторі.",
       "ai_title": "Fox завершила поглинання стримінгового гіганта Roku за 22 мільярди доларів",
       "video_keywords": "television screen, streaming device, remote control, living room couch"
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "published": "2026-11-06T15:54:47+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Незважаючи на постійне зростання використання штучного інтелекту, реальні витрати компаній на нього почали сповільнюватися через оптимізацію бюджетів. Це стає викликом для інвесторів, які розраховували на надзвичайно стрімке зростання цього ринку.",
-      "ai_title": "Дані Ramp свідчать про гальмування витрат на штучний інтелект перед виходом Anthropic на IPO",
-      "video_keywords": "financial charts, stock market graphs, digital dashboard, office analytics"
     },
     {
       "title": "The Duo apps are coming, says Apple",
@@ -286,29 +266,19 @@
       "ai_summary": "Згідно звітів розвідки США, Міністерство державної безпеки Китаю завербувало топменеджерку технологічної компанії Megaspeed. Її завданням було шпигування за генеральним директором Nvidia.",
       "ai_title": "Топменеджерку китайської компанії завербували для стеження за гендиректором Nvidia",
       "video_keywords": "corporate espionage, business handshake, businesswoman working, office interior"
+    },
+    {
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "published": "2026-11-08T15:00:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Інноваційна кавомашина Ninja AutoBarista оснащена технологією Grind iQ, яка аналізує зерна для ідеального приготування еспресо. Попри вражаючу універсальність пристрою, одна з його особливостей розчарувала оглядача під час тестування.",
+      "ai_title": "Нова автоматична еспресо-машина Ninja AutoBarista: огляд та головний недолік",
+      "video_keywords": "espresso machine, coffee beans, kitchen appliance, pouring coffee"
     }
   ],
   "Крипта": [
-    {
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-      "summary": "",
-      "published": "2026-11-06T09:53:27+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Головна криптовалюта відновила позиції до рівня $76 000 після серйозного падіння технологічного сектору. Водночас спотові ETF зафіксували значний відтік капіталу в розмірі $430 мільйонів.",
-      "ai_title": "Біткоїн повертає позначку $76 000 попри масовий відтік коштів з ETF",
-      "video_keywords": "bitcoin chart, green candles, stock market graphs, cryptocurrency trading screen"
-    },
-    {
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-      "summary": "",
-      "published": "2026-11-06T15:26:38+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалютний сектор знаходить інноваційні способи для розширення та залучення користувачів на тлі зміни ринкових умов. Проте реальне отримання прибутку від цих нових напрямків залишається складним завданням для інвесторів.",
-      "ai_title": "Нові шляхи розвитку криптоіндустрії: як заробити на нових трендах",
-      "video_keywords": "cryptocurrency trading, digital coins, computer monitor, financial graphs"
-    },
     {
       "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
       "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -418,6 +388,16 @@
       "ai_summary": "Фінансовий директор криптовалютної біржі Binance Кайзер Нг залишає компанію. Його місце займе колишній віцепрезидент з фінансів Airwallex Джастін Єк.",
       "ai_title": "Фінансовий директор Binance залишає посаду",
       "video_keywords": "corporate office, business meeting, handshake, modern workspace"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
+      "published": "2026-11-08T13:33:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Огляд найважливіших новин та щоденних тенденцій у світі криптовалют. Аналіз подій, які безпосередньо впливають на курс Біткоїна, розвиток блокчейн-технологій, DeFi та Web3.",
+      "ai_title": "Головні події на криыторинку за день",
+      "video_keywords": "cryptocurrency trading, bitcoin chart, glowing digital coins, financial screen"
     }
   ]
 }
