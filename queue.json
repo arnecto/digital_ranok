@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "OpenAI Introduces GPT-6 Cyber: What It Can Do",
-      "link": "https://en.ain.ua/2026/11/06/openai-introduces-gpt-6-cyber-what-it-can-do/",
-      "summary": "The new AI model helped find dozens of previously unknown vulnerabilities in Firefox and develop 948 ways to exploit them in the Linux kernel.",
-      "published": "2026-11-06T08:50:00+00:00",
-      "source": "",
-      "ai_summary": "Компанія анонсувала потужну модель штучного інтелекту, яка здатна знаходити вразливості в програмному забезпеченні. Зокрема, вона допомогла виявити десятки невідомих проблем у браузері Firefox та розробити способи їх експлуатації для Linux.",
-      "ai_title": "OpenAI представила нову модель GPT-6 Cyber",
-      "video_keywords": "hacker typing, computer screen, lines of code, cyber security"
-    },
-    {
-      "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
-      "link": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
-      "summary": "Tesla is getting the Cybertruck ready for retirement in an effort to ramp up its robotaxi output. In an X post on Friday, Tesla CEO Elon Musk said that the company will be \"winding down\" Cybertruck production at its Texas Gigafactory sometime around the middle of next year, \"to make room for increased Cybercab production.\" [&#8230;]",
-      "published": "2026-11-06T10:42:52+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компаنية Ілона Маска планує зупинити випуск пікапів Cybertruck на заводі в Техасі вже наступного року. Це рішення ухвалили для того, щоб звільнити виробничі потужності під масовий випуск автономних роботаксі Cybercab.",
-      "ai_title": "Tesla згортає виробництво Cybertruck заради роботаксі",
-      "video_keywords": "electric car factory, robotic arm, automotive assembly line, futuristic vehicle"
-    },
-    {
       "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
       "link": "https://github.com/zalando-incubator/agentic-identity-broker",
       "summary": "<p>Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services.<p>The broker solves three major challenges that are especially relevant in corporate environments: (A) Enable users to delegate workloads to agents without providing the agents all the user’s toke",
@@ -320,46 +300,6 @@
       "video_keywords": "bitcoin chart, green candles, stock market graphs, cryptocurrency trading screen"
     },
     {
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "summary": "",
-      "published": "2026-11-06T08:47:42+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Уряд Греції офіційно схвалив нове податкове законодавство для цифрових активів. Воно передбачає 10% податку на приріст капіталу від криптооперацій та 15% зборів на доходи, отримані від децентралізованих фінансів (DeFi).",
-      "ai_title": "Греція запроваджує податки на криптовалюту та доходи від DeFi",
-      "video_keywords": "calculator, euro banknotes, signing documents, tax form"
-    },
-    {
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-      "summary": "",
-      "published": "2026-11-06T08:04:52+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Підтримуваний Дональдом Трампом криптопроєкт готує викуп власних токенів з ринку. Це рішення ухвалили на тлі масштабного падіння курсу на 66% з початку року.",
-      "ai_title": "Проєкт World Liberty Financial планує викуп токенів після різкого падіння",
-      "video_keywords": "digital coin, cryptocurrency coins, stock exchange display, trading terminal"
-    },
-    {
-      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QZ8PA38PE2N6K2QE0N13TT/hi-top-5-biggest-mining-farms-zcash-2.jpg\" /></p><p>Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, a",
-      "published": "2026-11-06T09:00:36+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Успішний запуск оновлення NU7 для мережі Zcash обернувся проблемами для власників старих активів. Через технічні особливості понад 12 тисяч монет ZEC опинилися заблокованими у застарілому пулі Sprout.",
-      "ai_title": "Оновлення мережі Zcash заблокувало мільйонні активи",
-      "video_keywords": "server rack, computer code, data center, cybersecurity lock"
-    },
-    {
-      "title": "Hyperliquid Strategies seeks futures registration for perps",
-      "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperliquid Strategies seeks futures registration for perps \" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6QXFT81EJZ5FY6966J6NXJE/hiblockchain-powered-prediction-platforms-hyperliquid-2.jpg\" /></p><p>The HYPE treasury company spent $785 million on tokens during the quarter and wa",
-      "published": "2026-11-06T08:42:54+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Казначейська компанія HYPE прагне отримати офіційну реєстрацію ф'ючерсів для безстрокових контрактів. Раніше стало відомо про масивні інвестиції компанії у токени на суму $785 мільйонів.",
-      "ai_title": "Hyperliquid Strategies подає заявку на реєстрацію ф'ючерсів",
-      "video_keywords": "financial district, skyscraper glass, business people meeting, laptop charts"
-    },
-    {
       "title": "The crypto industry has found new ways to grow. Making money from them is another story",
       "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
       "summary": "",
@@ -468,6 +408,16 @@
       "ai_summary": "Криптовалютна біржа Binance почала попереджати клієнтів у кількох європейських країнах про необхідність вивести активи. До кінця року акаунти користувачів, які не виконають вимоги, будуть остаточно закриті через зміни у внутрішній політиці та регуляторні обмеження.",
       "ai_title": "Binance закриває акаунти європейських користувачів через нові комісії",
       "video_keywords": "smartphone screen, mobile app, credit card payment, computer monitor"
+    },
+    {
+      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
+      "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance’s  finance chief Kaiser Ng to leave company, report says\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png\" /></p><p>Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
+      "published": "2026-11-08T08:12:56+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Фінансовий директор криптовалютної біржі Binance Кайзер Нг залишає компанію. Його місце займе колишній віцепрезидент з фінансів Airwallex Джастін Єк.",
+      "ai_title": "Фінансовий директор Binance залишає посаду",
+      "video_keywords": "corporate office, business meeting, handshake, modern workspace"
     }
   ]
 }
