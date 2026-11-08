@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Just about anyone can rent access to White House IP addresses",
-      "link": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
-      "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synthient, which discovered residential proxy activity on the White [&#8230;]",
-      "published": "2026-11-06T17:40:06+00:00",
-      "source": "The Verge",
-      "ai_summary": "Експерти з кібербезпеки виявили на мережевих ресурсах Білого дому активність житлових проксі-серверів. Зловмисники або неавторизовані користувачі могли фактично орендувати президентські IP-адреси всього за кілька доларів.",
-      "ai_title": "Вразливість у Білому домі: доступ до IP-адрес здавали в оренду",
-      "video_keywords": "cyber security, hacking, server racks, digital data, matrix code"
-    },
-    {
-      "title": "AI is the new dating dealbreaker",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
-      "published": "2026-11-06T17:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Користувачі додатків для знайомств усе частіше стикаються з трендом, коли анкети, створені або доповнені за допомогою ШІ, відлякують потенційних партнерів. Живе спілкування та автентичність знову стають головним критерієм вибору.",
-      "ai_title": "Штучний інтелект стає новою перешкодою для знайомств",
-      "video_keywords": "couple dating app, smartphone screen, swiping profile, modern romance, frustrated person"
-    },
-    {
       "title": "AI is dramatically accelerating AI research",
       "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "summary": "<p>Article URL: <a href=\"https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397994\">https://news.ycombinator.com/item?id=50397994</a></p>\n<p>Points: 96</p>\n<p># Comments: 43</p>",
@@ -29,36 +9,6 @@
       "ai_summary": "Нові розробки показують, що сучасні системи штучного інтелекту здатні самостійно оптимізувати та прискорювати процес створення наступних поколінь AI. Це відкриває шлях до експоненційного зростання технологічних можливостей у найближчому майбутньому.",
       "ai_title": "Штучний інтелект стрімко прискорює власні дослідження",
       "video_keywords": "server room, flashing lights, computer screen, futuristic technology"
-    },
-    {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "summary": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 191</p>\n<p># Comments: 43</p>",
-      "published": "2026-11-06T19:48:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники запропонували метод, коли менша та дешевша модель звертається по допомогу до флагманської моделі лише за потреби. Це дозволяє досягти високої точності відповідей зі значно меншими фінансовими витратами.",
-      "ai_title": "Новий підхід знижує вартість використання потужних LLM у чотири рази",
-      "video_keywords": "person typing, computer keyboard, data analytics, dashboard"
-    },
-    {
-      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-      "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-      "summary": "<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href=\"https://news.ycombinator.com/item?id=49937916\">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-g",
-      "published": "2026-11-06T19:41:20+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Представлено новий інструмент, який дозволяє штучному інтелекту аналізувати джерела, збирати віртуальні CAD-моделі з деталей LEGO та генерувати для них повноцінну анімацію. Це демонструє новий рівень просторового мислення у нейромереж.",
-      "ai_title": "AI-агенти тепер можуть створювати та анімувати механізми з LEGO",
-      "video_keywords": "lego bricks, hands building, 3d animation, computer modeling"
-    },
-    {
-      "title": "All the latest updates on AI data centers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
-      "published": "2026-11-06T20:02:22+00:00",
-      "source": "The Verge",
-      "ai_summary": "Масштабне будівництво нових дата-центрів для підтримки інфраструктури AI створює величезне навантаження на енергомережі. Це викликає серйозні суперечки в суспільстві щодо зростання комунальних тарифів та впливу на довкілля.",
-      "ai_title": "Енергетична криза через бум дата-центрів для штучного інтелекту",
-      "video_keywords": "data center, server racks, cooling system, industrial building"
     },
     {
       "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
@@ -184,29 +134,49 @@
       "ai_summary": "У бета-версії iOS було виявлено згадки про нову категорію «розмовних застосунків» для розумного хаба HomeView. Це свідчить про те, що незабаром користувачі зможуть інтегрувати популярні ШІ-чати безпосередньо у свої системи керування житлом.",
       "ai_title": "Чат-боти можуть з'явитися у розумному будинку від Apple",
       "video_keywords": "smart home display, touching screen, modern living room, home automation"
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c\">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415817\">https://news.ycombinator.com/item?id=50415817</a></p>\n<p>Points: 50",
+      "published": "2026-11-08T18:43:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Попри гучні заяви техногігантів про здатність штучного інтелекту швидко створювати нові ліки та лікувати невиліковні хвороби, топменеджери великих фармкомпаній закликають не вірити маркетинговим міфам. На їхню думку, реальний процес розробки медичних препаратів залишається надзвичайно складним і вимагає часу, який ШІ не здатний скоротити миттєво.",
+      "ai_title": "Керівники фармацевтичних компаній скептично ставляться до обіцянок Кремнієвої долини перемогти хвороби за допомогою ШІ",
+      "video_keywords": "pharmaceutical laboratory, scientist microscope, biotechnology research, modern medical office"
+    },
+    {
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "summary": "<p>Article URL: <a href=\"https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415628\">https://news.ycombinator.com/item?id=50415628</a></p>\n<p>Points: 247</p>\n<p># Comments: 156</p>",
+      "published": "2026-11-08T18:16:07+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Один із найбільших інвестиційних банків світу вирішив відмовитися від використання інструменту програмування Claude Code для своїх співробітників. Таке рішення пов'язане з жорсткими вимогами безпеки даних та ризиками витоку конфіденційної фінансової інформації через сторонні сервіси штучного інтелекту.",
+      "ai_title": "Goldman Sachs забороняє використовувати Claude Code своїм банкірам і трейдерам",
+      "video_keywords": "trading floor, stock market screens, businessman typing keyboard, modern office desk"
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
+      "published": "2026-11-08T20:22:39+00:00",
+      "source": "The Verge",
+      "ai_summary": "Рада директорів Nvidia оголосила про початок незалежного розслідування щодо генерального директора компанії Дженсена Хуанга. Причиною стали повідомлення про його контакти з топменеджеркою, яку підозрюють у роботі на китайські спецслужби з метою збору технологічних секретів.",
+      "ai_title": "Nvidia розслідує зв'язки Дженсена Хуанга з імовірним китайським шпигуном",
+      "video_keywords": "corporate boardroom, business meeting, stressed CEO, security investigation"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
+      "published": "2026-11-08T19:18:19+00:00",
+      "source": "The Verge",
+      "ai_summary": "Керівництво Apple намагається надолужити згаяне у сфері штучного інтелекту та вимагає від команди розробників якомога швидше представити конкурента провідним ШІ-агентам від OpenAI та Meta. Нова версія Siri має отримати розширені можливості автономного керування додатками на пристроях користувачів.",
+      "ai_title": "Apple прискорює розробку нового автономного ШІ-агента для Siri",
+      "video_keywords": "smartphone screen, typing message, tech startup office, futuristic interface"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Pentagon offers battery startup 6K $250M loan to build U.S. factory",
-      "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "published": "2026-11-06T16:50:01+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Міністерство оборони США погодило надання масштабного кредиту для компанії 6K. Кошти підуть на масштабування виробництва інноваційних матеріалів для акумуляторів за допомогою мікрохвильово-плазмового процесу.",
-      "ai_title": "Пентагон виділив стартапу 6K 250 мільйонів доларів на будівництво заводу в США",
-      "video_keywords": "factory interior, industrial manufacturing, battery production, robotic arm"
-    },
-    {
-      "title": "Fox completes its $22B acquisition of Roku",
-      "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-      "published": "2026-11-06T16:05:36+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Медіакомпанія Fox остаточно завершила масштабну угоду з купівлі стримінгової платформи Roku попри попередні розслідування Міністерства юстиції США. Це придбання значно посилить позиції Fox у цифровому відеопросторі.",
-      "ai_title": "Fox завершила поглинання стримінгового гіганта Roku за 22 мільярди доларів",
-      "video_keywords": "television screen, streaming device, remote control, living room couch"
-    },
     {
       "title": "The Duo apps are coming, says Apple",
       "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
@@ -276,19 +246,29 @@
       "ai_summary": "Інноваційна кавомашина Ninja AutoBarista оснащена технологією Grind iQ, яка аналізує зерна для ідеального приготування еспресо. Попри вражаючу універсальність пристрою, одна з його особливостей розчарувала оглядача під час тестування.",
       "ai_title": "Нова автоматична еспресо-машина Ninja AutoBarista: огляд та головний недолік",
       "video_keywords": "espresso machine, coffee beans, kitchen appliance, pouring coffee"
+    },
+    {
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "published": "2026-11-08T19:51:30+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Новий звіт розкриває внутрішні конфлікти у венчурному фонді Sequoia Capital через несподіване рішення ключового партнера увійти до ради директорів космічної компанії Ілона Маска. Цей крок може кардинально змінити спадщину та стратегію фірми.",
+      "ai_title": "Партнери Sequoia були шоковані приєднанням Роелофа Боти до ради директорів SpaceX",
+      "video_keywords": "corporate boardroom, business meeting, handshake, office discussion"
+    },
+    {
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "published": "2026-11-08T17:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Стівен Ворд пройшов шлях від затримання хакера до тривалої боротьби за власну репутацію, а тепер готує масштабний фонд Brightmind Partners для інвестицій у безпеку. Його досвід у державних структурах та корпоративному секторі допомагає знаходити найперспективніші технологічні стартапи.",
+      "ai_title": "Колишній агент Секретної служби заснував кібербезпековий венчурний фонд на $250 мільйонів",
+      "video_keywords": "cybersecurity, digital locks, hacker typing, glowing server racks"
     }
   ],
   "Крипта": [
-    {
-      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
-      "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Treasury cuts off MEXC over alleged $16B in illicit transactions\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6SANJYQTNY4SS6GASXKN37C/hi-cover-imagereview-of-mexc.png\" /></p><p>The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfe",
-      "published": "2026-11-06T21:05:25+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Фінансове відомство США наказало національним банкам припинити транзакції з криптобіржею MEXC. Причиною стали звинувачення платформи в проведенні нелегальних операцій на суму близько 16 мільярдів доларів.",
-      "ai_title": "Мінфін США заблокував біржу MEXC через підозри у відмиванні мільярдів",
-      "video_keywords": "bank building, police lights, courtroom, handcuffs"
-    },
     {
       "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
       "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -308,16 +288,6 @@
       "ai_summary": "Експерти компанії TRM Labs охарактеризували останню атаку на біржу Binance як кібервійну. Вони закликали уряди різних країн перейти до активних наступальних дій проти хакерських угруповань з Північної Кореї.",
       "ai_title": "Масштабний хакерський злам Binance назвали «кібервійною»",
       "video_keywords": "hacker typing, server room, dark room, glowing screens"
-    },
-    {
-      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
-      "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US 401(k) proposal leaves door open to altcoins, but hurdles remain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6S0G0RDKT5WK8GZZHWMB7ZP/hi-token-burning-explained-sec-1.png\" /></p><p>While the proposal doesn’t exclude altcoins and smaller cryptocurrencies, experts say they could",
-      "published": "2026-11-06T20:04:27+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Нова ініціатива щодо пенсійних накопичень 401(k) потенційно дозволяє інвестувати в альткоїни та менш популярні криптовалюти. Водночас фінансові експерти застерігають, що на шляху до реалізації цього плану все ще стоїть чимало регуляторних перешкод.",
-      "ai_title": "Пенсійні фонди США у США можуть отримати доступ до альткоїнів",
-      "video_keywords": "financial charts, stock market, calculator, coins stack"
     },
     {
       "title": "Nvidia may face a more hostile post-election Washington: Report",
@@ -398,6 +368,26 @@
       "ai_summary": "Огляд найважливіших новин та щоденних тенденцій у світі криптовалют. Аналіз подій, які безпосередньо впливають на курс Біткоїна, розвиток блокчейн-технологій, DeFi та Web3.",
       "ai_title": "Головні події на криыторинку за день",
       "video_keywords": "cryptocurrency trading, bitcoin chart, glowing digital coins, financial screen"
+    },
+    {
+      "title": "What the election results mean for crypto: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "summary": "",
+      "published": "2026-11-08T19:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Аналіз того, як зміни у політичному ландшафті після виборів вплинуть на регулювання крипторинку та подальший розвиток блокчейн-індустрії. Експерти оцінюють нові можливості та ризики для інвесторів.",
+      "ai_title": "Вплив результатів виборів на майбутнє криптовалюти",
+      "video_keywords": "voting ballot, government building, politicians meeting, stock market charts"
+    },
+    {
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "summary": "",
+      "published": "2026-11-08T19:16:42+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Незважаючи на стабілізацію капіталізації стейблкоїнів, обсяги реальних транзакцій та використання криптовалют для платежів продовжують стрімко зростати. Це свідчить про зміну ролі цифрових активів у повсякденній економіці.",
+      "ai_title": "Зростання стейблкоїнів сповільнилося, але бум платежів триває",
+      "video_keywords": "smartphone mobile payment, credit card machine, modern cash register, digital wallet app"
     }
   ]
 }
