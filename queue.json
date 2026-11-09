@@ -1,81 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
-      "published": "2026-11-07T15:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Експерти обговорюють сучасні виклики у сфері кібербезпеки та вплив штучного інтелекту на цифрову захищеність. Серія подкастів розглядає реальні наслідки впровадження новітніх технологій.",
-      "ai_title": "Штучний інтелект кардинально змінив кібербезпеку",
-      "video_keywords": "hacker typing, cyber security, matrix code, digital server room"
-    },
-    {
-      "title": "Good riddance, Cybertruck!",
-      "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed [&#8230;]",
-      "published": "2026-11-07T14:40:06+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Tesla планує припинити виробництво електричного пікапа Cybertruck наступного року. Це рішення звільнить потужності для випуску нового безпілотного транспортного засобу Cybercab.",
-      "ai_title": "Tesla згортає виробництво Cybertruck заради роботаксі",
-      "video_keywords": "electric car, futuristic vehicle, automobile assembly line, futuristic taxi"
-    },
-    {
-      "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
-      "link": "https://blog.bosscher.ch/posts/openstick/",
-      "summary": "<p>Article URL: <a href=\"https://blog.bosscher.ch/posts/openstick/\">https://blog.bosscher.ch/posts/openstick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406670\">https://news.ycombinator.com/item?id=50406670</a></p>\n<p>Points: 65</p>\n<p># Comments: 11</p>",
-      "published": "2026-11-07T18:12:12+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "The End of AI Frontiers",
-      "link": "https://hunch.net/?p=13764006",
-      "summary": "<p>Article URL: <a href=\"https://hunch.net/?p=13764006\">https://hunch.net/?p=13764006</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406589\">https://news.ycombinator.com/item?id=50406589</a></p>\n<p>Points: 75</p>\n<p># Comments: 25</p>",
-      "published": "2026-11-07T18:04:07+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-      "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
-      "summary": "<p>Article URL: <a href=\"https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/\">https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406563\">https://news.ycombinator.com/item?id=50",
-      "published": "2026-11-07T18:02:17+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Five Memorable Books About Programming",
-      "link": "https://prog21.dadgum.com/19.html",
-      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406319\">https://news.ycombinator.com/item?id=50406319</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
-      "published": "2026-11-07T17:30:49+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "link": "https://github.com/hedgerow-dev/coldframe",
-      "summary": "<p>I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as re",
-      "published": "2026-11-07T17:27:30+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "link": "https://eyesrhythm.com/",
-      "summary": "<p>Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pix",
-      "published": "2026-11-07T21:47:47+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив десктопний компаньйон, який допомагає програмістам та дизайнерам контролювати частоту момикання. Це запобігає синдрому сухого ока та перенапруженню зору під час тривалої роботи за екраном.",
-      "ai_title": "Офлайн-додаток для захисту очей від втоми",
-      "video_keywords": "person working on computer, tired eyes, blinking, office desk"
-    },
-    {
-      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up\">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50414021\">https://news.ycombinator.com/item",
-      "published": "2026-11-08T15:19:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Керівництво Apple наполягає на прискоренні розвитку штучного інтелекту та перетворенні Siri на повноцінного автономного агента. Це може призвести до масштабних змін у наступних версіях iOS та розширення можливостей екосистеми компанії.",
-      "ai_title": "Apple вимагає від керівників більш амбітної стратегії в галузі штучного інтелекту",
-      "video_keywords": "smartphone screen, typing message, modern office, tech executive"
-    },
-    {
       "title": "OpenAI raises $11B at a $1.25T valuation",
       "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
       "summary": "<p>Article URL: <a href=\"https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/\">https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413822\">https://n",
@@ -224,39 +149,39 @@
       "ai_summary": "Meta розширює технологію оцінки віку на глобальному рівні для пошуку підлітків, які приховали свою реальну дату народження. Це дозволить автоматично захистити мільйони нових користувачів за допомогою спеціальних налаштувань для підлітків.",
       "ai_title": "Instagram масштабує систему визначення віку за допомогою ШІ по всьому світу",
       "video_keywords": "teenager using smartphone, scrolling social media, face scan, mobile application"
+    },
+    {
+      "title": "TPUs",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50432831\">https://news.ycombinator.com/item?id=50432831</a></p>\n<p>Points: 75</p>\n<p># Comments: 5</p>",
+      "published": "2026-11-09T21:56:57+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Google анонсувала оновлення своєї лінійки процесорів для штучного інтелекту TPU та глобальної мережі. Нові рішення покликані прискорити обчислення та підвищити ефективність хмарних інфраструктур для розробників ШІ.",
+      "ai_title": "Google представила нові можливості інфраструктури TPU",
+      "video_keywords": "server rack, data center, computer chips, glowing microcircuits"
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
+      "published": "2026-11-09T23:07:59+00:00",
+      "source": "The Verge",
+      "ai_summary": "Генеральний директор Nvidia Дженсен Хуанг опинився в епіцентрі уваги через розслідування, пов'язане з топменеджеркою компанії Megaspeed Еліс Хуанг. Ця ситуація вже викликала широкий резонанс у технологічній індустрії та обговорення у світових медіа.",
+      "ai_title": "Скандал довкола гендиректора Nvidia Дженсена Хуанга",
+      "video_keywords": "corporate executive, news conference, businessman speaking, modern office building"
+    },
+    {
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]",
+      "published": "2026-11-09T21:13:16+00:00",
+      "source": "The Verge",
+      "ai_summary": "Нові глобальні ініціативи щодо застосування штучного інтелекту для боротьби зі зміною клімату викликають чимало сумнівів у експертів. Попри гучні обіцянки технологічних компаній, реальна користь таких проєктів для довкілля залишається під великим питанням.",
+      "ai_title": "Скептицизм щодо використання штучного інтелекту для екології",
+      "video_keywords": "wind turbines, solar panels, polluted earth, protest sign"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "published": "2026-11-07T17:24:07+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Фінансовий директор криптовалютної біржі Binance залишає свою посаду заради нового проєкту. Це кадрове рішення оголосили лише через тиждень після того, як хакери викрали з платформи криптовалюту на рекордну суму 6,3 мільярда доларів.",
-      "ai_title": "Фіндиректор Binance йде у відставку після масштабного хакерського злому",
-      "video_keywords": "cryptocurrency trading, person looking at stock charts, laptop screen with data, stressed businessman"
-    },
-    {
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-      "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-      "published": "2026-11-07T17:18:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Amazon представила новий базовий Kindle, який став трохи дорожчим за попередника, проте отримав легший корпус і покращений екран. Завдяки цим змінам пристрій серйозно конкурує з дорожчими моделями лінійки.",
-      "ai_title": "Amazon випустила оновлену базову модель електронної книги Kindle",
-      "video_keywords": "person reading ebook, holding kindle, cozy reading setup, electronic reader device"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "published": "2026-11-07T21:17:08+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Згідно звітів розвідки США, Міністерство державної безпеки Китаю завербувало топменеджерку технологічної компанії Megaspeed. Її завданням було шпигування за генеральним директором Nvidia.",
-      "ai_title": "Топменеджерку китайської компанії завербували для стеження за гендиректором Nvidia",
-      "video_keywords": "corporate espionage, business handshake, businesswoman working, office interior"
-    },
     {
       "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
       "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
@@ -356,39 +281,37 @@
       "ai_summary": "Новий музичний стартап пропонує користувачам стрічку з коротких 10-30 секундних фрагментів треків. У додатку можна залишати коментарі та ділитися улюбленими мелодіями у зручному форматі.",
       "ai_title": "Додаток Drops повертає моду на музичний обмін із друзями",
       "video_keywords": "smartphone screen, music app, listening headphones, young people smiling"
+    },
+    {
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "published": "2026-11-09T23:03:46+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "published": "2026-11-09T22:46:09+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "published": "2026-11-09T22:23:42+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "published": "2026-11-09T20:55:34+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
-    {
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "summary": "",
-      "published": "2026-11-07T17:36:46+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Міністерство фінансів США вжило заходів проти криптовалютної біржі MEXC через ймовірний транзит незаконних коштів на суму понад 16 мільярдів доларів. Це рішення є частиною глобальної кампанії регуляторів із посилення контролю за дотриманням законів про боротьбу з відмиванням грошей у криптосфері.",
-      "ai_title": "Мінфін США блокує біржу MEXC через підозри у відмиванні мільярдів",
-      "video_keywords": "bank building, police lights, financial document, handcuffs"
-    },
-    {
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "summary": "",
-      "published": "2026-11-07T16:51:00+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Унаслідок масштабної кібератаки на сервіс Gnosis Pay у мережі опинилися персональні дані клієнтів. Зловмисники отримали доступ до номерів банківських карт, домашніх адрес та пов'язаних криптовалютних гаманців.",
-      "ai_title": "Витік даних у Gnosis Pay: під загрозою картки та гаманці користувачів",
-      "video_keywords": "hacker typing, computer screen, lock icon, credit card"
-    },
-    {
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "summary": "",
-      "published": "2026-11-07T19:13:16+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Криптовалютна біржа Binance почала попереджати клієнтів у кількох європейських країнах про необхідність вивести активи. До кінця року акаунти користувачів, які не виконають вимоги, будуть остаточно закриті через зміни у внутрішній політиці та регуляторні обмеження.",
-      "ai_title": "Binance закриває акаунти європейських користувачів через нові комісії",
-      "video_keywords": "smartphone screen, mobile app, credit card payment, computer monitor"
-    },
     {
       "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
       "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -508,6 +431,36 @@
       "ai_summary": "Криптобіржа Coinbase офіційно запускає діяльність свого національного трастового банку на території США. Це дозволить компанії значно розширити послуги зі зберігання криптовалютних активів для інституційних інвесторів.",
       "ai_title": "Банківська ліцензія Coinbase у США набула чинності",
       "video_keywords": "modern bank building exterior, corporate handshake, futuristic digital banking"
+    },
+    {
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"North Korean hackers create memecoins to launder funds from Binance hack: Elliptic\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg\" /></p><p>The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used l",
+      "published": "2026-11-09T20:26:34+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Elliptic виявила, що хакери з Північної Кореї використовують нові токени на блокчейні NEAR для легалізації криптовалюти, викраденої під час атаки на біржу Binance. Вони створюють спеціальні мемкоїни, щоб заплутати сліди транзакцій та приховати переміщення вкрадених активів.",
+      "ai_title": "Південнокорейські хакери відмивають вкрадені з Binance кошти через мемкоїни",
+      "video_keywords": "hacker, computer screen, code, cryptocurrency, dark room"
+    },
+    {
+      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+      "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Should you leave Australia to avoid paying 47% tax on crypto gains?\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png\" /></p><p>Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. Bu",
+      "published": "2026-11-09T21:00:00+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Через плани уряду збільшити податок на прирост капіталу для криптоінвестицій до 47% у липні 2027 року, чимало трейдерів замислюються про зміну резиденції. Вони шукають більш лояльні до крипти юрисдикції, щоб уникнути надмірних фінансових втрат.",
+      "ai_title": "Австралійські криптоінвестори масово планують виїзд за кордон через високі податки",
+      "video_keywords": "passport, airport, suitcase, airplane window, traveler"
+    },
+    {
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+      "summary": "",
+      "published": "2026-11-09T22:56:27+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Платформа Securitize розширює свій вплив у сфері фінансів, забезпечених реальними активами, завдяки поглинанню компанії River One. Цей крок дозволить їй зайняти міцніші позиції на багатотрильйонному ринку токенізації та традиційних фінансових інструментів.",
+      "ai_title": "Securitize виходить на ринок активів вартістю 6 трильйонів доларів",
+      "video_keywords": "financial charts, stock market, office desk, computer monitor, business meeting"
     }
   ]
 }
