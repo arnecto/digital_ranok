@@ -1,27 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "What objective is reasoning solving?",
-      "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-      "summary": "<p>Article URL: <a href=\"https://alexwang.ai/posts/reasoning-as-pathfinding/\">https://alexwang.ai/posts/reasoning-as-pathfinding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50445013\">https://news.ycombinator.com/item?id=50445013</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
-      "published": "2026-11-10T19:25:14+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Saltline: First-person shooter built by Fable 5.2",
-      "link": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
-      "summary": "<p>Article URL: <a href=\"https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp\">https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50444850\">https://news.ycombinator.com/item?id=50444850</a></p>\n<p>Points: 10</p>\n<p># Comments: 9</p>",
-      "published": "2026-11-10T19:14:38+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "A comprehensive study of how fingerprintable users are",
-      "link": "https://fingerprinting.study/",
-      "summary": "<p>Article URL: <a href=\"https://fingerprinting.study/\">https://fingerprinting.study/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50444684\">https://news.ycombinator.com/item?id=50444684</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
-      "published": "2026-11-10T19:03:54+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
       "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
       "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
       "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [&#8230;]",
@@ -30,16 +9,6 @@
       "ai_summary": "Компанія Microsoft запускає технологію масштабування зображення Auto SR для пристроїв Xbox Ally X та деяких ПК Copilot Plus. Цей аналог Nvidia DLSS покликаний покращити продуктивність і графіку в портативному ігровому режимі.",
       "ai_title": "Microsoft випустила конкурента DLSS для портативних консолей",
       "video_keywords": "handheld gaming console, gamer playing, digital screen, gaming device"
-    },
-    {
-      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated [&#8230;]",
-      "published": "2026-11-10T22:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Disney додає понад 60 фільмів у форматі 3D до свого додатку на гарнітурах Meta Quest. Користувачі зможуть переглядати популярні блокбастери, такі як стрічки про Месників, безпосередньо у віртуальній реальності.",
-      "ai_title": "У додатку Disney Plus для Meta Quest з'явилися 3D-фільми",
-      "video_keywords": "virtual reality headset, person wearing VR, immersive experience, 3D glasses"
     },
     {
       "title": "Protecting SSH Keys with macOS Secure Enclave",
@@ -190,29 +159,59 @@
       "summary": "<p>We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: <a href=\"https://agentrun.ai/blog/introducing-agentrun-run-smarter-agents-use-fewer-tokens\" rel=\"nofollow\">https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag...</a>.<p>It includes what we originally built for our own agent harness:<p>- Self-improving age",
       "published": "2026-11-12T18:15:48+00:00",
       "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Why You Should Expect an AI Crash",
+      "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "summary": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash\">https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475735\">https://news.ycombinator.com/item?id=50475735</a></p>\n<p>Points: 47</p>\n<p># Comments: 28</p>",
+      "published": "2026-11-12T23:08:31+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Провідні економічні видання попереджають про ознаки перегріву ринку штучного інтелекту та можливу кризу у найближчому майбутньому. Експерти аналізують розрив між величезними інвестиціями у технології та їхньою реальною комерційною віддачею.",
+      "ai_title": "Економіст прогнозує можливий обвал ринку штучного інтелекту",
+      "video_keywords": "stock market crash, financial charts, digital graphs, businessman stressing"
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "link": "https://unemploymentlabs.com/checkpoint-forensics",
+      "summary": "<p>Article URL: <a href=\"https://unemploymentlabs.com/checkpoint-forensics\">https://unemploymentlabs.com/checkpoint-forensics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474883\">https://news.ycombinator.com/item?id=50474883</a></p>\n<p>Points: 93</p>\n<p># Comments: 22</p>",
+      "published": "2026-11-12T21:56:11+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Аналітики виявили цифрові сліди графічних чіпів, що підпадають під експортні обмеження США, у новітніх китайських моделях штучного інтелекту. Це ставить під сумнів ефективність чинних торговельних санкцій та контроль за постачанням напівпровідників.",
+      "ai_title": "У китайських передових AI-моделях знайдено сліди санкційних GPU",
+      "video_keywords": "microchip, server room, computer hardware, glowing electronics"
+    },
+    {
+      "title": "Foundation Models framework",
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "summary": "<p>Article URL: <a href=\"https://developer.apple.com/foundation-models-framework/\">https://developer.apple.com/foundation-models-framework/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474361\">https://news.ycombinator.com/item?id=50474361</a></p>\n<p>Points: 88</p>\n<p># Comments: 10</p>",
+      "published": "2026-11-12T21:13:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Apple представила офіційний інструментарій Foundation Models framework для розробників. Це дозволить інтегрувати передові можливості штучного інтелекту безпосередньо у застосунки для екосистеми Apple.",
+      "ai_title": "Apple випустила новий фреймворк Foundation Models",
+      "video_keywords": "smartphone screen, software code, programmer working, digital interface"
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "summary": "<p>Article URL: <a href=\"https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html\">https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474311\">https://news.ycombinator.com/item?id=50474311</a></p>\n<p>Points: 54</p>\n<",
+      "published": "2026-11-12T21:09:49+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Використання алгоритмів штучного інтелекту для модерації додатків в App Store призвело до масових проблем для розробників синтезаторів та музичного софту. Автоматизовані системи часто помилково блокують легітимні програми через специфіку їхнього коду.",
+      "ai_title": "ШІ перетворює перевірку додатків Apple на випробування для розробників",
+      "video_keywords": "frustrated developer, computer monitor, error message, office workspace"
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#8230;]",
+      "published": "2026-11-12T21:55:32+00:00",
+      "source": "The Verge",
+      "ai_summary": "Google презентувала оновлену модель Gemini, яка значно краще справляється зі складними багатоступеневими запитами та специфічними завданнями. ШІ тепер здатний ефективно розбивати важкі питання на менші частини та давати точніші відповіді у пошуку та додатку.",
+      "ai_title": "Google випустила нову модель Gemini для складних запитів",
+      "video_keywords": "typing on keyboard, AI interface, futuristic screen, mobile app"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-      "published": "2026-11-10T19:23:34+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Oura вирішила придбати стартап у сфері первинної медичної допомоги на базі штучного інтелекту. Ця угода відбулася невдовзі після того, як Oura через ринкову невизначеність відклала власний вихід на біржу.",
-      "ai_title": "Виробник смарткілець Oura купує медичний AI-стартап Counsel Health за 625 мільйонів доларів",
-      "video_keywords": "smart ring, wearable tech, medical consultation, healthcare technology"
-    },
-    {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "published": "2026-11-10T18:49:52+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "OpenAI перетворює свій чат-бот на повноцінний пошуковий та рекомендаційний двигун. Нові функції дозволять підприємствам легше взаємодіяти з користувачами, нагадуючи підхід Google.",
-      "ai_title": "OpenAI запускає нові бізнес-профілі в ChatGPT для пошуку компаній",
-      "video_keywords": "typing on keyboard, smartphone screen, artificial intelligence, business handshake"
-    },
     {
       "title": "Siri co-founder backs Helix for its voice ID tech",
       "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
@@ -332,39 +331,39 @@
       "ai_summary": "Популярний виробник трекерів запускає платформу для обміну даними про сон, відновлення та тренування між користувачами. Компанія активно трансформується у повноцінний бренд персонального здоров'я з планами на нові поглинання.",
       "ai_title": "Фітнес-бренд Whoop запускає власну соціальну мережу для спортсменів",
       "video_keywords": "smartwatch display, fitness tracker, runner on track"
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "published": "2026-11-12T22:42:51+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Демократи ініціювали офіційне розслідування щодо діяльності Nvidia у Китаї та зв'язків компанії з політичними колами США. Скандал навколо генерального директора Дженсена Хуанга набирає обертів та загрожує національній безпеці країни.",
+      "ai_title": "Конгрес США розпочав розслідування проти Nvidia та Дженсена Хуанга",
+      "video_keywords": "politicians meeting, courtroom, press conference, business documents"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "published": "2026-11-12T21:35:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Генеральний директор Nvidia Дженсен Хуанг пішов у відставку після гучного скандалу та звинувачень. Це може суттєво вплинути на глобальну гонку озброєнь у сфері штучного інтелекту між США та Китаєм.",
+      "ai_title": "Дженсен Хуанг залишає посаду керівника Nvidia через скандал",
+      "video_keywords": "corporate office, businessman walking away, empty desk, news broadcast"
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "published": "2026-11-12T21:27:10+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Nebius має намір спрямувати 40 мільярдів доларів на розширення своєї інфраструктури штучного інтелекту. Фінансування планується за рахунок передоплат клієнтів та кредитів, попри нещодавні затримки у проєктах Microsoft.",
+      "ai_title": "Nebius планує інвестувати 40 мільярдів у розвиток хмарної інфраструктури для ШІ",
+      "video_keywords": "server racks, data center, neon lights, computer screens"
     }
   ],
   "Крипта": [
-    {
-      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
-      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC warns Kalshi of imminent charges over notification of contracts: Politico\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73XRY62MBKPK389ZQG0QV22/hi-the-mathematics-of-cftc.jpg\" /></p><p>The prediction markets operator says the issue involves procedural errors affecting a handf",
-      "published": "2026-11-10T23:49:51+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Американський регулятор CFTC готує звинувачення проти оператора ринку прогнозів Kalshi через процедурні помилки. Проблема стосується неналежного повідомлення про нові контракти, що може призвести до судового позову.",
-      "ai_title": "CFTC погрожує судом платформі прогнозів Kalshi через порушення",
-      "video_keywords": "financial chart, courtroom, businessman stressed, office meeting"
-    },
-    {
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Global banks commit $270M to stablecoin venture targeting 2027 launch\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73RYKH763P9CHNYH2J89SZ9/without-stars-1.png\" /></p><p>Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US d",
-      "published": "2026-11-10T23:08:28+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Провідні світові фінансові інститути, зокрема Goldman Sachs та Citigroup, об'єдналися задля запуску проєкту Faro. Вони залучили $270 мільйонів для випуску нового цифрового активу, старт якого заплановано на 2027 рік.",
-      "ai_title": "Світові банки інвестують $270 млн у власний стейблїн",
-      "video_keywords": "banking building, digital currency, business handshake, glowing futuristic coin"
-    },
-    {
-      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-      "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg\" /></p><p>Initia said an attacker exploited compromised cloud credentials to move $3.27 million in cryp",
-      "published": "2026-11-11T05:52:14+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Проєкт Initia підтвердив чергову хакерську атаку, внаслідок якої зловмисники викрали криптовалюту на суму 3,27 мільйона доларів через скомпрометовані хмарні облікові дані. Це вже другий подібний інцидент безпеки для платформи за останні три тижні.",
-      "ai_title": "Мережа Initia постраждала від другого хакерського зламу за три тижні",
-      "video_keywords": "hacker typing laptop, cybersecurity breach, digital money theft, server room warning light"
-    },
     {
       "title": "Across Protocol restores website after hackers hijack domain",
       "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -496,6 +495,56 @@
       "summary": "",
       "published": "2026-11-12T16:45:52+00:00",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+      "summary": "",
+      "published": "2026-11-12T22:55:52+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Міністерство юстиції США розпочало агресивну кампанію проти хакерських угруповань з Північної Кореї. Вони намагаються конфіскувати понад 1.2 мільярда доларів у криптовалюті, викраденої під час гучних злаμών бірж на кшталт Binance. Це свідчить про посилення державного тиску на міжнародні криптокрадіжки.",
+      "ai_title": "США почали масштабне полювання на 1.2 мільярда доларів, вкрадених хакерами з КНДР",
+      "video_keywords": "courtroom, police investigation, digital currency, computer hacking"
+    },
+    {
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "summary": "",
+      "published": "2026-11-12T22:47:41+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Президент США нарешті визначився з кандидатурами на ключові регуляторні посади в Комісії з цінних паперів і бірж (SEC) та Комісії з торгівлі товарними ф'ючерсами (CFTC). Очікується, що ці призначення суттєво вплинуть на подальшу політику регулювання криптовалютного ринку в країні. Ринки пильно стежать за кандидатами через їхнє можливе ставлення до цифрових активів.",
+      "ai_title": "Трамп вперше за рік назвав кандидатів на керівні посади в SEC та CFTC",
+      "video_keywords": "white house, press conference, politician speaking, business meeting"
+    },
+    {
+      "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+      "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+      "summary": "",
+      "published": "2026-11-12T21:07:49+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Платформа прогнозів Kalshi офіційно припинила співпрацю з Дональдом Трампом-молодшим як радником. Причиною стало те, що пов'язаний фонд 1789 Capital інвестував у конкурентну платформу Polymarket. Це рішення підкреслює загострення конкуренції на ринку прогнозів та політичних ставок.",
+      "ai_title": "Kalshi розірвала контракт із Дональдом Трампом-молодшим через інвестиції в Polymarket",
+      "video_keywords": "business handshake, corporate office, agreement signing, angry businessman"
+    },
+    {
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg\" /></p><p>North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xS",
+      "published": "2026-11-12T22:29:58+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Кіберзлочинці з КНДР почали використовувати ринок мемкоїнів для легалізації коштів, отриманих під час масштабного зламу Binance. Водночас азійський ринок продовжує розширюватися завдяки новим інструментам, зокрема додаванню гонконгських акцій до платформи xStocks. Такі маневри демонструють постійну еволюцію методів відмивання крипти.",
+      "ai_title": "Північнокорейські хакери взялися за мемкоїни для відмивання грошей",
+      "video_keywords": "hacker typing, dark room, glowing monitors, cryptocurrency charts"
+    },
+    {
+      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png\" /></p><p>Strategy shares declined Thursday following MSCI’s decis",
+      "published": "2026-11-12T21:52:04+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Акції компанії Strategy різко просіли на тлі загального розпродажу на ринку та виключення з престижного індексу MSCI. Ситуація ускладнилася падінням курсу Біткоїна, що боляче вдарило по портфелю компанії. Інвестори демонструють занепокоєння через високу волатильність та ризиковані стратегії.",
+      "ai_title": "Акції Strategy впали на 5% через виключення з індексу MSCI та падіння Біткоїна",
+      "video_keywords": "stock market crash, red charts, panicking trader, falling graphs"
     }
   ]
 }
