@@ -1,12 +1,4 @@
 {
-  "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/": {
-    "title": "Apple випустила бета-версію AI-функцій для запису та аналізу розмов у Apple Watch",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-11-05T04:10:57.454692+02:00",
-    "summary": "Компанія Apple запустила тестування нових можливостей штучного інтелекту Audio Intelligence для смарт-годинників. Ця функція допомагає користувачам легко згадувати деталі попередніх розмов та автоматично створювати нотатки на їх основі.",
-    "video_keywords": "smartwatch, person talking, digital screen, wearable technology",
-    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
-  },
   "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says": {
     "title": "Хакерська атака на Binance на $6,3 мільярда почалася з фальшивої співбесіди",
     "category": "Крипта",
@@ -254,5 +246,13 @@
     "summary": "Проєкт Initia підтвердив чергову хакерську атаку, внаслідок якої зловмисники викрали криптовалюту на суму 3,27 мільйона доларів через скомпрометовані хмарні облікові дані. Це вже другий подібний інцидент безпеки для платформи за останні три тижні.",
     "video_keywords": "hacker typing laptop, cybersecurity breach, digital money theft, server room warning light",
     "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://massimo-nocentini.github.io/pharo-vm/world.html": {
+    "title": "Pharo перенесли у браузер за допомогою WebAssembly",
+    "category": "IT / AI",
+    "posted_at": "2026-11-13T07:38:47.863820+02:00",
+    "summary": "Розробники адаптували віртуальну машину Pharo для запуску безпосередньо у вебпереглядачі на базі технології WebAssembly. Це дозволяє взаємодіяти з середовищем програмування без необхідності встановлення додаткового софту на комп'ютер. Такий підхід значно спрощує тестування та демонстрацію проєктів.",
+    "video_keywords": "web browser, computer screen, coding, web development",
+    "link": "https://massimo-nocentini.github.io/pharo-vm/world.html"
   }
 }
