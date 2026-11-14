@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "summary": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/\">https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458900\">https://news.ycombinator.com/item?id=50458900</a></p>\n<p>Points: 18</p>\n<p># Comments: 14</p>",
-      "published": "2026-11-11T21:24:35+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Авіакомпанія United Airlines офіційно заборонила персональним AI-агентам бронювати авіаквитки від імені користувачів. Таке рішення ухвалили через потенційні загрози безпеці даних, конфіденційності та суворі регуляторні вимоги.",
-      "ai_title": "United Airlines заборонила штучному інтелекту купувати квитки для пасажирів",
-      "video_keywords": "smartphone screen, typing keyboard, airplane ticket, frustrated passenger"
-    },
-    {
-      "title": "Tools for exploring the souls of large language models",
-      "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-      "summary": "<p>Article URL: <a href=\"https://oshea00.github.io/posts/tinygpt-visualizer/\">https://oshea00.github.io/posts/tinygpt-visualizer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458434\">https://news.ycombinator.com/item?id=50458434</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
-      "published": "2026-11-11T20:45:50+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники створили спеціальні інструменти для дослідження внутрішньої архітектури та процесів прийняття рішень великих мовних моделей. Це дозволяє краще зрозуміти, як саме штучний інтелект генерує текст та обробляє інформацію.",
-      "ai_title": "Нові інструменти візуалізації внутрішньої роботи великих мовних моделей",
-      "video_keywords": "computer monitor, data visualization, glowing code, programmer working"
-    },
-    {
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the [&#8230;]",
-      "published": "2026-11-11T22:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Команда Home Assistant представила новий багатофункціональний пристрій Connect Aux-2 для легкого підключення та керування гаджетами розумного дому. Цей крок є частиною стратегії компанії зі створення більш зручних та доступних технологій для користувачів.",
-      "ai_title": "Home Assistant випустив новий універсальний гаджет для розумного дому",
-      "video_keywords": "smart home, controlling lights, modern living room, electronic device"
-    },
-    {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50462177\">https://news.ycombinator.com/item?id=50462177</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
-      "published": "2026-11-12T02:11:11+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експерти з безпеки виявили критичну вразливість віддаленого виконання кодів (RCE) у популярному вебсервері Apache HTTP. Ця проблема загрожує безпеці багатьох систем та вимагає негайного оновлення програмного забезпечення для запобігання атакам.",
-      "ai_title": "Критична вразливість RCE в Apache HTTP Server",
-      "video_keywords": "server rack, datacenter, blinking lights, computer monitor code"
-    },
-    {
       "title": "Apple shuts down support community after 28 years: what will change for users",
       "link": "https://en.ain.ua/2026/11/12/apple-shuts-down-support-community/",
       "summary": "On Apple Support Community users could discuss issues with the company's devices and help each other solve them. Currently the forum has stopped accepting new posts.",
@@ -234,6 +194,36 @@
       "ai_summary": "Компанія Perplexity представила нову версію своєї системи Decider v1.3, зосередившись на покращенні навчання, оцінки та сценаріїв використання. Оновлення покликане підвищити точність та ефективність прийняття рішень штучним інтелектом у реальних завданнях. Це рішення розширює можливості пошукових систем на базі ШІ.",
       "ai_title": "Perplexity випускає оновлення системи прийняття рішень Decider v1.3",
       "video_keywords": "typing on laptop, developer working, software interface, office desk"
+    },
+    {
+      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
+      "link": "https://github.com/mjha-arya/DOC-foundry",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mjha-arya/DOC-foundry\">https://github.com/mjha-arya/DOC-foundry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491753\">https://news.ycombinator.com/item?id=50491753</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "published": "2026-11-13T23:40:12+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий інструмент Doc-foundry використовує штучний інтелект для написання правил виявлення загроз безпеці. Окрім генерації кодів, система автоматично доводить їхню ефективність на практиці.",
+      "ai_title": "Штучний інтелект створює та тестує правила кібербезпеки",
+      "video_keywords": "cybersecurity screen, hacker typing, data code, server room"
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+      "published": "2026-11-13T23:49:11+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія розробляє амбітний проєкт під назвою World Product Graph. Його мета — створити єдину базу даних про кожний товар, що продається в мережі, аби покупці не шукали альтернативи на інших сайтах.",
+      "ai_title": "Amazon планує зібрати дані про всі товари в інтернеті",
+      "video_keywords": "online shopping, credit card, e-commerce, laptop screen"
+    },
+    {
+      "title": "FAA ground stop shuts down flights nationwide",
+      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of [&#8230;]",
+      "published": "2026-11-13T23:47:27+00:00",
+      "source": "The Verge",
+      "ai_summary": "Через надзвичайні обставини та проблеми з безпекою Федеральне управління цивільної авіації США ввело загальнонаціональну заборону на вильоти літаків. Причиною став тимчасовий збій у телекомунікаційній системі.",
+      "ai_title": "Масштабний збій у США: FAA зупинила всі польоти",
+      "video_keywords": "airport terminal, airplane taking off, flight departure board, control tower"
     }
   ],
   "Бізнес / Стартапи": [
@@ -366,29 +356,19 @@
       "ai_summary": "Нові дослідження показали, що передові китайські системи штучного інтелекту були створені з використанням процесорів Nvidia, які потрапили під експортні обмеження США. Це стає серйозним викликом для санкційної політики.",
       "ai_title": "Найпотужніші AI-моделі Китаю навчалися на заборонених чіпах Nvidia",
       "video_keywords": "microchip, computer hardware, circuit board, server racks"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "published": "2026-11-13T22:43:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Під керівництвом Хуанга Nvidia інвестувала десятки мільярдів доларів у розвиток штучного інтелекту. Тепер венчурні капіталісти та засновники стартапів готуються до зменшення обсягів фінансування та зниження оцінок компаній.",
+      "ai_title": "Відхід Дженсена Хуанга загрожує фінансуванню AI-стартапів",
+      "video_keywords": "business meeting, handshake, financial chart, corporate office"
     }
   ],
   "Крипта": [
-    {
-      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-      "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73MEN38K2N8NDYPGWJFZGPZ/hi-bitcoin-nodes-vs-miners-protection.jpg\" /></p><p>As US voters push back against new data centers, Bitcoin miners a",
-      "published": "2026-11-11T20:43:19+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Нові обмеження на будівництво традиційних дата-центрів у США створюють переваги для біткоїн-майнерів, які мають готову інфраструктуру. Вони можуть переорієнтувати свої потужності на обслуговування штучного інтелекту.",
-      "ai_title": "Обмеження дата-центрів у США можуть допомогти біткоїн-майнерам у сфері ШІ",
-      "video_keywords": "server racks, computer hardware, data center, blinking lights"
-    },
-    {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MSCI confirms Strategy’s removal from indexes at end of November\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg\" /></p><p>Strategy, Metaplanet and Upexi are marked for deletion i",
-      "published": "2026-11-12T00:09:13+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Міжнародне агентство MSCI офіційно підтвердило видалення компанії Strategy (колишня MicroStrategy) зі своїх ключових індексів наприкінці листопада. Це рішення може суттєво вплинути на інституційний капітал компанії та її акції, що тісно прив'язані до біткоїна.",
-      "ai_title": "MSCI виключає компанію Strategy зі своїх індексів",
-      "video_keywords": "stock market chart, falling graph, financial data screen, trading floor"
-    },
     {
       "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
       "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
@@ -575,6 +555,16 @@
       "ai_summary": "Японська компанія Metaplanet зафіксувала рекордні збитки після реалізації частини своїх криптовалютних активів. Негативні фінансові результати безпосередньо пов'язані з падінням ринкової оцінки та операціями з біткоїном.",
       "ai_title": "Metaplanet зазнає збитків на $170 млн через продаж біткоїнів",
       "video_keywords": "financial loss, calculator money, corporate office, stressed businessman"
+    },
+    {
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "summary": "",
+      "published": "2026-11-13T23:30:00+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Майнінгові компанії щорічно приносять до бюджету Парагваю близько 350 мільйонів доларів. Проте стрімкий розвиток індустрії штучного інтелекту змушує енергетичні компанії переорірувати потужності на користь дата-центрів ШІ, витісняючи криптовалютних майнерів.",
+      "ai_title": "Майнери біткоїна в Парагваї поступаються місцем штучному інтелекту",
+      "video_keywords": "server racks, data center, cryptocurrency mining rig, blinking lights"
     }
   ]
 }
