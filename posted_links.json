@@ -1,12 +1,4 @@
 {
-  "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/": {
-    "title": "The New York Times може придбати платформу Letterboxd за $330 мільйонів",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-11-08T00:58:43.791771+02:00",
-    "summary": "Авторитетне видання The New York Times веде переговори про купівлю популярної соціальної мережі для кіноманів Letterboxd. Ця угода свідчить про прагнення медіагіганта розширити свою присутність у сфері розваг та залучити молоду аудиторію.",
-    "video_keywords": "smartphone screen movie app, person browsing social media, film reels cinema",
-    "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
-  },
   "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform": {
     "title": "Скарбниця Hyperliquid прагне отримати статус офіційної ф'ючерсної платформ у США",
     "category": "Крипта",
@@ -254,5 +246,13 @@
     "summary": "Майнінгові компанії щорічно приносять до бюджету Парагваю близько 350 мільйонів доларів. Проте стрімкий розвиток індустрії штучного інтелекту змушує енергетичні компанії переорірувати потужності на користь дата-центрів ШІ, витісняючи криптовалютних майнерів.",
     "video_keywords": "server racks, data center, cryptocurrency mining rig, blinking lights",
     "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
+  },
+  "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/": {
+    "title": "Швидкість обробки GLM-5.3 досягла 607 токенів за секунду на серверах Nvidia",
+    "category": "IT / AI",
+    "posted_at": "2026-11-16T03:35:30.181316+02:00",
+    "summary": "Nvidia продемонструвала високу продуктивність моделі GLM-5.3, яка використовує дві станції DGX та бібліотеку vLLM. Таке рішення дозволяє досягти рекордної швидкості генерації тексту у понад 607 токенів за секунду.",
+    "video_keywords": "server room, data center, computer servers, blinking lights",
+    "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
   }
 }

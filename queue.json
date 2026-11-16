@@ -1,43 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
-      "link": "https://github.com/mjha-arya/DOC-foundry",
-      "summary": "<p>Article URL: <a href=\"https://github.com/mjha-arya/DOC-foundry\">https://github.com/mjha-arya/DOC-foundry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491753\">https://news.ycombinator.com/item?id=50491753</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-      "published": "2026-11-13T23:40:12+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Новий інструмент Doc-foundry використовує штучний інтелект для написання правил виявлення загроз безпеці. Окрім генерації кодів, система автоматично доводить їхню ефективність на практиці.",
-      "ai_title": "Штучний інтелект створює та тестує правила кібербезпеки",
-      "video_keywords": "cybersecurity screen, hacker typing, data code, server room"
-    },
-    {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
-      "published": "2026-11-13T23:49:11+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія розробляє амбітний проєкт під назвою World Product Graph. Його мета — створити єдину базу даних про кожний товар, що продається в мережі, аби покупці не шукали альтернативи на інших сайтах.",
-      "ai_title": "Amazon планує зібрати дані про всі товари в інтернеті",
-      "video_keywords": "online shopping, credit card, e-commerce, laptop screen"
-    },
-    {
-      "title": "FAA ground stop shuts down flights nationwide",
-      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of [&#8230;]",
-      "published": "2026-11-13T23:47:27+00:00",
-      "source": "The Verge",
-      "ai_summary": "Через надзвичайні обставини та проблеми з безпекою Федеральне управління цивільної авіації США ввело загальнонаціональну заборону на вильоти літаків. Причиною став тимчасовий збій у телекомунікаційній системі.",
-      "ai_title": "Масштабний збій у США: FAA зупинила всі польоти",
-      "video_keywords": "airport terminal, airplane taking off, flight departure board, control tower"
-    },
-    {
-      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-      "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-      "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/\">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497155\">https://news.ycombinator.com/item?id=50497155</a></p>\n<p>Po",
-      "published": "2026-11-14T14:09:25+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
       "title": "Italy fines Meta $887M over Android users' data access",
       "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
       "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/\">https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497009\">https://news.ycombinator.com/item?id=50497009</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</",
@@ -209,19 +172,59 @@
       "summary": "<p>Article URL: <a href=\"https://ductus.sorenblank.com\">https://ductus.sorenblank.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50509972\">https://news.ycombinator.com/item?id=50509972</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
       "published": "2026-11-15T19:42:13+00:00",
       "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "summary": "<p>Article URL: <a href=\"https://forum.torproject.org/t/security-release-0-4-9-17/22454\">https://forum.torproject.org/t/security-release-0-4-9-17/22454</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512441\">https://news.ycombinator.com/item?id=50512441</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-11-16T00:21:54+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Команда Tor Project оперативно випустила нове захисне оновлення для боротьби з тривалими DDoS-атаками. Патч покликаний стабілізувати роботу мережі та захистити користувачів від збоїв. Розробники продовжують стежити за ситуацією та радять встановити оновлення якомога швидше.",
+      "ai_title": "Tor Project випустив екстрене оновлення через потужну DDoS-атаку",
+      "video_keywords": "server room, glowing cables, cybersecurity, hacker typing"
+    },
+    {
+      "title": "What's Next for Nvidia?",
+      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "summary": "<p>Article URL: <a href=\"https://steveblank.com/2026/11/15/whats-next-for-nvidia/\">https://steveblank.com/2026/11/15/whats-next-for-nvidia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512235\">https://news.ycombinator.com/item?id=50512235</a></p>\n<p>Points: 34</p>\n<p># Comments: 19</p>",
+      "published": "2026-11-15T23:55:55+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експерти аналізують подальші кроки компанії Nvidia на тлі стрімкого розвитку технологій штучного інтелекту. Обговорюються нові ринкові виклики, стратегії розширення та потенційні напрямки для інновацій. Корпорація прагне зберегти лідерство у виробництві апаратного забезпечення для обчислень.",
+      "ai_title": "Що чекає на Nvidia у майбутньому?",
+      "video_keywords": "microchip, computer hardware, glowing circuit board, futuristic tech"
+    },
+    {
+      "title": "Jensen Huang might return to Nvidia as CEO",
+      "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/\">https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50511982\">https://news.ycombinator.com/item?id=50511982</a></p>\n<p>Points: ",
+      "published": "2026-11-15T23:24:53+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "З'явилися чутки про можливе повернення Дженсена Хуанга до керування компанією Nvidia. Повідомляється, що він обговорює це питання зі своїми соратниками та інвесторами. Подібний крок може суттєво вплинути на подальшу стратегію технологічного гіганта.",
+      "ai_title": "Дженсен Хуанг може повернутися на посаду генерального директора Nvidia",
+      "video_keywords": "corporate boardroom, businessman speaking, modern office, corporate presentation"
+    },
+    {
+      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+      "link": "https://lastcomplication.com/",
+      "summary": "<p>Article URL: <a href=\"https://lastcomplication.com/\">https://lastcomplication.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50511718\">https://news.ycombinator.com/item?id=50511718</a></p>\n<p>Points: 40</p>\n<p># Comments: 5</p>",
+      "published": "2026-11-15T22:48:52+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники представили нову інді-гру The Last Complication, присвячену складному конструюванню годинників. Проєкт натхнений відомими інженерними головоломками у стилі студії Zachtronics. Гравцям доведеться розв'язувати складні механічні завдання та створювати унікальні пристрої.",
+      "ai_title": "Вийшла нова головоломка про годинникарство у стилі Zachtronics",
+      "video_keywords": "clock gears, watchmaker hands, mechanical parts, macro clockwork"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+      "published": "2026-11-16T01:26:56+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія Apple запустила нове дослідження, щоб з'ясувати, як користувачі взаємодіють з розмовними медичними чат-ботами. Мета проєкту — оцінити реальну користь та точність відповідей штучного інтелекту у сфері охорони здоров'я. Дослідження проводиться спільно з клінічною платформою OpenEvidence.",
+      "ai_title": "Apple досліджує ефективність медичних ШІ-інструментів",
+      "video_keywords": "doctor using tablet, medical technology, digital healthcare, hospital interface"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "published": "2026-11-13T22:43:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Під керівництвом Хуанга Nvidia інвестувала десятки мільярдів доларів у розвиток штучного інтелекту. Тепер венчурні капіталісти та засновники стартапів готуються до зменшення обсягів фінансування та зниження оцінок компаній.",
-      "ai_title": "Відхід Дженсена Хуанга загрожує фінансуванню AI-стартапів",
-      "video_keywords": "business meeting, handshake, financial chart, corporate office"
-    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -291,6 +294,26 @@
       "ai_summary": "Популярне шоу Saturday Night Live присвятило новий епізод пародіям на відомих технологічних керівників. Актори шоу створили збірні образи незграбних IT-лідерів, обігруючи їхнє особисте життя та шпигунські пристрасті.",
       "ai_title": "Учасники Saturday Night Live висміяли техно-мільярдерів",
       "video_keywords": "tv studio, comedian acting, audience laughing, television broadcast"
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "published": "2026-11-16T01:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Компанія Apple презентувала новий застосунок, призначений для масштабних медичних досліджень. Він допоможе проаналізувати, як звичайні користувачі взаємодіють зі штучним інтелектом у повсякденному догляді за здоров'ям.",
+      "ai_title": "Apple запускає новий застосунок для дослідження впливу ШІ на здоров'я",
+      "video_keywords": "smartphone, medical app, healthcare technology, person using phone"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "published": "2026-11-15T23:30:00+00:00",
+      "source": "TechCrunch",
+      "ai_summary": "Індійський розробник чіпів Bharat Semi успішно закрив раунд посівного фінансування на суму 24 мільйони доларів. Компанія планує завоювати глобальний ринок сенсорів на базі штучного інтелекту та вже має контракти з гігантами на кшталт General Atomics.",
+      "ai_title": "Індійський стартап Bharat Semi залучив $24 млн на ринку AI-сенсорів",
+      "video_keywords": "microchip, semiconductor, electronics laboratory, circuit board"
     }
   ],
   "Крипта": [
@@ -370,6 +393,26 @@
       "summary": "",
       "published": "2026-11-15T19:30:00+00:00",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
+    },
+    {
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png\" /></p><p>Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has ",
+      "published": "2026-11-15T22:50:59+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Останні дані свідчать про те, що масштабний розпродаж першої криптовалюти відбувається переважно через тиск з боку інвесторів зі США. Цей спад на ринку збігся в часі з новинами про можливе повернення Дженсена Хуанга до активного управління Nvidia.",
+      "ai_title": "Американські інвестори спровокували обвал біткоїна",
+      "video_keywords": "cryptocurrency chart, red candlestick chart, bitcoin graph, stock market crash"
+    },
+    {
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Jensen Huang weighs Nvidia comeback days after shock exit: FT\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GS2G61SYB3FQX1TYFRT8TR/nvidia-knock.jpg\" /></p><p>Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House sup",
+      "published": "2026-11-15T23:47:45+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Провідні топменеджери Кремнієвої долини планують кампанію за повернення Дженсена Хуанга на керівну посаду в Nvidia. За даними ЗМІ, організатори ініціативи також намагаються залучити підтримку Білого дому для цього кроку.",
+      "ai_title": "Дженсен Хуанг готує гучне повернення до Nvidia",
+      "video_keywords": "tech executive, corporate office, modern boardroom, business meeting"
     }
   ]
 }
