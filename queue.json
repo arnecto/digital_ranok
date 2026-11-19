@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-      "link": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-      "summary": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver a safety alert about elevated chlorine levels in the [&#8230;]",
-      "published": "2026-11-16T18:29:55+00:00",
-      "source": "The Verge",
-      "ai_summary": "Всесвітній збій сервісів Microsoft 365 та Outlook спричинив реальні наслідки в одному з німецьких готелів, де через відсутність електронних сповіщень сталася аварія системи басейну. Внаслідок підвищення рівня хлору постраждало 15 гостей, які надихнулися токсичними випарами.",
-      "ai_title": "Глобальний збій Microsoft призвів до отруєння хлором у готелі",
-      "video_keywords": "swimming pool, hotel lobby, emergency lights, warning sign, computer outage"
-    },
-    {
-      "title": "Running coding agents without handing them my credentials",
-      "link": "https://blog.antonio.cx/running-agents-with-lend",
-      "summary": "<p>Article URL: <a href=\"https://blog.antonio.cx/running-agents-with-lend\">https://blog.antonio.cx/running-agents-with-lend</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526152\">https://news.ycombinator.com/item?id=50526152</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
-      "published": "2026-11-17T01:18:56+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розглядається новий метод безпечного запуску автономних AI-агентів для програмування. Це дозволяє розробникам делегувати завдання штучному інтелекту, не ризикуючи компрометацією конфіденційних паролів та токенів доступу.",
-      "ai_title": "Як запускати AI-агентів для написання коду без передачі особистих облікових даних",
-      "video_keywords": "programmer typing code, computer screen, software development"
-    },
-    {
-      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-      "link": "https://github.com/0nelight/sutra-os",
-      "summary": "<p>Article URL: <a href=\"https://github.com/0nelight/sutra-os\">https://github.com/0nelight/sutra-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50525052\">https://news.ycombinator.com/item?id=50525052</a></p>\n<p>Points: 29</p>\n<p># Comments: 11</p>",
-      "published": "2026-11-16T23:25:41+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розпочато випуск Sutra-OS — відкритої платформи для побудови та управління онтологіями, яку користувачі можуть розгорнути на власних серверах. Це рішення допомагає структурувати складні бази знань та дані для проєктів.",
-      "ai_title": "Sutra-OS: нова самохостингова платформа для роботи з онтологіями",
-      "video_keywords": "server room, data center, dashboard on monitor"
-    },
-    {
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&#8230;]",
-      "published": "2026-11-16T23:35:58+00:00",
-      "source": "The Verge",
-      "ai_summary": "Один із ключових учасників кіберзлочинного угруповання Lapsus$, який у 2022 році опублікував десятки відео з розробки Grand Theft Auto VI, офіційно визнав провину перед судом. Хакер також причетний до атак на інші великі технологічні компанії.",
-      "ai_title": "Хакер, який організував гучний злам та злив GTA VI, визнав свою провину",
-      "video_keywords": "courtroom judge, hacker typing, police handcuffs"
-    },
-    {
       "title": "GPT‑6.2 Astra and Sol",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p>\n<p>Points: 579</p>\n<p># Comments: 326</p>",
@@ -199,19 +159,39 @@
       "ai_summary": "Попри нещодавні заклики техногігантів та етичних комітетів призупинити тренування наймасштабніших моделей через ризики безпеки, виробники апаратного забезпечення продовжують гонку. Потреба у нових потужних чіпах лише зростає на тлі автономних експериментів систем із самостійного хакерства. Кремнієва індустрія рухається вперед, не чекаючи на регуляторні паузи чи згоду дослідників.",
       "ai_title": "Індустрія чіпів ігнорує заклик до паузи в розробці надпотужного AI",
       "video_keywords": "microchip manufacturing, cleanroom robotics, computer hardware, server processors"
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "summary": "<p>Article URL: <a href=\"https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering\">https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50553225\">https://news.ycombinator.com/item?id=50553225</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+      "published": "2026-11-18T22:29:13+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Новий підхід до аналізу та зламу програмного забезпечення передбачає активне використання великих мовних моделей (LLM). Це значно прискорює процес дослідження чужого коду та пошуку вразливостей. Розробники обговорюють переваги та ризики такого автоматизованого реверс-інжинірингу.",
+      "ai_title": "Реверс-інжиніринг за допомогою штучного інтелекту",
+      "video_keywords": "programmer working, computer code, monitor screen, digital matrix"
+    },
+    {
+      "title": "GTA6-like as a 942Kb UEFI bootable image",
+      "link": "https://github.com/eklavya-raj/gta6-uefi",
+      "summary": "<p>Article URL: <a href=\"https://github.com/eklavya-raj/gta6-uefi\">https://github.com/eklavya-raj/gta6-uefi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50553192\">https://news.ycombinator.com/item?id=50553192</a></p>\n<p>Points: 27</p>\n<p># Comments: 27</p>",
+      "published": "2026-11-18T22:26:48+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник створив надзвичайно мініатюрну візуальну демонстрацію, яка нагадує GTA 6 і вміщується у файлі розміром всього 942 кілобайти. Проєкт запускається безпосередньо з UEFI-седовища ще до завантаження основної операційної системи. Це вражаючий приклад оптимізації та технічної майстерності у кодуванні.",
+      "ai_title": "Гра у стилі GTA 6 вклалася у 942 КБ завдяки завантажувачу UEFI",
+      "video_keywords": "computer motherboard, booting screen, microchip, electronics repair"
+    },
+    {
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
+      "published": "2026-11-18T23:18:35+00:00",
+      "source": "The Verge",
+      "ai_summary": "Школи Нью-Йорка, Лос-Анджелеса та Чикаго розглядають альтернативи пошуковику Google через нову політику компанії. Google заявила, що повністю вимкне пошук для навчальних закладів, які відмовляються від інтеграції її функцій зі штучним інтелектом Gemini. Така ультимативна позиція техногіганта викликала різке невдоволення у сфері освіти.",
+      "ai_title": "Найбільші шкільні округи США планують відмовитися від Google Search",
+      "video_keywords": "students in classroom, school computer lab, teenagers typing, modern school"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "published": "2026-11-16T23:32:32+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Новий стартап у сфері штучного інтелекту Corba залучив 125 мільйонів доларів у раунді серії А лише через три місяці після запуску продукту. Оцінка компанії сягнула одного мільярда доларів за підтримки венчурного фонду NEA.",
-      "ai_title": "AI-стартап у сфері кібербезпеки Corma досяг оцінки в $1 млрд за рекордні 3 місяці",
-      "video_keywords": "cybersecurity, hacker coding, modern office, futuristic interface"
-    },
     {
       "title": "Model ML raises $250M to automate investment banking grunt work",
       "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
@@ -346,19 +326,44 @@
       "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
       "published": "2026-11-18T16:14:09+00:00",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "published": "2026-11-18T23:45:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "published": "2026-11-18T23:25:17+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "published": "2026-11-18T23:17:28+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "published": "2026-11-18T22:58:11+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "published": "2026-11-18T22:11:15+00:00",
+      "source": "TechCrunch"
     }
   ],
   "Крипта": [
-    {
-      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
-      "link": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia shares fall 4% as board reportedly rules out Huang return\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KABBJFAJNZZ9Y5F7TA19N8/ripping-paper-white-hands.jpg\" /></p><p>The chipmaker’s board is reportedly focused on investigating Huang’s conduct, even as a petition calling f",
-      "published": "2026-11-16T23:50:41+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Вартість акцій технологічного гіганта Nvidia знизилася на 4 відсотки після появи інформації про те, що рада директорів виключає повернення Хуанга. Наразі керівництво зосереджене на розслідуванні його дій попри петиції.",
-      "ai_title": "Акції Nvidia впали на 4% на тлі новин про керівництво компанії",
-      "video_keywords": "stock market chart dropping, red graphs falling, computer screen finance, business analytics office"
-    },
     {
       "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
       "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
@@ -538,6 +543,26 @@
       "ai_summary": "Курс біткоїна різко знизився нижче позначки 63 000 доларів після виступів представників Федеральної резервної системи США. Чиновники натякнули на несподіване та різке підвищення процентної ставки одразу на 50 базисних пунктів. Така риторика спричинила хвилю занепокоєння серед інвесторів як на крипторинку, так і на традиційних біржах.",
       "ai_title": "Біткоїн та фондові ринки впали через заяву ФРС про можливе підвищення ставки",
       "video_keywords": "stock exchange board, red arrow down, stressed trader, financial crash"
+    },
+    {
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "summary": "",
+      "published": "2026-11-19T00:33:46+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Судовий тиск на індустрію прогнозування та криптовалют у США продовжує зростати. Черговий апеляційний суд підтримав обмеження, що створюють додаткові правові перешкоди для компанії Kalshi. Це рішення формує тривожний прецедент для всього сектору.",
+      "ai_title": "Апеляційний суд США виніс чергове рішення не на користь платформи Kalshi",
+      "video_keywords": "courthouse exterior, judge gavel, legal documents, law courtroom"
+    },
+    {
+      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+      "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether invokes The Big Short in swipe at S&amp;P over USDT reserve risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R37068GHKH9WAH82DY4DT6/tether-with-watermark.png\" /></p><p>S&amp;P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the ",
+      "published": "2026-11-18T21:57:35+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія Tether різко відповіла на оцінки S&P Global щодо ризиків її резервів стейблкоїна USDT. Емітенти токена порівняли скептиків із персонажами знаменитого фільму «Гра на пониження», натякаючи на хибність їхніх прогнозованих загроз. Рейтингова агенція при цьому не стала змінювати поточну оцінку стабільності активу.",
+      "ai_title": "Tether порівняла критиканів із фільмом «Гра на пониження через ризики USDT»",
+      "video_keywords": "financial charts, stock market graphs, digital currency, businessman typing"
     }
   ]
 }
