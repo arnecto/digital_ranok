@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "AI is killing All About Berlin",
-      "link": "https://nicolasbouliane.com/blog/death-by-ai",
-      "summary": "<p>Article URL: <a href=\"https://nicolasbouliane.com/blog/death-by-ai\">https://nicolasbouliane.com/blog/death-by-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50542705\">https://news.ycombinator.com/item?id=50542705</a></p>\n<p>Points: 286</p>\n<p># Comments: 246</p>",
-      "published": "2026-11-18T06:47:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Популярний інформаційний сайт All About Berlin зіткнувся з кризою через розвиток генеративного штучного інтелекту. Автори ресурсу зазначають, що пошукові системи та AI-зведення забирають весь трафік, роблячи створення якісного локального контенту економічно нежиттєздатним.",
-      "ai_title": "Штучний інтелект руйнує незалежні міські медіа",
-      "video_keywords": "person typing computer, empty office, frustrated worker, digital dashboard"
-    },
-    {
       "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
       "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "summary": "<p>Article URL: <a href=\"https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\">https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547777\">https://news.ycombinator.com/item?id=50547777</a></p>\n<p>Points: 78</p>\n<p># Comments: 29</p>",
@@ -195,6 +185,26 @@
       "summary": "<p>Article URL: <a href=\"https://github.com/openssl/openssl/pull/33652\">https://github.com/openssl/openssl/pull/33652</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569226\">https://news.ycombinator.com/item?id=50569226</a></p>\n<p>Points: 54</p>\n<p># Comments: 29</p>",
       "published": "2026-11-20T02:01:09+00:00",
       "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [&#8230;]",
+      "published": "2026-11-20T12:30:47+00:00",
+      "source": "The Verge",
+      "ai_summary": "Месенджер Signal обмежує можливість створення скріншотів на пристроях Android та iOS, щоб захистити особисті повідомлення від вбудованих агентів штучного інтелекту, таких як Gemini та Siri. Керівництво компанії вважає, що аналіз екрана ОС підриває незалежні гарантії приватності сервісу.",
+      "ai_title": "Signal блокує штучний інтелект від читання екранів користувачів",
+      "video_keywords": "smartphone screen, typing message, privacy lock, hands holding phone"
+    },
+    {
+      "title": "Why the robots are ditching Uber",
+      "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We [&#8230;]",
+      "published": "2026-11-20T12:00:00+00:00",
+      "source": "The Verge",
+      "ai_summary": "Попри нещодавній оптимізм керівництва Uber щодо партнерства з лідером у сфері автономних таксі Waymo, ситуація на ринку починає змінюватися. Автономні роборовери та таксі знаходять нові шляхи розвитку поза межами традиційних агрегаторів поїздок.",
+      "ai_title": "Чому роботаксі масово залишають платформу Uber",
+      "video_keywords": "autonomous car, driverless taxi, empty driver seat, modern city street"
     }
   ],
   "Бізнес / Стартапи": [
@@ -333,51 +343,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
-      "link": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
-      "summary": "",
-      "published": "2026-11-18T09:14:15+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "link": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-      "summary": "",
-      "published": "2026-11-18T07:37:59+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
-      "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-      "summary": "",
-      "published": "2026-11-18T07:27:48+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
-    {
-      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
-      "link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"World Bank partners with Circle, Citi to explore stablecoins for payments\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg\" /></p><p>The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund trace",
-      "published": "2026-11-18T09:17:18+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
-      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SOL comes out of Breakpoint 7% higher as Solana exits beta\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PVBTFSABZPYDQ0WHD9YNKW/price-movements-solana.png\" /></p><p>Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it h",
-      "published": "2026-11-18T08:41:16+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-      "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-      "summary": "",
-      "published": "2026-11-18T15:38:38+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Німецький суддя запропонував закрити резонансну справу піратського сайту Movie2k, якщо головний обвинувачений добровільно передасть державі свої біткоїнові активи. Мова йде про рекордну суму у 2,56 мільярда доларів у криптовалюті. Це може стати однією з найбільших конфіскацій цифрових активів в історії правосуддя.",
-      "ai_title": "Німецький суд готовий закрити справу Movie2k в обмін на біткоїни на $2,56 мільярда",
-      "video_keywords": "courtroom, judge gavel, bitcoin coins, prison cell"
-    },
     {
       "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
       "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
@@ -527,6 +492,56 @@
       "ai_summary": "У третьому кварталі великі інвестиційні фонди знову почали активно купувати американські спотові біткоїн-ETF після тривалого періоду продажу. Керуючі активами додали на свої баланси еквівалент майже 50 тисяч біткоїнів, демонструючи відновлення довіри до криптоактивів.",
       "ai_title": "Інституційні інвестори масово повертаються в біткоїн-ETF",
       "video_keywords": "financial charts, investment portfolio, stock exchange monitors, businessman trading"
+    },
+    {
+      "title": "ECB’s Largarde warns Europe could lose control of growing tokenized asset market",
+      "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+      "summary": "",
+      "published": "2026-11-20T13:11:49+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Очільниця Європейського центрального банку Крістін Лагард попередила про ризики втрати контролю над ринком токенізованих активів, що стрімко зростає. Це може створити додаткові виклики для фінансової стабільності регіону та потребує пильнішого регулювання.",
+      "ai_title": "Європа може втратити контроль над токенізованими активами",
+      "video_keywords": "eu flag, european central bank, digital currency, financial charts"
+    },
+    {
+      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+      "summary": "",
+      "published": "2026-11-20T12:15:08+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "На ринках біткоїна, акцій та золота зростає напруга серед інвесторів. Показники ринкової волатильності стрімко підіймаються, сигналізуючи про можливі різкі коливання цін.",
+      "ai_title": "Трейдери б'ють на сполох через зростання волатильності",
+      "video_keywords": "trading floor, stock market ticker, nervous trader, financial graphs"
+    },
+    {
+      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+      "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg\" /></p><p>OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Bina",
+      "published": "2026-11-20T11:31:41+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Аналітики зафіксували переміщення майже 600 мільйонів доларів у криптовалюті ETH, які хакер здійснив протягом двох днів. Кошти виводилися через децентралізовані протоколи THORChain та Chainflip для ускладнення відстеження.",
+      "ai_title": "Хакер Binance перевів Ethereum на сотні мільйонів доларів",
+      "video_keywords": "hacker screen, dark room, computer code, cyber security"
+    },
+    {
+      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
+      "link": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VanEck to end Gemini ETF custody deals, keeps Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png\" /></p><p>VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinbase will continue serving as a custodia",
+      "published": "2026-11-20T10:54:38+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія VanEck планує завершити угоди про зберігання активів з криптобіржею Gemini для трьох своїх ETF у лютому 2027 року. Водночас співпраця з Coinbase у цій сфері успішно триватиме.",
+      "ai_title": "VanEck припиняє співпрацю з Gemini щодо зберігання ETF",
+      "video_keywords": "corporate handshake, financial office, modern boardroom, business meeting"
+    },
+    {
+      "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+      "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp\" /></p><p>Bitcoin’s 21-day moving average fell belo",
+      "published": "2026-11-20T10:29:10+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Технічні індикатори показують, що біткоїн наблизився до повторення патерну на графіку, який передував падінню до 25 тисяч доларів у 2023 році. Це викликає побоювання у частини трейдерів щодо подальшої динаміки ринку.",
+      "ai_title": "Біткоїн повторює тривожний графічний патерн",
+      "video_keywords": "bitcoin chart, red candles, stock market crash, financial analytics"
     }
   ]
 }
