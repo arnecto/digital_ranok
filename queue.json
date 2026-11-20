@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "link": "https://revscope.co/blog/search-seo-geo-2026/",
-      "summary": "<p>Article URL: <a href=\"https://revscope.co/blog/search-seo-geo-2026/\">https://revscope.co/blog/search-seo-geo-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540178\">https://news.ycombinator.com/item?id=50540178</a></p>\n<p>Points: 50</p>\n<p># Comments: 27</p>",
-      "published": "2026-11-18T00:17:58+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нові функції штучного інтелекту в пошуковій системі Google суттєво змінюють поведінку користувачів. Через те, що відповіді з'являються одразу на сторінці пошуку, сторонні сайти втрачають значну частину традиційного трафіку.",
-      "ai_title": "ШІ-відповіді від Google скорочують пошуковий трафік на 40%",
-      "video_keywords": "person typing, computer screen, modern office, web browsing"
-    },
-    {
-      "title": "Cerebras Disaggregated Inference",
-      "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-      "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\">https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540472\">https://news.ycombinator.com/item?id=50540472</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-      "published": "2026-11-18T00:56:23+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Компанія Cerebras представила технологію дезагрегованого інференсу для прискорення роботи штучного інтелекту. Це рішення дозволяє ефективніше розподіляти обчислювальні навантаження під час запуску складних мовних моделей.",
-      "ai_title": "Cerebras запускає нову систему дезагрегованого інференсу",
-      "video_keywords": "server room, flashing lights, microchip, supercomputer"
-    },
-    {
       "title": "AI is killing All About Berlin",
       "link": "https://nicolasbouliane.com/blog/death-by-ai",
       "summary": "<p>Article URL: <a href=\"https://nicolasbouliane.com/blog/death-by-ai\">https://nicolasbouliane.com/blog/death-by-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50542705\">https://news.ycombinator.com/item?id=50542705</a></p>\n<p>Points: 286</p>\n<p># Comments: 246</p>",
@@ -194,56 +174,30 @@
       "ai_summary": "Користувачі шоломів віртуальної реальності Meta Quest тепер можуть купувати та орендувати 3D-фільми через спеціальний додаток. У бібліотеці контенту з'явилися відомі блокбастери та музичні шоу для перегляду в immersive-форматі. Це оновлення покликане розширити можливості розважального контенту у метавсесвіті.",
       "ai_title": "Meta додала понад 150 тривимірних фільмів для гарнітур Quest VR",
       "video_keywords": "person wearing VR headset, virtual reality, 3D glasses, digital cinema"
+    },
+    {
+      "title": "What Comes After AGI?",
+      "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "summary": "<p>Article URL: <a href=\"https://institute.deepmind.com/essays/what-comes-after-agi/\">https://institute.deepmind.com/essays/what-comes-after-agi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569519\">https://news.ycombinator.com/item?id=50569519</a></p>\n<p>Points: 19</p>\n<p># Comments: 15</p>",
+      "published": "2026-11-20T02:44:13+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/\">https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569516\">https://news.ycombinator.com/item?id=50569516</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+      "published": "2026-11-20T02:43:49+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "<p>Article URL: <a href=\"https://github.com/openssl/openssl/pull/33652\">https://github.com/openssl/openssl/pull/33652</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569226\">https://news.ycombinator.com/item?id=50569226</a></p>\n<p>Points: 54</p>\n<p># Comments: 29</p>",
+      "published": "2026-11-20T02:01:09+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "published": "2026-11-18T01:44:21+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Вартість приватних інвестицій компанії Nvidia майже потроїлася за останні дев'ять місяців завдяки активній роботі засновника Дженсена Хуанга та зростанню капіталізації портфельних компаній. Проте звільнення Хуанга ставлять під загрозу укладення нових подібних угод у майбутньому.",
-      "ai_title": "Інвестиції Nvidia у стартапи зросли до 65 мільярдів доларів",
-      "video_keywords": "venture capital, financial chart, business meeting, startup office"
-    },
-    {
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "published": "2026-11-18T00:16:50+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Попри внутрішні потрясіння через відхід скандального засновника та генерального директора Дженсена Хуанга, компанія оголосила, що її серія рекордних фінансових показників триватиме. Nvidia запевняє інвесторів у збереженні високих темпів генерації прибутку на найближчий час.",
-      "ai_title": "Nvidia прогнозує подальше стрімке зростання доходів",
-      "video_keywords": "stock market, financial growth, modern skyscraper, business presentation"
-    },
-    {
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-      "published": "2026-11-18T00:01:00+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Відома венчурна компанія Atomico у своєму щорічному звіті зазначила, що Європа є базою для багатьох найшвидше зростаючих бізнесів у світі. Експерти закликають регіон активніше підтримувати та контролювати власні історії успіху на глобальному ринку.",
-      "ai_title": "Фонд Atomico закликає Європу утримати свої найуспішніші компанії",
-      "video_keywords": "european flag, city skyline, business handshake, modern office"
-    },
-    {
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "published": "2026-11-17T23:37:48+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Виконувач обов'язків генерального директора Nvidia заявив, що компанія повністю припиняє продаж своїх мікросхем до Китаю після відставки Дженсена Хуанга. Наразі експерти оцінюють фінансові збитки, які понесе корпорація через це стратегічне рішення.",
-      "ai_title": "Nvidia повністю припиняє роботу на ринку Китаю",
-      "video_keywords": "shipping container, cargo port, computer hardware, microchip"
-    },
-    {
-      "title": "Google’s AI feature in Search gets its own incognito mode",
-      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-      "published": "2026-11-18T18:04:05+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "More banks say customers using AI agents are on their own — even if they get hacked",
       "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
@@ -379,26 +333,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
-      "summary": "",
-      "published": "2026-11-18T00:46:25+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Потенційний керівник Комісії з торгівлі товарними ф'ючерсами висловив сумніви щодо суспільної користі платформ для прогнозування. Це відбувається на тлі загострення юридичних баталій та посилення уваги регуляторів до цього сектору.",
-      "ai_title": "Кандидат до CFTC сумнівається у користі ринків прогнозів на тлі судових позовів",
-      "video_keywords": "courtroom, financial chart, businessman speaking, legal documents"
-    },
-    {
-      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
-      "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nvidia board rejects Huang comeback despite record $116B quarter\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg\" /></p><p>Nvidia beat Wall Street’s revenue expectations by 5.6% and issue",
-      "published": "2026-11-18T00:16:43+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Nvidia продемонструвала вражаючі фінансові результати, перевищивши очікування Волл-стріт із рекордним доходом у 116 мільярдів доларів. Проте рада директорів відхилила спробу повернення гендиректора на тлі стратегічних розбіжностей.",
-      "ai_title": "Рада директорів Nvidia відхилила повернення Хуанга попри рекордний квартал",
-      "video_keywords": "microchip, server room, businessman in suit, stock market screen"
-    },
     {
       "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
       "link": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
@@ -573,6 +507,26 @@
       "ai_summary": "Компанія MoonPay подала заявку на отримання банківської ліцензії національного трасту в США. Це дозволить їй самостійно випускати стейблкоїни та надавати послуги кастодіального зберігання цифрових активів.",
       "ai_title": "MoonPay планує створити власний банк для стейблкоїнів у США",
       "video_keywords": "modern bank building, corporate office handshake, digital tablet finance app"
+    },
+    {
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+      "summary": "",
+      "published": "2026-11-20T03:32:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Перша криптовалюта оновила мінімальні позначки за останні чотири місяці через загальне просідання технологічного сектору фондового ринку. Настрої інвесторів погіршилися після виходу на біржу компанії Anthropic, що потягнуло за собою весь ринок ризикових активів.",
+      "ai_title": "Біткоїн впав до чотиримісячного мінімуму на тлі падіння техноакцій",
+      "video_keywords": "bitcoin chart, cryptocurrency crash, red numbers, stock market trading floor"
+    },
+    {
+      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Institutions pile back into US Bitcoin ETFs in Q3 after selling streak\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg\" /></p><p>Asset managers added the equivalent of 49,229 Bitcoin to thei",
+      "published": "2026-11-20T03:33:22+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "У третьому кварталі великі інвестиційні фонди знову почали активно купувати американські спотові біткоїн-ETF після тривалого періоду продажу. Керуючі активами додали на свої баланси еквівалент майже 50 тисяч біткоїнів, демонструючи відновлення довіри до криптоактивів.",
+      "ai_title": "Інституційні інвестори масово повертаються в біткоїн-ETF",
+      "video_keywords": "financial charts, investment portfolio, stock exchange monitors, businessman trading"
     }
   ]
 }
