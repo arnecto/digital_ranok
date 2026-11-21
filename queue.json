@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "GTA6-like as a 942Kb UEFI bootable image",
-      "link": "https://github.com/eklavya-raj/gta6-uefi",
-      "summary": "<p>Article URL: <a href=\"https://github.com/eklavya-raj/gta6-uefi\">https://github.com/eklavya-raj/gta6-uefi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50553192\">https://news.ycombinator.com/item?id=50553192</a></p>\n<p>Points: 27</p>\n<p># Comments: 27</p>",
-      "published": "2026-11-18T22:26:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник створив надзвичайно мініатюрну візуальну демонстрацію, яка нагадує GTA 6 і вміщується у файлі розміром всього 942 кілобайти. Проєкт запускається безпосередньо з UEFI-седовища ще до завантаження основної операційної системи. Це вражаючий приклад оптимізації та технічної майстерності у кодуванні.",
-      "ai_title": "Гра у стилі GTA 6 вклалася у 942 КБ завдяки завантажувачу UEFI",
-      "video_keywords": "computer motherboard, booting screen, microchip, electronics repair"
-    },
-    {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
-      "published": "2026-11-18T23:18:35+00:00",
-      "source": "The Verge",
-      "ai_summary": "Школи Нью-Йорка, Лос-Анджелеса та Чикаго розглядають альтернативи пошуковику Google через нову політику компанії. Google заявила, що повністю вимкне пошук для навчальних закладів, які відмовляються від інтеграції її функцій зі штучним інтелектом Gemini. Така ультимативна позиція техногіганта викликала різке невдоволення у сфері освіти.",
-      "ai_title": "Найбільші шкільні округи США планують відмовитися від Google Search",
-      "video_keywords": "students in classroom, school computer lab, teenagers typing, modern school"
-    },
-    {
       "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
       "link": "https://kapteko.com/15-million-webservers/",
       "summary": "<p>Article URL: <a href=\"https://kapteko.com/15-million-webservers/\">https://kapteko.com/15-million-webservers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50556533\">https://news.ycombinator.com/item?id=50556533</a></p>\n<p>Points: 44</p>\n<p># Comments: 7</p>",
@@ -195,54 +175,19 @@
       "ai_summary": "Компанія OpenAI опублікувала технічні деталі щодо протидії так званій змагальній дистиляції, яка використовується недобросовісними розробниками для несанкціонованого копіювання можливостей великих мовних моделей. Такі заходи спрямовані на захист інтелектуальної власності та забезпечення безпеки передових систем штучного інтелекту.",
       "ai_title": "OpenAI вживає заходів проти змагальної дистиляції моделей",
       "video_keywords": "artificial intelligence, cyber security, data protection, futuristic interface"
+    },
+    {
+      "title": "Re: Riemann",
+      "link": "https://borretti.me/article/re-riemann",
+      "summary": "<p>Article URL: <a href=\"https://borretti.me/article/re-riemann\">https://borretti.me/article/re-riemann</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583982\">https://news.ycombinator.com/item?id=50583982</a></p>\n<p>Points: 129</p>\n<p># Comments: 115</p>",
+      "published": "2026-11-20T23:42:44+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Стаття пропонує свіжий підхід до однієї з найвідоміших нерозв'язаних математичних проблем — гіпотези Рімана. Автор аналізує попередні спроби доведення та пропонує нові ідеї для подальших досліджень у цій галузі.",
+      "ai_title": "Новий погляд на гіпотезу Рімана в сучасній математиці",
+      "video_keywords": "mathematics equations blackboard, scientific formulas writing, chalkboard equations"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "published": "2026-11-18T23:45:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "published": "2026-11-18T23:25:17+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "published": "2026-11-18T23:17:28+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "published": "2026-11-18T22:58:11+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "published": "2026-11-18T22:11:15+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "published": "2026-11-19T16:59:23+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Компанія Anthropic успішно вийшла на біржу NASDAQ з ціною акцій 111 доларів, що на третину перевищило початкову вартість IPO. Це забезпечило залучення понад 80 мільярдів доларів нового капіталу для розвитку штучного інтелекту.",
-      "ai_title": "Акції Anthropic злетіли на 33% під час дебюту на NASDAQ",
-      "video_keywords": "stock market, trading floor, digital screen, financial charts"
-    },
     {
       "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
       "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
@@ -345,26 +290,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
-      "summary": "",
-      "published": "2026-11-19T00:33:46+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Судовий тиск на індустрію прогнозування та криптовалют у США продовжує зростати. Черговий апеляційний суд підтримав обмеження, що створюють додаткові правові перешкоди для компанії Kalshi. Це рішення формує тривожний прецедент для всього сектору.",
-      "ai_title": "Апеляційний суд США виніс чергове рішення не на користь платформи Kalshi",
-      "video_keywords": "courthouse exterior, judge gavel, legal documents, law courtroom"
-    },
-    {
-      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-      "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tether invokes The Big Short in swipe at S&amp;P over USDT reserve risks\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R37068GHKH9WAH82DY4DT6/tether-with-watermark.png\" /></p><p>S&amp;P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the ",
-      "published": "2026-11-18T21:57:35+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія Tether різко відповіла на оцінки S&P Global щодо ризиків її резервів стейблкоїна USDT. Емітенти токена порівняли скептиків із персонажами знаменитого фільму «Гра на пониження», натякаючи на хибність їхніх прогнозованих загроз. Рейтингова агенція при цьому не стала змінювати поточну оцінку стабільності активу.",
-      "ai_title": "Tether порівняла критиканів із фільмом «Гра на пониження через ризики USDT»",
-      "video_keywords": "financial charts, stock market graphs, digital currency, businessman typing"
-    },
     {
       "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
       "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
