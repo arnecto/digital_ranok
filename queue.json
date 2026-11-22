@@ -1,16 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
-      "published": "2026-11-19T22:31:41+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія Apple шукає інженерів для створення передового штучного інтелекту, здатного самостійно керувати додатками, переглядати вебсторінки та писати код. Новий агент зможе виконувати широкий спектр повсякденних завдань для користувачів пристроїв Apple. Це свідчить про серйозні плани компанії наздогнати конкурентів у сфері генеративного ШІ.",
-      "ai_title": "Apple розробляє власний автономний ШI-агент для виконання складних завдань",
-      "video_keywords": "programmer typing, coding on screen, modern office, smartphone"
-    },
-    {
       "title": "What Comes After AGI?",
       "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
       "summary": "<p>Article URL: <a href=\"https://institute.deepmind.com/essays/what-comes-after-agi/\">https://institute.deepmind.com/essays/what-comes-after-agi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569519\">https://news.ycombinator.com/item?id=50569519</a></p>\n<p>Points: 19</p>\n<p># Comments: 15</p>",
@@ -22,13 +12,6 @@
       "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
       "summary": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/\">https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569516\">https://news.ycombinator.com/item?id=50569516</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
       "published": "2026-11-20T02:43:49+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "link": "https://github.com/openssl/openssl/pull/33652",
-      "summary": "<p>Article URL: <a href=\"https://github.com/openssl/openssl/pull/33652\">https://github.com/openssl/openssl/pull/33652</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569226\">https://news.ycombinator.com/item?id=50569226</a></p>\n<p>Points: 54</p>\n<p># Comments: 29</p>",
-      "published": "2026-11-20T02:01:09+00:00",
       "source": "Hacker News: Front Page"
     },
     {
@@ -150,6 +133,16 @@
       "ai_summary": "На зустрічі в Женеві дипломати ООН намагалися розробити правила використання так званих «роботів-вбивць». Проте переговори закінчилися безрезультатно, а представники лише домовилися продовжити обговорення опцій у майбутньому.",
       "ai_title": "ООН не змогла узгодити правила регулювання автономної зброї",
       "video_keywords": "military drone, futuristic robot, UN conference room, digital interface"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "link": "https://stulle.app/",
+      "summary": "<p>Article URL: <a href=\"https://stulle.app/\">https://stulle.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594911\">https://news.ycombinator.com/item?id=50594911</a></p>\n<p>Points: 26</p>\n<p># Comments: 7</p>",
+      "published": "2026-11-22T00:07:59+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розроблено незвичний симулятор приготування бутербродів, який привернув увагу користувачів мережі своєю просторою та кумедною механікою. Цей мініпроєкт демонструє креативний підхід до створення розважальних вебдодатків.",
+      "ai_title": "Симулятор бутерброда: новий інтерактивний веб-проєкт",
+      "video_keywords": "making sandwich, cutting bread, kitchen counter, food preparation"
     }
   ],
   "Бізнес / Стартапи": [
@@ -225,26 +218,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-      "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png\" /></p><p>Binance obtains court orders freezing assets stolen in October’s hack. Hong Kong warns citizens about ",
-      "published": "2026-11-19T22:25:18+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Біржа Binance отримала судові ордери на замороження активів, викрадених під час жовтневого хакерського нападу. Водночас регулятори Гонконгу випустили попередження для громадян щодо підозрілих криптовалютних проєктів.",
-      "ai_title": "Binance домагається заморожування активів на мільярди, а Гонконг б'є на сполох",
-      "video_keywords": "courtroom judge gavel, cryptocurrency exchange office, police computer screen"
-    },
-    {
-      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
-      "summary": "",
-      "published": "2026-11-20T03:32:30+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Перша криптовалюта оновила мінімальні позначки за останні чотири місяці через загальне просідання технологічного сектору фондового ринку. Настрої інвесторів погіршилися після виходу на біржу компанії Anthropic, що потягнуло за собою весь ринок ризикових активів.",
-      "ai_title": "Біткоїн впав до чотиримісячного мінімуму на тлі падіння техноакцій",
-      "video_keywords": "bitcoin chart, cryptocurrency crash, red numbers, stock market trading floor"
-    },
     {
       "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
       "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
