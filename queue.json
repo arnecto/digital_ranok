@@ -1,23 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "summary": "<p>Article URL: <a href=\"https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50597612\">https://news.ycombinator.com/item?id=50597612</a></p>\n<p>Points: 40</p>\n<p># Comments: 18</",
-      "published": "2026-11-22T08:57:34+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Згідно з новими даними, більша частина енергії для дата-центрів Anthropic у 2028 році надходитиме від природного газу (87%), тоді як на вугілля припадатиме 11%. Це підкреслює зростаючу залежність інфраструктури штучного інтелекту від викопного палива.",
-      "ai_title": "Енергопостачання Anthropic у 2028 році переважно залежатиме від газу та вугілля",
-      "video_keywords": "natural gas plant, industrial power station, smoke stacks, electricity generation"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "link": "https://openai.com/index/perplexity-and-intelligence/",
-      "summary": "<p>Article URL: <a href=\"https://openai.com/index/perplexity-and-intelligence/\">https://openai.com/index/perplexity-and-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50601525\">https://news.ycombinator.com/item?id=50601525</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
-      "published": "2026-11-22T17:06:27+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
       "title": "Ask HN: Are the trades a safe career transition?",
       "link": "https://news.ycombinator.com/item?id=50600771",
       "summary": "<p>I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged<p>I need a few decades of at least mild security to get to retirement...<p>Are the trades safe?<p>Im worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen b",
@@ -199,6 +182,16 @@
       "ai_summary": "Розробники представили альфа-реліз незалежного веббраузера Ladybird для macOS та Linux. Це перший за багато років браузер, який працює на абсолютно новому рушії, створеному з нуля за чотири роки розробки.",
       "ai_title": "Вийшла перша альфа-версія нового незалежного браузера Ladybird",
       "video_keywords": "computer monitor, scrolling website, web development, coding screen"
+    },
+    {
+      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+      "summary": "<p>Article URL: <a href=\"https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/\">https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50625888\">https://news.ycombinator.com/item?id=50625888</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+      "published": "2026-11-24T09:39:50+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Зниження вартості генерації токенів у великих мовних моделях може не принести очікуваних прибутків компаніям. Через зростання попиту загальні витрати на обладнання та інфраструктуру залишатимуться величезними, створюючи фінансові ризики для ринку.",
+      "ai_title": "Парадокс Джевонса в штучному інтелекті: дешеві токени не покридуть витрати на інфраструктуру",
+      "video_keywords": "datacenter, servers, computer chips, financial charts"
     }
   ],
   "Бізнес / Стартапи": [
@@ -261,16 +254,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korean exchanges halt CYBER transfers amid suspected bridge exploit\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8127PW0MX9AKGQ6Y4GQ51JX/hand-laptop-coin.png\" /></p><p>Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum",
-      "published": "2026-11-22T07:24:05+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Криптобіржі Південної Кореї призупинили введення та виведення токенів CYBER через можливий експлойт мосту. Команда проєкту повідомила про аномальну емісію токенів у мережі Solana та їхній подальший рух з Ethereum.",
-      "ai_title": "Південнокорейські біржі зупинили транзакції CYBER через підозру у ззломі",
-      "video_keywords": "smartphone crypto, hacker typing, cyber security, warning screen"
-    },
     {
       "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
       "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -339,6 +322,36 @@
       "ai_summary": "Співробітники CFTC опублікували нові роз'яснення, які дозволяють біржам зараховувати Bitcoin та Ethereum до своїх операційних резервів. Це рішення значно спрощує регуляторні вимоги для легальної роботи криптоплатформ.",
       "ai_title": "Регулятори США дозволили криптобіржам використовувати Bitcoin як резервний актив",
       "video_keywords": "financial chart, stock market screen, digital currency, trading floor"
+    },
+    {
+      "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+      "summary": "",
+      "published": "2026-11-24T10:08:38+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Вартість першої криптовалюти опустилася нижче психологічної позначки в 60 000 доларів. Це сталося після того, як позитивний імпульс від повернення акцій Nvidia на чолі з Дженсеном Хуангом почав згасати. Ринок демонструє підвищену волатильність на тлі загального тиску на ризикові активи.",
+      "ai_title": "Біткоїн впав нижче $60 000 на тлі ослаблення позитивного тренду",
+      "video_keywords": "cryptocurrency chart, red candles, stock market crash, falling graph"
+    },
+    {
+      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+      "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+      "summary": "",
+      "published": "2026-11-24T10:29:14+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Після місяців дебатів та суперечок фінансовий регулятор Південної Кореї офіційно підтримав випуск стейблкоїнів, які контролюватимуться комерційними банками. Це рішення відкриває шлях до легальнішого та безпечнішого використання цифрових активів у країні. Нові правила мають на меті захистити інвесторів та інтегрувати криптоіндустрію в традиційну фінансову систему.",
+      "ai_title": "Регулятори Південної Кореї схвалили стейблкоїни під контролем банків",
+      "video_keywords": "south korea flag, bank building, digital currency, financial district"
+    },
+    {
+      "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
+      "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+      "summary": "",
+      "published": "2026-11-24T10:55:30+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Фрмування BTCS вирішило ліквідувати понад половину своїх запасів Ethereum. Отримані кошти підуть на погашення значного боргу в розмірі 43,8 мільйона доларів перед протоколом децентралізованих фінансів Aave. Цей крок відображає тенденцію зниження ризиків серед криптокомпаній у періоди ринкової невизначеності.",
+      "ai_title": "Компанія BTCS продала більшу частину своїх ETH для погашення боргу",
+      "video_keywords": "ethereum coin, digital wallet, computer screen, trading terminal"
     }
   ]
 }

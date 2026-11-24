@@ -1,20 +1,4 @@
 {
-  "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/": {
-    "title": "Швидкість обробки GLM-5.3 досягла 607 токенів за секунду на серверах Nvidia",
-    "category": "IT / AI",
-    "posted_at": "2026-11-16T03:35:30.181316+02:00",
-    "summary": "Nvidia продемонструвала високу продуктивність моделі GLM-5.3, яка використовує дві станції DGX та бібліотеку vLLM. Таке рішення дозволяє досягти рекордної швидкості генерації тексту у понад 607 токенів за секунду.",
-    "video_keywords": "server room, data center, computer servers, blinking lights",
-    "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"
-  },
-  "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": {
-    "title": "Кладовище штучного інтелекту: стартапи та проєкти, які зазнали краху",
-    "category": "Бізнес / Стартапи",
-    "posted_at": "2026-11-16T10:34:28.161479+02:00",
-    "summary": "Аналіз найбільших провалів у сфері штучного інтелекту демонструє, чому амбітні проєкти закриваються або не виправдовують очікувань ринку. До списку невдах потрапили як розробки технологічних гігантів, так і гучні ініціативи стартапів.",
-    "video_keywords": "server room, data center, broken computer, corporate office",
-    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-  },
   "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound": {
     "title": "Південнокорейська біржа Coinone попереджає про фішинг після витоку даних",
     "category": "Крипта",
@@ -214,5 +198,13 @@
     "summary": "На криптовалютній біржі Kraken стався аномальний обвал курсу біткоїна до 17 000 доларів. Платформа заявила, що всі ордери були оброблені коректно, а ознак хакерської атаки чи зльому акаунтів не виявлено.",
     "video_keywords": "bitcoin chart, stock market crash, red candles, trading terminal",
     "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  "https://openai.com/index/perplexity-and-intelligence/": {
+    "title": "OpenAI випустила матеріали про розвиток штучного інтелекту та аналіз складних даних",
+    "category": "IT / AI",
+    "posted_at": "2026-11-24T12:57:07.286817+02:00",
+    "summary": "Компанія OpenAI опублікувала новий матеріал під назвою «Perplexity and Intelligence», присвячений питанням глибшого розуміння та генерації інформації моделями ШІ. Публікація викликала активне обговорення в технічній спільноті щодо еволюції сучасних алгоритмів. Цей крок є частиною стратегії компанії з відкритішого висвітлення своїх досліджень.",
+    "video_keywords": "server room, artificial intelligence, glowing data streams, computer screen",
+    "link": "https://openai.com/index/perplexity-and-intelligence/"
   }
 }
