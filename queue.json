@@ -1,46 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Agent swarm trying to solve P vs. NP",
-      "link": "https://pequalnp.com/",
-      "summary": "<p>Article URL: <a href=\"https://pequalnp.com/\">https://pequalnp.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604314\">https://news.ycombinator.com/item?id=50604314</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-      "published": "2026-11-22T21:53:45+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники залучають автономні рої штучного інтелекту для штурму однієї з найскладніших нерозв'язаних задач тисячоліття в інформатиці. Цей експеримент показує, як сучасні алгоритми намагаються впоратися з теоретичними обмеженнями обчислень. Результати можуть наблизити людство до розуміння меж можливостей ШІ.",
-      "ai_title": "Рої ШІ-агентів намагаються вирішити задачу P проти NP",
-      "video_keywords": "artificial intelligence, server rack, glowing code, futuristic computing"
-    },
-    {
-      "title": "We haven’t seen the last of the major tech outages",
-      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be [&#8230;]",
-      "published": "2026-11-22T22:48:02+00:00",
-      "source": "The Verge",
-      "ai_summary": "Після серії нещодавніх аварій у банківській сфері, поштових сервісах та авіації експерти прогнозують нові технологічні збої. Зростаюча складність глобальних IT-систем робить їх надзвичайно вразливими до каскадних відмов. Фахівці закликають компанії переглянути підходи до стійкості інфраструктури.",
-      "ai_title": "Експерти попереджають про нові масштабні збої в техногігантах",
-      "video_keywords": "server room, warning lights, stressed engineer, blinking monitors"
-    },
-    {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "link": "https://spelunkr.tv",
-      "summary": "<p>Article URL: <a href=\"https://spelunkr.tv\">https://spelunkr.tv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50606192\">https://news.ycombinator.com/item?id=50606192</a></p>\n<p>Points: 155</p>\n<p># Comments: 21</p>",
-      "published": "2026-11-23T01:13:51+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробники створили нову стрімінгову платформу, яка транслює забуті та раритетні відеозаписи з Інтернет-Архіву. Цей проєкт дає друге життя історичним кадрам, роблячи їх доступними для широкого глядача у форматі звичайного телебачення.",
-      "ai_title": "Безкоштовна телемережа зі старих архівних відео",
-      "video_keywords": "old television, cathode ray tube, retro TV, VHS tape"
-    },
-    {
-      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-      "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step [&#8230;]",
-      "published": "2026-11-23T03:00:00+00:00",
-      "source": "The Verge",
-      "ai_summary": "Компанія анонсувала новий колекційний гаджет під назвою Kodak SlideTag, який поєднує функції мініатюрної цифрової фоторамки та трекера. Пристрій дозволяє демонструвати власні знімки у будь-якому місці та легко відстежувати їхнє розташування.",
-      "ai_title": "Kodak випускає мініатюрну цифрову фоторамку з функцією трекера",
-      "video_keywords": "digital photo frame, tiny gadget, person holding keychain, smart tracker"
-    },
-    {
       "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
       "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness\">https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50610830\">https://news.ycombinator.com/item?id=50610830</a></p>\n<p>Points: 27</p>\n<p># Comments: 23</p>",
@@ -169,29 +129,59 @@
       "summary": "<p>Article URL: <a href=\"https://protocolis.co/paper/\">https://protocolis.co/paper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50632998\">https://news.ycombinator.com/item?id=50632998</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
       "published": "2026-11-24T19:12:02+00:00",
       "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "summary": "<p>Article URL: <a href=\"https://noahbuilt.it/writing/qwen-on-5600-lambdas\">https://noahbuilt.it/writing/qwen-on-5600-lambdas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50638070\">https://news.ycombinator.com/item?id=50638070</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-11-25T03:28:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Експеримент із розгортання штучного інтелекту Qwen на тисячах функцій AWS Lambda продемонстрував абсурдність такого підходу для подібних завдань. Автор на практиці показав, як технічно цікава ідея може призвести до величезних фінансових втрат замість економії.",
+      "ai_title": "Запуск моделі Qwen через AWS Lambdas обійшовся у величезні збитки",
+      "video_keywords": "server room, glowing server racks, computer code on screen"
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "summary": "<p>Article URL: <a href=\"https://rida.dev/blog/bypassing-ios-safari-60-fps-limit\">https://rida.dev/blog/bypassing-ios-safari-60-fps-limit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637890\">https://news.ycombinator.com/item?id=50637890</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+      "published": "2026-11-25T03:04:37+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробник поділився технікою подолання стандартного обмеження частоти кадрів у мобільному браузері Safari. Це дозволяє створювати вебдодатки, які за плавністю та відчуттями не поступаються нативним програмам для iPhone.",
+      "ai_title": "Як обійти ліміт 60 FPS у Safari на iOS заради швидких вебдодатків",
+      "video_keywords": "typing on smartphone, mobile app interface, scrolling touchscreen"
+    },
+    {
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "link": "https://www.proofatlas.ai/open-problems/",
+      "summary": "<p>Article URL: <a href=\"https://www.proofatlas.ai/open-problems/\">https://www.proofatlas.ai/open-problems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637871\">https://news.ycombinator.com/item?id=50637871</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "published": "2026-11-25T03:01:36+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Дослідники використали мовні моделі для ранжування невирішених математичних проблем за ступенем їхньої важливості. Такий підхід допомагає вченим зосередитися на найбільш перспективних напрямках фундаментальної науки.",
+      "ai_title": "Штучний інтелект оцінив важливість найскладніших математичних задач",
+      "video_keywords": "math equations on blackboard, scientific research, data visualization"
+    },
+    {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being\">https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637686\">https://news.ycombinator.com/item?id=50637686</a></p>\n<p>Points: 34</p>\n<p>",
+      "published": "2026-11-25T02:34:21+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Нові дослідження показують, що ізольовані штучні інтелекти можуть знайти приховані канали для комунікації через сервери висновків. Це відкриває нові виклики у сфері безпеки та контролю за автономними системами.",
+      "ai_title": "ШІ-моделі здатні спілкуватися всупереч системним обмеженням безпеки",
+      "video_keywords": "cyber security, binary code, server rack flashing lights"
+    },
+    {
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637220\">https://news.ycombinator.com/item?i",
+      "published": "2026-11-25T01:19:26+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У новій науковій роботі представлено покращену оцінку складності алгоритму множення матриць. Це фундаментальне досягнення здатне прискорити обчислення в багатьох галузях комп'ютерних наук та штучного інтелекту.",
+      "ai_title": "Новий прорив у швидкості множення матриць від дослідників",
+      "video_keywords": "abstract numbers moving, digital data streams, supercomputer glowing"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "published": "2026-11-22T21:14:07+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Головний науковець компанії висловився про необхідність запровадження регулювань дляподій у сфері ШІ. Проте головним викликом залишається відсутність єдиної методики вимірювання темпів розвитку новітніх технологій.",
-      "ai_title": "В OpenAI пропонують обмежити швидкість розвитку штучного інтелекту",
-      "video_keywords": "server room, data center, computer code, futuristic interface"
-    },
-    {
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-      "published": "2026-11-23T01:25:53+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Провідні венчурні фонди Notable Capital, GIC та Baillie Gifford поділилися причинами своєї впевненості у мільярдних інвестиціях в стартап Anthropic. Їхня стратегія демонструє високу віру у потенціал компанії на тлі буму штучного інтелекту ще до офіційного виходу на IPO.",
-      "ai_title": "Як інвестори поставили мільярди на Anthropic до її виходу на біржу",
-      "video_keywords": "business meeting, handshake, modern office, corporate boardroom"
-    },
     {
       "title": "Figma employee sues, alleging company forced her to confront harassers",
       "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
@@ -211,27 +201,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
-      "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8341FZ3Y20X594GP00EB6TG/hi-what-the-feds-rate-cut-means-for-crypto-markets-2.jpg\" /></p><p>Markets and economists widely expect the US Federal Reserve to raise in",
-      "published": "2026-11-23T02:47:39+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
-      "link": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Half of wallets on Trump’s dinner list got tokens from non-US exchanges\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82Y4PMA2YN6DTA00JY4GVH4/hi-crypto-charts-101-how-to-read-cryptocurrency-charts-trump.jpg\" /></p><p>Public Citizen traced 66 of 130 qualifying wallets to exchanges ",
-      "published": "2026-11-23T00:53:49+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Live updates: Tech futures rebound more than 3% as dollar index tops 104, a 20-month high",
-      "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
-      "summary": "",
-      "published": "2026-11-23T13:01:20+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
     {
       "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
       "link": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
@@ -344,6 +313,16 @@
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png\" /></p><p>The tokenized fund launched with approximately $100 million in asset",
       "published": "2026-11-24T18:07:22+00:00",
       "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+      "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CleanSpark weighs selling more Bitcoin than it mines to de-risk books\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg\" /></p><p>The Bitcoin miner sold 2,102 BTC while it produced just 1,708 ",
+      "published": "2026-11-25T01:40:59+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Компанія CleanSpark розглядає можливість продавати більше біткоїнів, ніж видобуває, щоб знизити фінансові ризики. Нещодавно майнер уже продав 2,102 BTC, видобувши при цьому лише 1,708 монет.",
+      "ai_title": "Майнер CleanSpark розглядає продаж біткоїнів понад обсяги видобутку",
+      "video_keywords": "bitcoin mining farm, cryptocurrency servers, digital currency finance, computer server room"
     }
   ]
 }
