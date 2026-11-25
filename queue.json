@@ -1,26 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "summary": "<p>Article URL: <a href=\"https://stalw.art/blog/microsoft-exchange-replacement/\">https://stalw.art/blog/microsoft-exchange-replacement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50620349\">https://news.ycombinator.com/item?id=50620349</a></p>\n<p>Points: 170</p>\n<p># Comments: 92</p>",
-      "published": "2026-11-23T22:32:29+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Проєкт Stalwart випустив оновлення, яке дозволяє використовувати його як пряму заміну поштовому серверу Microsoft Exchange. Це рішення розроблене для компаній, які шукають відкриті та надійні альтернативи корпоративним стандартам зв'язку.",
-      "ai_title": "Stalwart став прямою заставою для Microsoft Exchange",
-      "video_keywords": "server rack, datacenter, blinking lights, computer screen code"
-    },
-    {
-      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-      "link": "https://arxiv.org/abs/2602.20031",
-      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.20031\">https://arxiv.org/abs/2602.20031</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50620328\">https://news.ycombinator.com/item?id=50620328</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
-      "published": "2026-11-23T22:29:48+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нове наукове дослідження показує, що великі мовні моделі (LLM) володіють здібностями до латентної інтроспекції. Вони здатні самостійно виявляти попередні маніпуляції та ін'єкції концептів у своїй пам'яті.",
-      "ai_title": "Штучний інтелект здатний виявляти приховані ін'єкції понять",
-      "video_keywords": "abstract digital brain, glowing neural network, server room, data visualization"
-    },
-    {
       "title": "Google alternative Kagi launches an email service",
       "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
       "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [&#8230;]",
@@ -29,16 +9,6 @@
       "ai_summary": "Компанія Kagi, відома своєю платною пошуковою системою та браузером Orion, представила публічну бета-версію поштового сервісу Kagi Mail. Новий продукт позиціонується як приватна та безпечна альтернатива Gmail без реклами та прихованого стеження.",
       "ai_title": "Альтернатива Google: Kagi запускає власний поштовий сервіс",
       "video_keywords": "typing on laptop, smartphone screen, clean desk setup, modern office"
-    },
-    {
-      "title": "Ladybird, the first new browser engine in years, is now available to test",
-      "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. [&#8230;]",
-      "published": "2026-11-23T22:38:09+00:00",
-      "source": "The Verge",
-      "ai_summary": "Розробники представили альфа-реліз незалежного веббраузера Ladybird для macOS та Linux. Це перший за багато років браузер, який працює на абсолютно новому рушії, створеному з нуля за чотири роки розробки.",
-      "ai_title": "Вийшла перша альфа-версія нового незалежного браузера Ladybird",
-      "video_keywords": "computer monitor, scrolling website, web development, coding screen"
     },
     {
       "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
@@ -169,26 +139,44 @@
       "summary": "Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably smaller — the Xteink X4 Classic is in a league of its own. Thankfully, the tiny [&#8230;]",
       "published": "2026-11-25T14:00:00+00:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "link": "https://github.com/lsernau/grh-lean",
+      "summary": "<p>Article URL: <a href=\"https://github.com/lsernau/grh-lean\">https://github.com/lsernau/grh-lean</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648050\">https://news.ycombinator.com/item?id=50648050</a></p>\n<p>Points: 134</p>\n<p># Comments: 50</p>",
+      "published": "2026-11-25T21:48:10+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Defang Security Incident",
+      "link": "https://defang.io/blog/post/security-incident-november-2026/",
+      "summary": "<p>Article URL: <a href=\"https://defang.io/blog/post/security-incident-november-2026/\">https://defang.io/blog/post/security-incident-november-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648035\">https://news.ycombinator.com/item?id=50648035</a></p>\n<p>Points: 36</p>\n<p># Comments: 12</p>",
+      "published": "2026-11-25T21:47:16+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "summary": "<p>Article URL: <a href=\"https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/\">https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647673\">https://news.ycombinator.com/item?id=50647673</a></p>\n<p>Points: 77</p>\n<p># Comments: 35</p>",
+      "published": "2026-11-25T21:18:02+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "summary": "<p>Article URL: <a href=\"https://www.openwall.com/lists/oss-security/2026/11/25/9\">https://www.openwall.com/lists/oss-security/2026/11/25/9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647181\">https://news.ycombinator.com/item?id=50647181</a></p>\n<p>Points: 65</p>\n<p># Comments: 23</p>",
+      "published": "2026-11-25T20:38:00+00:00",
+      "source": "Hacker News: Front Page"
+    },
+    {
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "summary": "<p>Article URL: <a href=\"https://opensec.in/blog/nfs2root-cve-2026-99362\">https://opensec.in/blog/nfs2root-cve-2026-99362</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647161\">https://news.ycombinator.com/item?id=50647161</a></p>\n<p>Points: 51</p>\n<p># Comments: 13</p>",
+      "published": "2026-11-25T20:35:50+00:00",
+      "source": "Hacker News: Front Page"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Figma employee sues, alleging company forced her to confront harassers",
-      "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
-      "published": "2026-11-23T23:07:49+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-      "published": "2026-11-24T18:30:42+00:00",
-      "source": "TechCrunch",
-      "ai_summary": "Вартість акцій Anthropic опустилася нижче рівня первинного розміщення на біржі. Ця тенденція може негативно вплинути на оцінку інших штучний інтелект стартапів та змінити ситуацію на ринку венчурного капіталу.",
-      "ai_title": "Акції Anthropic впали нижче ціни IPO",
-      "video_keywords": "stock market chart, falling graphs, trading floor, business failure"
-    },
     {
       "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
       "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
@@ -208,6 +196,20 @@
       "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
       "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
       "published": "2026-11-25T13:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "published": "2026-11-25T22:44:32+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "published": "2026-11-25T20:56:44+00:00",
       "source": "TechCrunch"
     }
   ],
@@ -340,6 +342,27 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
       "published": "2026-11-25T13:26:05+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+      "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Switzerland clears 57 jurisdictions for crypto tax data sharing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A4536P99DZ11ZD4K1M4RQA/hi-how-to-file-crypto-taxes-in-the-us.png\" /></p><p>The move paves the way for Switzerland to exchange crypto tax data with foreign authorities sta",
+      "published": "2026-11-25T21:53:38+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Braiins warns of Bitcoin mining attacks affecting over 1,000 sites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stolen-funds.jpg\" /></p><p>Bitcoin mining pool operator Braiins warned that attackers are exploiting unse",
+      "published": "2026-11-25T21:22:19+00:00",
+      "source": "Cointelegraph.com News"
+    },
+    {
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+      "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why ECB collateral eligibility could boost demand for tokenized bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-digital-euro-man-up.jpg\" /></p><p>Past ECB decisions offer clues to the value of using bonds as collateral, while US derivat",
+      "published": "2026-11-25T21:11:39+00:00",
       "source": "Cointelegraph.com News"
     }
   ]
