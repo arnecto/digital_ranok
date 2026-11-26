@@ -1,34 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Ternary Bonsai 2.5 27B",
-      "link": "https://prismml.com/news/bonsai-2-5-27b",
-      "summary": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-2-5-27b\">https://prismml.com/news/bonsai-2-5-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50633922\">https://news.ycombinator.com/item?id=50633922</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
-      "published": "2026-11-24T20:08:03+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-      "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-      "summary": "<p>Article URL: <a href=\"https://andlukyane.com/blog/cayley-graphs-and-torchtpu\">https://andlukyane.com/blog/cayley-graphs-and-torchtpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50633424\">https://news.ycombinator.com/item?id=50633424</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
-      "published": "2026-11-24T19:40:43+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-      "link": "https://grafana.com/grafana/download",
-      "summary": "<p>Article URL: <a href=\"https://grafana.com/grafana/download\">https://grafana.com/grafana/download</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50633159\">https://news.ycombinator.com/item?id=50633159</a></p>\n<p>Points: 67</p>\n<p># Comments: 14</p>",
-      "published": "2026-11-24T19:23:44+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Compiling web applications into verified operations for AI agents",
-      "link": "https://protocolis.co/paper/",
-      "summary": "<p>Article URL: <a href=\"https://protocolis.co/paper/\">https://protocolis.co/paper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50632998\">https://news.ycombinator.com/item?id=50632998</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
-      "published": "2026-11-24T19:12:02+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
       "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
       "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
       "summary": "<p>Article URL: <a href=\"https://noahbuilt.it/writing/qwen-on-5600-lambdas\">https://noahbuilt.it/writing/qwen-on-5600-lambdas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50638070\">https://news.ycombinator.com/item?id=50638070</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
@@ -178,16 +150,19 @@
       "ai_summary": "Зростання температур до 45°C на вході в сервери створює критичне навантаження на сучасні системи охолодження дата-центрів. Багато компаній поки не усвідомлюють масштаб цієї проблеми, яка може призвести до масових збоїв в обладнанні. Експерти попереджають про необхідність термінової модернізації інфраструктури для запобігання перегріву.",
       "ai_title": "Аномальна спека в дата-центрах ставить під загрозу системи охолодження",
       "video_keywords": "server room, data center, cooling system, overheating computer"
+    },
+    {
+      "title": "AI made self-hosting fun again",
+      "link": "https://janlukas.blog/posts/ai-self-hosting",
+      "summary": "<p>Article URL: <a href=\"https://janlukas.blog/posts/ai-self-hosting\">https://janlukas.blog/posts/ai-self-hosting</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50660180\">https://news.ycombinator.com/item?id=50660180</a></p>\n<p>Points: 163</p>\n<p># Comments: 94</p>",
+      "published": "2026-11-26T21:47:45+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розвиток штучного інтелекту знову зробив самостійне розгортання та хостинг серверів захопливим і доступним заняттям. Ентузіасти знаходять нові способи запускати та керувати власними AI-моделями вдома.",
+      "ai_title": "Штучний інтелект повернув інтерес до локального хостингу",
+      "video_keywords": "server rack, blinking lights, computer screen, developer typing"
     }
   ],
   "Бізнес / Стартапи": [
-    {
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "published": "2026-11-25T14:10:18+00:00",
-      "source": "TechCrunch"
-    },
     {
       "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
       "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
@@ -218,41 +193,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Utah moves to dismiss criminal charges against Kalshi after trading halt\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87J6N3Z9XVM655E8KKXZ6HP/court-vs-kalshi.png\" /></p><p>Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in th",
-      "published": "2026-11-24T20:48:27+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-      "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/10/01M51V1P8ZQ063ADC4P2T050NT/market-red-graph-falling-danger-stones-bitcoin-4.jpg\" /></p><p>The crypto asset manager warned that Bitcoin’s downturn could persist amid wea",
-      "published": "2026-11-24T19:44:23+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-      "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87AWRBC8FGN1Y9J8122FYZF/thief-bitcoin-1280x854.webp\" /></p><p>Coldcard maker Coinkite explained why years of security checks failed to catch the flaw and said it",
-      "published": "2026-11-24T19:04:26+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "CFTC sets new prediction market rules as more firms seek US entry",
-      "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC sets new prediction market rules as more firms seek US entry\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg\" /></p><p>The US regulator has approved permanent reporting rules for certain event contracts as more companie",
-      "published": "2026-11-24T18:31:42+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-      "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png\" /></p><p>The tokenized fund launched with approximately $100 million in asset",
-      "published": "2026-11-24T18:07:22+00:00",
-      "source": "Cointelegraph.com News"
-    },
     {
       "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
       "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -388,6 +328,36 @@
       "ai_summary": "Співзасновник Ethereum попередив про зростання ризиків для апаратних гаманців. Він наголосив на необхідності використання повністю прозорих чіпів для захисту від прихованих кібератак.",
       "ai_title": "Віталік Бутерін закликав до створення перевірюваних чіпів безпеки",
       "video_keywords": "microchip on circuit board, engineer soldering, magnifying glass electronics, glowing computer processor"
+    },
+    {
+      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+      "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance completes withdrawal recovery four weeks after $6.3B hack\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CRF7Q3J730C588BDSC03H1/hi-why-has-central-bank-of-brazil-included-crypto-assets-in-trade-balance-new-2.png\" /></p><p>The announcement concludes a phased withdrawal reco",
+      "published": "2026-11-26T21:33:47+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптовалютна біржа Binance успішно завершила процес відновлення функцій виведення активів через чотири тижні після масштабного злому на 6,3 мільярда доларів. Це значний крок до стабілізації роботи платформи та повернення повної довіри користувачів після однієї з найбільших кібератак в індустрії.",
+      "ai_title": "Binance відновила виведення коштів після мащабного хакерського злому",
+      "video_keywords": "cryptocurrency exchange, digital screen, financial trading, data security"
+    },
+    {
+      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+      "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNB Chain details new layer-1 for trading, private finance and AI\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CNTJ5QY7JX07X77DZB8QA2/hi-malaysian-gvnt-backed-coin-1st-coin-to-fund-political-campaigns3.png\" /></p><p>\nThe proposed network will operate alongside BNB Smart Chain an",
+      "published": "2026-11-26T21:42:43+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Команда BNB Chain представила концепцію нової мережі першого рівня, яка буде орієнтована на торгові операції, конфіденційні фінанси та проєкти зі штучного інтелекту. Цей блокчейн функціонуватиме паралельно з уже існуючою мережею BNB Smart Chain для розширення її можливостей.",
+      "ai_title": "BNB Chain анонсувала новий блокчейн першого рівня для торгівлі та штучного інтелекту",
+      "video_keywords": "blockchain technology, server rack, digital network, glowing lines"
+    },
+    {
+      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+      "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK is ‘getting it wrong’ on DeFi regulation, says Coinbase\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CJBJZM1MK2FZDDPQ6PK8RE/token-character-pushing-gavel.png\" /></p><p>Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulat",
+      "published": "2026-11-26T21:13:53+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Представники біржі Coinbase та організації Stand With Crypto заявляють, що регуляторні ініціативи Великої Британії щодо децентралізованих фінансів є помилковими. На їхню думку, нові правила від FCA можуть залишити британських користувачів без належного захисту та витіснити інновації з країни.",
+      "ai_title": "Coinbase критикує підхід Великої Британії до регулювання DeFi",
+      "video_keywords": "london parliament, legal gavel, financial district, businessman talking"
     }
   ]
 }
