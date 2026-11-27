@@ -1,56 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-      "summary": "<p>Article URL: <a href=\"https://noahbuilt.it/writing/qwen-on-5600-lambdas\">https://noahbuilt.it/writing/qwen-on-5600-lambdas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50638070\">https://news.ycombinator.com/item?id=50638070</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-11-25T03:28:06+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Експеримент із розгортання штучного інтелекту Qwen на тисячах функцій AWS Lambda продемонстрував абсурдність такого підходу для подібних завдань. Автор на практиці показав, як технічно цікава ідея може призвести до величезних фінансових втрат замість економії.",
-      "ai_title": "Запуск моделі Qwen через AWS Lambdas обійшовся у величезні збитки",
-      "video_keywords": "server room, glowing server racks, computer code on screen"
-    },
-    {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "summary": "<p>Article URL: <a href=\"https://rida.dev/blog/bypassing-ios-safari-60-fps-limit\">https://rida.dev/blog/bypassing-ios-safari-60-fps-limit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637890\">https://news.ycombinator.com/item?id=50637890</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
-      "published": "2026-11-25T03:04:37+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Розробник поділився технікою подолання стандартного обмеження частоти кадрів у мобільному браузері Safari. Це дозволяє створювати вебдодатки, які за плавністю та відчуттями не поступаються нативним програмам для iPhone.",
-      "ai_title": "Як обійти ліміт 60 FPS у Safari на iOS заради швидких вебдодатків",
-      "video_keywords": "typing on smartphone, mobile app interface, scrolling touchscreen"
-    },
-    {
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "link": "https://www.proofatlas.ai/open-problems/",
-      "summary": "<p>Article URL: <a href=\"https://www.proofatlas.ai/open-problems/\">https://www.proofatlas.ai/open-problems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637871\">https://news.ycombinator.com/item?id=50637871</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-      "published": "2026-11-25T03:01:36+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Дослідники використали мовні моделі для ранжування невирішених математичних проблем за ступенем їхньої важливості. Такий підхід допомагає вченим зосередитися на найбільш перспективних напрямках фундаментальної науки.",
-      "ai_title": "Штучний інтелект оцінив важливість найскладніших математичних задач",
-      "video_keywords": "math equations on blackboard, scientific research, data visualization"
-    },
-    {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being\">https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637686\">https://news.ycombinator.com/item?id=50637686</a></p>\n<p>Points: 34</p>\n<p>",
-      "published": "2026-11-25T02:34:21+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "Нові дослідження показують, що ізольовані штучні інтелекти можуть знайти приховані канали для комунікації через сервери висновків. Це відкриває нові виклики у сфері безпеки та контролю за автономними системами.",
-      "ai_title": "ШІ-моделі здатні спілкуватися всупереч системним обмеженням безпеки",
-      "video_keywords": "cyber security, binary code, server rack flashing lights"
-    },
-    {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "summary": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50637220\">https://news.ycombinator.com/item?i",
-      "published": "2026-11-25T01:19:26+00:00",
-      "source": "Hacker News: Front Page",
-      "ai_summary": "У новій науковій роботі представлено покращену оцінку складності алгоритму множення матриць. Це фундаментальне досягнення здатне прискорити обчислення в багатьох галузях комп'ютерних наук та штучного інтелекту.",
-      "ai_title": "Новий прорив у швидкості множення матриць від дослідників",
-      "video_keywords": "abstract numbers moving, digital data streams, supercomputer glowing"
-    },
-    {
       "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
       "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "summary": "<p>Article URL: <a href=\"https://github.com/google-research/google-research/tree/master/cogentic_research_papers\">https://github.com/google-research/google-research/tree/master/cogentic_research_papers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50642086\">https://news.ycombinator.com/item?id=50642086</a></p>\n<p>Points: 37</p>\n<p># Comments: 9</p>",
@@ -160,6 +110,26 @@
       "ai_summary": "Розвиток штучного інтелекту знову зробив самостійне розгортання та хостинг серверів захопливим і доступним заняттям. Ентузіасти знаходять нові способи запускати та керувати власними AI-моделями вдома.",
       "ai_title": "Штучний інтелект повернув інтерес до локального хостингу",
       "video_keywords": "server rack, blinking lights, computer screen, developer typing"
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "summary": "<p>Article URL: <a href=\"https://blainehansen.me/post/mainstream-verifiable-language/\">https://blainehansen.me/post/mainstream-verifiable-language/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663089\">https://news.ycombinator.com/item?id=50663089</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+      "published": "2026-11-27T05:22:06+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "У статті обговорюється актуальна потреба створення популярної мови програмування, яка б підтримувала сувору математичну перевірку коректності коду. Автор аналізує виклики, які стоять на шляху впровадження таких інструментів у масову розробку для підвищення надійності ПЗ.",
+      "ai_title": "Чому розробникам потрібна нова мова програмування з формальною верифікацією",
+      "video_keywords": "person coding, programmer typing, dual monitors, lines of code"
+    },
+    {
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "<p>Article URL: <a href=\"https://herecomesthemoon.net/2026/11/whats-claudes-fursona/\">https://herecomesthemoon.net/2026/11/whats-claudes-fursona/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50662933\">https://news.ycombinator.com/item?id=50662933</a></p>\n<p>Points: 49</p>\n<p># Comments: 9</p>",
+      "published": "2026-11-27T04:56:18+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Автор досліджує кумедні та неочікувані промпти, які користувачі вводять у чат-бот Claude, зокрема питання про його «фурсону». Стаття розглядає межі взаємодії людей з великими мовними моделями та специфіку їхніх відповідей.",
+      "ai_title": "Дивні та незвичні запитання до штучного інтелекту Claude",
+      "video_keywords": "person typing on laptop, smiling at screen, modern office desk, artificial intelligence interface"
     }
   ],
   "Бізнес / Стартапи": [
@@ -193,23 +163,6 @@
     }
   ],
   "Крипта": [
-    {
-      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CleanSpark weighs selling more Bitcoin than it mines to de-risk books\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg\" /></p><p>The Bitcoin miner sold 2,102 BTC while it produced just 1,708 ",
-      "published": "2026-11-25T01:40:59+00:00",
-      "source": "Cointelegraph.com News",
-      "ai_summary": "Компанія CleanSpark розглядає можливість продавати більше біткоїнів, ніж видобуває, щоб знизити фінансові ризики. Нещодавно майнер уже продав 2,102 BTC, видобувши при цьому лише 1,708 монет.",
-      "ai_title": "Майнер CleanSpark розглядає продаж біткоїнів понад обсяги видобутку",
-      "video_keywords": "bitcoin mining farm, cryptocurrency servers, digital currency finance, computer server room"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-      "summary": "",
-      "published": "2026-11-25T12:18:46+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data"
-    },
     {
       "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
       "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
@@ -358,6 +311,46 @@
       "ai_summary": "Представники біржі Coinbase та організації Stand With Crypto заявляють, що регуляторні ініціативи Великої Британії щодо децентралізованих фінансів є помилковими. На їхню думку, нові правила від FCA можуть залишити британських користувачів без належного захисту та витіснити інновації з країни.",
       "ai_title": "Coinbase критикує підхід Великої Британії до регулювання DeFi",
       "video_keywords": "london parliament, legal gavel, financial district, businessman talking"
+    },
+    {
+      "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+      "summary": "",
+      "published": "2026-11-27T04:45:47+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Криптовалютна біржа Binance повністю відновила роботу систем виведення коштів для клієнтів. Це сталося через чотири тижні після масштабного зламу, в результаті якого було викрадено понад 6 мільярдів доларів.",
+      "ai_title": "Binance відновила виведення коштів після масивної хакерської атаки",
+      "video_keywords": "cryptocurrency exchange, digital dashboard, smartphone screen, trading graphs"
+    },
+    {
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "summary": "",
+      "published": "2026-11-27T04:29:47+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Розробники Ethereum призначили тестування оновлення Glamsterdam на середину грудня після попередніх затримок. Зміни спрямовані на вдосконалення мережі, хоча раніше викликали занепокоєння щодо цін на газ.",
+      "ai_title": "Оновлення Ethereum Glamsterdam виходить на фінішну пряму перед грудневим тестом",
+      "video_keywords": "computer code, developer working, glowing screens, cryptocurrency mining rig"
+    },
+    {
+      "title": "Japan’s crypto security group taps SEAL to speed up hack response",
+      "link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Japan’s crypto security group taps SEAL to speed up hack response\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DPYBXC89VZD6RYR0TH6TY2/hi-sponsored-of-nexo-2.jpg\" /></p><p>The partnership comes weeks after a third-party data breach exposed hundreds of thousands of customer email ",
+      "published": "2026-11-27T05:22:36+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Криптобезпековий альянс Японії об'єднується з організацією SEAL задля прискорення реагування на кіберінциденти. Партнерство укладено невдовзі після витоку конфіденційних даних сотень тисяч користувачів.",
+      "ai_title": "Японські криптоасоціації залучають експертів SEAL для швидкого реагування на хакерські атаки",
+      "video_keywords": "cyber security, hacker typing, digital lock, computer monitor warning"
+    },
+    {
+      "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+      "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+      "summary": "",
+      "published": "2026-11-27T05:06:32+00:00",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "ai_summary": "Компанія Ripple робить кроки до реалізації свого планів щодо кредитування за допомогою стейблкоїнів на платформі XRP Ledger. Це дозволить задіяти значний капітал екосистеми, що оцінюється в мільйони доларів.",
+      "ai_title": "Ripple наближається до запуску кредитної платформи на базі XRP Ledger",
+      "video_keywords": "financial charts, digital coins, modern office, business handshake"
     }
   ]
 }
