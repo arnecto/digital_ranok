@@ -1,34 +1,6 @@
 {
   "IT / AI": [
     {
-      "title": "Defang Security Incident",
-      "link": "https://defang.io/blog/post/security-incident-november-2026/",
-      "summary": "<p>Article URL: <a href=\"https://defang.io/blog/post/security-incident-november-2026/\">https://defang.io/blog/post/security-incident-november-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648035\">https://news.ycombinator.com/item?id=50648035</a></p>\n<p>Points: 36</p>\n<p># Comments: 12</p>",
-      "published": "2026-11-25T21:47:16+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "The New York Times tells photographers not to use the latest Photoshop",
-      "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
-      "summary": "<p>Article URL: <a href=\"https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/\">https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647673\">https://news.ycombinator.com/item?id=50647673</a></p>\n<p>Points: 77</p>\n<p># Comments: 35</p>",
-      "published": "2026-11-25T21:18:02+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Slow Ubuntu security response times",
-      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "summary": "<p>Article URL: <a href=\"https://www.openwall.com/lists/oss-security/2026/11/25/9\">https://www.openwall.com/lists/oss-security/2026/11/25/9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647181\">https://news.ycombinator.com/item?id=50647181</a></p>\n<p>Points: 65</p>\n<p># Comments: 23</p>",
-      "published": "2026-11-25T20:38:00+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "summary": "<p>Article URL: <a href=\"https://opensec.in/blog/nfs2root-cve-2026-99362\">https://opensec.in/blog/nfs2root-cve-2026-99362</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50647161\">https://news.ycombinator.com/item?id=50647161</a></p>\n<p>Points: 51</p>\n<p># Comments: 13</p>",
-      "published": "2026-11-25T20:35:50+00:00",
-      "source": "Hacker News: Front Page"
-    },
-    {
       "title": "Qualcomm's Oryon 3 Reaches the Top",
       "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
       "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top\">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651158\">https://news.ycombinator.com/item?id=50651158</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
@@ -138,56 +110,60 @@
       "ai_summary": "Компанія Keychron випустила доступну ігрову мишу з магнітними перемикачами, яка створена як дешева альтернатива флагманським пристроям Logitech. Попри інноваційні технології та привабливу ціну, гаджет має один суттєвий недолік у конструкції.",
       "ai_title": "Нова ігрова миша від Keychron претендує на конкуренцію з Logitech",
       "video_keywords": "gaming mouse, computer keyboard, gaming setup, RGB lights"
-    }
-  ],
-  "Бізнес / Стартапи": [
-    {
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-      "published": "2026-11-25T22:44:32+00:00",
-      "source": "TechCrunch"
     },
     {
-      "title": "FCC approves SpaceX plan to put AI data centers in space",
-      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-      "published": "2026-11-25T20:56:44+00:00",
-      "source": "TechCrunch"
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "<p>Article URL: <a href=\"https://research.google/blog/supercharging-transformer-residual-connections/\">https://research.google/blog/supercharging-transformer-residual-connections/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672565\">https://news.ycombinator.com/item?id=50672565</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+      "published": "2026-11-27T23:06:29+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Компанія Google розробила новий метод DeepCrossAttention, який дозволяє значно прискорити роботу моделей штучного інтелекту без втрати їхньої якості. Цей підхід покращує обробку даних у нейромережах, роблячи їх продуктивнішими до трьох разів.",
+      "ai_title": "Google представила алгоритм DeepCrossAttention для прискорення штучного інтелекту",
+      "video_keywords": "artificial intelligence, server room, computer screen, data center"
+    },
+    {
+      "title": "Why drivers want cheap, dumb cars again",
+      "link": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
+      "summary": "<p>Article URL: <a href=\"https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html\">https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672762\">https://news.ycombinator.com/item?id=50672762</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+      "published": "2026-11-27T23:39:15+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "На тлі перенасичення сучасних машин складними сенсорними екранами та зайвою електронікою зростає попит на базові авто. Водії втомлюються від постійних збоїв софту та шукають надійність у мінімалізмі.",
+      "ai_title": "Чому водії знову обирають прості та дешеві автомобілі",
+      "video_keywords": "driving old car, dashboard, steering wheel, road trip"
+    },
+    {
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "link": "https://tabernet.es/",
+      "summary": "<p>Article URL: <a href=\"https://tabernet.es/\">https://tabernet.es/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672521\">https://news.ycombinator.com/item?id=50672521</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+      "published": "2026-11-27T23:00:30+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Розробники створили незвичний проєкт, який перетворює звичайні вкладки інтернет-браузера на повноцінні вузли кластера Kubernetes. Це експериментальне рішення демонструє нові підходи до розподілених обчислень.",
+      "ai_title": "Tabernetes: кластер Kubernetes, де вузлами є вкладки браузера",
+      "video_keywords": "web browser, laptop screen, typing code, programmer working"
+    },
+    {
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "link": "https://progrium.github.io/9ux/",
+      "summary": "<p>Article URL: <a href=\"https://progrium.github.io/9ux/\">https://progrium.github.io/9ux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672008\">https://news.ycombinator.com/item?id=50672008</a></p>\n<p>Points: 48</p>\n<p># Comments: 9</p>",
+      "published": "2026-11-27T21:48:14+00:00",
+      "source": "Hacker News: Front Page",
+      "ai_summary": "Ентузіасти створили ностальгійний десктопний інтерфейс 9/UX, натхнений легендарними комп'ютерами Macintosh для системи 9front. Проєкт поєднує ретро-дизайн із сучасними можливостями операційних систем.",
+      "ai_title": "9/UX: новий інтерфейс у стилі класичного Macintosh",
+      "video_keywords": "vintage computer, retro tech, old monitor, typing keyboard"
+    },
+    {
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "link": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called the BYD Whale, [&#8230;]",
+      "published": "2026-11-28T00:02:49+00:00",
+      "source": "The Verge",
+      "ai_summary": "Компанія BYD представила новий електричний мінівен у яскравому кольорі, здатний подолати до 900 кілометрів на одному заряді. Автомобіль поєднує місткий салон для пасажирів та передові акумуляторні технології.",
+      "ai_title": "Китайський мінівен на електротязі вражає запасом ходу",
+      "video_keywords": "electric car, charging station, futuristic vehicle, driving highway"
     }
   ],
+  "Бізнес / Стартапи": [],
   "Крипта": [
-    {
-      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
-      "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Switzerland clears 57 jurisdictions for crypto tax data sharing\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A4536P99DZ11ZD4K1M4RQA/hi-how-to-file-crypto-taxes-in-the-us.png\" /></p><p>The move paves the way for Switzerland to exchange crypto tax data with foreign authorities sta",
-      "published": "2026-11-25T21:53:38+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
-      "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Braiins warns of Bitcoin mining attacks affecting over 1,000 sites\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stolen-funds.jpg\" /></p><p>Bitcoin mining pool operator Braiins warned that attackers are exploiting unse",
-      "published": "2026-11-25T21:22:19+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
-      "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Why ECB collateral eligibility could boost demand for tokenized bonds\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-digital-euro-man-up.jpg\" /></p><p>Past ECB decisions offer clues to the value of using bonds as collateral, while US derivat",
-      "published": "2026-11-25T21:11:39+00:00",
-      "source": "Cointelegraph.com News"
-    },
-    {
-      "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-      "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-      "summary": "",
-      "published": "2026-11-26T04:46:01+00:00",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "ai_summary": "Законопроєкт про створення стратегічного біткоїн-резерву США просунувся до розгляду в Палаті представників. Ініціатива передбачає блокування урядових криптовалютних активів терміном на два десятиліття.",
-      "ai_title": "У США пропонують заморозити державний біткоїн на 20 років",
-      "video_keywords": "bitcoin coins, us capitol building, digital currency, financial charts"
-    },
     {
       "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
       "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -317,6 +293,16 @@
       "ai_summary": "Компанія Ripple робить кроки до реалізації свого планів щодо кредитування за допомогою стейблкоїнів на платформі XRP Ledger. Це дозволить задіяти значний капітал екосистеми, що оцінюється в мільйони доларів.",
       "ai_title": "Ripple наближається до запуску кредитної платформи на базі XRP Ledger",
       "video_keywords": "financial charts, digital coins, modern office, business handshake"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Here’s what happened in crypto today\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" /></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 ",
+      "published": "2026-11-27T22:12:51+00:00",
+      "source": "Cointelegraph.com News",
+      "ai_summary": "Огляд найважливіших новин та подій у світі криптовалют за сьогодні. Аналіз ключових трендів, які впливають на курс Біткоїна, розвиток блокчейн-технологій, DeFi та Web3.",
+      "ai_title": "Головні події на криыторинку за день",
+      "video_keywords": "bitcoin chart, cryptocurrency trading, digital screens, stock market"
     }
   ]
 }
